@@ -1,9 +1,41 @@
 {
-  "updated": "2026-06-25T22:15:55.828Z",
+  "updated": "2026-06-25T23:49:45.097Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Warning over power bank fire risk on flights as summer holidays begin",
+          "link": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
+          "published": "2026-06-25T23:28:13.000Z"
+        },
+        {
+          "title": "Teens who hacked TfL were known to police years before cyber-attack",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+          "published": "2026-06-25T23:19:48.000Z"
+        },
+        {
+          "title": "The abundant but expensive energy source that's under your feet",
+          "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
+          "published": "2026-06-25T23:05:05.000Z"
+        },
+        {
+          "title": "Yes, there have been rows but here's how I've made moving back home work",
+          "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+          "published": "2026-06-25T23:03:48.000Z"
+        },
         {
           "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
           "link": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
@@ -163,44 +195,36 @@
           "category": "markets",
           "snippet": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
           "published": "2026-06-25T07:24:08.000Z"
-        },
-        {
-          "title": "The heatwave workers 'like cats on a hot tin roof'",
-          "link": "https://www.bbc.co.uk/news/articles/c15ykxp158yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Many workers are downing tools early, but there is no legal limit to how hot a workplace can be.",
-          "published": "2026-06-25T05:12:23.000Z"
-        },
-        {
-          "title": "Attraction tax cut welcomed by businesses",
-          "link": "https://www.bbc.co.uk/news/articles/c3vyz7l9x7yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "VAT will be cut on children's meals and tickets to some attractions across Surrey and the UK.",
-          "published": "2026-06-25T05:07:01.000Z"
-        },
-        {
-          "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-          "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
-          "published": "2026-06-25T03:12:17.000Z"
-        },
-        {
-          "title": "Trump accuses big oil firms of price-gouging drivers",
-          "link": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The US president named Shell, ExxonMobil, BP and Chevron when talking to reporters about a probe into fuel prices.",
-          "published": "2026-06-25T01:45:33.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+          "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Amazon s Prime Day is now in its third day, and whether you re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price,…",
+          "published": "2026-06-25T23:04:23.000Z"
+        },
+        {
+          "title": "Android 17 s new foldable gaming mode could make flippy phones more fun",
+          "link": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the…",
+          "published": "2026-06-25T22:33:54.000Z"
+        },
+        {
+          "title": "Military branches restore flu shot requirement after virus swept through base",
+          "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T22:16:55.000Z"
+        },
         {
           "title": "YouTube updates Shorts to make it even more like TikTok",
           "link": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok",
@@ -216,6 +240,14 @@
           "category": "tech",
           "snippet": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in…",
           "published": "2026-06-25T21:57:06.000Z"
+        },
+        {
+          "title": "The 'papers, please' era of the internet will decimate your privacy",
+          "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T21:44:55.000Z"
         },
         {
           "title": "Framework has good news and bad news",
@@ -306,6 +338,14 @@
           "published": "2026-06-25T20:01:08.000Z"
         },
         {
+          "title": "The Doorman's Fallacy in action",
+          "link": "https://rozumem.xyz/posts/17",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T20:00:35.000Z"
+        },
+        {
           "title": "RAMageddon just got extremely real",
           "link": "https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase",
           "source": "The Verge",
@@ -346,58 +386,42 @@
           "published": "2026-06-25T18:20:17.000Z"
         },
         {
-          "title": "You won t have long to get these iPad deals before Apple s price hike",
-          "link": "https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple just raised prices across its iPad and MacBook lineup. The good news is that many retailers are still selling their inventory at the old prices or far less, which means you can still score some of the best iPad deals we may see in…",
-          "published": "2026-06-25T18:04:13.000Z"
-        },
-        {
           "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
           "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
           "published": "2026-06-25T18:01:48.000Z"
-        },
-        {
-          "title": "Planet orbits so close to its star that their magnetic fields connect",
-          "link": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens.",
-          "published": "2026-06-25T18:00:39.000Z"
-        },
-        {
-          "title": "Polestar has been muscled out of the US market",
-          "link": "https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Polestar won't be allowed to sell its electric vehicles model year 2027 and beyond in the US after the federal government denied the company's request for authorization under a new rule banning vehicles with software from China. In a…",
-          "published": "2026-06-25T17:58:37.000Z"
-        },
-        {
-          "title": "Besimple AI (YC P25) Is Hiring",
-          "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T17:00:00.000Z"
-        },
-        {
-          "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian&#x2F;Notion",
-          "link": "https://github.com/inkeep/open-knowledge",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T16:04:46.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "No Points For Held Tongues See Also",
+          "link": "https://abovethelaw.com/2026/06/no-points-for-held-tongues-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Alito Whines He Could Have Said More In Disagreement With Sotomayor : Reserve what you should have argued for the shower, bub . Who Needs Milbank When You Have Groombridge ?!: The boutique firm is compensating their associates handsomely…",
+          "published": "2026-06-25T23:30:00.000Z"
+        },
+        {
+          "title": "Lawyers Aren t Getting The Most Out Of AI",
+          "link": "https://abovethelaw.com/2026/06/lawyers-arent-getting-the-most-out-of-ai/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Adoption is one thing... The post Lawyers Aren t Getting The Most Out Of AI appeared first on Above the Law .",
+          "published": "2026-06-25T23:04:00.000Z"
+        },
+        {
+          "title": "Thomson Reuters CEO Steve Hasker On The Next Generation Of CoCounsel, The ‘Future Of Professionals’ Report, And Why TR Is Building Its Own LLM",
+          "link": "https://www.lawnext.com/2026/06/thomson-reuters-ceo-steve-hasker-on-the-next-generation-of-cocounsel-the-future-of-professionals-report-and-why-tr-is-building-its-own-llm.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Hasker also talked about the company’s development of its own LLM, called Thomson. The post Thomson Reuters CEO Steve Hasker On The Next Generation Of CoCounsel, The ‘Future Of Professionals’ Report, And Why TR Is Building Its Own LLM…",
+          "published": "2026-06-25T22:17:00.000Z"
+        },
         {
           "title": "People, Prompts, And Product: The ‘Vibe Coding’ Revolution In Biglaw",
           "link": "https://abovethelaw.com/2026/06/people-prompts-and-product-the-vibe-coding-revolution-in-biglaw/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "Criminalizing abortion in large swaths of the nation didn't end it. The post The Impact Of <em>Dobbs</em> Isn t What The Far Right Hoped For appeared first on Above the Law .",
           "published": "2026-06-24T22:36:00.000Z"
-        },
-        {
-          "title": "Retired Biglaw Partner Becomes Miami s World Cup Consigliere",
-          "link": "https://abovethelaw.com/2026/06/retired-biglaw-partner-becomes-miamis-world-cup-consigliere/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "He negotiated FIFA agreements and got shots in his eyes. The post Retired Biglaw Partner Becomes Miami s World Cup Consigliere appeared first on Above the Law .",
-          "published": "2026-06-24T21:44:00.000Z"
-        },
-        {
-          "title": "Winston s Texas Two-Step: More Than A Dozen Lone Star Partners Have Headed For The Exits",
-          "link": "https://abovethelaw.com/2026/06/winstons-texas-two-step-more-than-a-dozen-lone-star-partners-have-headed-for-the-exits/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The merger may be finalized, but the departures aren't. The post Winston s Texas Two-Step: More Than A Dozen Lone Star Partners Have Headed For The Exits appeared first on Above the Law .",
-          "published": "2026-06-24T20:59:00.000Z"
-        },
-        {
-          "title": "Thomson Reuters Rebuilt CoCounsel: A Pivot",
-          "link": "https://abovethelaw.com/2026/06/thomson-reuters-rebuilt-cocounsel-a-pivot/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The TR announcement felt a little different. The post Thomson Reuters Rebuilt CoCounsel: A Pivot appeared first on Above the Law .",
-          "published": "2026-06-24T20:22:00.000Z"
         }
       ]
     }
