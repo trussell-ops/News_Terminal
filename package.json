@@ -1,0 +1,21 @@
+{
+  "name": "personal-news-terminal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zero-maintenance, self-updating Bloomberg-terminal-style personal news dashboard. GitHub Actions fetches RSS feeds and commits data.json; GitHub Pages serves the static site.",
+  "scripts": {
+    "fetch": "node scripts/fetch-feeds.js",
+    "start": "node scripts/fetch-feeds.js && http-server -p 8080 -c-1 .",
+    "serve": "http-server -p 8080 -c-1 .",
+    "test": "node -e \"const d=JSON.parse(require('fs').readFileSync('data.json','utf8')); if(!d||!d.categories||!Object.keys(d.categories).length)throw new Error('data.json missing categories'); console.log('data.json OK —', Object.keys(d.categories).join(', '))\""
+  },
+  "dependencies": {
+    "fast-xml-parser": "4.5.0"
+  },
+  "devDependencies": {
+    "http-server": "14.1.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

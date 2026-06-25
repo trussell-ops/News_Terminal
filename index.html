@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NEWS TERMINAL // PERSONAL</title>
+<style>
+  :root {
+    --bg:        #0a0e14;
+    --panel:     #0f141c;
+    --panel-2:   #131a24;
+    --border:    #1f2a38;
+    --text:      #c9d4e3;
+    --muted:     #6b7d94;
+    --amber:     #f5a623;
+    --green:     #28d17c;
+    --red:       #ff5c5c;
+    --accent:    #4aa3ff;
+    --mono: "SF Mono", "Roboto Mono", "Consolas", "Liberation Mono", Menlo, monospace;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--mono);
+    font-size: 13px;
+    line-height: 1.45;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; text-decoration: none; }
+
+  /* ---------- Header ---------- */
+  header {
+    position: sticky; top: 0; z-index: 10;
+    background: linear-gradient(180deg, #0c1119, #0a0e14);
+    border-bottom: 1px solid var(--border);
+    padding: 10px 16px;
+  }
+  .bar {
+    display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+  }
+  .brand {
+    display: flex; align-items: baseline; gap: 10px;
+    font-weight: 700; letter-spacing: 1px; white-space: nowrap;
+  }
+  .brand .logo { color: var(--amber); font-size: 16px; }
+  .brand .sub { color: var(--muted); font-size: 11px; letter-spacing: 2px; }
+  .blink { color: var(--green); animation: blink 1.4s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+
+  .spacer { flex: 1 1 auto; }
+
+  .status { color: var(--muted); font-size: 11px; white-space: nowrap; }
+  .status b { color: var(--green); font-weight: 600; }
+
+  #search {
+    background: var(--panel-2);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: var(--mono);
+    font-size: 12px;
+    padding: 6px 10px;
+    width: 240px; max-width: 50vw;
+    outline: none; border-radius: 3px;
+  }
+  #search:focus { border-color: var(--accent); }
+  #search::placeholder { color: var(--muted); }
+
+  button.btn {
+    background: var(--panel-2);
+    border: 1px solid var(--border);
+    color: var(--amber);
+    font-family: var(--mono);
+    font-size: 12px; font-weight: 600;
+    padding: 6px 12px; cursor: pointer; border-radius: 3px;
+    letter-spacing: 0.5px;
+  }
+  button.btn:hover { border-color: var(--amber); background: #161d27; }
+  button.btn:active { transform: translateY(1px); }
+  button.btn[disabled] { opacity: 0.5; cursor: wait; }
+
+  /* ---------- Ticker ---------- */
+  .ticker {
+    background: #070a0f; border-bottom: 1px solid var(--border);
+    color: var(--muted); font-size: 11px; padding: 4px 16px;
+    display: flex; gap: 22px; overflow-x: auto; white-space: nowrap;
+  }
+  .ticker span b { color: var(--green); }
+
+  /* ---------- Banner ---------- */
+  #banner {
+    display: none; margin: 12px 16px 0; padding: 10px 14px;
+    border: 1px solid var(--amber); border-left-width: 4px;
+    background: #1a140a; color: var(--amber); font-size: 12px; border-radius: 3px;
+  }
+  #banner code { background: #0a0e14; padding: 1px 6px; border-radius: 3px; color: var(--text); }
+
+  /* ---------- Grid ---------- */
+  main {
+    display: grid; gap: 14px; padding: 14px 16px 40px;
+    grid-template-columns: 1fr;
+  }
+  @media (min-width: 900px)  { main { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 1280px) { main { grid-template-columns: repeat(3, 1fr); } }
+
+  .col {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    display: flex; flex-direction: column;
+    min-height: 120px; overflow: hidden;
+  }
+  .col-head {
+    display: flex; align-items: center; gap: 8px;
+    padding: 9px 12px; border-bottom: 1px solid var(--border);
+    background: var(--panel-2);
+    position: sticky; top: 0;
+  }
+  .col-head .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--amber); box-shadow: 0 0 8px var(--amber); }
+  .col-head h2 { margin: 0; font-size: 12px; letter-spacing: 1px; text-transform: uppercase; color: var(--text); }
+  .col-head .count { margin-left: auto; color: var(--muted); font-size: 11px; }
+
+  .col-body { padding: 4px 0; overflow-y: auto; max-height: 78vh; }
+
+  /* ---------- Card ---------- */
+  .card {
+    display: block; padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    transition: background 0.12s;
+  }
+  .card:last-child { border-bottom: none; }
+  .card:hover { background: var(--panel-2); }
+  .card .meta { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
+  .badge {
+    font-size: 10px; font-weight: 700; letter-spacing: 0.5px;
+    color: var(--accent); border: 1px solid var(--border);
+    padding: 1px 6px; border-radius: 3px; background: #0c1119; white-space: nowrap;
+  }
+  .ago { color: var(--muted); font-size: 10px; margin-left: auto; white-space: nowrap; }
+  .card h3 { margin: 0 0 4px; font-size: 13px; font-weight: 600; line-height: 1.35; color: var(--text); }
+  .card a.title:hover { color: var(--amber); text-decoration: underline; }
+  .card p.snippet { margin: 0 0 6px; color: var(--muted); font-size: 11.5px; line-height: 1.4; }
+  .read {
+    display: inline-block; font-size: 10px; font-weight: 700; letter-spacing: 0.5px;
+    color: var(--green); border: 1px solid #14361f; background: #08130c;
+    padding: 2px 8px; border-radius: 3px;
+  }
+  .read:hover { border-color: var(--green); }
+
+  .empty { padding: 16px 12px; color: var(--muted); font-size: 11px; font-style: italic; }
+  footer { color: var(--muted); font-size: 10px; text-align: center; padding: 0 16px 24px; }
+</style>
+</head>
+<body>
+  <header>
+    <div class="bar">
+      <div class="brand">
+        <span class="logo">▮ NEWS&nbsp;TERMINAL</span>
+        <span class="sub">PERSONAL&nbsp;EDITION <span class="blink">●</span></span>
+      </div>
+      <div class="spacer"></div>
+      <input id="search" type="search" placeholder="/ search all articles…" autocomplete="off" />
+      <div class="status" id="status">Loading…</div>
+      <button class="btn" id="refresh" title="Re-fetch data.json">⟳ REFRESH</button>
+    </div>
+  </header>
+
+  <div class="ticker" id="ticker"></div>
+  <div id="banner"></div>
+
+  <main id="main"></main>
+
+  <footer id="footer"></footer>
+
+<script>
+(function () {
+  "use strict";
+
+  var statusEl  = document.getElementById("status");
+  var mainEl    = document.getElementById("main");
+  var tickerEl  = document.getElementById("ticker");
+  var bannerEl  = document.getElementById("banner");
+  var footerEl  = document.getElementById("footer");
+  var searchEl  = document.getElementById("search");
+  var refreshEl = document.getElementById("refresh");
+
+  var lastUpdatedISO = null;
+  var DATA = null;
+
+  // ---------- helpers ----------
+  function escapeHtml(s) {
+    return String(s == null ? "" : s)
+      .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+  }
+
+  // Defensive: strip any HTML tags the feed may have left in (also done server-side).
+  function stripTags(s) {
+    return String(s == null ? "" : s).replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+  }
+
+  function timeAgo(iso) {
+    if (!iso) return "—";
+    var then = new Date(iso).getTime();
+    if (isNaN(then)) return "—";
+    var sec = Math.max(0, Math.floor((Date.now() - then) / 1000));
+    if (sec < 60)    return sec + "s ago";
+    var min = Math.floor(sec / 60);
+    if (min < 60)    return min + "m ago";
+    var hr = Math.floor(min / 60);
+    if (hr < 24)     return hr + "h ago";
+    var d = Math.floor(hr / 24);
+    if (d < 7)       return d + "d ago";
+    return new Date(iso).toLocaleDateString();
+  }
+
+  function showBanner(html) {
+    bannerEl.innerHTML = html;
+    bannerEl.style.display = "block";
+  }
+  function hideBanner() { bannerEl.style.display = "none"; }
+
+  // ---------- render ----------
+  function render(data) {
+    DATA = data;
+    var cats = (data && data.categories) || {};
+    mainEl.innerHTML = "";
+    var totalItems = 0, sources = {};
+
+    // Iterate categories straight from data.json — adding a new category needs
+    // zero HTML changes, it renders automatically in config order.
+    Object.keys(cats).forEach(function (key) {
+      var cat = cats[key] || {};
+      var items = Array.isArray(cat.items) ? cat.items : [];
+      totalItems += items.length;
+
+      var col = document.createElement("section");
+      col.className = "col";
+      col.setAttribute("data-cat", key);
+
+      var head = document.createElement("div");
+      head.className = "col-head";
+      head.innerHTML =
+        '<span class="dot"></span>' +
+        '<h2>' + escapeHtml(cat.label || key) + '</h2>' +
+        '<span class="count">' + items.length + '</span>';
+      col.appendChild(head);
+
+      var body = document.createElement("div");
+      body.className = "col-body";
+
+      if (!items.length) {
+        body.innerHTML = '<div class="empty">No items available.</div>';
+      } else {
+        items.forEach(function (it) {
+          sources[it.source] = true;
+          var title   = stripTags(it.title || "(untitled)");
+          var snippet = stripTags(it.snippet || "");
+          var link    = it.link || "#";
+
+          var card = document.createElement("article");
+          card.className = "card";
+          // Lower-cased haystack for the live search filter.
+          card.setAttribute("data-search",
+            (title + " " + snippet + " " + (it.source || "")).toLowerCase());
+
+          card.innerHTML =
+            '<div class="meta">' +
+              '<span class="badge">' + escapeHtml(it.source || "FEED") + '</span>' +
+              '<span class="ago" data-iso="' + escapeHtml(it.published || "") + '">' +
+                escapeHtml(timeAgo(it.published)) + '</span>' +
+            '</div>' +
+            '<h3><a class="title" href="' + escapeHtml(link) + '" target="_blank" rel="noopener noreferrer">' +
+              escapeHtml(title) + '</a></h3>' +
+            (snippet ? '<p class="snippet">' + escapeHtml(snippet) + '</p>' : '') +
+            '<a class="read" href="' + escapeHtml(link) + '" target="_blank" rel="noopener noreferrer">READ ▸</a>';
+
+          body.appendChild(card);
+        });
+      }
+
+      col.appendChild(body);
+      mainEl.appendChild(col);
+    });
+
+    lastUpdatedISO = data && data.updated;
+    updateStatus();
+    renderTicker(cats);
+    footerEl.textContent =
+      totalItems + " articles · " + Object.keys(sources).length +
+      " sources · auto-refresh every 5m · static · no servers";
+    applyFilter();
+  }
+
+  function renderTicker(cats) {
+    var parts = [];
+    Object.keys(cats).forEach(function (key) {
+      var cat = cats[key] || {};
+      var n = (cat.items || []).length;
+      parts.push('<span>' + escapeHtml((cat.label || key).toUpperCase()) + ' <b>' + n + '</b></span>');
+    });
+    tickerEl.innerHTML = parts.join("");
+  }
+
+  function updateStatus() {
+    statusEl.innerHTML = "Updated <b>" + escapeHtml(timeAgo(lastUpdatedISO)) + "</b>";
+  }
+
+  // refresh the "time ago" labels without re-fetching
+  function tickTimes() {
+    updateStatus();
+    var nodes = document.querySelectorAll(".ago[data-iso]");
+    for (var i = 0; i < nodes.length; i++) {
+      nodes[i].textContent = timeAgo(nodes[i].getAttribute("data-iso"));
+    }
+  }
+
+  // ---------- search ----------
+  function applyFilter() {
+    var q = (searchEl.value || "").trim().toLowerCase();
+    var cards = document.querySelectorAll(".card");
+    var shownPerCol = {};
+    for (var i = 0; i < cards.length; i++) {
+      var card = cards[i];
+      var match = !q || card.getAttribute("data-search").indexOf(q) !== -1;
+      card.style.display = match ? "" : "none";
+      var catKey = card.closest(".col").getAttribute("data-cat");
+      shownPerCol[catKey] = (shownPerCol[catKey] || 0) + (match ? 1 : 0);
+    }
+    // update per-column counts to reflect the filter
+    var cols = document.querySelectorAll(".col");
+    for (var j = 0; j < cols.length; j++) {
+      var k = cols[j].getAttribute("data-cat");
+      var c = cols[j].querySelector(".count");
+      if (c) c.textContent = shownPerCol[k] || 0;
+    }
+  }
+
+  // ---------- load ----------
+  function load() {
+    refreshEl.disabled = true;
+    statusEl.innerHTML = "Fetching…";
+    // Cache-bust so a fresh data.json shows up immediately.
+    fetch("data.json?t=" + Date.now(), { cache: "no-store" })
+      .then(function (r) {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.json();
+      })
+      .then(function (data) {
+        hideBanner();
+        render(data);
+      })
+      .catch(function (err) {
+        // Most common cause: opened via file:// in Chrome, which blocks fetch
+        // of local files. The page chrome still renders; data needs a server.
+        if (!DATA) {
+          showBanner(
+            "⚠ Couldn't load <code>data.json</code> (" + escapeHtml(err.message) + "). " +
+            "If you opened this file directly, run <code>npm start</code> for a local " +
+            "server, or view it on GitHub Pages — fetching local files over " +
+            "<code>file://</code> is blocked by the browser."
+          );
+          statusEl.innerHTML = "Offline";
+        } else {
+          statusEl.innerHTML = "Updated <b>" + escapeHtml(timeAgo(lastUpdatedISO)) + "</b> (stale)";
+        }
+      })
+      .then(function () { refreshEl.disabled = false; });
+  }
+
+  // ---------- wire up ----------
+  refreshEl.addEventListener("click", load);
+  searchEl.addEventListener("input", applyFilter);
+  // "/" focuses search like a real terminal
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "/" && document.activeElement !== searchEl) {
+      e.preventDefault(); searchEl.focus();
+    }
+  });
+
+  load();
+  setInterval(tickTimes, 60 * 1000);   // refresh relative times every minute
+  setInterval(load, 5 * 60 * 1000);    // auto re-fetch every 5 minutes
+})();
+</script>
+</body>
+</html>
