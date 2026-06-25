@@ -1,16 +1,24 @@
 {
-  "updated": "2026-06-25T00:40:40.758Z",
+  "updated": "2026-06-25T04:57:17.311Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
+          "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+          "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+          "published": "2026-06-25T03:12:17.000Z"
+        },
+        {
           "title": "Trump accuses big oil firms of price-gouging drivers",
           "link": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
-          "published": "2026-06-24T23:45:47.000Z"
+          "snippet": "The US president named Shell, ExxonMobil, BP and Chevron when talking to reporters about a probe into fuel prices.",
+          "published": "2026-06-25T01:45:33.000Z"
         },
         {
           "title": "The legal fight to get equal pay for Germany's disabled workers",
@@ -187,20 +195,108 @@
           "category": "markets",
           "snippet": "FedEx posted strong fiscal fourth quarter earnings on Tuesday in the company's last quarter that included the freight business before its spin-off.",
           "published": "2026-06-23T21:58:31.000Z"
-        },
-        {
-          "title": "Kunal Shah: The Indian entrepreneur taking charge of WhatsApp",
-          "link": "https://www.bbc.co.uk/news/articles/c0my4n38myjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Kunal Shah has been a recognisable figure in India's startup ecosystem for a while but now he faces global spotlight.",
-          "published": "2026-06-23T21:57:05.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box",
+          "link": "https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T03:54:50.000Z"
+        },
+        {
+          "title": "Ask HN: Where is our profession (programmer) going?",
+          "link": "https://news.ycombinator.com/item?id=48668199",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T02:41:47.000Z"
+        },
+        {
+          "title": "Medical students are using popular research tool to pump out misleading studies",
+          "link": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T02:30:18.000Z"
+        },
+        {
+          "title": "Cloudflare launched self-managed OAuth for all",
+          "link": "https://blog.cloudflare.com/oauth-for-all/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T02:18:10.000Z"
+        },
+        {
+          "title": "Zombie unicorns are haunting Silicon Valley",
+          "link": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T02:16:15.000Z"
+        },
+        {
+          "title": "Writers and Drugs",
+          "link": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T01:50:01.000Z"
+        },
+        {
+          "title": "Bible as RAG Database",
+          "link": "https://www.crosscanon.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T01:42:55.000Z"
+        },
+        {
+          "title": "Exploring the internal representations of Pangram 3.3.2",
+          "link": "https://www.pangram.com/pangram-space",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T01:36:45.000Z"
+        },
+        {
+          "title": "Ending respiratory infections",
+          "link": "https://blog.interceptfund.com/p/ending-respiratory-infections",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T01:14:23.000Z"
+        },
+        {
+          "title": "Mixing Visual and Textual Code",
+          "link": "https://arxiv.org/abs/2603.15855",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T01:11:10.000Z"
+        },
+        {
+          "title": "What I'm Finding About LLM Code Style and Token Costs",
+          "link": "https://www.jimmont.com/llm-style-token-costs",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T00:52:40.000Z"
+        },
+        {
+          "title": "LuaJIT 3.0 proposed syntax extensions",
+          "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T00:41:43.000Z"
+        },
         {
           "title": "The top tech Prime Day deals to shop on day two",
           "link": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
@@ -210,7 +306,7 @@
           "published": "2026-06-24T23:48:19.000Z"
         },
         {
-          "title": "Blogging Can Just Be Stating the Obvious",
+          "title": "Blogging can just be stating the obvious",
           "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
           "source": "Hacker News",
           "category": "tech",
@@ -224,14 +320,6 @@
           "category": "tech",
           "snippet": "GTA6 might be an outlier, though—at least for now.",
           "published": "2026-06-24T22:47:03.000Z"
-        },
-        {
-          "title": "PostgreSQL is enough (2024)",
-          "link": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-24T22:39:37.000Z"
         },
         {
           "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
@@ -304,94 +392,6 @@
           "category": "tech",
           "snippet": "A critique published in Nature Wednesday calls the basic technology behind Microsoft's \"breakthrough\" quantum computing chip the Majorana 1 into question. Microsoft unveiled the chip in February 2025 and said it featured a brand-new…",
           "published": "2026-06-24T20:54:57.000Z"
-        },
-        {
-          "title": "Underpromise, overdeliver? Hands-on with the $24,950 Slate auto.",
-          "link": "https://arstechnica.com/features/2026/06/we-take-a-ride-in-slates-24950-electric-pickup/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "It has 205 miles of bare-bones range.",
-          "published": "2026-06-24T20:28:07.000Z"
-        },
-        {
-          "title": "Disney agreed to $50M settlement over claims it made live-TV streaming expensive",
-          "link": "https://arstechnica.com/tech-policy/2026/06/disney-agreed-to-50m-settlement-over-claims-it-made-live-tv-streaming-expensive/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Lawsuit alleged Disney inflated market prices by making carriers include ESPN.",
-          "published": "2026-06-24T20:22:58.000Z"
-        },
-        {
-          "title": "Experimental wine bottle tracks oxygen moving through the cork",
-          "link": "https://arstechnica.com/science/2026/06/experimental-wine-bottle-tracks-oxygen-moving-through-the-cork/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The small bit of air in the bottle sees oxygen and other chemicals move in and out.",
-          "published": "2026-06-24T20:04:32.000Z"
-        },
-        {
-          "title": "FCC plans ID mandate that could block anonymous use of prepaid burner phones",
-          "link": "https://arstechnica.com/tech-policy/2026/06/fcc-plans-id-mandate-that-could-block-anonymous-use-of-prepaid-burner-phones/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Privacy advocates and domestic violence groups say ID mandate is a big mistake.",
-          "published": "2026-06-24T19:45:37.000Z"
-        },
-        {
-          "title": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
-          "link": "https://infosec.exchange/@mttaggart/116806641273303255",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-24T19:40:11.000Z"
-        },
-        {
-          "title": "Congresswoman denies staff used AI to write defense funding amendment",
-          "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the…",
-          "published": "2026-06-24T19:36:46.000Z"
-        },
-        {
-          "title": "GTA VI is a worrying sign for the future of physical games",
-          "link": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.99, Rockstar also confirmed that the physical versions of GTA VI won't include a…",
-          "published": "2026-06-24T18:42:07.000Z"
-        },
-        {
-          "title": "OpenAI unveils its first custom chip, built by Broadcom",
-          "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-24T17:47:00.000Z"
-        },
-        {
-          "title": "Google is finally opening the Play Store to outside payments",
-          "link": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "While the court still hasn't signed off on the massive settlement resolving Epic's antitrust lawsuit against Google for having a monopoly over Android's app store with Google Play, the tech giant says it will start rolling out changes to…",
-          "published": "2026-06-24T17:36:44.000Z"
-        },
-        {
-          "title": "Formula E reveals first calendar for GEN4 with lots of real race tracks",
-          "link": "https://arstechnica.com/cars/2026/06/formula-e-reveals-first-calendar-for-gen4-with-lots-of-real-race-tracks/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Brands Hatch, COTA, and Zandvoort will all hold an e-Prix in 2027.",
-          "published": "2026-06-24T17:35:45.000Z"
-        },
-        {
-          "title": "Prime Day deals under $50 that are really worth it",
-          "link": "https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you’re looking for a good deal without spending hundreds, Prime Day discounts have pushed some of our favorite products under $50. You can pick up everything from Nintendo Switch games to Bluetooth speakers while sticking to your…",
-          "published": "2026-06-24T17:28:08.000Z"
         }
       ]
     },
