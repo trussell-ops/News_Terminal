@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T20:32:17.870Z",
+  "updated": "2026-06-25T22:15:55.828Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,70 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "YouTube updates Shorts to make it even more like TikTok",
+          "link": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "YouTube is adding even more TikTok-like features to Shorts, including a new \"clear screen\" mode that removes the icons and text from the video you're watching. In a blog post on Thursday, YouTube says it's also replacing the \"thumbs-up\"…",
+          "published": "2026-06-25T22:08:30.000Z"
+        },
+        {
+          "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in…",
+          "published": "2026-06-25T21:57:06.000Z"
+        },
+        {
+          "title": "Framework has good news and bad news",
+          "link": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the \"MacBook Pro for Linux users\" - the company shared good…",
+          "published": "2026-06-25T21:23:47.000Z"
+        },
+        {
+          "title": "Migrating from Proxmox to NixOS and Incus",
+          "link": "https://www.nijho.lt/post/proxmox-to-nixos/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T21:22:59.000Z"
+        },
+        {
+          "title": "Un-0: Generating Images with Coupled Oscillators",
+          "link": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T20:50:02.000Z"
+        },
+        {
+          "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+          "link": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T20:36:05.000Z"
+        },
+        {
+          "title": "Om Malik has died",
+          "link": "https://om.co/2026/06/24/1966-2026/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T20:33:37.000Z"
+        },
+        {
+          "title": "Microsoft adds another year to Windows 10 extended update program",
+          "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "About a quarter of PCs are still running Microsoft's previous operating system.",
+          "published": "2026-06-25T20:24:09.000Z"
+        },
+        {
           "title": "Score a discounted Xbox console before the prices jump",
           "link": "https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale",
           "source": "The Verge",
@@ -210,12 +274,36 @@
           "published": "2026-06-25T20:18:47.000Z"
         },
         {
+          "title": "An oral history of Bank Python (2021)",
+          "link": "https://calpaterson.com/bank-python.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T20:14:35.000Z"
+        },
+        {
+          "title": "Parallel Parentheses Matching",
+          "link": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-25T20:12:24.000Z"
+        },
+        {
           "title": "Instagram wants to monopolize your attention",
           "link": "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video",
           "source": "The Verge",
           "category": "tech",
           "snippet": "This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In addition to vertical Reels, Instagram for TV…",
           "published": "2026-06-25T20:10:24.000Z"
+        },
+        {
+          "title": "FCC may kill $2B program that connects schools and libraries to Internet",
+          "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
+          "published": "2026-06-25T20:01:08.000Z"
         },
         {
           "title": "RAMageddon just got extremely real",
@@ -290,30 +378,6 @@
           "published": "2026-06-25T17:58:37.000Z"
         },
         {
-          "title": "Here’s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like",
-          "link": "https://www.theverge.com/gadgets/956938/prime-day-deals-keyboards-mice-monitors-peripherals",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "RAMageddon has come for computers. The price of memory chips, hard drives, and solid state storage has skyrocketed. That’s led to price increases on desktop and laptop RAM, SSDs, spinning hard drives, and pretty much everything that uses…",
-          "published": "2026-06-25T17:47:20.000Z"
-        },
-        {
-          "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
-          "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Amazon s Prime Day is now in its third day, and whether you re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price,…",
-          "published": "2026-06-25T17:12:48.000Z"
-        },
-        {
-          "title": "54 Prime Day steals under $25 you won t want to miss",
-          "link": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "We at The Verge love a good gadget or tchotchke, especially when it’s not too expensive. But with the rising cost of just about everything these days, many once-cheap gadgets aren’t so affordable anymore. Amazon and other retailers sell…",
-          "published": "2026-06-25T17:09:43.000Z"
-        },
-        {
           "title": "Besimple AI (YC P25) Is Hiring",
           "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
           "source": "Hacker News",
@@ -328,76 +392,28 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-25T16:04:46.000Z"
-        },
-        {
-          "title": "Windows 10 quietly gets one more year of support and updates",
-          "link": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T15:59:54.000Z"
-        },
-        {
-          "title": "An entire Herculaneum scroll has been read for the first time",
-          "link": "https://scrollprize.org/firstscroll",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T15:48:07.000Z"
-        },
-        {
-          "title": "IBM debuts sub-1 nanometer chip technology",
-          "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T15:33:37.000Z"
-        },
-        {
-          "title": "How physicists track and trap the elusive neutrino",
-          "link": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T15:11:48.000Z"
-        },
-        {
-          "title": "OS9Map",
-          "link": "https://yllan.org/software/OS9Map/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T15:01:06.000Z"
-        },
-        {
-          "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-          "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here.",
-          "published": "2026-06-25T14:40:23.000Z"
-        },
-        {
-          "title": "Zig's new bitCast semantics and LLVM back end improvements",
-          "link": "https://ziglang.org/devlog/2026/#2026-06-25",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T14:19:28.000Z"
-        },
-        {
-          "title": "Apple ratchets up prices, blames the cost of memory",
-          "link": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Some Macs are hundreds of dollars more expensive today than yesterday.",
-          "published": "2026-06-25T14:14:37.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "People, Prompts, And Product: The ‘Vibe Coding’ Revolution In Biglaw",
+          "link": "https://abovethelaw.com/2026/06/people-prompts-and-product-the-vibe-coding-revolution-in-biglaw/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "There is both transformative potential and significant risks in democratizing software development. The post People, Prompts, And Product: The ‘Vibe Coding’ Revolution In Biglaw appeared first on Above the Law .",
+          "published": "2026-06-25T21:47:00.000Z"
+        },
+        {
+          "title": "Biglaw s Diversity Efforts Are Slowing, But Aren t Dead Yet",
+          "link": "https://abovethelaw.com/2026/06/biglaws-diversity-efforts-are-slowing-but-arent-dead-yet/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The war on DEI can be seen in Biglaw's numbers. The post Biglaw s Diversity Efforts Are Slowing, But Aren t Dead Yet appeared first on Above the Law .",
+          "published": "2026-06-25T21:00:00.000Z"
+        },
         {
           "title": "An unusual retort to a dissent from the bench",
           "link": "https://www.scotusblog.com/2026/06/an-unusual-retort-to-a-dissent-from-the-bench/",
@@ -451,7 +467,7 @@
           "link": "https://www.scotusblog.com/2026/06/court-rules-for-roundup-maker-in-dispute-over-cancer-warnings-on-pesticide-labels/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The Supreme Court on Thursday sided with Monsanto in a high-stakes dispute over cancer warnings on pesticide labels. In an opinion by Justice Brett Kavanaugh in Monsanto Company v. Durnell , the court ruled, by a vote of 7-2, that state…",
+          "snippet": "Updated on June 25 at 5:59 p.m. The Supreme Court on Thursday sided with Monsanto in a high-stakes dispute over cancer warnings on pesticide labels. In an opinion by Justice Brett Kavanaugh in Monsanto Company v. Durnell , the court…",
           "published": "2026-06-25T17:04:31.000Z"
         },
         {
@@ -475,7 +491,7 @@
           "link": "https://www.scotusblog.com/2026/06/justices-side-with-trump-administration-in-border-dispute-over-asylum-seekers/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The Supreme Court on Thursday upheld the federal government’s policy of systematically turning back asylum seekers before they can reach the U.S.-Mexico border. By a vote of 6-3, the justices agreed with the Trump administration in Mullin…",
+          "snippet": "Updated on June 25 at 5:10 p.m. The Supreme Court on Thursday upheld the federal government’s policy of systematically turning back asylum seekers before they can reach the U.S.-Mexico border. By a vote of 6-3, the justices agreed with…",
           "published": "2026-06-25T15:49:28.000Z"
         },
         {
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "The TR announcement felt a little different. The post Thomson Reuters Rebuilt CoCounsel: A Pivot appeared first on Above the Law .",
           "published": "2026-06-24T20:22:00.000Z"
-        },
-        {
-          "title": "Perplexity Jumps Into Legal With Computer For Counsel",
-          "link": "https://abovethelaw.com/2026/06/perplexity-jumps-into-legal-with-computer-for-counsel/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Legal tech vendors face more challengers from the raw AI world. The post Perplexity Jumps Into Legal With Computer For Counsel appeared first on Above the Law .",
-          "published": "2026-06-24T19:39:38.000Z"
-        },
-        {
-          "title": "Why Are Boutiques So Much Quicker To Raise Associates Salaries Than Biglaw?",
-          "link": "https://abovethelaw.com/2026/06/why-are-boutiques-so-much-quicker-to-raise-associates-salaries-than-biglaw/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Bigger isn't always better... The post Why Are Boutiques So Much Quicker To Raise Associates Salaries Than Biglaw? appeared first on Above the Law .",
-          "published": "2026-06-24T18:47:09.000Z"
         }
       ]
     }
