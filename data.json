@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-26T10:14:49.238Z",
+  "updated": "2026-06-26T12:29:28.755Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "The abundant but expensive energy source that's under your feet",
-          "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
+          "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones",
+          "link": "https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html",
+          "source": "CNBC Business",
           "category": "markets",
-          "snippet": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
-          "published": "2026-06-26T10:12:42.000Z"
+          "snippet": "As the global race for AI moves forward, a shortage of memory chips has begun to drive up prices of consumer electronics and may lead to product shortages.",
+          "published": "2026-06-26T12:00:01.000Z"
         },
         {
           "title": "Record temperatures drives up home air conditioning sales",
@@ -18,7 +18,31 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Companies see inquiries surge during heatwaves as UK households look to cool down their homes.",
-          "published": "2026-06-26T10:00:37.000Z"
+          "published": "2026-06-26T11:16:26.000Z"
+        },
+        {
+          "title": "Estrogen patches are hard to find, and it may not be resolved any time soon",
+          "link": "https://www.cnbc.com/2026/06/26/estrogen-patches-are-in-short-supply-as-women-seek-menopause-support.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Estrogen patches are in short supply as demand for menopause treatments skyrockets, and it could take at least a year for manufacturers to catch up.",
+          "published": "2026-06-26T11:00:01.000Z"
+        },
+        {
+          "title": "Who could be the UK's next chancellor?",
+          "link": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
+          "published": "2026-06-26T10:37:12.000Z"
+        },
+        {
+          "title": "The abundant but expensive energy source that's under your feet",
+          "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
+          "published": "2026-06-26T10:12:42.000Z"
         },
         {
           "title": "Asia stock markets slide as tech shares slump",
@@ -171,36 +195,52 @@
           "category": "markets",
           "snippet": "The airline is questioning the \"deliverability\" of the offer.",
           "published": "2026-06-25T10:27:25.000Z"
-        },
-        {
-          "title": "Food kit warehouse closure puts 290 jobs at risk",
-          "link": "https://www.bbc.co.uk/news/articles/c4gy3lrnyzgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Food company Gousto says it is closing its warehouse in Spalding, Lincolnshire.",
-          "published": "2026-06-25T10:21:08.000Z"
-        },
-        {
-          "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-          "link": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
-          "published": "2026-06-25T10:04:43.000Z"
-        },
-        {
-          "title": "Find out which university degrees could earn you most across your lifetime",
-          "link": "https://www.bbc.co.uk/news/articles/c892dv0qy2jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "New data suggests which university degrees have the highest and lowest financial returns over a lifetime.",
-          "published": "2026-06-25T08:32:12.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Captcha proves you're human. HATCHA proves you're not",
+          "link": "https://github.com/mondaycom/HATCHA",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-26T12:06:17.000Z"
+        },
+        {
+          "title": "Samsung will soon start charging to access its smart home API",
+          "link": "https://www.theverge.com/tech/957597/samsung-smartthings-api-charges",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "From October this year Samsung will roll out a variety of new paid tiers for access to its SmartThings API, including a $4.99 monthly plan for \"non-commercial, individual developers.\" It won't just be developers that pay the price though.…",
+          "published": "2026-06-26T11:38:11.000Z"
+        },
+        {
+          "title": "Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades",
+          "link": "https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple is expected to shake up its usual Mac silicon release strategy, with Bloomberg's Mark Gurman reporting that there won't be Pro or Max versions of the upcoming M6 chip. Instead, Apple wants to \"fast-track technologies that it…",
+          "published": "2026-06-26T11:14:44.000Z"
+        },
+        {
+          "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
+          "link": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Is SpaceX planning to end its Transporter program?",
+          "published": "2026-06-26T11:00:59.000Z"
+        },
+        {
+          "title": "It’s the last day of Prime Day — here are over 130 great deals to choose from",
+          "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best…",
+          "published": "2026-06-26T11:00:00.000Z"
+        },
         {
           "title": "Trump Mobile will take your $499 right now",
           "link": "https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit",
@@ -346,52 +386,12 @@
           "published": "2026-06-25T20:12:24.000Z"
         },
         {
-          "title": "Instagram wants to monopolize your attention",
-          "link": "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In addition to vertical Reels, Instagram for TV…",
-          "published": "2026-06-25T20:10:24.000Z"
-        },
-        {
           "title": "FCC may kill $2B program that connects schools and libraries to Internet",
           "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
           "published": "2026-06-25T20:01:08.000Z"
-        },
-        {
-          "title": "The Doorman's Fallacy in action",
-          "link": "https://rozumem.xyz/posts/17",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T20:00:35.000Z"
-        },
-        {
-          "title": "RAMageddon just got extremely real",
-          "link": "https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "As far as prices go, Apple is kind of a reverse canary in the coal mine. With its famously generous margins and immense purchasing volume, it can afford to ride out price fluctuations in its supply chain in a way no other consumer tech…",
-          "published": "2026-06-25T20:00:00.000Z"
-        },
-        {
-          "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-          "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Notion is \"going all in on using agents to run your inbox.\"",
-          "published": "2026-06-25T19:04:57.000Z"
-        },
-        {
-          "title": "The 16 best robot vacuum deals available during Prime Day",
-          "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We re now on day three of Prime Day, and Amazon, along with retailers like Best Buy and…",
-          "published": "2026-06-25T18:47:26.000Z"
         }
       ]
     },
