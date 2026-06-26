@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-26T15:11:24.810Z",
+  "updated": "2026-06-26T17:13:39.382Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "New ISA and Lifetime ISA changes explained",
+          "link": "https://www.bbc.co.uk/news/videos/cj0ge52n80ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "In this week’s episode, there’s a deep dive into first-time buyer savings, with a special focus on Lifetime ISAs.",
+          "published": "2026-06-26T17:09:53.000Z"
+        },
         {
           "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
           "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
@@ -187,20 +195,124 @@
           "category": "markets",
           "snippet": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
           "published": "2026-06-25T12:08:33.000Z"
-        },
-        {
-          "title": "Ferrari marketing boss quits just weeks after EV launch backlash",
-          "link": "https://www.bbc.co.uk/news/articles/cnv9edrjjn4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The design of the luxury carmaker's first all-electric vehicle, the Luce, was heavily criticised.",
-          "published": "2026-06-25T11:26:25.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+          "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-26T17:06:55.000Z"
+        },
+        {
+          "title": "Liva AI (YC S25) Is Hiring",
+          "link": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-26T17:00:43.000Z"
+        },
+        {
+          "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model…",
+          "published": "2026-06-26T17:00:00.000Z"
+        },
+        {
+          "title": "Smart lock maker Level has been gutted and its founders are out",
+          "link": "https://www.theverge.com/tech/957802/level-lock-layoffs-assa-abloy-kwikset-smart-lock-cloud",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Assa Abloy has laid off the majority of staff at Level Home, the smart lock company known for building smart tech into traditional-looking deadbolts, and is folding the business into Kwikset, according to a source familiar with the…",
+          "published": "2026-06-26T16:59:16.000Z"
+        },
+        {
+          "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+          "link": "https://github.com/workweave/router",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-26T16:40:11.000Z"
+        },
+        {
+          "title": "You won t have long to get these iPad deals before Apple s price hike",
+          "link": "https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple just raised prices across its iPad and MacBook lineup. The good news is that many retailers are still selling their inventory at the old prices or far less, which means you can still score some of the best iPad deals we may see in…",
+          "published": "2026-06-26T16:26:06.000Z"
+        },
+        {
+          "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
+          "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn",
+          "published": "2026-06-26T16:24:59.000Z"
+        },
+        {
+          "title": "The 16 best robot vacuum deals you can still get before Prime Day ends",
+          "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "If you ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We re now on the final day of Prime Day, and Amazon, along with retailers like Best Buy…",
+          "published": "2026-06-26T16:07:34.000Z"
+        },
+        {
+          "title": "Xreal’s best USB-C smart glasses are $50 off, but not for long",
+          "link": "https://www.theverge.com/gadgets/952261/xreal-one-pro-1s-smart-glasses-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "If you’ve been curious about the emerging world of smart glasses, Prime Day is your chance to try some of the best models with a rare discount from Best Buy or directly from Xreal. The high-end Xreal One Pro is $549, $50 lower than the…",
+          "published": "2026-06-26T15:53:08.000Z"
+        },
+        {
+          "title": "Prime Day is almost over, but these are still the best Apple deals I ve seen",
+          "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Amazon s Prime Day is now in its final day, but whether you re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date,…",
+          "published": "2026-06-26T15:40:58.000Z"
+        },
+        {
+          "title": "It’s now the Arduino Uno Q’s turn to get a price hike",
+          "link": "https://www.theverge.com/tech/957751/arduino-q-microcomputer-price-increase-ram-crisis",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Arduino's Raspberry Pi-like microcomputer the Uno Q is joining many other devices in getting a price hike this week. The 2GB version of the Uno Q, which is powered by a Qualcomm Dragonwing QRB2210 processor, will increase in price from…",
+          "published": "2026-06-26T15:35:31.000Z"
+        },
+        {
+          "title": "The Exhaustion of Talking to a Tool",
+          "link": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-26T15:35:23.000Z"
+        },
+        {
+          "title": "Fitbit’s Charge 6 and kid-friendly Ace LTE are much cheaper for Prime Day",
+          "link": "https://www.theverge.com/gadgets/952995/fitbit-charge-6-ace-lte-amazon-prime-day-2026-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Prime Day is making it much easier to pick up a Fitbit without spending more than you want. Both the Fitbit Charge 6 and Fitbit Ace LTE are on steep discounts today. Right now, you can buy the Charge 6 for $85.45 ($74.5 off) at Amazon,…",
+          "published": "2026-06-26T15:27:07.000Z"
+        },
+        {
+          "title": "VW may close four factories to adapt to the future, report says",
+          "link": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "With falling sales in the US and especially China, VW Group wants to restructure.",
+          "published": "2026-06-26T15:10:03.000Z"
+        },
         {
           "title": "Sometimes, health tracking accuracy is overrated",
           "link": "https://www.theverge.com/column/957703/optimizer-withings-dexa-body-composition-health-fitness",
@@ -210,12 +322,20 @@
           "published": "2026-06-26T15:00:00.000Z"
         },
         {
-          "title": "Jolla Phone, Over 13 500 units sold",
+          "title": "Jolla Phone (October 2026)",
           "link": "https://commerce.jolla.com/products/jolla-phone-october-2026",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-26T14:46:00.000Z"
+        },
+        {
+          "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
+          "link": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Rock weathering may release or draw down carbon dioxide—it depends on the rock.",
+          "published": "2026-06-26T14:41:18.000Z"
         },
         {
           "title": "Of course Meta thinks gambling is the future",
@@ -226,36 +346,12 @@
           "published": "2026-06-26T14:16:29.000Z"
         },
         {
-          "title": "Why have papers by one of history's most famous physicists been retracted?",
+          "title": "Springer Nature has removed two studies by Max Planck",
           "link": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-26T14:10:26.000Z"
-        },
-        {
-          "title": "Anthropic s Mythos mess is only getting worse",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But…",
-          "published": "2026-06-26T14:07:03.000Z"
-        },
-        {
-          "title": "A forgotten social media post may hold key clues to Covid-19's origin",
-          "link": "https://www.science.org/content/article/forgotten-social-media-post-may-hold-key-clues-covid-19-s-origin",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-26T13:57:50.000Z"
-        },
-        {
-          "title": "Why were Covid vaccine trials so fast?",
-          "link": "https://www.clinicaltrialsabundance.blog/p/why-were-covid-vaccine-trials-so-fast",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-26T13:42:31.000Z"
         },
         {
           "title": "SpaceX plans to launch Starlink mobile service in the US",
@@ -266,12 +362,12 @@
           "published": "2026-06-26T13:22:59.000Z"
         },
         {
-          "title": "Apple s AirPods Max 2 headphones are still $150 off — for now",
-          "link": "https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale",
-          "source": "The Verge",
+          "title": "Reading the news is the new smoking",
+          "link": "https://www.experimental-history.com/p/reading-the-news-is-the-new-smoking",
+          "source": "Hacker News",
           "category": "tech",
-          "snippet": "One of the best deals this ongoing Prime Day has been on Apple’s latest flagship headphones. The AirPods Max 2 are still available for a heavily discounted price of $399 ($150 off) at Walmart, even though they sold out at Amazon. Since…",
-          "published": "2026-06-26T13:06:02.000Z"
+          "snippet": "Comments",
+          "published": "2026-06-26T13:07:05.000Z"
         },
         {
           "title": "Incident CVE-2026-LGTM",
@@ -282,44 +378,12 @@
           "published": "2026-06-26T12:58:07.000Z"
         },
         {
-          "title": "Prime Day is offering rare discounts on Philips Hue smart lights",
-          "link": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Philips Hue products don t often see major discounts, which makes this year s Prime Day deals especially notable. Prices have dropped significantly across much of the company s smart lighting lineup, with deals on everything from smart…",
-          "published": "2026-06-26T12:30:00.000Z"
-        },
-        {
-          "title": "With GTA looming, consoles are getting expensive at the worst possible time",
-          "link": "https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The release of Grand Theft Auto VI is a singular moment, the kind of massive cultural phenomenon that makes people want to go out and buy a console to play it. It is the preeminent modern example of what's known as a \"system seller.\"…",
-          "published": "2026-06-26T12:00:00.000Z"
-        },
-        {
-          "title": "Ultrasound Imaging of the Brain",
+          "title": "Ultrasound imaging of the brain",
           "link": "https://alephneuro.com/blog/ultrasound-brain",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-26T11:51:11.000Z"
-        },
-        {
-          "title": "Samsung will soon start charging to access its smart home API",
-          "link": "https://www.theverge.com/tech/957597/samsung-smartthings-api-charges",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "From October this year Samsung will roll out a variety of new paid tiers for access to its SmartThings API, including a $4.99 monthly plan for \"non-commercial, individual developers.\" It won't just be developers that pay the price though.…",
-          "published": "2026-06-26T11:38:11.000Z"
-        },
-        {
-          "title": "Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades",
-          "link": "https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple is expected to shake up its usual Mac silicon release strategy, with Bloomberg's Mark Gurman reporting that there won't be Pro or Max versions of the upcoming M6 chip. Instead, Apple wants to \"fast-track technologies that it…",
-          "published": "2026-06-26T11:14:44.000Z"
         },
         {
           "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
@@ -328,76 +392,52 @@
           "category": "tech",
           "snippet": "Is SpaceX planning to end its Transporter program?",
           "published": "2026-06-26T11:00:59.000Z"
-        },
-        {
-          "title": "It’s the last day of Prime Day — here are over 130 great deals to choose from",
-          "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best…",
-          "published": "2026-06-26T11:00:00.000Z"
-        },
-        {
-          "title": "Trump Mobile will take your $499 right now",
-          "link": "https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Where's the Trump phone? We're going to keep talking about it every week. We still don't have the phones we preordered yet, but this week the T1 hit open sale, no deposit required. Trump Mobile's T1 Phone is now available for anyone to…",
-          "published": "2026-06-26T08:40:21.000Z"
-        },
-        {
-          "title": "We all depend on open source. We will defend it together",
-          "link": "https://akrites.org/letter/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-26T05:40:36.000Z"
-        },
-        {
-          "title": "Libre Barcode Project",
-          "link": "https://graphicore.github.io/librebarcode/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-26T03:12:42.000Z"
-        },
-        {
-          "title": "What happened after 2k people tried to hack my AI assistant",
-          "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-26T02:29:23.000Z"
-        },
-        {
-          "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-          "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-26T01:10:52.000Z"
-        },
-        {
-          "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
-          "link": "https://gchandbook.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T23:10:30.000Z"
-        },
-        {
-          "title": "The 'papers, please' era of the internet will decimate your privacy",
-          "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T21:44:55.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Bill Barr Would Like The Senate To Know: Confirm Todd Blanche Or The Hostage Gets It",
+          "link": "https://abovethelaw.com/2026/06/bill-barr-would-like-the-senate-to-know-confirm-todd-blanche-or-the-hostage-gets-it/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The faintest of praise, from the least reassuring of messengers. The post Bill Barr Would Like The Senate To Know: Confirm Todd Blanche Or The Hostage Gets It appeared first on Above the Law .",
+          "published": "2026-06-26T17:02:00.000Z"
+        },
+        {
+          "title": "Hunter v. United States – the most important criminal case of the term",
+          "link": "https://www.scotusblog.com/2026/06/hunter-v-united-states-the-most-important-criminal-case-of-the-term/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The term is not quite over, but I have no doubt that Hunter v. United States , decided on June 18, is its most important criminal case. In Hunter , the court ruled that there is a “miscarriage of justice” exception to waivers of appeal,…",
+          "published": "2026-06-26T17:00:00.000Z"
+        },
+        {
+          "title": "How To Use Client Success Stories To Gain Trustworthiness",
+          "link": "https://abovethelaw.com/2026/06/how-to-use-client-success-stories-to-gain-trustworthiness/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Building trustworthiness is a long game. The post How To Use Client Success Stories To Gain Trustworthiness appeared first on Above the Law .",
+          "published": "2026-06-26T16:33:00.000Z"
+        },
+        {
+          "title": "DOJ Tries To End Slush Fund Suit By Telling Judge Brinkema To Get Bent. Fails.",
+          "link": "https://abovethelaw.com/2026/06/doj-tries-to-end-slush-fund-suit-by-telling-judge-brinkema-to-get-bent-fails/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "It's another Stan Woodward special! The post DOJ Tries To End Slush Fund Suit By Telling Judge Brinkema To Get Bent. Fails. appeared first on Above the Law .",
+          "published": "2026-06-26T15:59:00.000Z"
+        },
+        {
+          "title": "Origination Battles At Law Firms Can Be Intense",
+          "link": "https://abovethelaw.com/2026/06/origination-battles-at-law-firms-can-be-intense/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Whenever there is money involved, there are undoubtedly going to be disputes about who is entitled to a given share of revenue. The post Origination Battles At Law Firms Can Be Intense appeared first on Above the Law .",
+          "published": "2026-06-26T15:35:00.000Z"
+        },
         {
           "title": "Associate Compensation Scorecard: Where Are Biglaw Firms In The Race To Match Milbank?",
           "link": "https://abovethelaw.com/2026/06/associate-compensation-scorecard-the-2026-summer-of-salary-increases/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "Groombridge, Wu, Baughman Stone goes above the Milbank scale at every class year — joining a growing list of boutiques that are simply paying more. The post Another Boutique Goes Above Milbank On Associate Compensation While The Rest Of…",
           "published": "2026-06-25T15:56:48.000Z"
-        },
-        {
-          "title": "Justices side with Trump administration in border dispute over asylum seekers",
-          "link": "https://www.scotusblog.com/2026/06/justices-side-with-trump-administration-in-border-dispute-over-asylum-seekers/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on June 25 at 5:10 p.m. The Supreme Court on Thursday upheld the federal government’s policy of systematically turning back asylum seekers before they can reach the U.S.-Mexico border. By a vote of 6-3, the justices agreed with…",
-          "published": "2026-06-25T15:49:28.000Z"
-        },
-        {
-          "title": "Court allows Trump administration to end removal protections for Syrian and Haitian nationals",
-          "link": "https://www.scotusblog.com/2026/06/supreme-court-allows-trump-administration-to-end-removal-protections-for-syrian-and-haitian-nati/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on June 25 at 2:35 p.m. The Supreme Court on Thursday cleared the way for the federal government to remove protections for citizens of Haiti and Syria under a federal program that allows foreign citizens to stay in the United…",
-          "published": "2026-06-25T15:32:30.000Z"
-        },
-        {
-          "title": "Penultimate relists: papers, parents, and procedural puzzles",
-          "link": "https://www.scotusblog.com/2026/06/penultimate-relists-papers-parents-and-procedural-puzzles-/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Relist Watch column examines cert petitions that the Supreme Court has “relisted” for its upcoming conference. A short explanation of relists is available here . This Thursday’s conference is the last one currently scheduled during…",
-          "published": "2026-06-25T15:30:00.000Z"
-        },
-        {
-          "title": "Supreme Court strikes down Hawaii gun restriction",
-          "link": "https://www.scotusblog.com/2026/06/supreme-court-strikes-hawaii-gun-restriction/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on June 25 at 1:25 p.m. The Supreme Court on Thursday struck down a Hawaii law that makes it a crime for gun owners to bring their guns onto private property that is open to the public unless they have the property owner’s…",
-          "published": "2026-06-25T15:13:00.000Z"
-        },
-        {
-          "title": "I Used Generative AI Responsibly For Legal Work. You Can Too.",
-          "link": "https://abovethelaw.com/2026/06/i-used-generative-ai-responsibly-for-legal-work-you-can-too/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "For certain types of legal and business-related work AI can be incredibly helpful. The post I Used Generative AI Responsibly For Legal Work. You Can Too. appeared first on Above the Law .",
-          "published": "2026-06-25T15:01:35.000Z"
         }
       ]
     }
