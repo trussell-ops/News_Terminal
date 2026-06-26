@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-26T02:29:49.750Z",
+  "updated": "2026-06-26T06:35:38.121Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Charity celebrates 50 years of 'transformative' holidays",
+          "link": "https://www.bbc.co.uk/news/articles/cy4ejeq40nvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Sheffield Family Holiday Fund provide much-needed holidays for families facing adversity.",
+          "published": "2026-06-26T05:17:15.000Z"
+        },
         {
           "title": "Warning over power bank fire risk on flights as summer holidays begin",
           "link": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
@@ -29,7 +37,7 @@
           "published": "2026-06-25T23:05:05.000Z"
         },
         {
-          "title": "Yes, there have been rows but here's how I've made moving back home work",
+          "title": "Living with parents again? How to make it work while saving to move out",
           "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
           "published": "2026-06-25T07:47:54.000Z"
-        },
-        {
-          "title": "I've spent 30 years in recruitment - this is how to get a job",
-          "link": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
-          "published": "2026-06-25T07:24:08.000Z"
         }
       ]
     },
@@ -202,20 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "A data race that doesn't compile",
-          "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+          "title": "We All Depend on Open Source. We Will Defend It Together",
+          "link": "https://akrites.org/letter/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-06-26T01:33:15.000Z"
+          "published": "2026-06-26T05:40:36.000Z"
         },
         {
-          "title": "AI children's books, body horror edition",
-          "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+          "title": "Why are we so obsessed with lawns?",
+          "link": "https://www.gardensillustrated.com/features/the-history-of-lawns",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-06-26T01:15:14.000Z"
+          "published": "2026-06-26T03:35:49.000Z"
+        },
+        {
+          "title": "Libre Barcode Project",
+          "link": "https://graphicore.github.io/librebarcode/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-26T03:12:42.000Z"
+        },
+        {
+          "title": "What happened after 2k people tried to hack my AI assistant",
+          "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-26T02:29:23.000Z"
         },
         {
           "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
@@ -226,7 +242,7 @@
           "published": "2026-06-26T01:10:52.000Z"
         },
         {
-          "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+          "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
           "link": "https://gchandbook.org/",
           "source": "Hacker News",
           "category": "tech",
@@ -248,14 +264,6 @@
           "category": "tech",
           "snippet": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the…",
           "published": "2026-06-25T22:33:54.000Z"
-        },
-        {
-          "title": "Military branches restore flu shot requirement after virus swept through base",
-          "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T22:16:55.000Z"
         },
         {
           "title": "YouTube updates Shorts to make it even more like TikTok",
@@ -288,14 +296,6 @@
           "category": "tech",
           "snippet": "Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the \"MacBook Pro for Linux users\" - the company shared good…",
           "published": "2026-06-25T21:23:47.000Z"
-        },
-        {
-          "title": "Migrating from Proxmox to NixOS and Incus",
-          "link": "https://www.nijho.lt/post/proxmox-to-nixos/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-25T21:22:59.000Z"
         },
         {
           "title": "Un-0: Generating Images with Coupled Oscillators",
