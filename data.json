@@ -1,9 +1,25 @@
 {
-  "updated": "2026-06-27T11:09:20.312Z",
+  "updated": "2026-06-27T12:49:28.688Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "How Kohl's lost its way — and is trying to become relevant again",
+          "link": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Kohl's went from a household name to a plunging stock as it lost relevancy and its core customer. Now, the company is trying to turn itself around.",
+          "published": "2026-06-27T12:00:01.000Z"
+        },
+        {
+          "title": "A surprisingly strong summer box office could mean Hollywood's first $10 billion year since the pandemic",
+          "link": "https://www.cnbc.com/2026/06/27/strong-summer-box-office.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Hollywood is having its best summer since the pandemic putting the annual box office on pace to cross $10 billion for the first time in seven years.",
+          "published": "2026-06-27T12:00:01.000Z"
+        },
         {
           "title": "Trump threatens 100% tariff on European nations over tech tax",
           "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
           "published": "2026-06-25T16:04:42.000Z"
-        },
-        {
-          "title": "Oil price falls back to pre-Iran war levels",
-          "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-          "published": "2026-06-25T15:32:04.000Z"
-        },
-        {
-          "title": "Rethink",
-          "link": "https://www.bbc.co.uk/sounds/play/m002y1ht?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Could the US dollar lose its number one status?",
-          "published": "2026-06-25T15:30:00.000Z"
         }
       ]
     },
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Factorio 2.1 Experimental Release",
-          "link": "https://factorio.com/blog/post/fff-444",
+          "title": "OpenRA",
+          "link": "https://www.openra.net/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-06-27T10:52:44.000Z"
+          "published": "2026-06-27T12:10:27.000Z"
+        },
+        {
+          "title": "Nox Metals (YC S25) Is Hiring SWE",
+          "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-27T12:01:03.000Z"
+        },
+        {
+          "title": "This puzzle game s simple premise hides surprising depth",
+          "link": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited constraint. But the simplicity gives solo…",
+          "published": "2026-06-27T12:00:00.000Z"
+        },
+        {
+          "title": "This might be the new best smart speaker",
+          "link": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the old editions at the Installer homepage.)…",
+          "published": "2026-06-27T12:00:00.000Z"
+        },
+        {
+          "title": "If You Can't Hold It, You Don't Own It",
+          "link": "https://dervis.de/physical/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-27T11:32:10.000Z"
+        },
+        {
+          "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
+          "link": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The Amble One is a street-legal $25,000 electric buggy designed for luxury resorts.",
+          "published": "2026-06-27T11:07:05.000Z"
         },
         {
           "title": "Fintech Engineering Handbook",
@@ -352,46 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-26T22:48:28.000Z"
-        },
-        {
-          "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-          "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-26T22:43:29.000Z"
-        },
-        {
-          "title": "AI in mathematics is forcing big questions",
-          "link": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-26T22:36:51.000Z"
-        },
-        {
-          "title": "South Korea plans to train entire military as \"drone warriors\"",
-          "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Half-million strong military will train on drones as “universal combat tool.”",
-          "published": "2026-06-26T22:19:05.000Z"
-        },
-        {
-          "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
-          "link": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "We ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I m most hyped for is a simple tool for fixing my most egregious mistakes. I…",
-          "published": "2026-06-26T22:09:46.000Z"
-        },
-        {
-          "title": "Doctors suspected man had brain cancer. He actually had worms.",
-          "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "His doctors went looking for cancer, then they saw the worms' heads.",
-          "published": "2026-06-26T21:43:57.000Z"
         }
       ]
     },
