@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-28T21:54:52.177Z",
+  "updated": "2026-06-28T22:55:16.916Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "How much should we be prepared to pay for our food?",
+          "link": "https://www.bbc.co.uk/news/articles/c3ryqywd97do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A chorus of people say that rather than capping prices, consumers should consider spending more",
+          "published": "2026-06-28T22:14:29.000Z"
+        },
         {
           "title": "Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet",
           "link": "https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html",
@@ -165,14 +173,6 @@
           "published": "2026-06-26T07:33:10.000Z"
         },
         {
-          "title": "Charity celebrates 50 years of 'transformative' holidays",
-          "link": "https://www.bbc.co.uk/news/articles/cy4ejeq40nvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Sheffield Family Holiday Fund provide much-needed holidays for families facing adversity.",
-          "published": "2026-06-26T05:17:15.000Z"
-        },
-        {
           "title": "Power banks and vapes now biggest fire risk on planes",
           "link": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -201,6 +201,22 @@
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Knowledge Distillation of Black-Box Large Language Models",
+          "link": "https://arxiv.org/abs/2401.07013",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-28T22:32:04.000Z"
+        },
+        {
+          "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more…",
+          "published": "2026-06-28T21:42:51.000Z"
+        },
         {
           "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
           "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
@@ -370,28 +386,12 @@
           "published": "2026-06-28T16:16:07.000Z"
         },
         {
-          "title": "Programmable Probabilistic Computer with 1M p-bits",
-          "link": "https://arxiv.org/abs/2606.25313",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T15:55:31.000Z"
-        },
-        {
           "title": "Show HN: Zanagrams",
           "link": "https://zanagrams.com/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-28T15:26:14.000Z"
-        },
-        {
-          "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
-          "link": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T14:46:03.000Z"
         }
       ]
     },
