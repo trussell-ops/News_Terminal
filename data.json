@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T06:55:36.928Z",
+  "updated": "2026-06-28T09:54:08.911Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -35,6 +35,14 @@
           "category": "markets",
           "snippet": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
           "published": "2026-06-27T01:37:18.000Z"
+        },
+        {
+          "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
+          "link": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?",
+          "published": "2026-06-26T23:02:15.000Z"
         },
         {
           "title": "Three unusual things about the King's tax bill",
@@ -187,20 +195,28 @@
           "category": "markets",
           "snippet": "While luxury goods sales are expected to grow between 1% and 4%, experiences are on track for growth of between 3% and 7% this year, according to a new report.",
           "published": "2026-06-25T16:46:39.000Z"
-        },
-        {
-          "title": "GM reveals 2027 GMC Sierra pickup with new V-8 engines, redesigned styling",
-          "link": "https://www.cnbc.com/2026/06/25/gm-gmc-sierra-pickup.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The new GMC Sierra trucks are crucial to GM's sales and earnings, especially highly profitable luxury Denali and off-road AT4 models.",
-          "published": "2026-06-25T16:15:20.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Can China build its own ASML?",
+          "link": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-28T07:45:23.000Z"
+        },
+        {
+          "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+          "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain…",
+          "published": "2026-06-28T07:00:00.000Z"
+        },
         {
           "title": "Bashblog – a single bash script to create blogs",
           "link": "https://github.com/cfenollosa/bashblog",
@@ -234,15 +250,7 @@
           "published": "2026-06-28T02:23:08.000Z"
         },
         {
-          "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
-          "link": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T01:55:21.000Z"
-        },
-        {
-          "title": "Response to AI slop is from Robin Williams",
+          "title": "The best response to AI slop and online noise is from Robin Williams",
           "link": "https://jayacunzo.com/blog/your-move-chief",
           "source": "Hacker News",
           "category": "tech",
@@ -250,7 +258,7 @@
           "published": "2026-06-28T01:28:10.000Z"
         },
         {
-          "title": "Turning music into a chore is how I became a musician",
+          "title": "Turning music into a chore is how I became a musician (2022)",
           "link": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
           "source": "Hacker News",
           "category": "tech",
@@ -290,7 +298,7 @@
           "published": "2026-06-27T22:11:28.000Z"
         },
         {
-          "title": "Enhancing X11 Application Security with LXC",
+          "title": "Enhancing X11 Application Security with LXC (2025)",
           "link": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
           "source": "Hacker News",
           "category": "tech",
@@ -304,14 +312,6 @@
           "category": "tech",
           "snippet": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo-fi fun, sample…",
           "published": "2026-06-27T21:20:32.000Z"
-        },
-        {
-          "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-          "link": "https://ipcrawl.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-27T19:09:49.000Z"
         },
         {
           "title": "Margaret Atwood says the problem with AI is garbage in, garbage out",
