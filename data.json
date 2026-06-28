@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-28T09:54:08.911Z",
+  "updated": "2026-06-28T11:42:36.813Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "A 'perfect storm' points to a much smaller U.S. auto market by 2040",
+          "link": "https://www.cnbc.com/2026/06/28/us-auto-market.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The auto industry is selling fewer cars--one forecaster says this is a fundamental change, and it is going to get worse.",
+          "published": "2026-06-28T11:00:01.000Z"
+        },
         {
           "title": "Free summer holiday sport sessions offered in city",
           "link": "https://www.bbc.co.uk/news/articles/crkvl5xk13ko?at_medium=RSS&at_campaign=rss",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Apple said it had \"never seen a component price increase this much, this quickly\".",
           "published": "2026-06-25T19:41:22.000Z"
-        },
-        {
-          "title": "Luxury spending now driven by experiences and 'inheritourism'",
-          "link": "https://www.cnbc.com/2026/06/25/luxury-spending-now-driven-by-experiences-and-inheritourism.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "While luxury goods sales are expected to grow between 1% and 4%, experiences are on track for growth of between 3% and 7% this year, according to a new report.",
-          "published": "2026-06-25T16:46:39.000Z"
         }
       ]
     },
@@ -202,20 +202,20 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Can China build its own ASML?",
-          "link": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T07:45:23.000Z"
-        },
-        {
           "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
           "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
           "source": "The Verge",
           "category": "tech",
           "snippet": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain…",
           "published": "2026-06-28T07:00:00.000Z"
+        },
+        {
+          "title": "Armadillo – A DNS Server in Gleam for Homelab Use",
+          "link": "https://github.com/vshakitskiy/armadillo",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-28T06:00:31.000Z"
         },
         {
           "title": "Bashblog – a single bash script to create blogs",
@@ -232,14 +232,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-28T04:31:18.000Z"
-        },
-        {
-          "title": "Ford hired AI and sacked humans. It backfired badly",
-          "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T03:09:13.000Z"
         },
         {
           "title": "Marfa Public Radio Puts You to Sleep",
@@ -298,7 +290,7 @@
           "published": "2026-06-27T22:11:28.000Z"
         },
         {
-          "title": "Enhancing X11 Application Security with LXC (2025)",
+          "title": "Enhancing x11 Application Security with LXC (2025)",
           "link": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
           "source": "Hacker News",
           "category": "tech",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-27T13:10:21.000Z"
+        },
+        {
+          "title": "Inside the room where the smart home industry is still betting on Matter",
+          "link": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open…",
+          "published": "2026-06-27T13:00:00.000Z"
         }
       ]
     },
