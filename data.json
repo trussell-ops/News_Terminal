@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-29T21:05:30.729Z",
+  "updated": "2026-06-29T22:34:40.503Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities",
+          "link": "https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Eli Lilly and Regeneron are among the first seven companies the FDA has selected for its PreCheck Pilot Program, CNBC has learned.",
+          "published": "2026-06-29T21:56:21.000Z"
+        },
         {
           "title": "Comcast's NBCUniversal spinoff raises hope for more deals. There may not be good options",
           "link": "https://www.cnbc.com/2026/06/29/comcast-nbcu-spinoff-m-and-a.html",
@@ -19,14 +27,6 @@
           "category": "markets",
           "snippet": "BBC Verify has looked at what impact further devolution could be expected to have on the UK.",
           "published": "2026-06-29T19:33:26.000Z"
-        },
-        {
-          "title": "Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities",
-          "link": "https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Eli Lilly and Regeneron are among the first seven companies the FDA has selected for its PreCheck Pilot Program, CNBC has learned.",
-          "published": "2026-06-29T18:53:48.000Z"
         },
         {
           "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Is It Out Yet?",
+          "link": "https://outyet.ai",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-29T21:18:46.000Z"
+        },
+        {
+          "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+          "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
+          "published": "2026-06-29T21:09:43.000Z"
+        },
+        {
+          "title": "T-Mobile is booting customers from its oldest plans",
+          "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Earlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's going about as well…",
+          "published": "2026-06-29T21:06:14.000Z"
+        },
+        {
+          "title": "After a great start, DC’s new cinematic universe is already slowing down",
+          "link": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman,…",
+          "published": "2026-06-29T21:00:00.000Z"
+        },
+        {
           "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
           "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
           "source": "The Verge",
@@ -354,44 +386,12 @@
           "published": "2026-06-29T16:42:48.000Z"
         },
         {
-          "title": "The Radiation Exposure Lie",
-          "link": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-29T16:27:27.000Z"
-        },
-        {
           "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
           "link": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-29T16:07:15.000Z"
-        },
-        {
-          "title": "F1 in Austria: Starts off exciting, then goes the opposite way",
-          "link": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "A heatwave, engine upgrades, plus power levels for the next two seasons.",
-          "published": "2026-06-29T16:04:52.000Z"
-        },
-        {
-          "title": "WhatsApp is launching usernames: here’s how to reserve yours",
-          "link": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "WhatsApp is introducing a new way to add and chat with contacts, without having to share your phone number. Usernames will launch \"later this year,\" in a move to make the communications platform \"even more private,\" allowing you to keep…",
-          "published": "2026-06-29T16:00:00.000Z"
-        },
-        {
-          "title": "Lawmakers want to ban AI companies from selling your health data",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and…",
-          "published": "2026-06-29T16:00:00.000Z"
         }
       ]
     },
@@ -399,84 +399,12 @@
       "label": "Legal Developments",
       "items": [
         {
-          "title": "Building A Judicial Legacy",
-          "link": "https://abovethelaw.com/2026/06/building-a-judicial-legacy/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Plus a look at the realities of running for the bench. The post Building A Judicial Legacy appeared first on Above the Law .",
-          "published": "2026-06-29T21:02:00.000Z"
-        },
-        {
-          "title": "After The World Cup Ends, The Cameras Will Still Be Here",
-          "link": "https://abovethelaw.com/2026/06/after-the-world-cup-ends-the-cameras-will-still-be-here/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "History shows that temporary security measures have a tendency to become permanent. The post After The World Cup Ends, The Cameras Will Still Be Here appeared first on Above the Law .",
-          "published": "2026-06-29T20:31:00.000Z"
-        },
-        {
           "title": "250th birthday minutes on the bench",
           "link": "https://www.scotusblog.com/2026/06/250th-birthday-minutes-on-the-bench/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "At the Supreme Court building, there is a small exhibition tied to the nation’s 250th anniversary, titled “Revolutionary Arguments: The Legal Fight for Independence.” The modest ground floor display focuses on how some of the “lawyers,…",
           "published": "2026-06-29T20:00:00.000Z"
-        },
-        {
-          "title": "So Maybe Bar Examiners Need An Actual Plan For Emergencies?",
-          "link": "https://abovethelaw.com/2026/06/so-maybe-bar-examiners-need-an-actual-plan-for-emergencies/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The fingers-crossed-and-hope-for-the-best method isn't cutting it. The post So Maybe Bar Examiners Need An Actual Plan For Emergencies? appeared first on Above the Law .",
-          "published": "2026-06-29T20:00:00.000Z"
-        },
-        {
-          "title": "Biglaw s Newest Transatlantic Giant Unveils An Ambitious Global Vision",
-          "link": "https://abovethelaw.com/2026/06/biglaws-newest-transatlantic-giant-unveils-an-ambitious-global-vision/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The combined firm says it has the scale and reach to help clients navigate increasingly complex challenges. The post Biglaw s Newest Transatlantic Giant Unveils An Ambitious Global Vision appeared first on Above the Law .",
-          "published": "2026-06-29T19:14:00.000Z"
-        },
-        {
-          "title": "Two Justices Just Signaled Again That They Want To Destroy Press Freedom",
-          "link": "https://abovethelaw.com/2026/06/two-justices-just-signaled-again-that-they-want-to-destroy-press-freedom/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Using Dershowitz's failed CNN defamation suit as their vehicle, the justices once again called for overturning New York Times v. Sullivan. The post Two Justices Just Signaled Again That They Want To Destroy Press Freedom appeared first on…",
-          "published": "2026-06-29T18:32:00.000Z"
-        },
-        {
-          "title": "PACER Fees Rising 20 Percent Because Screw You, That s Why",
-          "link": "https://abovethelaw.com/2026/06/pacer-fees-rising-20-percent-because-screw-you-thats-why/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Courts say they need the extra money for a three-quarter billion-dollar security patch. The post PACER Fees Rising 20 Percent Because Screw You, That s Why appeared first on Above the Law .",
-          "published": "2026-06-29T17:43:00.000Z"
-        },
-        {
-          "title": "The Client Service A-Team: Ranking The Biglaw Superheroes Of Client Service (2026)",
-          "link": "https://abovethelaw.com/2026/06/the-client-service-a-team-ranking-the-biglaw-superheroes-of-client-service-2026/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Which firms are among the best of the best? The post The Client Service A-Team: Ranking The Biglaw Superheroes Of Client Service (2026) appeared first on Above the Law .",
-          "published": "2026-06-29T17:01:00.000Z"
-        },
-        {
-          "title": "The NRA Is Suing Itself In All The Courts At Once",
-          "link": "https://abovethelaw.com/2026/06/the-nra-is-suing-itself-in-all-the-courts-at-once/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Is it bad form to post the let-them-fight gif when both sides are heavily armed? The post The NRA Is Suing Itself In All The Courts At Once appeared first on Above the Law .",
-          "published": "2026-06-29T16:12:00.000Z"
-        },
-        {
-          "title": "Legal Ethics Roundup: Legal Ethics In Berlin, 101 Judges Seek Blanche NY Bar Investigation, Activists Legal Fees Paid By Feds, Bolton Pleads Guilty, Law Deans Drive Innovation More",
-          "link": "https://abovethelaw.com/2026/06/legal-ethics-roundup-legal-ethics-in-berlin-101-judges-seek-blanche-ny-bar-investigation-activists-legal-fees-paid-by-feds-bolton-pleads-guilty-law-deans-drive-innovation-more/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson. The post Legal Ethics Roundup: Legal Ethics In Berlin, 101 Judges Seek Blanche NY Bar Investigation, Activists…",
-          "published": "2026-06-29T15:32:00.000Z"
         },
         {
           "title": "Court rules that law enforcement’s use of “geofence warrant” was a “search”",
@@ -503,14 +431,6 @@
           "published": "2026-06-29T14:53:46.000Z"
         },
         {
-          "title": "Legal AI And The New And Improved Detergent Problem",
-          "link": "https://abovethelaw.com/2026/06/legal-ai-and-the-new-and-improved-detergent-problem/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Thomson Reuters made significant advances to CoCounsel... but it's hard to explain. The post Legal AI And The New And Improved Detergent Problem appeared first on Above the Law .",
-          "published": "2026-06-29T14:47:00.000Z"
-        },
-        {
           "title": "Supreme Court allows Trump to fire FTC commissioner and overturns major restraint on presidential power",
           "link": "https://www.scotusblog.com/2026/06/court-allows-trump-to-fire-ftc-commissioner-and-overturns-major-restraint-on-presidential-power/",
           "source": "SCOTUSblog",
@@ -527,22 +447,6 @@
           "published": "2026-06-29T14:06:43.000Z"
         },
         {
-          "title": "New Bill Led By Democrats Aims To Cap Medicare Out-Of-Pocket Costs",
-          "link": "https://medcitynews.com/2026/06/new-bill-led-by-democrats-aims-to-cap-medicare-out-of-pocket-costs/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Medicare Cost Cap Act seeks to create a $5,000 cap on out-of-pocket costs for traditional Medicare beneficiaries. The post New Bill Led By Democrats Aims To Cap Medicare Out-Of-Pocket Costs appeared first on Above the Law .",
-          "published": "2026-06-29T14:02:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 06.29.26",
-          "link": "https://abovethelaw.com/2026/06/morning-docket-06-29-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Supreme Court building extensive police force to further insulate their echo chamber. But don't worry, these new cops will still dutifully fail to finger Sam Alito for leaking opinions. [ Politico ] * Baker Botts bets bots boost…",
-          "published": "2026-06-29T13:13:30.000Z"
-        },
-        {
           "title": "The home stretch",
           "link": "https://www.scotusblog.com/2026/06/the-home-stretch/",
           "source": "SCOTUSblog",
@@ -551,44 +455,140 @@
           "published": "2026-06-29T13:00:00.000Z"
         },
         {
-          "title": "Sam Alito Complains That Dog Ate His Homework See Generally",
-          "link": "https://abovethelaw.com/2026/06/sam-alito-complains-that-dog-ate-his-homework-see-generally/",
-          "source": "Above the Law",
+          "title": "Hunter v. United States – the most important criminal case of the term",
+          "link": "https://www.scotusblog.com/2026/06/hunter-v-united-states-the-most-important-criminal-case-of-the-term/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Sam Alito Huffed That He Totally Could've Made Better Arguments (Spoiler: He Could Not Have) : Alito broke protocol at the Supreme Court this week to whine from the bench that Sotomayor's dissent made him look bad for gutting…",
-          "published": "2026-06-29T00:00:31.000Z"
+          "snippet": "The term is not quite over, but I have no doubt that Hunter v. United States , decided on June 18, is its most important criminal case. In Hunter , the court ruled that there is a “miscarriage of justice” exception to waivers of appeal,…",
+          "published": "2026-06-26T17:00:00.000Z"
         },
         {
-          "title": "S C Takes The Salary Plunge See Also",
-          "link": "https://abovethelaw.com/2026/06/abc-fights-back-see-also/",
-          "source": "Above the Law",
+          "title": "When justices wade into politics",
+          "link": "https://www.scotusblog.com/2026/06/when-justices-wade-into-politics/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Sullivan Crowell Raises Associate Salaries: Probably to the Milbank scale. Brendan Carr Wants To Crack Down On \"The View\" : Wasn't a problem over the last 26 years . Is This Satire? If only : Ben Sasse's creed against SCOTUS cameras is…",
-          "published": "2026-06-26T23:30:00.000Z"
+          "snippet": "Scholar Robert Dahl, writing back in 1957 , once remarked that “Americans are not quite willing to accept the fact that [the Supreme Court] is a political institution and not quite capable of denying it; so that frequently we take both…",
+          "published": "2026-06-26T13:30:00.000Z"
         },
         {
-          "title": "Democracy Isn t Always Easy",
-          "link": "https://abovethelaw.com/2026/06/democracy-isnt-always-easy/",
-          "source": "Above the Law",
+          "title": "Court rules on gun rights, immigration, and pesticide labels",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-on-gun-rights-immigration-and-pesticide-labels/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The people have the power, even when you don't like it. The post Democracy Isn t Always Easy appeared first on Above the Law .",
-          "published": "2026-06-26T22:33:00.000Z"
+          "snippet": "We’re expecting more opinions on Monday.",
+          "published": "2026-06-26T13:00:00.000Z"
         },
         {
-          "title": "Sullivan Cromwell Jumps On Biglaw Salary Raise Train",
-          "link": "https://abovethelaw.com/2026/06/sullivan-cromwell-jumps-on-biglaw-salary-raise-train/",
-          "source": "Above the Law",
+          "title": "An unusual retort to a dissent from the bench",
+          "link": "https://www.scotusblog.com/2026/06/an-unusual-retort-to-a-dissent-from-the-bench/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "A last minute pick me up going into the weekend. The post Sullivan & Cromwell Jumps On Biglaw Salary Raise Train appeared first on Above the Law .",
-          "published": "2026-06-26T22:22:19.000Z"
+          "snippet": "Updated at 6:06 p.m. Next week, what is being billed as the biggest fireworks show ever in Washington, D.C., will help celebrate the nation’s 250th birthday. Yet the Supreme Court will offer its own pyrotechnics this morning with a…",
+          "published": "2026-06-25T20:30:00.000Z"
         },
         {
-          "title": "Appeals Court Orders $10K In Sanctions Over AI-Related Filing Mistakes",
-          "link": "https://abovethelaw.com/2026/06/appeals-court-orders-10k-in-sanctions-over-ai-related-filing-mistakes/",
-          "source": "Above the Law",
+          "title": "Court rules for Roundup maker in dispute over cancer warnings on pesticide labels",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-for-roundup-maker-in-dispute-over-cancer-warnings-on-pesticide-labels/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "That could have been spent on a lot of tokens! The post Appeals Court Orders $10K In Sanctions Over AI-Related Filing Mistakes appeared first on Above the Law .",
-          "published": "2026-06-26T21:16:00.000Z"
+          "snippet": "Updated on June 25 at 5:59 p.m. The Supreme Court on Thursday sided with Monsanto in a high-stakes dispute over cancer warnings on pesticide labels. In an opinion by Justice Brett Kavanaugh in Monsanto Company v. Durnell , the court…",
+          "published": "2026-06-25T17:04:31.000Z"
+        },
+        {
+          "title": "Justices side with Trump administration in border dispute over asylum seekers",
+          "link": "https://www.scotusblog.com/2026/06/justices-side-with-trump-administration-in-border-dispute-over-asylum-seekers/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 25 at 5:10 p.m. The Supreme Court on Thursday upheld the federal government’s policy of systematically turning back asylum seekers before they can reach the U.S.-Mexico border. By a vote of 6-3, the justices agreed with…",
+          "published": "2026-06-25T15:49:28.000Z"
+        },
+        {
+          "title": "Court allows Trump administration to end removal protections for Syrian and Haitian nationals",
+          "link": "https://www.scotusblog.com/2026/06/supreme-court-allows-trump-administration-to-end-removal-protections-for-syrian-and-haitian-nati/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 25 at 2:35 p.m. The Supreme Court on Thursday cleared the way for the federal government to remove protections for citizens of Haiti and Syria under a federal program that allows foreign citizens to stay in the United…",
+          "published": "2026-06-25T15:32:30.000Z"
+        },
+        {
+          "title": "Penultimate relists: papers, parents, and procedural puzzles",
+          "link": "https://www.scotusblog.com/2026/06/penultimate-relists-papers-parents-and-procedural-puzzles-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Relist Watch column examines cert petitions that the Supreme Court has “relisted” for its upcoming conference. A short explanation of relists is available here . This Thursday’s conference is the last one currently scheduled during…",
+          "published": "2026-06-25T15:30:00.000Z"
+        },
+        {
+          "title": "Supreme Court strikes down Hawaii gun restriction",
+          "link": "https://www.scotusblog.com/2026/06/supreme-court-strikes-hawaii-gun-restriction/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 25 at 1:25 p.m. The Supreme Court on Thursday struck down a Hawaii law that makes it a crime for gun owners to bring their guns onto private property that is open to the public unless they have the property owner’s…",
+          "published": "2026-06-25T15:13:00.000Z"
+        },
+        {
+          "title": "Major decisions ahead",
+          "link": "https://www.scotusblog.com/2026/06/major-decisions-ahead/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "We’re expecting 12 more opinions in argued cases. At least one is expected today.",
+          "published": "2026-06-25T13:00:00.000Z"
+        },
+        {
+          "title": "The blast radius of Callais – and what it means for Constitutional Law",
+          "link": "https://www.scotusblog.com/2026/06/the-blast-radius-of-callais-and-what-it-means-for-constitutional-law/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "In the month and a half since the Supreme Court decided Louisiana v. Callais , the actual and potential scope of that case’s destructive impact on the Reconstruction Amendments and on congressional power has only become clearer. As a…",
+          "published": "2026-06-24T14:00:00.000Z"
+        },
+        {
+          "title": "When Congress “overrides” the court",
+          "link": "https://www.scotusblog.com/2026/06/when-congress-overrides-the-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court’s April 29 ruling curtailing a key provision of the Voting Rights Act cleared the way for last-minute redistricting pushes in states such as Louisiana and Tennessee . As a result, it fueled new , more urgent calls for…",
+          "published": "2026-06-24T13:30:00.000Z"
+        },
+        {
+          "title": "What to know about the court’s five latest rulings",
+          "link": "https://www.scotusblog.com/2026/06/what-to-know-about-the-court-s-five-latest-rulings/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The next opinion announcement day is expected to be Thursday.",
+          "published": "2026-06-24T13:00:00.000Z"
+        },
+        {
+          "title": "Court sides with government in dispute over rights of green card holders accused of committing a crime",
+          "link": "https://www.scotusblog.com/2026/06/court-sides-with-government-in-dispute-over-rights-of-green-card-holders-accused-of-committing-a/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Tuesday in Blanche v. Lau cleared the way for immigration officers to more freely deny lawful permanent residents – also known as green card holders – admission into the United States. By a vote of 6-3, the court, in…",
+          "published": "2026-06-23T21:18:00.000Z"
+        },
+        {
+          "title": "Justices reject constitutional attack on foreclosure rules",
+          "link": "https://www.scotusblog.com/2026/06/justices-reject-constitutional-attack-on-foreclosure-rules/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 24 at 9:35 a.m. Tuesday’s decision in Pung v. Isabella County squarely rejects an argument that the longstanding use of tax foreclosure sales as a method to collect unpaid real-estate taxes violates the takings clause of…",
+          "published": "2026-06-23T21:11:00.000Z"
+        },
+        {
+          "title": "Justices send compensation dispute over seized home back to lower court",
+          "link": "https://www.scotusblog.com/2026/06/justices-send-compensation-dispute-over-seized-home-back-to-lower-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Tuesday sent a dispute over the compensation that a Michigan county was required to pay to a homeowner after it sold his house because of unpaid taxes back to the lower court. In an opinion by Justice Samuel Alito,…",
+          "published": "2026-06-23T19:23:29.000Z"
+        },
+        {
+          "title": "Court rules for Exxon Mobil in Cuban confiscation case",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-for-exxon-mobil-in-cuban-confiscation-case/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 23 at 4:45 p.m. The Supreme Court on Tuesday ruled in Exxon Mobil v. Corporación Cimex that a lawsuit by Exxon Mobil against Cuban state-owned companies for the confiscation of assets owned by subsidiaries of the oil…",
+          "published": "2026-06-23T17:35:00.000Z"
         }
       ]
     }
