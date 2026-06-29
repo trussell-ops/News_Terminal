@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-28T22:55:16.916Z",
+  "updated": "2026-06-29T00:01:15.554Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Got the tennis bug? How to play sport without paying",
+          "link": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "As the world's best players begin play at Wimbledon, how can you get into sport on a budget.",
+          "published": "2026-06-28T23:06:00.000Z"
+        },
         {
           "title": "How much should we be prepared to pay for our food?",
           "link": "https://www.bbc.co.uk/news/articles/c3ryqywd97do?at_medium=RSS&at_campaign=rss",
@@ -133,14 +141,6 @@
           "published": "2026-06-26T12:00:01.000Z"
         },
         {
-          "title": "Record temperatures drives up home air conditioning sales",
-          "link": "https://www.bbc.co.uk/news/articles/c1wyl2glg93o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Companies see inquiries surge during heatwaves as UK households look to cool down their homes.",
-          "published": "2026-06-26T11:16:26.000Z"
-        },
-        {
           "title": "Estrogen patches are hard to find, and it may not be resolved any time soon",
           "link": "https://www.cnbc.com/2026/06/26/estrogen-patches-are-in-short-supply-as-women-seek-menopause-support.html",
           "source": "CNBC Business",
@@ -210,12 +210,36 @@
           "published": "2026-06-28T22:32:04.000Z"
         },
         {
+          "title": "A QNX-inspired operating system with selectable kernels",
+          "link": "https://qsoe.net",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-28T22:21:51.000Z"
+        },
+        {
+          "title": "Xonaly – Canada's Independent Search Engine",
+          "link": "https://xonaly.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-28T22:20:56.000Z"
+        },
+        {
           "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
           "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
           "source": "The Verge",
           "category": "tech",
           "snippet": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more…",
           "published": "2026-06-28T21:42:51.000Z"
+        },
+        {
+          "title": "POSIX Is Not a Shell",
+          "link": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-28T20:39:50.000Z"
         },
         {
           "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
@@ -250,22 +274,6 @@
           "published": "2026-06-28T19:38:00.000Z"
         },
         {
-          "title": "The US Used to Demand the Best Tech. Now We Ban It",
-          "link": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T19:07:49.000Z"
-        },
-        {
-          "title": "Do LLMs pass the mirror test?",
-          "link": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T19:06:07.000Z"
-        },
-        {
           "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
           "link": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
           "source": "Hacker News",
@@ -274,7 +282,7 @@
           "published": "2026-06-28T18:59:53.000Z"
         },
         {
-          "title": "British Origami: the 1955 exhibition by Akira Yoshizawa",
+          "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
           "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
           "source": "Hacker News",
           "category": "tech",
@@ -304,6 +312,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-28T18:32:53.000Z"
+        },
+        {
+          "title": "The cost YAGNI was never about",
+          "link": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-28T18:31:54.000Z"
         },
         {
           "title": "GLM 5.2 beats Claude in our benchmarks",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-28T16:24:10.000Z"
-        },
-        {
-          "title": "Examining circuit boards from the Space Shuttle's I&#x2F;O Processor",
-          "link": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T16:16:07.000Z"
-        },
-        {
-          "title": "Show HN: Zanagrams",
-          "link": "https://zanagrams.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T15:26:14.000Z"
         }
       ]
     },
