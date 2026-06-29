@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T00:01:15.554Z",
+  "updated": "2026-06-29T05:08:26.074Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,28 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Knowledge Distillation of Black-Box Large Language Models",
+          "title": "Age verification is just a precursor to automated attribution of speech",
+          "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-29T03:42:07.000Z"
+        },
+        {
+          "title": "HackerRank open sourced its ATS. My resume scored 90&#x2F;100. Oh wait 74. No – 88",
+          "link": "https://danunparsed.com/p/hackerrank-open-source-ats",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-29T01:44:40.000Z"
+        },
+        {
+          "title": "You might not need a service worker",
+          "link": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-29T00:48:17.000Z"
+        },
+        {
+          "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
           "link": "https://arxiv.org/abs/2401.07013",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-28T22:32:04.000Z"
-        },
-        {
-          "title": "A QNX-inspired operating system with selectable kernels",
-          "link": "https://qsoe.net",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T22:21:51.000Z"
-        },
-        {
-          "title": "Xonaly – Canada's Independent Search Engine",
-          "link": "https://xonaly.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T22:20:56.000Z"
         },
         {
           "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
@@ -234,28 +242,12 @@
           "published": "2026-06-28T21:42:51.000Z"
         },
         {
-          "title": "POSIX Is Not a Shell",
-          "link": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T20:39:50.000Z"
-        },
-        {
           "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
           "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and…",
           "published": "2026-06-28T20:27:36.000Z"
-        },
-        {
-          "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-          "link": "https://github.com/kamaludu/bash4llm/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T19:43:10.000Z"
         },
         {
           "title": "Show HN: NanoEuler – GPT-2 scale model in pure C&#x2F;CUDA from scratch",
@@ -272,22 +264,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-28T19:38:00.000Z"
-        },
-        {
-          "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
-          "link": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T18:59:53.000Z"
-        },
-        {
-          "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
-          "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T18:56:46.000Z"
         },
         {
           "title": "Why did this journal retract two 1940s papers by Max Planck?",
@@ -312,14 +288,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-28T18:32:53.000Z"
-        },
-        {
-          "title": "The cost YAGNI was never about",
-          "link": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-28T18:31:54.000Z"
         },
         {
           "title": "GLM 5.2 beats Claude in our benchmarks",
@@ -392,6 +360,38 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-28T16:24:10.000Z"
+        },
+        {
+          "title": "Examining circuit boards from the Space Shuttle's I&#x2F;O Processor",
+          "link": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-28T16:16:07.000Z"
+        },
+        {
+          "title": "Show HN: Zanagrams",
+          "link": "https://zanagrams.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-28T15:26:14.000Z"
+        },
+        {
+          "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+          "link": "https://pudding.cool/2026/06/menu-story/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-28T14:44:56.000Z"
+        },
+        {
+          "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security…",
+          "published": "2026-06-28T14:12:06.000Z"
         }
       ]
     },
@@ -399,140 +399,12 @@
       "label": "Legal Developments",
       "items": [
         {
-          "title": "S C Takes The Salary Plunge See Also",
-          "link": "https://abovethelaw.com/2026/06/abc-fights-back-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Sullivan Crowell Raises Associate Salaries: Probably to the Milbank scale. Brendan Carr Wants To Crack Down On \"The View\" : Wasn't a problem over the last 26 years . Is This Satire? If only : Ben Sasse's creed against SCOTUS cameras is…",
-          "published": "2026-06-26T23:30:00.000Z"
-        },
-        {
-          "title": "Democracy Isn t Always Easy",
-          "link": "https://abovethelaw.com/2026/06/democracy-isnt-always-easy/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The people have the power, even when you don't like it. The post Democracy Isn t Always Easy appeared first on Above the Law .",
-          "published": "2026-06-26T22:33:00.000Z"
-        },
-        {
-          "title": "Sullivan Cromwell Jumps On Biglaw Salary Raise Train",
-          "link": "https://abovethelaw.com/2026/06/sullivan-cromwell-jumps-on-biglaw-salary-raise-train/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A last minute pick me up going into the weekend. The post Sullivan & Cromwell Jumps On Biglaw Salary Raise Train appeared first on Above the Law .",
-          "published": "2026-06-26T22:22:19.000Z"
-        },
-        {
-          "title": "Appeals Court Orders $10K In Sanctions Over AI-Related Filing Mistakes",
-          "link": "https://abovethelaw.com/2026/06/appeals-court-orders-10k-in-sanctions-over-ai-related-filing-mistakes/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "That could have been spent on a lot of tokens! The post Appeals Court Orders $10K In Sanctions Over AI-Related Filing Mistakes appeared first on Above the Law .",
-          "published": "2026-06-26T21:16:00.000Z"
-        },
-        {
-          "title": "How Appealing Weekly Roundup",
-          "link": "https://abovethelaw.com/2026/06/how-appealing-weekly-roundup-175/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
-          "published": "2026-06-26T20:35:00.000Z"
-        },
-        {
-          "title": "House Appropriators Approve $1T Defense Bill, Adopt ‘War Department’ Renaming",
-          "link": "https://breakingdefense.com/2026/06/house-appropriators-approve-1t-defense-bill-adopt-war-department-renaming/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "No amendments offered by Democrats survived the long mark up session for the fiscal 2027 spending bill. The post House Appropriators Approve $1T Defense Bill, Adopt ‘War Department’ Renaming appeared first on Above the Law .",
-          "published": "2026-06-26T19:43:00.000Z"
-        },
-        {
-          "title": "JD Vance: Watergate Would Be No Big Deal Today. He s Right, And That s The Problem.",
-          "link": "https://abovethelaw.com/2026/06/jd-vance-watergate-would-be-no-big-deal-today-hes-right-and-thats-the-problem/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Sir, that's not a defense of Nixon. The post JD Vance: Watergate Would Be No Big Deal Today. He s Right, And That s The Problem. appeared first on Above the Law .",
-          "published": "2026-06-26T19:14:00.000Z"
-        },
-        {
-          "title": "In-House Counsel Say They Want More From Outside Counsel But Don’t Demand It",
-          "link": "https://abovethelaw.com/2026/06/in-house-counsel-say-they-want-more-from-outside-counsel-but-dont-demand-it/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The more things change ... The post In-House Counsel Say They Want More From Outside Counsel But Don’t Demand It appeared first on Above the Law .",
-          "published": "2026-06-26T18:42:00.000Z"
-        },
-        {
-          "title": "Ben Sasse Pens Hilarious Supreme Court Satire, But I m Afraid He s Totally Serious",
-          "link": "https://abovethelaw.com/2026/06/ben-sasse-pens-hilarious-supreme-court-satire-but-im-afraid-hes-totally-serious/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Unintentional comedy at the highest level. The post Ben Sasse Pens Hilarious Supreme Court Satire, But I m Afraid He s Totally Serious appeared first on Above the Law .",
-          "published": "2026-06-26T18:14:00.000Z"
-        },
-        {
-          "title": "The Science Of Relationships And Business Development For Lawyers",
-          "link": "https://abovethelaw.com/2026/06/the-science-of-relationships-and-business-development-for-lawyers/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "What if networking wasn't sales at all? The post The Science Of Relationships And Business Development For Lawyers appeared first on Above the Law .",
-          "published": "2026-06-26T17:44:00.000Z"
-        },
-        {
-          "title": "Bill Barr Would Like The Senate To Know: Confirm Todd Blanche Or The Hostage Gets It",
-          "link": "https://abovethelaw.com/2026/06/bill-barr-would-like-the-senate-to-know-confirm-todd-blanche-or-the-hostage-gets-it/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The faintest of praise, from the least reassuring of messengers. The post Bill Barr Would Like The Senate To Know: Confirm Todd Blanche Or The Hostage Gets It appeared first on Above the Law .",
-          "published": "2026-06-26T17:02:00.000Z"
-        },
-        {
           "title": "Hunter v. United States – the most important criminal case of the term",
           "link": "https://www.scotusblog.com/2026/06/hunter-v-united-states-the-most-important-criminal-case-of-the-term/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "The term is not quite over, but I have no doubt that Hunter v. United States , decided on June 18, is its most important criminal case. In Hunter , the court ruled that there is a “miscarriage of justice” exception to waivers of appeal,…",
           "published": "2026-06-26T17:00:00.000Z"
-        },
-        {
-          "title": "How To Use Client Success Stories To Gain Trustworthiness",
-          "link": "https://abovethelaw.com/2026/06/how-to-use-client-success-stories-to-gain-trustworthiness/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Building trustworthiness is a long game. The post How To Use Client Success Stories To Gain Trustworthiness appeared first on Above the Law .",
-          "published": "2026-06-26T16:33:00.000Z"
-        },
-        {
-          "title": "DOJ Tries To End Slush Fund Suit By Telling Judge Brinkema To Get Bent. Fails.",
-          "link": "https://abovethelaw.com/2026/06/doj-tries-to-end-slush-fund-suit-by-telling-judge-brinkema-to-get-bent-fails/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "It's another Stan Woodward special! The post DOJ Tries To End Slush Fund Suit By Telling Judge Brinkema To Get Bent. Fails. appeared first on Above the Law .",
-          "published": "2026-06-26T15:59:00.000Z"
-        },
-        {
-          "title": "Origination Battles At Law Firms Can Be Intense",
-          "link": "https://abovethelaw.com/2026/06/origination-battles-at-law-firms-can-be-intense/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Whenever there is money involved, there are undoubtedly going to be disputes about who is entitled to a given share of revenue. The post Origination Battles At Law Firms Can Be Intense appeared first on Above the Law .",
-          "published": "2026-06-26T15:35:00.000Z"
-        },
-        {
-          "title": "Associate Compensation Scorecard: Where Are Biglaw Firms In The Race To Match Milbank?",
-          "link": "https://abovethelaw.com/2026/06/associate-compensation-scorecard-the-2026-summer-of-salary-increases/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "We're keeping track of every raise, bonus, and compensation move as law firms make their decisions. The post Associate Compensation Scorecard: Where Are Biglaw Firms In The Race To Match Milbank? appeared first on Above the Law .",
-          "published": "2026-06-26T14:50:04.000Z"
-        },
-        {
-          "title": "Giant Baby Brendan Carr Is Very Upset That ABC Is Fighting Back",
-          "link": "https://abovethelaw.com/2026/06/giant-baby-brendan-carr-is-very-upset-that-abc-is-fighting-back/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "From the thin-skinned-babies-of-a-feather dept The post Giant Baby Brendan Carr Is Very Upset That ABC Is Fighting Back appeared first on Above the Law .",
-          "published": "2026-06-26T14:15:21.000Z"
         },
         {
           "title": "When justices wade into politics",
@@ -543,14 +415,6 @@
           "published": "2026-06-26T13:30:00.000Z"
         },
         {
-          "title": "Morning Docket: 06.26.26",
-          "link": "https://abovethelaw.com/2026/06/morning-docket-06-26-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Todd Blanche \"conceded\" to breaking Epstein file disclosure law. Judge gives DOJ a week to fix it. [ Politico ] * Republicans flail trying to explain how they oppose birthright citizenship and still root for a USA soccer team led by a…",
-          "published": "2026-06-26T13:00:30.000Z"
-        },
-        {
           "title": "Court rules on gun rights, immigration, and pesticide labels",
           "link": "https://www.scotusblog.com/2026/06/court-rules-on-gun-rights-immigration-and-pesticide-labels/",
           "source": "SCOTUSblog",
@@ -559,36 +423,172 @@
           "published": "2026-06-26T13:00:00.000Z"
         },
         {
-          "title": "No Points For Held Tongues See Also",
-          "link": "https://abovethelaw.com/2026/06/no-points-for-held-tongues-see-also/",
-          "source": "Above the Law",
+          "title": "An unusual retort to a dissent from the bench",
+          "link": "https://www.scotusblog.com/2026/06/an-unusual-retort-to-a-dissent-from-the-bench/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Alito Whines He Could Have Said More In Disagreement With Sotomayor : Reserve what you should have argued for the shower, bub . Who Needs Milbank When You Have Groombridge ?!: The boutique firm is compensating their associates handsomely…",
-          "published": "2026-06-25T23:30:00.000Z"
+          "snippet": "Updated at 6:06 p.m. Next week, what is being billed as the biggest fireworks show ever in Washington, D.C., will help celebrate the nation’s 250th birthday. Yet the Supreme Court will offer its own pyrotechnics this morning with a…",
+          "published": "2026-06-25T20:30:00.000Z"
         },
         {
-          "title": "Lawyers Aren t Getting The Most Out Of AI",
-          "link": "https://abovethelaw.com/2026/06/lawyers-arent-getting-the-most-out-of-ai/",
-          "source": "Above the Law",
+          "title": "Court rules for Roundup maker in dispute over cancer warnings on pesticide labels",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-for-roundup-maker-in-dispute-over-cancer-warnings-on-pesticide-labels/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Adoption is one thing... The post Lawyers Aren t Getting The Most Out Of AI appeared first on Above the Law .",
-          "published": "2026-06-25T23:04:00.000Z"
+          "snippet": "Updated on June 25 at 5:59 p.m. The Supreme Court on Thursday sided with Monsanto in a high-stakes dispute over cancer warnings on pesticide labels. In an opinion by Justice Brett Kavanaugh in Monsanto Company v. Durnell , the court…",
+          "published": "2026-06-25T17:04:31.000Z"
         },
         {
-          "title": "Thomson Reuters CEO Steve Hasker On The Next Generation Of CoCounsel, The ‘Future Of Professionals’ Report, And Why TR Is Building Its Own LLM",
-          "link": "https://www.lawnext.com/2026/06/thomson-reuters-ceo-steve-hasker-on-the-next-generation-of-cocounsel-the-future-of-professionals-report-and-why-tr-is-building-its-own-llm.html",
-          "source": "Above the Law",
+          "title": "Justices side with Trump administration in border dispute over asylum seekers",
+          "link": "https://www.scotusblog.com/2026/06/justices-side-with-trump-administration-in-border-dispute-over-asylum-seekers/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Hasker also talked about the company’s development of its own LLM, called Thomson. The post Thomson Reuters CEO Steve Hasker On The Next Generation Of CoCounsel, The ‘Future Of Professionals’ Report, And Why TR Is Building Its Own LLM…",
-          "published": "2026-06-25T22:17:00.000Z"
+          "snippet": "Updated on June 25 at 5:10 p.m. The Supreme Court on Thursday upheld the federal government’s policy of systematically turning back asylum seekers before they can reach the U.S.-Mexico border. By a vote of 6-3, the justices agreed with…",
+          "published": "2026-06-25T15:49:28.000Z"
         },
         {
-          "title": "People, Prompts, And Product: The ‘Vibe Coding’ Revolution In Biglaw",
-          "link": "https://abovethelaw.com/2026/06/people-prompts-and-product-the-vibe-coding-revolution-in-biglaw/",
-          "source": "Above the Law",
+          "title": "Court allows Trump administration to end removal protections for Syrian and Haitian nationals",
+          "link": "https://www.scotusblog.com/2026/06/supreme-court-allows-trump-administration-to-end-removal-protections-for-syrian-and-haitian-nati/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "There is both transformative potential and significant risks in democratizing software development. The post People, Prompts, And Product: The ‘Vibe Coding’ Revolution In Biglaw appeared first on Above the Law .",
-          "published": "2026-06-25T21:47:00.000Z"
+          "snippet": "Updated on June 25 at 2:35 p.m. The Supreme Court on Thursday cleared the way for the federal government to remove protections for citizens of Haiti and Syria under a federal program that allows foreign citizens to stay in the United…",
+          "published": "2026-06-25T15:32:30.000Z"
+        },
+        {
+          "title": "Penultimate relists: papers, parents, and procedural puzzles",
+          "link": "https://www.scotusblog.com/2026/06/penultimate-relists-papers-parents-and-procedural-puzzles-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Relist Watch column examines cert petitions that the Supreme Court has “relisted” for its upcoming conference. A short explanation of relists is available here . This Thursday’s conference is the last one currently scheduled during…",
+          "published": "2026-06-25T15:30:00.000Z"
+        },
+        {
+          "title": "Supreme Court strikes down Hawaii gun restriction",
+          "link": "https://www.scotusblog.com/2026/06/supreme-court-strikes-hawaii-gun-restriction/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 25 at 1:25 p.m. The Supreme Court on Thursday struck down a Hawaii law that makes it a crime for gun owners to bring their guns onto private property that is open to the public unless they have the property owner’s…",
+          "published": "2026-06-25T15:13:00.000Z"
+        },
+        {
+          "title": "Major decisions ahead",
+          "link": "https://www.scotusblog.com/2026/06/major-decisions-ahead/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "We’re expecting 12 more opinions in argued cases. At least one is expected today.",
+          "published": "2026-06-25T13:00:00.000Z"
+        },
+        {
+          "title": "The blast radius of Callais – and what it means for Constitutional Law",
+          "link": "https://www.scotusblog.com/2026/06/the-blast-radius-of-callais-and-what-it-means-for-constitutional-law/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "In the month and a half since the Supreme Court decided Louisiana v. Callais , the actual and potential scope of that case’s destructive impact on the Reconstruction Amendments and on congressional power has only become clearer. As a…",
+          "published": "2026-06-24T14:00:00.000Z"
+        },
+        {
+          "title": "When Congress “overrides” the court",
+          "link": "https://www.scotusblog.com/2026/06/when-congress-overrides-the-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court’s April 29 ruling curtailing a key provision of the Voting Rights Act cleared the way for last-minute redistricting pushes in states such as Louisiana and Tennessee . As a result, it fueled new , more urgent calls for…",
+          "published": "2026-06-24T13:30:00.000Z"
+        },
+        {
+          "title": "What to know about the court’s five latest rulings",
+          "link": "https://www.scotusblog.com/2026/06/what-to-know-about-the-court-s-five-latest-rulings/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The next opinion announcement day is expected to be Thursday.",
+          "published": "2026-06-24T13:00:00.000Z"
+        },
+        {
+          "title": "Court sides with government in dispute over rights of green card holders accused of committing a crime",
+          "link": "https://www.scotusblog.com/2026/06/court-sides-with-government-in-dispute-over-rights-of-green-card-holders-accused-of-committing-a/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Tuesday in Blanche v. Lau cleared the way for immigration officers to more freely deny lawful permanent residents – also known as green card holders – admission into the United States. By a vote of 6-3, the court, in…",
+          "published": "2026-06-23T21:18:00.000Z"
+        },
+        {
+          "title": "Justices reject constitutional attack on foreclosure rules",
+          "link": "https://www.scotusblog.com/2026/06/justices-reject-constitutional-attack-on-foreclosure-rules/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 24 at 9:35 a.m. Tuesday’s decision in Pung v. Isabella County squarely rejects an argument that the longstanding use of tax foreclosure sales as a method to collect unpaid real-estate taxes violates the takings clause of…",
+          "published": "2026-06-23T21:11:00.000Z"
+        },
+        {
+          "title": "Justices send compensation dispute over seized home back to lower court",
+          "link": "https://www.scotusblog.com/2026/06/justices-send-compensation-dispute-over-seized-home-back-to-lower-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Tuesday sent a dispute over the compensation that a Michigan county was required to pay to a homeowner after it sold his house because of unpaid taxes back to the lower court. In an opinion by Justice Samuel Alito,…",
+          "published": "2026-06-23T19:23:29.000Z"
+        },
+        {
+          "title": "Court rules for Exxon Mobil in Cuban confiscation case",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-for-exxon-mobil-in-cuban-confiscation-case/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 23 at 4:45 p.m. The Supreme Court on Tuesday ruled in Exxon Mobil v. Corporación Cimex that a lawsuit by Exxon Mobil against Cuban state-owned companies for the confiscation of assets owned by subsidiaries of the oil…",
+          "published": "2026-06-23T17:35:00.000Z"
+        },
+        {
+          "title": "Supreme Court limits ability of foreigners to bring lawsuits for violations of international law",
+          "link": "https://www.scotusblog.com/2026/06/supreme-court-limits-ability-of-foreigners-to-bring-lawsuits-for-violations-of-international-law/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated at 3:30 p.m. The Supreme Court on Tuesday made it far more difficult for foreigners to bring lawsuits in U.S. courts alleging serious violations of international law. In an opinion by Justice Amy Coney Barrett , the justices ruled…",
+          "published": "2026-06-23T16:13:00.000Z"
+        },
+        {
+          "title": "Court rules former Louisiana inmate cannot sue prison officials in religious dispute over long hair",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-former-louisiana-inmate-cannot-sue-prison-officials-in-religious-dispute-over-long-h/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 23 at 2:51 p.m. The Supreme Court on Tuesday ruled in Landor v. Louisiana Department of Corrections that a Louisiana man cannot sue prison officials who shaved his head even after he showed them a copy of a court ruling…",
+          "published": "2026-06-23T15:31:00.000Z"
+        },
+        {
+          "title": "Key takeaways from a jam-packed order list",
+          "link": "https://www.scotusblog.com/2026/06/key-takeaways-from-a-jam-packed-order-list/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, the court is expected to announce one or more opinions this morning.",
+          "published": "2026-06-23T13:00:00.000Z"
+        },
+        {
+          "title": "Texas asks court to leave in place age-verification and parental-consent law on apps",
+          "link": "https://www.scotusblog.com/2026/06/texas-asks-court-to-leave-in-place-age-verification-and-parental-consent-law-on-apps/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "On Monday afternoon, Texas urged the Supreme Court to leave in place an order by the U.S. Court of Appeals for the 5th Circuit that allows the state to enforce a law that imposes age-verification and parental-consent requirements on…",
+          "published": "2026-06-22T22:43:00.000Z"
+        },
+        {
+          "title": "Supreme Court declines to hear several important cases, including on voting rights and the environment",
+          "link": "https://www.scotusblog.com/2026/06/court-declines-to-hear-several-noteworthy-cases-including-on-voting-rights-and-the-environment/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Monday morning denied review in several notable cases, including cases involving voting rights, the environment, and a trademark dispute involving a company founded by NBA superstar LeBron James. It also asked for the…",
+          "published": "2026-06-22T19:08:00.000Z"
+        },
+        {
+          "title": "Justices issue orders on murder-for-hire case involving social media influencer, the role of race in seizing persons, and the execution of a Texas man claiming to be intellectually disabled",
+          "link": "https://www.scotusblog.com/2026/06/justices-issue-orders-on-murder-for-hire-case-involving-social-media-influencer-the-role-of-race/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Over a dissent by Justice Samuel Alito, the Supreme Court on Monday sent the case of a Texas woman convicted of hiring someone to commit murder back to the lower court for another look. And its denial of review in two other criminal cases…",
+          "published": "2026-06-22T18:26:00.000Z"
+        },
+        {
+          "title": "Court reimposes conviction of man found to have killed Etan Patz",
+          "link": "https://www.scotusblog.com/2026/06/court-reimposes-conviction-of-man-found-to-have-killed-etan-patz/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Monday morning threw out a lower-court ruling that called for a new trial for the man convicted of the 1979 kidnapping and murder of Etan Patz, one of the first missing children to be featured on milk cartons. The…",
+          "published": "2026-06-22T16:47:00.000Z"
         }
       ]
     }
