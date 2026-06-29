@@ -1,11 +1,27 @@
 {
-  "updated": "2026-06-29T17:28:21.865Z",
+  "updated": "2026-06-29T19:20:50.012Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
+          "title": "Comcast's NBCUniversal spinoff raises hope for more deals. There may not be good options",
+          "link": "https://www.cnbc.com/2026/06/29/comcast-nbcu-spinoff-m-and-a.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Comcast plans to separate its cable and media divisions over the next year. This could set each company up for M&A, but there might not be any good options.",
+          "published": "2026-06-29T18:59:34.000Z"
+        },
+        {
+          "title": "Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities",
+          "link": "https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Eli Lilly and Regeneron are among the first seven companies the FDA has selected for its PreCheck Pilot Program, CNBC has learned.",
+          "published": "2026-06-29T18:53:48.000Z"
+        },
+        {
+          "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
           "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -179,28 +195,76 @@
           "category": "markets",
           "snippet": "The moves would appear to make Doug Petno and Troy Rohrbaugh the most obvious possible successors to JPMorgan Chase CEO Jamie Dimon.",
           "published": "2026-06-26T12:32:02.000Z"
-        },
-        {
-          "title": "The brands winning with World Cup advertising may not be the sponsors",
-          "link": "https://www.cnbc.com/2026/06/26/world-cup-marketing-levis-nike-taco-bell.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The World Cup winners and losers in advertising may be indicative of a broader trend of how people are responding to authentic branding.",
-          "published": "2026-06-26T12:30:01.000Z"
-        },
-        {
-          "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones",
-          "link": "https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "As the global race for AI moves forward, a shortage of memory chips has begun to drive up prices of consumer electronics and may lead to product shortages.",
-          "published": "2026-06-26T12:00:01.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Sony s next-gen PlayStation will go ‘beyond the living room’",
+          "link": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Sony hinted in a recent Q A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room. Here's the relevant portion from the transcript, emphasis mine: Q:…",
+          "published": "2026-06-29T19:12:15.000Z"
+        },
+        {
+          "title": "OpenAI is teasing new hardware… for Codex",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex…",
+          "published": "2026-06-29T18:52:03.000Z"
+        },
+        {
+          "title": "The 80% Problem: The Last 20% Is Where the Engineer Used to Live",
+          "link": "https://www.jonathanbeard.io/blog/2026/06/27/the-80-percent-problem.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-29T18:35:23.000Z"
+        },
+        {
+          "title": "Google warns EU's plans to weaken its monopoly could expose user data",
+          "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
+          "published": "2026-06-29T18:21:31.000Z"
+        },
+        {
+          "title": "Quantum computing startup says it will leapfrog everybody",
+          "link": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "But the system would require a massive leap from any of its existing hardware.",
+          "published": "2026-06-29T17:59:50.000Z"
+        },
+        {
+          "title": "At $499, Apple s M3-powered iPad Air is a good deal",
+          "link": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Most of Apple s price increases have gone into effect, resulting in iPads and other products costing hundreds more than they did a few days ago. If last week’s Prime Day sale wasn t a good time to consider buying an iPad, we found a deal…",
+          "published": "2026-06-29T17:49:12.000Z"
+        },
+        {
+          "title": "Kalshi sues Illinois over new tax on prediction market sports bets",
+          "link": "https://arstechnica.com/tech-policy/2026/06/kalshi-sues-illinois-over-new-tax-on-prediction-market-sports-bets/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Illinois now a key battleground in fight over prediction market sports bets.",
+          "published": "2026-06-29T17:48:11.000Z"
+        },
+        {
+          "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+          "link": "https://github.com/deepreinforce-ai/Ornith-1",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-29T17:16:17.000Z"
+        },
         {
           "title": "Qwen 3.6 27B is the sweet spot for local development",
           "link": "https://quesma.com/blog/qwen-36-is-awesome/",
@@ -218,12 +282,12 @@
           "published": "2026-06-29T16:42:48.000Z"
         },
         {
-          "title": "In San Francisco, Even $180k Tech Salaries Are No Longer Enough",
-          "link": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html",
+          "title": "The Radiation Exposure Lie",
+          "link": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-06-29T16:20:35.000Z"
+          "published": "2026-06-29T16:27:27.000Z"
         },
         {
           "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
@@ -246,7 +310,7 @@
           "link": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "WhatsApp is introducing a new way to add and chat with contacts, without having to share your phone number. Usernames will be launching \"later this year,\" in a move to make the communications platform \"even more private,\" allowing you to…",
+          "snippet": "WhatsApp is introducing a new way to add and chat with contacts, without having to share your phone number. Usernames will launch \"later this year,\" in a move to make the communications platform \"even more private,\" allowing you to keep…",
           "published": "2026-06-29T16:00:00.000Z"
         },
         {
@@ -328,76 +392,36 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-29T15:02:00.000Z"
-        },
-        {
-          "title": "Mag 7 starting to underperform [pdf]",
-          "link": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-29T14:12:55.000Z"
-        },
-        {
-          "title": "You Don't Know Jack About Formal Verification",
-          "link": "https://queue.acm.org/detail.cfm?id=3819084",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-29T14:12:05.000Z"
-        },
-        {
-          "title": "Rocketlab acquires Iridium",
-          "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-29T14:09:24.000Z"
-        },
-        {
-          "title": "Let him cook: How Weber Blackstone CEO Roger Dahle went from upstart to the biggest name in grilling",
-          "link": "https://www.theverge.com/podcast/958790/weber-blackstone-ceo-roger-dahle-grilling-griddles-merger-outdoor-cooking",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "It’s time for our annual Fourth of July grill episode here at Decoder. This is when we invite the CEOs of outdoor cooking companies onto the show to explain just how their businesses kind of look like every other business. And this is a…",
-          "published": "2026-06-29T14:00:00.000Z"
-        },
-        {
-          "title": "CachyOS June 2026 Release",
-          "link": "https://cachyos.org/blog/2606-june-release/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-29T13:56:46.000Z"
-        },
-        {
-          "title": "Rocket Lab is buying Iridium s satellite network for $8 billion to take on SpaceX",
-          "link": "https://www.theverge.com/science/958891/rocket-lab-iridium-acquisition-satellite-communications",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Rocket Lab, the space company best known for its small satellite launcher Electron, has announced plans to acquire Iridium Communications for $8 billion. The deal will combine Rocket Lab's launch services and spacecraft manufacturing with…",
-          "published": "2026-06-29T13:51:24.000Z"
-        },
-        {
-          "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
-          "link": "https://twitter.com/i/status/2071277885646868536",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-29T13:26:35.000Z"
-        },
-        {
-          "title": "Comcast is splitting its media and broadband properties",
-          "link": "https://arstechnica.com/tech-policy/2026/06/comcast-is-splitting-its-media-and-broadband-properties/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "NBCUniversal and Sky will be spun off into separate companies.",
-          "published": "2026-06-29T13:25:41.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Biglaw s Newest Transatlantic Giant Unveils An Ambitious Global Vision",
+          "link": "https://abovethelaw.com/2026/06/biglaws-newest-transatlantic-giant-unveils-an-ambitious-global-vision/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The combined firm says it has the scale and reach to help clients navigate increasingly complex challenges. The post Biglaw s Newest Transatlantic Giant Unveils An Ambitious Global Vision appeared first on Above the Law .",
+          "published": "2026-06-29T19:14:00.000Z"
+        },
+        {
+          "title": "Two Justices Just Signaled Again That They Want To Destroy Press Freedom",
+          "link": "https://abovethelaw.com/2026/06/two-justices-just-signaled-again-that-they-want-to-destroy-press-freedom/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Using Dershowitz's failed CNN defamation suit as their vehicle, the justices once again called for overturning New York Times v. Sullivan. The post Two Justices Just Signaled Again That They Want To Destroy Press Freedom appeared first on…",
+          "published": "2026-06-29T18:32:00.000Z"
+        },
+        {
+          "title": "PACER Fees Rising 20 Percent Because Screw You, That s Why",
+          "link": "https://abovethelaw.com/2026/06/pacer-fees-rising-20-percent-because-screw-you-thats-why/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Courts say they need the extra money for a three-quarter billion-dollar security patch. The post PACER Fees Rising 20 Percent Because Screw You, That s Why appeared first on Above the Law .",
+          "published": "2026-06-29T17:43:00.000Z"
+        },
         {
           "title": "The Client Service A-Team: Ranking The Biglaw Superheroes Of Client Service (2026)",
           "link": "https://abovethelaw.com/2026/06/the-client-service-a-team-ranking-the-biglaw-superheroes-of-client-service-2026/",
@@ -435,7 +459,7 @@
           "link": "https://www.scotusblog.com/2026/06/justices-uphold-state-law-allowing-for-late-arriving-mail-in-ballots/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Just over four months before the 2026 midterm elections, the Supreme Court on Monday upheld a Mississippi law that allows mail-in ballots to be counted as long as they are postmarked by, and received within five days of, Election Day. By…",
+          "snippet": "Updated on June 29 at 2:30 p.m. Just over four months before the 2026 midterm elections, the Supreme Court on Monday upheld a Mississippi law that allows mail-in ballots to be counted as long as they are postmarked by, and received within…",
           "published": "2026-06-29T15:12:49.000Z"
         },
         {
@@ -443,7 +467,7 @@
           "link": "https://www.scotusblog.com/2026/06/court-prevents-trump-from-firing-fed-governor/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The Supreme Court on Monday ruled in favor of Lisa Cook, a member of the Federal Reserve’s Board of Governors whom President Donald Trump had attempted to fire. By a vote of 5-4, the court held that Cook can continue to remain in her job…",
+          "snippet": "Updated on June 29 at 1:35 p.m. The Supreme Court on Monday ruled in favor of Lisa Cook, a member of the Federal Reserve’s Board of Governors whom President Donald Trump had attempted to fire. By a vote of 5-4, the court held that Cook…",
           "published": "2026-06-29T14:53:46.000Z"
         },
         {
@@ -455,7 +479,7 @@
           "published": "2026-06-29T14:47:00.000Z"
         },
         {
-          "title": "Court allows Trump to fire FTC commissioner and overturns major restraint on presidential power",
+          "title": "Supreme Court allows Trump to fire FTC commissioner and overturns major restraint on presidential power",
           "link": "https://www.scotusblog.com/2026/06/court-allows-trump-to-fire-ftc-commissioner-and-overturns-major-restraint-on-presidential-power/",
           "source": "SCOTUSblog",
           "category": "legal",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "The more things change ... The post In-House Counsel Say They Want More From Outside Counsel But Don’t Demand It appeared first on Above the Law .",
           "published": "2026-06-26T18:42:00.000Z"
-        },
-        {
-          "title": "Ben Sasse Pens Hilarious Supreme Court Satire, But I m Afraid He s Totally Serious",
-          "link": "https://abovethelaw.com/2026/06/ben-sasse-pens-hilarious-supreme-court-satire-but-im-afraid-hes-totally-serious/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Unintentional comedy at the highest level. The post Ben Sasse Pens Hilarious Supreme Court Satire, But I m Afraid He s Totally Serious appeared first on Above the Law .",
-          "published": "2026-06-26T18:14:00.000Z"
-        },
-        {
-          "title": "The Science Of Relationships And Business Development For Lawyers",
-          "link": "https://abovethelaw.com/2026/06/the-science-of-relationships-and-business-development-for-lawyers/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "What if networking wasn't sales at all? The post The Science Of Relationships And Business Development For Lawyers appeared first on Above the Law .",
-          "published": "2026-06-26T17:44:00.000Z"
-        },
-        {
-          "title": "Bill Barr Would Like The Senate To Know: Confirm Todd Blanche Or The Hostage Gets It",
-          "link": "https://abovethelaw.com/2026/06/bill-barr-would-like-the-senate-to-know-confirm-todd-blanche-or-the-hostage-gets-it/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The faintest of praise, from the least reassuring of messengers. The post Bill Barr Would Like The Senate To Know: Confirm Todd Blanche Or The Hostage Gets It appeared first on Above the Law .",
-          "published": "2026-06-26T17:02:00.000Z"
         }
       ]
     }
