@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-30T12:28:22.459Z",
+  "updated": "2026-06-30T15:11:06.141Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Medicare will start covering obesity drugs for the first time. Here's what patients should know",
+          "link": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The move could unlock millions of new patients for Novo Nordisk and Eli Lilly and expand access to medications that were previously out of reach for seniors.",
+          "published": "2026-06-30T14:35:38.000Z"
+        },
         {
           "title": "Shetland backs plan to connect islands with £1.5bn undersea tunnels",
           "link": "https://www.bbc.co.uk/news/articles/cvgl1egyl79o?at_medium=RSS&at_campaign=rss",
@@ -11,14 +19,6 @@
           "category": "markets",
           "snippet": "The undersea links between some of the UK's most northerly islands could be in place within eight years.",
           "published": "2026-06-30T12:18:16.000Z"
-        },
-        {
-          "title": "Medicare will start covering obesity drugs for the first time. Here's what patients should know",
-          "link": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The move could unlock millions of new patients for Novo Nordisk and Eli Lilly and expand access to medications that were previously out of reach for seniors.",
-          "published": "2026-06-30T11:34:46.000Z"
         },
         {
           "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
@@ -141,6 +141,14 @@
           "published": "2026-06-29T08:55:29.000Z"
         },
         {
+          "title": "The Everyday Hustle",
+          "link": "https://www.bbc.co.uk/sounds/play/m002y296?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Af Malhotra sits in and discusses how entrepreneurs can use AI daily with Polly Dhaliwal.",
+          "published": "2026-06-29T05:31:00.000Z"
+        },
+        {
           "title": "Fears energy bill rise mean people 'surviving rather than living'",
           "link": "https://www.bbc.co.uk/news/articles/cjwg71zxjz1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Kohl's went from a household name to a plunging stock as it lost relevancy and its core customer. Now, the company is trying to turn itself around.",
           "published": "2026-06-27T12:00:01.000Z"
-        },
-        {
-          "title": "A surprisingly strong summer box office could mean Hollywood's first $10 billion year since the pandemic",
-          "link": "https://www.cnbc.com/2026/06/27/strong-summer-box-office.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Hollywood is having its best summer since the pandemic putting the annual box office on pace to cross $10 billion for the first time in seven years.",
-          "published": "2026-06-27T12:00:01.000Z"
         }
       ]
     },
@@ -202,20 +202,100 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "The Supreme Court stops Trump s attempt to end birthright citizenship",
+          "link": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Supreme Court upheld birthright citizenship, ruling 6-3 against President Donald Trump's effort to end the longstanding constitutional right via executive order. Birthright citizenship dates back to Reconstruction. Under the 14th…",
+          "published": "2026-06-30T14:44:42.000Z"
+        },
+        {
+          "title": "Supreme Court upholds broad conception of birthright citizenship",
+          "link": "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T14:43:54.000Z"
+        },
+        {
+          "title": "Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
+          "link": "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T14:16:57.000Z"
+        },
+        {
+          "title": "Have You Restarted Your Computer This Week?",
+          "link": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T14:15:29.000Z"
+        },
+        {
+          "title": "Looking Ahead to Postgres 19",
+          "link": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T14:14:29.000Z"
+        },
+        {
+          "title": "Beware, Claude Code deletes >30 day old transcripts. Anthropic won't fix it",
+          "link": "https://github.com/anthropics/claude-code/issues/62476",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T13:58:21.000Z"
+        },
+        {
+          "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
+          "link": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Videos purporting to show the iPhone 18 Pro undergoing a drop test were removed from X shortly after they surfaced, as spotted earlier by MacRumors. An account imitating leaker EvLeaks was suspended from X after sharing the clips, while…",
+          "published": "2026-06-30T13:57:41.000Z"
+        },
+        {
+          "title": "Florida bans local governments from pursuing net-zero emissions goals",
+          "link": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Gov. Ron DeSantis calls it a crackdown on \"radical climate policies.\"",
+          "published": "2026-06-30T13:40:16.000Z"
+        },
+        {
+          "title": "Ars Live, today: The latest on the aftermath of the New Glenn catastrophe",
+          "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.",
+          "published": "2026-06-30T13:15:59.000Z"
+        },
+        {
+          "title": "Knoppix",
+          "link": "https://www.knopper.net/knoppix/index-en.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T12:54:01.000Z"
+        },
+        {
+          "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+          "link": "https://www.gutenberg.org/ebooks/24518",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T12:47:51.000Z"
+        },
+        {
           "title": "Meet the lawyer who beat Elon Musk — twice",
           "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his…",
           "published": "2026-06-30T12:00:00.000Z"
-        },
-        {
-          "title": "Sony erases digital content from libraries; reminded we don't own what we buy",
-          "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T11:02:10.000Z"
         },
         {
           "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
@@ -226,7 +306,7 @@
           "published": "2026-06-30T10:48:23.000Z"
         },
         {
-          "title": "European digital ID wallets are a gift to Google and Apple",
+          "title": "European digital ID wallets rely on safety services of Google and Apple",
           "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
           "source": "Hacker News",
           "category": "tech",
@@ -234,7 +314,15 @@
           "published": "2026-06-30T10:36:23.000Z"
         },
         {
-          "title": "Exercise intensity influences body composition in healthy older adults",
+          "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+          "link": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T10:34:25.000Z"
+        },
+        {
+          "title": "Exercise intensity influences body composition in healthy older adults (2025)",
           "link": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
           "source": "Hacker News",
           "category": "tech",
@@ -264,14 +352,6 @@
           "category": "tech",
           "snippet": "Samsung is expected to unveil its next generation of foldables at a Galaxy Unpacked event next month, but now we know what they might look like, courtesy of some leaked images published by Android Headlines. Images shared by the…",
           "published": "2026-06-30T09:54:44.000Z"
-        },
-        {
-          "title": "Antares Achieves Criticality of Mark-0 Reactor",
-          "link": "https://antaresindustries.com/updates/antares-achieves-criticality",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T09:15:21.000Z"
         },
         {
           "title": "Exploring PDP-1 Lisp (1960)",
@@ -312,92 +392,44 @@
           "category": "tech",
           "snippet": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
           "published": "2026-06-29T21:09:43.000Z"
-        },
-        {
-          "title": "T-Mobile is booting customers from its oldest plans",
-          "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Earlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's going about as well…",
-          "published": "2026-06-29T21:06:14.000Z"
-        },
-        {
-          "title": "After a great start, DC’s new cinematic universe is already slowing down",
-          "link": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman,…",
-          "published": "2026-06-29T21:00:00.000Z"
-        },
-        {
-          "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
-          "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is…",
-          "published": "2026-06-29T20:18:26.000Z"
-        },
-        {
-          "title": "US renewable boom passes key milestone in April",
-          "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
-          "published": "2026-06-29T20:12:30.000Z"
-        },
-        {
-          "title": "Supreme Court ruling guts government’s use of geofence warrants",
-          "link": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "SCOTUS falls short of deeming geofence warrants unconstitutional, though.",
-          "published": "2026-06-29T20:04:04.000Z"
-        },
-        {
-          "title": ".self: A new top-level domain designed to support self-hosting",
-          "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-29T19:49:28.000Z"
-        },
-        {
-          "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-          "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as…",
-          "published": "2026-06-29T19:47:35.000Z"
-        },
-        {
-          "title": "Sony s next-gen PlayStation will go ‘beyond the living room’",
-          "link": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Sony hinted in a recent Q A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room. Here's the relevant portion from the transcript, emphasis mine: Q:…",
-          "published": "2026-06-29T19:12:15.000Z"
-        },
-        {
-          "title": "Ozone loss was a thing even before CFCs were widely used",
-          "link": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "With today’s scientific tools, the problem could have been spotted in the 1950s.",
-          "published": "2026-06-29T19:00:23.000Z"
-        },
-        {
-          "title": "OpenAI is teasing new hardware… for Codex",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex…",
-          "published": "2026-06-29T18:52:03.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Midyear Career And Brand Audit You Should Be Doing Right Now",
+          "link": "https://abovethelaw.com/2026/06/the-midyear-career-and-brand-audit-you-should-be-doing-right-now/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Your network is not something you occasionally dust off only when you need it. The post The Midyear Career And Brand Audit You Should Be Doing Right Now appeared first on Above the Law .",
+          "published": "2026-06-30T14:42:00.000Z"
+        },
+        {
+          "title": "Saks Exits Bankruptcy",
+          "link": "https://fashionista.com/2026/06/saks-exits-bankruptcy",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "This is just one of the stories making headlines in fashion. The post Saks Exits Bankruptcy appeared first on Above the Law .",
+          "published": "2026-06-30T14:03:00.000Z"
+        },
+        {
+          "title": "The final four",
+          "link": "https://www.scotusblog.com/2026/06/the-final-four-cases/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Welcome to the final opinion announcement day of the 2025-26 term.",
+          "published": "2026-06-30T13:00:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 06.30.26",
+          "link": "https://abovethelaw.com/2026/06/morning-docket-06-30-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Hogan Lovells Cadwalader makes its premiere tomorrow, with plans for growth on the horizon. [ Bloomberg Law News ] * A little lost in the Supreme Court shell game yesterday, the Court quietly snuffed out Trump's bid to get out of the E.…",
+          "published": "2026-06-30T12:52:00.000Z"
+        },
         {
           "title": "The last grants of the 2025-26 term?",
           "link": "https://www.scotusblog.com/2026/06/the-last-grants-of-the-2025-26-term/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "Updated on June 29 at 2:30 p.m. Just over four months before the 2026 midterm elections, the Supreme Court on Monday upheld a Mississippi law that allows mail-in ballots to be counted as long as they are postmarked by, and received within…",
           "published": "2026-06-29T15:12:49.000Z"
-        },
-        {
-          "title": "Court prevents Trump from firing Fed governor",
-          "link": "https://www.scotusblog.com/2026/06/court-prevents-trump-from-firing-fed-governor/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on June 29 at 1:35 p.m. The Supreme Court on Monday ruled in favor of Lisa Cook, a member of the Federal Reserve’s Board of Governors whom President Donald Trump had attempted to fire. By a vote of 5-4, the court held that Cook…",
-          "published": "2026-06-29T14:53:46.000Z"
-        },
-        {
-          "title": "Legal AI And The New And Improved Detergent Problem",
-          "link": "https://abovethelaw.com/2026/06/legal-ai-and-the-new-and-improved-detergent-problem/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Thomson Reuters made significant advances to CoCounsel... but it's hard to explain. The post Legal AI And The New And Improved Detergent Problem appeared first on Above the Law .",
-          "published": "2026-06-29T14:47:00.000Z"
-        },
-        {
-          "title": "Supreme Court allows Trump to fire FTC commissioner and overturns major restraint on presidential power",
-          "link": "https://www.scotusblog.com/2026/06/court-allows-trump-to-fire-ftc-commissioner-and-overturns-major-restraint-on-presidential-power/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on June 29 at 8:15 p.m. The Supreme Court on Monday gave President Donald Trump sweeping new authority over approximately two dozen multi-member agencies that Congress intended to be independent. By a vote of 6-3, the justices…",
-          "published": "2026-06-29T14:42:32.000Z"
-        },
-        {
-          "title": "Supreme Court will not consider $5 million verdict against Trump",
-          "link": "https://www.scotusblog.com/2026/06/supreme-court-will-not-consider-5-million-verdict-against-trump/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Monday announced that it will not hear an appeal by President Donald Trump seeking review of the $5 million jury verdict entered against him in the sexual abuse and defamation case filed by journalist E. Jean Carroll.…",
-          "published": "2026-06-29T14:06:43.000Z"
         }
       ]
     }
