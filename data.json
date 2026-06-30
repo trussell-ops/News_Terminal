@@ -1,9 +1,17 @@
 {
-  "updated": "2026-06-30T19:15:04.389Z",
+  "updated": "2026-06-30T21:12:17.802Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund",
+          "link": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Nike was expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.",
+          "published": "2026-06-30T20:46:57.000Z"
+        },
         {
           "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
           "link": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
@@ -27,14 +35,6 @@
           "category": "markets",
           "snippet": "Tui has apologised and told passengers it has arranged flights home for tomorrow and a full refund.",
           "published": "2026-06-30T16:45:05.000Z"
-        },
-        {
-          "title": "Nike is set to report earnings after the bell. Here's what to expect",
-          "link": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Nike is expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.",
-          "published": "2026-06-30T16:00:01.000Z"
         },
         {
           "title": "Medicare will start covering obesity drugs for the first time. Here's what patients should know",
@@ -202,6 +202,70 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
+          "link": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"That would be an awesome capability.\"",
+          "published": "2026-06-30T20:50:14.000Z"
+        },
+        {
+          "title": "I ported Kubernetes to the browser",
+          "link": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T20:48:36.000Z"
+        },
+        {
+          "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
+          "link": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Tenor still connects to Google apps, but other platforms must look elsewhere for GIFs.",
+          "published": "2026-06-30T20:38:51.000Z"
+        },
+        {
+          "title": "Apple takes Epic fight over app store fees to the Supreme Court",
+          "link": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Supreme Court will weigh if Apple contempt finding in Epic case is “erroneous.”",
+          "published": "2026-06-30T20:20:29.000Z"
+        },
+        {
+          "title": "Morbid: Debunking Modern Longevity Science",
+          "link": "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T20:17:21.000Z"
+        },
+        {
+          "title": "New attack provides one more reason why AI browsers are a bad idea",
+          "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+          "published": "2026-06-30T20:03:14.000Z"
+        },
+        {
+          "title": "Acer s Swift Go 16 is a lot of laptop for $900",
+          "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.99 at Best…",
+          "published": "2026-06-30T20:00:00.000Z"
+        },
+        {
+          "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+          "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the…",
+          "published": "2026-06-30T19:24:51.000Z"
+        },
+        {
           "title": "LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever",
           "link": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
           "source": "The Verge",
@@ -240,14 +304,6 @@
           "category": "tech",
           "snippet": "IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an \"external partner\" on its next big franchise, Project Fantasy, \"has come to an end.\" IO has…",
           "published": "2026-06-30T18:14:05.000Z"
-        },
-        {
-          "title": "Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T18:12:33.000Z"
         },
         {
           "title": "Claude Sonnet 5",
@@ -322,22 +378,6 @@
           "published": "2026-06-30T16:59:02.000Z"
         },
         {
-          "title": "We Are the Last People Who Know How It Works",
-          "link": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T16:59:00.000Z"
-        },
-        {
-          "title": "Xsnow \"protestware\" in Debian",
-          "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T16:54:41.000Z"
-        },
-        {
           "title": "Nano Banana 2 Lite",
           "link": "https://deepmind.google/models/gemini-image/flash-lite/",
           "source": "Hacker News",
@@ -352,46 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-30T16:44:31.000Z"
-        },
-        {
-          "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
-          "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T16:05:46.000Z"
-        },
-        {
-          "title": "The Bose Soundlink Max is $120 off ahead of the July 4th weekend",
-          "link": "https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Bose Soundlink Max is usually $399, but has been on steep discount this week at Amazon, Best Buy, and directly from Bose for $279. This Bluetooth speaker has a big and bold sound, with a wide soundstage that impressed us in our…",
-          "published": "2026-06-30T16:05:22.000Z"
-        },
-        {
-          "title": "The US going 100% EV by 2040 would save more than 100k lives, study says",
-          "link": "https://arstechnica.com/cars/2026/06/the-us-going-100-ev-by-2040-would-save-more-than-100k-lives-study-says/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Much of it comes from heavy-duty trucks and buses that burn diesel.",
-          "published": "2026-06-30T16:03:44.000Z"
-        },
-        {
-          "title": "What is a quantum computer good for? Absolutely nothing — yet",
-          "link": "https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "To this day, we have yet to see a quantum computer conclusively perform a single useful task. Existing machines are simply too small and error-ridden to solve commercially relevant problems. That hasn't stopped Donald Trump's science…",
-          "published": "2026-06-30T16:00:00.000Z"
-        },
-        {
-          "title": "Claude Code is steganographically marking requests",
-          "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T15:44:24.000Z"
         }
       ]
     },
@@ -399,20 +399,12 @@
       "label": "Legal Developments",
       "items": [
         {
-          "title": "Second Circuit Judge Sarah Merriam Disciplined Again, This Time for Creating A Tense And Challenging Work Environment",
-          "link": "https://abovethelaw.com/2026/06/second-circuit-judge-sarah-merriam-disciplined-again-this-time-for-creating-a-tense-and-challenging-work-environment/",
-          "source": "Above the Law",
+          "title": "Breaking down the birthright-citizenship decision",
+          "link": "https://www.scotusblog.com/2026/06/breaking-down-the-birthright-citizenship-decision/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "We cannot just wait for the next judge to make news. We need to take action now. The post Second Circuit Judge Sarah Merriam Disciplined Again, This Time for Creating A Tense And Challenging Work Environment appeared first on Above the…",
-          "published": "2026-06-30T18:32:00.000Z"
-        },
-        {
-          "title": "Those WL Citations Are An Open Invitation To AI Hallucinations",
-          "link": "https://abovethelaw.com/2026/06/those-wl-citations-are-an-open-invitation-to-ai-hallucinations/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Those proprietary citations carry risks for the publishers. The post Those WL Citations Are An Open Invitation To AI Hallucinations appeared first on Above the Law .",
-          "published": "2026-06-30T17:52:08.000Z"
+          "snippet": "Trump v. Barbara , the birthright-citizenship case that dominated headlines this term, was emblematic of how the court can be predictable in closely followed cases while still leaving room for surprises. Many observers, including me ,…",
+          "published": "2026-06-30T20:07:00.000Z"
         },
         {
           "title": "Court grants several new cases, including on whether the Second Amendment protects possession of semiautomatic rifles",
@@ -421,22 +413,6 @@
           "category": "legal",
           "snippet": "Less than a week after the Supreme Court struck down a Hawaii law that barred gun owners with concealed-carry licenses from bringing guns onto private property unless they had explicit permission from the property’s owner, the justices…",
           "published": "2026-06-30T17:22:10.000Z"
-        },
-        {
-          "title": "At 3rd Circuit, Judges Press ROSS And Thomson Reuters On Fair Use, AI Training, And Market Harm",
-          "link": "https://www.lawnext.com/2026/06/at-3rd-circuit-judges-press-ross-and-thomson-reuters-on-fair-use-ai-training-and-market-harm.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "ROSS argued that its technology was an early example of the same broader AI transformation now reshaping legal research. The post At 3rd Circuit, Judges Press ROSS And Thomson Reuters On Fair Use, AI Training, And Market Harm appeared…",
-          "published": "2026-06-30T17:03:56.000Z"
-        },
-        {
-          "title": "NPR Reports Sam Alito Retires From Supreme Court (Spoiler Alert: He Did Not)",
-          "link": "https://abovethelaw.com/2026/06/npr-reports-sam-alito-retires-from-supreme-court-spoiler-alert-he-did-not/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Nina Totenberg's pre-written career obit for Slammin' Sam Alito accidentally published. The post NPR Reports Sam Alito Retires From Supreme Court (Spoiler Alert: He Did Not) appeared first on Above the Law .",
-          "published": "2026-06-30T16:18:00.000Z"
         },
         {
           "title": "Justices strike down campaign finance law",
@@ -451,16 +427,8 @@
           "link": "https://www.scotusblog.com/2026/06/court-rules-that-states-can-exclude-transgender-athletes-from-girls-and-womens-sports-teams/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The Supreme Court on Tuesday ruled that states can exclude transgender athletes from women’s and girls’ sports teams. The justices ruled unanimously that laws enacted by Idaho and West Virginia do not violate federal civil rights laws,…",
+          "snippet": "Updated on June 30 at 4 p.m. The Supreme Court on Tuesday ruled that states can exclude transgender athletes from women’s and girls’ sports teams. The justices ruled unanimously that laws enacted by Idaho and West Virginia do not violate…",
           "published": "2026-06-30T15:28:01.000Z"
-        },
-        {
-          "title": "Elite Boutiques Continue To Leave Biglaw In The Dust: Another Milbank Match Is Here",
-          "link": "https://abovethelaw.com/2026/06/elite-boutiques-continue-to-leave-biglaw-in-the-dust-another-milbank-match-is-here/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The boutiques aren't wasting any time matching the market, but plenty of Biglaw firms are still keeping associates in suspense. The post Elite Boutiques Continue To Leave Biglaw In The Dust: Another Milbank Match Is Here appeared first on…",
-          "published": "2026-06-30T15:26:00.000Z"
         },
         {
           "title": "Supreme Court strikes down Trump’s order ending birthright citizenship",
@@ -471,36 +439,12 @@
           "published": "2026-06-30T15:06:32.000Z"
         },
         {
-          "title": "The Midyear Career And Brand Audit You Should Be Doing Right Now",
-          "link": "https://abovethelaw.com/2026/06/the-midyear-career-and-brand-audit-you-should-be-doing-right-now/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Your network is not something you occasionally dust off only when you need it. The post The Midyear Career And Brand Audit You Should Be Doing Right Now appeared first on Above the Law .",
-          "published": "2026-06-30T14:42:00.000Z"
-        },
-        {
-          "title": "Saks Exits Bankruptcy",
-          "link": "https://fashionista.com/2026/06/saks-exits-bankruptcy",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "This is just one of the stories making headlines in fashion. The post Saks Exits Bankruptcy appeared first on Above the Law .",
-          "published": "2026-06-30T14:03:00.000Z"
-        },
-        {
           "title": "The final four",
           "link": "https://www.scotusblog.com/2026/06/the-final-four-cases/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "Welcome to the final opinion announcement day of the 2025-26 term.",
           "published": "2026-06-30T13:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 06.30.26",
-          "link": "https://abovethelaw.com/2026/06/morning-docket-06-30-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Hogan Lovells Cadwalader makes its premiere tomorrow, with plans for growth on the horizon. [ Bloomberg Law News ] * A little lost in the Supreme Court shell game yesterday, the Court quietly snuffed out Trump's bid to get out of the E.…",
-          "published": "2026-06-30T12:52:00.000Z"
         },
         {
           "title": "The last grants of the 2025-26 term?",
@@ -527,68 +471,124 @@
           "published": "2026-06-29T23:47:42.000Z"
         },
         {
-          "title": "The NRA Sees A Lot Of Targets See Also",
-          "link": "https://abovethelaw.com/2026/06/the-nra-sees-a-lot-of-targets-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Stop Hitting Your (Former) Self : The NRA will be suing the 1791 Foundation in three courts ! John Roberts Is Not As Clever As He Thinks He Is : Releasing two contradictory opinions at the same time is what happens when hubris meets…",
-          "published": "2026-06-29T23:30:00.000Z"
-        },
-        {
-          "title": "Supreme Court Justice s Side Hustle As An Author Is A Pretty Lucrative Gig",
-          "link": "https://abovethelaw.com/2026/06/supreme-court-justices-side-hustle-as-an-author-is-a-pretty-lucrative-gig/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Nice job if you can get it. The post Supreme Court Justice s Side Hustle As An Author Is A Pretty Lucrative Gig appeared first on Above the Law .",
-          "published": "2026-06-29T22:59:00.000Z"
-        },
-        {
-          "title": "An Entirely Innocent Question About Artificial Intelligence",
-          "link": "https://abovethelaw.com/2026/06/an-entirely-innocent-question-about-artificial-intelligence/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Are the systems the U.S. government uses to protect its classified documents so inferior to the systems used by other countries that Mythos can crack our systems, but not theirs? The post An Entirely Innocent Question About Artificial…",
-          "published": "2026-06-29T22:31:00.000Z"
-        },
-        {
-          "title": "The Side Hustle Myth Lawyers Need To Stop Believing",
-          "link": "https://abovethelaw.com/2026/06/the-side-hustle-myth-lawyers-need-to-stop-believing/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Most people are improvising. Some are simply more honest about it. The post The Side Hustle Myth Lawyers Need To Stop Believing appeared first on Above the Law .",
-          "published": "2026-06-29T22:03:00.000Z"
-        },
-        {
-          "title": "Supreme Court Slaughters FTC, Lets Federal Reserve Cook",
-          "link": "https://abovethelaw.com/2026/06/john-roberts-trump-ftc-federal-reserve/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Supreme Court executes Humphrey's, blowing up FTC's independence in Slaughter while saving the Federal Reserve's in Cook. The post Supreme Court Slaughters FTC, Lets Federal Reserve Cook appeared first on Above the Law .",
-          "published": "2026-06-29T21:32:00.000Z"
-        },
-        {
-          "title": "Building A Judicial Legacy",
-          "link": "https://abovethelaw.com/2026/06/building-a-judicial-legacy/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Plus a look at the realities of running for the bench. The post Building A Judicial Legacy appeared first on Above the Law .",
-          "published": "2026-06-29T21:02:00.000Z"
-        },
-        {
-          "title": "After The World Cup Ends, The Cameras Will Still Be Here",
-          "link": "https://abovethelaw.com/2026/06/after-the-world-cup-ends-the-cameras-will-still-be-here/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "History shows that temporary security measures have a tendency to become permanent. The post After The World Cup Ends, The Cameras Will Still Be Here appeared first on Above the Law .",
-          "published": "2026-06-29T20:31:00.000Z"
-        },
-        {
           "title": "250th birthday minutes on the bench",
           "link": "https://www.scotusblog.com/2026/06/250th-birthday-minutes-on-the-bench/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "At the Supreme Court building, there is a small exhibition tied to the nation’s 250th anniversary, titled “Revolutionary Arguments: The Legal Fight for Independence.” The modest ground floor display focuses on how some of the “lawyers,…",
           "published": "2026-06-29T20:00:00.000Z"
+        },
+        {
+          "title": "Court rules that law enforcement’s use of “geofence warrant” was a “search”",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-that-law-enforcements-use-of-geofence-warrant-was-a-search/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 29 at 3:50 p.m. The Supreme Court on Monday ruled that when law enforcement officials used a “geofence warrant” – a warrant that instructed Google to provide location data for cellphone users who were near a particular…",
+          "published": "2026-06-29T15:26:29.000Z"
+        },
+        {
+          "title": "Justices uphold state law allowing for late-arriving mail-in ballots",
+          "link": "https://www.scotusblog.com/2026/06/justices-uphold-state-law-allowing-for-late-arriving-mail-in-ballots/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 29 at 2:30 p.m. Just over four months before the 2026 midterm elections, the Supreme Court on Monday upheld a Mississippi law that allows mail-in ballots to be counted as long as they are postmarked by, and received within…",
+          "published": "2026-06-29T15:12:49.000Z"
+        },
+        {
+          "title": "Court prevents Trump from firing Fed governor",
+          "link": "https://www.scotusblog.com/2026/06/court-prevents-trump-from-firing-fed-governor/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 29 at 1:35 p.m. The Supreme Court on Monday ruled in favor of Lisa Cook, a member of the Federal Reserve’s Board of Governors whom President Donald Trump had attempted to fire. By a vote of 5-4, the court held that Cook…",
+          "published": "2026-06-29T14:53:46.000Z"
+        },
+        {
+          "title": "Supreme Court allows Trump to fire FTC commissioner and overturns major restraint on presidential power",
+          "link": "https://www.scotusblog.com/2026/06/court-allows-trump-to-fire-ftc-commissioner-and-overturns-major-restraint-on-presidential-power/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 29 at 8:15 p.m. The Supreme Court on Monday gave President Donald Trump sweeping new authority over approximately two dozen multi-member agencies that Congress intended to be independent. By a vote of 6-3, the justices…",
+          "published": "2026-06-29T14:42:32.000Z"
+        },
+        {
+          "title": "Supreme Court will not consider $5 million verdict against Trump",
+          "link": "https://www.scotusblog.com/2026/06/supreme-court-will-not-consider-5-million-verdict-against-trump/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Monday announced that it will not hear an appeal by President Donald Trump seeking review of the $5 million jury verdict entered against him in the sexual abuse and defamation case filed by journalist E. Jean Carroll.…",
+          "published": "2026-06-29T14:06:43.000Z"
+        },
+        {
+          "title": "The home stretch",
+          "link": "https://www.scotusblog.com/2026/06/the-home-stretch/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "We are expecting eight opinions in argued cases.",
+          "published": "2026-06-29T13:00:00.000Z"
+        },
+        {
+          "title": "Hunter v. United States – the most important criminal case of the term",
+          "link": "https://www.scotusblog.com/2026/06/hunter-v-united-states-the-most-important-criminal-case-of-the-term/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The term is not quite over, but I have no doubt that Hunter v. United States , decided on June 18, is its most important criminal case. In Hunter , the court ruled that there is a “miscarriage of justice” exception to waivers of appeal,…",
+          "published": "2026-06-26T17:00:00.000Z"
+        },
+        {
+          "title": "When justices wade into politics",
+          "link": "https://www.scotusblog.com/2026/06/when-justices-wade-into-politics/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Scholar Robert Dahl, writing back in 1957 , once remarked that “Americans are not quite willing to accept the fact that [the Supreme Court] is a political institution and not quite capable of denying it; so that frequently we take both…",
+          "published": "2026-06-26T13:30:00.000Z"
+        },
+        {
+          "title": "Court rules on gun rights, immigration, and pesticide labels",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-on-gun-rights-immigration-and-pesticide-labels/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "We’re expecting more opinions on Monday.",
+          "published": "2026-06-26T13:00:00.000Z"
+        },
+        {
+          "title": "An unusual retort to a dissent from the bench",
+          "link": "https://www.scotusblog.com/2026/06/an-unusual-retort-to-a-dissent-from-the-bench/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated at 6:06 p.m. Next week, what is being billed as the biggest fireworks show ever in Washington, D.C., will help celebrate the nation’s 250th birthday. Yet the Supreme Court will offer its own pyrotechnics this morning with a…",
+          "published": "2026-06-25T20:30:00.000Z"
+        },
+        {
+          "title": "Court rules for Roundup maker in dispute over cancer warnings on pesticide labels",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-for-roundup-maker-in-dispute-over-cancer-warnings-on-pesticide-labels/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 25 at 5:59 p.m. The Supreme Court on Thursday sided with Monsanto in a high-stakes dispute over cancer warnings on pesticide labels. In an opinion by Justice Brett Kavanaugh in Monsanto Company v. Durnell , the court…",
+          "published": "2026-06-25T17:04:31.000Z"
+        },
+        {
+          "title": "Justices side with Trump administration in border dispute over asylum seekers",
+          "link": "https://www.scotusblog.com/2026/06/justices-side-with-trump-administration-in-border-dispute-over-asylum-seekers/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 25 at 5:10 p.m. The Supreme Court on Thursday upheld the federal government’s policy of systematically turning back asylum seekers before they can reach the U.S.-Mexico border. By a vote of 6-3, the justices agreed with…",
+          "published": "2026-06-25T15:49:28.000Z"
+        },
+        {
+          "title": "Court allows Trump administration to end removal protections for Syrian and Haitian nationals",
+          "link": "https://www.scotusblog.com/2026/06/supreme-court-allows-trump-administration-to-end-removal-protections-for-syrian-and-haitian-nati/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 25 at 2:35 p.m. The Supreme Court on Thursday cleared the way for the federal government to remove protections for citizens of Haiti and Syria under a federal program that allows foreign citizens to stay in the United…",
+          "published": "2026-06-25T15:32:30.000Z"
+        },
+        {
+          "title": "Penultimate relists: papers, parents, and procedural puzzles",
+          "link": "https://www.scotusblog.com/2026/06/penultimate-relists-papers-parents-and-procedural-puzzles-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Relist Watch column examines cert petitions that the Supreme Court has “relisted” for its upcoming conference. A short explanation of relists is available here . This Thursday’s conference is the last one currently scheduled during…",
+          "published": "2026-06-25T15:30:00.000Z"
         }
       ]
     }
