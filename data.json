@@ -1,9 +1,25 @@
 {
-  "updated": "2026-06-30T15:11:06.141Z",
+  "updated": "2026-06-30T17:21:42.236Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Cruise passengers 'stranded' after air con failure to be flown home",
+          "link": "https://www.bbc.co.uk/news/articles/cy0639x4dp8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Tui has apologised and told passengers it has arranged flights home for tomorrow and a full refund.",
+          "published": "2026-06-30T16:45:05.000Z"
+        },
+        {
+          "title": "Nike is set to report earnings after the bell. Here's what to expect",
+          "link": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Nike is expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.",
+          "published": "2026-06-30T16:00:01.000Z"
+        },
         {
           "title": "Medicare will start covering obesity drugs for the first time. Here's what patients should know",
           "link": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
@@ -19,6 +35,14 @@
           "category": "markets",
           "snippet": "The undersea links between some of the UK's most northerly islands could be in place within eight years.",
           "published": "2026-06-30T12:18:16.000Z"
+        },
+        {
+          "title": "Woman's Hour",
+          "link": "https://www.bbc.co.uk/sounds/play/m002ybb4?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "We discuss the key findings of Baroness Amos' National Maternity Investigation.",
+          "published": "2026-06-30T10:46:00.000Z"
         },
         {
           "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
@@ -171,36 +195,140 @@
           "category": "markets",
           "snippet": "Christian Williams benefitted to the tune of £160,000 from offending - but had just £1 to pay back.",
           "published": "2026-06-29T05:05:34.000Z"
-        },
-        {
-          "title": "Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet",
-          "link": "https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Many seniors may be unaware of the landmark coverage shift starting on July 1, with limited advertising seen from the government or Eli Lilly and Novo.",
-          "published": "2026-06-28T12:00:01.000Z"
-        },
-        {
-          "title": "A 'perfect storm' points to a much smaller U.S. auto market by 2040",
-          "link": "https://www.cnbc.com/2026/06/28/us-auto-market.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The auto industry is selling fewer cars--one forecaster says this is a fundamental change, and it is going to get worse.",
-          "published": "2026-06-28T11:00:01.000Z"
-        },
-        {
-          "title": "How Kohl's lost its way — and is trying to become relevant again",
-          "link": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Kohl's went from a household name to a plunging stock as it lost relevancy and its core customer. Now, the company is trying to turn itself around.",
-          "published": "2026-06-27T12:00:01.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Claude Science",
+          "link": "https://claude.com/product/claude-science",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T17:07:41.000Z"
+        },
+        {
+          "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
+          "link": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30…",
+          "published": "2026-06-30T17:04:14.000Z"
+        },
+        {
+          "title": "Google s killing off Tenor GIF searches in other apps",
+          "link": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API today. While the Tenor website, along with its searchable GIF library, will remain…",
+          "published": "2026-06-30T17:00:05.000Z"
+        },
+        {
+          "title": "Xbox weighs canceling Blade game and shuttering Arkane",
+          "link": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to studio closures or spinoffs, potential mergers of studios,…",
+          "published": "2026-06-30T17:00:00.000Z"
+        },
+        {
+          "title": "Xsnow \"protestware\" in Debian",
+          "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T16:54:41.000Z"
+        },
+        {
+          "title": "Nano Banana 2 Lite",
+          "link": "https://deepmind.google/models/gemini-image/flash-lite/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T16:48:37.000Z"
+        },
+        {
+          "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
+          "link": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T16:44:31.000Z"
+        },
+        {
+          "title": "EU commissioners shut down air conditioning for employees, leave theirs on",
+          "link": "https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T16:19:51.000Z"
+        },
+        {
+          "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
+          "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T16:05:46.000Z"
+        },
+        {
+          "title": "The Bose Soundlink Max is $120 off ahead of the July 4th weekend",
+          "link": "https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Bose Soundlink Max is usually $399, but has been on steep discount this week at Amazon, Best Buy, and directly from Bose for $279. This Bluetooth speaker has a big and bold sound, with a wide soundstage that impressed us in our…",
+          "published": "2026-06-30T16:05:22.000Z"
+        },
+        {
+          "title": "What is a quantum computer good for? Absolutely nothing — yet",
+          "link": "https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "To this day, we have yet to see a quantum computer conclusively perform a single useful task. Existing machines are simply too small and error-ridden to solve commercially relevant problems. That hasn't stopped Donald Trump's science…",
+          "published": "2026-06-30T16:00:00.000Z"
+        },
+        {
+          "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
+          "link": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T15:45:32.000Z"
+        },
+        {
+          "title": "Claude Code Is Steganographically Marking Requests",
+          "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T15:44:24.000Z"
+        },
+        {
+          "title": "The labor share of income in the US is at its lowest post-war level",
+          "link": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T15:35:04.000Z"
+        },
+        {
+          "title": "Libby will filter out AI content, kind of",
+          "link": "https://www.theverge.com/column/959433/libby-ai-filter",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as…",
+          "published": "2026-06-30T15:30:00.000Z"
+        },
+        {
+          "title": "We moved our Bluesky data to Eurosky",
+          "link": "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T15:17:14.000Z"
+        },
         {
           "title": "The Supreme Court stops Trump s attempt to end birthright citizenship",
           "link": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
@@ -210,44 +338,12 @@
           "published": "2026-06-30T14:44:42.000Z"
         },
         {
-          "title": "Supreme Court upholds broad conception of birthright citizenship",
-          "link": "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T14:43:54.000Z"
-        },
-        {
-          "title": "Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
-          "link": "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T14:16:57.000Z"
-        },
-        {
-          "title": "Have You Restarted Your Computer This Week?",
-          "link": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T14:15:29.000Z"
-        },
-        {
           "title": "Looking Ahead to Postgres 19",
           "link": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-30T14:14:29.000Z"
-        },
-        {
-          "title": "Beware, Claude Code deletes >30 day old transcripts. Anthropic won't fix it",
-          "link": "https://github.com/anthropics/claude-code/issues/62476",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T13:58:21.000Z"
         },
         {
           "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
@@ -296,108 +392,60 @@
           "category": "tech",
           "snippet": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his…",
           "published": "2026-06-30T12:00:00.000Z"
-        },
-        {
-          "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
-          "link": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T10:48:23.000Z"
-        },
-        {
-          "title": "European digital ID wallets rely on safety services of Google and Apple",
-          "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T10:36:23.000Z"
-        },
-        {
-          "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
-          "link": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T10:34:25.000Z"
-        },
-        {
-          "title": "Exercise intensity influences body composition in healthy older adults (2025)",
-          "link": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T10:31:02.000Z"
-        },
-        {
-          "title": "This motor could be the future of e-bikes",
-          "link": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Imagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears to keep your legs spinning at that exact speed, no matter how steep the hill gets - all without a fragile derailleur or…",
-          "published": "2026-06-30T10:30:04.000Z"
-        },
-        {
-          "title": "The US ambassador had Belgian police stop our reporting",
-          "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T10:15:15.000Z"
-        },
-        {
-          "title": "Our best look yet at Samsung’s new wide foldable",
-          "link": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Samsung is expected to unveil its next generation of foldables at a Galaxy Unpacked event next month, but now we know what they might look like, courtesy of some leaked images published by Android Headlines. Images shared by the…",
-          "published": "2026-06-30T09:54:44.000Z"
-        },
-        {
-          "title": "Exploring PDP-1 Lisp (1960)",
-          "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T00:56:42.000Z"
-        },
-        {
-          "title": "Memory Safe Context Switching",
-          "link": "https://fil-c.org/context_switches",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T00:38:19.000Z"
-        },
-        {
-          "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-          "link": "https://longcat.chat/blog/longcat-2.0/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T00:30:11.000Z"
-        },
-        {
-          "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-          "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Operation by two Russia-state groups has been ongoing since at least March.",
-          "published": "2026-06-29T22:05:33.000Z"
-        },
-        {
-          "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-          "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
-          "published": "2026-06-29T21:09:43.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "At 3rd Circuit, Judges Press ROSS And Thomson Reuters On Fair Use, AI Training, And Market Harm",
+          "link": "https://www.lawnext.com/2026/06/at-3rd-circuit-judges-press-ross-and-thomson-reuters-on-fair-use-ai-training-and-market-harm.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "ROSS argued that its technology was an early example of the same broader AI transformation now reshaping legal research. The post At 3rd Circuit, Judges Press ROSS And Thomson Reuters On Fair Use, AI Training, And Market Harm appeared…",
+          "published": "2026-06-30T17:03:56.000Z"
+        },
+        {
+          "title": "NPR Reports Sam Alito Retires From Supreme Court (Spoiler Alert: He Did Not)",
+          "link": "https://abovethelaw.com/2026/06/npr-reports-sam-alito-retires-from-supreme-court-spoiler-alert-he-did-not/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Nina Totenberg's pre-written career obit for Slammin' Sam Alito accidentally published. The post NPR Reports Sam Alito Retires From Supreme Court (Spoiler Alert: He Did Not) appeared first on Above the Law .",
+          "published": "2026-06-30T16:18:00.000Z"
+        },
+        {
+          "title": "Justices strike down campaign finance law",
+          "link": "https://www.scotusblog.com/2026/06/justices-strike-down-campaign-finance-law/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Tuesday issued a major ruling on money in elections. By a vote of 6-3, the justices struck down a federal law that limited the amount of money that political parties can spend in coordination with a candidate for…",
+          "published": "2026-06-30T15:37:53.000Z"
+        },
+        {
+          "title": "Court rules that states can exclude transgender athletes from girls’ and women’s sports teams",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-that-states-can-exclude-transgender-athletes-from-girls-and-womens-sports-teams/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Tuesday ruled that states can exclude transgender athletes from women’s and girls’ sports teams. The justices ruled unanimously that laws enacted by Idaho and West Virginia do not violate federal civil rights laws,…",
+          "published": "2026-06-30T15:28:01.000Z"
+        },
+        {
+          "title": "Elite Boutiques Continue To Leave Biglaw In The Dust: Another Milbank Match Is Here",
+          "link": "https://abovethelaw.com/2026/06/elite-boutiques-continue-to-leave-biglaw-in-the-dust-another-milbank-match-is-here/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The boutiques aren't wasting any time matching the market, but plenty of Biglaw firms are still keeping associates in suspense. The post Elite Boutiques Continue To Leave Biglaw In The Dust: Another Milbank Match Is Here appeared first on…",
+          "published": "2026-06-30T15:26:00.000Z"
+        },
+        {
+          "title": "Supreme Court strikes down Trump’s order ending birthright citizenship",
+          "link": "https://www.scotusblog.com/2026/06/supreme-court-strikes-down-trumps-order-ending-birthright-citizenship/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Tuesday struck down President Donald Trump’s executive order seeking to end birthright citizenship – the guarantee of citizenship to virtually everyone born in the United States. In a decision by Chief Justice John…",
+          "published": "2026-06-30T15:06:32.000Z"
+        },
         {
           "title": "The Midyear Career And Brand Audit You Should Be Doing Right Now",
           "link": "https://abovethelaw.com/2026/06/the-midyear-career-and-brand-audit-you-should-be-doing-right-now/",
@@ -541,54 +589,6 @@
           "category": "legal",
           "snippet": "Using Dershowitz's failed CNN defamation suit as their vehicle, the justices once again called for overturning New York Times v. Sullivan. The post Two Justices Just Signaled Again That They Want To Destroy Press Freedom appeared first on…",
           "published": "2026-06-29T18:32:00.000Z"
-        },
-        {
-          "title": "PACER Fees Rising 20 Percent Because Screw You, That s Why",
-          "link": "https://abovethelaw.com/2026/06/pacer-fees-rising-20-percent-because-screw-you-thats-why/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Courts say they need the extra money for a three-quarter billion-dollar security patch. The post PACER Fees Rising 20 Percent Because Screw You, That s Why appeared first on Above the Law .",
-          "published": "2026-06-29T17:43:00.000Z"
-        },
-        {
-          "title": "The Client Service A-Team: Ranking The Biglaw Superheroes Of Client Service (2026)",
-          "link": "https://abovethelaw.com/2026/06/the-client-service-a-team-ranking-the-biglaw-superheroes-of-client-service-2026/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Which firms are among the best of the best? The post The Client Service A-Team: Ranking The Biglaw Superheroes Of Client Service (2026) appeared first on Above the Law .",
-          "published": "2026-06-29T17:01:00.000Z"
-        },
-        {
-          "title": "The NRA Is Suing Itself In All The Courts At Once",
-          "link": "https://abovethelaw.com/2026/06/the-nra-is-suing-itself-in-all-the-courts-at-once/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Is it bad form to post the let-them-fight gif when both sides are heavily armed? The post The NRA Is Suing Itself In All The Courts At Once appeared first on Above the Law .",
-          "published": "2026-06-29T16:12:00.000Z"
-        },
-        {
-          "title": "Legal Ethics Roundup: Legal Ethics In Berlin, 101 Judges Seek Blanche NY Bar Investigation, Activists Legal Fees Paid By Feds, Bolton Pleads Guilty, Law Deans Drive Innovation More",
-          "link": "https://abovethelaw.com/2026/06/legal-ethics-roundup-legal-ethics-in-berlin-101-judges-seek-blanche-ny-bar-investigation-activists-legal-fees-paid-by-feds-bolton-pleads-guilty-law-deans-drive-innovation-more/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson. The post Legal Ethics Roundup: Legal Ethics In Berlin, 101 Judges Seek Blanche NY Bar Investigation, Activists…",
-          "published": "2026-06-29T15:32:00.000Z"
-        },
-        {
-          "title": "Court rules that law enforcement’s use of “geofence warrant” was a “search”",
-          "link": "https://www.scotusblog.com/2026/06/court-rules-that-law-enforcements-use-of-geofence-warrant-was-a-search/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on June 29 at 3:50 p.m. The Supreme Court on Monday ruled that when law enforcement officials used a “geofence warrant” – a warrant that instructed Google to provide location data for cellphone users who were near a particular…",
-          "published": "2026-06-29T15:26:29.000Z"
-        },
-        {
-          "title": "Justices uphold state law allowing for late-arriving mail-in ballots",
-          "link": "https://www.scotusblog.com/2026/06/justices-uphold-state-law-allowing-for-late-arriving-mail-in-ballots/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on June 29 at 2:30 p.m. Just over four months before the 2026 midterm elections, the Supreme Court on Monday upheld a Mississippi law that allows mail-in ballots to be counted as long as they are postmarked by, and received within…",
-          "published": "2026-06-29T15:12:49.000Z"
         }
       ]
     }
