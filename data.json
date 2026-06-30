@@ -1,9 +1,25 @@
 {
-  "updated": "2026-06-30T02:30:22.209Z",
+  "updated": "2026-06-30T06:47:54.524Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Homes harder to sell as high mortgage rates frustrate buyers",
+          "link": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
+          "published": "2026-06-30T06:22:35.000Z"
+        },
+        {
+          "title": "India's biggest share sales tell the story of a country glued to its phones",
+          "link": "https://www.bbc.co.uk/news/articles/cdej6ej7w4go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "NSE and Jio Platforms embody the sweeping changes in how India has consumed, invested and transacted over the past decade.",
+          "published": "2026-06-30T03:42:14.000Z"
+        },
         {
           "title": "Chinese tycoon sentenced to 30 years in US jail",
           "link": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
@@ -11,14 +27,6 @@
           "category": "markets",
           "snippet": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
           "published": "2026-06-30T02:08:21.000Z"
-        },
-        {
-          "title": "Homes harder to sell as high mortgage rates frustrate buyers",
-          "link": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
-          "published": "2026-06-29T23:08:44.000Z"
         },
         {
           "title": "We had packed lunches every day for 10 years and retired at 40",
@@ -43,6 +51,14 @@
           "category": "markets",
           "snippet": "Comcast plans to separate its cable and media divisions over the next year. This could set each company up for M&A, but there might not be any good options.",
           "published": "2026-06-29T20:57:36.000Z"
+        },
+        {
+          "title": "Hollywood director gets two and a half years in prison for defrauding Netflix",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "He was accused of using money for a Netflix show on lavish purchases like Rolls Royces and Ferraris.",
+          "published": "2026-06-29T20:41:10.000Z"
         },
         {
           "title": "Will Andy Burnham's devolution plan raise economic growth?",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
           "published": "2026-06-26T23:00:30.000Z"
-        },
-        {
-          "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
-          "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Lukas Walton is the 39-year-old grandson of Walmart founder Sam Walton. He and his wife, Samantha, are residents of Chicago.",
-          "published": "2026-06-26T21:07:22.000Z"
-        },
-        {
-          "title": "New ISA and Lifetime ISA changes explained",
-          "link": "https://www.bbc.co.uk/news/videos/cj0ge52n80ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "In this week’s episode, there’s a deep dive into first-time buyer savings, with a special focus on Lifetime ISAs.",
-          "published": "2026-06-26T17:09:53.000Z"
         }
       ]
     },
@@ -202,12 +202,28 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Why Won't Europe Build AI Data Centers in Iceland?",
-          "link": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
+          "title": "Popping the GPU Bubble",
+          "link": "https://moondream.ai/blog/popping-the-gpu-bubble",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-06-30T01:30:40.000Z"
+          "published": "2026-06-30T05:14:35.000Z"
+        },
+        {
+          "title": "The end of the AArch64 desktop experiment",
+          "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T04:51:12.000Z"
+        },
+        {
+          "title": "Study suggests most Americans would be healthier without daylight saving time",
+          "link": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T03:47:51.000Z"
         },
         {
           "title": "Exploring PDP-1 Lisp (1960)",
@@ -218,7 +234,7 @@
           "published": "2026-06-30T00:56:42.000Z"
         },
         {
-          "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+          "title": "Memory Safe Context Switching",
           "link": "https://fil-c.org/context_switches",
           "source": "Hacker News",
           "category": "tech",
@@ -234,28 +250,12 @@
           "published": "2026-06-30T00:30:11.000Z"
         },
         {
-          "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
-          "link": "https://github.com/SMJAI/open-memory-protocol",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T00:05:33.000Z"
-        },
-        {
           "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
           "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-29T22:21:00.000Z"
-        },
-        {
-          "title": "Scientists find molecular-level evidence for two structures in liquid water",
-          "link": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-29T22:18:26.000Z"
         },
         {
           "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
@@ -362,14 +362,6 @@
           "published": "2026-06-29T18:21:31.000Z"
         },
         {
-          "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-          "link": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-29T18:03:26.000Z"
-        },
-        {
           "title": "Quantum computing startup says it will leapfrog everybody",
           "link": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
           "source": "Ars Technica",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Illinois now a key battleground in fight over prediction market sports bets.",
           "published": "2026-06-29T17:48:11.000Z"
+        },
+        {
+          "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+          "link": "https://github.com/deepreinforce-ai/Ornith-1",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-29T17:16:17.000Z"
         }
       ]
     },
@@ -415,124 +415,12 @@
           "published": "2026-06-29T23:47:42.000Z"
         },
         {
-          "title": "The NRA Sees A Lot Of Targets See Also",
-          "link": "https://abovethelaw.com/2026/06/the-nra-sees-a-lot-of-targets-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Stop Hitting Your (Former) Self : The NRA will be suing the 1791 Foundation in three courts ! SCOTUS Justices Take Shots At A Free Press : Guess who? Hint -- it isn't Sotomayor or Jackson . An Ounce Of Prevention... : The NY Bar calls for…",
-          "published": "2026-06-29T23:30:00.000Z"
-        },
-        {
-          "title": "Supreme Court Justice s Side Hustle As An Author Is A Pretty Lucrative Gig",
-          "link": "https://abovethelaw.com/2026/06/supreme-court-justices-side-hustle-as-an-author-is-a-pretty-lucrative-gig/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Nice job if you can get it. The post Supreme Court Justice s Side Hustle As An Author Is A Pretty Lucrative Gig appeared first on Above the Law .",
-          "published": "2026-06-29T22:59:00.000Z"
-        },
-        {
-          "title": "An Entirely Innocent Question About Artificial Intelligence",
-          "link": "https://abovethelaw.com/2026/06/an-entirely-innocent-question-about-artificial-intelligence/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Are the systems the U.S. government uses to protect its classified documents so inferior to the systems used by other countries that Mythos can crack our systems, but not theirs? The post An Entirely Innocent Question About Artificial…",
-          "published": "2026-06-29T22:31:00.000Z"
-        },
-        {
-          "title": "The Side Hustle Myth Lawyers Need To Stop Believing",
-          "link": "https://abovethelaw.com/2026/06/the-side-hustle-myth-lawyers-need-to-stop-believing/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Most people are improvising. Some are simply more honest about it. The post The Side Hustle Myth Lawyers Need To Stop Believing appeared first on Above the Law .",
-          "published": "2026-06-29T22:03:00.000Z"
-        },
-        {
-          "title": "Supreme Court Slaughters FTC, Lets Federal Reserve Cook",
-          "link": "https://abovethelaw.com/2026/06/john-roberts-trump-ftc-federal-reserve/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Supreme Court executes Humphrey's, blowing up FTC's independence in Slaughter while saving the Federal Reserve's in Cook. The post Supreme Court Slaughters FTC, Lets Federal Reserve Cook appeared first on Above the Law .",
-          "published": "2026-06-29T21:32:00.000Z"
-        },
-        {
-          "title": "Building A Judicial Legacy",
-          "link": "https://abovethelaw.com/2026/06/building-a-judicial-legacy/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Plus a look at the realities of running for the bench. The post Building A Judicial Legacy appeared first on Above the Law .",
-          "published": "2026-06-29T21:02:00.000Z"
-        },
-        {
-          "title": "After The World Cup Ends, The Cameras Will Still Be Here",
-          "link": "https://abovethelaw.com/2026/06/after-the-world-cup-ends-the-cameras-will-still-be-here/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "History shows that temporary security measures have a tendency to become permanent. The post After The World Cup Ends, The Cameras Will Still Be Here appeared first on Above the Law .",
-          "published": "2026-06-29T20:31:00.000Z"
-        },
-        {
           "title": "250th birthday minutes on the bench",
           "link": "https://www.scotusblog.com/2026/06/250th-birthday-minutes-on-the-bench/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "At the Supreme Court building, there is a small exhibition tied to the nation’s 250th anniversary, titled “Revolutionary Arguments: The Legal Fight for Independence.” The modest ground floor display focuses on how some of the “lawyers,…",
           "published": "2026-06-29T20:00:00.000Z"
-        },
-        {
-          "title": "So Maybe Bar Examiners Need An Actual Plan For Emergencies?",
-          "link": "https://abovethelaw.com/2026/06/so-maybe-bar-examiners-need-an-actual-plan-for-emergencies/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The fingers-crossed-and-hope-for-the-best method isn't cutting it. The post So Maybe Bar Examiners Need An Actual Plan For Emergencies? appeared first on Above the Law .",
-          "published": "2026-06-29T20:00:00.000Z"
-        },
-        {
-          "title": "Biglaw s Newest Transatlantic Giant Unveils An Ambitious Global Vision",
-          "link": "https://abovethelaw.com/2026/06/biglaws-newest-transatlantic-giant-unveils-an-ambitious-global-vision/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The combined firm says it has the scale and reach to help clients navigate increasingly complex challenges. The post Biglaw s Newest Transatlantic Giant Unveils An Ambitious Global Vision appeared first on Above the Law .",
-          "published": "2026-06-29T19:14:00.000Z"
-        },
-        {
-          "title": "Two Justices Just Signaled Again That They Want To Destroy Press Freedom",
-          "link": "https://abovethelaw.com/2026/06/two-justices-just-signaled-again-that-they-want-to-destroy-press-freedom/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Using Dershowitz's failed CNN defamation suit as their vehicle, the justices once again called for overturning New York Times v. Sullivan. The post Two Justices Just Signaled Again That They Want To Destroy Press Freedom appeared first on…",
-          "published": "2026-06-29T18:32:00.000Z"
-        },
-        {
-          "title": "PACER Fees Rising 20 Percent Because Screw You, That s Why",
-          "link": "https://abovethelaw.com/2026/06/pacer-fees-rising-20-percent-because-screw-you-thats-why/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Courts say they need the extra money for a three-quarter billion-dollar security patch. The post PACER Fees Rising 20 Percent Because Screw You, That s Why appeared first on Above the Law .",
-          "published": "2026-06-29T17:43:00.000Z"
-        },
-        {
-          "title": "The Client Service A-Team: Ranking The Biglaw Superheroes Of Client Service (2026)",
-          "link": "https://abovethelaw.com/2026/06/the-client-service-a-team-ranking-the-biglaw-superheroes-of-client-service-2026/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Which firms are among the best of the best? The post The Client Service A-Team: Ranking The Biglaw Superheroes Of Client Service (2026) appeared first on Above the Law .",
-          "published": "2026-06-29T17:01:00.000Z"
-        },
-        {
-          "title": "The NRA Is Suing Itself In All The Courts At Once",
-          "link": "https://abovethelaw.com/2026/06/the-nra-is-suing-itself-in-all-the-courts-at-once/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Is it bad form to post the let-them-fight gif when both sides are heavily armed? The post The NRA Is Suing Itself In All The Courts At Once appeared first on Above the Law .",
-          "published": "2026-06-29T16:12:00.000Z"
-        },
-        {
-          "title": "Legal Ethics Roundup: Legal Ethics In Berlin, 101 Judges Seek Blanche NY Bar Investigation, Activists Legal Fees Paid By Feds, Bolton Pleads Guilty, Law Deans Drive Innovation More",
-          "link": "https://abovethelaw.com/2026/06/legal-ethics-roundup-legal-ethics-in-berlin-101-judges-seek-blanche-ny-bar-investigation-activists-legal-fees-paid-by-feds-bolton-pleads-guilty-law-deans-drive-innovation-more/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson. The post Legal Ethics Roundup: Legal Ethics In Berlin, 101 Judges Seek Blanche NY Bar Investigation, Activists…",
-          "published": "2026-06-29T15:32:00.000Z"
         },
         {
           "title": "Court rules that law enforcement’s use of “geofence warrant” was a “search”",
@@ -559,14 +447,6 @@
           "published": "2026-06-29T14:53:46.000Z"
         },
         {
-          "title": "Legal AI And The New And Improved Detergent Problem",
-          "link": "https://abovethelaw.com/2026/06/legal-ai-and-the-new-and-improved-detergent-problem/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Thomson Reuters made significant advances to CoCounsel... but it's hard to explain. The post Legal AI And The New And Improved Detergent Problem appeared first on Above the Law .",
-          "published": "2026-06-29T14:47:00.000Z"
-        },
-        {
           "title": "Supreme Court allows Trump to fire FTC commissioner and overturns major restraint on presidential power",
           "link": "https://www.scotusblog.com/2026/06/court-allows-trump-to-fire-ftc-commissioner-and-overturns-major-restraint-on-presidential-power/",
           "source": "SCOTUSblog",
@@ -583,12 +463,132 @@
           "published": "2026-06-29T14:06:43.000Z"
         },
         {
-          "title": "New Bill Led By Democrats Aims To Cap Medicare Out-Of-Pocket Costs",
-          "link": "https://medcitynews.com/2026/06/new-bill-led-by-democrats-aims-to-cap-medicare-out-of-pocket-costs/",
-          "source": "Above the Law",
+          "title": "The home stretch",
+          "link": "https://www.scotusblog.com/2026/06/the-home-stretch/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The Medicare Cost Cap Act seeks to create a $5,000 cap on out-of-pocket costs for traditional Medicare beneficiaries. The post New Bill Led By Democrats Aims To Cap Medicare Out-Of-Pocket Costs appeared first on Above the Law .",
-          "published": "2026-06-29T14:02:00.000Z"
+          "snippet": "We are expecting eight opinions in argued cases.",
+          "published": "2026-06-29T13:00:00.000Z"
+        },
+        {
+          "title": "Hunter v. United States – the most important criminal case of the term",
+          "link": "https://www.scotusblog.com/2026/06/hunter-v-united-states-the-most-important-criminal-case-of-the-term/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The term is not quite over, but I have no doubt that Hunter v. United States , decided on June 18, is its most important criminal case. In Hunter , the court ruled that there is a “miscarriage of justice” exception to waivers of appeal,…",
+          "published": "2026-06-26T17:00:00.000Z"
+        },
+        {
+          "title": "When justices wade into politics",
+          "link": "https://www.scotusblog.com/2026/06/when-justices-wade-into-politics/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Scholar Robert Dahl, writing back in 1957 , once remarked that “Americans are not quite willing to accept the fact that [the Supreme Court] is a political institution and not quite capable of denying it; so that frequently we take both…",
+          "published": "2026-06-26T13:30:00.000Z"
+        },
+        {
+          "title": "Court rules on gun rights, immigration, and pesticide labels",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-on-gun-rights-immigration-and-pesticide-labels/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "We’re expecting more opinions on Monday.",
+          "published": "2026-06-26T13:00:00.000Z"
+        },
+        {
+          "title": "An unusual retort to a dissent from the bench",
+          "link": "https://www.scotusblog.com/2026/06/an-unusual-retort-to-a-dissent-from-the-bench/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated at 6:06 p.m. Next week, what is being billed as the biggest fireworks show ever in Washington, D.C., will help celebrate the nation’s 250th birthday. Yet the Supreme Court will offer its own pyrotechnics this morning with a…",
+          "published": "2026-06-25T20:30:00.000Z"
+        },
+        {
+          "title": "Court rules for Roundup maker in dispute over cancer warnings on pesticide labels",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-for-roundup-maker-in-dispute-over-cancer-warnings-on-pesticide-labels/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 25 at 5:59 p.m. The Supreme Court on Thursday sided with Monsanto in a high-stakes dispute over cancer warnings on pesticide labels. In an opinion by Justice Brett Kavanaugh in Monsanto Company v. Durnell , the court…",
+          "published": "2026-06-25T17:04:31.000Z"
+        },
+        {
+          "title": "Justices side with Trump administration in border dispute over asylum seekers",
+          "link": "https://www.scotusblog.com/2026/06/justices-side-with-trump-administration-in-border-dispute-over-asylum-seekers/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 25 at 5:10 p.m. The Supreme Court on Thursday upheld the federal government’s policy of systematically turning back asylum seekers before they can reach the U.S.-Mexico border. By a vote of 6-3, the justices agreed with…",
+          "published": "2026-06-25T15:49:28.000Z"
+        },
+        {
+          "title": "Court allows Trump administration to end removal protections for Syrian and Haitian nationals",
+          "link": "https://www.scotusblog.com/2026/06/supreme-court-allows-trump-administration-to-end-removal-protections-for-syrian-and-haitian-nati/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 25 at 2:35 p.m. The Supreme Court on Thursday cleared the way for the federal government to remove protections for citizens of Haiti and Syria under a federal program that allows foreign citizens to stay in the United…",
+          "published": "2026-06-25T15:32:30.000Z"
+        },
+        {
+          "title": "Penultimate relists: papers, parents, and procedural puzzles",
+          "link": "https://www.scotusblog.com/2026/06/penultimate-relists-papers-parents-and-procedural-puzzles-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Relist Watch column examines cert petitions that the Supreme Court has “relisted” for its upcoming conference. A short explanation of relists is available here . This Thursday’s conference is the last one currently scheduled during…",
+          "published": "2026-06-25T15:30:00.000Z"
+        },
+        {
+          "title": "Supreme Court strikes down Hawaii gun restriction",
+          "link": "https://www.scotusblog.com/2026/06/supreme-court-strikes-hawaii-gun-restriction/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 25 at 1:25 p.m. The Supreme Court on Thursday struck down a Hawaii law that makes it a crime for gun owners to bring their guns onto private property that is open to the public unless they have the property owner’s…",
+          "published": "2026-06-25T15:13:00.000Z"
+        },
+        {
+          "title": "Major decisions ahead",
+          "link": "https://www.scotusblog.com/2026/06/major-decisions-ahead/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "We’re expecting 12 more opinions in argued cases. At least one is expected today.",
+          "published": "2026-06-25T13:00:00.000Z"
+        },
+        {
+          "title": "The blast radius of Callais – and what it means for Constitutional Law",
+          "link": "https://www.scotusblog.com/2026/06/the-blast-radius-of-callais-and-what-it-means-for-constitutional-law/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "In the month and a half since the Supreme Court decided Louisiana v. Callais , the actual and potential scope of that case’s destructive impact on the Reconstruction Amendments and on congressional power has only become clearer. As a…",
+          "published": "2026-06-24T14:00:00.000Z"
+        },
+        {
+          "title": "When Congress “overrides” the court",
+          "link": "https://www.scotusblog.com/2026/06/when-congress-overrides-the-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court’s April 29 ruling curtailing a key provision of the Voting Rights Act cleared the way for last-minute redistricting pushes in states such as Louisiana and Tennessee . As a result, it fueled new , more urgent calls for…",
+          "published": "2026-06-24T13:30:00.000Z"
+        },
+        {
+          "title": "What to know about the court’s five latest rulings",
+          "link": "https://www.scotusblog.com/2026/06/what-to-know-about-the-court-s-five-latest-rulings/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The next opinion announcement day is expected to be Thursday.",
+          "published": "2026-06-24T13:00:00.000Z"
+        },
+        {
+          "title": "Court sides with government in dispute over rights of green card holders accused of committing a crime",
+          "link": "https://www.scotusblog.com/2026/06/court-sides-with-government-in-dispute-over-rights-of-green-card-holders-accused-of-committing-a/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Tuesday in Blanche v. Lau cleared the way for immigration officers to more freely deny lawful permanent residents – also known as green card holders – admission into the United States. By a vote of 6-3, the court, in…",
+          "published": "2026-06-23T21:18:00.000Z"
+        },
+        {
+          "title": "Justices reject constitutional attack on foreclosure rules",
+          "link": "https://www.scotusblog.com/2026/06/justices-reject-constitutional-attack-on-foreclosure-rules/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 24 at 9:35 a.m. Tuesday’s decision in Pung v. Isabella County squarely rejects an argument that the longstanding use of tax foreclosure sales as a method to collect unpaid real-estate taxes violates the takings clause of…",
+          "published": "2026-06-23T21:11:00.000Z"
         }
       ]
     }
