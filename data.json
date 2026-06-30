@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T21:12:17.802Z",
+  "updated": "2026-06-30T22:47:54.837Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,7 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Nike was expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.",
-          "published": "2026-06-30T20:46:57.000Z"
+          "published": "2026-06-30T22:07:27.000Z"
         },
         {
           "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
@@ -202,6 +202,62 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Dish files for bankruptcy, but not shutting down",
+          "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its wireless operations after \"unforeseen…",
+          "published": "2026-06-30T22:46:52.000Z"
+        },
+        {
+          "title": "Hatari – Online Atari ST&#x2F;STE&#x2F;TT&#x2F;Falcon Emulator",
+          "link": "https://hatari.frama.io/hatari/online/hatari.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T22:34:23.000Z"
+        },
+        {
+          "title": "TabFM: A zero-shot foundation model for tabular data",
+          "link": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T22:08:38.000Z"
+        },
+        {
+          "title": "Ask HN: Since when does Craigslist's front page have emojis?",
+          "link": "https://news.ycombinator.com/item?id=48739792",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T21:58:49.000Z"
+        },
+        {
+          "title": "Understanding lattice risks: Many differences between marketing and reality",
+          "link": "https://blog.cr.yp.to/20260630-risk.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T21:29:15.000Z"
+        },
+        {
+          "title": "From brain waves to words: a new path to communication without surgery",
+          "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T21:29:13.000Z"
+        },
+        {
+          "title": "Amazon fined $2.25 million for failing to help identity theft victims",
+          "link": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its complaint, the FTC accuses Amazon of refusing…",
+          "published": "2026-06-30T21:20:01.000Z"
+        },
+        {
           "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
           "link": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
           "source": "Ars Technica",
@@ -216,6 +272,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-30T20:48:36.000Z"
+        },
+        {
+          "title": "Leanstral 1.5",
+          "link": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T20:44:56.000Z"
         },
         {
           "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
@@ -234,14 +298,6 @@
           "published": "2026-06-30T20:20:29.000Z"
         },
         {
-          "title": "Morbid: Debunking Modern Longevity Science",
-          "link": "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T20:17:21.000Z"
-        },
-        {
           "title": "New attack provides one more reason why AI browsers are a bad idea",
           "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
           "source": "Ars Technica",
@@ -256,6 +312,14 @@
           "category": "tech",
           "snippet": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.99 at Best…",
           "published": "2026-06-30T20:00:00.000Z"
+        },
+        {
+          "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+          "link": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T19:47:24.000Z"
         },
         {
           "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
@@ -282,14 +346,6 @@
           "published": "2026-06-30T18:36:10.000Z"
         },
         {
-          "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
-          "link": "https://news.ycombinator.com/item?id=48737226",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T18:33:59.000Z"
-        },
-        {
           "title": "RFK Jr. stacks FDA panel with peptide peddlers as FDA scientists oppose access",
           "link": "https://arstechnica.com/health/2026/06/rfk-jr-stacks-fda-panel-with-peptide-peddlers-as-fda-scientists-oppose-access/",
           "source": "Ars Technica",
@@ -304,6 +360,14 @@
           "category": "tech",
           "snippet": "IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an \"external partner\" on its next big franchise, Project Fantasy, \"has come to an end.\" IO has…",
           "published": "2026-06-30T18:14:05.000Z"
+        },
+        {
+          "title": "Amazon seller reveals glimpse of shadow bribery market",
+          "link": "https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T18:12:33.000Z"
         },
         {
           "title": "Claude Sonnet 5",
@@ -322,82 +386,26 @@
           "published": "2026-06-30T17:38:23.000Z"
         },
         {
-          "title": "I built a mmWave material classification radar",
+          "title": "I built a mmWave material classification radar (2025)",
           "link": "https://gauthier-lechevalier.com/radar",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-30T17:29:36.000Z"
-        },
-        {
-          "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-          "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the…",
-          "published": "2026-06-30T17:19:15.000Z"
-        },
-        {
-          "title": "Claude Science",
-          "link": "https://claude.com/product/claude-science",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T17:07:41.000Z"
-        },
-        {
-          "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
-          "link": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30…",
-          "published": "2026-06-30T17:04:14.000Z"
-        },
-        {
-          "title": "Google s killing off Tenor GIF searches in other apps",
-          "link": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API today. While the Tenor website, along with its searchable GIF library, will remain…",
-          "published": "2026-06-30T17:00:05.000Z"
-        },
-        {
-          "title": "Xbox weighs canceling Blade game and shuttering Arkane",
-          "link": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to studio closures or spinoffs, potential mergers of studios,…",
-          "published": "2026-06-30T17:00:00.000Z"
-        },
-        {
-          "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
-          "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "A year in, National Design Studio delays plan to update government web standards.",
-          "published": "2026-06-30T16:59:02.000Z"
-        },
-        {
-          "title": "Nano Banana 2 Lite",
-          "link": "https://deepmind.google/models/gemini-image/flash-lite/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T16:48:37.000Z"
-        },
-        {
-          "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
-          "link": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T16:44:31.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Birthright citizenship: “We break no new ground today”",
+          "link": "https://www.scotusblog.com/2026/06/birthright-citizenship-we-break-no-new-ground-today/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "When it comes to the last formal day of the term, when we know which cases are remaining, litigants and other interested parties have the chance to try to work their way into the courtroom to hear an opinion announced in a case of close…",
+          "published": "2026-06-30T22:00:00.000Z"
+        },
         {
           "title": "Breaking down the birthright-citizenship decision",
           "link": "https://www.scotusblog.com/2026/06/breaking-down-the-birthright-citizenship-decision/",
@@ -419,7 +427,7 @@
           "link": "https://www.scotusblog.com/2026/06/justices-strike-down-campaign-finance-law/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The Supreme Court on Tuesday issued a major ruling on money in elections. By a vote of 6-3, the justices struck down a federal law that limited the amount of money that political parties can spend in coordination with a candidate for…",
+          "snippet": "Updated on June 30 at 4:40 p.m. The Supreme Court on Tuesday issued a major ruling on money in elections. By a vote of 6-3, the justices struck down a federal law that limited the amount of money that political parties can spend in…",
           "published": "2026-06-30T15:37:53.000Z"
         },
         {
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Updated on June 25 at 2:35 p.m. The Supreme Court on Thursday cleared the way for the federal government to remove protections for citizens of Haiti and Syria under a federal program that allows foreign citizens to stay in the United…",
           "published": "2026-06-25T15:32:30.000Z"
-        },
-        {
-          "title": "Penultimate relists: papers, parents, and procedural puzzles",
-          "link": "https://www.scotusblog.com/2026/06/penultimate-relists-papers-parents-and-procedural-puzzles-/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Relist Watch column examines cert petitions that the Supreme Court has “relisted” for its upcoming conference. A short explanation of relists is available here . This Thursday’s conference is the last one currently scheduled during…",
-          "published": "2026-06-25T15:30:00.000Z"
         }
       ]
     }
