@@ -1,9 +1,25 @@
 {
-  "updated": "2026-06-30T17:21:42.236Z",
+  "updated": "2026-06-30T19:15:04.389Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+          "link": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
+          "published": "2026-06-30T18:59:19.000Z"
+        },
+        {
+          "title": "American Airlines brings grab-and-go lounge to New York's JFK",
+          "link": "https://www.cnbc.com/2026/06/30/american-airlines-louge-new-york-jfk.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "American Airlines is opening a grab-and-go lounge at New York's JFK",
+          "published": "2026-06-30T18:00:01.000Z"
+        },
         {
           "title": "Cruise passengers 'stranded' after air con failure to be flown home",
           "link": "https://www.bbc.co.uk/news/articles/cy0639x4dp8o?at_medium=RSS&at_campaign=rss",
@@ -179,28 +195,92 @@
           "category": "markets",
           "snippet": "People in a Lancashire town say they \"don't know where the money will come from\" if bills go up.",
           "published": "2026-06-29T05:25:42.000Z"
-        },
-        {
-          "title": "How much should we be prepared to pay for our food?",
-          "link": "https://www.bbc.co.uk/news/articles/c3ryqywd97do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A chorus of people say that rather than capping prices, consumers should consider spending more",
-          "published": "2026-06-29T05:14:53.000Z"
-        },
-        {
-          "title": "Rogue builder left our roof leaking and spent £30K we gave him in Lanzarote",
-          "link": "https://www.bbc.co.uk/news/articles/cze9wpny62go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Christian Williams benefitted to the tune of £160,000 from offending - but had just £1 to pay back.",
-          "published": "2026-06-29T05:05:34.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever",
+          "link": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The price of LG’s UltraGear 27GX700A-B 1440p gaming monitor that came out last August has dropped to nearly its best price yet. You can grab it at Amazon for $484.99 or at LG for $499.99 (originally $599.99). That’s a great deal…",
+          "published": "2026-06-30T18:42:00.000Z"
+        },
+        {
+          "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+          "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
+          "published": "2026-06-30T18:36:10.000Z"
+        },
+        {
+          "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
+          "link": "https://news.ycombinator.com/item?id=48737226",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T18:33:59.000Z"
+        },
+        {
+          "title": "RFK Jr. stacks FDA panel with peptide peddlers as FDA scientists oppose access",
+          "link": "https://arstechnica.com/health/2026/06/rfk-jr-stacks-fda-panel-with-peptide-peddlers-as-fda-scientists-oppose-access/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Peptide drugs are popular, but FDA scientists warn they're untested, may be harmful.",
+          "published": "2026-06-30T18:25:10.000Z"
+        },
+        {
+          "title": "007 First Light s developer lays off staff but claims its next franchise will continue",
+          "link": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an \"external partner\" on its next big franchise, Project Fantasy, \"has come to an end.\" IO has…",
+          "published": "2026-06-30T18:14:05.000Z"
+        },
+        {
+          "title": "Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T18:12:33.000Z"
+        },
+        {
+          "title": "Claude Sonnet 5",
+          "link": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T17:59:52.000Z"
+        },
+        {
+          "title": "Moto s Tag 2 tracker is $20 for a limited time",
+          "link": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Announced at CES 2026, the Moto Tag 2 has finally arrived in the US. The Bluetooth tracker with improved battery life over its predecessor, plus UWB sensing for more accurate tracking, is available through Motorola s site at a special…",
+          "published": "2026-06-30T17:38:23.000Z"
+        },
+        {
+          "title": "I built a mmWave material classification radar",
+          "link": "https://gauthier-lechevalier.com/radar",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T17:29:36.000Z"
+        },
+        {
+          "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+          "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the…",
+          "published": "2026-06-30T17:19:15.000Z"
+        },
         {
           "title": "Claude Science",
           "link": "https://claude.com/product/claude-science",
@@ -234,6 +314,22 @@
           "published": "2026-06-30T17:00:00.000Z"
         },
         {
+          "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+          "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "A year in, National Design Studio delays plan to update government web standards.",
+          "published": "2026-06-30T16:59:02.000Z"
+        },
+        {
+          "title": "We Are the Last People Who Know How It Works",
+          "link": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-06-30T16:59:00.000Z"
+        },
+        {
           "title": "Xsnow \"protestware\" in Debian",
           "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
           "source": "Hacker News",
@@ -258,14 +354,6 @@
           "published": "2026-06-30T16:44:31.000Z"
         },
         {
-          "title": "EU commissioners shut down air conditioning for employees, leave theirs on",
-          "link": "https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T16:19:51.000Z"
-        },
-        {
           "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
           "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
           "source": "Hacker News",
@@ -282,6 +370,14 @@
           "published": "2026-06-30T16:05:22.000Z"
         },
         {
+          "title": "The US going 100% EV by 2040 would save more than 100k lives, study says",
+          "link": "https://arstechnica.com/cars/2026/06/the-us-going-100-ev-by-2040-would-save-more-than-100k-lives-study-says/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Much of it comes from heavy-duty trucks and buses that burn diesel.",
+          "published": "2026-06-30T16:03:44.000Z"
+        },
+        {
           "title": "What is a quantum computer good for? Absolutely nothing — yet",
           "link": "https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo",
           "source": "The Verge",
@@ -290,114 +386,42 @@
           "published": "2026-06-30T16:00:00.000Z"
         },
         {
-          "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
-          "link": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T15:45:32.000Z"
-        },
-        {
-          "title": "Claude Code Is Steganographically Marking Requests",
+          "title": "Claude Code is steganographically marking requests",
           "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-06-30T15:44:24.000Z"
-        },
-        {
-          "title": "The labor share of income in the US is at its lowest post-war level",
-          "link": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T15:35:04.000Z"
-        },
-        {
-          "title": "Libby will filter out AI content, kind of",
-          "link": "https://www.theverge.com/column/959433/libby-ai-filter",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as…",
-          "published": "2026-06-30T15:30:00.000Z"
-        },
-        {
-          "title": "We moved our Bluesky data to Eurosky",
-          "link": "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T15:17:14.000Z"
-        },
-        {
-          "title": "The Supreme Court stops Trump s attempt to end birthright citizenship",
-          "link": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Supreme Court upheld birthright citizenship, ruling 6-3 against President Donald Trump's effort to end the longstanding constitutional right via executive order. Birthright citizenship dates back to Reconstruction. Under the 14th…",
-          "published": "2026-06-30T14:44:42.000Z"
-        },
-        {
-          "title": "Looking Ahead to Postgres 19",
-          "link": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T14:14:29.000Z"
-        },
-        {
-          "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
-          "link": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Videos purporting to show the iPhone 18 Pro undergoing a drop test were removed from X shortly after they surfaced, as spotted earlier by MacRumors. An account imitating leaker EvLeaks was suspended from X after sharing the clips, while…",
-          "published": "2026-06-30T13:57:41.000Z"
-        },
-        {
-          "title": "Florida bans local governments from pursuing net-zero emissions goals",
-          "link": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Gov. Ron DeSantis calls it a crackdown on \"radical climate policies.\"",
-          "published": "2026-06-30T13:40:16.000Z"
-        },
-        {
-          "title": "Ars Live, today: The latest on the aftermath of the New Glenn catastrophe",
-          "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.",
-          "published": "2026-06-30T13:15:59.000Z"
-        },
-        {
-          "title": "Knoppix",
-          "link": "https://www.knopper.net/knoppix/index-en.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T12:54:01.000Z"
-        },
-        {
-          "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
-          "link": "https://www.gutenberg.org/ebooks/24518",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T12:47:51.000Z"
-        },
-        {
-          "title": "Meet the lawyer who beat Elon Musk — twice",
-          "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his…",
-          "published": "2026-06-30T12:00:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Second Circuit Judge Sarah Merriam Disciplined Again, This Time for Creating A Tense And Challenging Work Environment",
+          "link": "https://abovethelaw.com/2026/06/second-circuit-judge-sarah-merriam-disciplined-again-this-time-for-creating-a-tense-and-challenging-work-environment/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "We cannot just wait for the next judge to make news. We need to take action now. The post Second Circuit Judge Sarah Merriam Disciplined Again, This Time for Creating A Tense And Challenging Work Environment appeared first on Above the…",
+          "published": "2026-06-30T18:32:00.000Z"
+        },
+        {
+          "title": "Those WL Citations Are An Open Invitation To AI Hallucinations",
+          "link": "https://abovethelaw.com/2026/06/those-wl-citations-are-an-open-invitation-to-ai-hallucinations/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Those proprietary citations carry risks for the publishers. The post Those WL Citations Are An Open Invitation To AI Hallucinations appeared first on Above the Law .",
+          "published": "2026-06-30T17:52:08.000Z"
+        },
+        {
+          "title": "Court grants several new cases, including on whether the Second Amendment protects possession of semiautomatic rifles",
+          "link": "https://www.scotusblog.com/2026/06/court-grants-several-new-cases-including-on-whether-the-second-amendment-protects-possession-of-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Less than a week after the Supreme Court struck down a Hawaii law that barred gun owners with concealed-carry licenses from bringing guns onto private property unless they had explicit permission from the property’s owner, the justices…",
+          "published": "2026-06-30T17:22:10.000Z"
+        },
         {
           "title": "At 3rd Circuit, Judges Press ROSS And Thomson Reuters On Fair Use, AI Training, And Market Harm",
           "link": "https://www.lawnext.com/2026/06/at-3rd-circuit-judges-press-ross-and-thomson-reuters-on-fair-use-ai-training-and-market-harm.html",
@@ -443,7 +467,7 @@
           "link": "https://www.scotusblog.com/2026/06/supreme-court-strikes-down-trumps-order-ending-birthright-citizenship/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The Supreme Court on Tuesday struck down President Donald Trump’s executive order seeking to end birthright citizenship – the guarantee of citizenship to virtually everyone born in the United States. In a decision by Chief Justice John…",
+          "snippet": "Updated on June 30 at 1:55 p.m. The Supreme Court on Tuesday struck down President Donald Trump’s executive order seeking to end birthright citizenship – the guarantee of citizenship to virtually everyone born in the United States. In a…",
           "published": "2026-06-30T15:06:32.000Z"
         },
         {
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "At the Supreme Court building, there is a small exhibition tied to the nation’s 250th anniversary, titled “Revolutionary Arguments: The Legal Fight for Independence.” The modest ground floor display focuses on how some of the “lawyers,…",
           "published": "2026-06-29T20:00:00.000Z"
-        },
-        {
-          "title": "So Maybe Bar Examiners Need An Actual Plan For Emergencies?",
-          "link": "https://abovethelaw.com/2026/06/so-maybe-bar-examiners-need-an-actual-plan-for-emergencies/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The fingers-crossed-and-hope-for-the-best method isn't cutting it. The post So Maybe Bar Examiners Need An Actual Plan For Emergencies? appeared first on Above the Law .",
-          "published": "2026-06-29T20:00:00.000Z"
-        },
-        {
-          "title": "Biglaw s Newest Transatlantic Giant Unveils An Ambitious Global Vision",
-          "link": "https://abovethelaw.com/2026/06/biglaws-newest-transatlantic-giant-unveils-an-ambitious-global-vision/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The combined firm says it has the scale and reach to help clients navigate increasingly complex challenges. The post Biglaw s Newest Transatlantic Giant Unveils An Ambitious Global Vision appeared first on Above the Law .",
-          "published": "2026-06-29T19:14:00.000Z"
-        },
-        {
-          "title": "Two Justices Just Signaled Again That They Want To Destroy Press Freedom",
-          "link": "https://abovethelaw.com/2026/06/two-justices-just-signaled-again-that-they-want-to-destroy-press-freedom/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Using Dershowitz's failed CNN defamation suit as their vehicle, the justices once again called for overturning New York Times v. Sullivan. The post Two Justices Just Signaled Again That They Want To Destroy Press Freedom appeared first on…",
-          "published": "2026-06-29T18:32:00.000Z"
         }
       ]
     }
