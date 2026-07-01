@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-01T08:07:32.439Z",
+  "updated": "2026-07-01T11:36:50.522Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Lamborghini reveals new Urus performance hybrid SUV after ditching EVs",
+          "link": "https://www.cnbc.com/2026/07/01/lamborghini-urus-suv.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Lamborghini is calling the new Urus SE Performante the \"fastest Super SUV in the world.\"",
+          "published": "2026-07-01T10:13:43.000Z"
+        },
+        {
+          "title": "Refunds: Hidden Tricks",
+          "link": "https://www.bbc.co.uk/videos/cj6gd0j702go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Struggling to get a refund? Consumer journalist Rebecca Wilcox shares some tips.",
+          "published": "2026-07-01T10:02:57.000Z"
+        },
+        {
+          "title": "What will the energy cap changes mean for my bills?",
+          "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Typical annual household bills rose by 13% under Ofgem's new energy cap which took effect on 1 July.",
+          "published": "2026-07-01T09:45:52.000Z"
+        },
         {
           "title": "Trump made more than $1bn from crypto in first year back in office",
           "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
@@ -171,30 +195,6 @@
           "category": "markets",
           "snippet": "He was accused of using money for a Netflix show on lavish purchases like Rolls Royces and Ferraris.",
           "published": "2026-06-29T20:41:10.000Z"
-        },
-        {
-          "title": "Will Andy Burnham's devolution plan raise economic growth?",
-          "link": "https://www.bbc.co.uk/news/articles/c5yz4x9ew49o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "BBC Verify has looked at what impact further devolution could be expected to have on the UK.",
-          "published": "2026-06-29T19:33:26.000Z"
-        },
-        {
-          "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-          "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
-          "published": "2026-06-29T16:51:52.000Z"
-        },
-        {
-          "title": "Burnham's 'Manchesterism' could change the UK, but is not yet a full economic plan",
-          "link": "https://www.bbc.co.uk/news/articles/cpq3yxdyx9do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Andy Burnham's speech depicted a different way of seeing and running the UK, though there are many other questions about the detail.",
-          "published": "2026-06-29T15:41:04.000Z"
         }
       ]
     },
@@ -202,12 +202,76 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Meta is adding rate limits and soft paywall to smart glasses",
-          "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+          "title": "Range anxiety",
+          "link": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell, and then later that evening transforming into a long squall line of thunderstorms. Tucked inside a wall of…",
+          "published": "2026-07-01T11:00:02.000Z"
+        },
+        {
+          "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
+          "link": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Dbrand is the company that shipped a product that told Nintendo's legal team to \"go fuck yourself,\" and the company that had a second set of lawyer-dodging PS5 plates ready when Sony threatened to sue over the originals. But on June 29th,…",
+          "published": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Asahi Linux 7.1 Progress Report",
+          "link": "https://asahilinux.org/2026/06/progress-report-7-1/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-01T05:43:44.000Z"
+          "published": "2026-07-01T10:07:04.000Z"
+        },
+        {
+          "title": "Fujifilm launches two new QuickSnap cameras because Gen Z can t get enough",
+          "link": "https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Fujifilm is expanding its QuickSnap lineup with a new disposable camera focused on taking monochrome photos and another built to survive harsh outdoor environments. The $22.90 QuickSnap Black and White and the $24.75 QuickSnap Active are…",
+          "published": "2026-07-01T10:05:28.000Z"
+        },
+        {
+          "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+          "link": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T09:57:07.000Z"
+        },
+        {
+          "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
+          "link": "https://news.ycombinator.com/item?id=48744213",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T09:18:43.000Z"
+        },
+        {
+          "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
+          "link": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Getty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would prevent part of Shutterstock's business from being included in the deal. The move comes despite the US…",
+          "published": "2026-07-01T08:41:26.000Z"
+        },
+        {
+          "title": "Register Korea's First PC 'SE-8001' as a National Important Material",
+          "link": "https://www.dongascience.com/en/news/30374",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T08:12:40.000Z"
+        },
+        {
+          "title": "Godot will no longer accept AI-authored code contributions",
+          "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T07:43:22.000Z"
         },
         {
           "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
@@ -250,6 +314,14 @@
           "published": "2026-07-01T01:23:09.000Z"
         },
         {
+          "title": "Meta is adding ridiculous rate limits and a soft paywall to its smart glasses",
+          "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will soon be limited to three hours of use per…",
+          "published": "2026-07-01T00:51:03.000Z"
+        },
+        {
           "title": "Anthropic s long-sidelined Fable 5 is greenlit to return",
           "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
           "source": "The Verge",
@@ -274,7 +346,7 @@
           "published": "2026-06-30T23:45:39.000Z"
         },
         {
-          "title": "Dish files for bankruptcy, but not shutting down",
+          "title": "Dish files for bankruptcy, but is not shutting down",
           "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
           "source": "The Verge",
           "category": "tech",
@@ -320,78 +392,6 @@
           "category": "tech",
           "snippet": "The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its complaint, the FTC accuses Amazon of refusing…",
           "published": "2026-06-30T21:20:01.000Z"
-        },
-        {
-          "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
-          "link": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "New Fire Stick OS helps Amazon block third-party homepage launchers, ad blockers.",
-          "published": "2026-06-30T21:04:53.000Z"
-        },
-        {
-          "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
-          "link": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"That would be an awesome capability.\"",
-          "published": "2026-06-30T20:50:14.000Z"
-        },
-        {
-          "title": "I ported Kubernetes to the browser",
-          "link": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T20:48:36.000Z"
-        },
-        {
-          "title": "Leanstral 1.5",
-          "link": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T20:44:56.000Z"
-        },
-        {
-          "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
-          "link": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Tenor still connects to Google apps, but other platforms must look elsewhere for GIFs.",
-          "published": "2026-06-30T20:38:51.000Z"
-        },
-        {
-          "title": "Apple takes Epic fight over app store fees to the Supreme Court",
-          "link": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Supreme Court will weigh if Apple contempt finding in Epic case is “erroneous.”",
-          "published": "2026-06-30T20:20:29.000Z"
-        },
-        {
-          "title": "New attack provides one more reason why AI browsers are a bad idea",
-          "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
-          "published": "2026-06-30T20:03:14.000Z"
-        },
-        {
-          "title": "Acer s Swift Go 16 is a lot of laptop for $900",
-          "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.99 at Best…",
-          "published": "2026-06-30T20:00:00.000Z"
-        },
-        {
-          "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
-          "link": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-06-30T19:47:24.000Z"
         }
       ]
     },
