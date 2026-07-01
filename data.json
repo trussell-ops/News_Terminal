@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T14:09:03.626Z",
+  "updated": "2026-07-01T16:42:55.109Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,15 +10,7 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
-          "published": "2026-07-01T13:52:20.000Z"
-        },
-        {
-          "title": "U.S. auto industry faces more uncertainty without extension of USMCA trade deal",
-          "link": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "A major issue for automakers is the deal's rules of origin, which determine where a product comes from and which goods are eligible for preferential treatment.",
-          "published": "2026-07-01T12:56:49.000Z"
+          "published": "2026-07-01T16:04:32.000Z"
         },
         {
           "title": "Brewery boss who banned phones and swearing from pubs dies aged 81",
@@ -26,7 +18,39 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Humphrey Smith had been at the helm of the Tadcaster brewer since the 1980s.",
-          "published": "2026-07-01T12:20:49.000Z"
+          "published": "2026-07-01T15:13:20.000Z"
+        },
+        {
+          "title": "U.S. auto industry faces increased uncertainty without extension of USMCA trade deal",
+          "link": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "A major issue for automakers is the deal's rules of origin, which determine where a product comes from and which goods are eligible for preferential treatment.",
+          "published": "2026-07-01T14:52:33.000Z"
+        },
+        {
+          "title": "Romesh Ranganathan 'gutted' over bakery closure",
+          "link": "https://www.bbc.co.uk/news/articles/c74y7wdgy49o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Coughlans Bakery says it has gone into voluntary liquidation over hikes in national insurance and business rates.",
+          "published": "2026-07-01T14:52:15.000Z"
+        },
+        {
+          "title": "Money Box",
+          "link": "https://www.bbc.co.uk/sounds/play/m002ybp0?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Money Box Live considers what buying a flat means for your finances?",
+          "published": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Trump's $1.4bn crypto earnings revealed",
+          "link": "https://www.bbc.co.uk/news/videos/c39ywez8r1ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "US President Donald Trump made more than $1.4 bn (£750m) last year from business dealings in cryptocurrency, according to his mandatory financial report for 2025.",
+          "published": "2026-07-01T14:15:54.000Z"
         },
         {
           "title": "Up to 150 ex-WHSmith High Street stores to close as rescue deal approved",
@@ -34,7 +58,7 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The sweeping restructuring, approved by a court, will see steep rent cuts on most remaining stores.",
-          "published": "2026-07-01T11:31:16.000Z"
+          "published": "2026-07-01T14:10:32.000Z"
         },
         {
           "title": "Lamborghini reveals new Urus performance hybrid SUV after ditching EVs",
@@ -67,14 +91,6 @@
           "category": "markets",
           "snippet": "Energy grids and train services are among the vital services that are vulnerable to very hot weather.",
           "published": "2026-07-01T07:23:12.000Z"
-        },
-        {
-          "title": "Romesh Ranganathan 'gutted' over bakery closure",
-          "link": "https://www.bbc.co.uk/news/articles/c74y7wdgy49o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Coughlans Bakery says it has gone into voluntary liquidation over hikes in national insurance and business rates.",
-          "published": "2026-07-01T06:53:28.000Z"
         },
         {
           "title": "Anthropic says US lifts export ban on its advanced AI tools",
@@ -179,28 +195,140 @@
           "category": "markets",
           "snippet": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
           "published": "2026-06-30T06:22:35.000Z"
-        },
-        {
-          "title": "India's biggest share sales tell the story of a country glued to its phones",
-          "link": "https://www.bbc.co.uk/news/articles/cdej6ej7w4go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "NSE and Jio Platforms embody the sweeping changes in how India has consumed, invested and transacted over the past decade.",
-          "published": "2026-06-30T03:42:14.000Z"
-        },
-        {
-          "title": "We had packed lunches every day for 10 years and retired at 40",
-          "link": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible.",
-          "published": "2026-06-29T23:03:26.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
+          "link": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T16:19:47.000Z"
+        },
+        {
+          "title": "NASA inspector general suggests Boeing's Starliner will now be a decade late",
+          "link": "https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Starliner's certification may be delayed to 2027, 10 years later than Boeing's original schedule.",
+          "published": "2026-07-01T16:11:39.000Z"
+        },
+        {
+          "title": "Meta loses bid to dismiss US states' claims that FB, Instagram addict children",
+          "link": "https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T15:40:56.000Z"
+        },
+        {
+          "title": "How We Made IPFS Content Publishing 10x Faster",
+          "link": "https://probelab.io/blog/optimistic-provide/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T15:30:35.000Z"
+        },
+        {
+          "title": "Comcast’s split could make or break Peacock",
+          "link": "https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "NBCUniversal executives are about to find out whether Peacock will sink or swim in the streaming industry. Now that Comcast is planning to split NBCUniversal, Peacock, and Sky from its broadband and wireless businesses, Peacock will be…",
+          "published": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "A space history mystery: What happened to the Viking arm used 50 years ago?",
+          "link": "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "A timely tale about a 50-year-old robotic arm...",
+          "published": "2026-07-01T15:20:34.000Z"
+        },
+        {
+          "title": "Show HN: GolemUI – The new paradigm for JavaScript forms",
+          "link": "https://golemui.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T15:12:08.000Z"
+        },
+        {
+          "title": "Ask HN: Who is hiring? (July 2026)",
+          "link": "https://news.ycombinator.com/item?id=48747976",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T15:01:21.000Z"
+        },
+        {
+          "title": "Ask HN: Who wants to be hired? (July 2026)",
+          "link": "https://news.ycombinator.com/item?id=48747975",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T15:01:21.000Z"
+        },
+        {
+          "title": "The best Switch 2 case I’ve tried is cheaper than usual",
+          "link": "https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Dbrand apparently knows how to really whiff a product launch, as we recently saw with the Steam Machine Companion Cube shell. But it also makes the best case out there for the Nintendo Switch 2, which happens to be discounted right now.…",
+          "published": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Sony is killing discs — and showing us why it’s a terrible idea",
+          "link": "https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The future of video game preservation just took a major hit. This morning, Sony announced that, starting in January 2028, the company will no longer produce physical PlayStation discs, which means that from that moment on you can only…",
+          "published": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Ray Tracer in SQL",
+          "link": "https://github.com/ClickHouse/RayTracer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T14:27:48.000Z"
+        },
+        {
+          "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+          "link": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T14:26:07.000Z"
+        },
+        {
+          "title": "For first time, a cell built from scratch grows and divides",
+          "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T14:20:52.000Z"
+        },
+        {
+          "title": "The C to Rust migration book",
+          "link": "https://mainmatter.com/c-to-rust-migration-book/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T14:00:29.000Z"
+        },
+        {
+          "title": "Monetization Gateway",
+          "link": "https://blog.cloudflare.com/monetization-gateway/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T13:59:13.000Z"
+        },
         {
           "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
           "link": "https://news.ycombinator.com/item?id=48746752",
@@ -210,7 +338,7 @@
           "published": "2026-07-01T13:48:44.000Z"
         },
         {
-          "title": "Why I Stopped Arguing with People",
+          "title": "Most arguments are about ego, not ideas",
           "link": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
           "source": "Hacker News",
           "category": "tech",
@@ -218,20 +346,12 @@
           "published": "2026-07-01T13:29:29.000Z"
         },
         {
-          "title": "What's wrong with EU age verification? (Nothing)",
-          "link": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
-          "source": "Hacker News",
+          "title": "UK likely to intervene in Paramount takeover of Warner Bros. Discovery",
+          "link": "https://arstechnica.com/tech-policy/2026/07/uk-likely-to-intervene-in-paramount-takeover-of-warner-bros-discovery/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T13:27:07.000Z"
-        },
-        {
-          "title": "Palestine Action Proscription: We Fight Back",
-          "link": "https://www.craigmurray.org.uk/archives/2026/07/palestine-action-proscription-we-fight-back/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T13:26:40.000Z"
+          "snippet": "The acquisition was approved without concessions by the Department of Justice in June.",
+          "published": "2026-07-01T13:24:39.000Z"
         },
         {
           "title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
@@ -240,6 +360,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-01T13:22:24.000Z"
+        },
+        {
+          "title": "Internal Combustion Engine",
+          "link": "https://ciechanow.ski/internal-combustion-engine/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-01T13:04:16.000Z"
         },
         {
           "title": "Sony is closing the PS3 and Vita digital stores",
@@ -264,140 +392,44 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-01T12:13:34.000Z"
-        },
-        {
-          "title": "Show HN: Frond – a frontend runtime for your app's dependency graph",
-          "link": "https://frondruntime.dev",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T12:10:37.000Z"
-        },
-        {
-          "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-          "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon…",
-          "published": "2026-07-01T12:00:00.000Z"
-        },
-        {
-          "title": "Rhythm Heaven never misses a beat",
-          "link": "https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Rhythm Heaven isn't Nintendo's best-known series, nor its most prolific. Prior to the launch of Rhythm Heaven Groove on the Switch this week - it's out on July 2nd - there were only four previous entries, one of which was exclusive to…",
-          "published": "2026-07-01T12:00:00.000Z"
-        },
-        {
-          "title": "Nintendo has raised its employees base salary by 10%",
-          "link": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T11:35:20.000Z"
-        },
-        {
-          "title": "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
-          "link": "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T11:28:26.000Z"
-        },
-        {
-          "title": "Scientists find no link between Tylenol and autism, again, after Trump warning",
-          "link": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "After Trump's claims, Tylenol usage dropped during pregnancies.",
-          "published": "2026-07-01T11:01:38.000Z"
-        },
-        {
-          "title": "Range anxiety",
-          "link": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell, and then later that evening transforming into a long squall line of thunderstorms. Tucked inside a wall of…",
-          "published": "2026-07-01T11:00:02.000Z"
-        },
-        {
-          "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
-          "link": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Dbrand is the company that shipped a product that told Nintendo's legal team to \"go fuck yourself,\" and the company that had a second set of lawyer-dodging PS5 plates ready when Sony threatened to sue over the originals. But on June 29th,…",
-          "published": "2026-07-01T11:00:00.000Z"
-        },
-        {
-          "title": "The Internet I Grew Up with Doesn't Exist Anymore",
-          "link": "https://cleberg.net/blog/internet.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T10:26:45.000Z"
-        },
-        {
-          "title": "Asahi Linux 7.1 Progress Report",
-          "link": "https://asahilinux.org/2026/06/progress-report-7-1/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T10:07:04.000Z"
-        },
-        {
-          "title": "Fujifilm launches two new QuickSnap cameras because Gen Z can t get enough",
-          "link": "https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Fujifilm is expanding its QuickSnap lineup with a new disposable camera focused on taking monochrome photos and another built to survive harsh outdoor environments. The $22.90 QuickSnap Black and White and the $24.75 QuickSnap Active are…",
-          "published": "2026-07-01T10:05:28.000Z"
-        },
-        {
-          "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
-          "link": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T09:57:07.000Z"
-        },
-        {
-          "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
-          "link": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T09:21:44.000Z"
-        },
-        {
-          "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
-          "link": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Getty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would prevent part of Shutterstock's business from being included in the deal. The move comes despite the US…",
-          "published": "2026-07-01T08:41:26.000Z"
-        },
-        {
-          "title": "Godot will no longer accept AI-authored code contributions",
-          "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T07:43:22.000Z"
-        },
-        {
-          "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-          "link": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T05:13:22.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Corporate Counsel Have Spoken: These Are The Law Firms They Love",
+          "link": "https://abovethelaw.com/2026/07/corporate-counsel-have-spoken-these-are-the-law-firms-they-love/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "BTI's latest Client Service A-Team ranking identifies the firms that have earned the deepest loyalty from corporate counsel. The post Corporate Counsel Have Spoken: These Are The Law Firms They Love appeared first on Above the Law .",
+          "published": "2026-07-01T16:12:00.000Z"
+        },
+        {
+          "title": "Alito s Outburst And Tough Times For Partners",
+          "link": "https://abovethelaw.com/2026/07/alitos-outburst-and-tough-times-for-partners/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "And a farewell look back as co-host Chris Williams departs the show. The post Alito s Outburst And Tough Times For Partners appeared first on Above the Law .",
+          "published": "2026-07-01T15:36:34.000Z"
+        },
+        {
+          "title": "Halfway To 250, America’s Republican President Fought Big Business, Won The Real Peace Prize, And Loved Nature",
+          "link": "https://abovethelaw.com/2026/07/halfway-to-250-americas-republican-president-fought-big-business-won-the-real-peace-prize-and-loved-nature/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "If Teddy Roosevelt were alive today, he would loathe Donald Trump and be utterly repulsed by almost all of this administration’s policies. The post Halfway To 250, America’s Republican President Fought Big Business, Won The Real Peace…",
+          "published": "2026-07-01T14:47:46.000Z"
+        },
+        {
+          "title": "House GOP Defectors Tank Procedural Vote To Bring NDAA To Floor",
+          "link": "https://breakingdefense.com/2026/06/house-gop-defectors-tank-procedural-vote-to-bring-ndaa-to-floor/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "GOP leadership said House members would leave for the Independence Day holiday tonight, leaving the timeline for NDAA passage unclear. The post House GOP Defectors Tank Procedural Vote To Bring NDAA To Floor appeared first on Above the…",
+          "published": "2026-07-01T14:03:00.000Z"
+        },
         {
           "title": "The 2025-26 term by the numbers",
           "link": "https://www.scotusblog.com/2026/07/the-2025-26-term-by-the-numbers/",
@@ -415,12 +447,60 @@
           "published": "2026-07-01T13:00:00.000Z"
         },
         {
+          "title": "Morning Docket: 07.01.26",
+          "link": "https://abovethelaw.com/2026/07/morning-docket-07-01-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* In an exquisite use of concurring opinions, Ketanji Brown Jackson goes off on Clarence Thomas and his revisionist history of the 14th Amendment. [ Bloomberg Law News ] * The left can't afford to get cocky about the birthright…",
+          "published": "2026-07-01T12:55:00.000Z"
+        },
+        {
+          "title": "Sam Alito Still Has His Job See Also",
+          "link": "https://abovethelaw.com/2026/06/sam-alito-still-has-his-job-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Reports Of Samuel Alito's Retirement Have Been Greatly Exaggerated: A lil' oopsie from NPR. Small firms, big money: Raises and bonuses going around. No Holds Barred Take On Attorney General Nominee Todd Blanche: Sheldon Whitehouse is…",
+          "published": "2026-06-30T23:41:00.000Z"
+        },
+        {
+          "title": "Supreme Court Justice s Unusual Place In History",
+          "link": "https://abovethelaw.com/2026/06/supreme-court-justices-unusual-place-in-history/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Time is weird. The post Supreme Court Justice s Unusual Place In History appeared first on Above the Law .",
+          "published": "2026-06-30T23:03:00.000Z"
+        },
+        {
+          "title": "3 Questions For A Law Student Turned Conference Host (Part II)",
+          "link": "https://abovethelaw.com/2026/06/3-questions-for-a-law-student-turned-conference-host-part-ii/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A big takeaway is that many parties are interested in raising the level of discourse around litigation finance. The post 3 Questions For A Law Student Turned Conference Host (Part II) appeared first on Above the Law .",
+          "published": "2026-06-30T22:16:00.000Z"
+        },
+        {
           "title": "Birthright citizenship: “We break no new ground today”",
           "link": "https://www.scotusblog.com/2026/06/birthright-citizenship-we-break-no-new-ground-today/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "When it comes to the last formal day of the term, when we know which cases are remaining, litigants and other interested parties have the chance to try to work their way into the courtroom to hear an opinion announced in a case of close…",
           "published": "2026-06-30T22:00:00.000Z"
+        },
+        {
+          "title": "Adventures In Legal Tech : An Apt Analogy For Lawyer AI Use",
+          "link": "https://abovethelaw.com/2026/06/adventures-in-legal-tech-an-apt-analogy-for-lawyer-ai-use/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Teo Doremus, CEO and co-founder of Advocacy, joins host Jared Correia to discuss lawyer pay in an AI world. The post Adventures In Legal Tech : An Apt Analogy For Lawyer AI Use appeared first on Above the Law .",
+          "published": "2026-06-30T21:32:00.000Z"
+        },
+        {
+          "title": "Senator Whitehouse Would Like To Tell You Exactly What He Thinks Of Todd Blanche",
+          "link": "https://abovethelaw.com/2026/06/senator-whitehouse-would-like-to-tell-you-exactly-what-he-thinks-of-todd-blanche/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "'The MAGA Department of Justice is a disgrace.' Yikes. The post Senator Whitehouse Would Like To Tell You Exactly What He Thinks Of Todd Blanche appeared first on Above the Law .",
+          "published": "2026-06-30T20:44:00.000Z"
         },
         {
           "title": "Breaking down the birthright-citizenship decision",
@@ -431,12 +511,60 @@
           "published": "2026-06-30T20:07:00.000Z"
         },
         {
+          "title": "Litigation Boutiques Aren t The Only Ones Getting In On The Summer Bonus Action",
+          "link": "https://abovethelaw.com/2026/06/litigation-boutiques-arent-the-only-ones-getting-in-on-the-summer-bonus-action/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "SMB Law Group's summertime bonus announcement is real money -- up to $25,000. The post Litigation Boutiques Aren t The Only Ones Getting In On The Summer Bonus Action appeared first on Above the Law .",
+          "published": "2026-06-30T19:57:00.000Z"
+        },
+        {
+          "title": "The Supreme Court Celebrates America s Birthday By Defending The Constitution",
+          "link": "https://abovethelaw.com/2026/06/the-supreme-court-celebrates-americas-birthday-by-defending-the-constitution/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Chief Justice John Roberts says birthright citizenship remains one of the nation's enduring constitutional promises. The post The Supreme Court Celebrates America s Birthday By Defending The Constitution appeared first on Above the Law .",
+          "published": "2026-06-30T19:13:00.000Z"
+        },
+        {
+          "title": "Second Circuit Judge Sarah Merriam Disciplined Again, This Time for Creating A Tense And Challenging Work Environment",
+          "link": "https://abovethelaw.com/2026/06/second-circuit-judge-sarah-merriam-disciplined-again-this-time-for-creating-a-tense-and-challenging-work-environment/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "We cannot just wait for the next judge to make news. We need to take action now. The post Second Circuit Judge Sarah Merriam Disciplined Again, This Time for Creating A Tense And Challenging Work Environment appeared first on Above the…",
+          "published": "2026-06-30T18:32:00.000Z"
+        },
+        {
+          "title": "Those WL Citations Are An Open Invitation To AI Hallucinations",
+          "link": "https://abovethelaw.com/2026/06/those-wl-citations-are-an-open-invitation-to-ai-hallucinations/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Those proprietary citations carry risks for the publishers. The post Those WL Citations Are An Open Invitation To AI Hallucinations appeared first on Above the Law .",
+          "published": "2026-06-30T17:52:08.000Z"
+        },
+        {
           "title": "Court grants several new cases, including on whether the Second Amendment protects possession of semiautomatic rifles",
           "link": "https://www.scotusblog.com/2026/06/court-grants-several-new-cases-including-on-whether-the-second-amendment-protects-possession-of-/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "Less than a week after the Supreme Court struck down a Hawaii law that barred gun owners with concealed-carry licenses from bringing guns onto private property unless they had explicit permission from the property’s owner, the justices…",
           "published": "2026-06-30T17:22:10.000Z"
+        },
+        {
+          "title": "At 3rd Circuit, Judges Press ROSS And Thomson Reuters On Fair Use, AI Training, And Market Harm",
+          "link": "https://www.lawnext.com/2026/06/at-3rd-circuit-judges-press-ross-and-thomson-reuters-on-fair-use-ai-training-and-market-harm.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "ROSS argued that its technology was an early example of the same broader AI transformation now reshaping legal research. The post At 3rd Circuit, Judges Press ROSS And Thomson Reuters On Fair Use, AI Training, And Market Harm appeared…",
+          "published": "2026-06-30T17:03:56.000Z"
+        },
+        {
+          "title": "NPR Reports Sam Alito Retires From Supreme Court (Spoiler Alert: He Did Not)",
+          "link": "https://abovethelaw.com/2026/06/npr-reports-sam-alito-retires-from-supreme-court-spoiler-alert-he-did-not/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Nina Totenberg's pre-written career obit for Slammin' Sam Alito accidentally published. The post NPR Reports Sam Alito Retires From Supreme Court (Spoiler Alert: He Did Not) appeared first on Above the Law .",
+          "published": "2026-06-30T16:18:00.000Z"
         },
         {
           "title": "Justices strike down campaign finance law",
@@ -455,140 +583,12 @@
           "published": "2026-06-30T15:28:01.000Z"
         },
         {
-          "title": "Supreme Court strikes down Trump’s order ending birthright citizenship",
-          "link": "https://www.scotusblog.com/2026/06/supreme-court-strikes-down-trumps-order-ending-birthright-citizenship/",
-          "source": "SCOTUSblog",
+          "title": "Elite Boutiques Continue To Leave Biglaw In The Dust: Another Milbank Match Is Here",
+          "link": "https://abovethelaw.com/2026/06/elite-boutiques-continue-to-leave-biglaw-in-the-dust-another-milbank-match-is-here/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Updated on June 30 at 1:55 p.m. The Supreme Court on Tuesday struck down President Donald Trump’s executive order seeking to end birthright citizenship – the guarantee of citizenship to virtually everyone born in the United States. In a…",
-          "published": "2026-06-30T15:06:32.000Z"
-        },
-        {
-          "title": "The final four",
-          "link": "https://www.scotusblog.com/2026/06/the-final-four-cases/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Welcome to the final opinion announcement day of the 2025-26 term.",
-          "published": "2026-06-30T13:00:00.000Z"
-        },
-        {
-          "title": "The last grants of the 2025-26 term?",
-          "link": "https://www.scotusblog.com/2026/06/the-last-grants-of-the-2025-26-term/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Relist Watch column examines cert petitions that the Supreme Court has “relisted” for its upcoming conference. A short explanation of relists is available here . Every summer, before the justices leave town for the Supreme Court’s…",
-          "published": "2026-06-30T12:15:00.000Z"
-        },
-        {
-          "title": "Court agrees to hear six new cases, including dispute over proof of citizenship to vote",
-          "link": "https://www.scotusblog.com/2026/06/court-agrees-to-hear-six-new-cases-including-dispute-over-proof-of-citizenship-to-vote/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Monday morning added six new cases to its argument docket for the 2026-27 term and turned down President Donald Trump’s request to take up his appeal of a $5 million award against him in a lawsuit brought by columnist…",
-          "published": "2026-06-30T01:52:00.000Z"
-        },
-        {
-          "title": "Justices’ financial disclosures reveal Bad Bunny concert tickets, plenty of travel in 2025",
-          "link": "https://www.scotusblog.com/2026/06/justices-financial-disclosures-reveal-bad-bunny-concert-tickets-plenty-of-travel-in-2025/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Justice Sonia Sotomayor received concert tickets valued at more than $4,000 from the record company that represents the Puerto Rican superstar Bad Bunny, while Justice Ketanji Brown Jackson received a painting for her chambers valued at…",
-          "published": "2026-06-29T23:47:42.000Z"
-        },
-        {
-          "title": "250th birthday minutes on the bench",
-          "link": "https://www.scotusblog.com/2026/06/250th-birthday-minutes-on-the-bench/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "At the Supreme Court building, there is a small exhibition tied to the nation’s 250th anniversary, titled “Revolutionary Arguments: The Legal Fight for Independence.” The modest ground floor display focuses on how some of the “lawyers,…",
-          "published": "2026-06-29T20:00:00.000Z"
-        },
-        {
-          "title": "Court rules that law enforcement’s use of “geofence warrant” was a “search”",
-          "link": "https://www.scotusblog.com/2026/06/court-rules-that-law-enforcements-use-of-geofence-warrant-was-a-search/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on June 29 at 3:50 p.m. The Supreme Court on Monday ruled that when law enforcement officials used a “geofence warrant” – a warrant that instructed Google to provide location data for cellphone users who were near a particular…",
-          "published": "2026-06-29T15:26:29.000Z"
-        },
-        {
-          "title": "Justices uphold state law allowing for late-arriving mail-in ballots",
-          "link": "https://www.scotusblog.com/2026/06/justices-uphold-state-law-allowing-for-late-arriving-mail-in-ballots/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on June 29 at 2:30 p.m. Just over four months before the 2026 midterm elections, the Supreme Court on Monday upheld a Mississippi law that allows mail-in ballots to be counted as long as they are postmarked by, and received within…",
-          "published": "2026-06-29T15:12:49.000Z"
-        },
-        {
-          "title": "Court prevents Trump from firing Fed governor",
-          "link": "https://www.scotusblog.com/2026/06/court-prevents-trump-from-firing-fed-governor/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on June 29 at 1:35 p.m. The Supreme Court on Monday ruled in favor of Lisa Cook, a member of the Federal Reserve’s Board of Governors whom President Donald Trump had attempted to fire. By a vote of 5-4, the court held that Cook…",
-          "published": "2026-06-29T14:53:46.000Z"
-        },
-        {
-          "title": "Supreme Court allows Trump to fire FTC commissioner and overturns major restraint on presidential power",
-          "link": "https://www.scotusblog.com/2026/06/court-allows-trump-to-fire-ftc-commissioner-and-overturns-major-restraint-on-presidential-power/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on June 29 at 8:15 p.m. The Supreme Court on Monday gave President Donald Trump sweeping new authority over approximately two dozen multi-member agencies that Congress intended to be independent. By a vote of 6-3, the justices…",
-          "published": "2026-06-29T14:42:32.000Z"
-        },
-        {
-          "title": "Supreme Court will not consider $5 million verdict against Trump",
-          "link": "https://www.scotusblog.com/2026/06/supreme-court-will-not-consider-5-million-verdict-against-trump/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Monday announced that it will not hear an appeal by President Donald Trump seeking review of the $5 million jury verdict entered against him in the sexual abuse and defamation case filed by journalist E. Jean Carroll.…",
-          "published": "2026-06-29T14:06:43.000Z"
-        },
-        {
-          "title": "The home stretch",
-          "link": "https://www.scotusblog.com/2026/06/the-home-stretch/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "We are expecting eight opinions in argued cases.",
-          "published": "2026-06-29T13:00:00.000Z"
-        },
-        {
-          "title": "Hunter v. United States – the most important criminal case of the term",
-          "link": "https://www.scotusblog.com/2026/06/hunter-v-united-states-the-most-important-criminal-case-of-the-term/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The term is not quite over, but I have no doubt that Hunter v. United States , decided on June 18, is its most important criminal case. In Hunter , the court ruled that there is a “miscarriage of justice” exception to waivers of appeal,…",
-          "published": "2026-06-26T17:00:00.000Z"
-        },
-        {
-          "title": "When justices wade into politics",
-          "link": "https://www.scotusblog.com/2026/06/when-justices-wade-into-politics/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Scholar Robert Dahl, writing back in 1957 , once remarked that “Americans are not quite willing to accept the fact that [the Supreme Court] is a political institution and not quite capable of denying it; so that frequently we take both…",
-          "published": "2026-06-26T13:30:00.000Z"
-        },
-        {
-          "title": "Court rules on gun rights, immigration, and pesticide labels",
-          "link": "https://www.scotusblog.com/2026/06/court-rules-on-gun-rights-immigration-and-pesticide-labels/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "We’re expecting more opinions on Monday.",
-          "published": "2026-06-26T13:00:00.000Z"
-        },
-        {
-          "title": "An unusual retort to a dissent from the bench",
-          "link": "https://www.scotusblog.com/2026/06/an-unusual-retort-to-a-dissent-from-the-bench/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated at 6:06 p.m. Next week, what is being billed as the biggest fireworks show ever in Washington, D.C., will help celebrate the nation’s 250th birthday. Yet the Supreme Court will offer its own pyrotechnics this morning with a…",
-          "published": "2026-06-25T20:30:00.000Z"
-        },
-        {
-          "title": "Court rules for Roundup maker in dispute over cancer warnings on pesticide labels",
-          "link": "https://www.scotusblog.com/2026/06/court-rules-for-roundup-maker-in-dispute-over-cancer-warnings-on-pesticide-labels/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on June 25 at 5:59 p.m. The Supreme Court on Thursday sided with Monsanto in a high-stakes dispute over cancer warnings on pesticide labels. In an opinion by Justice Brett Kavanaugh in Monsanto Company v. Durnell , the court…",
-          "published": "2026-06-25T17:04:31.000Z"
+          "snippet": "The boutiques aren't wasting any time matching the market, but plenty of Biglaw firms are still keeping associates in suspense. The post Elite Boutiques Continue To Leave Biglaw In The Dust: Another Milbank Match Is Here appeared first on…",
+          "published": "2026-06-30T15:26:00.000Z"
         }
       ]
     }
