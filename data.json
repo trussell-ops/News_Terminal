@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T18:22:27.095Z",
+  "updated": "2026-07-02T19:58:40.685Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,7 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The government had initially said it would not relax licensing laws further for the World Cup.",
-          "published": "2026-07-02T17:47:54.000Z"
+          "published": "2026-07-02T18:45:49.000Z"
         },
         {
           "title": "Can our fridges cope with heatwaves?",
@@ -202,6 +202,54 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Job seekers giving up: Labor force participation falls to lowest in 50 years",
+          "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T19:16:20.000Z"
+        },
+        {
+          "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
+          "link": "https://openjdk.org/jeps/539",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T18:56:33.000Z"
+        },
+        {
+          "title": "Exapunks (2018)",
+          "link": "https://www.zachtronics.com/exapunks/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T18:41:19.000Z"
+        },
+        {
+          "title": "Postgres transactions are a distributed systems superpower",
+          "link": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T18:38:32.000Z"
+        },
+        {
+          "title": "Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"",
+          "link": "https://github.com/anthropics/claude-code/issues/73125",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T18:37:57.000Z"
+        },
+        {
+          "title": "Vulkan is now available on NetBSD",
+          "link": "https://github.com/segaboy/vulkan-netbsd",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T18:36:09.000Z"
+        },
+        {
           "title": "Weber marks down grills and griddles to their best prices ever for July 4th",
           "link": "https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal",
           "source": "The Verge",
@@ -210,20 +258,20 @@
           "published": "2026-07-02T18:19:03.000Z"
         },
         {
+          "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
+          "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "New US rules would legalize quiet supersonic flights without the sonic boom.",
+          "published": "2026-07-02T17:29:37.000Z"
+        },
+        {
           "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
           "link": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "I have not seen anyone put out a date for a new rocket, and actually hit it.",
           "published": "2026-07-02T16:46:47.000Z"
-        },
-        {
-          "title": "Show HN: QUALITY.md – open format&#x2F;specification, agent skill, and CLI",
-          "link": "https://getquality.md",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-02T16:36:12.000Z"
         },
         {
           "title": "Plex debuts 5-year membership pass for $250",
@@ -248,14 +296,6 @@
           "category": "tech",
           "snippet": "Early reports indicate there may be another case, but spread is thought to be localized.",
           "published": "2026-07-02T16:30:37.000Z"
-        },
-        {
-          "title": "The US Government Is Now a Shareholder in 26 Companies",
-          "link": "https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-02T16:29:13.000Z"
         },
         {
           "title": "Artificial cell manages a few rounds of cell division",
@@ -352,52 +392,28 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-02T14:17:23.000Z"
-        },
-        {
-          "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-          "link": "https://mailmemories.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-02T14:16:57.000Z"
-        },
-        {
-          "title": "Tesla s Q2 sales jump 25 percent",
-          "link": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. The company said that it produced a total of 451,758 vehicles between…",
-          "published": "2026-07-02T14:14:48.000Z"
-        },
-        {
-          "title": "Tesla sales increase by 25% in Q2 2026",
-          "link": "https://arstechnica.com/cars/2026/07/tesla-sales-increase-by-25-in-q2-2026/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Deliveries outstripped production, suggesting Tesla has cleared some inventory.",
-          "published": "2026-07-02T14:11:07.000Z"
-        },
-        {
-          "title": "Woman's hip replacement disintegrates, causing severe metal poisoning",
-          "link": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Doctors find grey fluid and dead, metallic flesh inside poisoned woman's hip.",
-          "published": "2026-07-02T14:04:28.000Z"
-        },
-        {
-          "title": "AI won’t save advertising, says Digitas’ Amy Lanzi",
-          "link": "https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "We’ve got a special Decoder today — I had the chance to talk with Amy Lanzi, the CEO of Digitas North America, in front of a live audience at the Uber Villa at the Cannes Lions advertising festival in the South of France. I know, it’s a…",
-          "published": "2026-07-02T14:00:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Breyer Pushes Back On Claims That Politics Rules The Supreme Court",
+          "link": "https://abovethelaw.com/2026/07/breyer-pushes-back-on-claims-that-politics-rules-the-supreme-court/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "On the other hand, the retired justice thinks declining public confidence could become a long-term problem for the judiciary. The post Breyer Pushes Back On Claims That Politics Rules The Supreme Court appeared first on Above the Law .",
+          "published": "2026-07-02T19:12:00.000Z"
+        },
+        {
+          "title": "New Poll Shows Americans Even Republicans Think The Supreme Court Needs To Be Reined In",
+          "link": "https://abovethelaw.com/2026/07/new-poll-shows-americans-even-republicans-think-the-supreme-court-needs-to-be-reined-in/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "New polling shows nearly half of Republicans agree the Court needs stronger controls and the institution has no one to blame but itself. The post New Poll Shows Americans Even Republicans Think The Supreme Court Needs To Be Reined In…",
+          "published": "2026-07-02T18:32:00.000Z"
+        },
         {
           "title": "The Work Is Waiting: How To Get Involved And Lead Voluntary Bar Associations",
           "link": "https://abovethelaw.com/2026/07/the-work-is-waiting-how-to-get-involved-and-lead-voluntary-bar-associations/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Norton Rose Fulbright is stepping up to the plate in the salary wars. The post Biglaw Firm Gets On Board With New Associate Salary Scale appeared first on Above the Law .",
           "published": "2026-07-01T16:58:00.000Z"
-        },
-        {
-          "title": "Aiding and abetting impunity",
-          "link": "https://www.scotusblog.com/2026/07/aiding-and-abetting-impunity/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court’s decision in CISCO Systems, Inc. v. Doe , announced on June 23, was not only, as expected, good news for corporations that facilitate government violations of international human rights. It was also an unexpected boon…",
-          "published": "2026-07-01T16:45:00.000Z"
-        },
-        {
-          "title": "Corporate Counsel Have Spoken: These Are The Law Firms They Love",
-          "link": "https://abovethelaw.com/2026/07/corporate-counsel-have-spoken-these-are-the-law-firms-they-love/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "BTI's latest Client Service A-Team ranking identifies the firms that have earned the deepest loyalty from corporate counsel. The post Corporate Counsel Have Spoken: These Are The Law Firms They Love appeared first on Above the Law .",
-          "published": "2026-07-01T16:12:00.000Z"
         }
       ]
     }
