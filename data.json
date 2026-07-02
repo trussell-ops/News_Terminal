@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-02T02:25:54.582Z",
+  "updated": "2026-07-02T06:14:16.781Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Singapore seizes $42m mansion over Nvidia chip smuggling",
+          "link": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
+          "published": "2026-07-02T06:02:17.000Z"
+        },
+        {
+          "title": "I needed to use a food bank after graduating - now I want to end the stigma",
+          "link": "https://www.bbc.co.uk/news/articles/c04y3zq63wwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Steven, who now runs his own therapy business, struggled to make ends meet after graduating.",
+          "published": "2026-07-02T05:16:53.000Z"
+        },
+        {
+          "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute leaving fans stranded outside stadiums",
+          "link": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.",
+          "published": "2026-07-02T04:59:47.000Z"
+        },
         {
           "title": "Don't expect trackers to save your stolen car, experts say",
           "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
@@ -35,14 +59,6 @@
           "category": "markets",
           "snippet": "A major issue for automakers is the deal's rules of origin, which determine where a product comes from and which goods are eligible for preferential treatment.",
           "published": "2026-07-01T22:33:53.000Z"
-        },
-        {
-          "title": "I needed to use a food bank after graduating - now I want to end the stigma",
-          "link": "https://www.bbc.co.uk/news/articles/c04y3zq63wwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Steven, who now runs his own therapy business, struggled to make ends meet after graduating.",
-          "published": "2026-07-01T22:17:19.000Z"
         },
         {
           "title": "Automakers report mixed U.S. sales results as hybrid vehicles drive market",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
           "published": "2026-06-30T23:48:18.000Z"
-        },
-        {
-          "title": "Why Gen Z are planning for life without a state pension",
-          "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Many younger people do not believe the state pension will exist when they are older",
-          "published": "2026-06-30T23:05:19.000Z"
-        },
-        {
-          "title": "Plea for households to read energy meter as prices rise",
-          "link": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
-          "published": "2026-06-30T23:02:02.000Z"
         }
       ]
     },
@@ -202,15 +202,47 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Fable 5 update: Still willing to cybercrime",
-          "link": "https://alec.is/posts/fable-5-update-still-willing-to-cybercrime/",
+          "title": "CursorBench 3.1",
+          "link": "https://cursor.com/evals",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-02T01:16:43.000Z"
+          "published": "2026-07-02T05:19:34.000Z"
         },
         {
-          "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+          "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+          "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T04:32:41.000Z"
+        },
+        {
+          "title": "A new Android malware from Google",
+          "link": "https://f-droid.org/2026/07/01/adv-malware.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T03:00:15.000Z"
+        },
+        {
+          "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+          "link": "https://senior-swe-bench.snorkel.ai/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T02:55:16.000Z"
+        },
+        {
+          "title": "Bring back crappy forums",
+          "link": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T02:30:16.000Z"
+        },
+        {
+          "title": "Oomwoo, an open-source robot vacuum you build yourself",
           "link": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
           "source": "Hacker News",
           "category": "tech",
@@ -232,14 +264,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-01T23:56:15.000Z"
-        },
-        {
-          "title": "Healthy but sedentary people show early decline in cellular energy production",
-          "link": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T22:48:56.000Z"
         },
         {
           "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
@@ -282,7 +306,7 @@
           "published": "2026-07-01T22:03:36.000Z"
         },
         {
-          "title": "Chip Off the Old Block",
+          "title": "Chip Off The Old Block",
           "link": "https://www.astralcodexten.com/p/chip-off-the-old-block",
           "source": "Hacker News",
           "category": "tech",
@@ -296,14 +320,6 @@
           "category": "tech",
           "snippet": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
           "published": "2026-07-01T21:21:21.000Z"
-        },
-        {
-          "title": "I Left Harry's All-Night Hamburgers",
-          "link": "https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T21:15:41.000Z"
         },
         {
           "title": "Qualcomm Linux 2.0",
@@ -354,14 +370,6 @@
           "published": "2026-07-01T19:57:36.000Z"
         },
         {
-          "title": "Fable 5 Is Back",
-          "link": "https://twitter.com/claudeai/status/2072402636813607381",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T19:35:57.000Z"
-        },
-        {
           "title": "US home battery installations hit record high on rising electricity costs",
           "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
           "source": "Ars Technica",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "“We will own nothing, it's truly sad.”",
           "published": "2026-07-01T18:41:49.000Z"
-        },
-        {
-          "title": "A good little EV you won't be able to buy soon: The Volvo EX30 Cross Country",
-          "link": "https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Tariffs and anti-China policies killed this little Volvo in the United States.",
-          "published": "2026-07-01T18:24:04.000Z"
         }
       ]
     },
