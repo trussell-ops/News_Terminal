@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-02T06:14:16.781Z",
+  "updated": "2026-07-02T09:40:45.344Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "EU border delays 'not bearable' over summer, warns airport boss",
+          "link": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Holidaymakers face long waits under the EU's new Entry-Exit System, the head of Berlin's airport says.",
+          "published": "2026-07-02T09:38:06.000Z"
+        },
         {
           "title": "Singapore seizes $42m mansion over Nvidia chip smuggling",
           "link": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&at_campaign=rss",
@@ -11,6 +19,14 @@
           "category": "markets",
           "snippet": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
           "published": "2026-07-02T06:02:17.000Z"
+        },
+        {
+          "title": "Old British fridges 'cannot cope with the heat'",
+          "link": "https://www.bbc.co.uk/news/articles/c77yejxnvpxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Experts say older fridges are failing in hot weather as rising temperatures put them under pressure.",
+          "published": "2026-07-02T05:20:56.000Z"
         },
         {
           "title": "I needed to use a food bank after graduating - now I want to end the stigma",
@@ -21,7 +37,7 @@
           "published": "2026-07-02T05:16:53.000Z"
         },
         {
-          "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute leaving fans stranded outside stadiums",
+          "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute",
           "link": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -29,7 +45,7 @@
           "published": "2026-07-02T04:59:47.000Z"
         },
         {
-          "title": "Don't expect trackers to save your stolen car, experts say",
+          "title": "Don't expect inbuilt trackers to save your stolen car, experts say",
           "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -179,28 +195,44 @@
           "category": "markets",
           "snippet": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
           "published": "2026-07-01T03:39:44.000Z"
-        },
-        {
-          "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-          "link": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
-          "published": "2026-07-01T01:04:16.000Z"
-        },
-        {
-          "title": "Chinese tycoon sentenced to 30 years in US jail",
-          "link": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
-          "published": "2026-06-30T23:48:18.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Amazon has enough satellites to launch its Starlink competitor",
+          "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Amazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night's launch, Amazon Leo has 396 satellites deployed, which is \"enough to support continuous service across…",
+          "published": "2026-07-02T09:13:39.000Z"
+        },
+        {
+          "title": "Google loses fight over record $4.7B EU antitrust fine",
+          "link": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T08:34:13.000Z"
+        },
+        {
+          "title": "We Don't Have to Be This Bad at Improving Society",
+          "link": "https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T08:26:09.000Z"
+        },
+        {
+          "title": "The Fall of the Theorem Economy",
+          "link": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-02T08:01:15.000Z"
+        },
         {
           "title": "CursorBench 3.1",
           "link": "https://cursor.com/evals",
@@ -248,22 +280,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-02T00:48:01.000Z"
-        },
-        {
-          "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
-          "link": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-02T00:40:14.000Z"
-        },
-        {
-          "title": "The HTML Element",
-          "link": "https://developer.chrome.com/blog/usermedia-html-element",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-01T23:56:15.000Z"
         },
         {
           "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Record home battery installations unlock options for grids—and AI data centers.",
           "published": "2026-07-01T19:11:15.000Z"
-        },
-        {
-          "title": "Superworms could replace beetles for cleaning skeletal remains",
-          "link": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage.",
-          "published": "2026-07-01T18:59:21.000Z"
-        },
-        {
-          "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
-          "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "“We will own nothing, it's truly sad.”",
-          "published": "2026-07-01T18:41:49.000Z"
         }
       ]
     },
