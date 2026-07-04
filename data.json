@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T22:59:08.782Z",
+  "updated": "2026-07-04T00:05:42.250Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,7 +202,23 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "How Amsterdam invented the fire department",
+          "title": "Odin, Wikipedia and Engagement Farming",
+          "link": "https://katamari64.se/posts/2026/odin-wikipedia/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-03T23:24:35.000Z"
+        },
+        {
+          "title": "The circuit that lets your brain think and see",
+          "link": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-03T22:56:17.000Z"
+        },
+        {
+          "title": "Amsterdam invented the fire department",
           "link": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
           "source": "Hacker News",
           "category": "tech",
@@ -210,28 +226,52 @@
           "published": "2026-07-03T22:46:18.000Z"
         },
         {
-          "title": "Elevating Privileges from Firefox to Android Root",
-          "link": "https://rootme.nebusec.ai/",
+          "title": "Giant trees have no trouble pumping water to top branches",
+          "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-03T22:39:22.000Z"
+          "published": "2026-07-03T22:40:29.000Z"
         },
         {
-          "title": "The Demoralization of the White-Collar Worker",
-          "link": "https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/",
+          "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+          "link": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-03T21:53:04.000Z"
+          "published": "2026-07-03T22:39:50.000Z"
         },
         {
-          "title": "Goodbye, Forever, Probably",
-          "link": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
+          "title": "Dispersion loss counteracts embedding condensation in small language models",
+          "link": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-03T21:42:19.000Z"
+          "published": "2026-07-03T22:35:47.000Z"
+        },
+        {
+          "title": "GitFut – Your GitHub stats turned into a World-Cup-style player card",
+          "link": "https://gitfut.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-03T22:34:16.000Z"
+        },
+        {
+          "title": "Leanstral 1.5: Proof Abundance for All",
+          "link": "https://mistral.ai/news/leanstral-1-5/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-03T22:33:10.000Z"
+        },
+        {
+          "title": "GLM5.2 on AMD MI355X at 2626 tok&#x2F;s&#x2F;node at over 2x lower cost than Blackwell",
+          "link": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-03T21:49:06.000Z"
         },
         {
           "title": "Software, from First Principles",
@@ -256,14 +296,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-03T21:08:37.000Z"
-        },
-        {
-          "title": "Show HN: ContextCodeCache in Rust",
-          "link": "https://github.com/colwill/ccc",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-03T21:03:19.000Z"
         },
         {
           "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
@@ -298,14 +330,6 @@
           "published": "2026-07-03T20:15:49.000Z"
         },
         {
-          "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "link": "https://kagi.com/changelog#10959",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-03T20:08:01.000Z"
-        },
-        {
           "title": "FreeBSD ate my RAM",
           "link": "https://crocidb.com/post/freebsd-ate-my-ram/",
           "source": "Hacker News",
@@ -314,12 +338,12 @@
           "published": "2026-07-03T19:08:31.000Z"
         },
         {
-          "title": "Holes",
-          "link": "https://xkcd.com/3266/large/",
+          "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+          "link": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-03T17:54:25.000Z"
+          "published": "2026-07-03T17:46:10.000Z"
         },
         {
           "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
@@ -330,20 +354,20 @@
           "published": "2026-07-03T17:33:55.000Z"
         },
         {
+          "title": "International chess federation sanctions Kramnik",
+          "link": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-03T17:04:08.000Z"
+        },
+        {
           "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
           "link": "https://github.com/kerlenton/mcpsnoop",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-03T16:53:50.000Z"
-        },
-        {
-          "title": "60% Fable cost cut by converting code to images and having the model OCR it",
-          "link": "https://github.com/teamchong/pxpipe",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-03T15:50:49.000Z"
         },
         {
           "title": "Costco is the anti-Amazon",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-03T15:03:43.000Z"
-        },
-        {
-          "title": "While you’re watching the World Cup, the feds may be watching you",
-          "link": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of people who live in the cities hosting them -…",
-          "published": "2026-07-03T15:00:00.000Z"
-        },
-        {
-          "title": "This slim camera has a transparent LCD screen for a viewfinder",
-          "link": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scrambling to find aging…",
-          "published": "2026-07-03T14:51:38.000Z"
-        },
-        {
-          "title": "I finally got my Trump phone",
-          "link": "https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Where's the Trump phone? We're going to keep talking about it every week. One year on, our phones have finally arrived. 12 months, 16 days, 21 hours, and 54 minutes after I first heard about Trump Mobile's T1 Phone 8002 (gold version),…",
-          "published": "2026-07-03T14:41:11.000Z"
         }
       ]
     },
