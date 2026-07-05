@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T20:33:51.190Z",
+  "updated": "2026-07-05T21:52:30.295Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,94 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "CoCom regulations and GPS receivers for balloons and cubesats",
+          "link": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T21:39:05.000Z"
+        },
+        {
+          "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+          "link": "https://homegames.io",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T21:32:44.000Z"
+        },
+        {
+          "title": "Completing a Computer Science Degree on Coursera",
+          "link": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T21:20:49.000Z"
+        },
+        {
+          "title": "Reparaible and open source paper printer",
+          "link": "https://www.opentools.studio/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T21:03:06.000Z"
+        },
+        {
+          "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
+          "link": "https://dhilst.github.io/algae/game/index.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T21:00:27.000Z"
+        },
+        {
+          "title": "Pint in England",
+          "link": "https://dispatch-media.com/the-best-pint-in-england/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T20:55:47.000Z"
+        },
+        {
+          "title": "Dependencies should be fetched directly from VCS",
+          "link": "https://www.arp242.net/deps-vcs.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T20:44:01.000Z"
+        },
+        {
+          "title": "Show HN: Osint tool that finds exposed files on domains",
+          "link": "https://search.cerast-intelligence.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T20:24:37.000Z"
+        },
+        {
+          "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
+          "link": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T20:24:31.000Z"
+        },
+        {
+          "title": "Cursed circuits #5: capacitance multiplier",
+          "link": "https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T20:00:30.000Z"
+        },
+        {
+          "title": "The full stack of terminals explained",
+          "link": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T19:31:22.000Z"
+        },
+        {
           "title": "Small Penis Rule",
           "link": "https://en.wikipedia.org/wiki/Small_penis_rule",
           "source": "Hacker News",
@@ -250,36 +338,12 @@
           "published": "2026-07-05T18:22:00.000Z"
         },
         {
-          "title": "Every postcard tells a story",
-          "link": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T18:14:42.000Z"
-        },
-        {
           "title": "Starring the Computer",
           "link": "https://www.starringthecomputer.com/computers.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-05T17:33:04.000Z"
-        },
-        {
-          "title": "Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis",
-          "link": "https://www.science.org/doi/10.1126/sciadv.aeb7219",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T17:27:46.000Z"
-        },
-        {
-          "title": "A sociotechnical threat model for AI-driven smart home devices",
-          "link": "https://arxiv.org/abs/2602.09239",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T17:05:57.000Z"
         },
         {
           "title": "Installing A&#x2F;UX 1.1 like it's the 90s",
@@ -296,14 +360,6 @@
           "category": "tech",
           "snippet": "Rockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launch, with physical cases containing codes, not discs, so your options…",
           "published": "2026-07-05T16:00:00.000Z"
-        },
-        {
-          "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "link": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T15:49:18.000Z"
         },
         {
           "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
@@ -336,62 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-05T14:14:30.000Z"
-        },
-        {
-          "title": "The Sourdough Sidekick automates the boring bit of baking",
-          "link": "https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Baking sourdough bread is inherently old-fashioned, relying on natural fermentation and wild yeast instead of the simple, predictable commercial stuff. So it might sound anathema to bring a gadget into the mix. The trick to the Sourdough…",
-          "published": "2026-07-05T14:00:00.000Z"
-        },
-        {
-          "title": "How Keurig saved — and ruined — your coffee",
-          "link": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You could make your own coffee, a cup at a…",
-          "published": "2026-07-05T13:51:56.000Z"
-        },
-        {
-          "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
-          "link": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T13:47:44.000Z"
-        },
-        {
-          "title": "Vizio accidentally made the best dumb TV on the market",
-          "link": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "When I first started testing Vizio's 65-inch Mini LED Quantum TV, I thought the big story was that Vizio was back and that it had a quantum-dot TV for under $398 - the cheapest on the market. Vizio's been pretty quiet since it was…",
-          "published": "2026-07-05T13:00:00.000Z"
-        },
-        {
-          "title": "Show HN: KiCad in the Browser",
-          "link": "https://demo.pcbjam.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T12:06:57.000Z"
-        },
-        {
-          "title": "Xbox is a disaster",
-          "link": "https://www.theverge.com/column/960600/xbox-is-a-disaster",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the bleak state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at…",
-          "published": "2026-07-05T12:00:00.000Z"
-        },
-        {
-          "title": "Introduction to Compilers and Language Design (2021)",
-          "link": "https://dthain.github.io/books/compiler/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T11:54:16.000Z"
         }
       ]
     },
