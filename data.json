@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T21:52:30.295Z",
+  "updated": "2026-07-05T22:53:29.854Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Some of the nation’s rich are letting AI teach their kids",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their…",
+          "published": "2026-07-05T22:30:54.000Z"
+        },
+        {
+          "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
+          "link": "https://github.com/514-labs/dnsglobe",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T21:55:53.000Z"
+        },
+        {
           "title": "CoCom regulations and GPS receivers for balloons and cubesats",
           "link": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-05T21:39:05.000Z"
+        },
+        {
+          "title": "Had an idea for a Rust editor with simple Vim mode for learning",
+          "link": "https://github.com/electronicsleep/rust-vim",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T21:36:28.000Z"
         },
         {
           "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
@@ -290,12 +314,12 @@
           "published": "2026-07-05T19:31:22.000Z"
         },
         {
-          "title": "Small Penis Rule",
-          "link": "https://en.wikipedia.org/wiki/Small_penis_rule",
+          "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+          "link": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-05T19:08:38.000Z"
+          "published": "2026-07-05T19:22:51.000Z"
         },
         {
           "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
@@ -312,14 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-05T18:46:07.000Z"
-        },
-        {
-          "title": "Jim Keller's startup is building a factory to mass-produce small chip fabs",
-          "link": "https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T18:45:52.000Z"
         },
         {
           "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
@@ -362,14 +378,6 @@
           "published": "2026-07-05T16:00:00.000Z"
         },
         {
-          "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
-          "link": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T15:00:21.000Z"
-        },
-        {
           "title": "It's not about physical vs. digital games, it's about ownership",
           "link": "https://popcar.bearblog.dev/its-about-ownership/",
           "source": "Hacker News",
@@ -384,20 +392,20 @@
           "category": "tech",
           "snippet": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and…",
           "published": "2026-07-05T14:23:11.000Z"
-        },
-        {
-          "title": "Organic Maps",
-          "link": "https://organicmaps.app/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T14:14:30.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Supreme Court Term Goes Out In Blaze Of Hypocrisy, False Retirements, And Bad Ratings See Generally",
+          "link": "https://abovethelaw.com/2026/07/supreme-court-term-goes-out-in-blaze-of-hypocrisy-false-retirements-and-bad-ratings-see-generally/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Roberts Writes Two Opinions With One Shrug Emoji : The Chief Justice declared independent federal agencies unconstitutional and then turned around and, without a note of irony, said that OF COURSE the Federal Reseve is a duly ordained…",
+          "published": "2026-07-05T22:28:44.000Z"
+        },
         {
           "title": "A tale of two justices and their children’s books",
           "link": "https://www.scotusblog.com/2026/07/a-tale-of-two-justices-and-their-childrens-books/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "* New interview with Justice Breyer talks about the decision to retire. [ Bloomberg Law News ] * DOJ loses effort to commandeer state voting rolls. [ National Law Journal ] * Speaking of elections, a judge has blocked the Post Office's…",
           "published": "2026-07-02T12:52:52.000Z"
-        },
-        {
-          "title": "Neil Gorsuch s Sly Dissent See Also",
-          "link": "https://abovethelaw.com/2026/07/neil-gorsuchs-sly-dissent-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "In-House Counsel May Love Your Law Firm : But is it one of the \"Best of the Best\"? Find out here. Neil Gorsuch: Agent Of Chaos : The justice's dissent in the birthright citizenship case managed to undermine the Trump administration's…",
-          "published": "2026-07-01T23:33:00.000Z"
         }
       ]
     }
