@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T14:14:40.403Z",
+  "updated": "2026-07-05T15:43:35.132Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,30 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Train and run transformers directly on Apple's Neural Engine",
+          "link": "https://github.com/christopherkarani/Espresso",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T15:02:43.000Z"
+        },
+        {
+          "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and…",
+          "published": "2026-07-05T14:23:11.000Z"
+        },
+        {
+          "title": "Organic Maps",
+          "link": "https://organicmaps.app/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T14:14:30.000Z"
+        },
+        {
           "title": "The Sourdough Sidekick automates the boring bit of baking",
           "link": "https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter",
           "source": "The Verge",
@@ -216,6 +240,14 @@
           "category": "tech",
           "snippet": "Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You could make your own coffee, a cup at a…",
           "published": "2026-07-05T13:51:56.000Z"
+        },
+        {
+          "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+          "link": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T13:47:44.000Z"
         },
         {
           "title": "Phosh 0.56.0",
@@ -266,6 +298,22 @@
           "published": "2026-07-05T11:54:16.000Z"
         },
         {
+          "title": "EU Council forces Chat Control via fast-track",
+          "link": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T11:44:04.000Z"
+        },
+        {
+          "title": "Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "link": "https://prediohq.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-05T11:30:14.000Z"
+        },
+        {
           "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
           "link": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
           "source": "Ars Technica",
@@ -288,14 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-05T10:50:53.000Z"
-        },
-        {
-          "title": "Intuitive Quantum Electrodynamics",
-          "link": "https://forwardscattering.org/page/Intuitive%20Quantum%20Electrodynamics",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T09:00:58.000Z"
         },
         {
           "title": "Claude Design System Prompt",
@@ -346,52 +386,12 @@
           "published": "2026-07-05T04:30:33.000Z"
         },
         {
-          "title": "My ASN Journey series (2024)",
-          "link": "https://www.animmouse.com/p/my-asn-journey/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T04:29:05.000Z"
-        },
-        {
           "title": "The Log is the Agent",
           "link": "https://arxiv.org/abs/2605.21997",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-05T02:57:38.000Z"
-        },
-        {
-          "title": "If you're a button, you have one job",
-          "link": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T02:01:03.000Z"
-        },
-        {
-          "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
-          "link": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-05T00:22:25.000Z"
-        },
-        {
-          "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-          "link": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-04T22:36:28.000Z"
-        },
-        {
-          "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "link": "https://github.com/openai/codex/issues/30364",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-04T21:51:09.000Z"
         }
       ]
     },
