@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T21:52:34.416Z",
+  "updated": "2026-07-06T22:58:23.702Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,68 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "How little exercise can you get away with?",
+          "link": "https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T22:09:36.000Z"
+        },
+        {
+          "title": "Full Writeup of the Windows GDID",
+          "link": "https://github.com/SmtimesIWndr/gdid-reversal",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T22:02:24.000Z"
+        },
+        {
+          "title": "Titan's Resources and Their Utilization",
+          "link": "https://arxiv.org/abs/2606.06608",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T21:39:04.000Z"
+        },
+        {
+          "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
+          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
+          "published": "2026-07-06T21:13:37.000Z"
+        },
+        {
+          "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+          "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T21:09:23.000Z"
+        },
+        {
+          "title": "Taiganet.com, Home of the WS4000 Simulator",
+          "link": "https://www.taiganet.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T21:06:24.000Z"
+        },
+        {
           "title": "Learning to code is still worthwhile",
           "link": "https://stevekrouse.com/learn-to-code",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-06T20:59:54.000Z"
+        },
+        {
+          "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
+          "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
+          "published": "2026-07-06T20:52:42.000Z"
         },
         {
           "title": "Hoto s PixelDrive screwdriver is down to $60, matching its best price",
@@ -218,20 +274,28 @@
           "published": "2026-07-06T20:24:28.000Z"
         },
         {
-          "title": "What's the oldest Americana flown in space?",
+          "title": "GLM 5.2 and the coming AI margin collapse",
+          "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T20:14:55.000Z"
+        },
+        {
+          "title": "M&#x2F;PC – A Concatenative OS",
+          "link": "https://wiki.xxiivv.com/site/m_pc.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T20:08:46.000Z"
+        },
+        {
+          "title": "What is the oldest American object ever launched into space?",
           "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "From a Revolutionary War flag to the Statue of Liberty...",
           "published": "2026-07-06T19:57:56.000Z"
-        },
-        {
-          "title": "Price per 1M tokens is meaningless",
-          "link": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T19:43:36.000Z"
         },
         {
           "title": "Python 3.14 compiled to metal – no interpreter",
@@ -240,6 +304,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-06T19:40:22.000Z"
+        },
+        {
+          "title": "Pruning RAG context down to what the answer actually needs",
+          "link": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T19:28:24.000Z"
         },
         {
           "title": "CoMaps – FOSS Offline Maps",
@@ -264,14 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-06T18:35:54.000Z"
-        },
-        {
-          "title": "Pros and Cons of Solo Development",
-          "link": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T18:24:34.000Z"
         },
         {
           "title": "OpenWrt One – Open Hardware Router",
@@ -328,70 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-06T16:47:44.000Z"
-        },
-        {
-          "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-          "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Anthropic accused of spying on users; engineer says “experiment” is over.",
-          "published": "2026-07-06T16:44:18.000Z"
-        },
-        {
-          "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
-          "link": "https://news.ycombinator.com/item?id=48806976",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T16:33:04.000Z"
-        },
-        {
-          "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie",
-          "link": "https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Microsoft is spinning off four of its Xbox game studios - Compulsion Games, Double Fine Productions, Ninja Theory, and Undead Labs - as part of the restructuring announced today. However, two that are going independent, Double Fine and…",
-          "published": "2026-07-06T16:22:34.000Z"
-        },
-        {
-          "title": "Show HN: Pulpie – Models for Cleaning the Web",
-          "link": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T16:04:27.000Z"
-        },
-        {
-          "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
-          "link": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Move affects ~20% of the gaming division, which will refocus on its biggest franchises.",
-          "published": "2026-07-06T16:01:54.000Z"
-        },
-        {
-          "title": "I spy",
-          "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps…",
-          "published": "2026-07-06T16:00:00.000Z"
-        },
-        {
-          "title": "Kani: A Model Checker for Rust",
-          "link": "https://arxiv.org/abs/2607.01504",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T15:53:24.000Z"
-        },
-        {
-          "title": "F1 in Britain: Automated software to blame for crushing expectations",
-          "link": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Sometimes races finish behind a safety car, but it's not always satisfying.",
-          "published": "2026-07-06T15:45:55.000Z"
         }
       ]
     },
