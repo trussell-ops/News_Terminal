@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T18:10:02.404Z",
+  "updated": "2026-07-06T20:20:12.023Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,100 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-          "link": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
+          "title": "What's the oldest Americana flown in space?",
+          "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "From a Revolutionary War flag to the Statue of Liberty...",
+          "published": "2026-07-06T19:57:56.000Z"
+        },
+        {
+          "title": "Price per 1M tokens is meaningless",
+          "link": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-06T17:16:41.000Z"
+          "published": "2026-07-06T19:43:36.000Z"
+        },
+        {
+          "title": "Python 3.14 compiled to metal – no interpreter",
+          "link": "https://github.com/can1357/pon",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T19:40:22.000Z"
+        },
+        {
+          "title": "What does Jeff Bezos think is going to happen?",
+          "link": "https://reprog.wordpress.com/2026/07/05/what-does-jeff-bezos-think-is-going-to-happen/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T19:16:00.000Z"
+        },
+        {
+          "title": "CoMaps – FOSS Offline Maps",
+          "link": "https://www.comaps.app/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T18:55:07.000Z"
+        },
+        {
+          "title": "America’s greatest idea is still under threat",
+          "link": "https://www.theverge.com/policy/961802/america-250-free-speech",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The United States of America recently turned 250 years old. What a spectacle! The fireworks were amazing, and millions of proud people celebrated across the nation - even around the world. France lit up the Eiffel Tower; Japan had…",
+          "published": "2026-07-06T18:36:33.000Z"
+        },
+        {
+          "title": "Linux on the Atari Jaguar. No, really.",
+          "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T18:35:54.000Z"
+        },
+        {
+          "title": "Pros and Cons of Solo Development",
+          "link": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T18:24:34.000Z"
+        },
+        {
+          "title": "OpenWrt One – Open Hardware Router",
+          "link": "https://openwrt.org/toh/openwrt/one",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T18:23:12.000Z"
+        },
+        {
+          "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
+          "link": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Its issues with current nuclear safety standards are termed semantic, not physical.",
+          "published": "2026-07-06T17:48:45.000Z"
+        },
+        {
+          "title": "A global workspace in language models",
+          "link": "https://www.anthropic.com/research/global-workspace",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T17:44:08.000Z"
+        },
+        {
+          "title": "Januscape: Guest-to-Host Escape in KVM&#x2F;x86 [CVE-2026-53359]",
+          "link": "https://github.com/V4bel/Januscape",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T17:35:03.000Z"
         },
         {
           "title": "Five questions for Dr. Rubin, who’s armed with a mic and a bowtie",
@@ -219,19 +307,11 @@
         },
         {
           "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
-          "link": "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+          "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
           "published": "2026-07-06T17:14:09.000Z"
-        },
-        {
-          "title": "The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire",
-          "link": "https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T16:58:51.000Z"
         },
         {
           "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
@@ -264,6 +344,14 @@
           "category": "tech",
           "snippet": "Microsoft is spinning off four of its Xbox game studios - Compulsion Games, Double Fine Productions, Ninja Theory, and Undead Labs - as part of the restructuring announced today. However, two that are going independent, Double Fine and…",
           "published": "2026-07-06T16:22:34.000Z"
+        },
+        {
+          "title": "Orasort: 5x faster column-sorting with an expired patent from Oracle",
+          "link": "https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T16:17:04.000Z"
         },
         {
           "title": "Show HN: Pulpie – Models for Cleaning the Web",
@@ -304,100 +392,44 @@
           "category": "tech",
           "snippet": "Sometimes races finish behind a safety car, but it's not always satisfying.",
           "published": "2026-07-06T15:45:55.000Z"
-        },
-        {
-          "title": "The AI Superforecasters Are Here",
-          "link": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T15:45:11.000Z"
-        },
-        {
-          "title": "Should DayQuil Be Legal?",
-          "link": "https://www.theargumentmag.com/p/should-dayquil-be-legal",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T15:44:44.000Z"
-        },
-        {
-          "title": "1k Words: A Writing Contest",
-          "link": "https://writingclub.world/1picture1000words",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T15:30:08.000Z"
-        },
-        {
-          "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-          "link": "https://github.com/karola3vax/CS2FOW",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T15:23:34.000Z"
-        },
-        {
-          "title": "There were not one, but two asteroid encounters this weekend",
-          "link": "https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The Torifune asteroid turns out to be shaped like a peanut.",
-          "published": "2026-07-06T15:15:30.000Z"
-        },
-        {
-          "title": "The DJI Osmo Pocket 3 lookalike is down to $329",
-          "link": "https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Initially, I was going to tell you about a good deal happening on the DJI Osmo Pocket 3, which is down from the $500 it’s sold at most of the year to $378 at multiple retailers. But there’s a better deal happening on a nearly identical…",
-          "published": "2026-07-06T15:09:18.000Z"
-        },
-        {
-          "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-          "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T15:01:18.000Z"
-        },
-        {
-          "title": "Show HN: I Built LangGraph for Swift",
-          "link": "https://github.com/christopherkarani/Swarm",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T14:47:45.000Z"
-        },
-        {
-          "title": "What Emily Bender meant by \"stochastic parrots\"",
-          "link": "https://spectrum.ieee.org/stochastic-parrot",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T14:45:31.000Z"
-        },
-        {
-          "title": "DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat",
-          "link": "https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T14:38:15.000Z"
-        },
-        {
-          "title": "Inside the big business of the creator economy, with the agents making it happen",
-          "link": "https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "We’ve got another special episode of Decoder today, recorded at the Cannes Lions advertising festival in the South of France. I’m talking with Ali Berman and Raina Penchansky, who run the Creators division at United Talent Agency. UTA is…",
-          "published": "2026-07-06T14:30:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "AI s Biggest Win For Lawyers May Be Work-Life Balance",
+          "link": "https://abovethelaw.com/2026/07/ais-biggest-win-for-lawyers-may-be-work-life-balance/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Rather than replacing legal talent, Toshiba's top lawyer says the technology is reducing repetitive work. The post AI s Biggest Win For Lawyers May Be Work-Life Balance appeared first on Above the Law .",
+          "published": "2026-07-06T20:00:00.000Z"
+        },
+        {
+          "title": "Supreme Court allows Texas to enforce law requiring age verification and parental consent on apps",
+          "link": "https://www.scotusblog.com/2026/07/supreme-court-allows-texas-to-enforce-law-requiring-age-verification-and-parental-consent-on-app/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Monday allowed Texas to continue to enforce, at least for now, a law that requires app stores to verify its buyers’ ages and obtain parental consent for minors to download apps and to purchase paid content within…",
+          "published": "2026-07-06T19:52:00.000Z"
+        },
+        {
+          "title": "The Best Law Schools For Environmental Law (2026)",
+          "link": "https://abovethelaw.com/2026/07/the-best-law-schools-for-environmental-law-2026/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "If you're interested in environmental law, you need to see this list. The post The Best Law Schools For Environmental Law (2026) appeared first on Above the Law .",
+          "published": "2026-07-06T19:11:00.000Z"
+        },
+        {
+          "title": "Judge Breyer Denies Elon Musk s Bid To Toss Twitter Fraud Verdict Over Weed Joke Conspiracy Theory",
+          "link": "https://abovethelaw.com/2026/07/judge-breyer-denies-elon-musks-bid-to-toss-twitter-fraud-verdict-over-weed-joke-conspiracy-theory/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Judge Charles Breyer spent 38 pages dismantling Quinn Emanuel's post-trial motions. The post Judge Breyer Denies Elon Musk s Bid To Toss Twitter Fraud Verdict Over Weed Joke Conspiracy Theory appeared first on Above the Law .",
+          "published": "2026-07-06T18:32:00.000Z"
+        },
         {
           "title": "America Now Cares Enough About Soccer To Play FIFA s Game, And Europe Is Mad About It",
           "link": "https://abovethelaw.com/2026/07/america-now-cares-enough-about-soccer-to-play-fifas-game-and-europe-is-mad-about-it/",
@@ -495,7 +527,7 @@
           "published": "2026-07-05T22:28:44.000Z"
         },
         {
-          "title": "A tale of two justices and their children’s books",
+          "title": "A tale of two justices and their children’s books​‌​‌​​​​‌​‌​​​‌‌​​‌​​​​‌‌​‌‌​‌‌​‌​‌​",
           "link": "https://www.scotusblog.com/2026/07/a-tale-of-two-justices-and-their-childrens-books/",
           "source": "SCOTUSblog",
           "category": "legal",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "Suddenly, anyone with a legal problem and a chat window could access verified, authoritative legal materials. The post Legal Research For Everyone: Inside The CourtListener-Claude Partnership appeared first on Above the Law .",
           "published": "2026-07-02T21:15:00.000Z"
-        },
-        {
-          "title": "Solos And Small Law Firms: A Market Ripe For Disruption?",
-          "link": "https://abovethelaw.com/2026/07/solos-and-small-law-firms-a-market-ripe-for-disruption/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "It’s pretty clear that the solo and small law market is not capitalizing on the opportunities AI holds. The post Solos And Small Law Firms: A Market Ripe For Disruption? appeared first on Above the Law .",
-          "published": "2026-07-02T20:44:00.000Z"
-        },
-        {
-          "title": "Medicine’s Monopoly Problem",
-          "link": "https://abovethelaw.com/2026/07/medicines-monopoly-problem/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A 'cynical optimist' breaks down how law impacts the healthcare you receive. The post Medicine’s Monopoly Problem appeared first on Above the Law .",
-          "published": "2026-07-02T20:00:00.000Z"
-        },
-        {
-          "title": "Breyer Pushes Back On Claims That Politics Rules The Supreme Court",
-          "link": "https://abovethelaw.com/2026/07/breyer-pushes-back-on-claims-that-politics-rules-the-supreme-court/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "On the other hand, the retired justice thinks declining public confidence could become a long-term problem for the judiciary. The post Breyer Pushes Back On Claims That Politics Rules The Supreme Court appeared first on Above the Law .",
-          "published": "2026-07-02T19:12:00.000Z"
-        },
-        {
-          "title": "New Poll Shows Americans Even Republicans Think The Supreme Court Needs To Be Reined In",
-          "link": "https://abovethelaw.com/2026/07/new-poll-shows-americans-even-republicans-think-the-supreme-court-needs-to-be-reined-in/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "New polling shows nearly half of Republicans agree the Court needs stronger controls and the institution has no one to blame but itself. The post New Poll Shows Americans Even Republicans Think The Supreme Court Needs To Be Reined In…",
-          "published": "2026-07-02T18:32:00.000Z"
         }
       ]
     }
