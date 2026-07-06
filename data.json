@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-06T20:20:12.023Z",
+  "updated": "2026-07-06T21:52:34.416Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas",
+          "link": "https://www.cnbc.com/2026/07/06/toyota-tacoma-truck-san-antonio-plant.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Toyota said it is investing $3.6 billion to move production of the Tacoma midsize pickup truck from Mexico to its San Antonio manufacturing campus in Texas.",
+          "published": "2026-07-06T20:30:01.000Z"
+        },
         {
           "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
           "link": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html",
@@ -187,20 +195,28 @@
           "category": "markets",
           "snippet": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
           "published": "2026-07-03T12:44:09.000Z"
-        },
-        {
-          "title": "'Not a lot of Gen Z trust the state pension system'",
-          "link": "https://www.bbc.co.uk/news/videos/clyxedeykzro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Young people tells the BBC what they think about the state pension.",
-          "published": "2026-07-03T12:24:03.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Learning to code is still worthwhile",
+          "link": "https://stevekrouse.com/learn-to-code",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T20:59:54.000Z"
+        },
+        {
+          "title": "Hoto s PixelDrive screwdriver is down to $60, matching its best price",
+          "link": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "If your Prime Day purchases included a new desk, TV stand, bookshelf, or other furniture you still haven t assembled, Hoto s PixelDrive cordless screwdriver can help speed up the process. It s currently on sale for $59.99 ($20 off) at…",
+          "published": "2026-07-06T20:24:28.000Z"
+        },
         {
           "title": "What's the oldest Americana flown in space?",
           "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
@@ -226,14 +242,6 @@
           "published": "2026-07-06T19:40:22.000Z"
         },
         {
-          "title": "What does Jeff Bezos think is going to happen?",
-          "link": "https://reprog.wordpress.com/2026/07/05/what-does-jeff-bezos-think-is-going-to-happen/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T19:16:00.000Z"
-        },
-        {
           "title": "CoMaps – FOSS Offline Maps",
           "link": "https://www.comaps.app/",
           "source": "Hacker News",
@@ -250,7 +258,7 @@
           "published": "2026-07-06T18:36:33.000Z"
         },
         {
-          "title": "Linux on the Atari Jaguar. No, really.",
+          "title": "Linux on the Atari Jaguar",
           "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
           "source": "Hacker News",
           "category": "tech",
@@ -346,14 +354,6 @@
           "published": "2026-07-06T16:22:34.000Z"
         },
         {
-          "title": "Orasort: 5x faster column-sorting with an expired patent from Oracle",
-          "link": "https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T16:17:04.000Z"
-        },
-        {
           "title": "Show HN: Pulpie – Models for Cleaning the Web",
           "link": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
           "source": "Hacker News",
@@ -399,84 +399,12 @@
       "label": "Legal Developments",
       "items": [
         {
-          "title": "AI s Biggest Win For Lawyers May Be Work-Life Balance",
-          "link": "https://abovethelaw.com/2026/07/ais-biggest-win-for-lawyers-may-be-work-life-balance/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Rather than replacing legal talent, Toshiba's top lawyer says the technology is reducing repetitive work. The post AI s Biggest Win For Lawyers May Be Work-Life Balance appeared first on Above the Law .",
-          "published": "2026-07-06T20:00:00.000Z"
-        },
-        {
           "title": "Supreme Court allows Texas to enforce law requiring age verification and parental consent on apps",
           "link": "https://www.scotusblog.com/2026/07/supreme-court-allows-texas-to-enforce-law-requiring-age-verification-and-parental-consent-on-app/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "The Supreme Court on Monday allowed Texas to continue to enforce, at least for now, a law that requires app stores to verify its buyers’ ages and obtain parental consent for minors to download apps and to purchase paid content within…",
           "published": "2026-07-06T19:52:00.000Z"
-        },
-        {
-          "title": "The Best Law Schools For Environmental Law (2026)",
-          "link": "https://abovethelaw.com/2026/07/the-best-law-schools-for-environmental-law-2026/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "If you're interested in environmental law, you need to see this list. The post The Best Law Schools For Environmental Law (2026) appeared first on Above the Law .",
-          "published": "2026-07-06T19:11:00.000Z"
-        },
-        {
-          "title": "Judge Breyer Denies Elon Musk s Bid To Toss Twitter Fraud Verdict Over Weed Joke Conspiracy Theory",
-          "link": "https://abovethelaw.com/2026/07/judge-breyer-denies-elon-musks-bid-to-toss-twitter-fraud-verdict-over-weed-joke-conspiracy-theory/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Judge Charles Breyer spent 38 pages dismantling Quinn Emanuel's post-trial motions. The post Judge Breyer Denies Elon Musk s Bid To Toss Twitter Fraud Verdict Over Weed Joke Conspiracy Theory appeared first on Above the Law .",
-          "published": "2026-07-06T18:32:00.000Z"
-        },
-        {
-          "title": "America Now Cares Enough About Soccer To Play FIFA s Game, And Europe Is Mad About It",
-          "link": "https://abovethelaw.com/2026/07/america-now-cares-enough-about-soccer-to-play-fifas-game-and-europe-is-mad-about-it/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Now Belgium lawyered up to challenge FIFA's Balogun decision. The post America Now Cares Enough About Soccer To Play FIFA s Game, And Europe Is Mad About It appeared first on Above the Law .",
-          "published": "2026-07-06T17:39:00.000Z"
-        },
-        {
-          "title": "Legal Ethics Roundup: Lawyers Moonlight To Train AI, Immigration Attorney Scam, Partnership Pain, Ethical Listening Is Secret Superpower More",
-          "link": "https://abovethelaw.com/2026/07/legal-ethics-roundup-lawyers-moonlight-to-train-ai-immigration-attorney-scam-partnership-pain-ethical-listening-is-secret-superpower-more/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson. The post Legal Ethics Roundup: Lawyers Moonlight To Train AI, Immigration Attorney Scam, Partnership Pain,…",
-          "published": "2026-07-06T17:03:42.000Z"
-        },
-        {
-          "title": "Whither The Court Reporters?",
-          "link": "https://abovethelaw.com/2026/07/whither-the-court-reporters/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Like so many things with technology, the time and expense saved often trumps human accuracy and accountability. The post Whither The Court Reporters? appeared first on Above the Law .",
-          "published": "2026-07-06T16:12:00.000Z"
-        },
-        {
-          "title": "How To Slaughter Slaughter",
-          "link": "https://abovethelaw.com/2026/07/how-to-slaughter-slaughter/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "If Congress cares about its authority, then Congress should stand up for itself. The post How To Slaughter Slaughter appeared first on Above the Law .",
-          "published": "2026-07-06T15:32:00.000Z"
-        },
-        {
-          "title": "Trump s Howler Monkeys Attack Carroll s Lawyer",
-          "link": "https://abovethelaw.com/2026/07/trumps-howler-monkeys-attack-carrolls-lawyer/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Dirty, dirty pool. The post Trump s Howler Monkeys Attack Carroll s Lawyer appeared first on Above the Law .",
-          "published": "2026-07-06T14:49:49.000Z"
-        },
-        {
-          "title": "Debunked: A Little More Transparency, A Little More Action",
-          "link": "https://medcitynews.com/2026/07/debunked-episode-28-a-little-more-transparency-a-little-more-action/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Debunked Podcast co-hosts Arundhati Parmar and Samir Batra discussed some of the takeaways from UnitedHealth Group’s press event, transparency, and pharma company Lilly’s efforts to hold hospitals accountable in the 340B drug discount…",
-          "published": "2026-07-06T14:04:00.000Z"
         },
         {
           "title": "The justices remained busy last summer. This year, will they actually get a break?",
@@ -503,14 +431,6 @@
           "published": "2026-07-06T13:30:00.000Z"
         },
         {
-          "title": "Morning Docket: 07.06.26",
-          "link": "https://abovethelaw.com/2026/07/morning-docket-07-06-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* FIFA Peace Prize recipient Donald Trump sent elite lawyers to get FIFA red card lifted. Finally, an advantage to a lawyer culture that never takes vacations like the rest of the world. [ Yahoo Sports ] * West Point professor wins…",
-          "published": "2026-07-06T13:04:33.000Z"
-        },
-        {
           "title": "Looking back and looking ahead",
           "link": "https://www.scotusblog.com/2026/07/looking-back-and-looking-ahead/",
           "source": "SCOTUSblog",
@@ -519,15 +439,7 @@
           "published": "2026-07-06T13:00:00.000Z"
         },
         {
-          "title": "Supreme Court Term Goes Out In Blaze Of Hypocrisy, False Retirements, And Bad Ratings See Generally",
-          "link": "https://abovethelaw.com/2026/07/supreme-court-term-goes-out-in-blaze-of-hypocrisy-false-retirements-and-bad-ratings-see-generally/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Roberts Writes Two Opinions With One Shrug Emoji : The Chief Justice declared independent federal agencies unconstitutional and then turned around and, without a note of irony, said that OF COURSE the Federal Reseve is a duly ordained…",
-          "published": "2026-07-05T22:28:44.000Z"
-        },
-        {
-          "title": "A tale of two justices and their children’s books​‌​‌​​​​‌​‌​​​‌‌​​‌​​​​‌‌​‌‌​‌‌​‌​‌​",
+          "title": "A tale of two justices and their children’s books",
           "link": "https://www.scotusblog.com/2026/07/a-tale-of-two-justices-and-their-childrens-books/",
           "source": "SCOTUSblog",
           "category": "legal",
@@ -551,44 +463,132 @@
           "published": "2026-07-03T13:00:00.000Z"
         },
         {
-          "title": "Fireworks, Firm Raises, And Fantasy Vacations See Also",
-          "link": "https://abovethelaw.com/2026/07/fireworks-firm-raises-and-fantasy-vacations-see-also/",
-          "source": "Above the Law",
+          "title": "An immigration law error in the court’s asylum decision threatens immigration courts",
+          "link": "https://www.scotusblog.com/2026/07/an-immigration-law-error-in-the-courts-asylum-decision-threatens-immigration-courts/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The Supreme Court's Politics Are Becoming A Big Problem: And Americans are catching on. Compensation Decisions Don't Wait Around For Biglaw : Boutiques are taking over when it comes to paying their people. Imagine What America's…",
-          "published": "2026-07-02T23:30:00.000Z"
+          "snippet": "The Supreme Court’s decision last week blocking migrants stopped at the international boundary from applying for asylum turns on the text of federal immigration law. But the majority opinion reveals that the justices don’t understand the…",
+          "published": "2026-07-02T14:30:00.000Z"
         },
         {
-          "title": "Plotting Biglaw s Growth Pattern",
-          "link": "https://abovethelaw.com/2026/07/plotting-biglaws-growth-pattern/",
-          "source": "Above the Law",
+          "title": "After Slaughter and Cook: future Fed fights, and maybe some midnight firings",
+          "link": "https://www.scotusblog.com/2026/07/after-slaughter-and-cook-future-fed-fights-and-maybe-some-midnight-firings-/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Biglaw is taking advantage of the moment. The post Plotting Biglaw s Growth Pattern appeared first on Above the Law .",
-          "published": "2026-07-02T22:46:00.000Z"
+          "snippet": "Ninety-one years ago, when the Supreme Court held in Humphrey’s Executor v. United States that Congress could make agencies like the Federal Trade Commission “independent” from total presidential control, many were shocked – including…",
+          "published": "2026-07-02T14:00:00.000Z"
         },
         {
-          "title": "Goodbye Ratings, Hello Benchmarks: If Legal Tech Can Benchmark Attorneys, Shouldn’t Attorneys Be Able To Ethically Benchmark Back?",
-          "link": "https://www.myshingle.com/2026/06/goodbye-ratings-hello-benchmarks-if-legal-tech-can-benchmark-attorneys-shouldnt-attorneys-be-able-to-ethically-benchmark-back/",
-          "source": "Above the Law",
+          "title": "What we learned about the court this term: an animated explainer",
+          "link": "https://www.scotusblog.com/2026/07/what-we-learned-about-the-court-this-term-an-animated-explainer/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The legal profession needs to understand what benchmarks are, how they work, and whether existing ethics rules are equipped to handle them. The post Goodbye Ratings, Hello Benchmarks: If Legal Tech Can Benchmark Attorneys, Shouldn’t…",
-          "published": "2026-07-02T22:15:00.000Z"
+          "snippet": "This animated explainer, the third in a series of animated videos done in partnership with Briefly, guides you through which justices dominated this term, which judicial alliances mattered most, and whether the court's so-called…",
+          "published": "2026-07-02T13:30:00.000Z"
         },
         {
-          "title": "Legal Marketing And Business Development: What Lawyers Need To Know To Grow A Practice",
-          "link": "https://abovethelaw.com/2026/07/legal-marketing-and-business-development-what-lawyers-need-to-know-to-grow-a-practice/",
-          "source": "Above the Law",
+          "title": "The Stat Pack is back",
+          "link": "https://www.scotusblog.com/2026/07/the-stat-pack-is-back/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Legal marketing and business development are not the same. Learn how lawyers can use both to build visibility, trust, referrals, and a stronger book of business. The post Legal Marketing And Business Development: What Lawyers Need To Know…",
-          "published": "2026-07-02T21:45:00.000Z"
+          "snippet": "Jake S. Truscott and Adam Feldman crunched the numbers from the 2025-26 term and pulled together key takeaways.",
+          "published": "2026-07-02T13:00:00.000Z"
         },
         {
-          "title": "Legal Research For Everyone: Inside The CourtListener-Claude Partnership",
-          "link": "https://www.lawnext.com/2026/07/on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude-partnership.html",
-          "source": "Above the Law",
+          "title": "Three cheers for Barbara!",
+          "link": "https://www.scotusblog.com/2026/07/three-cheers-for-barbara/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Suddenly, anyone with a legal problem and a chat window could access verified, authoritative legal materials. The post Legal Research For Everyone: Inside The CourtListener-Claude Partnership appeared first on Above the Law .",
-          "published": "2026-07-02T21:15:00.000Z"
+          "snippet": "First: Chief Justice John Roberts’ majority opinion for the court in the landmark Trump v. Barbara decision yesterday reached the right result – a complete repudiation of President Donald Trump’s lawless executive order 14160 seeking to…",
+          "published": "2026-07-01T21:15:00.000Z"
+        },
+        {
+          "title": "Aiding and abetting impunity",
+          "link": "https://www.scotusblog.com/2026/07/aiding-and-abetting-impunity/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court’s decision in CISCO Systems, Inc. v. Doe , announced on June 23, was not only, as expected, good news for corporations that facilitate government violations of international human rights. It was also an unexpected boon…",
+          "published": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "The 2025-26 term by the numbers",
+          "link": "https://www.scotusblog.com/2026/07/the-2025-26-term-by-the-numbers/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Unknown block type \"pdfEmbed\", specify a component for it in the `components.types` option The final stretch of the 2025-26 Supreme Court term looked different from the end of recent ones. Over the past several years, many of the court’s…",
+          "published": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Closing out the term",
+          "link": "https://www.scotusblog.com/2026/07/closing-out-the-term/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The court ruled on birthright citizenship, transgender athletes, and campaign finance on Tuesday.",
+          "published": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Birthright citizenship: “We break no new ground today”",
+          "link": "https://www.scotusblog.com/2026/06/birthright-citizenship-we-break-no-new-ground-today/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "When it comes to the last formal day of the term, when we know which cases are remaining, litigants and other interested parties have the chance to try to work their way into the courtroom to hear an opinion announced in a case of close…",
+          "published": "2026-06-30T22:00:00.000Z"
+        },
+        {
+          "title": "Breaking down the birthright-citizenship decision",
+          "link": "https://www.scotusblog.com/2026/06/breaking-down-the-birthright-citizenship-decision/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Trump v. Barbara , the birthright-citizenship case that dominated headlines this term, was emblematic of how the court can be predictable in closely followed cases while still leaving room for surprises. Many observers, including me ,…",
+          "published": "2026-06-30T20:07:00.000Z"
+        },
+        {
+          "title": "Court grants several new cases, including on whether the Second Amendment protects possession of semiautomatic rifles",
+          "link": "https://www.scotusblog.com/2026/06/court-grants-several-new-cases-including-on-whether-the-second-amendment-protects-possession-of-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Less than a week after the Supreme Court struck down a Hawaii law that barred gun owners with concealed-carry licenses from bringing guns onto private property unless they had explicit permission from the property’s owner, the justices…",
+          "published": "2026-06-30T17:22:10.000Z"
+        },
+        {
+          "title": "Justices strike down campaign finance law",
+          "link": "https://www.scotusblog.com/2026/06/justices-strike-down-campaign-finance-law/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 30 at 4:40 p.m. The Supreme Court on Tuesday issued a major ruling on money in elections. By a vote of 6-3, the justices struck down a federal law that limited the amount of money that political parties can spend in…",
+          "published": "2026-06-30T15:37:53.000Z"
+        },
+        {
+          "title": "Court rules that states can exclude transgender athletes from girls’ and women’s sports teams",
+          "link": "https://www.scotusblog.com/2026/06/court-rules-that-states-can-exclude-transgender-athletes-from-girls-and-womens-sports-teams/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 30 at 4 p.m. The Supreme Court on Tuesday ruled that states can exclude transgender athletes from women’s and girls’ sports teams. The justices ruled unanimously that laws enacted by Idaho and West Virginia do not violate…",
+          "published": "2026-06-30T15:28:01.000Z"
+        },
+        {
+          "title": "Supreme Court strikes down Trump’s order ending birthright citizenship",
+          "link": "https://www.scotusblog.com/2026/06/supreme-court-strikes-down-trumps-order-ending-birthright-citizenship/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on June 30 at 1:55 p.m. The Supreme Court on Tuesday struck down President Donald Trump’s executive order seeking to end birthright citizenship – the guarantee of citizenship to virtually everyone born in the United States. In a…",
+          "published": "2026-06-30T15:06:32.000Z"
+        },
+        {
+          "title": "The final four",
+          "link": "https://www.scotusblog.com/2026/06/the-final-four-cases/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Welcome to the final opinion announcement day of the 2025-26 term.",
+          "published": "2026-06-30T13:00:00.000Z"
+        },
+        {
+          "title": "The last grants of the 2025-26 term?",
+          "link": "https://www.scotusblog.com/2026/06/the-last-grants-of-the-2025-26-term/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Relist Watch column examines cert petitions that the Supreme Court has “relisted” for its upcoming conference. A short explanation of relists is available here . Every summer, before the justices leave town for the Supreme Court’s…",
+          "published": "2026-06-30T12:15:00.000Z"
         }
       ]
     }
