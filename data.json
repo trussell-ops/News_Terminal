@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-07T07:59:20.279Z",
+  "updated": "2026-07-07T11:09:16.126Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "One million more UK homeowners set to face higher mortgages",
+          "link": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.",
+          "published": "2026-07-07T11:06:01.000Z"
+        },
+        {
+          "title": "Far more real estate agents now report seeing a balanced market, CNBC Housing Market Survey finds",
+          "link": "https://www.cnbc.com/2026/07/07/cnbc-housing-market-survey-balanced-market.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Agents who reported at least one price cut to active listings dropped dramatically from prior surveys.",
+          "published": "2026-07-07T11:00:01.000Z"
+        },
+        {
+          "title": "E-bike injury payouts top £110m and push up insurance premiums",
+          "link": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It is only seven years since the first claim over an injury from a micromobility vehicle was made.",
+          "published": "2026-07-07T09:57:27.000Z"
+        },
         {
           "title": "Volunteers racing to save surplus Silverstone food",
           "link": "https://www.bbc.co.uk/news/articles/czrxx44e2ndo?at_medium=RSS&at_campaign=rss",
@@ -19,14 +43,6 @@
           "category": "markets",
           "snippet": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
           "published": "2026-07-07T07:28:10.000Z"
-        },
-        {
-          "title": "E-bike injury payouts top £110m and push up insurance premiums",
-          "link": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It is only seven years since the first claim over an injury from a micromobility vehicle was made.",
-          "published": "2026-07-07T05:40:34.000Z"
         },
         {
           "title": "Robots available for rent: But what can they do?",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "Queues are expected at airports this summer owing to EU's new digital border control system.",
           "published": "2026-07-05T23:18:27.000Z"
-        },
-        {
-          "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
-          "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
-          "published": "2026-07-05T13:55:34.000Z"
-        },
-        {
-          "title": "Money Box",
-          "link": "https://www.bbc.co.uk/sounds/play/m002ykfp?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Half a million people say 'no thanks' to joining a workplace pension, why?",
-          "published": "2026-07-04T11:30:00.000Z"
         }
       ]
     },
@@ -202,12 +202,68 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Are you ready for what it takes to stop ghost guns?",
+          "link": "https://www.theverge.com/tech/960802/3d-printed-gun-laws-ghost-guns",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "In the summer of 2024, former Army National Guard member Andrew Scott Hastings spent a sweaty afternoon carefully packing boxes with parts he made using his 3D printer. These weren't novelty figurines or replacement Ikea pieces. The boxes…",
+          "published": "2026-07-07T11:00:00.000Z"
+        },
+        {
+          "title": "Why migrants come to Germany for work and then leave again",
+          "link": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-07T10:42:59.000Z"
+        },
+        {
+          "title": "Nothing’s first B-series phone is also skipping the US",
+          "link": "https://www.theverge.com/tech/962020/nothing-phone-4b-price-release-date-specs",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Nothing is shaking up the branding of its cheapest phones, following up last year's Phone 3A Lite with a new Phone 4B. Combining design elements of the 4A and 4A Pro, it follows Nothing's previous cheaper handsets in skipping the US…",
+          "published": "2026-07-07T10:30:54.000Z"
+        },
+        {
+          "title": "Nothing’s new earbuds can record calls and what you’re listening to",
+          "link": "https://www.theverge.com/tech/961845/nothing-ear-3a-wireless-earbuds-call-recording-price-availability",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Nothing announced a new pair of budget-friendly wireless earbuds, but not as part of the company's affordability-focused sub-brand, CMF. The new Nothing Ear 3A are available starting today through the company's online store for $99, which…",
+          "published": "2026-07-07T10:30:00.000Z"
+        },
+        {
+          "title": "Microsoft Can Track Users via a Windows Device ID",
+          "link": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-07T08:54:03.000Z"
+        },
+        {
+          "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+          "link": "https://whimfiles.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-07T08:12:12.000Z"
+        },
+        {
           "title": "Lago (YC S21) Is Hiring for Our GTM Team",
           "link": "https://jobs.ashbyhq.com/lago",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-07T07:00:27.000Z"
+        },
+        {
+          "title": "The Art of Computer Programming by Donald E. Knuth",
+          "link": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-07T05:19:03.000Z"
         },
         {
           "title": "How to sequence your own DNA at home",
@@ -224,14 +280,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-06T23:59:54.000Z"
-        },
-        {
-          "title": "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
-          "link": "https://instantvideos.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T23:58:38.000Z"
         },
         {
           "title": "NSA and IETF: Fairness",
@@ -264,14 +312,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-06T22:32:58.000Z"
-        },
-        {
-          "title": "Full Writeup of the Windows GDID",
-          "link": "https://github.com/SmtimesIWndr/gdid-reversal",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T22:02:24.000Z"
         },
         {
           "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
@@ -352,46 +392,6 @@
           "category": "tech",
           "snippet": "The United States of America recently turned 250 years old. What a spectacle! The fireworks were amazing, and millions of proud people celebrated across the nation - even around the world. France lit up the Eiffel Tower; Japan had…",
           "published": "2026-07-06T18:36:33.000Z"
-        },
-        {
-          "title": "Linux on the Atari Jaguar",
-          "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T18:35:54.000Z"
-        },
-        {
-          "title": "OpenWrt One – Open Hardware Router",
-          "link": "https://openwrt.org/toh/openwrt/one",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T18:23:12.000Z"
-        },
-        {
-          "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
-          "link": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Its issues with current nuclear safety standards are termed semantic, not physical.",
-          "published": "2026-07-06T17:48:45.000Z"
-        },
-        {
-          "title": "A global workspace in language models",
-          "link": "https://www.anthropic.com/research/global-workspace",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T17:44:08.000Z"
-        },
-        {
-          "title": "Januscape: Guest-to-Host Escape in KVM&#x2F;x86 [CVE-2026-53359]",
-          "link": "https://github.com/V4bel/Januscape",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T17:35:03.000Z"
         }
       ]
     },
