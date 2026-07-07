@@ -1,16 +1,32 @@
 {
-  "updated": "2026-07-07T04:29:59.656Z",
+  "updated": "2026-07-07T07:59:20.279Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Volunteers racing to save surplus Silverstone food",
+          "link": "https://www.bbc.co.uk/news/articles/czrxx44e2ndo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A Towcester community larder is collecting produce from the circuit following the Grand Prix.",
+          "published": "2026-07-07T07:55:32.000Z"
+        },
         {
           "title": "Samsung profits jump 1,800% as AI chip sales soar",
           "link": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
-          "published": "2026-07-07T03:24:14.000Z"
+          "published": "2026-07-07T07:28:10.000Z"
+        },
+        {
+          "title": "E-bike injury payouts top £110m and push up insurance premiums",
+          "link": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It is only seven years since the first claim over an injury from a micromobility vehicle was made.",
+          "published": "2026-07-07T05:40:34.000Z"
         },
         {
           "title": "Robots available for rent: But what can they do?",
@@ -25,7 +41,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Rachel Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
+          "snippet": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
           "published": "2026-07-06T23:31:21.000Z"
         },
         {
@@ -37,11 +53,11 @@
           "published": "2026-07-06T23:30:40.000Z"
         },
         {
-          "title": "Banks accused of failing most vulnerable customers",
+          "title": "Banks accused of pushing customers away from basic accounts",
           "link": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.",
+          "snippet": "Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator.",
           "published": "2026-07-06T23:29:34.000Z"
         },
         {
@@ -179,28 +195,20 @@
           "category": "markets",
           "snippet": "Half a million people say 'no thanks' to joining a workplace pension, why?",
           "published": "2026-07-04T11:30:00.000Z"
-        },
-        {
-          "title": "Consumer Fight Back",
-          "link": "https://www.bbc.co.uk/sounds/play/m002ykhx?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Linzi checks in on 89-year-old Margaret's battle to get her landline reconnected.",
-          "published": "2026-07-04T10:00:00.000Z"
-        },
-        {
-          "title": "American Express and Chase move luxury lounge wars beyond the airport",
-          "link": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Credit card companies are increasingly offering access to lounges and perks at festivals and sporting events, often exclusively for premium cardholders.",
-          "published": "2026-07-03T18:03:34.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Lago (YC S21) Is Hiring for Our GTM Team",
+          "link": "https://jobs.ashbyhq.com/lago",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-07T07:00:27.000Z"
+        },
         {
           "title": "How to sequence your own DNA at home",
           "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
@@ -216,6 +224,22 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-06T23:59:54.000Z"
+        },
+        {
+          "title": "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
+          "link": "https://instantvideos.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T23:58:38.000Z"
+        },
+        {
+          "title": "NSA and IETF: Fairness",
+          "link": "https://blog.cr.yp.to/20260706-fairness.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-06T23:33:54.000Z"
         },
         {
           "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
@@ -240,22 +264,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-06T22:32:58.000Z"
-        },
-        {
-          "title": "Acronym Fatigue Series Introduction: why I'm wary of acronyms",
-          "link": "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T22:30:33.000Z"
-        },
-        {
-          "title": "Poly&#x2F;ML – A Standard ML Implementation",
-          "link": "https://github.com/polyml/polyml",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-06T22:28:06.000Z"
         },
         {
           "title": "Full Writeup of the Windows GDID",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-06T17:35:03.000Z"
-        },
-        {
-          "title": "Five questions for Dr. Rubin, who’s armed with a mic and a bowtie",
-          "link": "https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Bullshit is cheap but truth is expensive. Anyone with half a brain cell can post wild misinformation that goes mega viral, which wastes the time and expertise of highly trained people who feel an obligation to inform others of the truth.…",
-          "published": "2026-07-06T17:15:29.000Z"
         }
       ]
     },
