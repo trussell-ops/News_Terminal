@@ -1,16 +1,48 @@
 {
-  "updated": "2026-07-08T05:12:12.652Z",
+  "updated": "2026-07-08T07:43:35.879Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Virgin Media fined £28m for preventing customers from cancelling contracts",
+          "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
+          "published": "2026-07-08T07:33:01.000Z"
+        },
+        {
+          "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+          "link": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
+          "published": "2026-07-08T06:32:21.000Z"
+        },
         {
           "title": "Australia dock workers call for 28-hour week in AI talks",
           "link": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
-          "published": "2026-07-08T01:48:47.000Z"
+          "published": "2026-07-08T06:06:12.000Z"
+        },
+        {
+          "title": "'You have to say no': Families struggling with holiday food costs",
+          "link": "https://www.bbc.co.uk/news/articles/ceqder3dydxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Susan Lilley, a single mother of two, said the weekly shop has become one of her biggest financial worries.",
+          "published": "2026-07-08T05:15:37.000Z"
+        },
+        {
+          "title": "Airbnb data identifies illegal social home sublets",
+          "link": "https://www.bbc.co.uk/news/articles/c6211ng49zwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Nearly 6,000 social homes are thought to be illegally listed on short-term rental platforms.",
+          "published": "2026-07-08T05:03:28.000Z"
         },
         {
           "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
@@ -29,7 +61,7 @@
           "published": "2026-07-07T23:47:33.000Z"
         },
         {
-          "title": "Package holidays to Dubai and Egypt cheaper as European prices creep up",
+          "title": "Dubai and Egypt package holidays cheaper to lure customers back",
           "link": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -43,14 +75,6 @@
           "category": "markets",
           "snippet": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
           "published": "2026-07-07T23:11:48.000Z"
-        },
-        {
-          "title": "'You have to say no': Families struggling with holiday food costs",
-          "link": "https://www.bbc.co.uk/news/articles/ceqder3dydxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Susan Lilley, a single mother of two, said the weekly shop has become one of her biggest financial worries.",
-          "published": "2026-07-07T23:08:39.000Z"
         },
         {
           "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
@@ -171,36 +195,28 @@
           "category": "markets",
           "snippet": "Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator.",
           "published": "2026-07-06T23:29:34.000Z"
-        },
-        {
-          "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
-          "link": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A new report says students were not well-enough informed that their loan terms could change retrospectively.",
-          "published": "2026-07-06T23:08:51.000Z"
-        },
-        {
-          "title": "Can China repeat its EV success with robotaxis?",
-          "link": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
-          "published": "2026-07-06T22:01:07.000Z"
-        },
-        {
-          "title": "Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas",
-          "link": "https://www.cnbc.com/2026/07/06/toyota-tacoma-truck-san-antonio-plant.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Toyota said it is investing $3.6 billion to move production of the Tacoma midsize pickup truck from Mexico to its San Antonio manufacturing campus in Texas.",
-          "published": "2026-07-06T20:30:01.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+          "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
+          "published": "2026-07-08T07:00:51.000Z"
+        },
+        {
+          "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+          "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T05:25:35.000Z"
+        },
         {
           "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
           "link": "https://twitter.com/OpenAI/status/2074704958419792299",
@@ -210,7 +226,7 @@
           "published": "2026-07-08T04:12:13.000Z"
         },
         {
-          "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS",
+          "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
           "link": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
           "source": "Hacker News",
           "category": "tech",
@@ -224,14 +240,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-08T03:22:31.000Z"
-        },
-        {
-          "title": "Is The Economist Always Wrong?",
-          "link": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T02:17:01.000Z"
         },
         {
           "title": "LineageOS Statistics",
@@ -248,14 +256,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-08T00:55:19.000Z"
-        },
-        {
-          "title": "An interactive explorer for Benford's Law across real datasets",
-          "link": "https://vatsalbakshi.com/blog/benfords-law/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T00:18:39.000Z"
         },
         {
           "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
@@ -378,20 +378,20 @@
           "published": "2026-07-07T18:44:29.000Z"
         },
         {
-          "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-          "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-07T18:36:35.000Z"
-        },
-        {
           "title": "The Weather Channel increases streaming subscription prices by up to $20",
           "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Livestreaming the channel through its app now starts at $5 per month.",
           "published": "2026-07-07T18:29:24.000Z"
+        },
+        {
+          "title": "X says top accounts steal videos from other users as it announces new video tools",
+          "link": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Nikita Bier, X's head of product, said in a post on Monday that \"[m]any videos from top accounts are simply stolen from other users, sometimes 5 years after they originally went viral,\" while noting that videos on the platform \"make up…",
+          "published": "2026-07-07T18:28:08.000Z"
         }
       ]
     },
