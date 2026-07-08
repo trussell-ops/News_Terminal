@@ -1,16 +1,48 @@
 {
-  "updated": "2026-07-08T12:00:22.657Z",
+  "updated": "2026-07-08T14:45:19.921Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Delta launches 'basic business' fares without lounge access, seat selection",
+          "link": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Delta is launching basic business and other stripped-down premium classes that come with fewer perks.",
+          "published": "2026-07-08T13:16:30.000Z"
+        },
+        {
+          "title": "How to find lost bank accounts",
+          "link": "https://www.bbc.co.uk/videos/ckg8dx51er4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "How to find lost bank accounts",
+          "published": "2026-07-08T13:13:37.000Z"
+        },
         {
           "title": "Severn Trent avoids fine for wastewater failures",
           "link": "https://www.bbc.co.uk/news/articles/czj8l83zzgxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The water firm took \"genuine accountability\" after breaching wastewater obligations, Ofwat says.",
-          "published": "2026-07-08T11:42:28.000Z"
+          "published": "2026-07-08T13:10:33.000Z"
+        },
+        {
+          "title": "Jackdaw owner says gas field will 'not materially influence' climate change",
+          "link": "https://www.bbc.co.uk/news/articles/cly85e2z2n4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The new assessment was required by the industry regulator, after it found several areas had not been adequately addressed in a previous submission.",
+          "published": "2026-07-08T12:59:00.000Z"
+        },
+        {
+          "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
+          "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
+          "published": "2026-07-08T12:28:03.000Z"
         },
         {
           "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
@@ -163,38 +195,6 @@
           "category": "markets",
           "snippet": "The people turning life experience into business ideas with funding and other support",
           "published": "2026-07-07T07:30:00.000Z"
-        },
-        {
-          "title": "Samsung profits jump 1,800% as AI chip sales soar",
-          "link": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
-          "published": "2026-07-07T07:28:10.000Z"
-        },
-        {
-          "title": "Robots available for rent: But what can they do?",
-          "link": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
-          "published": "2026-07-06T23:48:55.000Z"
-        },
-        {
-          "title": "Amazon bars breastfeeding boss from business course",
-          "link": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
-          "published": "2026-07-06T23:31:21.000Z"
-        },
-        {
-          "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
-          "link": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Around the world women are marking their split with new - or repurposed engagement - rings.",
-          "published": "2026-07-06T23:30:40.000Z"
         }
       ]
     },
@@ -202,28 +202,108 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "The whole Pixel line could get more expensive this year",
+          "link": "https://www.theverge.com/tech/962781/google-pixel-11-lineup-price-increase",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google's upcoming Pixel lineup might cost more than last year's. A report from Dealabs spotted by 9to5Google suggests that Google could raise the starting price of its 41mm Pixel Watch 5 to $399, while adding LTE could bump the price to…",
+          "published": "2026-07-08T14:43:13.000Z"
+        },
+        {
+          "title": "Gaming laptops are too expensive right now, but this one’s a good value",
+          "link": "https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "It’s not a great time to shop for a gaming laptop. The unprecedented rise in cost for RAM (and storage to a slightly lesser extent) has made laptops with low-to-midrange specs cost much more than they should. Recent deals on gaming…",
+          "published": "2026-07-08T14:43:00.000Z"
+        },
+        {
+          "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+          "link": "https://mistral.ai/news/robostral-navigate/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T14:09:17.000Z"
+        },
+        {
+          "title": "US Food and Drug Administration rejects petition to set PFAS limits in food",
+          "link": "https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T13:35:59.000Z"
+        },
+        {
+          "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
+          "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Miners backed by Trump admin. sell to Japan, South Korea despite push to develop domestic supply chain.",
+          "published": "2026-07-08T13:26:10.000Z"
+        },
+        {
+          "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+          "link": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T13:24:52.000Z"
+        },
+        {
+          "title": "Cloudflare Meerkat - Globally distributed consensus",
+          "link": "https://blog.cloudflare.com/meerkat-introduction/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T13:18:03.000Z"
+        },
+        {
+          "title": "Tiny data centre used to heat public swimming pool",
+          "link": "https://www.bbc.com/news/technology-64939558",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T13:10:13.000Z"
+        },
+        {
+          "title": "Fi s Starlink-enabled pet tracker found my dog when LTE couldn t",
+          "link": "https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Fi Ultra is the first Starlink-enabled pet tracker you can buy. It expands on GPS and LTE trackers, adding automatic failover to T-Mobile's T-Satellite-branded direct-to-cell service when venturing into cellular dead zones. That lets…",
+          "published": "2026-07-08T13:00:00.000Z"
+        },
+        {
+          "title": "Blue Origin, for the first time, is expected to raise private capital",
+          "link": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The company is raising $10 billion, leading to a valuation of $130 billion.",
+          "published": "2026-07-08T12:47:35.000Z"
+        },
+        {
+          "title": "The Age of Reading Is Over",
+          "link": "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T12:08:37.000Z"
+        },
+        {
+          "title": "The Steam Machine fits my TV, my desk, and my life",
+          "link": "https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "For the last couple weeks, I've been in an extremely lucky position: I've been spending a lot of time playing games on Valve's Steam Machine. We gave the Steam Machine a 6, and I don't disagree with my colleague Sean Hollister's review.…",
+          "published": "2026-07-08T12:00:00.000Z"
+        },
+        {
           "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
           "link": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-08T11:30:56.000Z"
-        },
-        {
-          "title": "We Got This Wrong. and We Are Fixing It",
-          "link": "https://community.hubspot.com/t/we-got-this-wrong-and-we-are-fixing-it/152063",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T11:06:06.000Z"
-        },
-        {
-          "title": "List of European organizations that have banned personal messaging apps at work",
-          "link": "https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T11:03:34.000Z"
         },
         {
           "title": "The robotaxi law that could ban Tesla",
@@ -312,92 +392,52 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-07T23:57:29.000Z"
-        },
-        {
-          "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
-          "link": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or destroyed the glasses' privacy LED light.…",
-          "published": "2026-07-07T23:55:19.000Z"
-        },
-        {
-          "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
-          "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Cases have risen quickly as officials are working to identify a common source.",
-          "published": "2026-07-07T22:29:00.000Z"
-        },
-        {
-          "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-          "link": "https://www.gao.gov/products/gao-26-108193",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-07T22:23:58.000Z"
-        },
-        {
-          "title": "Of course viewers are giving up on Netflix shows",
-          "link": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the streamer's anthology about people locked in feuds - lost 70…",
-          "published": "2026-07-07T21:58:39.000Z"
-        },
-        {
-          "title": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
-          "link": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Starting on August 3rd, Netflix's streaming library will include video content from dozens of digital media brands including BuzzFeed, Cond Nast, Hearst Magazines, People Inc, and Tastemade. As reported earlier by TechCrunch, the deal…",
-          "published": "2026-07-07T21:37:19.000Z"
-        },
-        {
-          "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
-          "link": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
-          "published": "2026-07-07T21:03:07.000Z"
-        },
-        {
-          "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
-          "link": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "There's still a slew of questions about why some people develop alpha-gal syndrome.",
-          "published": "2026-07-07T20:32:39.000Z"
-        },
-        {
-          "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-          "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook…",
-          "published": "2026-07-07T20:31:58.000Z"
-        },
-        {
-          "title": "SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\"",
-          "link": "https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Texas win at 5th Circuit left in place as attempts to overturn age law continue.",
-          "published": "2026-07-07T20:18:24.000Z"
-        },
-        {
-          "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
-          "link": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "As much as 50 percent of some teams affected by reductions, and more could be coming.",
-          "published": "2026-07-07T19:52:59.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "F-35 For Turkey? Trump Says ‘Certainly, We’ll Consider’ Reversing Ban",
+          "link": "https://breakingdefense.com/2026/07/f-35-for-turkey-trump-says-certainly-well-consider-reversing-ban/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "'We’re going to be taking the sanctions off,' the president said. 'We’re going to be taking the sanctions off. It’s time to do that. Ok? We don’t want to sanction friends. It’s very simple.' The post F-35 For Turkey? Trump Says…",
+          "published": "2026-07-08T14:03:00.000Z"
+        },
+        {
+          "title": "Revisiting which Supreme Court cases are actually the most important",
+          "link": "https://www.scotusblog.com/2026/07/revisiting-which-supreme-court-cases-are-actually-the-most-important/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. In a previous piece for SCOTUSblog, I suggested a somewhat unconventional way to…",
+          "published": "2026-07-08T14:00:00.000Z"
+        },
+        {
+          "title": "The Supreme Court’s quiet coup",
+          "link": "https://www.scotusblog.com/2026/07/the-supreme-courts-quiet-coup/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. Every day, Americans are witnessing the most significant expansion of…",
+          "published": "2026-07-08T13:30:00.000Z"
+        },
+        {
+          "title": "Kagan and Barrett to testify before Congress",
+          "link": "https://www.scotusblog.com/2026/07/kagan-and-barrett-to-testify-before-congress/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, Trump has asked the court to reconsider his appeal of a $5 million jury award.",
+          "published": "2026-07-08T13:00:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 07.08.26",
+          "link": "https://abovethelaw.com/2026/07/morning-docket-07-08-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Yale Law School is working behind the scenes to convince Yale University to stop trying to cut a deal with the Trump administration. [ NY Times ] * Latham cleaning up on AI power demands. [ Bloomberg Law News ] * Former Wisconsin judge…",
+          "published": "2026-07-08T12:54:00.000Z"
+        },
         {
           "title": "Is The Supreme Court Putting Money On The Merits? See Also",
           "link": "https://abovethelaw.com/2026/07/is-the-supreme-court-putting-money-on-the-merits-see-also/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "Plus, will the justices have a quiet summer?",
           "published": "2026-07-07T13:00:00.000Z"
-        },
-        {
-          "title": "Another Bill Trump Won’t Pay See Also",
-          "link": "https://abovethelaw.com/2026/07/another-bill-trump-wont-pay-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Roberta Kaplan Wants Her Client To Get Paid : Trump's legal goons, on the other hand, are trying more delay tactics . World Cup Of Lawyerball : The United States dragged the soccer world into its national pastime -- legal threats . You'd…",
-          "published": "2026-07-06T23:31:00.000Z"
-        },
-        {
-          "title": "This Circuit Court Loves Being Wrong",
-          "link": "https://abovethelaw.com/2026/07/this-circuit-court-loves-being-wrong/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "You'd think they'd try a little harder to get it right. The post This Circuit Court Loves Being Wrong appeared first on Above the Law .",
-          "published": "2026-07-06T23:02:00.000Z"
-        },
-        {
-          "title": "Marc Kasowitz Allegedly Took A $6.4M Cut Of Columbia Antisemitism Settlement And Jewish Students Are Pissed",
-          "link": "https://abovethelaw.com/2026/07/marc-kasowitz-alllegedly-took-a-6-4m-cut-of-columbia-antisemitism-settlement-and-jewish-students-are-pissed/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "New suit alleges Kasowitz pocketed bulk of settlement. The post Marc Kasowitz Allegedly Took A $6.4M Cut Of Columbia Antisemitism Settlement And Jewish Students Are Pissed appeared first on Above the Law .",
-          "published": "2026-07-06T22:20:00.000Z"
-        },
-        {
-          "title": "Email Newsletters That Survive Apple s Privacy Changes",
-          "link": "https://abovethelaw.com/2026/07/email-newsletters-that-survive-apples-privacy-changes/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "For law firms still trying to figure out the best way to handle the transition, there are a number of options. The post Email Newsletters That Survive Apple s Privacy Changes appeared first on Above the Law .",
-          "published": "2026-07-06T21:34:00.000Z"
-        },
-        {
-          "title": "Irina Beschieriu On Why AI Is Forcing In-House Lawyers To Rethink Outsourcing Deals",
-          "link": "https://abovethelaw.com/2026/07/irina-beschieriu-on-why-ai-is-forcing-in-house-lawyers-to-rethink-outsourcing-deals/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "AI is changing outsourcing relationships faster than most organizations can adapt. The post Irina Beschieriu On Why AI Is Forcing In-House Lawyers To Rethink Outsourcing Deals appeared first on Above the Law .",
-          "published": "2026-07-06T20:44:00.000Z"
         }
       ]
     }
