@@ -1,16 +1,24 @@
 {
-  "updated": "2026-07-08T19:13:37.599Z",
+  "updated": "2026-07-08T20:41:00.126Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend",
+          "link": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.",
+          "published": "2026-07-08T20:12:47.000Z"
+        },
         {
           "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
           "link": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok.",
-          "published": "2026-07-08T16:27:42.000Z"
+          "published": "2026-07-08T19:23:33.000Z"
         },
         {
           "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
@@ -187,20 +195,36 @@
           "category": "markets",
           "snippet": "Budget Energy NI says the rise is due to the \"continued volatility\" in wholesale energy markets.",
           "published": "2026-07-07T12:45:27.000Z"
-        },
-        {
-          "title": "E-bike injury payouts top £110m and push up insurance premiums",
-          "link": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It is only seven years since the first claim over an injury from a micromobility vehicle was made.",
-          "published": "2026-07-07T09:57:27.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
+          "link": "https://hnwork.app/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T20:00:04.000Z"
+        },
+        {
+          "title": "Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones",
+          "link": "https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Even though they haven’t been officially announced yet, Samsung is giving you a chance to save some cash when you preorder what we’re expecting to be the brand’s updated Galaxy Z Fold phones. The next Galaxy Unpacked event will take place…",
+          "published": "2026-07-08T20:00:00.000Z"
+        },
+        {
+          "title": "Cloudflare Drop",
+          "link": "https://www.cloudflare.com/drop/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T19:18:26.000Z"
+        },
         {
           "title": "Microsoft s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
           "link": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
@@ -368,36 +392,28 @@
           "category": "tech",
           "snippet": "The robotaxi stopped, called 911, and waited for the San Mateo Police to show up.",
           "published": "2026-07-08T15:40:44.000Z"
-        },
-        {
-          "title": "Chatto is now Open Source",
-          "link": "https://www.hmans.dev/blog/chatto-is-open-source",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T15:19:50.000Z"
-        },
-        {
-          "title": "Ocean rift zone saw spreading happen in a sudden burst",
-          "link": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The crust expands at mid-ocean rifts. But how?",
-          "published": "2026-07-08T15:09:38.000Z"
-        },
-        {
-          "title": "This jumping $800 robot camera dog filled me with joy",
-          "link": "https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "What if you had a drone that wasn't a buzzy, annoying fly people wanted to swat - but rather a cute dog that runs and jumps? What if it could do tricks on command and film your tricks as well? What if it could get right back up after a…",
-          "published": "2026-07-08T15:00:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "This Biglaw Firm Is Dangerous And The Deal Flow Backs It Up",
+          "link": "https://abovethelaw.com/2026/07/this-biglaw-firm-is-dangerous-and-the-deal-flow-backs-it-up/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A boom in AI-related energy offerings has Latham expecting a record-setting year. The post This Biglaw Firm Is Dangerous And The Deal Flow Backs It Up appeared first on Above the Law .",
+          "published": "2026-07-08T20:00:00.000Z"
+        },
+        {
+          "title": "Supreme Court Narrowly Passes Reading Comprehension Section",
+          "link": "https://abovethelaw.com/2026/07/supreme-court-narrowly-passes-reading-comprehension-section/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "But Sam Alito still has a job. The post Supreme Court Narrowly Passes Reading Comprehension Section appeared first on Above the Law .",
+          "published": "2026-07-08T19:15:00.000Z"
+        },
         {
           "title": "The DMS, Reimagined: Why Your Firm s Memory Is Now Its AI Foundation",
           "link": "https://abovethelaw.com/2026/07/the-dms-reimagined-why-your-firms-memory-is-now-its-ai-foundation/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "This is a case that could help define the rules of the road for legal AI companies that rely on licensed caselaw data. The post Fastcase And Alexi Head To Court This Week In High-Stakes Fight Over Legal AI, Caselaw Data, And Clio’s $1B…",
           "published": "2026-07-07T16:17:00.000Z"
-        },
-        {
-          "title": "How Best Lawyers Is Helping Small Firms Get Found In The Age Of AI Search",
-          "link": "https://abovethelaw.com/2026/07/how-best-lawyers-is-helping-small-firms-get-found-in-the-age-of-ai-search/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] For a solo practitioner or small firm, competing online can feel like bringing a knife to a gunfight. The post How Best Lawyers Is Helping Small Firms Get Found In The Age Of AI Search appeared first on Above the Law .",
-          "published": "2026-07-07T15:33:00.000Z"
-        },
-        {
-          "title": "Are Supreme Court Justices Betting On Their Own Cases? A Member Of Congress Would Love John Roberts To Answer This Question",
-          "link": "https://abovethelaw.com/2026/07/are-supreme-court-justices-betting-on-their-own-cases-a-member-of-congress-would-love-john-roberts-to-answer-this-question/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Prediction markets let anyone with a phone wager on Supreme Court outcomes -- including, theoretically, the people who decide them. A new letter to the Chief Justice asks him to get ahead of the next ethics problem before it becomes a…",
-          "published": "2026-07-07T14:48:00.000Z"
         }
       ]
     }
