@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-07T23:48:00.566Z",
+  "updated": "2026-07-08T01:48:34.794Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
+          "link": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
+          "published": "2026-07-08T01:04:44.000Z"
+        },
+        {
+          "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
+          "link": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
+          "published": "2026-07-07T23:47:33.000Z"
+        },
         {
           "title": "Package holidays to Dubai and Egypt cheaper as European prices creep up",
           "link": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
@@ -179,28 +195,68 @@
           "category": "markets",
           "snippet": "Klarna joins a wave of fintech and crypto firms seeking entry to the traditional banking system.",
           "published": "2026-07-06T15:36:23.000Z"
-        },
-        {
-          "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
-          "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
-          "published": "2026-07-06T15:18:53.000Z"
-        },
-        {
-          "title": "ITV hits such as I'm a Celebrity to stay free to watch after Sky takeover",
-          "link": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Sky boss Dana Strong's comments came as the channel announces it is buying ITV's media and entertainment divisions in a £1.6bn deal.",
-          "published": "2026-07-06T14:40:04.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Show HN: Chiptune Radio",
+          "link": "https://chiptune-radio.alephvoid.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T00:55:19.000Z"
+        },
+        {
+          "title": "An interactive explorer for Benford's Law across real datasets",
+          "link": "https://vatsalbakshi.com/blog/benfords-law/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T00:18:39.000Z"
+        },
+        {
+          "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+          "link": "https://kb.cert.org/vuls/id/213560",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T00:08:51.000Z"
+        },
+        {
+          "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
+          "link": "https://github.com/tiliondev/fortress",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T00:08:21.000Z"
+        },
+        {
+          "title": "Structure and Interpretation of Computer Programs Video Lectures",
+          "link": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-07T23:57:29.000Z"
+        },
+        {
+          "title": "Show HN: Free Mermaid Diagram Editor",
+          "link": "https://moxiedocs.com/mermaid-diagram-editor",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-07T23:29:36.000Z"
+        },
+        {
+          "title": "Git Hash Chain Malleability",
+          "link": "https://arxiv.org/abs/2607.02820",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-07T23:21:03.000Z"
+        },
         {
           "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
           "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
@@ -248,6 +304,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-07T20:50:46.000Z"
+        },
+        {
+          "title": "We charge $10k a week to delete AI-generated code",
+          "link": "https://odra.dev/slopfix/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-07T20:35:42.000Z"
         },
         {
           "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
@@ -328,70 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-07T18:24:10.000Z"
-        },
-        {
-          "title": "Show HN: Docx-CLI: agents read&#x2F;edit Word docs using 1&#x2F;2 the time and tokens",
-          "link": "https://github.com/kklimuk/docx-cli",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-07T18:19:00.000Z"
-        },
-        {
-          "title": "The Nintendo Switch's days are numbered—but what is that number?",
-          "link": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Ars analysis suggests the 9-year-old console could keep selling for years.",
-          "published": "2026-07-07T18:16:29.000Z"
-        },
-        {
-          "title": "Notes on Software Quality",
-          "link": "https://anthonyhobday.com/blog/20260410",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-07T18:14:50.000Z"
-        },
-        {
-          "title": "l: A new runtime for k and q",
-          "link": "https://lv1.sh/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-07T18:08:29.000Z"
-        },
-        {
-          "title": "The ‘G-Wagen of golf carts’ could be the ideal second car",
-          "link": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "While the auto industry wrings its hands over the electric vehicle market, sweating details like aerodynamic efficiency and range anxiety, a new EV startup based in Lisbon, Portugal, is zagging in a different direction. Amble's new…",
-          "published": "2026-07-07T17:52:51.000Z"
-        },
-        {
-          "title": "ABC tells the government to get out of its newsrooms",
-          "link": "https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "ABC is firing back at the Federal Communications Commission after the agency opened an investigation into The View's airtime of political candidates. In a letter to the FCC on Tuesday, ABC argues that the agency's actions pose a risk to…",
-          "published": "2026-07-07T17:47:38.000Z"
-        },
-        {
-          "title": "Anthropic is launching Claude Cowork on mobile and web",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\"…",
-          "published": "2026-07-07T17:46:59.000Z"
-        },
-        {
-          "title": "Google announces Pixel 11 launch event in August",
-          "link": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the event is taking place in the evening: It'll kick off at 6PM…",
-          "published": "2026-07-07T17:22:48.000Z"
         }
       ]
     },
