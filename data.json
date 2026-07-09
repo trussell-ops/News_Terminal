@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:00:05.432Z",
+  "updated": "2026-07-09T22:26:08.130Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,60 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Show HN: RandoFont, a browser for Google Fonts",
-          "link": "https://randofont.alesh.com",
+          "title": "Show HN: Rubiks Cube Solver",
+          "link": "https://speedcube.com.br/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-09T20:46:38.000Z"
+          "published": "2026-07-09T21:09:05.000Z"
+        },
+        {
+          "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+          "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
+          "published": "2026-07-09T20:52:55.000Z"
+        },
+        {
+          "title": "How GitHub gave every repository a durable owner",
+          "link": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T20:47:09.000Z"
+        },
+        {
+          "title": "The ChatGPT browser is already dead",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the…",
+          "published": "2026-07-09T20:34:05.000Z"
+        },
+        {
+          "title": "The floatable, powerful Soundcore Boom 2 speaker is over half off",
+          "link": "https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Bluetooth speakers with big sound and great features are hard to find for under $100, with most offerings being some variation of the same basic (and often small) design. Thankfully, through July 10th Woot has the Anker Soundcore Boom 2…",
+          "published": "2026-07-09T20:32:18.000Z"
+        },
+        {
+          "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+          "link": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Broadcom accuses Allstate of dodging VMware audits.",
+          "published": "2026-07-09T20:28:55.000Z"
+        },
+        {
+          "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+          "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
+          "published": "2026-07-09T20:12:03.000Z"
         },
         {
           "title": "Google will now tell you if an ad was made with AI",
@@ -250,12 +298,12 @@
           "published": "2026-07-09T18:27:06.000Z"
         },
         {
-          "title": "Show HN: Pylon Sync, an agent-first full-stack realtime framework",
-          "link": "https://www.pylonsync.com",
+          "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+          "link": "https://lucid.earthpilot.ai",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-09T17:38:18.000Z"
+          "published": "2026-07-09T17:36:30.000Z"
         },
         {
           "title": "Google s Nest Thermostat has hit its best price of the year",
@@ -266,20 +314,20 @@
           "published": "2026-07-09T17:33:46.000Z"
         },
         {
+          "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+          "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T17:17:16.000Z"
+        },
+        {
           "title": "GPT-5.6",
           "link": "https://openai.com/index/gpt-5-6/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-09T17:04:14.000Z"
-        },
-        {
-          "title": "ChatGPT Work",
-          "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T17:03:53.000Z"
         },
         {
           "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
@@ -344,60 +392,28 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-09T15:27:48.000Z"
-        },
-        {
-          "title": "A possible future for Damn Interesting",
-          "link": "https://www.damninteresting.com/a-possible-future/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T15:25:25.000Z"
-        },
-        {
-          "title": "Opinionated and Easy Pi.dev Configuration",
-          "link": "https://lazypi.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T15:19:33.000Z"
-        },
-        {
-          "title": "TLS certificates for internal services done right",
-          "link": "https://tuxnet.dev/posts/tls-for-internal-services/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T14:57:02.000Z"
-        },
-        {
-          "title": "Why the Next Era of AI Is About Infrastructure, Not Just Models",
-          "link": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T14:50:01.000Z"
-        },
-        {
-          "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
-          "link": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"You promised me that you would never take power in your name.\"",
-          "published": "2026-07-09T14:45:44.000Z"
-        },
-        {
-          "title": "Ruf debuts new flat-eight engine at Goodwood",
-          "link": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The 4.8 L eight-cylinder generates more than 1,000 hp and 1,000 Nm, Ruf says.",
-          "published": "2026-07-09T14:32:48.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Lawyers’ Use Of AI Notetakers And Client Conversations: Ethics Rules, Risks, And Best Practices (2026 Update)",
+          "link": "https://www.myshingle.com/2026/07/can-lawyers-legally-and-ethically-record-conversations-with-clients-using-artificial-intelligence/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Now with guidance from NYC Opinion 1270 on ethical issues related to attorneys using AI transcription, and more. The post Lawyers’ Use Of AI Notetakers And Client Conversations: Ethics Rules, Risks, And Best Practices (2026 Update)…",
+          "published": "2026-07-09T22:12:00.000Z"
+        },
+        {
+          "title": "Trump Calls Supreme Court Absolutely Insane And Then Asks For Birthright Citizenship Do-Over",
+          "link": "https://abovethelaw.com/2026/07/trump-calls-supreme-court-absolutely-insane-and-then-asks-for-birthright-citizenship-do-over/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Bold strategy Cotton, let's see if it pays off for 'em. The post Trump Calls Supreme Court Absolutely Insane And Then Asks For Birthright Citizenship Do-Over appeared first on Above the Law .",
+          "published": "2026-07-09T21:30:00.000Z"
+        },
         {
           "title": "The Leader Is Not The Point: Serving Organizations By Serving Their Members",
           "link": "https://abovethelaw.com/2026/07/the-leader-is-not-the-point-serving-organizations-by-serving-their-members/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "A boom in AI-related energy offerings has Latham expecting a record-setting year. The post This Biglaw Firm Is Dangerous And The Deal Flow Backs It Up appeared first on Above the Law .",
           "published": "2026-07-08T20:00:00.000Z"
-        },
-        {
-          "title": "Supreme Court Narrowly Passes Reading Comprehension Section",
-          "link": "https://abovethelaw.com/2026/07/supreme-court-narrowly-passes-reading-comprehension-section/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "But Sam Alito still has a job. The post Supreme Court Narrowly Passes Reading Comprehension Section appeared first on Above the Law .",
-          "published": "2026-07-08T19:15:00.000Z"
-        },
-        {
-          "title": "The DMS, Reimagined: Why Your Firm s Memory Is Now Its AI Foundation",
-          "link": "https://abovethelaw.com/2026/07/the-dms-reimagined-why-your-firms-memory-is-now-its-ai-foundation/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] A conversation with iManage CEO Neil Araujo. The post The DMS, Reimagined: Why Your Firm s Memory Is Now Its AI Foundation appeared first on Above the Law .",
-          "published": "2026-07-08T18:32:00.000Z"
         }
       ]
     }
