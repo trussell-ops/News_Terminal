@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-08T23:08:27.127Z",
+  "updated": "2026-07-09T01:07:39.061Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Wealthy AI workers send San Francisco house prices soaring",
+          "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
+          "published": "2026-07-08T23:11:35.000Z"
+        },
+        {
+          "title": "I run the UK's biggest bank, here are five ways to manage your money",
+          "link": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
+          "published": "2026-07-08T23:10:10.000Z"
+        },
+        {
+          "title": "Why electric cars cost more to insure - and what's being done about it",
+          "link": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The insurance cost of electric vehicles is still putting many would-be buyers. So what can be done about it?",
+          "published": "2026-07-08T23:09:55.000Z"
+        },
         {
           "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend",
           "link": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
@@ -171,36 +195,44 @@
           "category": "markets",
           "snippet": "While the Topolino resembles a small car such as the Fiat 500, the EV is actually a quadricycle that functions more like a golf cart.",
           "published": "2026-07-07T15:37:26.000Z"
-        },
-        {
-          "title": "One million more UK homeowners set to face higher mortgages",
-          "link": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.",
-          "published": "2026-07-07T15:18:00.000Z"
-        },
-        {
-          "title": "Online gamblers betting more than £1,000 to face new checks",
-          "link": "https://www.bbc.co.uk/news/articles/cqj1xvy44xno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Punters who bet more than £1,000 online in a 24-hour window will have to undergo an assessment, the regulator says.",
-          "published": "2026-07-07T14:18:25.000Z"
-        },
-        {
-          "title": "Budget Energy announces 9.5% price increase",
-          "link": "https://www.bbc.co.uk/news/articles/c78yge1eel0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Budget Energy NI says the rise is due to the \"continued volatility\" in wholesale energy markets.",
-          "published": "2026-07-07T12:45:27.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Remote Attestation",
+          "link": "https://www.liamcvw.com/p/remote-attestation",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T00:32:33.000Z"
+        },
+        {
+          "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+          "link": "https://mira-wm.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T00:27:57.000Z"
+        },
+        {
+          "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+          "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T23:37:43.000Z"
+        },
+        {
+          "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+          "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T23:27:14.000Z"
+        },
         {
           "title": "Meta is reportedly working on smart glasses that would be recording all the time",
           "link": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
@@ -226,7 +258,7 @@
           "published": "2026-07-08T21:43:07.000Z"
         },
         {
-          "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown University",
+          "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
           "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
           "source": "Ars Technica",
           "category": "tech",
@@ -242,28 +274,12 @@
           "published": "2026-07-08T21:03:51.000Z"
         },
         {
-          "title": "The classifiers Anthropic puts in front of Fable are too zealous",
-          "link": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T20:41:33.000Z"
-        },
-        {
           "title": "Turning a pile of documents into a searchable useable knowledge base",
           "link": "https://github.com/linuxrebel/DocuBrowser",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-08T20:37:29.000Z"
-        },
-        {
-          "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
-          "link": "https://github.com/animesh-94/Onboard-CLI",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T20:09:03.000Z"
         },
         {
           "title": "FAANG Simulator",
@@ -290,12 +306,12 @@
           "published": "2026-07-08T19:56:37.000Z"
         },
         {
-          "title": "Almost Always Unsigned",
-          "link": "https://graphitemaster.github.io/aau/",
+          "title": "New Sweden: the US's long-lost 'secret' colony",
+          "link": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-08T19:35:07.000Z"
+          "published": "2026-07-08T19:26:18.000Z"
         },
         {
           "title": "Cloudflare Drop",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-08T17:46:12.000Z"
-        },
-        {
-          "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
-          "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "US military drone losses in Iran war spur Pentagon call for cheap replacements.",
-          "published": "2026-07-08T17:44:54.000Z"
-        },
-        {
-          "title": "Cockroaches will learn to fear my SwitchBot Bot Rechargeable",
-          "link": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A little robotic switch-flipper has become my sidekick in combating cockroaches. Before I got the SwitchBot Bot Rechargeable, I'd tiptoe through the dark every morning, hoping I wouldn't step on one of those terrible bugs scurrying around…",
-          "published": "2026-07-08T17:30:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "A Merger-Sized Wrinkle In Time See Also",
+          "link": "https://abovethelaw.com/2026/07/a-merger-sized-wrinkle-in-time-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Doesn't Reviewing 6 Months Of Time Entries Sound Fun?!?! Pour some out for legacy Cadwalader attorneys. Ken Paxton Heal Thyself: Or at least get your voter registration issues in order before going after others. You, Sir, Have The Boorish…",
+          "published": "2026-07-08T23:32:00.000Z"
+        },
         {
           "title": "Former Law School Dean Takes The W In Primary",
           "link": "https://abovethelaw.com/2026/07/former-law-school-dean-takes-the-w-in-primary/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "This is very much the opposite of a ringing endorsement. The post Former DOJ Prosecutors To Senate: Blanche Took The Same Oath We Did But He Didn t Keep It appeared first on Above the Law .",
           "published": "2026-07-07T20:44:00.000Z"
-        },
-        {
-          "title": "Biglaw s AI Partnership Wars Have Officially Begun",
-          "link": "https://abovethelaw.com/2026/07/biglaws-ai-partnership-wars-have-officially-begun/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Expect more elite firms to announce deals with leading AI companies as the race to look technologically indispensable heats up. The post Biglaw s AI Partnership Wars Have Officially Begun appeared first on Above the Law .",
-          "published": "2026-07-07T20:03:00.000Z"
         }
       ]
     }
