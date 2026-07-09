@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T14:33:17.414Z",
+  "updated": "2026-07-09T17:12:03.294Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -9,8 +9,8 @@
           "link": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
           "source": "CNBC Business",
           "category": "markets",
-          "snippet": "Competition in the multitrillion-dollar market for retirement assets is fierce among managers like Goldman Sachs, BlackRock, Russell Investments and Mercer.",
-          "published": "2026-07-09T14:11:19.000Z"
+          "snippet": "Competition in the multitrillion-dollar market for retirement assets is fierce among managers such as Goldman Sachs, BlackRock, Russell Investments and Mercer.",
+          "published": "2026-07-09T15:00:50.000Z"
         },
         {
           "title": "June home sales disappoint as prices reach an all-time high",
@@ -18,7 +18,7 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high.",
-          "published": "2026-07-09T14:10:25.000Z"
+          "published": "2026-07-09T14:44:29.000Z"
         },
         {
           "title": "PepsiCo earnings miss estimates as U.S. consumers tighten their budgets",
@@ -35,6 +35,14 @@
           "category": "markets",
           "snippet": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.",
           "published": "2026-07-09T11:44:00.000Z"
+        },
+        {
+          "title": "Porn site company fined £630,000 over failed age checks",
+          "link": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Ofcom has fined a slew of sites it says are failing to prevent children accessing their adult content.",
+          "published": "2026-07-09T11:29:31.000Z"
         },
         {
           "title": "Welfare cuts: What's been happening with Pip and universal credit?",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Susan Lilley, a single mother of two, said the weekly shop has become one of her biggest financial worries.",
           "published": "2026-07-08T08:18:24.000Z"
-        },
-        {
-          "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
-          "link": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
-          "published": "2026-07-08T07:53:37.000Z"
         }
       ]
     },
@@ -202,202 +202,234 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "The PocketMage resurrects the PDA with an e-paper screen",
-          "link": "https://www.theverge.com/tech/963281/pocketmage-pda-e-paper-oled-clamshell-crowd-supply",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Personal digital assistants like the iconic Palm Pilot were one of many devices we thought went extinct with the arrival of the smartphone. But similar to Canon resurrecting a nearly decade-old digital camera to appeal to point-and-shoot…",
-          "published": "2026-07-09T14:11:40.000Z"
-        },
-        {
-          "title": "Introducing Muse Spark 1.1",
-          "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
+          "title": "GPT-5.6",
+          "link": "https://openai.com/index/gpt-5-6/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-09T14:10:22.000Z"
+          "published": "2026-07-09T17:04:14.000Z"
         },
         {
-          "title": "Sony brings back the superzoom RX10 with a stacked sensor and a high price",
-          "link": "https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on",
+          "title": "ChatGPT Work",
+          "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T17:03:53.000Z"
+        },
+        {
+          "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
+          "link": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T17:00:37.000Z"
+        },
+        {
+          "title": "Microsoft’s patch Tuesdays are about to get bigger",
+          "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Sony is bringing back the RX10 superzoom camera after a nearly nine-year gap between models. The newly announced RX10 V retains the same 24-600mm equivalent f/2.4-4 Zeiss Vario-Sonnar 25x zoom lens of its last two predecessors, but it has…",
-          "published": "2026-07-09T14:00:00.000Z"
+          "snippet": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of…",
+          "published": "2026-07-09T17:00:00.000Z"
         },
         {
-          "title": "Comcast is breaking up with NBCU. Why did it ever buy it in the first place?",
-          "link": "https://www.theverge.com/podcast/962994/comcast-nbc-universal-split-versant-content-plus-pipes-media-broadband",
+          "title": "OpenAI rolls out GPT-5.6 after government green light — and announces ‘ChatGPT Work’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Today on Decoder, I’m talking with Peter Kafka, who is chief correspondent at Business Insider and host of Channels, a podcast about the media industry. And it’s a big week for the media industry — Comcast just announced that it’s…",
-          "published": "2026-07-09T14:00:00.000Z"
+          "snippet": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's green light for a…",
+          "published": "2026-07-09T17:00:00.000Z"
         },
         {
-          "title": "Meta says its new AI model is ready to compete on coding",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+          "title": "Auditory and spontaneous movement responses to music over first postnatal year",
+          "link": "https://elifesciences.org/articles/107088",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T16:00:58.000Z"
+        },
+        {
+          "title": "AI content is everywhere on social media, especially LinkedIn",
+          "link": "https://www.pangram.com/blog/ai-in-your-feed",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T15:50:09.000Z"
+        },
+        {
+          "title": "Schlage’s Sense Pro unlocks the door so I don’t have to",
+          "link": "https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark…",
-          "published": "2026-07-09T14:00:00.000Z"
+          "snippet": "The Schlage Sense Pro is a beautiful smart lock. Sleek, discreet, and simple to use, it's Schlage's smartest lock to date. Thanks to ultra-wideband (UWB), it unlocks as I walk up to my front door; I don't need to enter a code or tap my…",
+          "published": "2026-07-09T15:45:46.000Z"
         },
         {
-          "title": "ICE agents are making house calls for online critics",
-          "link": "https://www.theverge.com/report/963106/ice-doxxing-office-of-professional-responsibility-free-speech",
-          "source": "The Verge",
+          "title": "Show HN: Reverse-engineering web apps into agent tools",
+          "link": "https://news.ycombinator.com/item?id=48847834",
+          "source": "Hacker News",
           "category": "tech",
-          "snippet": "A few hours after checking into a hotel in New York City, David Streever woke up to a call from the front desk saying someone was looking for him. Streever had just landed on a return trip from Finland, where he'd vacationed with his…",
-          "published": "2026-07-09T13:45:00.000Z"
+          "snippet": "Comments",
+          "published": "2026-07-09T15:45:17.000Z"
         },
         {
-          "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
-          "link": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
+          "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+          "link": "https://www.context.dev",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T15:28:39.000Z"
+        },
+        {
+          "title": "Hy3",
+          "link": "https://hy.tencent.com/research/hy3",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T15:27:48.000Z"
+        },
+        {
+          "title": "How to Write an Email",
+          "link": "https://blog.dannycastonguay.com/how-to-write-an-email/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T15:26:52.000Z"
+        },
+        {
+          "title": "A possible future for Damn Interesting",
+          "link": "https://www.damninteresting.com/a-possible-future/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T15:25:25.000Z"
+        },
+        {
+          "title": "Opinionated and Easy Pi.dev Configuration",
+          "link": "https://lazypi.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T15:19:33.000Z"
+        },
+        {
+          "title": "Coordination Without Consolidation: On Systems of States [pdf]",
+          "link": "https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T15:19:23.000Z"
+        },
+        {
+          "title": "TLS certificates for internal services done right",
+          "link": "https://tuxnet.dev/posts/tls-for-internal-services/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T14:57:02.000Z"
+        },
+        {
+          "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
+          "link": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "State agency's delay could mean free robotaxi rides in company’s new Ojai vehicle for a few months.",
-          "published": "2026-07-09T13:31:00.000Z"
+          "snippet": "\"You promised me that you would never take power in your name.\"",
+          "published": "2026-07-09T14:45:44.000Z"
         },
         {
-          "title": "Say hello to Claude Wrapped",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude…",
-          "published": "2026-07-09T13:30:00.000Z"
-        },
-        {
-          "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
-          "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+          "title": "Why we're moving off Cloudflare Durable Objects",
+          "link": "https://usewire.io/engineering/why-were-moving-wire-off-cloudflare-durable-objects/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-09T13:29:31.000Z"
+          "published": "2026-07-09T14:45:04.000Z"
         },
         {
-          "title": "Syria's solar boom is redefining Middle East's energy model",
-          "link": "https://www.thenationalnews.com/business/energy/2026/07/06/syrias-solar-boom-is-redefining-middle-easts-energy-model/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T13:27:05.000Z"
-        },
-        {
-          "title": "The Glass Backbone: Why the Army's Logistics Will Break in the Next War",
-          "link": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T13:24:43.000Z"
-        },
-        {
-          "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-          "link": "https://github.com/ronak-create/FableCut",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T13:23:10.000Z"
-        },
-        {
-          "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
-          "link": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T13:19:02.000Z"
-        },
-        {
-          "title": "Character.AI wants a piece of the microdrama pie",
-          "link": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be…",
-          "published": "2026-07-09T13:11:53.000Z"
-        },
-        {
-          "title": "Just Pay the Subscription",
-          "link": "https://www.uncommonapps.nyc/p/just-pay-the-subscription",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T13:10:18.000Z"
-        },
-        {
-          "title": "The newest entrant in the military’s launch competition isn't actually a launch company",
-          "link": "https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/",
+          "title": "Ruf debuts new flat-eight engine at Goodwood",
+          "link": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "\"I think it's fair to say that Phase 3 did not contemplate this.\"",
-          "published": "2026-07-09T13:08:27.000Z"
+          "snippet": "The 4.8 L eight-cylinder generates more than 1,000 hp and 1,000 Nm, Ruf says.",
+          "published": "2026-07-09T14:32:48.000Z"
         },
         {
-          "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-          "link": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+          "title": "Show HN: Analog Watch",
+          "link": "https://analog.watch",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T14:30:54.000Z"
+        },
+        {
+          "title": "Sonos Ace wireless headphones are steeply discounted",
+          "link": "https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually…",
-          "published": "2026-07-09T13:00:00.000Z"
+          "snippet": "If you’re looking for a discount on a great pair of active noise-canceling headphones for your summer adventures (even if they’re indoors), you’re in luck. The Sonos Ace headphones in black are currently on sale for $279 (usually $399) at…",
+          "published": "2026-07-09T14:30:00.000Z"
         },
         {
-          "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
-          "link": "https://arcaide.foo",
+          "title": "New open access book on history of computers and politics",
+          "link": "https://mitpress.mit.edu/9780262053198/simpolitics/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-09T12:59:44.000Z"
+          "published": "2026-07-09T14:20:14.000Z"
         },
         {
-          "title": "Show HN: 18 Words",
-          "link": "https://18words.com/",
+          "title": "PostHog Open Sourced",
+          "link": "https://github.com/PostHog/posthog-foss",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-09T12:48:52.000Z"
+          "published": "2026-07-09T14:17:40.000Z"
         },
         {
-          "title": "How Version Control Will Evolve for the Agent Boom",
-          "link": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
+          "title": "No leap second will be introduced at the end of December 2026",
+          "link": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-09T12:20:41.000Z"
-        },
-        {
-          "title": "TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time",
-          "link": "https://news.ycombinator.com/item?id=48844517",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T12:01:17.000Z"
-        },
-        {
-          "title": "SpaceX is on track for record-setting Starlink deployments",
-          "link": "https://www.theverge.com/news/963196/spacex-is-on-track-for-record-setting-starlink-deployments",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "SpaceX is currently ahead of last year's record-setting pace for Starlink satellite deployments. SpaceX launched 1,589 Starlink satellites into low-Earth orbit in the first half of 2026, according to launch data compiled by Jonathan…",
-          "published": "2026-07-09T11:51:31.000Z"
-        },
-        {
-          "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
-          "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T11:03:54.000Z"
-        },
-        {
-          "title": "Payloads used to dictate the terms of launch. That's finally changing.",
-          "link": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"The Starship Pez dispenser demonstrates very smart industrial design and scale.\"",
-          "published": "2026-07-09T11:00:26.000Z"
+          "published": "2026-07-09T14:16:34.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Patience Is Not Passive",
+          "link": "https://abovethelaw.com/2026/07/patience-is-not-passive/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "You can be direct without being blunt. The post Patience Is Not Passive appeared first on Above the Law .",
+          "published": "2026-07-09T17:08:25.000Z"
+        },
+        {
+          "title": "Job Of The Month: Senior Title Insurance Underwriting Counsel",
+          "link": "https://abovethelaw.com/2026/07/job-of-the-month-senior-title-insurance-underwriting-counsel/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] In-house, hybrid roles in Stamford, Connecticut, and Tarrytown, New York. The post Job Of The Month: Senior Title Insurance Underwriting Counsel appeared first on Above the Law .",
+          "published": "2026-07-09T16:14:00.000Z"
+        },
+        {
+          "title": "Norm Ai Hits Unicorn Status With $120M Series C At $1.2 Billion Valuation",
+          "link": "https://www.lawnext.com/2026/07/norm-ai-hits-unicorn-status-with-120m-series-c-at-1-2-billion-valuation.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The New York-based legal and compliance AI company joins a growing but still select club of legal AI companies valued at $1 billion or more. The post Norm Ai Hits Unicorn Status With $120M Series C At $1.2 Billion Valuation appeared first…",
+          "published": "2026-07-09T15:32:50.000Z"
+        },
+        {
+          "title": "Fractional General Counsel: A Win-Win Proposition For Certain Clients, And Certain Lawyers",
+          "link": "https://abovethelaw.com/2026/07/fractional-general-counsel-a-win-win-proposition-for-certain-clients-and-certain-lawyers/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "With the advent of AI, it becomes much more realistic for a fractional GC concept to work. The post Fractional General Counsel: A Win-Win Proposition For Certain Clients, And Certain Lawyers appeared first on Above the Law .",
+          "published": "2026-07-09T14:51:37.000Z"
+        },
         {
           "title": "Elevance Sues CMS Over Star Ratings, Seeks Same Recalculation Applied To Clover",
           "link": "https://medcitynews.com/2026/07/elevance-sues-star-ratings/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "'We’re going to be taking the sanctions off,' the president said. 'We’re going to be taking the sanctions off. It’s time to do that. Ok? We don’t want to sanction friends. It’s very simple.' The post F-35 For Turkey? Trump Says…",
           "published": "2026-07-08T14:03:00.000Z"
-        },
-        {
-          "title": "Revisiting which Supreme Court cases are actually the most important",
-          "link": "https://www.scotusblog.com/2026/07/revisiting-which-supreme-court-cases-are-actually-the-most-important/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. In a previous piece for SCOTUSblog, I suggested a somewhat unconventional way to…",
-          "published": "2026-07-08T14:00:00.000Z"
-        },
-        {
-          "title": "The Supreme Court’s quiet coup",
-          "link": "https://www.scotusblog.com/2026/07/the-supreme-courts-quiet-coup/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. Every day, Americans are witnessing the most significant expansion of…",
-          "published": "2026-07-08T13:30:00.000Z"
-        },
-        {
-          "title": "Kagan and Barrett to testify before Congress",
-          "link": "https://www.scotusblog.com/2026/07/kagan-and-barrett-to-testify-before-congress/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, Trump has asked the court to reconsider his appeal of a $5 million jury award.",
-          "published": "2026-07-08T13:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 07.08.26",
-          "link": "https://abovethelaw.com/2026/07/morning-docket-07-08-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Yale Law School is working behind the scenes to convince Yale University to stop trying to cut a deal with the Trump administration. [ NY Times ] * Latham cleaning up on AI power demands. [ Bloomberg Law News ] * Former Wisconsin judge…",
-          "published": "2026-07-08T12:54:00.000Z"
         }
       ]
     }
