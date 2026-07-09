@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-09T05:34:25.558Z",
+  "updated": "2026-07-09T08:51:21.746Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Life of Sizewell B extended by another 20 years",
+          "link": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The power plant was due to reach the end of its life in 2035 but will now continue until 2055.",
+          "published": "2026-07-09T05:27:18.000Z"
+        },
+        {
+          "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
+          "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
+          "published": "2026-07-09T05:04:17.000Z"
+        },
         {
           "title": "Wealthy AI workers send San Francisco house prices soaring",
           "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
@@ -25,7 +41,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The insurance cost of electric vehicles is still putting many would-be buyers. So what can be done about it?",
+          "snippet": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
           "published": "2026-07-08T23:09:55.000Z"
         },
         {
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "The capital raise occurred during extended hours trading following Rivian shares increasing 8.1% on Monday after increasing 19.2% last week.",
           "published": "2026-07-07T20:21:47.000Z"
-        },
-        {
-          "title": "Far more real estate agents now report seeing a balanced market, CNBC Housing Market Survey finds",
-          "link": "https://www.cnbc.com/2026/07/07/cnbc-housing-market-survey-balanced-market.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Agents who reported at least one price cut to active listings dropped dramatically from prior surveys.",
-          "published": "2026-07-07T16:03:50.000Z"
-        },
-        {
-          "title": "Stellantis to sell small Fiat Topolino EV for $13,995 in U.S.",
-          "link": "https://www.cnbc.com/2026/07/07/stellantis-fiat-topolino-ev.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "While the Topolino resembles a small car such as the Fiat 500, the EV is actually a quadricycle that functions more like a golf cart.",
-          "published": "2026-07-07T15:37:26.000Z"
         }
       ]
     },
@@ -202,36 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+          "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T08:22:52.000Z"
+        },
+        {
+          "title": "CollectWise (YC F24) Is Hiring",
+          "link": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T07:00:43.000Z"
+        },
+        {
+          "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+          "link": "https://github.com/malisper/pgrust",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T06:18:19.000Z"
+        },
+        {
+          "title": "How Donkey Kong Toppled Atari",
+          "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T05:34:44.000Z"
+        },
+        {
           "title": "Spider venom kills varroa mites without harming honeybees",
           "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-09T05:14:45.000Z"
-        },
-        {
-          "title": "What's slowing down the AI buildout",
-          "link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T03:26:02.000Z"
-        },
-        {
-          "title": "Ergo: Long Form Philosophy Lectures",
-          "link": "https://ergo.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T03:08:32.000Z"
-        },
-        {
-          "title": "I think I have LLM burnout",
-          "link": "https://www.alecscollon.com/blog/llm-burnout/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T01:56:28.000Z"
         },
         {
           "title": "Remote Attestation",
@@ -256,14 +264,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-08T23:37:43.000Z"
-        },
-        {
-          "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-          "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T23:27:14.000Z"
         },
         {
           "title": "Meta is reportedly working on smart glasses that would be recording all the time",
