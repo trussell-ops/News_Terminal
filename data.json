@@ -1,16 +1,24 @@
 {
-  "updated": "2026-07-09T08:51:21.746Z",
+  "updated": "2026-07-09T11:50:31.331Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Life of Sizewell B extended by another 20 years",
-          "link": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
+          "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend",
+          "link": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.",
+          "published": "2026-07-09T11:44:00.000Z"
+        },
+        {
+          "title": "Welfare cuts: What's been happening with Pip and universal credit?",
+          "link": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The power plant was due to reach the end of its life in 2035 but will now continue until 2055.",
-          "published": "2026-07-09T05:27:18.000Z"
+          "snippet": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
+          "published": "2026-07-09T11:11:18.000Z"
         },
         {
           "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
@@ -18,7 +26,23 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
-          "published": "2026-07-09T05:04:17.000Z"
+          "published": "2026-07-09T10:20:40.000Z"
+        },
+        {
+          "title": "How can I get air conditioning in my home and how much does it cost?",
+          "link": "https://www.bbc.co.uk/news/articles/c2ey1p0jnmxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "As summers in the UK get hotter, is it time for air conditioning to become a permanent feature in most homes?",
+          "published": "2026-07-09T10:00:08.000Z"
+        },
+        {
+          "title": "Life of Sizewell B extended by another 20 years",
+          "link": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The power plant was due to reach the end of its life in 2035 but will now continue until 2055.",
+          "published": "2026-07-09T05:27:18.000Z"
         },
         {
           "title": "Wealthy AI workers send San Francisco house prices soaring",
@@ -43,14 +67,6 @@
           "category": "markets",
           "snippet": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
           "published": "2026-07-08T23:09:55.000Z"
-        },
-        {
-          "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend",
-          "link": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.",
-          "published": "2026-07-08T21:32:49.000Z"
         },
         {
           "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
@@ -179,28 +195,44 @@
           "category": "markets",
           "snippet": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
           "published": "2026-07-08T01:04:44.000Z"
-        },
-        {
-          "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
-          "link": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
-          "published": "2026-07-07T23:47:33.000Z"
-        },
-        {
-          "title": "Rivian stock falls 18% as company sells 75 million shares to raise capital",
-          "link": "https://www.cnbc.com/2026/07/07/rivian-stock-rivn-capital-raise.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The capital raise occurred during extended hours trading following Rivian shares increasing 8.1% on Monday after increasing 19.2% last week.",
-          "published": "2026-07-07T20:21:47.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+          "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T11:03:54.000Z"
+        },
+        {
+          "title": "Payloads used to dictate the terms of launch. That's finally changing.",
+          "link": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"The Starship Pez dispenser demonstrates very smart industrial design and scale.\"",
+          "published": "2026-07-09T11:00:26.000Z"
+        },
+        {
+          "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+          "link": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T10:02:33.000Z"
+        },
+        {
+          "title": "My Thoughts on the Bun Rust Rewrite",
+          "link": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T09:47:28.000Z"
+        },
         {
           "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
           "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
@@ -218,14 +250,6 @@
           "published": "2026-07-09T07:00:43.000Z"
         },
         {
-          "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-          "link": "https://github.com/malisper/pgrust",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T06:18:19.000Z"
-        },
-        {
           "title": "How Donkey Kong Toppled Atari",
           "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
           "source": "Hacker News",
@@ -240,22 +264,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-09T05:14:45.000Z"
-        },
-        {
-          "title": "Remote Attestation",
-          "link": "https://www.liamcvw.com/p/remote-attestation",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T00:32:33.000Z"
-        },
-        {
-          "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-          "link": "https://mira-wm.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T00:27:57.000Z"
         },
         {
           "title": "John Deere owners will get the right to repair equipment under FTC settlement",
@@ -312,14 +320,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-08T20:37:29.000Z"
-        },
-        {
-          "title": "FAANG Simulator",
-          "link": "https://www.abeyk.com/escape-the-rat-race/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T20:05:42.000Z"
         },
         {
           "title": "Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones",
