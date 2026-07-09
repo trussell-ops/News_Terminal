@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T01:07:39.061Z",
+  "updated": "2026-07-09T05:34:25.558Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Spider venom kills varroa mites without harming honeybees",
+          "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T05:14:45.000Z"
+        },
+        {
+          "title": "What's slowing down the AI buildout",
+          "link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T03:26:02.000Z"
+        },
+        {
+          "title": "Ergo: Long Form Philosophy Lectures",
+          "link": "https://ergo.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T03:08:32.000Z"
+        },
+        {
+          "title": "I think I have LLM burnout",
+          "link": "https://www.alecscollon.com/blog/llm-burnout/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T01:56:28.000Z"
+        },
+        {
           "title": "Remote Attestation",
           "link": "https://www.liamcvw.com/p/remote-attestation",
           "source": "Hacker News",
@@ -250,20 +282,20 @@
           "published": "2026-07-08T21:49:59.000Z"
         },
         {
-          "title": "Open Source Barware: free, local-first bar inventory software (GPLv3)",
-          "link": "https://opensourcebarware.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T21:43:07.000Z"
-        },
-        {
           "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
           "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "AI cheating leads to \"a failed society,\" professor says.",
           "published": "2026-07-08T21:42:44.000Z"
+        },
+        {
+          "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+          "link": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-08T21:30:09.000Z"
         },
         {
           "title": "Separating signal from noise in coding evaluations",
@@ -346,14 +378,6 @@
           "published": "2026-07-08T18:50:27.000Z"
         },
         {
-          "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
-          "link": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T18:21:53.000Z"
-        },
-        {
           "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
           "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
           "source": "Ars Technica",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "The \"not interested\" feature is your friend, but users must intentionally and constantly curate their FYPs",
           "published": "2026-07-08T18:00:49.000Z"
-        },
-        {
-          "title": "Grok 4.5",
-          "link": "https://x.ai/news/grok-4-5",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T18:00:32.000Z"
-        },
-        {
-          "title": "America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph",
-          "link": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "When searching for an affordable electric vehicle these days, there are always tradeoffs. How much range are you willing to sacrifice, how much leg room and storage space, how many features, in the pursuit of that magic sticker price that…",
-          "published": "2026-07-08T17:57:53.000Z"
-        },
-        {
-          "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-          "link": "https://microsoft.github.io/flint-chart/#/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-08T17:46:12.000Z"
         }
       ]
     },
