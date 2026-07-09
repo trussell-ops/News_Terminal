@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-09T17:12:03.294Z",
+  "updated": "2026-07-09T19:04:34.982Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Florida's Palm Beach airport renamed for Trump",
+          "link": "https://www.cnbc.com/2026/07/09/florida-airport-palm-beach-internationa-donald-j-trump.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Palm Beach International Airport is now called the Donald J. Trump International Airport, the FAA said Thursday.",
+          "published": "2026-07-09T18:27:22.000Z"
+        },
+        {
+          "title": "Interest rates may need to rise this year, says Bank of England economist",
+          "link": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Chief economist at the Bank of England says slower growth and inflationary pressures mean rate rise needed",
+          "published": "2026-07-09T17:37:11.000Z"
+        },
         {
           "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
           "link": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
@@ -179,28 +195,36 @@
           "category": "markets",
           "snippet": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
           "published": "2026-07-08T09:43:36.000Z"
-        },
-        {
-          "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-          "link": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
-          "published": "2026-07-08T09:31:56.000Z"
-        },
-        {
-          "title": "'You have to say no': Families struggling with holiday food costs",
-          "link": "https://www.bbc.co.uk/news/articles/ceqder3dydxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Susan Lilley, a single mother of two, said the weekly shop has become one of her biggest financial worries.",
-          "published": "2026-07-08T08:18:24.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+          "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T18:29:41.000Z"
+        },
+        {
+          "title": "Google s Nest Thermostat has hit its best price of the year",
+          "link": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "If you re looking for a relatively affordable way to cut down on cooling costs, Google s Nest Thermostat can help. It’s packed with smart controls and energy-saving features, and right now it’s on sale in white for $79 ($50 off), which is…",
+          "published": "2026-07-09T17:33:46.000Z"
+        },
+        {
+          "title": "How should group chats work in decentralized systems?",
+          "link": "https://marindedic.com/groups/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T17:15:47.000Z"
+        },
         {
           "title": "GPT-5.6",
           "link": "https://openai.com/index/gpt-5-6/",
@@ -234,12 +258,20 @@
           "published": "2026-07-09T17:00:00.000Z"
         },
         {
-          "title": "OpenAI rolls out GPT-5.6 after government green light — and announces ‘ChatGPT Work’",
+          "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
           "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's green light for a…",
+          "snippet": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a…",
           "published": "2026-07-09T17:00:00.000Z"
+        },
+        {
+          "title": "Show HN: Devthropology – Better Insights for GitHub Repos",
+          "link": "https://devthropology.com/demo",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-09T16:47:53.000Z"
         },
         {
           "title": "Auditory and spontaneous movement responses to music over first postnatal year",
@@ -250,14 +282,6 @@
           "published": "2026-07-09T16:00:58.000Z"
         },
         {
-          "title": "AI content is everywhere on social media, especially LinkedIn",
-          "link": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T15:50:09.000Z"
-        },
-        {
           "title": "Schlage’s Sense Pro unlocks the door so I don’t have to",
           "link": "https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock",
           "source": "The Verge",
@@ -266,12 +290,12 @@
           "published": "2026-07-09T15:45:46.000Z"
         },
         {
-          "title": "Show HN: Reverse-engineering web apps into agent tools",
-          "link": "https://news.ycombinator.com/item?id=48847834",
-          "source": "Hacker News",
+          "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
+          "link": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T15:45:17.000Z"
+          "snippet": "Oddly, it wasn't the first time this had happened to the man.",
+          "published": "2026-07-09T15:33:41.000Z"
         },
         {
           "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
@@ -314,12 +338,12 @@
           "published": "2026-07-09T15:19:33.000Z"
         },
         {
-          "title": "Coordination Without Consolidation: On Systems of States [pdf]",
-          "link": "https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf",
+          "title": "Ways to think about token pricing",
+          "link": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-09T15:19:23.000Z"
+          "published": "2026-07-09T15:06:52.000Z"
         },
         {
           "title": "TLS certificates for internal services done right",
@@ -336,14 +360,6 @@
           "category": "tech",
           "snippet": "\"You promised me that you would never take power in your name.\"",
           "published": "2026-07-09T14:45:44.000Z"
-        },
-        {
-          "title": "Why we're moving off Cloudflare Durable Objects",
-          "link": "https://usewire.io/engineering/why-were-moving-wire-off-cloudflare-durable-objects/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T14:45:04.000Z"
         },
         {
           "title": "Ruf debuts new flat-eight engine at Goodwood",
@@ -376,28 +392,36 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-09T14:20:14.000Z"
-        },
-        {
-          "title": "PostHog Open Sourced",
-          "link": "https://github.com/PostHog/posthog-foss",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T14:17:40.000Z"
-        },
-        {
-          "title": "No leap second will be introduced at the end of December 2026",
-          "link": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-09T14:16:34.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "At SCOTUSblog’s term-in-review event, National Legal Director of the ACLU Cecillia Wang speaks about arguing birthright citizenship, the term in general, and what’s next on the organization’s docket",
+          "link": "https://www.scotusblog.com/2026/07/at-scotusblogs-term-in-review-event-national-legal-director-of-the-aclu-cecillia-wang-speaks-abo/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Cecillia Wang, the national legal director of the American Civil Liberties Union, called her April 1 argument in Trump v. Barbara , the challenge to President Donald Trump’s executive order seeking to end the guarantee of U.S. citizenship…",
+          "published": "2026-07-09T18:50:00.000Z"
+        },
+        {
+          "title": "The Best Law Schools In The World (2026)",
+          "link": "https://abovethelaw.com/2026/07/the-best-law-schools-in-the-world-2026/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Is your law school one of the best in the world? Find out here. The post The Best Law Schools In The World (2026) appeared first on Above the Law .",
+          "published": "2026-07-09T18:27:00.000Z"
+        },
+        {
+          "title": "Agentic AI For Forensics Investigations Is Fast, Auditable, And About To Bloody Daubert",
+          "link": "https://abovethelaw.com/2026/07/agentic-ai-for-forensics-investigations-is-fast-auditable-and-about-to-bloody-daubert/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Exterro's ARMOUR for FTK brings agentic AI to digital forensics. The post Agentic AI For Forensics Investigations Is Fast, Auditable, And About To Bloody Daubert appeared first on Above the Law .",
+          "published": "2026-07-09T17:51:38.000Z"
+        },
         {
           "title": "Patience Is Not Passive",
           "link": "https://abovethelaw.com/2026/07/patience-is-not-passive/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "The new timekeeping system is 'similar' to the old one — just not similar enough, apparently. The post The Downside Of A Biglaw Merger: Legacy Cadwalader Timekeepers Get A Not-So-Fun Homework Assignment appeared first on Above the Law .",
           "published": "2026-07-08T16:12:00.000Z"
-        },
-        {
-          "title": "Webinar: Why Contract Ownership Is Your Most Expensive Blind Spot",
-          "link": "https://abovethelaw.com/2026/07/webinar-why-contract-ownership-is-your-most-expensive-blind-spot/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] Join us for this webinar as the group will dig into what the new global data reveals about why contract ownership remains Legal's most expensive blind spot. The post Webinar: Why Contract Ownership Is Your Most Expensive Blind…",
-          "published": "2026-07-08T15:34:00.000Z"
-        },
-        {
-          "title": "The Reality Of Partnership No One Says Out Loud",
-          "link": "https://abovethelaw.com/2026/07/the-reality-of-partnership-no-one-says-out-loud/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "You'll feel it before you hear it. The post The Reality Of Partnership No One Says Out Loud appeared first on Above the Law .",
-          "published": "2026-07-08T14:49:44.000Z"
-        },
-        {
-          "title": "F-35 For Turkey? Trump Says ‘Certainly, We’ll Consider’ Reversing Ban",
-          "link": "https://breakingdefense.com/2026/07/f-35-for-turkey-trump-says-certainly-well-consider-reversing-ban/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "'We’re going to be taking the sanctions off,' the president said. 'We’re going to be taking the sanctions off. It’s time to do that. Ok? We don’t want to sanction friends. It’s very simple.' The post F-35 For Turkey? Trump Says…",
-          "published": "2026-07-08T14:03:00.000Z"
         }
       ]
     }
