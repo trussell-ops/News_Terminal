@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T17:15:34.326Z",
+  "updated": "2026-07-10T18:55:29.338Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -9,7 +9,7 @@
           "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
+          "snippet": "The shares surged as much as 17% in their Nasdaq trading debut on Friday following the record-breaking foreign listing.",
           "published": "2026-07-10T16:42:35.000Z"
         },
         {
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "New York City to become first in US to ban deceptive subscription practices",
+          "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-10T18:26:24.000Z"
+        },
+        {
+          "title": "War Atlas: An interactive cartography of every named war in human history",
+          "link": "https://waratlas.org",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-10T17:52:48.000Z"
+        },
+        {
+          "title": "Bun vs. Deno vs. Node.js 2026: Real Benchmarks Mislead",
+          "link": "https://byteiota.com/bun-vs-deno-vs-node-js-2026-real-benchmarks-mislead/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-10T17:47:56.000Z"
+        },
+        {
+          "title": "Nvidia s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
+          "link": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's…",
+          "published": "2026-07-10T17:31:35.000Z"
+        },
+        {
           "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
           "link": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on artists that are new…",
           "published": "2026-07-10T17:02:13.000Z"
+        },
+        {
+          "title": "Anyone else get a vague GitHub shakedown notice?",
+          "link": "https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-10T16:57:35.000Z"
         },
         {
           "title": "The tech of 'Terminator 2' – an oral history (2017)",
@@ -218,7 +258,7 @@
           "published": "2026-07-10T16:48:41.000Z"
         },
         {
-          "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material",
+          "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
           "link": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
           "source": "Hacker News",
           "category": "tech",
@@ -232,6 +272,14 @@
           "category": "tech",
           "snippet": "Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe a tad desperate.…",
           "published": "2026-07-10T16:29:50.000Z"
+        },
+        {
+          "title": "Hands-On with the AMD Ryzen AI Halo",
+          "link": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-10T16:06:38.000Z"
         },
         {
           "title": "QuadRF can spot drones and see WiFi through my wall",
@@ -344,60 +392,28 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-10T13:33:00.000Z"
-        },
-        {
-          "title": "Successful Companies Go Blind",
-          "link": "https://ianreppel.org/how-successful-companies-go-blind/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-10T13:31:08.000Z"
-        },
-        {
-          "title": "Would you host part of an AI data center in your home?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new…",
-          "published": "2026-07-10T13:20:25.000Z"
-        },
-        {
-          "title": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
-          "link": "https://github.com/robertsdotpm/runloom",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-10T13:07:38.000Z"
-        },
-        {
-          "title": "Xreal s new AR glasses are way cheaper and almost just right",
-          "link": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "I love it when a company challenges itself to make a cheaper version of a beloved product. Xreal's $299 A01 Plus is a stripped-down version of its $449 1S that's light on features but with just enough of the 1S' best qualities. These AR…",
-          "published": "2026-07-10T13:00:00.000Z"
-        },
-        {
-          "title": "Laylo (YC S20) Is Hiring a Head of Finance",
-          "link": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-10T12:00:36.000Z"
-        },
-        {
-          "title": "Late Bronze Age Collapse",
-          "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-10T11:59:55.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Trump Demands SCOTUS Reverse Birthright Red Card",
+          "link": "https://abovethelaw.com/2026/07/trump-demands-scotus-reverse-birthright-red-card/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "FIFA at One First The post Trump Demands SCOTUS Reverse Birthright Red Card appeared first on Above the Law .",
+          "published": "2026-07-10T18:32:00.000Z"
+        },
+        {
+          "title": "Associate Compensation Scorecard: Are Biglaw Firms On Vacation When It Comes To Paying Associates?",
+          "link": "https://abovethelaw.com/2026/06/associate-compensation-scorecard-the-2026-summer-of-salary-increases/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Boutique firms are winning the salary wars this time around. How much longer can Biglaw wait? The post Associate Compensation Scorecard: Are Biglaw Firms On Vacation When It Comes To Paying Associates? appeared first on Above the Law .",
+          "published": "2026-07-10T17:44:10.000Z"
+        },
         {
           "title": "University Of Chicago Law School Takes Away Laptops And Doubles Down On Socrates",
           "link": "https://abovethelaw.com/2026/07/university-of-chicago-law-school-takes-away-laptops-and-doubles-down-on-socrates/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "You can be direct without being blunt. The post Patience Is Not Passive appeared first on Above the Law .",
           "published": "2026-07-09T17:08:25.000Z"
-        },
-        {
-          "title": "Job Of The Month: Senior Title Insurance Underwriting Counsel",
-          "link": "https://abovethelaw.com/2026/07/job-of-the-month-senior-title-insurance-underwriting-counsel/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] In-house, hybrid roles in Stamford, Connecticut, and Tarrytown, New York. The post Job Of The Month: Senior Title Insurance Underwriting Counsel appeared first on Above the Law .",
-          "published": "2026-07-09T16:14:00.000Z"
-        },
-        {
-          "title": "Norm Ai Hits Unicorn Status With $120M Series C At $1.2 Billion Valuation",
-          "link": "https://www.lawnext.com/2026/07/norm-ai-hits-unicorn-status-with-120m-series-c-at-1-2-billion-valuation.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The New York-based legal and compliance AI company joins a growing but still select club of legal AI companies valued at $1 billion or more. The post Norm Ai Hits Unicorn Status With $120M Series C At $1.2 Billion Valuation appeared first…",
-          "published": "2026-07-09T15:32:50.000Z"
         }
       ]
     }
