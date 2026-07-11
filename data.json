@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-11T04:55:09.291Z",
+  "updated": "2026-07-11T07:06:18.949Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "'We've saved 34 tonnes of food and a carpet'",
+          "link": "https://www.bbc.co.uk/news/articles/c5yznlrxeyeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Two community groups say they have welcomed \"record attendances\" and given away many 'random items\".",
+          "published": "2026-07-11T05:48:13.000Z"
+        },
         {
           "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
           "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
@@ -181,14 +189,6 @@
           "published": "2026-07-09T11:29:31.000Z"
         },
         {
-          "title": "Welfare cuts: What's been happening with Pip and universal credit?",
-          "link": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
-          "published": "2026-07-09T11:11:18.000Z"
-        },
-        {
           "title": "Jackdaw boss warns of winter fuel shortage risk if gas field not approved",
           "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -201,6 +201,22 @@
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "What's the best way to do authentication in modern applications",
+          "link": "https://neciudan.dev/most-secure-way-to-store-auth-token",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-11T06:09:33.000Z"
+        },
+        {
+          "title": "The Vintage Beauty of Soviet Control Rooms",
+          "link": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-11T05:19:41.000Z"
+        },
         {
           "title": "No, Flock isn t threatening people for debating surveillance",
           "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's…",
           "published": "2026-07-10T17:31:35.000Z"
-        },
-        {
-          "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
-          "link": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on artists that are new…",
-          "published": "2026-07-10T17:02:13.000Z"
-        },
-        {
-          "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
-          "link": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Dozens of titles too taxing for Steam Deck are still unrated for the new hardware.",
-          "published": "2026-07-10T16:53:31.000Z"
         }
       ]
     },
