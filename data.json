@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T23:49:24.157Z",
+  "updated": "2026-07-11T01:47:05.828Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "FreeCAD in the Browser",
+          "link": "https://magik.net/freecad/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-11T00:44:00.000Z"
+        },
+        {
+          "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
+          "link": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-11T00:43:39.000Z"
+        },
+        {
+          "title": "No, Flock isn t threatening people for debating surveillance",
+          "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received significant backlash…",
+          "published": "2026-07-11T00:10:38.000Z"
+        },
+        {
+          "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+          "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that…",
+          "published": "2026-07-10T23:49:50.000Z"
+        },
+        {
           "title": "Quantum error correction can constantly recalibrate a processor",
           "link": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
           "source": "Ars Technica",
@@ -258,14 +290,6 @@
           "published": "2026-07-10T21:11:18.000Z"
         },
         {
-          "title": "Prismata: Confining cross-site prompt injection in web agents",
-          "link": "https://arxiv.org/abs/2607.08147",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-10T21:03:38.000Z"
-        },
-        {
           "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
           "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
           "source": "Hacker News",
@@ -304,6 +328,14 @@
           "category": "tech",
           "snippet": "Six years in prison for man who \"sold out the very victims he was hired to represent.\"",
           "published": "2026-07-10T19:40:11.000Z"
+        },
+        {
+          "title": "An update on residential proxies and the scraper situation",
+          "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-10T19:38:34.000Z"
         },
         {
           "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers",
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-10T17:51:07.000Z"
-        },
-        {
-          "title": "Nvidia s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-          "link": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's…",
-          "published": "2026-07-10T17:31:35.000Z"
-        },
-        {
-          "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
-          "link": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on artists that are new…",
-          "published": "2026-07-10T17:02:13.000Z"
-        },
-        {
-          "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
-          "link": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Dozens of titles too taxing for Steam Deck are still unrated for the new hardware.",
-          "published": "2026-07-10T16:53:31.000Z"
-        },
-        {
-          "title": "The tech of 'Terminator 2' – an oral history (2017)",
-          "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-10T16:48:41.000Z"
         }
       ]
     },
