@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T17:52:05.220Z",
+  "updated": "2026-07-12T18:51:50.320Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T18:25:51.000Z"
+        },
+        {
+          "title": "Can We Understand How Large Language Models Reason?",
+          "link": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T18:04:41.000Z"
+        },
+        {
+          "title": "Against Usefulness",
+          "link": "https://www.motivenotes.ai/p/against-usefulness",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T17:47:07.000Z"
+        },
+        {
+          "title": "LARP – Revenue infrastructure for serious founders",
+          "link": "https://www.larp.website/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T16:56:41.000Z"
+        },
+        {
           "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
           "link": "https://github.com/hasenj/go-shirei/",
           "source": "Hacker News",
@@ -234,14 +266,6 @@
           "published": "2026-07-12T16:05:29.000Z"
         },
         {
-          "title": "TK, or the secret to effortless writing (2024)",
-          "link": "https://atthis.link/blog/2024/49629.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T15:58:42.000Z"
-        },
-        {
           "title": "Why study Diophantine equations?",
           "link": "https://hidden-phenomena.com/articles/modular",
           "source": "Hacker News",
@@ -266,7 +290,7 @@
           "published": "2026-07-12T15:35:36.000Z"
         },
         {
-          "title": "A no-brainer for protecting your brain",
+          "title": "The shingles vaccine may reduce the risk of dementia",
           "link": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
           "source": "Hacker News",
           "category": "tech",
@@ -274,7 +298,7 @@
           "published": "2026-07-12T15:23:59.000Z"
         },
         {
-          "title": "Don't You Mean Extinct?",
+          "title": "Don't you mean extinct?",
           "link": "https://fabiensanglard.net/extinct/index.html",
           "source": "Hacker News",
           "category": "tech",
@@ -306,22 +330,6 @@
           "published": "2026-07-12T14:32:00.000Z"
         },
         {
-          "title": "The Lunduke Computer Operating System",
-          "link": "https://github.com/BryanLunduke/LCOS",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T14:15:13.000Z"
-        },
-        {
-          "title": "Show HN: Kurvengefahr – browser CAD&#x2F;CAM for pen plotters",
-          "link": "https://kurvengefahr.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T14:09:23.000Z"
-        },
-        {
           "title": "Less is more with the Oura Ring 5",
           "link": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
           "source": "The Verge",
@@ -330,28 +338,12 @@
           "published": "2026-07-12T14:00:00.000Z"
         },
         {
-          "title": "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
-          "link": "https://github.com/sshwarts/skillscript",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T13:34:00.000Z"
-        },
-        {
-          "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+          "title": "AI boosts research careers but narrow the span of ideas explored: study",
           "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-12T13:26:13.000Z"
-        },
-        {
-          "title": "Gina Gallery of International Naive Art",
-          "link": "https://www.ginagallery.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T13:18:34.000Z"
         },
         {
           "title": "Blue Prince became a bonding — and learning — experience for my family",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "New climate evidence adds context to these long voyages.",
           "published": "2026-07-12T11:12:19.000Z"
+        },
+        {
+          "title": "Old and new apps, via modern coding agents",
+          "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T11:09:42.000Z"
         }
       ]
     },
