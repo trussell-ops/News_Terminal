@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T07:39:20.350Z",
+  "updated": "2026-07-12T09:43:20.802Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -19,6 +19,14 @@
           "category": "markets",
           "snippet": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
           "published": "2026-07-12T05:00:15.000Z"
+        },
+        {
+          "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
+          "link": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM.",
+          "published": "2026-07-11T12:00:16.000Z"
         },
         {
           "title": "A tiny GLP-1 implant is the latest bet to help patients maintain their weight loss",
@@ -187,28 +195,12 @@
           "category": "markets",
           "snippet": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
           "published": "2026-07-09T14:41:54.000Z"
-        },
-        {
-          "title": "PepsiCo earnings miss estimates as U.S. consumers tighten their budgets",
-          "link": "https://www.cnbc.com/2026/07/09/pepsico-pep-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "PepsiCo reported weaker-than-expected quarterly earnings despite strong international demand.",
-          "published": "2026-07-09T14:01:00.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
-        {
-          "title": "6× faster binary search: from compiled code to mechanical sympathy",
-          "link": "https://pythonspeed.com/articles/branchless-binary-search/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T07:00:24.000Z"
-        },
         {
           "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
           "link": "https://github.com/cosmtrek/mindwalk",
@@ -250,22 +242,6 @@
           "published": "2026-07-12T01:59:35.000Z"
         },
         {
-          "title": "A Erlang style pure Scheme Webserver and further",
-          "link": "https://igropyr.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T01:03:29.000Z"
-        },
-        {
-          "title": "A pure scheme web programming tool",
-          "link": "https://goeteia.dev",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T00:57:18.000Z"
-        },
-        {
           "title": "A dock that wakes up reliably",
           "link": "https://fabiensanglard.net/tb4/index.html",
           "source": "Hacker News",
@@ -274,20 +250,20 @@
           "published": "2026-07-12T00:48:10.000Z"
         },
         {
+          "title": "Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid",
+          "link": "https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T00:38:02.000Z"
+        },
+        {
           "title": "How Doctors die. It’s not like the rest of us (2016)",
           "link": "https://archive.cancerworld.net/featured/how-doctors-die/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-11T23:15:06.000Z"
-        },
-        {
-          "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-          "link": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T22:54:06.000Z"
         },
         {
           "title": "Mesh LLM: distributed AI computing on iroh",
@@ -354,6 +330,14 @@
           "published": "2026-07-11T16:33:42.000Z"
         },
         {
+          "title": "Modern decor may be straining people's brains",
+          "link": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-11T16:28:48.000Z"
+        },
+        {
           "title": "We scaled PgBouncer to 4x throughput",
           "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
           "source": "Hacker News",
@@ -392,6 +376,22 @@
           "category": "tech",
           "snippet": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will…",
           "published": "2026-07-11T14:18:33.000Z"
+        },
+        {
+          "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+          "link": "https://shipthatcode.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-11T13:40:27.000Z"
+        },
+        {
+          "title": "ICE are heavily armed killers. They’re also huge losers",
+          "link": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of…",
+          "published": "2026-07-11T13:00:00.000Z"
         }
       ]
     },
