@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-12T01:49:15.651Z",
+  "updated": "2026-07-12T05:18:14.602Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+          "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+          "published": "2026-07-12T05:00:15.000Z"
+        },
         {
           "title": "A tiny GLP-1 implant is the latest bet to help patients maintain their weight loss",
           "link": "https://www.cnbc.com/2026/07/11/glp-1-implant-from-vivani-medical-aims-to-help-patients-stay-on-treatment.html",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "PepsiCo reported weaker-than-expected quarterly earnings despite strong international demand.",
           "published": "2026-07-09T14:01:00.000Z"
-        },
-        {
-          "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend",
-          "link": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.",
-          "published": "2026-07-09T11:44:00.000Z"
         }
       ]
     },
@@ -202,12 +202,60 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Rep. Ro Khanna was detained by Israeli settlers in occupied West Bank",
-          "link": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank",
+          "title": "Why Write Code in 2026",
+          "link": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-12T01:19:47.000Z"
+          "published": "2026-07-12T04:15:27.000Z"
+        },
+        {
+          "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+          "link": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T04:00:14.000Z"
+        },
+        {
+          "title": "Why are US consumers so angry? It's not just high prices",
+          "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T03:10:08.000Z"
+        },
+        {
+          "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+          "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T02:13:46.000Z"
+        },
+        {
+          "title": "The Energetic Costs of Cellular Computation (2012)",
+          "link": "https://arxiv.org/abs/1203.5426",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T01:59:35.000Z"
+        },
+        {
+          "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T01:09:50.000Z"
+        },
+        {
+          "title": "A Erlang style pure Scheme Webserver and further",
+          "link": "https://igropyr.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T01:03:29.000Z"
         },
         {
           "title": "A pure scheme web programming tool",
@@ -242,14 +290,6 @@
           "published": "2026-07-12T00:32:15.000Z"
         },
         {
-          "title": "A public ledger of cloud outages and the SLA credits they trigger",
-          "link": "https://slacreditwatch.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T00:02:27.000Z"
-        },
-        {
           "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
           "link": "https://archive.cancerworld.net/featured/how-doctors-die/",
           "source": "Hacker News",
@@ -258,20 +298,12 @@
           "published": "2026-07-11T23:15:06.000Z"
         },
         {
-          "title": "Weightlifting beats running for blood sugar control, researchers find",
-          "link": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+          "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+          "link": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-11T22:49:42.000Z"
-        },
-        {
-          "title": "The fine print that follows you out the door: non-compete clauses are spreading",
-          "link": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T22:48:00.000Z"
+          "published": "2026-07-11T22:54:06.000Z"
         },
         {
           "title": "Mesh LLM: distributed AI computing on iroh",
@@ -306,36 +338,12 @@
           "published": "2026-07-11T20:07:18.000Z"
         },
         {
-          "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "link": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T20:03:42.000Z"
-        },
-        {
           "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
           "link": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his…",
           "published": "2026-07-11T18:44:12.000Z"
-        },
-        {
-          "title": "How to hide from killer drones",
-          "link": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T18:22:02.000Z"
-        },
-        {
-          "title": "ZeroFS vs. Amazon S3 Files",
-          "link": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T18:15:35.000Z"
         },
         {
           "title": "Prefer strict tables in SQLite",
@@ -354,28 +362,12 @@
           "published": "2026-07-11T17:21:49.000Z"
         },
         {
-          "title": "Female US rower completes historic solo journey from California to Hawaii",
-          "link": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T17:03:23.000Z"
-        },
-        {
           "title": "Sixtyfour (YC P25) Is Hiring",
           "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-11T17:00:35.000Z"
-        },
-        {
-          "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
-          "link": "https://nagylukas.github.io/orbit.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T16:39:02.000Z"
         },
         {
           "title": "UPI: Anatomy of a Payment Transaction",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-11T15:28:02.000Z"
+        },
+        {
+          "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+          "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-11T15:26:12.000Z"
         }
       ]
     },
