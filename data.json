@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T09:43:20.802Z",
+  "updated": "2026-07-12T11:05:01.042Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,20 +202,28 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
+          "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T10:23:25.000Z"
+        },
+        {
+          "title": "Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
+          "link": "https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T10:14:40.000Z"
+        },
+        {
           "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
           "link": "https://github.com/cosmtrek/mindwalk",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-12T05:51:32.000Z"
-        },
-        {
-          "title": "Why Write Code in 2026",
-          "link": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T04:15:27.000Z"
         },
         {
           "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
@@ -256,14 +264,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-12T00:38:02.000Z"
-        },
-        {
-          "title": "How Doctors die. It’s not like the rest of us (2016)",
-          "link": "https://archive.cancerworld.net/featured/how-doctors-die/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T23:15:06.000Z"
         },
         {
           "title": "Mesh LLM: distributed AI computing on iroh",
