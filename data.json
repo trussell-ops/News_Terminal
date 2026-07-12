@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T23:43:44.930Z",
+  "updated": "2026-07-12T01:49:15.651Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,54 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Rep. Ro Khanna was detained by Israeli settlers in occupied West Bank",
+          "link": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T01:19:47.000Z"
+        },
+        {
+          "title": "A pure scheme web programming tool",
+          "link": "https://goeteia.dev",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T00:57:18.000Z"
+        },
+        {
+          "title": "A dock that wakes up reliably",
+          "link": "https://fabiensanglard.net/tb4/index.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T00:48:10.000Z"
+        },
+        {
+          "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+          "link": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T00:35:08.000Z"
+        },
+        {
+          "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
+          "link": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T00:32:15.000Z"
+        },
+        {
+          "title": "A public ledger of cloud outages and the SLA credits they trigger",
+          "link": "https://slacreditwatch.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T00:02:27.000Z"
+        },
+        {
           "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
           "link": "https://archive.cancerworld.net/featured/how-doctors-die/",
           "source": "Hacker News",
@@ -218,20 +266,20 @@
           "published": "2026-07-11T22:49:42.000Z"
         },
         {
+          "title": "The fine print that follows you out the door: non-compete clauses are spreading",
+          "link": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-11T22:48:00.000Z"
+        },
+        {
           "title": "Mesh LLM: distributed AI computing on iroh",
           "link": "https://www.iroh.computer/blog/mesh-llm",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-11T22:38:57.000Z"
-        },
-        {
-          "title": "Stop Telling Me to Ask an LLM",
-          "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T22:28:48.000Z"
         },
         {
           "title": "RISCBoy is an open-source portable games console, designed from scratch",
@@ -258,12 +306,12 @@
           "published": "2026-07-11T20:07:18.000Z"
         },
         {
-          "title": "The Chinese Voice Actor Forced to Prove He's Human",
-          "link": "https://www.sixthtone.com/news/1018753",
+          "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "link": "https://github.com/sqlsure/sqlsure",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-11T19:46:00.000Z"
+          "published": "2026-07-11T20:03:42.000Z"
         },
         {
           "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
@@ -298,14 +346,6 @@
           "published": "2026-07-11T17:33:55.000Z"
         },
         {
-          "title": "Reverse centaurs are the answer to the AI paradox (2025)",
-          "link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T17:23:52.000Z"
-        },
-        {
           "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
           "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
           "source": "Hacker News",
@@ -338,14 +378,6 @@
           "published": "2026-07-11T16:39:02.000Z"
         },
         {
-          "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
-          "link": "https://github.com/skorotkiewicz/earth-game",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T16:37:02.000Z"
-        },
-        {
           "title": "UPI: Anatomy of a Payment Transaction",
           "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
           "source": "Hacker News",
@@ -354,44 +386,12 @@
           "published": "2026-07-11T16:33:42.000Z"
         },
         {
-          "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
-          "link": "https://github.com/swellweb/reame",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T16:27:44.000Z"
-        },
-        {
           "title": "We scaled PgBouncer to 4x throughput",
           "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-11T15:28:02.000Z"
-        },
-        {
-          "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-          "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-11T15:26:12.000Z"
-        },
-        {
-          "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
-          "link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the…",
-          "published": "2026-07-11T15:00:00.000Z"
-        },
-        {
-          "title": "Nintendo’s Talking Flower got a small price cut",
-          "link": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. The toy is based on a character from Super…",
-          "published": "2026-07-11T15:00:00.000Z"
         }
       ]
     },
