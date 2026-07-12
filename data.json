@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T22:11:54.011Z",
+  "updated": "2026-07-12T23:14:26.310Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,46 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Architecture Description Languages [pdf]",
+          "link": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T22:54:07.000Z"
+        },
+        {
+          "title": "Cyberpunk Comics, Manga and Graphic Novels",
+          "link": "https://shellzine.net/cyberpunk-comics/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T22:45:31.000Z"
+        },
+        {
+          "title": "A Speed Limit for Computers",
+          "link": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T22:29:46.000Z"
+        },
+        {
+          "title": "Show HN: Codebase Posters – turn any Git repo into generative poster art",
+          "link": "https://github.com/unable12/codebase-posters",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T22:26:14.000Z"
+        },
+        {
+          "title": "I trained a 113M-parameter earthquake LLM from absolute scratch",
+          "link": "https://github.com/jiazhe868/nanogpt-seis",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T21:58:38.000Z"
+        },
+        {
           "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
           "link": "https://kode.diy",
           "source": "Hacker News",
@@ -210,15 +250,7 @@
           "published": "2026-07-12T21:27:29.000Z"
         },
         {
-          "title": "Ask HN: What Are You Working On? (July 2026)",
-          "link": "https://news.ycombinator.com/item?id=48884984",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T21:26:41.000Z"
-        },
-        {
-          "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+          "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
           "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
           "source": "Hacker News",
           "category": "tech",
@@ -232,6 +264,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-12T21:08:20.000Z"
+        },
+        {
+          "title": "Show HN: Zen Mode – a global focus mode for macOS",
+          "link": "https://github.com/cabeen/zen-mode",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-12T20:52:04.000Z"
         },
         {
           "title": "The State of MCP Security [pdf]",
@@ -272,22 +312,6 @@
           "category": "tech",
           "snippet": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival…",
           "published": "2026-07-12T20:10:19.000Z"
-        },
-        {
-          "title": "Defining new Jax types with hijax",
-          "link": "https://docs.jax.dev/en/latest/hijax_types.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T19:54:30.000Z"
-        },
-        {
-          "title": "Neocities: Create your own free website",
-          "link": "https://neocities.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T19:49:53.000Z"
         },
         {
           "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
@@ -368,36 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-12T16:54:47.000Z"
-        },
-        {
-          "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-          "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would…",
-          "published": "2026-07-12T16:27:06.000Z"
-        },
-        {
-          "title": "Why study Diophantine equations?",
-          "link": "https://hidden-phenomena.com/articles/modular",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T15:53:53.000Z"
-        },
-        {
-          "title": "How to read more books",
-          "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T15:47:16.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "If At First You Fail Miserbly At The Supreme Court, Try, Try Again See Generally",
+          "link": "https://abovethelaw.com/2026/07/if-at-first-you-fail-miserbly-at-the-supreme-court-try-try-again-see-generally/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Insanity Is Doing The Same Thing Twice And Expecting...: Trump wants the same Supreme Court that just rejected his birthright citizenship order to rehear the whole thing \"immediately.\" And he decided to insult them in the process.…",
+          "published": "2026-07-12T23:09:37.000Z"
+        },
         {
           "title": "Sullivan Cromwell Has A Civil War On Its Hands See Also",
           "link": "https://abovethelaw.com/2026/07/sullivan-cromwell-has-a-civil-war-on-its-hands-see-also/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "These are some pretty busy associates. The post The Biglaw Associates Billing The Most appeared first on Above the Law .",
           "published": "2026-07-09T23:03:00.000Z"
-        },
-        {
-          "title": "On The Other Side Of The 4th",
-          "link": "https://abovethelaw.com/2026/07/on-the-other-side-of-the-4th/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Legal and ethical issues abound after 250 years. The post On The Other Side Of The 4th appeared first on Above the Law .",
-          "published": "2026-07-09T22:33:00.000Z"
         }
       ]
     }
