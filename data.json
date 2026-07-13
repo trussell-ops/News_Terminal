@@ -1,16 +1,32 @@
 {
-  "updated": "2026-07-13T14:06:39.640Z",
+  "updated": "2026-07-13T16:44:56.424Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Paramount-WBD merger expected to face lawsuit from multiple states, sources say",
+          "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
           "link": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
           "source": "CNBC Business",
           "category": "markets",
-          "snippet": "Multiple state attorneys general are expected to file a lawsuit challenging the merger between Paramount Skydance and Warner Bros. Discovery, David Faber reports.",
-          "published": "2026-07-13T13:49:56.000Z"
+          "snippet": "A group of states, including California, filed a lawsuit to block the merger between Paramount and Warner Bros. Discovery.",
+          "published": "2026-07-13T16:19:48.000Z"
+        },
+        {
+          "title": "Volkswagen planning to cut up to 100,000 jobs globally",
+          "link": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
+          "published": "2026-07-13T16:19:15.000Z"
+        },
+        {
+          "title": "Roaming charges scrapped and faster airport checks in UK-Switzerland deal",
+          "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
+          "published": "2026-07-13T16:05:13.000Z"
         },
         {
           "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
@@ -179,28 +195,100 @@
           "category": "markets",
           "snippet": "People are being consulted about plans to stop vape companies using enticing flavour descriptions that \"attract\" children into experimenting.",
           "published": "2026-07-10T09:54:49.000Z"
-        },
-        {
-          "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-          "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
-          "published": "2026-07-10T01:33:45.000Z"
-        },
-        {
-          "title": "Pressure builds on Europe's biggest port to be greener",
-          "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
-          "published": "2026-07-09T23:00:51.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+          "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T16:06:08.000Z"
+        },
+        {
+          "title": "Wikipedia escapes Category 1 designation under the UK Online Safety Act for now",
+          "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T15:59:36.000Z"
+        },
+        {
+          "title": "DOGE is done. What happened to its records?",
+          "link": "https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T15:56:39.000Z"
+        },
+        {
+          "title": "Go-Flavored Concurrency in C",
+          "link": "https://antonz.org/concurrency-in-c/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T15:56:22.000Z"
+        },
+        {
+          "title": "LAPD lets contract with surveillance giant Flock expire",
+          "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T15:11:50.000Z"
+        },
+        {
+          "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
+          "link": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Today, I’m talking with Xinzhou Wu, who is the head of automotive at Nvidia. Nvidia is obviously in the news constantly because of the AI boom — it’s one of the most valuable companies in the world, because the AI industry can’t get…",
+          "published": "2026-07-13T15:00:00.000Z"
+        },
+        {
+          "title": "The art and engineering of Sega CD Silpheed",
+          "link": "https://fabiensanglard.net/silpheed/index.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T14:52:33.000Z"
+        },
+        {
+          "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
+          "link": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Almost all gaming laptops have gone up in price over the past year. Curiously, the surprisingly fast Asus ROG Flow Z13 gaming laptop/tablet combo has not. It’s actually gotten quite a bit cheaper recently. Best Buy has the lowest price on…",
+          "published": "2026-07-13T14:52:14.000Z"
+        },
+        {
+          "title": "Precursor",
+          "link": "https://blog.cloudflare.com/introducing-precursor/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T14:39:38.000Z"
+        },
+        {
+          "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+          "link": "https://github.com/clawkwork/clawk",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T14:02:03.000Z"
+        },
+        {
+          "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
+          "link": "https://esologic.com/benchmarking-tesla-gpus/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T13:48:42.000Z"
+        },
         {
           "title": "Grok uploaded my user directory to xAI's servers",
           "link": "https://twitter.com/a_green_being/status/2076598897779020159",
@@ -218,28 +306,12 @@
           "published": "2026-07-13T13:35:32.000Z"
         },
         {
-          "title": "Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance",
-          "link": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T12:09:38.000Z"
-        },
-        {
           "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
           "link": "https://github.com/floodtide/dom-docx",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-13T11:51:56.000Z"
-        },
-        {
-          "title": "An Infuriating Goodbye to Photoshop",
-          "link": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T11:46:47.000Z"
         },
         {
           "title": "Control the Ideas, Not the Code",
@@ -306,14 +378,6 @@
           "published": "2026-07-13T06:08:12.000Z"
         },
         {
-          "title": "Sam Neill has died",
-          "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T06:02:11.000Z"
-        },
-        {
           "title": "The Graph That Should Be Front-Page News",
           "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
           "source": "Hacker News",
@@ -328,70 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-13T05:15:14.000Z"
-        },
-        {
-          "title": "Ask HN: Add flag for AI-generated articles",
-          "link": "https://news.ycombinator.com/item?id=48886741",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T01:24:20.000Z"
-        },
-        {
-          "title": "Designing and assembling my first PCB",
-          "link": "https://vilkeliskis.com/b/2026/0711.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T22:56:56.000Z"
-        },
-        {
-          "title": "Cyberpunk Comics, Manga and Graphic Novels",
-          "link": "https://shellzine.net/cyberpunk-comics/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T22:45:31.000Z"
-        },
-        {
-          "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
-          "link": "https://kode.diy",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T21:27:29.000Z"
-        },
-        {
-          "title": "Ask HN: What Are You Working On? (July 2026)",
-          "link": "https://news.ycombinator.com/item?id=48884984",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T21:26:41.000Z"
-        },
-        {
-          "title": "Tiny Emulators",
-          "link": "https://floooh.github.io/tiny8bit-preview/index.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T20:23:05.000Z"
-        },
-        {
-          "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival…",
-          "published": "2026-07-12T20:10:19.000Z"
-        },
-        {
-          "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
-          "link": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bj rk records like Vespertine. But Drew Daniel, one half of Matmos, is fiendishly…",
-          "published": "2026-07-12T19:40:00.000Z"
         }
       ]
     },
@@ -399,12 +399,44 @@
       "label": "Legal Developments",
       "items": [
         {
+          "title": "Larry David Casts His Biglaw Lawyer In New Show",
+          "link": "https://abovethelaw.com/2026/07/larry-david-casts-his-biglaw-lawyer-in-new-show/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Latham partner Andrew Clubok appears as Senator Potter in Life, Larry, and the Pursuit of Unhappiness. The post Larry David Casts His Biglaw Lawyer In New Show appeared first on Above the Law .",
+          "published": "2026-07-13T16:18:00.000Z"
+        },
+        {
+          "title": "Overstock Loon Patrick Byrne Loses To Himself In Court, Must Pay Hunter Biden",
+          "link": "https://www.lawandchaospod.com/p/overstock-loon-patrick-byrne-loses",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "RIP to a real one. The post Overstock Loon Patrick Byrne Loses To Himself In Court, Must Pay Hunter Biden appeared first on Above the Law .",
+          "published": "2026-07-13T15:36:52.000Z"
+        },
+        {
+          "title": "Surprise, Surprise: More Evidence That What You Say To Your Chatbot Isn’t Always Private",
+          "link": "https://abovethelaw.com/2026/07/surprise-surprise-more-evidence-that-what-you-say-to-your-chatbot-isnt-always-private/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Those of us in the legal profession have a responsibility to sound the alarm about what our clients and the public as a whole put in chatbots The post Surprise, Surprise: More Evidence That What You Say To Your Chatbot Isn’t Always…",
+          "published": "2026-07-13T14:49:33.000Z"
+        },
+        {
           "title": "Marine Serre Enters Receivership, Seeks Investor",
           "link": "https://fashionista.com/2026/07/marine-serre-enters-receivership-seeks-investor",
           "source": "Above the Law",
           "category": "legal",
           "snippet": "The Paris Commercial Tribunal granted its request for court protection. The post Marine Serre Enters Receivership, Seeks Investor appeared first on Above the Law .",
           "published": "2026-07-13T14:03:00.000Z"
+        },
+        {
+          "title": "The Supreme Court and the opinion-assignment guessing game",
+          "link": "https://www.scotusblog.com/2026/07/the-supreme-court-and-the-opinion-assignment-guessing-game/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "As we saw this term, by late May the Supreme Court begins releasing the bulk of its merits decisions, and with it a familiar guessing game starts among court watchers. If Justice Elena Kagan has not yet written from the December sitting…",
+          "published": "2026-07-13T14:00:00.000Z"
         },
         {
           "title": "A dissent worthy of a World Cup",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "This is how you use your robe. The post Building A Judicial Legacy appeared first on Above the Law .",
           "published": "2026-07-10T14:45:44.000Z"
-        },
-        {
-          "title": "The limits of the Second Amendment",
-          "link": "https://www.scotusblog.com/2026/07/the-limits-of-the-second-amendment/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In previous articles, I explored two of the biggest unanswered questions in the Second Amendment space: Who are “the people,” and what constitutes “Arms” ? Both of these questions seemingly emerge from the text of the amendment itself,…",
-          "published": "2026-07-10T14:30:00.000Z"
-        },
-        {
-          "title": "Fifth Circuit Says Gov’t Can Violate Migrants’ Due Process Rights… But Only For 90 Days",
-          "link": "https://abovethelaw.com/2026/07/fifth-circuit-says-govt-can-violate-migrants-due-process-rights-but-only-for-90-days/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "From the rights-aren't-rights-if-they're-delayed dept. The post Fifth Circuit Says Gov’t Can Violate Migrants’ Due Process Rights… But Only For 90 Days appeared first on Above the Law .",
-          "published": "2026-07-10T14:03:00.000Z"
-        },
-        {
-          "title": "The man and the movement: a Q&A with Peter Canellos on his biography of Samuel Alito",
-          "link": "https://www.scotusblog.com/2026/07/the-man-and-the-movement-a-qa-with-peter-canellos-on-his-biography-of-samuel-alito/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Peter S. Canellos is a prize-winning journalist and the author of Revenge for the Sixties: Sam Alito and the Triumph of the Conservative Legal Movement , which Publishers Weekly called “a razor-sharp” dissection of one of the most…",
-          "published": "2026-07-10T14:00:00.000Z"
-        },
-        {
-          "title": "High court mysteries",
-          "link": "https://www.scotusblog.com/2026/07/high-court-mysteries/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "One might argue that Supreme Court justices are more visible today than ever before. Six have published books and Brett Kavanaugh is apparently working on one to become the seventh. Several have recently given television interviews,…",
-          "published": "2026-07-10T13:30:00.000Z"
         }
       ]
     }
