@@ -1,16 +1,32 @@
 {
-  "updated": "2026-07-13T11:35:04.511Z",
+  "updated": "2026-07-13T14:06:39.640Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Paramount-WBD merger expected to face lawsuit from multiple states, sources say",
+          "link": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Multiple state attorneys general are expected to file a lawsuit challenging the merger between Paramount Skydance and Warner Bros. Discovery, David Faber reports.",
+          "published": "2026-07-13T13:49:56.000Z"
+        },
+        {
+          "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
+          "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
+          "published": "2026-07-13T13:19:24.000Z"
+        },
         {
           "title": "The SpaceX IPO made history. One month on has it lost momentum?",
           "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
-          "published": "2026-07-13T07:19:57.000Z"
+          "published": "2026-07-13T11:45:25.000Z"
         },
         {
           "title": "Demand for baby bank growing faster than donations",
@@ -179,28 +195,68 @@
           "category": "markets",
           "snippet": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
           "published": "2026-07-09T23:00:51.000Z"
-        },
-        {
-          "title": "Florida's Palm Beach airport renamed for Trump",
-          "link": "https://www.cnbc.com/2026/07/09/florida-airport-palm-beach-internationa-donald-j-trump.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Palm Beach International Airport is now called President Donald J. Trump International Airport, the FAA said Thursday.",
-          "published": "2026-07-09T20:55:37.000Z"
-        },
-        {
-          "title": "Interest rates may need to rise this year, says Bank of England economist",
-          "link": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Chief economist at the Bank of England says slower growth and inflationary pressures mean rate rise needed",
-          "published": "2026-07-09T17:37:11.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Grok uploaded my user directory to xAI's servers",
+          "link": "https://twitter.com/a_green_being/status/2076598897779020159",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T13:39:59.000Z"
+        },
+        {
+          "title": "Grok CLI uploaded the whole home directory to GCS",
+          "link": "https://twitter.com/i/status/2076598897779020159",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T13:35:32.000Z"
+        },
+        {
+          "title": "Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance",
+          "link": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T12:09:38.000Z"
+        },
+        {
+          "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+          "link": "https://github.com/floodtide/dom-docx",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T11:51:56.000Z"
+        },
+        {
+          "title": "An Infuriating Goodbye to Photoshop",
+          "link": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T11:46:47.000Z"
+        },
+        {
+          "title": "Control the Ideas, Not the Code",
+          "link": "https://antirez.com/news/169",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T11:45:36.000Z"
+        },
+        {
+          "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+          "link": "https://jivx.com/densha",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T11:18:30.000Z"
+        },
         {
           "title": "This free Mac app reveals the truth about your mystery USB-C cables",
           "link": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
@@ -234,28 +290,12 @@
           "published": "2026-07-13T08:39:39.000Z"
         },
         {
-          "title": "Berkshire's $397B Bet Against an Overheated Market",
-          "link": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T08:15:52.000Z"
-        },
-        {
           "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
           "link": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-13T08:04:30.000Z"
-        },
-        {
-          "title": "Quadrupling code performance with a \"useless\" if",
-          "link": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T07:37:06.000Z"
         },
         {
           "title": "Backtrack-Free Cursive",
@@ -352,46 +392,6 @@
           "category": "tech",
           "snippet": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bj rk records like Vespertine. But Drew Daniel, one half of Matmos, is fiendishly…",
           "published": "2026-07-12T19:40:00.000Z"
-        },
-        {
-          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T18:25:51.000Z"
-        },
-        {
-          "title": "I Learned to Read Again",
-          "link": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T18:22:15.000Z"
-        },
-        {
-          "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-          "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T17:13:07.000Z"
-        },
-        {
-          "title": "LARP – Revenue infrastructure for serious founders",
-          "link": "https://www.larp.website/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T16:56:41.000Z"
-        },
-        {
-          "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-          "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would…",
-          "published": "2026-07-12T16:27:06.000Z"
         }
       ]
     },
@@ -399,7 +399,39 @@
       "label": "Legal Developments",
       "items": [
         {
-          "title": "If At First You Fail Miserbly At The Supreme Court, Try, Try Again See Generally",
+          "title": "Marine Serre Enters Receivership, Seeks Investor",
+          "link": "https://fashionista.com/2026/07/marine-serre-enters-receivership-seeks-investor",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The Paris Commercial Tribunal granted its request for court protection. The post Marine Serre Enters Receivership, Seeks Investor appeared first on Above the Law .",
+          "published": "2026-07-13T14:03:00.000Z"
+        },
+        {
+          "title": "A dissent worthy of a World Cup",
+          "link": "https://www.scotusblog.com/2026/07/a-dissent-worthy-of-a-world-cup/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This month the World Cup final will be played at MetLife Stadium, home of the New York Giants and Jets. Nobody finds it odd that soccer’s biggest match will be staged in a stadium built for football. That’s remarkable, because 44 years…",
+          "published": "2026-07-13T13:30:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 07.13.26",
+          "link": "https://abovethelaw.com/2026/07/morning-docket-07-13-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Lindsey Graham died over the weekend, removing a key Trump ally from the Judiciary Committee in advance of Todd Blanche's already controversial nomination hearings. [ PBS ] * Civil rights coalition calls for Senate to reject Blanche. […",
+          "published": "2026-07-13T13:25:31.000Z"
+        },
+        {
+          "title": "How Justice Samuel Alito stands out",
+          "link": "https://www.scotusblog.com/2026/07/how-justice-samuel-alito-stands-out/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, a closer look at summer order lists.",
+          "published": "2026-07-13T13:00:00.000Z"
+        },
+        {
+          "title": "If At First You Fail Miserably At The Supreme Court, Try, Try Again See Generally",
           "link": "https://abovethelaw.com/2026/07/if-at-first-you-fail-miserbly-at-the-supreme-court-try-try-again-see-generally/",
           "source": "Above the Law",
           "category": "legal",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "One might argue that Supreme Court justices are more visible today than ever before. Six have published books and Brett Kavanaugh is apparently working on one to become the seventh. Several have recently given television interviews,…",
           "published": "2026-07-10T13:30:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 07.10.26",
-          "link": "https://abovethelaw.com/2026/07/morning-docket-07-10-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* OpenAI accused of hiding evidence in NY Times copyright case. Reached for comment, ChatGPT said, \"I'm sorry, you're right, I was supposed to produce that.\" [ Law360 ] * Lawyer dressed as police officer to spy on ex-girlfriend at…",
-          "published": "2026-07-10T13:01:20.000Z"
-        },
-        {
-          "title": "The rarity of Supreme Court do-overs",
-          "link": "https://www.scotusblog.com/2026/07/the-rarity-of-supreme-court-do-overs/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, what Cecillia Wang said about arguing the birthright citizenship case during SCOTUSblog’s term-in-review event.",
-          "published": "2026-07-10T13:00:00.000Z"
-        },
-        {
-          "title": "Donald Trump Doesn t Understand The Adage About Catching Flies With Honey See Also",
-          "link": "https://abovethelaw.com/2026/07/donald-trump-doesnt-understand-the-adage-about-catching-flies-with-honey-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Discovery Really Is The Best Part Of Litigation: ABA wants the deets on the Trump Biglaw executive orders. The World's Best Law Schools : Of course the USA features prominently on this ranking. CSI Agentic : Exterro releases an agentic AI…",
-          "published": "2026-07-09T23:33:00.000Z"
-        },
-        {
-          "title": "The Biglaw Associates Billing The Most",
-          "link": "https://abovethelaw.com/2026/07/the-biglaw-associates-billing-the-most/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "These are some pretty busy associates. The post The Biglaw Associates Billing The Most appeared first on Above the Law .",
-          "published": "2026-07-09T23:03:00.000Z"
         }
       ]
     }
