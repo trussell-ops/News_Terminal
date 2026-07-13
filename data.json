@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-13T20:53:22.886Z",
+  "updated": "2026-07-13T21:45:01.572Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+          "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
+          "published": "2026-07-13T21:38:38.000Z"
+        },
         {
           "title": "Chipotle is opening its first restaurant in Mexico",
           "link": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html",
@@ -11,14 +19,6 @@
           "category": "markets",
           "snippet": "Fast casual chain Chipotle announced Monday that it is opening its first location in Mexico in the Monterrey area.",
           "published": "2026-07-13T20:10:01.000Z"
-        },
-        {
-          "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-          "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
-          "published": "2026-07-13T20:06:14.000Z"
         },
         {
           "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
@@ -202,6 +202,70 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "A two-pack of DJI s most capable wireless mics just got its first price cut",
+          "link": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Smartphones these days have incredible cameras that are capable of taking smooth, sharp video, but the microphones are often lacking, to say the least. A wireless lavalier microphone can dramatically improve the audio quality of your…",
+          "published": "2026-07-13T21:03:14.000Z"
+        },
+        {
+          "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+          "link": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T21:01:00.000Z"
+        },
+        {
+          "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
+          "link": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Noise-canceling earbuds are great for flights and focusing, but they're not always ideal for outdoor workouts. The last-gen Shokz OpenRun Pro's open-ear design lets you enjoy music while staying aware of approaching cars, cyclists, and…",
+          "published": "2026-07-13T20:57:44.000Z"
+        },
+        {
+          "title": "The Pixel colors might rule this year",
+          "link": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listings spotted by 9to5Google show what appear to be placeholders for Google's upcoming Pixel 11 in hot pink Fuchsia (Hibiscus),…",
+          "published": "2026-07-13T20:52:27.000Z"
+        },
+        {
+          "title": "Apple’s public betas for iOS 27 and more are out now",
+          "link": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big…",
+          "published": "2026-07-13T20:45:40.000Z"
+        },
+        {
+          "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+          "link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing…",
+          "published": "2026-07-13T20:44:20.000Z"
+        },
+        {
+          "title": "Siri AI is already changing how I use my iPhone",
+          "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote.…",
+          "published": "2026-07-13T20:43:20.000Z"
+        },
+        {
+          "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
+          "link": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The macOS 27 Golden Gate public beta is here, and anyone with an M-series Mac now has easier access to test-drive Apple's latest changes - including a more subdued Liquid Glass aesthetic. That's reason enough to be at least a little…",
+          "published": "2026-07-13T20:43:15.000Z"
+        },
+        {
           "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
           "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
           "source": "Ars Technica",
@@ -216,6 +280,30 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-13T20:13:14.000Z"
+        },
+        {
+          "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+          "link": "https://github.com/Poseidon-fan/linux-0.11-rs",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T20:11:29.000Z"
+        },
+        {
+          "title": "Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box",
+          "link": "https://github.com/yeet-src/sigwire",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T20:07:45.000Z"
+        },
+        {
+          "title": "Samsung will delete your health data if you don't let them use it to train AI",
+          "link": "https://neow.in/cWsyMTV3",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T20:01:43.000Z"
         },
         {
           "title": "Show HN: I implemented a neural network in SQL",
@@ -256,14 +344,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-13T19:52:25.000Z"
-        },
-        {
-          "title": "AI Is a Bad Tool",
-          "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T19:51:15.000Z"
         },
         {
           "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
@@ -312,92 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-13T18:33:47.000Z"
-        },
-        {
-          "title": "The real prices of frontier models. Tokens * Price, right?",
-          "link": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T18:32:27.000Z"
-        },
-        {
-          "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
-          "link": "https://nobie.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T18:26:04.000Z"
-        },
-        {
-          "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
-          "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T18:22:16.000Z"
-        },
-        {
-          "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
-          "link": "https://cakehonolulu.github.io/linux-on-32x/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T18:18:25.000Z"
-        },
-        {
-          "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-          "link": "https://github.com/morganwilliscloud/billai-bass",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T18:18:23.000Z"
-        },
-        {
-          "title": "The EV market is on the road to recovery thanks to high gas prices",
-          "link": "https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "As the US war on Iran sent gas prices soaring, American car buyers flocked to electric vehicles - and in particular hybrids. After a sluggish winter and fall, EV sales rebounded in the second quarter of 2026, with automakers posting some…",
-          "published": "2026-07-13T18:03:20.000Z"
-        },
-        {
-          "title": "Show HN: Super Dario",
-          "link": "https://superdario.pawb.de",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T17:53:52.000Z"
-        },
-        {
-          "title": "Tom Cruise is utterly transformed in Digger trailer",
-          "link": "https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"If we can't control the force of nature, at least we can control the narrative.\"",
-          "published": "2026-07-13T17:49:56.000Z"
-        },
-        {
-          "title": "Logseq 2.0 Beta (DB version) is here",
-          "link": "https://github.com/logseq/logseq/releases",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T17:49:49.000Z"
-        },
-        {
-          "title": "Show HN: OpenClawMachines – Extending OpenClaw to the Enterprise",
-          "link": "https://github.com/mathaix/OpenClawMachines",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T17:45:29.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Arguments That Embarrass Only The Advocate",
+          "link": "https://abovethelaw.com/2026/07/arguments-that-embarrass-only-the-advocate/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Thinking about issues is a good idea. Making silly arguments that reflect poorly on your intelligence is a less good idea. The post Arguments That Embarrass Only The Advocate appeared first on Above the Law .",
+          "published": "2026-07-13T20:44:00.000Z"
+        },
         {
           "title": "Rebecca Slaughter Has A Message For Yale: Grow A Spine",
           "link": "https://abovethelaw.com/2026/07/rebecca-slaughter-has-a-message-for-yale-grow-a-spine/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Matching Biglaw salaries allows elite boutiques to compete on the things associates care about after the paycheck. The post When Pay Is Equal, Boutique Firms Have The Edge appeared first on Above the Law .",
           "published": "2026-07-10T19:11:00.000Z"
-        },
-        {
-          "title": "Trump Demands SCOTUS Reverse Birthright Red Card",
-          "link": "https://abovethelaw.com/2026/07/trump-demands-scotus-reverse-birthright-red-card/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "FIFA at One First The post Trump Demands SCOTUS Reverse Birthright Red Card appeared first on Above the Law .",
-          "published": "2026-07-10T18:32:00.000Z"
         }
       ]
     }
