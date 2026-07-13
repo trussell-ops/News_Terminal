@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-13T04:31:50.063Z",
+  "updated": "2026-07-13T08:09:53.606Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "The SpaceX IPO made history. One month on has it lost momentum?",
+          "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
+          "published": "2026-07-13T07:19:57.000Z"
+        },
+        {
+          "title": "Demand for baby bank growing faster than donations",
+          "link": "https://www.bbc.co.uk/news/articles/c5yzeg04n38o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The charity says it gave out 36,400 items of child clothing and 536 tubs of formula milk in 2025.",
+          "published": "2026-07-13T05:18:33.000Z"
+        },
+        {
+          "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+          "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Within hours of fresh US attacks, Iran said it had struck US military bases in Kuwait, Jordan and Bahrain.",
+          "published": "2026-07-13T05:00:46.000Z"
+        },
         {
           "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
           "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
@@ -21,7 +45,7 @@
           "published": "2026-07-12T23:29:06.000Z"
         },
         {
-          "title": "Why switching to save money is easier than you might think",
+          "title": "How to change bank, energy or broadband provider and save money",
           "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -149,14 +173,6 @@
           "published": "2026-07-10T09:54:49.000Z"
         },
         {
-          "title": "We've saved £6,000 on holidays by swapping homes with strangers",
-          "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
-          "published": "2026-07-10T08:26:00.000Z"
-        },
-        {
           "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
           "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "Palm Beach International Airport is now called President Donald J. Trump International Airport, the FAA said Thursday.",
           "published": "2026-07-09T20:55:37.000Z"
-        },
-        {
-          "title": "Interest rates may need to rise this year, says Bank of England economist",
-          "link": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Chief economist at the Bank of England says slower growth and inflationary pressures mean rate rise needed",
-          "published": "2026-07-09T17:37:11.000Z"
-        },
-        {
-          "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
-          "link": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Competition in the multitrillion-dollar market for retirement assets is fierce among managers such as Goldman Sachs, BlackRock, Russell Investments and Mercer.",
-          "published": "2026-07-09T15:00:50.000Z"
         }
       ]
     },
@@ -202,20 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Quadrupling code performance with a \"useless\" if",
+          "link": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T07:37:06.000Z"
+        },
+        {
+          "title": "Backtrack-Free Cursive",
+          "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T06:08:12.000Z"
+        },
+        {
+          "title": "Sam Neill has died",
+          "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T06:02:11.000Z"
+        },
+        {
+          "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+          "link": "https://github.com/schlae/BeavisUltrasound",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T05:15:14.000Z"
+        },
+        {
           "title": "Count Binface",
           "link": "https://countbinface.com",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-13T04:00:54.000Z"
-        },
-        {
-          "title": "Modernizing Property Tax Assessments in Allegheny County",
-          "link": "https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T01:47:21.000Z"
         },
         {
           "title": "Ask HN: Add flag for AI-generated articles",
@@ -250,14 +274,6 @@
           "published": "2026-07-12T22:45:31.000Z"
         },
         {
-          "title": "Profiling the \"Abundance\" housing bottleneck with real data",
-          "link": "https://laxmena.com/same-capacity-less-throughput",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T21:45:28.000Z"
-        },
-        {
           "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
           "link": "https://kode.diy",
           "source": "Hacker News",
@@ -272,14 +288,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-12T21:26:41.000Z"
-        },
-        {
-          "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
-          "link": "https://nanduruganesh.github.io/flash-msa/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T20:46:43.000Z"
         },
         {
           "title": "Tiny Emulators",
@@ -306,14 +314,6 @@
           "published": "2026-07-12T19:40:00.000Z"
         },
         {
-          "title": "I love LLMs, I hate hype",
-          "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T18:31:56.000Z"
-        },
-        {
           "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
           "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
           "source": "Hacker News",
@@ -328,22 +328,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-12T18:22:15.000Z"
-        },
-        {
-          "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
-          "link": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T18:04:41.000Z"
-        },
-        {
-          "title": "Against Usefulness",
-          "link": "https://www.motivenotes.ai/p/against-usefulness",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T17:47:07.000Z"
         },
         {
           "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
@@ -392,6 +376,22 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-12T15:35:36.000Z"
+        },
+        {
+          "title": "One of SteelSeries best gaming headsets is over $100 off",
+          "link": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "SteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, and Switch is…",
+          "published": "2026-07-12T15:00:00.000Z"
+        },
+        {
+          "title": "How Philips Hue got the smart home right",
+          "link": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The state of the smart home can be frustrating, because it is just so obvious how things ought to work. You should be able to control everything from everywhere. Your spaces should adapt to what you're doing and how you're feeling. Making…",
+          "published": "2026-07-12T14:38:01.000Z"
         }
       ]
     },
