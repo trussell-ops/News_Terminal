@@ -1,16 +1,32 @@
 {
-  "updated": "2026-07-13T18:26:41.266Z",
+  "updated": "2026-07-13T19:56:49.584Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Trump reinstating naval blockade of Iranian ports",
+          "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
+          "published": "2026-07-13T19:20:40.000Z"
+        },
         {
           "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
           "link": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "A group of states, including California, filed a lawsuit to block the merger between Paramount and Warner Bros. Discovery.",
-          "published": "2026-07-13T18:11:29.000Z"
+          "published": "2026-07-13T18:58:47.000Z"
+        },
+        {
+          "title": "Paramount and Warner Bros sued to block $110bn mega merger",
+          "link": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
+          "published": "2026-07-13T18:25:05.000Z"
         },
         {
           "title": "Volkswagen planning to cut up to 100,000 jobs globally",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "Regulators say features such as infinite scroll contribute to \"compulsive use\" and \"unhealthy habits\".",
           "published": "2026-07-10T12:02:40.000Z"
-        },
-        {
-          "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
-          "link": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Delta is the first of the U.S. airlines to report second-quarter results.",
-          "published": "2026-07-10T11:59:16.000Z"
-        },
-        {
-          "title": "Vapes to have less enticing names and flavours to protect children",
-          "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "People are being consulted about plans to stop vape companies using enticing flavour descriptions that \"attract\" children into experimenting.",
-          "published": "2026-07-10T09:54:49.000Z"
         }
       ]
     },
@@ -202,20 +202,100 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "TFTP Honey Pot Results",
+          "link": "https://bruceediger.com/posts/tftp-honeypot-results/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T19:11:17.000Z"
+        },
+        {
+          "title": "The Chud Vision of Roman History",
+          "link": "https://acoup.blog/2026/07/10/friday-friday-july-10-2026-on-the-chud-vision-of-roman-history/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T18:45:45.000Z"
+        },
+        {
+          "title": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
+          "link": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "A dozen state attorneys general are trying to block the $110 billion merger of Paramount and Warner Bros Discovery they warn would raise movie prices and crush cable TV distributors. The states - California, Arizona, Colorado,…",
+          "published": "2026-07-13T18:35:48.000Z"
+        },
+        {
+          "title": "Thunderbird Desktop settings research: what we learned from your feedback",
+          "link": "https://blog.thunderbird.net/2026/07/desktopsettings/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T18:33:47.000Z"
+        },
+        {
+          "title": "The real prices of frontier models. Tokens * Price, right?",
+          "link": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T18:32:27.000Z"
+        },
+        {
+          "title": "New Flagship Grok Voices",
+          "link": "https://x.ai/news/new-flagship-voices",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T18:28:13.000Z"
+        },
+        {
+          "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
+          "link": "https://nobie.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T18:26:04.000Z"
+        },
+        {
+          "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+          "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T18:22:16.000Z"
+        },
+        {
+          "title": "A full body MRI earns you a year of smoking",
+          "link": "https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T18:21:50.000Z"
+        },
+        {
+          "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+          "link": "https://cakehonolulu.github.io/linux-on-32x/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T18:18:25.000Z"
+        },
+        {
+          "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "link": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T18:18:23.000Z"
+        },
+        {
           "title": "The EV market is on the road to recovery thanks to high gas prices",
           "link": "https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota",
           "source": "The Verge",
           "category": "tech",
           "snippet": "As the US war on Iran sent gas prices soaring, American car buyers flocked to electric vehicles - and in particular hybrids. After a sluggish winter and fall, EV sales rebounded in the second quarter of 2026, with automakers posting some…",
           "published": "2026-07-13T18:03:20.000Z"
-        },
-        {
-          "title": "Ask HN: Should I do a CS masters at Cambridge or start as a new grad at Amazon?",
-          "link": "https://news.ycombinator.com/item?id=48896372",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T18:00:53.000Z"
         },
         {
           "title": "Show HN: Super Dario",
@@ -298,22 +378,6 @@
           "published": "2026-07-13T16:05:03.000Z"
         },
         {
-          "title": "Wikipedia escapes Category 1 designation under the UK Online Safety Act for now",
-          "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T15:59:36.000Z"
-        },
-        {
-          "title": "Go-Flavored Concurrency in C",
-          "link": "https://antonz.org/concurrency-in-c/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T15:56:22.000Z"
-        },
-        {
           "title": "LAPD lets contract with surveillance giant Flock expire",
           "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
           "source": "Hacker News",
@@ -328,76 +392,28 @@
           "category": "tech",
           "snippet": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
           "published": "2026-07-13T15:06:34.000Z"
-        },
-        {
-          "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
-          "link": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Today, I’m talking with Xinzhou Wu, who is the head of automotive at Nvidia. Nvidia is obviously in the news constantly because of the AI boom — it’s one of the most valuable companies in the world, because the AI industry can’t get…",
-          "published": "2026-07-13T15:00:00.000Z"
-        },
-        {
-          "title": "The art and engineering of Sega CD Silpheed",
-          "link": "https://fabiensanglard.net/silpheed/index.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T14:52:33.000Z"
-        },
-        {
-          "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
-          "link": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Almost all gaming laptops have gone up in price over the past year. Curiously, the surprisingly fast Asus ROG Flow Z13 gaming laptop/tablet combo has not. It’s actually gotten quite a bit cheaper recently. Best Buy has the lowest price on…",
-          "published": "2026-07-13T14:52:14.000Z"
-        },
-        {
-          "title": "Precursor",
-          "link": "https://blog.cloudflare.com/introducing-precursor/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T14:39:38.000Z"
-        },
-        {
-          "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
-          "link": "https://github.com/clawkwork/clawk",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T14:02:03.000Z"
-        },
-        {
-          "title": "Nokia's 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
-          "link": "https://spectrum.ieee.org/nokia-phones-history",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T13:54:10.000Z"
-        },
-        {
-          "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
-          "link": "https://esologic.com/benchmarking-tesla-gpus/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T13:48:42.000Z"
-        },
-        {
-          "title": "A Farewell to ARPs: IPv4 Service on IPv6-Only Networks",
-          "link": "https://labs.ripe.net/author/remco-van-mook/a-farewell-to-arps-ipv4-service-on-ipv6-only-networks/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T12:58:07.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Judge Cites Supreme Court s Newfound Unitary Executive Theory To Blow Up Trump s IRS Settlement",
+          "link": "https://abovethelaw.com/2026/07/judge-cites-supreme-courts-newfound-unitary-executive-theory-to-blow-up-trumps-irs-settlement/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "If the President really is the entire executive branch, then he can't be on both sides of the 'v.' The post Judge Cites Supreme Court s Newfound Unitary Executive Theory To Blow Up Trump s IRS Settlement appeared first on Above the Law .",
+          "published": "2026-07-13T19:13:00.000Z"
+        },
+        {
+          "title": "Well, This Doesn t Help Todd Blanche",
+          "link": "https://abovethelaw.com/2026/07/well-this-doesnt-help-todd-blanche/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Lindsey Graham's death ahead of this week's confirmation hearing leaves a very conspicuous empty chair. The post Well, This Doesn t Help Todd Blanche appeared first on Above the Law .",
+          "published": "2026-07-13T18:32:00.000Z"
+        },
         {
           "title": "A ‘Projection’ Of The 2027 U.S. News Law School Rankings",
           "link": "https://abovethelaw.com/2026/07/a-projection-of-the-2027-u-s-news-law-school-rankings/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Boutique firms are winning the salary wars this time around. How much longer can Biglaw wait? The post Associate Compensation Scorecard: Are Biglaw Firms On Vacation When It Comes To Paying Associates? appeared first on Above the Law .",
           "published": "2026-07-10T17:44:10.000Z"
-        },
-        {
-          "title": "University Of Chicago Law School Takes Away Laptops And Doubles Down On Socrates",
-          "link": "https://abovethelaw.com/2026/07/university-of-chicago-law-school-takes-away-laptops-and-doubles-down-on-socrates/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The University of Chicago has decided to party like it's 399 BC. The post University Of Chicago Law School Takes Away Laptops And Doubles Down On Socrates appeared first on Above the Law .",
-          "published": "2026-07-10T17:00:20.000Z"
-        },
-        {
-          "title": "Small Law Firms Billing More Hours Per Case The Opposite Of What AI Promised But At Least They re Getting Paid!",
-          "link": "https://abovethelaw.com/2026/07/small-law-firms-billing-more-hours-per-case-the-opposite-of-what-ai-promised-but-at-least-theyre-getting-paid/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "8am releases its SMB Law Financial Health Report and the impact of AI shines between the lines. The post Small Law Firms Billing More Hours Per Case The Opposite Of What AI Promised But At Least They re Getting Paid! appeared first on…",
-          "published": "2026-07-10T16:12:00.000Z"
         }
       ]
     }
