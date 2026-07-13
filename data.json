@@ -1,16 +1,24 @@
 {
-  "updated": "2026-07-13T19:56:49.584Z",
+  "updated": "2026-07-13T20:53:22.886Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Trump reinstating naval blockade of Iranian ports",
+          "title": "Chipotle is opening its first restaurant in Mexico",
+          "link": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Fast casual chain Chipotle announced Monday that it is opening its first location in Mexico in the Monterrey area.",
+          "published": "2026-07-13T20:10:01.000Z"
+        },
+        {
+          "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
           "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
-          "published": "2026-07-13T19:20:40.000Z"
+          "published": "2026-07-13T20:06:14.000Z"
         },
         {
           "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
@@ -187,20 +195,84 @@
           "category": "markets",
           "snippet": "Martin Lewis covers whether you should be switching bank accounts.",
           "published": "2026-07-10T13:38:50.000Z"
-        },
-        {
-          "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
-          "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Regulators say features such as infinite scroll contribute to \"compulsive use\" and \"unhealthy habits\".",
-          "published": "2026-07-10T12:02:40.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+          "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
+          "published": "2026-07-13T20:41:26.000Z"
+        },
+        {
+          "title": "Show HN: YouTube Guitar Tab Parser",
+          "link": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T20:13:14.000Z"
+        },
+        {
+          "title": "Show HN: I implemented a neural network in SQL",
+          "link": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T20:00:10.000Z"
+        },
+        {
+          "title": "Show HN: PlanWright – A control plane for AI coding agents",
+          "link": "https://planwright.tools",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T19:59:50.000Z"
+        },
+        {
+          "title": "Climate.gov was destroyed. Open data saved it",
+          "link": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T19:57:55.000Z"
+        },
+        {
+          "title": "California creates $3,500 rebate for new electric vehicle buyers",
+          "link": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "There's a separate $1,750 rebate for used EVs, but both rebates have a price cap.",
+          "published": "2026-07-13T19:52:48.000Z"
+        },
+        {
+          "title": "Telegram's t.me domain has been suspended",
+          "link": "https://www.whois.com/whois/t.me",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T19:52:25.000Z"
+        },
+        {
+          "title": "AI Is a Bad Tool",
+          "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T19:51:15.000Z"
+        },
+        {
+          "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+          "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
+          "published": "2026-07-13T19:17:51.000Z"
+        },
         {
           "title": "TFTP Honey Pot Results",
           "link": "https://bruceediger.com/posts/tftp-honeypot-results/",
@@ -210,12 +282,12 @@
           "published": "2026-07-13T19:11:17.000Z"
         },
         {
-          "title": "The Chud Vision of Roman History",
-          "link": "https://acoup.blog/2026/07/10/friday-friday-july-10-2026-on-the-chud-vision-of-roman-history/",
-          "source": "Hacker News",
+          "title": "Solution to Feynman's reverse sprinkler puzzle also applies to \"silly sprinklers\"",
+          "link": "https://arstechnica.com/science/2026/07/solution-to-feynmans-reverse-sprinkler-puzzle-also-applies-to-silly-sprinklers/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T18:45:45.000Z"
+          "snippet": "New study confirms 2024 \"momentum flux theory\" on how angular momentum of water flows drives rotation.",
+          "published": "2026-07-13T19:00:47.000Z"
         },
         {
           "title": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
@@ -224,6 +296,14 @@
           "category": "tech",
           "snippet": "A dozen state attorneys general are trying to block the $110 billion merger of Paramount and Warner Bros Discovery they warn would raise movie prices and crush cable TV distributors. The states - California, Arizona, Colorado,…",
           "published": "2026-07-13T18:35:48.000Z"
+        },
+        {
+          "title": "States sue to block Paramount/WBD merger that was approved by Trump admin",
+          "link": "https://arstechnica.com/tech-policy/2026/07/states-sue-to-block-paramount-wbd-merger-that-was-approved-by-trump-admin/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "AG: Deal will bring \"higher prices, lower quality, and less content for film and TV.\"",
+          "published": "2026-07-13T18:34:35.000Z"
         },
         {
           "title": "Thunderbird Desktop settings research: what we learned from your feedback",
@@ -242,14 +322,6 @@
           "published": "2026-07-13T18:32:27.000Z"
         },
         {
-          "title": "New Flagship Grok Voices",
-          "link": "https://x.ai/news/new-flagship-voices",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T18:28:13.000Z"
-        },
-        {
           "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
           "link": "https://nobie.com",
           "source": "Hacker News",
@@ -264,14 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-13T18:22:16.000Z"
-        },
-        {
-          "title": "A full body MRI earns you a year of smoking",
-          "link": "https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T18:21:50.000Z"
         },
         {
           "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
@@ -306,6 +370,14 @@
           "published": "2026-07-13T17:53:52.000Z"
         },
         {
+          "title": "Tom Cruise is utterly transformed in Digger trailer",
+          "link": "https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"If we can't control the force of nature, at least we can control the narrative.\"",
+          "published": "2026-07-13T17:49:56.000Z"
+        },
+        {
           "title": "Logseq 2.0 Beta (DB version) is here",
           "link": "https://github.com/logseq/logseq/releases",
           "source": "Hacker News",
@@ -320,84 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-13T17:45:29.000Z"
-        },
-        {
-          "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
-          "link": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.",
-          "published": "2026-07-13T17:18:25.000Z"
-        },
-        {
-          "title": "PgDog (YC P25) Is Hiring a Founding Software Engineer",
-          "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T17:00:54.000Z"
-        },
-        {
-          "title": "The 6 wildest claims in Apple s lawsuit against OpenAI",
-          "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster…",
-          "published": "2026-07-13T17:00:00.000Z"
-        },
-        {
-          "title": "Colorado will decide whether a \"right to natural gas\" is added to state constitution",
-          "link": "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The amendment would restrict building codes that promote electrification.",
-          "published": "2026-07-13T16:49:35.000Z"
-        },
-        {
-          "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\"",
-          "link": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Clever coding and graphical compromises get a classic game on more classic hardware.",
-          "published": "2026-07-13T16:37:14.000Z"
-        },
-        {
-          "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-          "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T16:06:08.000Z"
-        },
-        {
-          "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
-          "link": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"It's very clear that in the United States there is a big need for an additional crew vehicle.\"",
-          "published": "2026-07-13T16:05:03.000Z"
-        },
-        {
-          "title": "LAPD lets contract with surveillance giant Flock expire",
-          "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T15:11:50.000Z"
-        },
-        {
-          "title": "Now, defenders are embracing the prompt injection, too",
-          "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
-          "published": "2026-07-13T15:06:34.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Rebecca Slaughter Has A Message For Yale: Grow A Spine",
+          "link": "https://abovethelaw.com/2026/07/rebecca-slaughter-has-a-message-for-yale-grow-a-spine/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The former FTC commissioner isn't buying the argument that a $44 billion university has no choice but to settle. The post Rebecca Slaughter Has A Message For Yale: Grow A Spine appeared first on Above the Law .",
+          "published": "2026-07-13T20:02:00.000Z"
+        },
         {
           "title": "Judge Cites Supreme Court s Newfound Unitary Executive Theory To Blow Up Trump s IRS Settlement",
           "link": "https://abovethelaw.com/2026/07/judge-cites-supreme-courts-newfound-unitary-executive-theory-to-blow-up-trumps-irs-settlement/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "FIFA at One First The post Trump Demands SCOTUS Reverse Birthright Red Card appeared first on Above the Law .",
           "published": "2026-07-10T18:32:00.000Z"
-        },
-        {
-          "title": "Associate Compensation Scorecard: Are Biglaw Firms On Vacation When It Comes To Paying Associates?",
-          "link": "https://abovethelaw.com/2026/06/associate-compensation-scorecard-the-2026-summer-of-salary-increases/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Boutique firms are winning the salary wars this time around. How much longer can Biglaw wait? The post Associate Compensation Scorecard: Are Biglaw Firms On Vacation When It Comes To Paying Associates? appeared first on Above the Law .",
-          "published": "2026-07-10T17:44:10.000Z"
         }
       ]
     }
