@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T08:09:53.606Z",
+  "updated": "2026-07-13T11:35:04.511Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -19,14 +19,6 @@
           "category": "markets",
           "snippet": "The charity says it gave out 36,400 items of child clothing and 536 tubs of formula milk in 2025.",
           "published": "2026-07-13T05:18:33.000Z"
-        },
-        {
-          "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
-          "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Within hours of fresh US attacks, Iran said it had struck US military bases in Kuwait, Jordan and Bahrain.",
-          "published": "2026-07-13T05:00:46.000Z"
         },
         {
           "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
@@ -195,12 +187,68 @@
           "category": "markets",
           "snippet": "Palm Beach International Airport is now called President Donald J. Trump International Airport, the FAA said Thursday.",
           "published": "2026-07-09T20:55:37.000Z"
+        },
+        {
+          "title": "Interest rates may need to rise this year, says Bank of England economist",
+          "link": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Chief economist at the Bank of England says slower growth and inflationary pressures mean rate rise needed",
+          "published": "2026-07-09T17:37:11.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+          "link": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Nearly three years ago, I showed you an awesome $8 cable tester that quickly tells you if your USB-C cable is likely fast, slow, powerful, or weak. Sadly, that gadget got discontinued, and I've never found anything as intuitive or…",
+          "published": "2026-07-13T10:00:00.000Z"
+        },
+        {
+          "title": "Social media limits are coming for teens across Europe",
+          "link": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services…",
+          "published": "2026-07-13T09:22:52.000Z"
+        },
+        {
+          "title": "Waze is getting a bunch of new AI-powered features",
+          "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as…",
+          "published": "2026-07-13T09:00:00.000Z"
+        },
+        {
+          "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T08:39:39.000Z"
+        },
+        {
+          "title": "Berkshire's $397B Bet Against an Overheated Market",
+          "link": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T08:15:52.000Z"
+        },
+        {
+          "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+          "link": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T08:04:30.000Z"
+        },
         {
           "title": "Quadrupling code performance with a \"useless\" if",
           "link": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
@@ -226,20 +274,20 @@
           "published": "2026-07-13T06:02:11.000Z"
         },
         {
+          "title": "The Graph That Should Be Front-Page News",
+          "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-13T05:35:27.000Z"
+        },
+        {
           "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
           "link": "https://github.com/schlae/BeavisUltrasound",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-13T05:15:14.000Z"
-        },
-        {
-          "title": "Count Binface",
-          "link": "https://countbinface.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T04:00:54.000Z"
         },
         {
           "title": "Ask HN: Add flag for AI-generated articles",
@@ -256,14 +304,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-12T22:56:56.000Z"
-        },
-        {
-          "title": "Why Vanilla JavaScript",
-          "link": "https://guseyn.com/html/posts/why-vanilla-js.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T22:53:51.000Z"
         },
         {
           "title": "Cyberpunk Comics, Manga and Graphic Novels",
@@ -310,7 +350,7 @@
           "link": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine. But Drew Daniel, one half of Matmos, is fiendishly…",
+          "snippet": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bj rk records like Vespertine. But Drew Daniel, one half of Matmos, is fiendishly…",
           "published": "2026-07-12T19:40:00.000Z"
         },
         {
@@ -346,52 +386,12 @@
           "published": "2026-07-12T16:56:41.000Z"
         },
         {
-          "title": "Automation Without Understanding",
-          "link": "https://arxiv.org/abs/2607.06377",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T16:54:47.000Z"
-        },
-        {
           "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
           "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would…",
           "published": "2026-07-12T16:27:06.000Z"
-        },
-        {
-          "title": "How to read more books",
-          "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T15:47:16.000Z"
-        },
-        {
-          "title": "How we can reduce traffic congestion",
-          "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-12T15:35:36.000Z"
-        },
-        {
-          "title": "One of SteelSeries best gaming headsets is over $100 off",
-          "link": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "SteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, and Switch is…",
-          "published": "2026-07-12T15:00:00.000Z"
-        },
-        {
-          "title": "How Philips Hue got the smart home right",
-          "link": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The state of the smart home can be frustrating, because it is just so obvious how things ought to work. You should be able to control everything from everywhere. Your spaces should adapt to what you're doing and how you're feeling. Making…",
-          "published": "2026-07-12T14:38:01.000Z"
         }
       ]
     },
