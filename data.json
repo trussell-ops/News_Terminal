@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T06:33:40.383Z",
+  "updated": "2026-07-14T08:59:44.635Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -77,7 +77,7 @@
           "published": "2026-07-13T23:02:11.000Z"
         },
         {
-          "title": "The secretive crypto firm backed by Farage's biggest donor",
+          "title": "The mysterious crypto firm backed by Farage's biggest donor",
           "link": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+          "link": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T08:24:49.000Z"
+        },
+        {
+          "title": "The Anatomy of an Instruction Pipeline Hazard",
+          "link": "https://hiraditya.github.io/posts/hardware-hazards-b200/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T07:06:50.000Z"
+        },
+        {
+          "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+          "link": "https://www.bbc.com/news/articles/cg53l737v1qo",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T06:43:28.000Z"
+        },
+        {
+          "title": "Australian energy retailers must provide three hours of free daytime electricity",
+          "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T04:31:48.000Z"
+        },
+        {
           "title": "YouTrackDB is a general-use object-oriented graph database",
           "link": "https://github.com/JetBrains/youtrackdb",
           "source": "Hacker News",
@@ -290,7 +322,7 @@
           "published": "2026-07-14T01:17:14.000Z"
         },
         {
-          "title": "The Git history command deserves more attention",
+          "title": "The git history command",
           "link": "https://lalitm.com/post/git-history/",
           "source": "Hacker News",
           "category": "tech",
@@ -298,20 +330,12 @@
           "published": "2026-07-14T00:57:11.000Z"
         },
         {
-          "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-          "link": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+          "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+          "link": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-13T23:26:52.000Z"
-        },
-        {
-          "title": "The AI Whale Fall and Open Source",
-          "link": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T23:16:42.000Z"
+          "published": "2026-07-13T23:39:10.000Z"
         },
         {
           "title": "An Englishwoman who sketched India before photography took hold",
@@ -346,14 +370,6 @@
           "published": "2026-07-13T21:48:43.000Z"
         },
         {
-          "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-          "link": "https://arxiv.org/abs/2607.01418",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T21:43:51.000Z"
-        },
-        {
           "title": "A two-pack of DJI s most capable wireless mics just got its first price cut",
           "link": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
           "source": "The Verge",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-13T21:01:00.000Z"
-        },
-        {
-          "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
-          "link": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Noise-canceling earbuds are great for flights and focusing, but they're not always ideal for outdoor workouts. The last-gen Shokz OpenRun Pro's open-ear design lets you enjoy music while staying aware of approaching cars, cyclists, and…",
-          "published": "2026-07-13T20:57:44.000Z"
-        },
-        {
-          "title": "The Pixel colors might rule this year",
-          "link": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listings spotted by 9to5Google show what appear to be placeholders for Google's upcoming Pixel 11 in hot pink Fuchsia (Hibiscus),…",
-          "published": "2026-07-13T20:52:27.000Z"
         }
       ]
     },
