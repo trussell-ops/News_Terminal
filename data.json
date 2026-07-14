@@ -1,24 +1,56 @@
 {
-  "updated": "2026-07-14T12:05:36.884Z",
+  "updated": "2026-07-14T14:21:29.492Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "US inflation rate eases to 3.5% as gasoline prices fall",
+          "link": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
+          "published": "2026-07-14T13:51:22.000Z"
+        },
         {
           "title": "World Cup's biggest spenders show up late as semifinals drive host city travel boom",
           "link": "https://www.cnbc.com/2026/07/14/world-cups-semifinals-travel-to-host-cities-rises.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "World Cup travel demand to U.S. host cities is spiking as the tournament reaches the semifinal stage.",
-          "published": "2026-07-14T11:45:28.000Z"
+          "published": "2026-07-14T13:23:02.000Z"
         },
         {
-          "title": "PPE failures left NHS staff poorly protected and wasted £10bn, Covid inquiry finds",
+          "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
+          "link": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Production will stop for two years at the mine which employs more than 4,000 people.",
+          "published": "2026-07-14T13:22:09.000Z"
+        },
+        {
+          "title": "United Airlines' new upsell: Keeping other travelers out of the middle seat",
+          "link": "https://www.cnbc.com/2026/07/14/united-airlines-for-empty-middle-seat-is-new-upsell.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "United Airlines will allow customers to pay more to keep the middle seat open on its Airbus A321XLRs",
+          "published": "2026-07-14T13:17:32.000Z"
+        },
+        {
+          "title": "Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX's Starlink",
+          "link": "https://www.cnbc.com/2026/07/14/frontier-airlines-wifi-spacex-starlink.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Frontier is signing with Starlink for in-flight Wi-Fi, with service debuting as early as next year.",
+          "published": "2026-07-14T13:00:01.000Z"
+        },
+        {
+          "title": "UK wasted £10bn on PPE that left NHS staff poorly protected, Covid inquiry finds",
           "link": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Healthcare staff were unable to properly protect themselves, or those in their care, from dangerous infections, says the latest inquiry report.",
-          "published": "2026-07-14T11:43:31.000Z"
+          "published": "2026-07-14T12:12:53.000Z"
         },
         {
           "title": "How much should you give to the year-end teacher collection?",
@@ -83,14 +115,6 @@
           "category": "markets",
           "snippet": "New cooking scheme aims to help parents learn healthy recipes which are convenient to make.",
           "published": "2026-07-14T05:18:49.000Z"
-        },
-        {
-          "title": "Call for right to grow food on unused public land",
-          "link": "https://www.bbc.co.uk/news/articles/cm2dm31p057o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Some London council already allow unused land to be turned into gardens, allotments and flowerbeds.",
-          "published": "2026-07-14T05:05:39.000Z"
         },
         {
           "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
@@ -171,30 +195,6 @@
           "category": "markets",
           "snippet": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
           "published": "2026-07-13T11:45:25.000Z"
-        },
-        {
-          "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
-          "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
-          "published": "2026-07-13T00:07:00.000Z"
-        },
-        {
-          "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-          "link": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
-          "published": "2026-07-12T23:29:06.000Z"
-        },
-        {
-          "title": "How to change bank, energy or broadband provider and save money",
-          "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
-          "published": "2026-07-12T23:28:01.000Z"
         }
       ]
     },
@@ -202,12 +202,84 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "How to stop Claude from saying load-bearing",
-          "link": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "title": "Sam Altman didn’t need another lawsuit",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's…",
+          "published": "2026-07-14T14:01:07.000Z"
+        },
+        {
+          "title": "Pixel Watch 5 leak shows off four different finishes",
+          "link": "https://www.theverge.com/tech/965293/google-pixel-watch-5-leak-finishes",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "A new leak may have just spoiled the Pixel Watch 5 and its finishes ahead of Google's launch event next month. Leaked press renders provided to The Tide Chart by OnLeaks appear to show the upcoming watch with four case finishes: black…",
+          "published": "2026-07-14T13:39:36.000Z"
+        },
+        {
+          "title": "EverQuest’s biggest fans are leading its revival",
+          "link": "https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Live-service games and the companies that run them are in big trouble. Games and their developers are getting shut down and gutted, and publishers' huge promises are dubious. Meanwhile, EverQuest, one of the original live-service games,…",
+          "published": "2026-07-14T13:00:00.000Z"
+        },
+        {
+          "title": "Proof of Care in the Age of A.I",
+          "link": "https://jacobfilipp.com/care/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-14T11:46:02.000Z"
+          "published": "2026-07-14T12:56:25.000Z"
+        },
+        {
+          "title": "Tensor Is the Might",
+          "link": "https://zserge.com/posts/tensor/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T12:56:21.000Z"
+        },
+        {
+          "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+          "link": "https://github.com/Danau5tin/ai-trains-ai",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T12:41:25.000Z"
+        },
+        {
+          "title": "Beautiful Type Erasure with C++26 Reflection",
+          "link": "https://ryanjk5.github.io/posts/rjk-duck/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T12:40:50.000Z"
+        },
+        {
+          "title": "Coding agents think ahead of time",
+          "link": "https://arxiv.org/abs/2607.05188",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T12:28:09.000Z"
+        },
+        {
+          "title": "Differentiable Fortran with LFortran and Enzyme",
+          "link": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T12:21:46.000Z"
+        },
+        {
+          "title": "Germany set to restrict its Freedom of Information Act",
+          "link": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T11:49:48.000Z"
         },
         {
           "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
@@ -216,14 +288,6 @@
           "category": "tech",
           "snippet": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing…",
           "published": "2026-07-14T11:43:29.000Z"
-        },
-        {
-          "title": "The Definition of Done",
-          "link": "https://adi.bio/done",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T11:33:36.000Z"
         },
         {
           "title": "Punch Yourself in the Face with Reality",
@@ -242,7 +306,7 @@
           "published": "2026-07-14T11:30:36.000Z"
         },
         {
-          "title": "Codex starts encrypting prompts, uses ciphertext for inference instead",
+          "title": "Codex starts encrypting sub-agent prompts",
           "link": "https://github.com/openai/codex/issues/28058",
           "source": "Hacker News",
           "category": "tech",
@@ -266,7 +330,7 @@
           "published": "2026-07-14T11:06:09.000Z"
         },
         {
-          "title": "The Future Worth Building Is Human – Thinking Machines Lab",
+          "title": "The Future Worth Building Is Human",
           "link": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
           "source": "Hacker News",
           "category": "tech",
@@ -328,76 +392,60 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-14T05:57:50.000Z"
-        },
-        {
-          "title": "Australian energy retailers must provide three hours of free daytime electricity",
-          "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T04:31:48.000Z"
-        },
-        {
-          "title": "YouTrackDB is a general-use object-oriented graph database",
-          "link": "https://github.com/JetBrains/youtrackdb",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T03:39:55.000Z"
-        },
-        {
-          "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-          "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T02:27:20.000Z"
-        },
-        {
-          "title": "Fundamentals of Wireless Communication (2005)",
-          "link": "https://web.stanford.edu/~dntse/wireless_book.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T02:10:19.000Z"
-        },
-        {
-          "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
-          "link": "https://satellitemap.space/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T01:55:24.000Z"
-        },
-        {
-          "title": "Is x86 ready to ACE it?",
-          "link": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T01:36:13.000Z"
-        },
-        {
-          "title": "The Economics of Recursive Self-Improvement [pdf]",
-          "link": "https://elasticity.institute/rsi-paper.pdf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T01:35:23.000Z"
-        },
-        {
-          "title": "MorphoHDL: A minimalistic language for growing circuits",
-          "link": "https://paradigms-of-intelligence.github.io/morpho/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T01:17:30.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Former Mayo Clinic Leader Sues System Over Alleged AI Cover-Up: 6 Things To Know",
+          "link": "https://medcitynews.com/2026/07/mayo-clinic-ai-lawsuit/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A former Mayo Clinic research director claims she was silenced, demoted, and ultimately fired for sounding the alarm on AI safety and patient privacy lapses at the health system. Traci Tamiko Eto is now suing Mayo for retaliation. The…",
+          "published": "2026-07-14T14:03:00.000Z"
+        },
+        {
+          "title": "Two cheers – but not three – for Roberts and Barrett",
+          "link": "https://www.scotusblog.com/2026/07/two-cheers-but-not-three-for-roberts-and-barrett/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Chief Justice John Roberts and Justice Amy Coney Barrett deserve high praise for the pivotal role they played at the end of the just-concluded term in two key cases. One is Trump v. Barbara , the monumental decision confirming that the…",
+          "published": "2026-07-14T14:00:00.000Z"
+        },
+        {
+          "title": "The biggest Supreme Court surprises this term",
+          "link": "https://www.scotusblog.com/2026/07/the-biggest-supreme-court-surprises-this-term/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "At the end of a recent talk on the Supreme Court’s latest term I was asked what surprised me most about the term. I was not surprised by the results in the most high-profile cases of the term, such as tariffs , presidential removal power…",
+          "published": "2026-07-14T13:30:00.000Z"
+        },
+        {
+          "title": "Executive power and its limits",
+          "link": "https://www.scotusblog.com/2026/07/executive-power-and-its-limits/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Watch on YouTube Zachary Shemtob: [00:00:00] So first of all, thank you so much to Amy. I’m really excited to have this conversation. There’s so much to talk about. Unfortunately, we have limited time, so I’m [going to] try and make it as…",
+          "published": "2026-07-14T13:15:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 07.14.26",
+          "link": "https://abovethelaw.com/2026/07/morning-docket-07-14-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* States take up antitrust challenge to Paramount-Warner Bros. deal after DOJ looks the other way in deference to presidential donors. [ Deadline ] * Fifth Circuit overturns earlier panel decision and reaffirmed that the federal…",
+          "published": "2026-07-14T13:01:20.000Z"
+        },
+        {
+          "title": "A history of justices testifying before Congress",
+          "link": "https://www.scotusblog.com/2026/07/a-history-of-justices-testifying-before-congress/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Justices Kagan and Barrett will discuss the court’s budget request before House and Senate subcommittees.",
+          "published": "2026-07-14T13:00:00.000Z"
+        },
         {
           "title": "Trump v. Trump Did Not Impress The Judge See Also",
           "link": "https://abovethelaw.com/2026/07/trump-v-trump-did-not-impress-the-judge-see-also/",
@@ -541,54 +589,6 @@
           "category": "legal",
           "snippet": "Plus, a closer look at summer order lists.",
           "published": "2026-07-13T13:00:00.000Z"
-        },
-        {
-          "title": "If At First You Fail Miserably At The Supreme Court, Try, Try Again See Generally",
-          "link": "https://abovethelaw.com/2026/07/if-at-first-you-fail-miserbly-at-the-supreme-court-try-try-again-see-generally/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Insanity Is Doing The Same Thing Twice And Expecting...: Trump wants the same Supreme Court that just rejected his birthright citizenship order to rehear the whole thing \"immediately.\" And he decided to insult them in the process.…",
-          "published": "2026-07-12T23:09:37.000Z"
-        },
-        {
-          "title": "Sullivan Cromwell Has A Civil War On Its Hands See Also",
-          "link": "https://abovethelaw.com/2026/07/sullivan-cromwell-has-a-civil-war-on-its-hands-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Red Line Bob Giuffra Drew For Himself Didn't Last: Sullivan Cromwell said it would never touch the Carroll cases... Sullivan Cromwell is now touching the Carroll cases. Law School Laptop Ban : Chicago wants to get ahead of AI and…",
-          "published": "2026-07-10T23:34:00.000Z"
-        },
-        {
-          "title": "Biglaw Summer Associateships Are Hugely Important To Your Legal Career",
-          "link": "https://abovethelaw.com/2026/07/biglaw-summer-associateships-are-hugely-important-to-your-legal-career/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The process of securing that job starts before law school even starts. The post Biglaw Summer Associateships Are Hugely Important To Your Legal Career appeared first on Above the Law .",
-          "published": "2026-07-10T23:00:00.000Z"
-        },
-        {
-          "title": "Stat(s) Of The Week: ‘Soft Skills’ Are All The Rage",
-          "link": "https://abovethelaw.com/2026/07/stats-of-the-week-soft-skills-are-all-the-rage/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "But are young lawyers learning? The post Stat(s) Of The Week: ‘Soft Skills’ Are All The Rage appeared first on Above the Law .",
-          "published": "2026-07-10T22:34:00.000Z"
-        },
-        {
-          "title": "Some Practice Areas Are More Stressful Than Others",
-          "link": "https://abovethelaw.com/2026/07/some-practice-areas-are-more-stressful-than-others/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Lawyers who practice in some areas of the law are often made of tougher stuff than the rest of us. The post Some Practice Areas Are More Stressful Than Others appeared first on Above the Law .",
-          "published": "2026-07-10T22:02:00.000Z"
-        },
-        {
-          "title": "The Death Of Organic Reach On Social: What Lawyers Can Do",
-          "link": "https://abovethelaw.com/2026/07/the-death-of-organic-reach-on-social-what-lawyers-can-do/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Position your law firm as an approachable source of quality information, and showcase your legal expertise. The post The Death Of Organic Reach On Social: What Lawyers Can Do appeared first on Above the Law .",
-          "published": "2026-07-10T21:31:00.000Z"
         }
       ]
     }
