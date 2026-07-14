@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T01:28:49.833Z",
+  "updated": "2026-07-14T04:27:02.890Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -9,8 +9,16 @@
           "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
-          "published": "2026-07-13T23:42:24.000Z"
+          "snippet": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
+          "published": "2026-07-14T04:05:13.000Z"
+        },
+        {
+          "title": "US burrito chain Chipotle opening first outlet in Mexico",
+          "link": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Other US fast food brands have struggled to succeed in the countries their dishes originated.",
+          "published": "2026-07-14T02:42:51.000Z"
         },
         {
           "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
           "published": "2026-07-10T16:42:24.000Z"
-        },
-        {
-          "title": "Major car firms found not to have installed emissions-cheating devices",
-          "link": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A High Court judge said some major car manufacturers did not install a device to cheat emissions testing.",
-          "published": "2026-07-10T16:18:08.000Z"
         }
       ]
     },
@@ -202,12 +202,92 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "ESBMC-Arduino: Closing the Deployment Gap for Formal Verification",
-          "link": "https://arxiv.org/abs/2607.08550",
+          "title": "Agents.md – Dumb Human",
+          "link": "https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-14T00:58:55.000Z"
+          "published": "2026-07-14T02:47:54.000Z"
+        },
+        {
+          "title": "Our Amish Language",
+          "link": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T02:40:41.000Z"
+        },
+        {
+          "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+          "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T02:27:20.000Z"
+        },
+        {
+          "title": "Fundamentals of Wireless Communication",
+          "link": "https://web.stanford.edu/~dntse/wireless_book.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T02:10:19.000Z"
+        },
+        {
+          "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+          "link": "https://satellitemap.space/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T01:55:24.000Z"
+        },
+        {
+          "title": "What will be left for us to work on?",
+          "link": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T01:44:40.000Z"
+        },
+        {
+          "title": "Building Food Metadata with LLM Juries",
+          "link": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T01:41:49.000Z"
+        },
+        {
+          "title": "Is x86 ready to ACE it?",
+          "link": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T01:36:13.000Z"
+        },
+        {
+          "title": "The Economics of Recursive Self-Improvement [pdf]",
+          "link": "https://elasticity.institute/rsi-paper.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T01:35:23.000Z"
+        },
+        {
+          "title": "MorphoHDL: A minimalistic language for growing circuits",
+          "link": "https://paradigms-of-intelligence.github.io/morpho/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T01:17:30.000Z"
+        },
+        {
+          "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+          "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
+          "published": "2026-07-14T01:17:14.000Z"
         },
         {
           "title": "The Git history command deserves more attention",
@@ -218,12 +298,12 @@
           "published": "2026-07-14T00:57:11.000Z"
         },
         {
-          "title": "What did SFFA vs. Harvard reveal about admissions?",
-          "link": "https://sorting-machine.pages.dev/",
+          "title": "Success may not matter if you aren't doing what you love",
+          "link": "https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-14T00:26:43.000Z"
+          "published": "2026-07-14T00:26:00.000Z"
         },
         {
           "title": "Turn your singing voice into printable notes (in the browser)",
@@ -234,14 +314,6 @@
           "published": "2026-07-14T00:10:36.000Z"
         },
         {
-          "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
-          "link": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T23:39:10.000Z"
-        },
-        {
           "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
           "link": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
           "source": "Hacker News",
@@ -250,28 +322,12 @@
           "published": "2026-07-13T23:26:52.000Z"
         },
         {
-          "title": "Show HN: ContextVault – Shared memory layer for your AI and your team",
-          "link": "https://www.contextvault.dev/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T23:22:18.000Z"
-        },
-        {
           "title": "An Englishwoman who sketched India before photography took hold",
           "link": "https://www.bbc.com/news/articles/cm2drrv6q54o",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-13T23:12:22.000Z"
-        },
-        {
-          "title": "Mawlynnong, India, transformed by tourism, bans visitors on Sundays",
-          "link": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T22:19:16.000Z"
         },
         {
           "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
@@ -336,62 +392,6 @@
           "category": "tech",
           "snippet": "Noise-canceling earbuds are great for flights and focusing, but they're not always ideal for outdoor workouts. The last-gen Shokz OpenRun Pro's open-ear design lets you enjoy music while staying aware of approaching cars, cyclists, and…",
           "published": "2026-07-13T20:57:44.000Z"
-        },
-        {
-          "title": "The Pixel colors might rule this year",
-          "link": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listings spotted by 9to5Google show what appear to be placeholders for Google's upcoming Pixel 11 in hot pink Fuchsia (Hibiscus),…",
-          "published": "2026-07-13T20:52:27.000Z"
-        },
-        {
-          "title": "Apple’s public betas for iOS 27 and more are out now",
-          "link": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big…",
-          "published": "2026-07-13T20:45:40.000Z"
-        },
-        {
-          "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-          "link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing…",
-          "published": "2026-07-13T20:44:20.000Z"
-        },
-        {
-          "title": "Siri AI is already changing how I use my iPhone",
-          "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote.…",
-          "published": "2026-07-13T20:43:20.000Z"
-        },
-        {
-          "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
-          "link": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The macOS 27 Golden Gate public beta is here, and anyone with an M-series Mac now has easier access to test-drive Apple's latest changes - including a more subdued Liquid Glass aesthetic. That's reason enough to be at least a little…",
-          "published": "2026-07-13T20:43:15.000Z"
-        },
-        {
-          "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
-          "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
-          "published": "2026-07-13T20:41:26.000Z"
-        },
-        {
-          "title": "Show HN: YouTube Guitar Tab Parser",
-          "link": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-13T20:13:14.000Z"
         }
       ]
     },
