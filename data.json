@@ -1,16 +1,32 @@
 {
-  "updated": "2026-07-14T14:21:29.492Z",
+  "updated": "2026-07-14T15:54:36.071Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Paramount still plans to close WBD merger by end of September despite lawsuit",
+          "link": "https://www.cnbc.com/2026/07/14/paramount-wbd-merger-lawsuit.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Paramount is still planning for its acquisition of Warner Bros. Discovery to close by late September despite lawsuit challenge from state attorneys general.",
+          "published": "2026-07-14T15:36:24.000Z"
+        },
+        {
+          "title": "United Airlines' new upsell: Keeping other travelers out of the middle seat",
+          "link": "https://www.cnbc.com/2026/07/14/united-airlines-for-empty-middle-seat-is-new-upsell.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "United Airlines will allow customers to pay more to keep the middle seat open on its Airbus A321XLRs",
+          "published": "2026-07-14T15:18:55.000Z"
+        },
         {
           "title": "US inflation rate eases to 3.5% as gasoline prices fall",
           "link": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
-          "published": "2026-07-14T13:51:22.000Z"
+          "published": "2026-07-14T14:50:35.000Z"
         },
         {
           "title": "World Cup's biggest spenders show up late as semifinals drive host city travel boom",
@@ -27,14 +43,6 @@
           "category": "markets",
           "snippet": "Production will stop for two years at the mine which employs more than 4,000 people.",
           "published": "2026-07-14T13:22:09.000Z"
-        },
-        {
-          "title": "United Airlines' new upsell: Keeping other travelers out of the middle seat",
-          "link": "https://www.cnbc.com/2026/07/14/united-airlines-for-empty-middle-seat-is-new-upsell.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "United Airlines will allow customers to pay more to keep the middle seat open on its Airbus A321XLRs",
-          "published": "2026-07-14T13:17:32.000Z"
         },
         {
           "title": "Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX's Starlink",
@@ -187,20 +195,68 @@
           "category": "markets",
           "snippet": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
           "published": "2026-07-13T16:05:13.000Z"
-        },
-        {
-          "title": "The SpaceX IPO made history. One month on has it lost momentum?",
-          "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
-          "published": "2026-07-13T11:45:25.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Spotify is now an AI chatbot, too",
+          "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now…",
+          "published": "2026-07-14T15:47:36.000Z"
+        },
+        {
+          "title": "Show HN: Opening lines of famous literary works",
+          "link": "https://www.verbaprima.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T15:24:49.000Z"
+        },
+        {
+          "title": "X admits its broken algorithm made the site feel like a battleground",
+          "link": "https://www.theverge.com/tech/965360/x-algorithm-tweak-mutuals-strangers-community",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "X's head of product, Nikita Bier, admitted in a post on Monday that X's algorithm was \"missing\" data about surfacing posts from people who you've followed back. Now, he says a tweak will \"boost visibility of your posts to your mutuals,\"…",
+          "published": "2026-07-14T15:20:21.000Z"
+        },
+        {
+          "title": "Are we offloading too much of our thinking to AI?",
+          "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T15:18:13.000Z"
+        },
+        {
+          "title": "Taco Bell eyed in explosive diarrheal outbreak; leafy greens suspected",
+          "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Health officials have not confirmed a source yet—and there may be multiple sources.",
+          "published": "2026-07-14T14:49:02.000Z"
+        },
+        {
+          "title": "New York becomes the first state to impose a data center moratorium",
+          "link": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T14:17:54.000Z"
+        },
+        {
+          "title": "Agnes Callard’s theory of the uni-context",
+          "link": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T14:17:39.000Z"
+        },
         {
           "title": "Sam Altman didn’t need another lawsuit",
           "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
@@ -218,6 +274,14 @@
           "published": "2026-07-14T13:39:36.000Z"
         },
         {
+          "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
+          "link": "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "New research overturns assumption that abstinent younger drinkers are behind weak demand.",
+          "published": "2026-07-14T13:19:16.000Z"
+        },
+        {
           "title": "EverQuest’s biggest fans are leading its revival",
           "link": "https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers",
           "source": "The Verge",
@@ -226,7 +290,7 @@
           "published": "2026-07-14T13:00:00.000Z"
         },
         {
-          "title": "Proof of Care in the Age of A.I",
+          "title": "Proof of care in the age of AI",
           "link": "https://jacobfilipp.com/care/",
           "source": "Hacker News",
           "category": "tech",
@@ -282,6 +346,14 @@
           "published": "2026-07-14T11:49:48.000Z"
         },
         {
+          "title": "How to stop Claude from saying load-bearing",
+          "link": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T11:46:02.000Z"
+        },
+        {
           "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
           "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
           "source": "The Verge",
@@ -290,7 +362,7 @@
           "published": "2026-07-14T11:43:29.000Z"
         },
         {
-          "title": "Punch Yourself in the Face with Reality",
+          "title": "Punch yourself in the face with reality",
           "link": "https://adi.bio/reality",
           "source": "Hacker News",
           "category": "tech",
@@ -298,12 +370,12 @@
           "published": "2026-07-14T11:33:19.000Z"
         },
         {
-          "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
-          "link": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+          "title": "No Spanish reading crisis?",
+          "link": "https://www.commonreader.co.uk/p/no-spanish-reading-crisis",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-14T11:30:36.000Z"
+          "published": "2026-07-14T11:31:59.000Z"
         },
         {
           "title": "Codex starts encrypting sub-agent prompts",
@@ -320,84 +392,28 @@
           "category": "tech",
           "snippet": "Reflect Orbital has been given the green light to launch its first space mirror that aims to redirect sunlight down to Earth at night. The US Federal Communications Commission (FCC) has authorized the California-based startup to build and…",
           "published": "2026-07-14T11:10:39.000Z"
-        },
-        {
-          "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
-          "link": "https://github.com/rejourneyco/rejourney",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T11:06:09.000Z"
-        },
-        {
-          "title": "The Future Worth Building Is Human",
-          "link": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T11:05:27.000Z"
-        },
-        {
-          "title": "Actegories",
-          "link": "https://bartoszmilewski.com/2026/06/30/actegories/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T11:05:15.000Z"
-        },
-        {
-          "title": "Let’s build a children’s public internet",
-          "link": "https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "An increasing number of people seem to agree the internet is terrible for children - allegedly addictive, destructive to self-esteem, possibly a portal to predators. Over the past year, several countries have started requiring stringent…",
-          "published": "2026-07-14T11:00:00.000Z"
-        },
-        {
-          "title": "The great digital fatigue: How digital burnout is changing social media use",
-          "link": "https://blog.incogni.com/digital-fatigue-and-burnout/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T10:58:38.000Z"
-        },
-        {
-          "title": "New York becomes the first state to enact a data center moratorium",
-          "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more…",
-          "published": "2026-07-14T09:00:00.000Z"
-        },
-        {
-          "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-          "link": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T08:24:49.000Z"
-        },
-        {
-          "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-          "link": "https://www.bbc.com/news/articles/cg53l737v1qo",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T06:43:28.000Z"
-        },
-        {
-          "title": "Just Let Me Write Digits",
-          "link": "https://gendx.dev/blog/2026/07/13/input-digits.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T05:57:50.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Legal Operations Was Built For The AI Era",
+          "link": "https://abovethelaw.com/2026/07/the-moment-legal-found-out-what-ready-really-means-2/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The technology is different, but the conversations aren't. The post Legal Operations Was Built For The AI Era appeared first on Above the Law .",
+          "published": "2026-07-14T15:32:00.000Z"
+        },
+        {
+          "title": "Exclusive: As Its Kaleidoscope Conference Returns For Year Two, 8am Trades Austin’s Cowboy Boots For The Las Vegas Strip — And Books The Savannah Bananas’ Founder As Keynote",
+          "link": "https://www.lawnext.com/2026/07/exclusive-as-its-kaleidoscope-conference-returns-for-year-two-8am-trades-austins-cowboy-boots-for-the-las-vegas-strip-and-books-the-savannah-bananas-founder-as-keynote.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The yellow-tuxedoed showman is famous for turning a struggling minor league baseball franchise into a viral global phenomenon by putting fan experience above all else. The post Exclusive: As Its Kaleidoscope Conference Returns For Year…",
+          "published": "2026-07-14T14:52:22.000Z"
+        },
         {
           "title": "Former Mayo Clinic Leader Sues System Over Alleged AI Cover-Up: 6 Things To Know",
           "link": "https://medcitynews.com/2026/07/mayo-clinic-ai-lawsuit/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "This month the World Cup final will be played at MetLife Stadium, home of the New York Giants and Jets. Nobody finds it odd that soccer’s biggest match will be staged in a stadium built for football. That’s remarkable, because 44 years…",
           "published": "2026-07-13T13:30:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 07.13.26",
-          "link": "https://abovethelaw.com/2026/07/morning-docket-07-13-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Lindsey Graham died over the weekend, removing a key Trump ally from the Judiciary Committee in advance of Todd Blanche's already controversial nomination hearings. [ PBS ] * Civil rights coalition calls for Senate to reject Blanche. […",
-          "published": "2026-07-13T13:25:31.000Z"
-        },
-        {
-          "title": "How Justice Samuel Alito stands out",
-          "link": "https://www.scotusblog.com/2026/07/how-justice-samuel-alito-stands-out/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a closer look at summer order lists.",
-          "published": "2026-07-13T13:00:00.000Z"
         }
       ]
     }
