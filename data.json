@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-14T15:54:36.071Z",
+  "updated": "2026-07-14T17:03:46.634Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Port of Dover works to avoid summer travel chaos",
+          "link": "https://www.bbc.co.uk/news/articles/cp8l8zdn7k6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It is hoped the long queues and delays seen over the May bank holiday will not be repeated.",
+          "published": "2026-07-14T16:42:13.000Z"
+        },
+        {
+          "title": "Gas prices drive down US inflation - but will it last?",
+          "link": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
+          "published": "2026-07-14T16:05:16.000Z"
+        },
         {
           "title": "Paramount still plans to close WBD merger by end of September despite lawsuit",
           "link": "https://www.cnbc.com/2026/07/14/paramount-wbd-merger-lawsuit.html",
@@ -19,14 +35,6 @@
           "category": "markets",
           "snippet": "United Airlines will allow customers to pay more to keep the middle seat open on its Airbus A321XLRs",
           "published": "2026-07-14T15:18:55.000Z"
-        },
-        {
-          "title": "US inflation rate eases to 3.5% as gasoline prices fall",
-          "link": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
-          "published": "2026-07-14T14:50:35.000Z"
         },
         {
           "title": "World Cup's biggest spenders show up late as semifinals drive host city travel boom",
@@ -187,20 +195,68 @@
           "category": "markets",
           "snippet": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
           "published": "2026-07-13T16:19:15.000Z"
-        },
-        {
-          "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
-          "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
-          "published": "2026-07-13T16:05:13.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Boston Dynamics tries using robot dogs for deliveries",
+          "link": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Boston Dynamics' robotic quadruped Spot has already found work doing routine factory inspections and patrolling the ruins of Pompeii, but what about deliveries?. The company is testing a new conveyor belt accessory that allows Spot to…",
+          "published": "2026-07-14T16:52:47.000Z"
+        },
+        {
+          "title": "Sony delays its new PS5 fight stick",
+          "link": "https://www.theverge.com/games/965457/sony-playstation-flexstrike-wireless-fight-stick-delay",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Sony is delaying the launch of its FlexStrike fight stick controller for PS5 and PC, which had been set to launch on August 6th, to an unspecified date in the future. The company blames the delayed launch on \"unexpected production…",
+          "published": "2026-07-14T16:47:49.000Z"
+        },
+        {
+          "title": "Nomad s high-end phone accessories are up to 30 percent off",
+          "link": "https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Premium phone accessory maker Nomad is celebrating its anniversary with discounts on its entire catalog of products. The sale will knocks off up to thirty percent off usual prices and will run through July 20th. We found some particularly…",
+          "published": "2026-07-14T16:46:27.000Z"
+        },
+        {
+          "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+          "link": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T16:36:06.000Z"
+        },
+        {
+          "title": "The OLED Xbox Ally X20 is so good, Asus will sell it solo",
+          "link": "https://www.theverge.com/games/965123/asus-rog-xbox-ally-x20-oled-preview",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "When I first told you about the \"OLED Xbox Ally X of my dreams,\" I had to curb my enthusiasm a bit. That's partly because I hadn't yet tried the handheld myself, and partly because Asus was only planning to sell it bundled with a pair of…",
+          "published": "2026-07-14T16:09:09.000Z"
+        },
+        {
+          "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+          "link": "https://agnost.ai",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-14T16:06:18.000Z"
+        },
+        {
+          "title": "The Google Images homepage will recommend photos even before you search",
+          "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you…",
+          "published": "2026-07-14T16:00:00.000Z"
+        },
         {
           "title": "Spotify is now an AI chatbot, too",
           "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
@@ -234,7 +290,15 @@
           "published": "2026-07-14T15:18:13.000Z"
         },
         {
-          "title": "Taco Bell eyed in explosive diarrheal outbreak; leafy greens suspected",
+          "title": "New York bans data center construction for a year, rattling AI industry",
+          "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
+          "published": "2026-07-14T15:06:28.000Z"
+        },
+        {
+          "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
           "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
           "source": "Ars Technica",
           "category": "tech",
@@ -242,20 +306,12 @@
           "published": "2026-07-14T14:49:02.000Z"
         },
         {
-          "title": "New York becomes the first state to impose a data center moratorium",
-          "link": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
+          "title": "The Agentic Loop: Three loops in a trench coat",
+          "link": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-14T14:17:54.000Z"
-        },
-        {
-          "title": "Agnes Callard’s theory of the uni-context",
-          "link": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T14:17:39.000Z"
+          "published": "2026-07-14T14:39:56.000Z"
         },
         {
           "title": "Sam Altman didn’t need another lawsuit",
@@ -290,14 +346,6 @@
           "published": "2026-07-14T13:00:00.000Z"
         },
         {
-          "title": "Proof of care in the age of AI",
-          "link": "https://jacobfilipp.com/care/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T12:56:25.000Z"
-        },
-        {
           "title": "Tensor Is the Might",
           "link": "https://zserge.com/posts/tensor/",
           "source": "Hacker News",
@@ -322,14 +370,6 @@
           "published": "2026-07-14T12:40:50.000Z"
         },
         {
-          "title": "Coding agents think ahead of time",
-          "link": "https://arxiv.org/abs/2607.05188",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T12:28:09.000Z"
-        },
-        {
           "title": "Differentiable Fortran with LFortran and Enzyme",
           "link": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
           "source": "Hacker News",
@@ -352,76 +392,12 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-14T11:46:02.000Z"
-        },
-        {
-          "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-          "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing…",
-          "published": "2026-07-14T11:43:29.000Z"
-        },
-        {
-          "title": "Punch yourself in the face with reality",
-          "link": "https://adi.bio/reality",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T11:33:19.000Z"
-        },
-        {
-          "title": "No Spanish reading crisis?",
-          "link": "https://www.commonreader.co.uk/p/no-spanish-reading-crisis",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T11:31:59.000Z"
-        },
-        {
-          "title": "Codex starts encrypting sub-agent prompts",
-          "link": "https://github.com/openai/codex/issues/28058",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T11:21:32.000Z"
-        },
-        {
-          "title": "The first sunlight reflecting space mirror has been cleared for launch",
-          "link": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Reflect Orbital has been given the green light to launch its first space mirror that aims to redirect sunlight down to Earth at night. The US Federal Communications Commission (FCC) has authorized the California-based startup to build and…",
-          "published": "2026-07-14T11:10:39.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
-        {
-          "title": "Legal Operations Was Built For The AI Era",
-          "link": "https://abovethelaw.com/2026/07/the-moment-legal-found-out-what-ready-really-means-2/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The technology is different, but the conversations aren't. The post Legal Operations Was Built For The AI Era appeared first on Above the Law .",
-          "published": "2026-07-14T15:32:00.000Z"
-        },
-        {
-          "title": "Exclusive: As Its Kaleidoscope Conference Returns For Year Two, 8am Trades Austin’s Cowboy Boots For The Las Vegas Strip — And Books The Savannah Bananas’ Founder As Keynote",
-          "link": "https://www.lawnext.com/2026/07/exclusive-as-its-kaleidoscope-conference-returns-for-year-two-8am-trades-austins-cowboy-boots-for-the-las-vegas-strip-and-books-the-savannah-bananas-founder-as-keynote.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The yellow-tuxedoed showman is famous for turning a struggling minor league baseball franchise into a viral global phenomenon by putting fan experience above all else. The post Exclusive: As Its Kaleidoscope Conference Returns For Year…",
-          "published": "2026-07-14T14:52:22.000Z"
-        },
-        {
-          "title": "Former Mayo Clinic Leader Sues System Over Alleged AI Cover-Up: 6 Things To Know",
-          "link": "https://medcitynews.com/2026/07/mayo-clinic-ai-lawsuit/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A former Mayo Clinic research director claims she was silenced, demoted, and ultimately fired for sounding the alarm on AI safety and patient privacy lapses at the health system. Traci Tamiko Eto is now suing Mayo for retaliation. The…",
-          "published": "2026-07-14T14:03:00.000Z"
-        },
         {
           "title": "Two cheers – but not three – for Roberts and Barrett",
           "link": "https://www.scotusblog.com/2026/07/two-cheers-but-not-three-for-roberts-and-barrett/",
@@ -447,132 +423,12 @@
           "published": "2026-07-14T13:15:00.000Z"
         },
         {
-          "title": "Morning Docket: 07.14.26",
-          "link": "https://abovethelaw.com/2026/07/morning-docket-07-14-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* States take up antitrust challenge to Paramount-Warner Bros. deal after DOJ looks the other way in deference to presidential donors. [ Deadline ] * Fifth Circuit overturns earlier panel decision and reaffirmed that the federal…",
-          "published": "2026-07-14T13:01:20.000Z"
-        },
-        {
           "title": "A history of justices testifying before Congress",
           "link": "https://www.scotusblog.com/2026/07/a-history-of-justices-testifying-before-congress/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "Justices Kagan and Barrett will discuss the court’s budget request before House and Senate subcommittees.",
           "published": "2026-07-14T13:00:00.000Z"
-        },
-        {
-          "title": "Trump v. Trump Did Not Impress The Judge See Also",
-          "link": "https://abovethelaw.com/2026/07/trump-v-trump-did-not-impress-the-judge-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Benchslapped By His Own Petard : Judge nixes Trump v. IRS settlement citing administration's unitary executive nonsense . Todd Blanche Loses Lindsey Graham : Contentious confirmation hearing set to begin this week will have to go ahead…",
-          "published": "2026-07-13T23:32:00.000Z"
-        },
-        {
-          "title": "Biglaw Firm Is Growing Its Sports Law Practice",
-          "link": "https://abovethelaw.com/2026/07/biglaw-firm-is-growing-its-sports-law-practice/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "And hiring an insider to hard launch the practice. The post Biglaw Firm Is Growing Its Sports Law Practice appeared first on Above the Law .",
-          "published": "2026-07-13T23:02:00.000Z"
-        },
-        {
-          "title": "Yale Law Students Advise Their Own University: Knock Off This Obey In Advance Nonsense",
-          "link": "https://abovethelaw.com/2026/07/yale-law-students-advise-their-own-university-knock-off-this-obey-in-advance-nonsense/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Over 150 students and 26 organizations told Yale to stop negotiating away the rule of law. The post Yale Law Students Advise Their Own University: Knock Off This Obey In Advance Nonsense appeared first on Above the Law .",
-          "published": "2026-07-13T22:12:00.000Z"
-        },
-        {
-          "title": "Carolyn Herzog On Why Legal Leaders Need Optimism, Not Certainty",
-          "link": "https://abovethelaw.com/2026/07/carolyn-herzog-on-why-legal-leaders-need-optimism-not-certainty/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The old legal instinct to pause, assess, and draw hard boundaries no longer works. The post Carolyn Herzog On Why Legal Leaders Need Optimism, Not Certainty appeared first on Above the Law .",
-          "published": "2026-07-13T21:34:00.000Z"
-        },
-        {
-          "title": "Arguments That Embarrass Only The Advocate",
-          "link": "https://abovethelaw.com/2026/07/arguments-that-embarrass-only-the-advocate/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Thinking about issues is a good idea. Making silly arguments that reflect poorly on your intelligence is a less good idea. The post Arguments That Embarrass Only The Advocate appeared first on Above the Law .",
-          "published": "2026-07-13T20:44:00.000Z"
-        },
-        {
-          "title": "Rebecca Slaughter Has A Message For Yale: Grow A Spine",
-          "link": "https://abovethelaw.com/2026/07/rebecca-slaughter-has-a-message-for-yale-grow-a-spine/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The former FTC commissioner isn't buying the argument that a $44 billion university has no choice but to settle. The post Rebecca Slaughter Has A Message For Yale: Grow A Spine appeared first on Above the Law .",
-          "published": "2026-07-13T20:02:00.000Z"
-        },
-        {
-          "title": "Judge Cites Supreme Court s Newfound Unitary Executive Theory To Blow Up Trump s IRS Settlement",
-          "link": "https://abovethelaw.com/2026/07/judge-cites-supreme-courts-newfound-unitary-executive-theory-to-blow-up-trumps-irs-settlement/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "If the President really is the entire executive branch, then he can't be on both sides of the 'v.' The post Judge Cites Supreme Court s Newfound Unitary Executive Theory To Blow Up Trump s IRS Settlement appeared first on Above the Law .",
-          "published": "2026-07-13T19:13:00.000Z"
-        },
-        {
-          "title": "Well, This Doesn t Help Todd Blanche",
-          "link": "https://abovethelaw.com/2026/07/well-this-doesnt-help-todd-blanche/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Lindsey Graham's death ahead of this week's confirmation hearing leaves a very conspicuous empty chair. The post Well, This Doesn t Help Todd Blanche appeared first on Above the Law .",
-          "published": "2026-07-13T18:32:00.000Z"
-        },
-        {
-          "title": "A ‘Projection’ Of The 2027 U.S. News Law School Rankings",
-          "link": "https://abovethelaw.com/2026/07/a-projection-of-the-2027-u-s-news-law-school-rankings/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Which law schools are excluded from the T14 in this version of the rankings? And what happened to Yale? The post A ‘Projection’ Of The 2027 U.S. News Law School Rankings appeared first on Above the Law .",
-          "published": "2026-07-13T17:46:35.000Z"
-        },
-        {
-          "title": "Legal Ethics Roundup: Lawyer Negligence For Not Using AI, Cameras At SCOTUS, Law School Laptop Ban More",
-          "link": "https://abovethelaw.com/2026/07/legal-ethics-roundup-lawyer-negligence-for-not-using-ai-cameras-at-scotus-law-school-laptop-ban-more/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson. The post Legal Ethics Roundup: Lawyer Negligence For Not Using AI, Cameras At SCOTUS, Law School Laptop Ban &…",
-          "published": "2026-07-13T17:11:26.000Z"
-        },
-        {
-          "title": "Larry David Casts His Biglaw Lawyer In New Show",
-          "link": "https://abovethelaw.com/2026/07/larry-david-casts-his-biglaw-lawyer-in-new-show/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Latham partner Andrew Clubok appears as Senator Potter in Life, Larry, and the Pursuit of Unhappiness. The post Larry David Casts His Biglaw Lawyer In New Show appeared first on Above the Law .",
-          "published": "2026-07-13T16:18:00.000Z"
-        },
-        {
-          "title": "Overstock Loon Patrick Byrne Loses To Himself In Court, Must Pay Hunter Biden",
-          "link": "https://www.lawandchaospod.com/p/overstock-loon-patrick-byrne-loses",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "RIP to a real one. The post Overstock Loon Patrick Byrne Loses To Himself In Court, Must Pay Hunter Biden appeared first on Above the Law .",
-          "published": "2026-07-13T15:36:52.000Z"
-        },
-        {
-          "title": "Surprise, Surprise: More Evidence That What You Say To Your Chatbot Isn’t Always Private",
-          "link": "https://abovethelaw.com/2026/07/surprise-surprise-more-evidence-that-what-you-say-to-your-chatbot-isnt-always-private/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Those of us in the legal profession have a responsibility to sound the alarm about what our clients and the public as a whole put in chatbots The post Surprise, Surprise: More Evidence That What You Say To Your Chatbot Isn’t Always…",
-          "published": "2026-07-13T14:49:33.000Z"
-        },
-        {
-          "title": "Marine Serre Enters Receivership, Seeks Investor",
-          "link": "https://fashionista.com/2026/07/marine-serre-enters-receivership-seeks-investor",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Paris Commercial Tribunal granted its request for court protection. The post Marine Serre Enters Receivership, Seeks Investor appeared first on Above the Law .",
-          "published": "2026-07-13T14:03:00.000Z"
         },
         {
           "title": "The Supreme Court and the opinion-assignment guessing game",
@@ -589,6 +445,150 @@
           "category": "legal",
           "snippet": "This month the World Cup final will be played at MetLife Stadium, home of the New York Giants and Jets. Nobody finds it odd that soccer’s biggest match will be staged in a stadium built for football. That’s remarkable, because 44 years…",
           "published": "2026-07-13T13:30:00.000Z"
+        },
+        {
+          "title": "How Justice Samuel Alito stands out",
+          "link": "https://www.scotusblog.com/2026/07/how-justice-samuel-alito-stands-out/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, a closer look at summer order lists.",
+          "published": "2026-07-13T13:00:00.000Z"
+        },
+        {
+          "title": "The limits of the Second Amendment",
+          "link": "https://www.scotusblog.com/2026/07/the-limits-of-the-second-amendment/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "In previous articles, I explored two of the biggest unanswered questions in the Second Amendment space: Who are “the people,” and what constitutes “Arms” ? Both of these questions seemingly emerge from the text of the amendment itself,…",
+          "published": "2026-07-10T14:30:00.000Z"
+        },
+        {
+          "title": "The man and the movement: a Q&A with Peter Canellos on his biography of Samuel Alito",
+          "link": "https://www.scotusblog.com/2026/07/the-man-and-the-movement-a-qa-with-peter-canellos-on-his-biography-of-samuel-alito/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Peter S. Canellos is a prize-winning journalist and the author of Revenge for the Sixties: Sam Alito and the Triumph of the Conservative Legal Movement , which Publishers Weekly called “a razor-sharp” dissection of one of the most…",
+          "published": "2026-07-10T14:00:00.000Z"
+        },
+        {
+          "title": "High court mysteries",
+          "link": "https://www.scotusblog.com/2026/07/high-court-mysteries/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "One might argue that Supreme Court justices are more visible today than ever before. Six have published books and Brett Kavanaugh is apparently working on one to become the seventh. Several have recently given television interviews,…",
+          "published": "2026-07-10T13:30:00.000Z"
+        },
+        {
+          "title": "The rarity of Supreme Court do-overs",
+          "link": "https://www.scotusblog.com/2026/07/the-rarity-of-supreme-court-do-overs/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, what Cecillia Wang said about arguing the birthright citizenship case during SCOTUSblog’s term-in-review event.",
+          "published": "2026-07-10T13:00:00.000Z"
+        },
+        {
+          "title": "At SCOTUSblog’s term-in-review event, National Legal Director of the ACLU Cecillia Wang speaks about arguing birthright citizenship, the term in general, and what’s next on the organization’s docket",
+          "link": "https://www.scotusblog.com/2026/07/at-scotusblogs-term-in-review-event-national-legal-director-of-the-aclu-cecillia-wang-speaks-abo/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Cecillia Wang, the national legal director of the American Civil Liberties Union, called her April 1 argument in Trump v. Barbara , the challenge to President Donald Trump’s executive order seeking to end the guarantee of U.S. citizenship…",
+          "published": "2026-07-09T18:50:00.000Z"
+        },
+        {
+          "title": "Justice shopping on the emergency docket?",
+          "link": "https://www.scotusblog.com/2026/07/justice-shopping-on-the-emergency-docket/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Over the past year, I have written about the emergency docket, and each time the analysis has centered on substantive applications over such issues as whether agency heads can be fired or whether election maps stand. But don’t forget…",
+          "published": "2026-07-09T14:00:00.000Z"
+        },
+        {
+          "title": "Who is the Supreme Court’s most “ideological” justice? And does that question even make sense?",
+          "link": "https://www.scotusblog.com/2026/07/who-is-the-supreme-courts-most-ideological-justice-and-does-that-question-even-make-sense-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "We often describe the court through a familiar shorthand: three Republican-appointed conservatives (Justices Clarence Thomas, Samuel Alito, and Neil Gorsuch) at the far right of the court; three Democratic-appointed liberals (Justices…",
+          "published": "2026-07-09T13:30:00.000Z"
+        },
+        {
+          "title": "Trump wants court to rehear birthright citizenship case",
+          "link": "https://www.scotusblog.com/2026/07/trump-wants-court-to-rehear-birthright-citizenship-case/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, a brief overview of our term-in-review event.",
+          "published": "2026-07-09T13:00:00.000Z"
+        },
+        {
+          "title": "Revisiting which Supreme Court cases are actually the most important",
+          "link": "https://www.scotusblog.com/2026/07/revisiting-which-supreme-court-cases-are-actually-the-most-important/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. In a previous piece for SCOTUSblog, I suggested a somewhat unconventional way to…",
+          "published": "2026-07-08T14:00:00.000Z"
+        },
+        {
+          "title": "The Supreme Court’s quiet coup",
+          "link": "https://www.scotusblog.com/2026/07/the-supreme-courts-quiet-coup/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. Every day, Americans are witnessing the most significant expansion of…",
+          "published": "2026-07-08T13:30:00.000Z"
+        },
+        {
+          "title": "Kagan and Barrett to testify before Congress",
+          "link": "https://www.scotusblog.com/2026/07/kagan-and-barrett-to-testify-before-congress/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, Trump has asked the court to reconsider his appeal of a $5 million jury award.",
+          "published": "2026-07-08T13:00:00.000Z"
+        },
+        {
+          "title": "The Supreme Court’s disturbing approach to federal spending",
+          "link": "https://www.scotusblog.com/2026/07/the-supreme-courts-disturbing-approach-to-federal-spending/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Last week, the Supreme Court finished handing down its opinions in argued cases this term. In light of its decisions on birthright citizenship and the administrative state , one decision, from the prior week, may be somewhat easy to…",
+          "published": "2026-07-07T14:30:00.000Z"
+        },
+        {
+          "title": "Justice Jackson reignites the interpretation wars, adding to textualism’s emerging cracks",
+          "link": "https://www.scotusblog.com/2026/07/justice-jackson-reignites-the-interpretation-wars-adding-to-textualisms-emerging-cracks/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Justice Ketanji Brown Jackson may be starting a statutory-interpretation revolution. Jackson’s third full term was a doozy of separate opinions. Notably, a series of those opinions were written specifically to protest the majority’s…",
+          "published": "2026-07-07T14:00:00.000Z"
+        },
+        {
+          "title": "Is Chief Justice Roberts moderating from the front?",
+          "link": "https://www.scotusblog.com/2026/07/is-chief-justice-roberts-moderating-from-the-front/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Many commentators have complained that Chief Justice John Roberts has shown himself not to be a true institutionalist but rather a conservative ideologue. Hillary Clinton recently provided an example , suggesting that the chief justice…",
+          "published": "2026-07-07T13:30:00.000Z"
+        },
+        {
+          "title": "The latest emergency docket ruling",
+          "link": "https://www.scotusblog.com/2026/07/the-latest-emergency-docket-ruling/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, will the justices have a quiet summer?",
+          "published": "2026-07-07T13:00:00.000Z"
+        },
+        {
+          "title": "Supreme Court allows Texas to enforce law requiring age verification and parental consent on apps",
+          "link": "https://www.scotusblog.com/2026/07/supreme-court-allows-texas-to-enforce-law-requiring-age-verification-and-parental-consent-on-app/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Monday allowed Texas to continue to enforce, at least for now, a law that requires app stores to verify its buyers’ ages and obtain parental consent for minors to download apps and to purchase paid content within…",
+          "published": "2026-07-06T19:52:00.000Z"
+        },
+        {
+          "title": "The justices remained busy last summer. This year, will they actually get a break?",
+          "link": "https://www.scotusblog.com/2026/07/the-justices-remained-busy-last-summer-this-year-will-they-actually-get-a-break/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "One year ago, the Supreme Court had just wrapped up the 2024-25 term with a series of high-profile rulings, including decisions limiting the availability of universal injunctions and upholding a state ban on certain medical treatments for…",
+          "published": "2026-07-06T14:00:00.000Z"
         }
       ]
     }
