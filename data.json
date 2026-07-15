@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-15T21:27:31.127Z",
+  "updated": "2026-07-15T22:28:25.776Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
+          "link": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The billionaire investor's firm has stopped giving donations to the Microsoft co-founder's charity.",
+          "published": "2026-07-15T22:25:35.000Z"
+        },
         {
           "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
           "link": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
@@ -187,20 +195,100 @@
           "category": "markets",
           "snippet": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
           "published": "2026-07-14T22:17:43.000Z"
-        },
-        {
-          "title": "Lucid dismisses report that it is weighing filing for bankruptcy or going private after shares plunge",
-          "link": "https://www.cnbc.com/2026/07/14/lucid-stock-lcid-bankruptcy-report.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The report said Lucid was considering options that could include going private or filing for bankruptcy protection.",
-          "published": "2026-07-14T20:04:23.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
+          "link": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could no longer just…",
+          "published": "2026-07-15T22:16:46.000Z"
+        },
+        {
+          "title": "Sheetz moves 838 stores off VMware: Broadcom created “too much uncertainty\"",
+          "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The conveneince store chain will use StorMagic instead.",
+          "published": "2026-07-15T21:41:56.000Z"
+        },
+        {
+          "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
+          "link": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T21:39:21.000Z"
+        },
+        {
+          "title": "We don't use AI in any of our design or production processes",
+          "link": "https://mass-driver.com/article/from-human-hands",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T21:36:49.000Z"
+        },
+        {
+          "title": "xAI sues a man for using Grok to generate CSAM deepfakes",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and…",
+          "published": "2026-07-15T21:33:20.000Z"
+        },
+        {
+          "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
+          "link": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednesday, Republican Chair Brendan Carr…",
+          "published": "2026-07-15T21:30:17.000Z"
+        },
+        {
+          "title": "Judge: Trump can’t deport researchers just for working in content moderation",
+          "link": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Disinformation researchers praise ruling blocking Trump visa denials and deportations.",
+          "published": "2026-07-15T21:26:02.000Z"
+        },
+        {
+          "title": "The End of Creativity",
+          "link": "https://hugodaniel.com/posts/the-end-of-creativity/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T21:19:42.000Z"
+        },
+        {
+          "title": "Must actively fund open source AI [pdf]",
+          "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T21:16:36.000Z"
+        },
+        {
+          "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
+          "link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Yes, it was, in fact, a Unix system.",
+          "published": "2026-07-15T21:04:22.000Z"
+        },
+        {
+          "title": "Show HN: Firefox in WebAssembly",
+          "link": "https://developer.puter.com/labs/firefox-wasm/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T21:00:17.000Z"
+        },
         {
           "title": "Grok Build",
           "link": "https://github.com/xai-org/grok-build",
@@ -304,94 +392,6 @@
           "category": "tech",
           "snippet": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that…",
           "published": "2026-07-15T17:48:01.000Z"
-        },
-        {
-          "title": "Lucid’s bankruptcy rumor is a bad sign for the EV future",
-          "link": "https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Lucid Motors found itself in a tough bind this week, fending off bankruptcy rumors and watching its stock price plunge as a result. The company quickly denied the report, calling it \"completely false\" and pointing to its available free…",
-          "published": "2026-07-15T17:17:56.000Z"
-        },
-        {
-          "title": "Artie (YC S23) Is Hiring Software Engineers",
-          "link": "https://jobs.ashbyhq.com/artie",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T17:01:02.000Z"
-        },
-        {
-          "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
-          "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "With the settlement withdrawn, Google is now bound by the court's full antitrust remedies.",
-          "published": "2026-07-15T16:55:12.000Z"
-        },
-        {
-          "title": "Netflix tries to recapture Stranger Things magic with nostalgic re-release",
-          "link": "https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Netflix just can't let Stranger Things go. Since the final episode aired on New Year's Eve there's been a behind-the-scenes documentary, an animated series that expands the story, and now, on the 10th anniversary of the show's original…",
-          "published": "2026-07-15T16:37:08.000Z"
-        },
-        {
-          "title": "Collection of Digital Clock Designs",
-          "link": "https://clocks.dev",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T16:33:15.000Z"
-        },
-        {
-          "title": "Open-source memory for coding agents, synced over SSH",
-          "link": "https://github.com/vshulcz/deja-vu/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T16:15:03.000Z"
-        },
-        {
-          "title": "Unsolved Problems in MLOps",
-          "link": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T16:15:01.000Z"
-        },
-        {
-          "title": "Codex Micro",
-          "link": "https://openai.com/supply/co-lab/work-louder/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T16:12:58.000Z"
-        },
-        {
-          "title": "Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser",
-          "link": "https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Samsung gave a sneak peek of the \"brand new shape\" for its upcoming Galaxy Z Fold 8 in a new teaser for Spider-Man: Brand New Day. The video includes a few shots of Spidey taking a foldable phone off a 3D printer and opening it…",
-          "published": "2026-07-15T16:05:34.000Z"
-        },
-        {
-          "title": "OpenAI's first branded hardware is... a light-up keyboard?",
-          "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
-          "published": "2026-07-15T16:00:33.000Z"
-        },
-        {
-          "title": "OpenAI finally launches hardware… for Codex",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to…",
-          "published": "2026-07-15T16:00:00.000Z"
         }
       ]
     },
