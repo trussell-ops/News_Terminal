@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-15T06:07:34.898Z",
+  "updated": "2026-07-15T08:40:31.869Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+          "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
+          "published": "2026-07-15T08:17:28.000Z"
+        },
+        {
+          "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+          "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
+          "published": "2026-07-15T07:58:47.000Z"
+        },
+        {
+          "title": "Thames Water returns to profit after raising bills",
+          "link": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The UK's largest water company reported a post-tax profit for the 12 months to the end of March, but its net debt also swelled.",
+          "published": "2026-07-15T07:35:29.000Z"
+        },
         {
           "title": "China economic growth falls sharply, missing target",
           "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
@@ -13,28 +37,12 @@
           "published": "2026-07-15T05:12:55.000Z"
         },
         {
-          "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-          "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
-          "published": "2026-07-15T03:57:17.000Z"
-        },
-        {
           "title": "Xbox workers stunned after jobs 'bloodbath'",
           "link": "https://www.bbc.co.uk/news/articles/c932eynvq1do?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The video game giant owned by Microsoft plans to let 3,200 workers go. Will it be a big reset or a system crash?",
           "published": "2026-07-15T00:09:04.000Z"
-        },
-        {
-          "title": "Midnight social media curfew proposed for older UK teens",
-          "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Teenagers will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
-          "published": "2026-07-14T23:17:23.000Z"
         },
         {
           "title": "I changed jobs 10 times in 10 years to get the career I wanted",
@@ -187,20 +195,44 @@
           "category": "markets",
           "snippet": "Regulator Ofwat confirms this penalty follows three investigations into the water company.",
           "published": "2026-07-14T10:13:59.000Z"
-        },
-        {
-          "title": "Woman's Hour",
-          "link": "https://www.bbc.co.uk/sounds/play/m002yx3c?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "We hear about a new study exploring the impact hormones have on women with ADHD.",
-          "published": "2026-07-14T10:12:00.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Starlink’s V5 dish is now available — here’s how it compares",
+          "link": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "SpaceX's latest residential dish - the Starlink V5 - is now available in \"select areas.\" It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more places as SpaceX ramps up production to…",
+          "published": "2026-07-15T07:17:27.000Z"
+        },
+        {
+          "title": "Who's running all those tiny RPKI servers?",
+          "link": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T06:38:56.000Z"
+        },
+        {
+          "title": "I tricked Claude into leaking your deepest, darkest secrets",
+          "link": "https://www.ayush.digital/blog/the-memory-heist",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T06:28:00.000Z"
+        },
+        {
+          "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+          "link": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T06:02:17.000Z"
+        },
         {
           "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
           "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
@@ -224,14 +256,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-15T01:08:26.000Z"
-        },
-        {
-          "title": "Data centers have hiked electricity prices on the public by $23B",
-          "link": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T00:20:31.000Z"
         },
         {
           "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
@@ -290,15 +314,7 @@
           "published": "2026-07-14T22:00:41.000Z"
         },
         {
-          "title": "Financing the AI boom: from cash flows to debt [pdf]",
-          "link": "https://www.bis.org/publ/bisbull120.pdf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T21:58:36.000Z"
-        },
-        {
-          "title": "Microsoft Patches a Record 570 Security Flaws",
+          "title": "Microsoft has released software updates to plug at least 570 security holes",
           "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
           "source": "Hacker News",
           "category": "tech",
@@ -306,11 +322,11 @@
           "published": "2026-07-14T21:32:22.000Z"
         },
         {
-          "title": "Windows 11 s big patch Tuesday allows you to hold off on updates for longer",
+          "title": "Microsoft’s biggest ever patch Tuesday lets you hold off updating for longer",
           "link": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, and that includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to…",
+          "snippet": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, patching at least 570 security holes, almost triple the number fixed in last month's record-breaking release, according to Krebs on…",
           "published": "2026-07-14T21:32:04.000Z"
         },
         {
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-14T17:58:35.000Z"
-        },
-        {
-          "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-          "link": "https://prismml.com/news/bonsai-27b",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-14T17:50:48.000Z"
-        },
-        {
-          "title": "Philips Hue s budget-friendly Essential starter kit has hit a new low price",
-          "link": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Although most of Prime Day s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper. None, however, have fallen to a new all-time low price…",
-          "published": "2026-07-14T17:36:05.000Z"
         }
       ]
     },
