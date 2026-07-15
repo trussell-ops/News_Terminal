@@ -1,16 +1,24 @@
 {
-  "updated": "2026-07-15T17:18:35.105Z",
+  "updated": "2026-07-15T18:36:00.846Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "SpaceX share price drops below stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
+          "published": "2026-07-15T18:11:57.000Z"
+        },
         {
           "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
           "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
-          "published": "2026-07-15T17:17:38.000Z"
+          "published": "2026-07-15T17:22:51.000Z"
         },
         {
           "title": "British Steel nationalisation takes step closer",
@@ -187,20 +195,44 @@
           "category": "markets",
           "snippet": "It passes a stegosaurus skeleton that billionaire hedge funder Ken Griffin bought for $44.6 million in 2024.",
           "published": "2026-07-14T17:12:15.000Z"
-        },
-        {
-          "title": "Port of Dover works to avoid summer travel chaos",
-          "link": "https://www.bbc.co.uk/news/articles/cp8l8zdn7k6o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It is hoped the long queues and delays seen over the May bank holiday will not be repeated.",
-          "published": "2026-07-14T16:42:13.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
+          "link": "https://thinkingmachines.ai/inkling/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T18:14:23.000Z"
+        },
+        {
+          "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that…",
+          "published": "2026-07-15T17:48:01.000Z"
+        },
+        {
+          "title": "Lucid’s bankruptcy rumor is a bad sign for the EV future",
+          "link": "https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Lucid Motors found itself in a tough bind this week, fending off bankruptcy rumors and watching its stock price plunge as a result. The company quickly denied the report, calling it \"completely false\" and pointing to its available free…",
+          "published": "2026-07-15T17:17:56.000Z"
+        },
+        {
+          "title": "Show HN: Painterly – Turn pictures into digital paintings without generative AI",
+          "link": "https://github.com/jbunke/painterly",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T17:01:34.000Z"
+        },
         {
           "title": "Artie (YC S23) Is Hiring Software Engineers",
           "link": "https://jobs.ashbyhq.com/artie",
@@ -216,14 +248,6 @@
           "category": "tech",
           "snippet": "Netflix just can't let Stranger Things go. Since the final episode aired on New Year's Eve there's been a behind-the-scenes documentary, an animated series that expands the story, and now, on the 10th anniversary of the show's original…",
           "published": "2026-07-15T16:37:08.000Z"
-        },
-        {
-          "title": "Primate Is the Last Great Web Framework",
-          "link": "https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T16:35:38.000Z"
         },
         {
           "title": "A General Goal-Conditioned Minecraft Model",
@@ -242,12 +266,12 @@
           "published": "2026-07-15T16:33:15.000Z"
         },
         {
-          "title": "Starlink 2X Price Increase",
-          "link": "https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/",
+          "title": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
+          "link": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-15T16:22:43.000Z"
+          "published": "2026-07-15T16:32:05.000Z"
         },
         {
           "title": "What designing 54 computer science cards taught me about graphic design",
@@ -274,12 +298,12 @@
           "published": "2026-07-15T16:15:01.000Z"
         },
         {
-          "title": "Purging George Orwell's books misses what drives the political right",
-          "link": "https://theloop.ecpr.eu/purging-the-books-of-george-orwell-will-not-halt-the-rise-of-the-political-right/",
+          "title": "Codex Micro",
+          "link": "https://openai.com/supply/co-lab/work-louder/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-15T16:13:32.000Z"
+          "published": "2026-07-15T16:12:58.000Z"
         },
         {
           "title": "Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser",
@@ -322,7 +346,7 @@
           "published": "2026-07-15T15:37:47.000Z"
         },
         {
-          "title": "Running Gemma 4 26B at 5 tokens&#x2F;SEC on a 13-year-old Xeon with no GPU",
+          "title": "Running Gemma 4 26B at 5 tokens&#x2F;sec on a 13-year-old Xeon with no GPU",
           "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
           "source": "Hacker News",
           "category": "tech",
@@ -368,36 +392,28 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-15T14:32:36.000Z"
-        },
-        {
-          "title": "My midlife crisis Corolla is fast, furious, and modded",
-          "link": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T14:23:44.000Z"
-        },
-        {
-          "title": "The well-calibrated Bayesian [pdf] (1982)",
-          "link": "https://fitelson.org/seminar/dawid.pdf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T14:11:12.000Z"
-        },
-        {
-          "title": "Towards a Harness That Can Do Anything",
-          "link": "https://eardatasci.github.io/c/ambiance/index.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T14:08:28.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Collateral Damage Across The Legal Industry",
+          "link": "https://abovethelaw.com/2026/07/collateral-damage-across-the-legal-industry/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "From firms to law schools, innocent bystanders take heat. The post Collateral Damage Across The Legal Industry appeared first on Above the Law .",
+          "published": "2026-07-15T18:30:08.000Z"
+        },
+        {
+          "title": "The Explosive Diarrhea Bug Was This SCOTUS Lawyer s Most Unpleasant Argument Yet",
+          "link": "https://abovethelaw.com/2026/07/the-explosive-diarrhea-bug-was-this-scotus-lawyers-most-unpleasant-argument-yet/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "After a miserable bout with cyclosporiasis, Chase Strangio is sounding the alarm on food safety. The post The Explosive Diarrhea Bug Was This SCOTUS Lawyer s Most Unpleasant Argument Yet appeared first on Above the Law .",
+          "published": "2026-07-15T17:43:58.000Z"
+        },
         {
           "title": "Todd Blanche s Former SDNY Colleagues Vouched For Him Last Year. They Won t Make That Mistake Again.",
           "link": "https://abovethelaw.com/2026/07/todd-blanches-former-sdny-colleagues-vouched-for-him-last-year-they-wont-make-that-mistake-again/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Intentional or not, Paul Weiss continues reputational pivot away from litigation. The post Linklaters Poaches Two Paul Weiss Litigators appeared first on Above the Law .",
           "published": "2026-07-14T16:12:00.000Z"
-        },
-        {
-          "title": "Legal Operations Was Built For The AI Era",
-          "link": "https://abovethelaw.com/2026/07/the-moment-legal-found-out-what-ready-really-means-2/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The technology is different, but the conversations aren't. The post Legal Operations Was Built For The AI Era appeared first on Above the Law .",
-          "published": "2026-07-14T15:32:00.000Z"
-        },
-        {
-          "title": "Exclusive: As Its Kaleidoscope Conference Returns For Year Two, 8am Trades Austin’s Cowboy Boots For The Las Vegas Strip — And Books The Savannah Bananas’ Founder As Keynote",
-          "link": "https://www.lawnext.com/2026/07/exclusive-as-its-kaleidoscope-conference-returns-for-year-two-8am-trades-austins-cowboy-boots-for-the-las-vegas-strip-and-books-the-savannah-bananas-founder-as-keynote.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The yellow-tuxedoed showman is famous for turning a struggling minor league baseball franchise into a viral global phenomenon by putting fan experience above all else. The post Exclusive: As Its Kaleidoscope Conference Returns For Year…",
-          "published": "2026-07-14T14:52:22.000Z"
         }
       ]
     }
