@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-15T12:09:48.176Z",
+  "updated": "2026-07-15T14:17:32.509Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Cash-strapped Thames Water poses big test for Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
+          "title": "‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding",
+          "link": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
+          "source": "CNBC Business",
           "category": "markets",
-          "snippet": "Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.",
-          "published": "2026-07-15T12:09:08.000Z"
+          "snippet": "JPMorgan Chase CEO Jamie Dimon unveiled a $24 million package to bolster American shipbuilding, funding a new submarine facility at the Philadelphia Navy Yard.",
+          "published": "2026-07-15T13:45:27.000Z"
         },
         {
           "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
@@ -18,7 +18,15 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.",
-          "published": "2026-07-15T12:08:28.000Z"
+          "published": "2026-07-15T13:44:44.000Z"
+        },
+        {
+          "title": "Cash-strapped Thames Water poses big test for Burnham",
+          "link": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.",
+          "published": "2026-07-15T12:09:08.000Z"
         },
         {
           "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
@@ -187,20 +195,116 @@
           "category": "markets",
           "snippet": "Production will stop for two years at the mine which employs more than 4,000 people.",
           "published": "2026-07-14T13:22:09.000Z"
-        },
-        {
-          "title": "Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX's Starlink",
-          "link": "https://www.cnbc.com/2026/07/14/frontier-airlines-wifi-spacex-starlink.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Frontier is signing with Starlink for in-flight Wi-Fi, with service debuting as early as next year.",
-          "published": "2026-07-14T13:00:01.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Ask HN: Is it just me, or is software buggier across the board?",
+          "link": "https://news.ycombinator.com/item?id=48920698",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T13:41:01.000Z"
+        },
+        {
+          "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+          "link": "https://github.com/evansjp/grepathy",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T13:26:24.000Z"
+        },
+        {
+          "title": "Mysteries of Telegram Data Centers",
+          "link": "https://dev.moe/en/3025",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T13:22:00.000Z"
+        },
+        {
+          "title": "Privacy Incidents – Real-world examples of why your photos need protection",
+          "link": "https://snapsafe.org/incidents.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T13:19:05.000Z"
+        },
+        {
+          "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "link": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T13:18:15.000Z"
+        },
+        {
+          "title": "If you want Claude to speak nicely to you, try Hindi or Arabic",
+          "link": "https://www.theregister.com/ai-and-ml/2026/07/14/if-you-want-claude-to-speak-nicely-to-you-try-hindi-or-arabic/5271409",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T13:04:25.000Z"
+        },
+        {
+          "title": "The tiniest MMO",
+          "link": "https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "At its peak, around 12 million people subscribed to World of Warcraft so that they could explore the realm of Azeroth together. The audience for PointlessQuest is quite a bit smaller. On launch day, the game hit a peak of 15 concurrent…",
+          "published": "2026-07-15T13:00:00.000Z"
+        },
+        {
+          "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
+          "link": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T12:59:09.000Z"
+        },
+        {
+          "title": "What `for x in y` hides from you – From Scratch Code",
+          "link": "https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T12:57:27.000Z"
+        },
+        {
+          "title": "What's the most popular number in Hacker News titles?",
+          "link": "https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T12:40:46.000Z"
+        },
+        {
+          "title": "Germany maybe found a new source of renewable energy",
+          "link": "https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T12:34:05.000Z"
+        },
+        {
+          "title": "Briar Is in Maintenance Mode",
+          "link": "https://briarproject.org/news/2026-maintenance-mode/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T12:33:27.000Z"
+        },
+        {
+          "title": "The Motorola Edge 70 Max is all about power",
+          "link": "https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Motorola has launched the Edge 70 Max, its latest flagship phone that's designed for power intensive tasks like streaming video and mobile gaming. Alongside having a huge battery and rapid wired charging support, the Motorola Edge 70 Max…",
+          "published": "2026-07-15T12:18:22.000Z"
+        },
         {
           "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
           "link": "https://jiga.io/about-us/",
@@ -210,7 +314,7 @@
           "published": "2026-07-15T12:00:23.000Z"
         },
         {
-          "title": "Home Depot’s 12-foot viral skeleton now talks",
+          "title": "Home Depot’s viral 12-foot skeleton now talks",
           "link": "https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds",
           "source": "The Verge",
           "category": "tech",
@@ -218,7 +322,7 @@
           "published": "2026-07-15T12:00:00.000Z"
         },
         {
-          "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
+          "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
           "link": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
           "source": "Hacker News",
           "category": "tech",
@@ -226,12 +330,12 @@
           "published": "2026-07-15T11:46:06.000Z"
         },
         {
-          "title": "Why do people hate the tech industry? (2023)",
-          "link": "https://www.sevarg.net/2023/03/25/why-people-hate-tech/",
-          "source": "Hacker News",
+          "title": "A most improbable astronaut just went to space",
+          "link": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T11:31:50.000Z"
+          "snippet": "\"I pretty much, at that point in time, gave up on being an astronaut.\"",
+          "published": "2026-07-15T11:30:07.000Z"
         },
         {
           "title": "Prioritize mental health, and why communication is so important",
@@ -242,14 +346,6 @@
           "published": "2026-07-15T11:27:35.000Z"
         },
         {
-          "title": "Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",
-          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T11:26:33.000Z"
-        },
-        {
           "title": "Weathergotchi – an open-source climate Tamagotchi",
           "link": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
           "source": "Hacker News",
@@ -258,20 +354,20 @@
           "published": "2026-07-15T11:02:43.000Z"
         },
         {
-          "title": "Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor",
-          "link": "https://dl.acm.org/doi/10.1145/3800645.3813051",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T11:02:10.000Z"
-        },
-        {
           "title": "How hard is it to build orbital data centers, actually?",
           "link": "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "\"The ISS radiators are expensive and heavy. We're focused on making them cheap and light.\"",
           "published": "2026-07-15T11:00:09.000Z"
+        },
+        {
+          "title": "Societal Impacts: Claude's values across models and languages",
+          "link": "https://www.anthropic.com/research/claude-values-models-languages",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T10:56:33.000Z"
         },
         {
           "title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
@@ -290,114 +386,58 @@
           "published": "2026-07-15T10:19:36.000Z"
         },
         {
-          "title": "Boss – Dependency Manager for Delphi and Lazarus",
-          "link": "https://github.com/HashLoad/boss",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T10:18:02.000Z"
-        },
-        {
           "title": "Spotify’s Daniel Ek is bringing his body-scanning clinics to the US",
           "link": "https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Spotify founder Daniel Ek's body-scanning startup, Neko Health, is setting its sights on the United States after raising $700 million from a star-studded group of celebrities, entrepreneurs, and investment firms. It plans to open its…",
           "published": "2026-07-15T10:13:47.000Z"
-        },
-        {
-          "title": "DSLs Enable Reliable Use of LLMs",
-          "link": "https://martinfowler.com/articles/llm-and-dsls.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T10:11:11.000Z"
-        },
-        {
-          "title": "Telegram Serverless",
-          "link": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T10:06:39.000Z"
-        },
-        {
-          "title": "The PS6 sure sounds like a handheld",
-          "link": "https://www.theverge.com/games/963132/sony-playstation-future-handheld-pc-business-meeting-end-of-discs",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The video game industry is in turmoil. Microsoft and Sony are starting to pivot to their next consoles, but it's not looking great: Prices are soaring, Sony is killing the video game disc, and Microsoft is jettisoning studios ahead of the…",
-          "published": "2026-07-15T10:00:00.000Z"
-        },
-        {
-          "title": "Starlink’s V5 dish is now available — here’s how it compares",
-          "link": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "SpaceX's latest residential dish - the Starlink V5 - is now available in \"select areas.\" It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more places as SpaceX ramps up production to…",
-          "published": "2026-07-15T07:17:27.000Z"
-        },
-        {
-          "title": "Who's running all those tiny RPKI servers?",
-          "link": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T06:38:56.000Z"
-        },
-        {
-          "title": "I tricked Claude into leaking your deepest, darkest secrets",
-          "link": "https://www.ayush.digital/blog/the-memory-heist",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T06:28:00.000Z"
-        },
-        {
-          "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
-          "link": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T06:02:17.000Z"
-        },
-        {
-          "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
-          "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside…",
-          "published": "2026-07-15T03:28:53.000Z"
-        },
-        {
-          "title": "Jurassic Park computers in excruciating detail",
-          "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T02:57:47.000Z"
-        },
-        {
-          "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-          "link": "https://tailscale.com/security-bulletins",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T01:08:26.000Z"
-        },
-        {
-          "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-          "link": "https://vpd.ca/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T00:15:53.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Nearly 200 Organizations Back Bill To Expand Access To Clinical Trials",
+          "link": "https://medcitynews.com/2026/07/nearly-200-organizations-back-bill-seeking-to-increase-access-to-clinical-trials/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Nearly 200 healthcare and patient advocacy organizations endorsed the bipartisan Clinical Trial Modernization Act, which seeks to reduce financial barriers and expand access to clinical trials for underrepresented patients. The post…",
+          "published": "2026-07-15T14:03:00.000Z"
+        },
+        {
+          "title": "Narrow holdings with broad consequences",
+          "link": "https://www.scotusblog.com/2026/07/narrow-holdings-with-broad-consequences/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "June brought two Second Amendment decisions. In United States v. Hemani , the court unanimously sustained Ali Hemani’s challenge to his indictment under 18 U.S.C. § 922(g)(3) , for possessing firearms while being an unlawful user of a…",
+          "published": "2026-07-15T14:00:00.000Z"
+        },
+        {
+          "title": "The court’s criminal law term: overview and observations",
+          "link": "https://www.scotusblog.com/2026/07/the-courts-criminal-law-term-overview-and-observations/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Approximately two weeks after the final opinion of the 57 argued cases decided by the Supreme Court in the October 2025-26 Term was filed, this column presents an overview of the “pure” criminal law decisions the court issued. By my…",
+          "published": "2026-07-15T13:30:00.000Z"
+        },
+        {
+          "title": "Carroll receives payment from Trump",
+          "link": "https://www.scotusblog.com/2026/07/carroll-receives-payment-from-trump/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, what Justices Kagan and Barrett told Congress about the court’s security concerns.",
+          "published": "2026-07-15T13:00:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 07.15.26",
+          "link": "https://abovethelaw.com/2026/07/morning-docket-07-15-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* The DOJ subpoenas the Biglaw firms who surrendered to the Trump administration. It's almost as though cutting a deal with a bad faith actor was bound to cause trouble. [ New York Times ] * Todd Blanche hearings kick off today as Trump's…",
+          "published": "2026-07-15T12:49:00.000Z"
+        },
         {
           "title": "Forcing Prosecutors To Bring Cases To Keep Their Jobs? What Could Possibly Go Wrong? See Also",
           "link": "https://abovethelaw.com/2026/07/forcing-prosecutors-to-bring-cases-to-keep-their-jobs-what-could-possibly-go-wrong-see-also/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "* States take up antitrust challenge to Paramount-Warner Bros. deal after DOJ looks the other way in deference to presidential donors. [ Deadline ] * Fifth Circuit overturns earlier panel decision and reaffirmed that the federal…",
           "published": "2026-07-14T13:01:20.000Z"
-        },
-        {
-          "title": "A history of justices testifying before Congress",
-          "link": "https://www.scotusblog.com/2026/07/a-history-of-justices-testifying-before-congress/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Justices Kagan and Barrett will discuss the court’s budget request before House and Senate subcommittees.",
-          "published": "2026-07-14T13:00:00.000Z"
-        },
-        {
-          "title": "Trump v. Trump Did Not Impress The Judge See Also",
-          "link": "https://abovethelaw.com/2026/07/trump-v-trump-did-not-impress-the-judge-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Benchslapped By His Own Petard : Judge nixes Trump v. IRS settlement citing administration's unitary executive nonsense . Todd Blanche Loses Lindsey Graham : Contentious confirmation hearing set to begin this week will have to go ahead…",
-          "published": "2026-07-13T23:32:00.000Z"
-        },
-        {
-          "title": "Biglaw Firm Is Growing Its Sports Law Practice",
-          "link": "https://abovethelaw.com/2026/07/biglaw-firm-is-growing-its-sports-law-practice/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "And hiring an insider to hard launch the practice. The post Biglaw Firm Is Growing Its Sports Law Practice appeared first on Above the Law .",
-          "published": "2026-07-13T23:02:00.000Z"
-        },
-        {
-          "title": "Yale Law Students Advise Their Own University: Knock Off This Obey In Advance Nonsense",
-          "link": "https://abovethelaw.com/2026/07/yale-law-students-advise-their-own-university-knock-off-this-obey-in-advance-nonsense/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Over 150 students and 26 organizations told Yale to stop negotiating away the rule of law. The post Yale Law Students Advise Their Own University: Knock Off This Obey In Advance Nonsense appeared first on Above the Law .",
-          "published": "2026-07-13T22:12:00.000Z"
-        },
-        {
-          "title": "Carolyn Herzog On Why Legal Leaders Need Optimism, Not Certainty",
-          "link": "https://abovethelaw.com/2026/07/carolyn-herzog-on-why-legal-leaders-need-optimism-not-certainty/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The old legal instinct to pause, assess, and draw hard boundaries no longer works. The post Carolyn Herzog On Why Legal Leaders Need Optimism, Not Certainty appeared first on Above the Law .",
-          "published": "2026-07-13T21:34:00.000Z"
         }
       ]
     }
