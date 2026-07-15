@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-15T18:36:00.846Z",
+  "updated": "2026-07-15T20:02:46.339Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Salary information to be shown on job ads under new laws",
+          "link": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The government argues the move would help jobseekers and could reduce pay discrimination claims.",
+          "published": "2026-07-15T18:46:26.000Z"
+        },
+        {
+          "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+          "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
+          "published": "2026-07-15T18:45:53.000Z"
+        },
         {
           "title": "SpaceX share price drops below stock market debut",
           "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
@@ -165,14 +181,6 @@
           "published": "2026-07-14T20:04:23.000Z"
         },
         {
-          "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-          "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
-          "published": "2026-07-14T19:50:48.000Z"
-        },
-        {
           "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
           "link": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
           "published": "2026-07-14T17:34:55.000Z"
-        },
-        {
-          "title": "T. rex sells for $50 million, becoming the most expensive dinosaur fossil ever auctioned",
-          "link": "https://www.cnbc.com/2026/07/14/trex-fossil-auction-sothebys.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "It passes a stegosaurus skeleton that billionaire hedge funder Ken Griffin bought for $44.6 million in 2024.",
-          "published": "2026-07-14T17:12:15.000Z"
         }
       ]
     },
@@ -202,12 +202,84 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
-          "link": "https://thinkingmachines.ai/inkling/",
+          "title": "Roblox is shutting down its video chat service",
+          "link": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic the movements you were making in real…",
+          "published": "2026-07-15T20:02:26.000Z"
+        },
+        {
+          "title": "AI slop movies are the new direct-to-video cash grabs",
+          "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People…",
+          "published": "2026-07-15T20:00:00.000Z"
+        },
+        {
+          "title": "Voxatron",
+          "link": "https://www.lexaloffle.com/voxatron.php",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-15T18:14:23.000Z"
+          "published": "2026-07-15T19:40:23.000Z"
+        },
+        {
+          "title": "Duskers, the scary command line game, is getting a sequel",
+          "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T19:27:59.000Z"
+        },
+        {
+          "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
+          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "FCC chairman claims power to repeal TV ownership limit set by Congress.",
+          "published": "2026-07-15T18:52:22.000Z"
+        },
+        {
+          "title": "Why I Left Google DeepMind",
+          "link": "https://turntrout.com/why-i-left-google-deepmind",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T18:40:34.000Z"
+        },
+        {
+          "title": "Enshittification",
+          "link": "https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Bryan, a food broker from Michigan, wasn't sure if he'd be able to make it to urgent care in time. He started feeling off on Thursday, and by Saturday, he was having to use the bathroom every 15 to 30 minutes. \"It's no joke about the…",
+          "published": "2026-07-15T18:40:00.000Z"
+        },
+        {
+          "title": "In memoriam: 7 of our favorite Sam Neill films",
+          "link": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The actor, who starred in 1993's Jurassic Park , died Monday in Sydney, Australia, at the age of 78.",
+          "published": "2026-07-15T18:39:58.000Z"
+        },
+        {
+          "title": "Something s glowing on the Pixel 11 s camera bar",
+          "link": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page for the Pixel 11 has a short video that shows the glowing,…",
+          "published": "2026-07-15T18:24:22.000Z"
+        },
+        {
+          "title": "Inkling: Our Open-Weights Model",
+          "link": "https://thinkingmachines.ai/news/introducing-inkling/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-15T18:12:45.000Z"
         },
         {
           "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
@@ -226,20 +298,20 @@
           "published": "2026-07-15T17:17:56.000Z"
         },
         {
-          "title": "Show HN: Painterly – Turn pictures into digital paintings without generative AI",
-          "link": "https://github.com/jbunke/painterly",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T17:01:34.000Z"
-        },
-        {
           "title": "Artie (YC S23) Is Hiring Software Engineers",
           "link": "https://jobs.ashbyhq.com/artie",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-15T17:01:02.000Z"
+        },
+        {
+          "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
+          "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "With the settlement withdrawn, Google is now bound by the court's full antitrust remedies.",
+          "published": "2026-07-15T16:55:12.000Z"
         },
         {
           "title": "Netflix tries to recapture Stranger Things magic with nostalgic re-release",
@@ -264,22 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-15T16:33:15.000Z"
-        },
-        {
-          "title": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
-          "link": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T16:32:05.000Z"
-        },
-        {
-          "title": "What designing 54 computer science cards taught me about graphic design",
-          "link": "https://fhoehl.com/designing-algodeck",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T16:22:14.000Z"
         },
         {
           "title": "Open-source memory for coding agents, synced over SSH",
@@ -314,6 +370,14 @@
           "published": "2026-07-15T16:05:34.000Z"
         },
         {
+          "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+          "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
+          "published": "2026-07-15T16:00:33.000Z"
+        },
+        {
           "title": "OpenAI finally launches hardware… for Codex",
           "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
           "source": "The Verge",
@@ -328,76 +392,28 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-15T15:58:59.000Z"
-        },
-        {
-          "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-          "link": "https://coasty.ai/docs",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T15:51:20.000Z"
-        },
-        {
-          "title": "When A.I. Is a Member of the Family",
-          "link": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T15:37:47.000Z"
-        },
-        {
-          "title": "Running Gemma 4 26B at 5 tokens&#x2F;sec on a 13-year-old Xeon with no GPU",
-          "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T15:34:05.000Z"
-        },
-        {
-          "title": "Daylight saving time is a step closer to becoming permanent in the US",
-          "link": "https://www.theverge.com/policy/965952/daylight-saving-time-permanent-us-house",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The US is getting closer to observing daylight saving time year-round. On Tuesday, the House advanced the Sunshine Protection Act on a 308 to 117 vote, which would turn clocks one hour ahead permanently, as reported by CBS News. President…",
-          "published": "2026-07-15T15:29:37.000Z"
-        },
-        {
-          "title": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
-          "link": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T15:17:44.000Z"
-        },
-        {
-          "title": "JBL s Flip 7 speaker is small, versatile, and 40 percent off",
-          "link": "https://www.theverge.com/gadgets/965640/jbl-flip-7-nothing-cmf-buds-pro-2-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Sure, Bluetooth speakers are awesome to have for picturesque beach trips, camping weekends, and other outdoor adventures. But they’re just as good to have for some sprinkler time in the yard with the kiddo, or for blasting some tunes or a…",
-          "published": "2026-07-15T15:16:53.000Z"
-        },
-        {
-          "title": "8BitDo’s FlipPad is the most pocketable way to turn your phone into a Game Boy",
-          "link": "https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Both 8BitDo and GameSir announced tiny gamepads designed to turn smartphones into Game Boy-inspired handhelds at CES 2026. GameSir released its Pocket Taco months ago, but the longer wait for 8BitDo's FlipPad has been well worth it. While…",
-          "published": "2026-07-15T15:00:00.000Z"
-        },
-        {
-          "title": "OpenAI loses trademark dispute at EU court",
-          "link": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T14:32:36.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Kentucky Law Professor Sues To Stop New Dean And Every Federal Judge Already Recused",
+          "link": "https://abovethelaw.com/2026/07/kentucky-law-professor-sues-to-stop-new-dean-and-every-federal-judge-already-recused/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Soon-to-be UK Law dean Judge Gregory Van Tatenhove got sued in his own old courthouse. The post Kentucky Law Professor Sues To Stop New Dean And Every Federal Judge Already Recused appeared first on Above the Law .",
+          "published": "2026-07-15T19:59:38.000Z"
+        },
+        {
+          "title": "Another Rumored Biglaw Merger Falls Apart Before It Begins",
+          "link": "https://abovethelaw.com/2026/07/another-rumored-biglaw-merger-falls-apart-before-it-begins/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A reported Linklaters-Cleary Gottlieb courtship fizzled quickly, if it ever existed at all. The post Another Rumored Biglaw Merger Falls Apart Before It Begins appeared first on Above the Law .",
+          "published": "2026-07-15T19:18:38.000Z"
+        },
         {
           "title": "Collateral Damage Across The Legal Industry",
           "link": "https://abovethelaw.com/2026/07/collateral-damage-across-the-legal-industry/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "These law schools would like to keep their graduates out of debt. The post The Law Schools That Offer Students The Most Help With Tuition (2026) appeared first on Above the Law .",
           "published": "2026-07-14T17:46:00.000Z"
-        },
-        {
-          "title": "DOJ Rolls Out A Case Quota For The Prosecutors It Hasn t Lost Yet",
-          "link": "https://abovethelaw.com/2026/07/doj-rolls-out-a-case-quota-for-the-prosecutors-it-hasnt-lost-yet/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Main Justice found a lever to pull that isn't 'why do people keep leaving?' The post DOJ Rolls Out A Case Quota For The Prosecutors It Hasn t Lost Yet appeared first on Above the Law .",
-          "published": "2026-07-14T17:01:00.000Z"
-        },
-        {
-          "title": "Linklaters Poaches Two Paul Weiss Litigators",
-          "link": "https://abovethelaw.com/2026/07/linklaters-poaches-two-paul-weiss-litigators/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Intentional or not, Paul Weiss continues reputational pivot away from litigation. The post Linklaters Poaches Two Paul Weiss Litigators appeared first on Above the Law .",
-          "published": "2026-07-14T16:12:00.000Z"
         }
       ]
     }
