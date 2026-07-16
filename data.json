@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-16T17:44:03.188Z",
+  "updated": "2026-07-16T18:56:50.913Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
+          "link": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
+          "published": "2026-07-16T18:52:35.000Z"
+        },
+        {
+          "title": "Here's why the housing market is hurting so much this summer",
+          "link": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Mortgage rates are high, home prices at record levels and consumers stressed. These are all contributing to a drop in existing home sales and builder sentiment.",
+          "published": "2026-07-16T18:38:03.000Z"
+        },
         {
           "title": "Calls for government taskforce to tackle poverty",
           "link": "https://www.bbc.co.uk/news/articles/ce85d6j5y75o?at_medium=RSS&at_campaign=rss",
@@ -19,14 +35,6 @@
           "category": "markets",
           "snippet": "It's part of a wider crackdown from the consumer regulator into potentially unfair practices by private parking operators.",
           "published": "2026-07-16T17:19:20.000Z"
-        },
-        {
-          "title": "Here's why the housing market is hurting so much this summer",
-          "link": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Mortgage rates are high, home prices at record levels and consumers stressed. These are all contributing to a drop in existing home sales and builder sentiment.",
-          "published": "2026-07-16T17:18:19.000Z"
         },
         {
           "title": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion",
@@ -187,20 +195,68 @@
           "category": "markets",
           "snippet": "Watt says he has made an offer to buy back the craft beer business months after it was sold to a US company.",
           "published": "2026-07-15T15:14:39.000Z"
-        },
-        {
-          "title": "Money Box",
-          "link": "https://www.bbc.co.uk/sounds/play/m002yx7t?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "New regulations start for shoppers using Buy Now, Pay Later.",
-          "published": "2026-07-15T14:30:00.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Kalshi says it caught Trump s teleprompter operator insider trading",
+          "link": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal investigators believe Gabriel Perez -…",
+          "published": "2026-07-16T18:43:14.000Z"
+        },
+        {
+          "title": "SPCX is now Wall Street's most shorted new stock",
+          "link": "https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T18:03:56.000Z"
+        },
+        {
+          "title": "We've seen helium baked off a rocky exoplanet's atmosphere",
+          "link": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "If the large, rocky planet is losing helium, then we can infer what is left behind.",
+          "published": "2026-07-16T18:00:15.000Z"
+        },
+        {
+          "title": "New York governor says she s using AI to analyze every single rule in the state",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team…",
+          "published": "2026-07-16T17:58:37.000Z"
+        },
+        {
+          "title": "Ecovacs self-cleaning Deebot X11 has hit a new low price",
+          "link": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac / mop hybrid is designed to do just…",
+          "published": "2026-07-16T17:57:15.000Z"
+        },
+        {
+          "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+          "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T17:44:46.000Z"
+        },
+        {
+          "title": "42% of adults rely on their parents for financial support",
+          "link": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T17:11:58.000Z"
+        },
         {
           "title": "Adaptional (YC S25) Is Hiring",
           "link": "https://www.ycombinator.com/companies/adaptional/jobs",
@@ -226,14 +282,6 @@
           "published": "2026-07-16T16:52:16.000Z"
         },
         {
-          "title": "Someone Used AI to Write an Unauthorized Biography of Me",
-          "link": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T16:51:20.000Z"
-        },
-        {
           "title": "Roblox will let people use AI to make games on their phone",
           "link": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
           "source": "The Verge",
@@ -250,19 +298,11 @@
           "published": "2026-07-16T16:41:37.000Z"
         },
         {
-          "title": "Show HN: Galois connections for composable numeric casts in Rust",
-          "link": "https://github.com/cmk/connections",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T16:36:17.000Z"
-        },
-        {
-          "title": "OnePlus ends phone releases in US and Europe, further reducing smartphone choice",
+          "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
           "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "OnePlus promises to continue supporting the phones it's already released.",
+          "snippet": "OnePlus promises to continue supporting the phones it has already released.",
           "published": "2026-07-16T16:29:46.000Z"
         },
         {
@@ -272,14 +312,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-16T16:24:50.000Z"
-        },
-        {
-          "title": "Photos of items from families in different countries with different incomes",
-          "link": "https://www.gapminder.org/dollar-street",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T16:24:33.000Z"
         },
         {
           "title": "Could China and Russia really destroy Starlink? Only with a boomerang.",
@@ -314,14 +346,6 @@
           "published": "2026-07-16T16:14:20.000Z"
         },
         {
-          "title": "Show HN: Ratel, give agents unlimited tools and skills without context bloat",
-          "link": "https://github.com/ratel-ai/ratel",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T16:11:13.000Z"
-        },
-        {
           "title": "NotebookLM is now Gemini Notebook",
           "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
           "source": "Hacker News",
@@ -338,7 +362,7 @@
           "published": "2026-07-16T16:06:27.000Z"
         },
         {
-          "title": "Show HN: Leaves – a text-UI disk usage treemap visualizer",
+          "title": "Show HN: Leaves – A text-UI disk usage treemap visualizer",
           "link": "https://github.com/patonw/leaves",
           "source": "Hacker News",
           "category": "tech",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "Splatoon Raiders’ July 23rd launch day is almost here, so your window to preorder the physical version at a $10 discount is about to close. The digital version is $49.99, and so is the game on cartridge if you preorder at Walmart. Amazon…",
           "published": "2026-07-16T15:42:07.000Z"
-        },
-        {
-          "title": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator 100 percent, investigators confirm",
-          "link": "https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Tesla driver who fatally struck a woman after crashing into her home \"manually overrode\" the vehicle's Full Self-Driving (FSD) technology by pressing the gas pedal to 100 percent, the National Transportation Safety Board (NTSB)…",
-          "published": "2026-07-16T15:41:09.000Z"
-        },
-        {
-          "title": "Immersive Linear Algebra Book with Interactive Figures",
-          "link": "https://immersivemath.com/ila/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T15:32:23.000Z"
-        },
-        {
-          "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-          "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T15:13:00.000Z"
         }
       ]
     },
@@ -399,12 +399,20 @@
       "label": "Legal Developments",
       "items": [
         {
-          "title": "TEST — prime-then-purge verification (safe to delete)",
-          "link": "https://www.scotusblog.com/2026/07/test-prime-then-purge-verification-20260716/",
-          "source": "SCOTUSblog",
+          "title": "Kathryn Ruemmler s Epstein Testimony Is Classic Gaslighting According To Legal Scholars",
+          "link": "https://abovethelaw.com/2026/07/kathryn-ruemmlers-epstein-testimony-is-classic-gaslighting-according-to-legal-scholars/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Automated prime-then-purge verification post. Will be deleted within minutes.",
-          "published": "2026-07-16T17:34:00.000Z"
+          "snippet": "Accountability? LOL, not quite. The post Kathryn Ruemmler s Epstein Testimony Is Classic Gaslighting According To Legal Scholars appeared first on Above the Law .",
+          "published": "2026-07-16T18:32:00.000Z"
+        },
+        {
+          "title": "Layoff Alert: K L Gates Announces Significant Cuts",
+          "link": "https://abovethelaw.com/2026/07/layoff-alert-kl-gates-announces-significant-cuts/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Heavy staff cuts at the firm this week. The post Layoff Alert: K&L Gates Announces Significant Cuts appeared first on Above the Law .",
+          "published": "2026-07-16T17:53:28.000Z"
         },
         {
           "title": "Waiting On Cravath: Biglaw s Salary Silence Is Getting Ridiculous",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "In a filing submitted on July 9 and docketed on Monday, U.S. Solicitor General D. John Sauer urged the justices to order the U.S. Court of Appeals for the 9th Circuit to reconsider its ruling in a challenge to the decision by…",
           "published": "2026-07-15T15:20:00.000Z"
-        },
-        {
-          "title": "Trump Turns On Capitulating Biglaw Firms HAHAHAHAHA",
-          "link": "https://abovethelaw.com/2026/07/trump-turns-on-capitulating-biglaw-firms-hahahahaha/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Turns out selling out the rule of law doesn't come with a warranty. The post Trump Turns On Capitulating Biglaw Firms HAHAHAHAHA appeared first on Above the Law .",
-          "published": "2026-07-15T14:55:53.000Z"
         }
       ]
     }
