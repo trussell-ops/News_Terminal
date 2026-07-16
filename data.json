@@ -1,16 +1,32 @@
 {
-  "updated": "2026-07-16T16:10:01.761Z",
+  "updated": "2026-07-16T17:44:03.188Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Calls for government taskforce to tackle poverty",
+          "link": "https://www.bbc.co.uk/news/articles/ce85d6j5y75o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Charities, schools and businesses warn too many families are struggling with the cost of living.",
+          "published": "2026-07-16T17:25:56.000Z"
+        },
         {
           "title": "Investigation into parking tickets for drivers queuing at petrol stations",
           "link": "https://www.bbc.co.uk/news/articles/cnvnyr75r48o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "It's part of a wider crackdown from the consumer regulator into potentially unfair practices by private parking operators.",
-          "published": "2026-07-16T15:42:27.000Z"
+          "published": "2026-07-16T17:19:20.000Z"
+        },
+        {
+          "title": "Here's why the housing market is hurting so much this summer",
+          "link": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Mortgage rates are high, home prices at record levels and consumers stressed. These are all contributing to a drop in existing home sales and builder sentiment.",
+          "published": "2026-07-16T17:18:19.000Z"
         },
         {
           "title": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion",
@@ -18,7 +34,15 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Sen. Elizabeth Warren says the Trump administration's rollback of CFPB rules and enforcement has cost Americans up to $26.5 billion so far.",
-          "published": "2026-07-16T14:14:20.000Z"
+          "published": "2026-07-16T16:36:23.000Z"
+        },
+        {
+          "title": "Here's what to expect when Netflix reports earnings after the bell",
+          "link": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Investors will be looking for updates on Netflix's ad-supported business, engagement metrics and how the streaming giant continues to consider potential M&A.",
+          "published": "2026-07-16T16:12:11.000Z"
         },
         {
           "title": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs",
@@ -171,30 +195,6 @@
           "category": "markets",
           "snippet": "New regulations start for shoppers using Buy Now, Pay Later.",
           "published": "2026-07-15T14:30:00.000Z"
-        },
-        {
-          "title": "‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding",
-          "link": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "JPMorgan Chase CEO Jamie Dimon unveiled a $24 million package to bolster American shipbuilding, funding a new submarine facility at the Philadelphia Navy Yard.",
-          "published": "2026-07-15T13:45:27.000Z"
-        },
-        {
-          "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
-          "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.",
-          "published": "2026-07-15T13:44:44.000Z"
-        },
-        {
-          "title": "Cash-strapped Thames Water poses big test for Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.",
-          "published": "2026-07-15T12:09:08.000Z"
         }
       ]
     },
@@ -202,12 +202,164 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Adaptional (YC S25) Is Hiring",
+          "link": "https://www.ycombinator.com/companies/adaptional/jobs",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T17:00:55.000Z"
+        },
+        {
+          "title": "Google is better at playing the AI regulations game",
+          "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for…",
+          "published": "2026-07-16T16:55:54.000Z"
+        },
+        {
+          "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+          "link": "https://news.ycombinator.com/item?id=48937020",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:52:16.000Z"
+        },
+        {
+          "title": "Someone Used AI to Write an Unauthorized Biography of Me",
+          "link": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:51:20.000Z"
+        },
+        {
+          "title": "Roblox will let people use AI to make games on their phone",
+          "link": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded. The company has embraced AI with open arms,…",
+          "published": "2026-07-16T16:45:29.000Z"
+        },
+        {
+          "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+          "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:41:37.000Z"
+        },
+        {
+          "title": "Show HN: Galois connections for composable numeric casts in Rust",
+          "link": "https://github.com/cmk/connections",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:36:17.000Z"
+        },
+        {
+          "title": "OnePlus ends phone releases in US and Europe, further reducing smartphone choice",
+          "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "OnePlus promises to continue supporting the phones it's already released.",
+          "published": "2026-07-16T16:29:46.000Z"
+        },
+        {
+          "title": "56,000 lines of DOOM, in a language I made up",
+          "link": "https://betlang.dev/about/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:24:50.000Z"
+        },
+        {
+          "title": "Photos of items from families in different countries with different incomes",
+          "link": "https://www.gapminder.org/dollar-street",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:24:33.000Z"
+        },
+        {
+          "title": "Could China and Russia really destroy Starlink? Only with a boomerang.",
+          "link": "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"We will likely have similar concerns and discussions when China fields its Starlink-like constellation.\"",
+          "published": "2026-07-16T16:19:28.000Z"
+        },
+        {
+          "title": "Decoy Font",
+          "link": "https://www.mixfont.com/experiments/decoy-font",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:18:21.000Z"
+        },
+        {
+          "title": "Show HN: A modern port of Linux to a ten-year-old QWERTY phone",
+          "link": "https://news.ycombinator.com/item?id=48936554",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:15:55.000Z"
+        },
+        {
+          "title": "Agent-talk: Enabling coding agents to work together",
+          "link": "https://github.com/xhluca/agent-talk",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:14:20.000Z"
+        },
+        {
+          "title": "Show HN: Ratel, give agents unlimited tools and skills without context bloat",
+          "link": "https://github.com/ratel-ai/ratel",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:11:13.000Z"
+        },
+        {
+          "title": "NotebookLM is now Gemini Notebook",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:08:13.000Z"
+        },
+        {
+          "title": "Microsoft Comic Chat is now open source",
+          "link": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:06:27.000Z"
+        },
+        {
+          "title": "Show HN: Leaves – a text-UI disk usage treemap visualizer",
+          "link": "https://github.com/patonw/leaves",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T16:03:43.000Z"
+        },
+        {
           "title": "Google is renaming NotebookLM to Gemini Notebook",
           "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google…",
           "published": "2026-07-16T16:00:00.000Z"
+        },
+        {
+          "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+          "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Companies coming to market are raising money at fastest pace this century.",
+          "published": "2026-07-16T15:48:21.000Z"
         },
         {
           "title": "Time’s running out to save $10 on Splatoon Raiders physical preorders",
@@ -226,178 +378,50 @@
           "published": "2026-07-16T15:41:09.000Z"
         },
         {
+          "title": "Immersive Linear Algebra Book with Interactive Figures",
+          "link": "https://immersivemath.com/ila/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T15:32:23.000Z"
+        },
+        {
           "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
           "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-16T15:13:00.000Z"
-        },
-        {
-          "title": "Apple s OLED iPad Mini upgrade is on the way as prices continue to rise",
-          "link": "https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The iPad Mini could get an OLED display upgrade as soon as October, according to Bloomberg's Mark Gurman. It would be the most significant refresh for the Mini since its 2021 redesign. An OLED iPad Mini has been rumored for months now,…",
-          "published": "2026-07-16T15:04:12.000Z"
-        },
-        {
-          "title": "Guide to data tools landscape for developers",
-          "link": "https://sinja.io/blog/data-landscape-guide-for-developers",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T14:59:14.000Z"
-        },
-        {
-          "title": "Kimi K3 is now live",
-          "link": "https://www.kimi.com/en",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T14:46:05.000Z"
-        },
-        {
-          "title": "‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust",
-          "link": "https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Today on Decoder, we’ve got the first of a two-part series on the systems that run the world: I’m talking with Bart Butler, the CTO of Proton, the company that makes private and secure productivity software. You probably know it best for…",
-          "published": "2026-07-16T14:00:00.000Z"
-        },
-        {
-          "title": "Goes-19 weather satellite enters Safe Hold mode",
-          "link": "https://www.spaceweather.gov/news/goes-19-safe-hold",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T13:30:00.000Z"
-        },
-        {
-          "title": "Ninja’s microwave air fryer could be the fix for soggy reheated pizza",
-          "link": "https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Ninja has added everything from ice cream makers to double-decker toaster ovens to its extensive lineup of counter-clogging appliances, but it's only now introducing its first microwave. What makes the new Ninja Crispi Microwave stand out…",
-          "published": "2026-07-16T13:30:00.000Z"
-        },
-        {
-          "title": "Samsung s Galaxy Z Flip 8 leaks a week before launch event",
-          "link": "https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Samsung's next flip phone might be tough to tell apart from last year's Galaxy Z Flip 7. As 9to5Google points out, leaked images and specs for the upcoming Galaxy Z Flip 8 shared by WinFuture are nearly identical to Samsung's current flip…",
-          "published": "2026-07-16T13:23:50.000Z"
-        },
-        {
-          "title": "Show HN: I've built a words game based on binary search",
-          "link": "https://hilogame.cc/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T13:15:49.000Z"
-        },
-        {
-          "title": "OnePlus never had a chance in the US",
-          "link": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Twelve years after the launch of the OnePlus One, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its excellent OnePlus 15 and widely praised (though…",
-          "published": "2026-07-16T13:00:00.000Z"
-        },
-        {
-          "title": "Claude can now use your 1Password credentials for you",
-          "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to…",
-          "published": "2026-07-16T13:00:00.000Z"
-        },
-        {
-          "title": "Introduction to KizunaShelf: A shelf for everything you love",
-          "link": "https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T12:33:06.000Z"
-        },
-        {
-          "title": "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them",
-          "link": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T12:13:43.000Z"
-        },
-        {
-          "title": "Google ordered to open Android and Search to rivals in Europe",
-          "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed…",
-          "published": "2026-07-16T12:06:51.000Z"
-        },
-        {
-          "title": "The Act and the Outcome of Creation",
-          "link": "https://www.ssp.sh/blog/on-creation/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T12:05:42.000Z"
-        },
-        {
-          "title": "Let's Build PlanetScale from Scratch: Infrastructure",
-          "link": "https://onatm.dev/2026/07/16/homescale-part-1/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T11:58:09.000Z"
-        },
-        {
-          "title": "How Our Rust-to-Zig Rewrite Is Going",
-          "link": "https://rtfeldman.com/rust-to-zig",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T11:39:27.000Z"
-        },
-        {
-          "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
-          "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
-          "published": "2026-07-16T11:00:21.000Z"
-        },
-        {
-          "title": "Track your workout from the iPhone Lock Screen",
-          "link": "https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T10:49:50.000Z"
-        },
-        {
-          "title": "Ente – Opening Our Books",
-          "link": "https://ente.com/open/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T10:37:17.000Z"
-        },
-        {
-          "title": "OnePlus halts operations in USA and Europe",
-          "link": "https://community.oneplus.com/thread/2170715118587871237",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T10:14:04.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "TEST — prime-then-purge verification (safe to delete)",
+          "link": "https://www.scotusblog.com/2026/07/test-prime-then-purge-verification-20260716/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Automated prime-then-purge verification post. Will be deleted within minutes.",
+          "published": "2026-07-16T17:34:00.000Z"
+        },
+        {
+          "title": "Waiting On Cravath: Biglaw s Salary Silence Is Getting Ridiculous",
+          "link": "https://abovethelaw.com/2026/07/waiting-on-cravath-biglaws-salary-silence-is-getting-ridiculous/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Forty-four days after Milbank's salary announcement, much of Biglaw remains on the sidelines. The post Waiting On Cravath: Biglaw s Salary Silence Is Getting Ridiculous appeared first on Above the Law .",
+          "published": "2026-07-16T16:58:55.000Z"
+        },
+        {
+          "title": "What Does Your Legal Team Actually Need From AI?",
+          "link": "https://abovethelaw.com/2026/07/what-does-your-legal-team-actually-need-from-ai/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] AI keeps failing the law department. Here’s why. The post What Does Your Legal Team Actually Need From AI? appeared first on Above the Law .",
+          "published": "2026-07-16T16:17:00.000Z"
+        },
         {
           "title": "Litera Relaunches Its Brand Around A Unified Vision: One AI Agent Spanning The Practice and Business Of Law",
           "link": "https://www.lawnext.com/2026/07/litera-relaunches-its-brand-around-a-unified-vision-one-ai-agent-spanning-the-practice-and-business-of-law.html",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "Turns out selling out the rule of law doesn't come with a warranty. The post Trump Turns On Capitulating Biglaw Firms HAHAHAHAHA appeared first on Above the Law .",
           "published": "2026-07-15T14:55:53.000Z"
-        },
-        {
-          "title": "Nearly 200 Organizations Back Bill To Expand Access To Clinical Trials",
-          "link": "https://medcitynews.com/2026/07/nearly-200-organizations-back-bill-seeking-to-increase-access-to-clinical-trials/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Nearly 200 healthcare and patient advocacy organizations endorsed the bipartisan Clinical Trial Modernization Act, which seeks to reduce financial barriers and expand access to clinical trials for underrepresented patients. The post…",
-          "published": "2026-07-15T14:03:00.000Z"
-        },
-        {
-          "title": "Narrow holdings with broad consequences",
-          "link": "https://www.scotusblog.com/2026/07/narrow-holdings-with-broad-consequences/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "June brought two Second Amendment decisions. In United States v. Hemani , the court unanimously sustained Ali Hemani’s challenge to his indictment under 18 U.S.C. § 922(g)(3) , for possessing firearms while being an unlawful user of a…",
-          "published": "2026-07-15T14:00:00.000Z"
-        },
-        {
-          "title": "The court’s criminal law term: overview and observations",
-          "link": "https://www.scotusblog.com/2026/07/the-courts-criminal-law-term-overview-and-observations/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Approximately two weeks after the final opinion of the 57 argued cases decided by the Supreme Court in the October 2025-26 Term was filed, this column presents an overview of the “pure” criminal law decisions the court issued. By my…",
-          "published": "2026-07-15T13:30:00.000Z"
         }
       ]
     }
