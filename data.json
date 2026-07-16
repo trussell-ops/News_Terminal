@@ -1,16 +1,32 @@
 {
-  "updated": "2026-07-16T22:27:19.416Z",
+  "updated": "2026-07-16T23:24:12.856Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "The financial winners and losers from the World Cup",
+          "link": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most?",
+          "published": "2026-07-16T23:16:14.000Z"
+        },
+        {
+          "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
+          "link": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
+          "published": "2026-07-16T23:14:11.000Z"
+        },
         {
           "title": "Trump Media to sell early access to key social posts",
           "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Trump Media is launching a fast, paid feed of the its social posts for Wall Street traders.",
-          "published": "2026-07-16T22:01:19.000Z"
+          "published": "2026-07-16T22:42:37.000Z"
         },
         {
           "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson.",
           "published": "2026-07-15T17:13:06.000Z"
-        },
-        {
-          "title": "British Steel nationalisation takes step closer",
-          "link": "https://www.bbc.co.uk/news/articles/c5yzy3ng05lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The new legislation would see Scunthorpe-based British Steel brought into public ownership.",
-          "published": "2026-07-15T16:12:10.000Z"
-        },
-        {
-          "title": "EasyJet passengers stuck on tarmac for hours when plane couldn't refuel",
-          "link": "https://www.bbc.co.uk/news/articles/c3ryr25gvjdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "One passenger said she only got home at 06:00 after being stuck on the runway in the middle of the night.",
-          "published": "2026-07-15T15:31:23.000Z"
         }
       ]
     },
@@ -202,12 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "FIFA World Cup 2026 Data Portraits",
-          "link": "https://wc26.bogachev.fr/index.html",
+          "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
+          "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-16T22:21:59.000Z"
+          "published": "2026-07-16T22:29:44.000Z"
+        },
+        {
+          "title": "Show HN: Mojibake – a low-level Unicode library written in C",
+          "link": "https://mojibake.zaerl.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T22:29:21.000Z"
+        },
+        {
+          "title": "The Little Book of Reinforcement Learning",
+          "link": "https://github.com/alxndrTL/little-book-rl/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T22:27:22.000Z"
+        },
+        {
+          "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+          "link": "https://github.com/cgrtml/reasongate",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T22:21:31.000Z"
         },
         {
           "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
@@ -216,6 +240,30 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-16T22:07:30.000Z"
+        },
+        {
+          "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+          "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T22:00:00.000Z"
+        },
+        {
+          "title": "Just Do Things",
+          "link": "https://ray.zo.space/blog/just-do-things",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T21:55:49.000Z"
+        },
+        {
+          "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+          "link": "https://arxiv.org/abs/2607.12395",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T21:38:02.000Z"
         },
         {
           "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
@@ -322,14 +370,6 @@
           "published": "2026-07-16T20:09:48.000Z"
         },
         {
-          "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-          "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T20:03:23.000Z"
-        },
-        {
           "title": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports say",
           "link": "https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-betting-on-what-trump-would-say-reports-say/",
           "source": "Ars Technica",
@@ -352,52 +392,20 @@
           "category": "tech",
           "snippet": "Toyota's everyday small SUV should rarely require trips to the gas station.",
           "published": "2026-07-16T19:46:22.000Z"
-        },
-        {
-          "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
-          "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The social-engineering technique has primarily been a tool of financially motivated criminals.",
-          "published": "2026-07-16T19:28:33.000Z"
-        },
-        {
-          "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-          "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
-          "published": "2026-07-16T19:18:23.000Z"
-        },
-        {
-          "title": "Kalshi says it caught Trump s teleprompter operator insider trading",
-          "link": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal investigators believe Gabriel Perez -…",
-          "published": "2026-07-16T18:43:14.000Z"
-        },
-        {
-          "title": "AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",
-          "link": "https://nicholas-afk.github.io/AttoChess/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T18:33:24.000Z"
-        },
-        {
-          "title": "We've seen helium baked off a rocky exoplanet's atmosphere",
-          "link": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "If the large, rocky planet is losing helium, then we can infer what is left behind.",
-          "published": "2026-07-16T18:00:15.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Biglaw Summer Associate Recruiting Has Officially Become Ridiculous",
+          "link": "https://abovethelaw.com/2026/07/biglaw-summer-associate-recruiting-has-officially-become-ridiculous/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Will anyone do anything about it? Unlikely! The post Biglaw Summer Associate Recruiting Has Officially Become Ridiculous appeared first on Above the Law .",
+          "published": "2026-07-16T23:01:00.000Z"
+        },
         {
           "title": "Stop Acting Like A Squirrel With Your Legal Business Development",
           "link": "https://abovethelaw.com/2026/07/stop-acting-like-a-squirrel-with-your-legal-business-development/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Soon-to-be UK Law dean Judge Gregory Van Tatenhove got sued in his own old courthouse. The post Kentucky Law Professor Sues To Stop New Dean And Every Federal Judge Already Recused appeared first on Above the Law .",
           "published": "2026-07-15T19:59:38.000Z"
-        },
-        {
-          "title": "Another Rumored Biglaw Merger Falls Apart Before It Begins",
-          "link": "https://abovethelaw.com/2026/07/another-rumored-biglaw-merger-falls-apart-before-it-begins/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A reported Linklaters-Cleary Gottlieb courtship fizzled quickly, if it ever existed at all. The post Another Rumored Biglaw Merger Falls Apart Before It Begins appeared first on Above the Law .",
-          "published": "2026-07-15T19:18:38.000Z"
         }
       ]
     }
