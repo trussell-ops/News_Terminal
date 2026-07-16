@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-16T14:30:32.398Z",
+  "updated": "2026-07-16T16:10:01.761Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Investigation into parking tickets for drivers queuing at petrol stations",
+          "link": "https://www.bbc.co.uk/news/articles/cnvnyr75r48o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It's part of a wider crackdown from the consumer regulator into potentially unfair practices by private parking operators.",
+          "published": "2026-07-16T15:42:27.000Z"
+        },
         {
           "title": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion",
           "link": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
@@ -11,14 +19,6 @@
           "category": "markets",
           "snippet": "Sen. Elizabeth Warren says the Trump administration's rollback of CFPB rules and enforcement has cost Americans up to $26.5 billion so far.",
           "published": "2026-07-16T14:14:20.000Z"
-        },
-        {
-          "title": "Investigation into parking tickets for drivers queuing at petrol stations",
-          "link": "https://www.bbc.co.uk/news/articles/cnvnyr75r48o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It's part of a wider crackdown from the consumer regulator into potentially unfair practices by private parking operators.",
-          "published": "2026-07-16T14:04:24.000Z"
         },
         {
           "title": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs",
@@ -202,36 +202,68 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Google is renaming NotebookLM to Gemini Notebook",
+          "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google…",
+          "published": "2026-07-16T16:00:00.000Z"
+        },
+        {
+          "title": "Time’s running out to save $10 on Splatoon Raiders physical preorders",
+          "link": "https://www.theverge.com/gadgets/966478/splatoon-raiders-preorder-the-sopranos-4k-bluray-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Splatoon Raiders’ July 23rd launch day is almost here, so your window to preorder the physical version at a $10 discount is about to close. The digital version is $49.99, and so is the game on cartridge if you preorder at Walmart. Amazon…",
+          "published": "2026-07-16T15:42:07.000Z"
+        },
+        {
+          "title": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator 100 percent, investigators confirm",
+          "link": "https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Tesla driver who fatally struck a woman after crashing into her home \"manually overrode\" the vehicle's Full Self-Driving (FSD) technology by pressing the gas pedal to 100 percent, the National Transportation Safety Board (NTSB)…",
+          "published": "2026-07-16T15:41:09.000Z"
+        },
+        {
+          "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+          "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T15:13:00.000Z"
+        },
+        {
+          "title": "Apple s OLED iPad Mini upgrade is on the way as prices continue to rise",
+          "link": "https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The iPad Mini could get an OLED display upgrade as soon as October, according to Bloomberg's Mark Gurman. It would be the most significant refresh for the Mini since its 2021 redesign. An OLED iPad Mini has been rumored for months now,…",
+          "published": "2026-07-16T15:04:12.000Z"
+        },
+        {
+          "title": "Guide to data tools landscape for developers",
+          "link": "https://sinja.io/blog/data-landscape-guide-for-developers",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T14:59:14.000Z"
+        },
+        {
+          "title": "Kimi K3 is now live",
+          "link": "https://www.kimi.com/en",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T14:46:05.000Z"
+        },
+        {
           "title": "‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust",
           "link": "https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Today on Decoder, we’ve got the first of a two-part series on the systems that run the world: I’m talking with Bart Butler, the CTO of Proton, the company that makes private and secure productivity software. You probably know it best for…",
           "published": "2026-07-16T14:00:00.000Z"
-        },
-        {
-          "title": "Show HN: AI Law Tracker – one audited API for US, EU and global AI law",
-          "link": "https://ai-law-tracker.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T13:51:32.000Z"
-        },
-        {
-          "title": "How to spend 15 years perfecting a product",
-          "link": "https://refactoring.guru/email/gbb-rollout2",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T13:41:12.000Z"
-        },
-        {
-          "title": "Show HN: We hid a backdoor in an LLM – $51,200 on finding it",
-          "link": "https://protora.vulcora.se/challenge",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T13:34:03.000Z"
         },
         {
           "title": "Goes-19 weather satellite enters Safe Hold mode",
@@ -270,7 +302,7 @@
           "link": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "After an eight-year run, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its excellent OnePlus 15 and widely praised (though still too expensive)…",
+          "snippet": "Twelve years after the launch of the OnePlus One, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its excellent OnePlus 15 and widely praised (though…",
           "published": "2026-07-16T13:00:00.000Z"
         },
         {
@@ -288,14 +320,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-16T12:33:06.000Z"
-        },
-        {
-          "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
-          "link": "https://www.bbc.com/news/articles/c4gyg0y6yg2o",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T12:19:30.000Z"
         },
         {
           "title": "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them",
@@ -322,14 +346,6 @@
           "published": "2026-07-16T12:05:42.000Z"
         },
         {
-          "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-          "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T11:59:01.000Z"
-        },
-        {
           "title": "Let's Build PlanetScale from Scratch: Infrastructure",
           "link": "https://onatm.dev/2026/07/16/homescale-part-1/",
           "source": "Hacker News",
@@ -338,20 +354,20 @@
           "published": "2026-07-16T11:58:09.000Z"
         },
         {
+          "title": "How Our Rust-to-Zig Rewrite Is Going",
+          "link": "https://rtfeldman.com/rust-to-zig",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T11:39:27.000Z"
+        },
+        {
           "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
           "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
           "published": "2026-07-16T11:00:21.000Z"
-        },
-        {
-          "title": "Computer cops",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from…",
-          "published": "2026-07-16T11:00:00.000Z"
         },
         {
           "title": "Track your workout from the iPhone Lock Screen",
@@ -376,28 +392,28 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-16T10:14:04.000Z"
-        },
-        {
-          "title": "OnePlus officially gives up on the US and Europe",
-          "link": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "OnePlus has confirmed what industry observers have long expected: it's quitting the US and European markets, and will no longer launch new products in either region. Parent company Oppo promises that it will honor existing support and…",
-          "published": "2026-07-16T09:00:00.000Z"
-        },
-        {
-          "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-          "link": "https://joinedanthropic.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T08:03:35.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Litera Relaunches Its Brand Around A Unified Vision: One AI Agent Spanning The Practice and Business Of Law",
+          "link": "https://www.lawnext.com/2026/07/litera-relaunches-its-brand-around-a-unified-vision-one-ai-agent-spanning-the-practice-and-business-of-law.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The relaunch includes a new brand identity, the tagline ‘Raise The Bar,’ an advertising campaign, and a redesigned website. The post Litera Relaunches Its Brand Around A Unified Vision: One AI Agent Spanning The Practice and Business Of…",
+          "published": "2026-07-16T15:37:34.000Z"
+        },
+        {
+          "title": "The Deloitte Legal Report: Trouble For Ostriches",
+          "link": "https://abovethelaw.com/2026/07/the-deloitte-legal-report-trouble-for-ostriches/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Smart firms will read the Deloitte report and the tea leaves and prepare for change. But large law firms may not make the change until it’s too late. The post The Deloitte Legal Report: Trouble For Ostriches appeared first on Above the…",
+          "published": "2026-07-16T14:42:00.000Z"
+        },
         {
           "title": "Coalition Urges Policymakers To Reject No Surprises Act Enforcement Bill",
           "link": "https://medcitynews.com/2026/07/coalition-urges-policymakers-to-reject-no-surprises-act-enforcement-bill/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Approximately two weeks after the final opinion of the 57 argued cases decided by the Supreme Court in the October 2025-26 Term was filed, this column presents an overview of the “pure” criminal law decisions the court issued. By my…",
           "published": "2026-07-15T13:30:00.000Z"
-        },
-        {
-          "title": "Carroll receives payment from Trump",
-          "link": "https://www.scotusblog.com/2026/07/carroll-receives-payment-from-trump/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, what Justices Kagan and Barrett told Congress about the court’s security concerns.",
-          "published": "2026-07-15T13:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 07.15.26",
-          "link": "https://abovethelaw.com/2026/07/morning-docket-07-15-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* The DOJ subpoenas the Biglaw firms who surrendered to the Trump administration. It's almost as though cutting a deal with a bad faith actor was bound to cause trouble. [ New York Times ] * Todd Blanche hearings kick off today as Trump's…",
-          "published": "2026-07-15T12:49:00.000Z"
         }
       ]
     }
