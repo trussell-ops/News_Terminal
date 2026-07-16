@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-16T12:14:25.712Z",
+  "updated": "2026-07-16T14:30:32.398Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion",
+          "link": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Sen. Elizabeth Warren says the Trump administration's rollback of CFPB rules and enforcement has cost Americans up to $26.5 billion so far.",
+          "published": "2026-07-16T14:14:20.000Z"
+        },
+        {
+          "title": "Investigation into parking tickets for drivers queuing at petrol stations",
+          "link": "https://www.bbc.co.uk/news/articles/cnvnyr75r48o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It's part of a wider crackdown from the consumer regulator into potentially unfair practices by private parking operators.",
+          "published": "2026-07-16T14:04:24.000Z"
+        },
+        {
+          "title": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs",
+          "link": "https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The healthcare giant is working to stabilize margins by shrinking membership, exiting unprofitable contracts and pouring $1.5 billion into AI.",
+          "published": "2026-07-16T13:56:27.000Z"
+        },
         {
           "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
           "link": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
@@ -29,14 +53,6 @@
           "published": "2026-07-16T11:21:25.000Z"
         },
         {
-          "title": "Investigation into parking charges for drivers queuing at petrol stations",
-          "link": "https://www.bbc.co.uk/news/articles/cnvnyr75r48o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It's part of a wider crackdown from the consumer regulator into potentially unfair practices by private parking operators.",
-          "published": "2026-07-16T11:12:21.000Z"
-        },
-        {
           "title": "TikTok faces Ofcom investigation over child age checks",
           "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -51,14 +67,6 @@
           "category": "markets",
           "snippet": "The company says it will create \"high-tech, high-paying jobs\", and raises its total commitment to the US to $265bn.",
           "published": "2026-07-16T10:23:00.000Z"
-        },
-        {
-          "title": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs",
-          "link": "https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The healthcare giant is working to stabilize margins by shrinking membership, exiting unprofitable contracts and pouring $1.5 billion into AI.",
-          "published": "2026-07-16T10:07:33.000Z"
         },
         {
           "title": "Who is the frontrunner to be the UK's next chancellor?",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.",
           "published": "2026-07-15T12:09:08.000Z"
-        },
-        {
-          "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
-          "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
-          "published": "2026-07-15T11:24:29.000Z"
         }
       ]
     },
@@ -202,12 +202,172 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "COMPUTER COPS: Inside the big business of selling AI to the police",
+          "title": "‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust",
+          "link": "https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Today on Decoder, we’ve got the first of a two-part series on the systems that run the world: I’m talking with Bart Butler, the CTO of Proton, the company that makes private and secure productivity software. You probably know it best for…",
+          "published": "2026-07-16T14:00:00.000Z"
+        },
+        {
+          "title": "Show HN: AI Law Tracker – one audited API for US, EU and global AI law",
+          "link": "https://ai-law-tracker.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T13:51:32.000Z"
+        },
+        {
+          "title": "How to spend 15 years perfecting a product",
+          "link": "https://refactoring.guru/email/gbb-rollout2",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T13:41:12.000Z"
+        },
+        {
+          "title": "Show HN: We hid a backdoor in an LLM – $51,200 on finding it",
+          "link": "https://protora.vulcora.se/challenge",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T13:34:03.000Z"
+        },
+        {
+          "title": "Goes-19 weather satellite enters Safe Hold mode",
+          "link": "https://www.spaceweather.gov/news/goes-19-safe-hold",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T13:30:00.000Z"
+        },
+        {
+          "title": "Ninja’s microwave air fryer could be the fix for soggy reheated pizza",
+          "link": "https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Ninja has added everything from ice cream makers to double-decker toaster ovens to its extensive lineup of counter-clogging appliances, but it's only now introducing its first microwave. What makes the new Ninja Crispi Microwave stand out…",
+          "published": "2026-07-16T13:30:00.000Z"
+        },
+        {
+          "title": "Samsung s Galaxy Z Flip 8 leaks a week before launch event",
+          "link": "https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Samsung's next flip phone might be tough to tell apart from last year's Galaxy Z Flip 7. As 9to5Google points out, leaked images and specs for the upcoming Galaxy Z Flip 8 shared by WinFuture are nearly identical to Samsung's current flip…",
+          "published": "2026-07-16T13:23:50.000Z"
+        },
+        {
+          "title": "Show HN: I've built a words game based on binary search",
+          "link": "https://hilogame.cc/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T13:15:49.000Z"
+        },
+        {
+          "title": "OnePlus never had a chance in the US",
+          "link": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "After an eight-year run, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its excellent OnePlus 15 and widely praised (though still too expensive)…",
+          "published": "2026-07-16T13:00:00.000Z"
+        },
+        {
+          "title": "Claude can now use your 1Password credentials for you",
+          "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to…",
+          "published": "2026-07-16T13:00:00.000Z"
+        },
+        {
+          "title": "Introduction to KizunaShelf: A shelf for everything you love",
+          "link": "https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T12:33:06.000Z"
+        },
+        {
+          "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
+          "link": "https://www.bbc.com/news/articles/c4gyg0y6yg2o",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T12:19:30.000Z"
+        },
+        {
+          "title": "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them",
+          "link": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T12:13:43.000Z"
+        },
+        {
+          "title": "Google ordered to open Android and Search to rivals in Europe",
+          "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed…",
+          "published": "2026-07-16T12:06:51.000Z"
+        },
+        {
+          "title": "The Act and the Outcome of Creation",
+          "link": "https://www.ssp.sh/blog/on-creation/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T12:05:42.000Z"
+        },
+        {
+          "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+          "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T11:59:01.000Z"
+        },
+        {
+          "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+          "link": "https://onatm.dev/2026/07/16/homescale-part-1/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T11:58:09.000Z"
+        },
+        {
+          "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
+          "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
+          "published": "2026-07-16T11:00:21.000Z"
+        },
+        {
+          "title": "Computer cops",
           "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
           "source": "The Verge",
           "category": "tech",
           "snippet": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from…",
           "published": "2026-07-16T11:00:00.000Z"
+        },
+        {
+          "title": "Track your workout from the iPhone Lock Screen",
+          "link": "https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T10:49:50.000Z"
+        },
+        {
+          "title": "Ente – Opening Our Books",
+          "link": "https://ente.com/open/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-16T10:37:17.000Z"
         },
         {
           "title": "OnePlus halts operations in USA and Europe",
@@ -232,172 +392,52 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-16T08:03:35.000Z"
-        },
-        {
-          "title": "Netstrings (1997)",
-          "link": "https://cr.yp.to/proto/netstrings.txt",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T05:33:50.000Z"
-        },
-        {
-          "title": "The lost joy of music piracy",
-          "link": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T04:46:21.000Z"
-        },
-        {
-          "title": "Reynard: A real Firefox web browser for iOS 13 or later",
-          "link": "https://github.com/minh-ton/reynard-browser",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T04:36:07.000Z"
-        },
-        {
-          "title": "If you want to create a button from scratch, you must first create the universe",
-          "link": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T03:48:43.000Z"
-        },
-        {
-          "title": "Making 768 servers look like 1",
-          "link": "https://planetscale.com/blog/making-768-servers-look-like-1",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T03:36:42.000Z"
-        },
-        {
-          "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
-          "link": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T03:12:47.000Z"
-        },
-        {
-          "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-          "link": "https://arxiv.org/abs/2607.11859",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T02:17:31.000Z"
-        },
-        {
-          "title": "Bluesky Trademarks ATProto",
-          "link": "https://atproto.com/blog/at-protocol-trademark",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T01:21:04.000Z"
-        },
-        {
-          "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
-          "link": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from…",
-          "published": "2026-07-16T00:00:00.000Z"
-        },
-        {
-          "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
-          "link": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T23:00:31.000Z"
-        },
-        {
-          "title": "HP s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
-          "link": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip 2 in 1 for $999.99 (usually $1,649.99)…",
-          "published": "2026-07-15T22:47:11.000Z"
-        },
-        {
-          "title": "SQLite should have (Rust-style) editions",
-          "link": "https://mort.coffee/home/sqlite-editions/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T22:42:58.000Z"
-        },
-        {
-          "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
-          "link": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman…",
-          "published": "2026-07-15T22:39:40.000Z"
-        },
-        {
-          "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
-          "link": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining.",
-          "published": "2026-07-15T22:36:28.000Z"
-        },
-        {
-          "title": "LLM Networking with MikroTik",
-          "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-15T22:23:27.000Z"
-        },
-        {
-          "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
-          "link": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could no longer just…",
-          "published": "2026-07-15T22:16:46.000Z"
-        },
-        {
-          "title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
-          "link": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "While an impressive sale, the pen and switch did not break records.",
-          "published": "2026-07-15T22:10:41.000Z"
-        },
-        {
-          "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
-          "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The convenience store chain will use StorMagic instead.",
-          "published": "2026-07-15T21:41:56.000Z"
-        },
-        {
-          "title": "xAI sues a man for using Grok to generate CSAM deepfakes",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and…",
-          "published": "2026-07-15T21:33:20.000Z"
-        },
-        {
-          "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
-          "link": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednesday, Republican Chair Brendan Carr…",
-          "published": "2026-07-15T21:30:17.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Coalition Urges Policymakers To Reject No Surprises Act Enforcement Bill",
+          "link": "https://medcitynews.com/2026/07/coalition-urges-policymakers-to-reject-no-surprises-act-enforcement-bill/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The Coalition Against Surprise Medical Billing launched a campaign opposing the No Surprises Act Enforcement Act, arguing it would worsen IDR process abuse. The post Coalition Urges Policymakers To Reject No Surprises Act Enforcement Bill…",
+          "published": "2026-07-16T14:03:00.000Z"
+        },
+        {
+          "title": "The administrative agency cases were not the court’s only significant separation of powers decisions this term",
+          "link": "https://www.scotusblog.com/2026/07/the-administrative-agency-cases-were-not-the-courts-only-significant-separation-of-powers-decisi/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. This term, the court decided several important separation of powers cases. In…",
+          "published": "2026-07-16T14:00:00.000Z"
+        },
+        {
+          "title": "The public’s view of the Supreme Court",
+          "link": "https://www.scotusblog.com/2026/07/the-publics-view-of-the-supreme-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "One of the more controversial topics concerning the Supreme Court is how attuned justices should be to public opinion. An even more fundamental question, however, is how closely public opinion matches the Supreme Court’s decisions. The…",
+          "published": "2026-07-16T13:30:00.000Z"
+        },
+        {
+          "title": "Reactions to Kagan and Barrett’s congressional testimony",
+          "link": "https://www.scotusblog.com/2026/07/reactions-to-kagan-and-barretts-congressional-testimony/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, a look at the Trump administration’s new petition for review on Temporary Protected Status.",
+          "published": "2026-07-16T13:00:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 07.16.26",
+          "link": "https://abovethelaw.com/2026/07/morning-docket-07-16-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* DOJ and SEC agree to freeze discovery in SEC's civil case over the Biglaw insider trading scheme, clarifying that the criminal case will be the main event. [ Court Listener ] * WilmerHale faces class action over data breach. [ Law360 ]…",
+          "published": "2026-07-16T12:54:00.000Z"
+        },
         {
           "title": "Selling Out To Trump Doesn t Get You Much Anymore See Also",
           "link": "https://abovethelaw.com/2026/07/selling-out-to-trump-doesnt-get-you-much-anymore-see-also/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "* The DOJ subpoenas the Biglaw firms who surrendered to the Trump administration. It's almost as though cutting a deal with a bad faith actor was bound to cause trouble. [ New York Times ] * Todd Blanche hearings kick off today as Trump's…",
           "published": "2026-07-15T12:49:00.000Z"
-        },
-        {
-          "title": "Forcing Prosecutors To Bring Cases To Keep Their Jobs? What Could Possibly Go Wrong? See Also",
-          "link": "https://abovethelaw.com/2026/07/forcing-prosecutors-to-bring-cases-to-keep-their-jobs-what-could-possibly-go-wrong-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "DOJ Has A Cool New Way To Demoralize The Attorneys It Has Left Working For It: Mandatory case quotas. Read The Opinion No, Not Like That: Amy Coney Barrett tells Congress that the Supreme Court doesn t really care about explaining itself…",
-          "published": "2026-07-14T23:32:00.000Z"
-        },
-        {
-          "title": "Has A Law School Had A Dean Facing Court Sanctions Before? Asking For THIS Law School.",
-          "link": "https://abovethelaw.com/2026/07/has-a-law-school-had-a-dean-facing-court-sanctions-before-asking-for-this-law-school/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Incoming interim dean has... issues. The post Has A Law School Had A Dean Facing Court Sanctions Before? Asking For THIS Law School. appeared first on Above the Law .",
-          "published": "2026-07-14T23:02:00.000Z"
-        },
-        {
-          "title": "Amy Coney Barrett Then: Read The Opinion! ACB Now: Inappropriate To Expect Supreme Court To Explain Decisions",
-          "link": "https://abovethelaw.com/2026/07/amy-coney-barrett-then-read-the-opinion-acb-now-inappropriate-to-expect-supreme-court-to-explain-decisions/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Turns out accountability was always something for other people. The post Amy Coney Barrett Then: Read The Opinion! ACB Now: Inappropriate To Expect Supreme Court To Explain Decisions appeared first on Above the Law .",
-          "published": "2026-07-14T22:15:37.000Z"
-        },
-        {
-          "title": "Justices Kagan and Barrett testify before Congress",
-          "link": "https://www.scotusblog.com/2026/07/justices-kagan-and-barrett-testify-before-congress/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In the first appearances by members of the Supreme Court before Congress in seven years, Justices Elena Kagan and Amy Coney Barrett testified on Tuesday in both the House of Representatives and the Senate. Although the focus of the…",
-          "published": "2026-07-14T21:56:00.000Z"
-        },
-        {
-          "title": "Geoffrey Brow On Why the Best In-House Lawyers Learn To Fly The Plane With One Engine Burning",
-          "link": "https://abovethelaw.com/2026/07/geoffrey-brow-on-why-the-best-in-house-lawyers-learn-to-fly-the-plane-with-one-engine-burning/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The future probably will not belong to the lawyers who memorize the most rules. The post Geoffrey Brow On Why the Best In-House Lawyers Learn To Fly The Plane With One Engine Burning appeared first on Above the Law .",
-          "published": "2026-07-14T21:27:31.000Z"
         }
       ]
     }
