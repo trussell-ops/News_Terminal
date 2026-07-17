@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-17T00:57:01.525Z",
+  "updated": "2026-07-17T03:57:09.919Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "China hits out at British Steel nationalisation",
+          "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+          "published": "2026-07-17T02:50:36.000Z"
+        },
+        {
+          "title": "Trump Media to sell early access to key social posts",
+          "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+          "published": "2026-07-17T01:27:36.000Z"
+        },
         {
           "title": "The financial winners and losers from the World Cup",
           "link": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
@@ -19,14 +35,6 @@
           "category": "markets",
           "snippet": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
           "published": "2026-07-16T23:14:11.000Z"
-        },
-        {
-          "title": "Trump Media to sell early access to key social posts",
-          "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-          "published": "2026-07-16T22:42:37.000Z"
         },
         {
           "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
@@ -187,20 +195,44 @@
           "category": "markets",
           "snippet": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
           "published": "2026-07-15T17:22:51.000Z"
-        },
-        {
-          "title": "Burnham faces crucial choice for chancellor as battle for No 11 continues",
-          "link": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson.",
-          "published": "2026-07-15T17:13:06.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "GrapheneOS recommended for domestic abuse victims",
+          "link": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T01:36:52.000Z"
+        },
+        {
+          "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+          "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T00:45:05.000Z"
+        },
+        {
+          "title": "The Human-in-the-Loop Is Tired",
+          "link": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T00:21:09.000Z"
+        },
+        {
+          "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
+          "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
+          "published": "2026-07-17T00:02:54.000Z"
+        },
         {
           "title": "Two Trump health nominees crash and burn in tense Senate hearing",
           "link": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
@@ -210,15 +242,7 @@
           "published": "2026-07-16T22:33:24.000Z"
         },
         {
-          "title": "My car’s OTA update broke Android Auto",
-          "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T22:29:44.000Z"
-        },
-        {
-          "title": "Show HN: Mojibake – a low-level Unicode library written in C",
+          "title": "Show HN: Mojibake – A low-level Unicode library written in C",
           "link": "https://mojibake.zaerl.com/",
           "source": "Hacker News",
           "category": "tech",
@@ -322,14 +346,6 @@
           "published": "2026-07-16T20:26:23.000Z"
         },
         {
-          "title": "Timeline Scan – AI fixes the dates on your scanned photos",
-          "link": "https://timelinescan.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T20:25:47.000Z"
-        },
-        {
           "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
           "link": "https://www.science.org/doi/10.1126/science.aea9708",
           "source": "Hacker News",
@@ -344,14 +360,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-16T20:18:15.000Z"
-        },
-        {
-          "title": "The privacy problems hidden in your period tracker",
-          "link": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T20:15:58.000Z"
         },
         {
           "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "CD sales are apparently going up, reportedly thanks to fans realizing they're an affordable way to support their favorite artists. According to a new report from research firm Luminate, 16.3 million CDs were sold in the first half of 2026…",
           "published": "2026-07-16T19:55:29.000Z"
-        },
-        {
-          "title": "2026 Toyota RAV4 plug-in: Big battery means daily drives are all-electric",
-          "link": "https://arstechnica.com/cars/2026/07/2026-toyota-rav4-plug-in-review-good-but-skip-the-gr-sport/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Toyota's everyday small SUV should rarely require trips to the gas station.",
-          "published": "2026-07-16T19:46:22.000Z"
         }
       ]
     },
