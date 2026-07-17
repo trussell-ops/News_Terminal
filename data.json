@@ -1,16 +1,40 @@
 {
-  "updated": "2026-07-17T13:05:27.364Z",
+  "updated": "2026-07-17T14:55:11.454Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Why are UK fuel prices rising again?",
+          "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "UK fuel prices are going up again after the collapse of peace talks to end the US-Israel war with Iran.",
+          "published": "2026-07-17T14:09:45.000Z"
+        },
+        {
+          "title": "Netflix stock falls nearly 10% as earnings forecast disappoints, company says it will give fewer engagement updates",
+          "link": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The streaming giant said it would cut back on the frequency of its \"What We Watched\" reports, which provide a picture of engagement.",
+          "published": "2026-07-17T14:04:53.000Z"
+        },
+        {
+          "title": "Chinese automakers are taking on the UK — and many Brits are embracing it",
+          "link": "https://www.cnbc.com/2026/07/17/chinese-automakers-uk.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The surge comes as China's auto exports have boomed in recent years as the country's appetite for new models has cooled.",
+          "published": "2026-07-17T14:04:19.000Z"
+        },
         {
           "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
           "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.",
-          "published": "2026-07-17T12:51:50.000Z"
+          "published": "2026-07-17T13:12:11.000Z"
         },
         {
           "title": "How big is the great wealth transfer? It could be over $100 trillion or $36 trillion",
@@ -69,6 +93,14 @@
           "published": "2026-07-17T06:23:45.000Z"
         },
         {
+          "title": "Five headaches Andy Burnham will have to deal with as PM",
+          "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
+          "published": "2026-07-17T05:59:36.000Z"
+        },
+        {
           "title": "How do you split the bill with friends?",
           "link": "https://www.bbc.co.uk/news/videos/c5yzy3j39vwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -91,14 +123,6 @@
           "category": "markets",
           "snippet": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
           "published": "2026-07-16T23:14:11.000Z"
-        },
-        {
-          "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
-          "link": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The streaming giant said it would cut back on the frequency of its \"What We Watched\" reports, which provide a picture of engagement.",
-          "published": "2026-07-16T21:53:56.000Z"
         },
         {
           "title": "Business Daily",
@@ -171,30 +195,6 @@
           "category": "markets",
           "snippet": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
           "published": "2026-07-16T11:31:15.000Z"
-        },
-        {
-          "title": "Aer Lingus proposes cutting 500 jobs under savings plan",
-          "link": "https://www.bbc.co.uk/news/articles/ceqe52l4yr4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The company proposes cutting 290 roles in its head office, along with 140 cabin roles and 70 pilots.",
-          "published": "2026-07-16T11:21:25.000Z"
-        },
-        {
-          "title": "TikTok faces Ofcom investigation over child age checks",
-          "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
-          "published": "2026-07-16T11:08:33.000Z"
-        },
-        {
-          "title": "Chip giant TSMC pledges another $100bn to expand US production",
-          "link": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The company says it will create \"high-tech, high-paying jobs\", and raises its total commitment to the US to $265bn.",
-          "published": "2026-07-16T10:23:00.000Z"
         }
       ]
     },
@@ -202,12 +202,148 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Mozilla: The state of open source AI",
+          "link": "https://stateofopensource.ai/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T14:31:10.000Z"
+        },
+        {
+          "title": "Claude Code: Anatomy of a Misfeature",
+          "link": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T14:26:58.000Z"
+        },
+        {
+          "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "link": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T14:21:35.000Z"
+        },
+        {
+          "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+          "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T14:06:13.000Z"
+        },
+        {
+          "title": "Over half a million power tool batteries have been recalled due to a USB-C charging fire risk",
+          "link": "https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Greenworks Tools has issued a recall for around 554,780 Kobalt-branded power tools designed for yard work because of a battery issue \"posing a risk of serious injury from fire hazard.\" There have been 34 reports of the tool's batteries…",
+          "published": "2026-07-17T14:05:29.000Z"
+        },
+        {
+          "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+          "link": "https://honeypotlive.cc/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T14:05:15.000Z"
+        },
+        {
+          "title": "Bethesda teases Fallout 5 soon after Xbox’s mass layoffs",
+          "link": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Xbox is currently in a \"reset\" period that includes laying off around 3,200 employees over the next year, involving deep cuts at beloved studios like id Software and Obsidian Entertainment. Now, in an attempt to show that things are still…",
+          "published": "2026-07-17T14:00:37.000Z"
+        },
+        {
+          "title": "Three ways people respond to a problem (other than solving it)",
+          "link": "https://improvesomething.today/responses-to-problems/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T14:00:04.000Z"
+        },
+        {
+          "title": "The manosphere s testosterone fever is coming for the troops",
+          "link": "https://www.theverge.com/column/966770/optimizer-manosphere-testosterone-troops",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. I was in the middle of…",
+          "published": "2026-07-17T14:00:00.000Z"
+        },
+        {
+          "title": "A Road to Lisp: Which Lisp",
+          "link": "https://scotto.me/blog/2026-07-17-which-lisp/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T13:56:04.000Z"
+        },
+        {
+          "title": "More Bounce to the Ounce – By Maciej Cegłowski",
+          "link": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T13:32:11.000Z"
+        },
+        {
+          "title": "PennyLane is an open-source quantum software platform for quantum",
+          "link": "https://github.com/PennyLaneAI/pennylane",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T13:30:47.000Z"
+        },
+        {
+          "title": "Even Microsoft couldn’t make Windows 11 work well on 8GB of RAM",
+          "link": "https://www.theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Last year, Microsoft's 13-inch Surface Laptop quickly became one of my favorite thin-and-light Windows notebooks. At $900, it was easy to recommend to anyone wanting MacBook Air-like build quality and battery life on Windows - I even…",
+          "published": "2026-07-17T13:30:00.000Z"
+        },
+        {
+          "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
+          "link": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T13:22:33.000Z"
+        },
+        {
+          "title": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
+          "link": "https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T13:02:07.000Z"
+        },
+        {
+          "title": "Minikotlin",
+          "link": "https://minikotlin.run",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T12:50:29.000Z"
+        },
+        {
           "title": "Trump is selling high-speed access to his market-moving Truth Social posts",
           "link": "https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Trump Media, the company behind Truth Social, is selling Wall Street faster access to the \"most market-moving\" posts on the US President's social media platform. On Thursday, Trump Media announced plans to launch \"Truth API,\" a licensed…",
           "published": "2026-07-17T12:49:57.000Z"
+        },
+        {
+          "title": "VulnHunter: Capital One's agentic AI code security tool",
+          "link": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T12:42:12.000Z"
         },
         {
           "title": "Apple targets dozens of OpenAI employees with legal letters",
@@ -226,7 +362,7 @@
           "published": "2026-07-17T11:30:10.000Z"
         },
         {
-          "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+          "title": "Evidence of inconsistencies in evaluation process and selection of winners",
           "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
           "source": "Hacker News",
           "category": "tech",
@@ -256,148 +392,44 @@
           "category": "tech",
           "snippet": "\"We have done everything that could be done to test Vikram-1 on ground.\"",
           "published": "2026-07-17T11:00:04.000Z"
-        },
-        {
-          "title": "The war on ‘woke science’ comes for space research",
-          "link": "https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Trump administration is waging a culture war on science, and the latest salvo is in the form of a dry, bureaucratic proposal from the Office of Management and Budget (OMB) that could threaten the future of US science as we know it.…",
-          "published": "2026-07-17T11:00:00.000Z"
-        },
-        {
-          "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
-          "link": "https://news.ycombinator.com/item?id=48945681",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T10:45:21.000Z"
-        },
-        {
-          "title": "God Of War TV series is recasting Kratos",
-          "link": "https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Amazon's upcoming God Of War show has hit a major snag - it's now on the hunt for a new Kratos, after an on-set injury put its current lead actor out of commission. Sons of Anarchy star Ryan Hurst was originally cast for the role in…",
-          "published": "2026-07-17T10:14:04.000Z"
-        },
-        {
-          "title": "I Owe My Life to the Commodore 64",
-          "link": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T09:44:25.000Z"
-        },
-        {
-          "title": "Pushinka",
-          "link": "https://en.wikipedia.org/wiki/Pushinka",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T07:29:55.000Z"
-        },
-        {
-          "title": "EEG shows brain can simultaneous encode two speech streams",
-          "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T05:51:10.000Z"
-        },
-        {
-          "title": "Pebble Mega Update – July 2026",
-          "link": "https://repebble.com/blog/pebble-mega-update-july-2026",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T03:53:38.000Z"
-        },
-        {
-          "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-          "link": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T03:48:26.000Z"
-        },
-        {
-          "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-          "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
-          "published": "2026-07-17T00:02:54.000Z"
-        },
-        {
-          "title": "Two Trump health nominees crash and burn in tense Senate hearing",
-          "link": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Both nominees flailed in their own unique ways as senators sought answers.",
-          "published": "2026-07-16T22:33:24.000Z"
-        },
-        {
-          "title": "The Little Book of Reinforcement Learning",
-          "link": "https://github.com/alxndrTL/little-book-rl/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T22:27:22.000Z"
-        },
-        {
-          "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
-          "link": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Resellers threatened to ditch HP printing supplies for counterfeits.",
-          "published": "2026-07-16T22:02:31.000Z"
-        },
-        {
-          "title": "'Likweli': A new monkey species discovered in the Congo Basin",
-          "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T22:00:00.000Z"
-        },
-        {
-          "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
-          "link": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36…",
-          "published": "2026-07-16T21:30:35.000Z"
-        },
-        {
-          "title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
-          "link": "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "T-Mobile to restore free lines lost during plan migration, but price hikes remain.",
-          "published": "2026-07-16T20:52:47.000Z"
-        },
-        {
-          "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
-          "link": "https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery. The Frame has bezels that make it look…",
-          "published": "2026-07-16T20:47:30.000Z"
-        },
-        {
-          "title": "It's official: EU will force Google to share search data and open up AI on Android",
-          "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Google says these changes could endanger user privacy and security.",
-          "published": "2026-07-16T20:41:45.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "How Appealing Weekly Roundup",
+          "link": "https://abovethelaw.com/2026/07/how-appealing-weekly-roundup-177/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
+          "published": "2026-07-17T14:43:00.000Z"
+        },
+        {
+          "title": "Writers Guild Of America Also Sues Paramount, Citing Looming Merger Layoff Bloodbath",
+          "link": "https://abovethelaw.com/2026/07/writers-guild-of-america-also-sues-paramount-citing-looming-merger-layoff-bloodbath/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "From the do-not-pass-go,-do-not-collect-$200 dept The post Writers Guild Of America Also Sues Paramount, Citing Looming Merger Layoff Bloodbath appeared first on Above the Law .",
+          "published": "2026-07-17T14:03:00.000Z"
+        },
+        {
+          "title": "In birthright citizenship dissent, Justice Thomas stakes out an ideological claim of who counts as an American",
+          "link": "https://www.scotusblog.com/2026/07/in-birthright-citizenship-dissent-justice-thomas-stakes-out-an-ideological-claim-of-who-counts-a/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court’s decision about President Donald Trump’s attempt to narrow access to birthright citizenship left no doubt that a majority of justices agree it’s illegal. But two justices, Clarence Thomas and Neil Gorsuch, revealed that…",
+          "published": "2026-07-17T14:00:00.000Z"
+        },
+        {
+          "title": "Three profound constitutional provisions – and how the Supreme Court has avoided dealing with them",
+          "link": "https://www.scotusblog.com/2026/07/three-profound-constitutional-provisions-and-how-the-supreme-court-has-avoided-dealing-with-them/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Some provisions of the Constitution enjoy far more attention than others. At the Supreme Court, for example, it is a rare term that doesn’t have a case involving the First, Second, or Fourth Amendments. Yet that is not true for every…",
+          "published": "2026-07-17T13:30:00.000Z"
+        },
         {
           "title": "Rebecca Slaughter speaks out",
           "link": "https://www.scotusblog.com/2026/07/rebecca-slaughter-speaks-out/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "Plus, a look at the Trump administration’s new petition for review on Temporary Protected Status.",
           "published": "2026-07-16T13:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 07.16.26",
-          "link": "https://abovethelaw.com/2026/07/morning-docket-07-16-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* DOJ and SEC agree to freeze discovery in SEC's civil case over the Biglaw insider trading scheme, clarifying that the criminal case will be the main event. [ Court Listener ] * WilmerHale faces class action over data breach. [ Law360 ]…",
-          "published": "2026-07-16T12:54:00.000Z"
-        },
-        {
-          "title": "Selling Out To Trump Doesn t Get You Much Anymore See Also",
-          "link": "https://abovethelaw.com/2026/07/selling-out-to-trump-doesnt-get-you-much-anymore-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Turns Out The Biglaw Firms That Bent The Knee To Trump Have Even More To Rue: Those deals keep looking worse and worse. Todd Blanche Used To Have The Respect Of His Former SDNY Colleagues: Not so much anymore. Oopsie! Todd Blanche's…",
-          "published": "2026-07-15T23:28:00.000Z"
-        },
-        {
-          "title": "Yes, Even Celebrities Have To Pay Their Attorneys",
-          "link": "https://abovethelaw.com/2026/07/yes-even-celebrities-have-to-pay-their-attorneys/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "No matter what the president does... The post Yes, Even Celebrities Have To Pay Their Attorneys appeared first on Above the Law .",
-          "published": "2026-07-15T23:00:00.000Z"
-        },
-        {
-          "title": "I Don’t Think Trump’s Remaining Supporters Realize How Much They Are Despised By Non-MAGA Voters",
-          "link": "https://abovethelaw.com/2026/07/i-dont-think-trumps-remaining-supporters-realize-how-much-they-are-despised-by-non-maga-voters/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Trump is bleeding support even among his stubborn, uneducated base. The post I Don’t Think Trump’s Remaining Supporters Realize How Much They Are Despised By Non-MAGA Voters appeared first on Above the Law .",
-          "published": "2026-07-15T22:17:00.000Z"
         }
       ]
     }
