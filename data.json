@@ -1,24 +1,16 @@
 {
-  "updated": "2026-07-17T18:52:45.924Z",
+  "updated": "2026-07-17T19:58:28.347Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
-        {
-          "title": "Why women should speak openly about money",
-          "link": "https://www.bbc.co.uk/news/videos/cvgwdxqj3k4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Emma joins Nuala McGovern to discuss her book Start With Yourself: A New Vision for Work and Life.",
-          "published": "2026-07-17T18:15:23.000Z"
-        },
         {
           "title": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
           "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "The move is a vote of confidence in Boeing from the U.S. government.",
-          "published": "2026-07-17T17:55:14.000Z"
+          "published": "2026-07-17T19:38:06.000Z"
         },
         {
           "title": "The cyclosporiasis outbreak linked to Taco Bell is hitting some restaurant stocks, but don't expect a long-term impact",
@@ -26,7 +18,15 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Taco Bell, which the CDC linked to the cyclosporiasis outbreak, will likely recover soon from the health safety scare, according to analysts.",
-          "published": "2026-07-17T17:17:50.000Z"
+          "published": "2026-07-17T18:56:04.000Z"
+        },
+        {
+          "title": "Why women should speak openly about money",
+          "link": "https://www.bbc.co.uk/news/videos/cvgwdxqj3k4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Emma joins Nuala McGovern to discuss her book Start With Yourself: A New Vision for Work and Life.",
+          "published": "2026-07-17T18:15:23.000Z"
         },
         {
           "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
@@ -202,6 +202,62 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "The Zilog Z80 has turned 50",
+          "link": "https://goliath32.com/blog/z80.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T19:41:02.000Z"
+        },
+        {
+          "title": "TikTok is testing an AI likeness detection tool",
+          "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US…",
+          "published": "2026-07-17T19:34:30.000Z"
+        },
+        {
+          "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
+          "link": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. \"I think the most important…",
+          "published": "2026-07-17T19:14:42.000Z"
+        },
+        {
+          "title": "ICE Flight Monitor Interactive Dashboard",
+          "link": "https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T18:59:28.000Z"
+        },
+        {
+          "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+          "link": "https://app.everything.diena.co/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T18:37:33.000Z"
+        },
+        {
+          "title": "SpaceX stock drops to a new low and loses $1T in value in a month",
+          "link": "https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T18:26:02.000Z"
+        },
+        {
+          "title": "Apple Music is getting a price hike",
+          "link": "https://www.theverge.com/tech/967379/apple-music-price-increase",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month,…",
+          "published": "2026-07-17T18:14:26.000Z"
+        },
+        {
           "title": "Learning a few things about running SQLite",
           "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
           "source": "Hacker News",
@@ -258,14 +314,6 @@
           "published": "2026-07-17T16:24:21.000Z"
         },
         {
-          "title": "Designing emoji for the way we communicate today",
-          "link": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T16:24:13.000Z"
-        },
-        {
           "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
           "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
           "source": "Ars Technica",
@@ -314,7 +362,7 @@
           "published": "2026-07-17T15:34:35.000Z"
         },
         {
-          "title": "Frame – the first Linux Assembly X server",
+          "title": "Frame – Linux X server in Assembly",
           "link": "https://isene.org/2026/07/Frame.html",
           "source": "Hacker News",
           "category": "tech",
@@ -344,54 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-17T14:21:51.000Z"
-        },
-        {
-          "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "link": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T14:21:35.000Z"
-        },
-        {
-          "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-          "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T14:06:13.000Z"
-        },
-        {
-          "title": "Over half a million power tool batteries have been recalled due to a USB-C charging fire risk",
-          "link": "https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Greenworks Tools has issued a recall for around 554,780 Kobalt-branded power tools designed for yard work because of a battery issue \"posing a risk of serious injury from fire hazard.\" There have been 34 reports of the tool's batteries…",
-          "published": "2026-07-17T14:05:29.000Z"
-        },
-        {
-          "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-          "link": "https://honeypotlive.cc/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T14:05:15.000Z"
-        },
-        {
-          "title": "Bethesda teases Fallout 5 soon after Xbox’s mass layoffs",
-          "link": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Xbox is currently in a \"reset\" period that includes laying off around 3,200 employees over the next year, involving deep cuts at beloved studios like id Software and Obsidian Entertainment. Now, in an attempt to show that things are still…",
-          "published": "2026-07-17T14:00:37.000Z"
-        },
-        {
-          "title": "Three ways people respond to a problem (other than solving it)",
-          "link": "https://improvesomething.today/responses-to-problems/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T14:00:04.000Z"
         }
       ]
     },
