@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-17T11:53:14.023Z",
+  "updated": "2026-07-17T13:05:27.364Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
+          "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.",
+          "published": "2026-07-17T12:51:50.000Z"
+        },
+        {
+          "title": "How big is the great wealth transfer? It could be over $100 trillion or $36 trillion",
+          "link": "https://www.cnbc.com/2026/07/17/great-wealth-transfer-estimates.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Two studies have raised new questions about the size and impact of the coming great wealth transfer.",
+          "published": "2026-07-17T12:06:08.000Z"
+        },
         {
           "title": "The financial winners and losers from the World Cup",
           "link": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
@@ -11,14 +27,6 @@
           "category": "markets",
           "snippet": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most, and who is losing out?",
           "published": "2026-07-17T11:36:11.000Z"
-        },
-        {
-          "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-          "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.",
-          "published": "2026-07-17T11:20:17.000Z"
         },
         {
           "title": "China hits out at British Steel nationalisation",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "The company says it will create \"high-tech, high-paying jobs\", and raises its total commitment to the US to $265bn.",
           "published": "2026-07-16T10:23:00.000Z"
-        },
-        {
-          "title": "UK economy returns to growth in May",
-          "link": "https://www.bbc.co.uk/news/articles/c8xnllq944go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The modest growth reverses a slight contraction that had been seen the previous month.",
-          "published": "2026-07-16T08:43:28.000Z"
         }
       ]
     },
@@ -202,12 +202,60 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Trump is selling high-speed access to his market-moving Truth Social posts",
+          "link": "https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Trump Media, the company behind Truth Social, is selling Wall Street faster access to the \"most market-moving\" posts on the US President's social media platform. On Thursday, Trump Media announced plans to launch \"Truth API,\" a licensed…",
+          "published": "2026-07-17T12:49:57.000Z"
+        },
+        {
+          "title": "Apple targets dozens of OpenAI employees with legal letters",
+          "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T12:02:39.000Z"
+        },
+        {
+          "title": "The report oil companies are worried about: Climate attribution science",
+          "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "New report says our ability to tie weather damages to climate change is improving.",
+          "published": "2026-07-17T11:30:10.000Z"
+        },
+        {
           "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
           "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-17T11:30:00.000Z"
+        },
+        {
+          "title": "FCC took pricey gifts from Paramount as the company needed approval for deals",
+          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "FCC chair has been gifted at least $63,000 worth of tickets by CBS or its parent company.",
+          "published": "2026-07-17T11:15:55.000Z"
+        },
+        {
+          "title": "2026 Lucid Gravity Touring review: A strong act 2",
+          "link": "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Quick, comfortable, roomy, and agile for a large electric SUV.",
+          "published": "2026-07-17T11:00:30.000Z"
+        },
+        {
+          "title": "Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?",
+          "link": "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"We have done everything that could be done to test Vikram-1 on ground.\"",
+          "published": "2026-07-17T11:00:04.000Z"
         },
         {
           "title": "The war on ‘woke science’ comes for space research",
@@ -226,14 +274,6 @@
           "published": "2026-07-17T10:45:21.000Z"
         },
         {
-          "title": "Just got an AWS billing alert projecting my monthly cost at $140B",
-          "link": "https://news.ycombinator.com/item?id=48945606",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T10:35:06.000Z"
-        },
-        {
           "title": "God Of War TV series is recasting Kratos",
           "link": "https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast",
           "source": "The Verge",
@@ -248,6 +288,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-17T09:44:25.000Z"
+        },
+        {
+          "title": "Pushinka",
+          "link": "https://en.wikipedia.org/wiki/Pushinka",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-17T07:29:55.000Z"
         },
         {
           "title": "EEG shows brain can simultaneous encode two speech streams",
@@ -272,14 +320,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-17T03:48:26.000Z"
-        },
-        {
-          "title": "The human-in-the-loop is tired",
-          "link": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-17T00:21:09.000Z"
         },
         {
           "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
@@ -352,52 +392,28 @@
           "category": "tech",
           "snippet": "Google says these changes could endanger user privacy and security.",
           "published": "2026-07-16T20:41:45.000Z"
-        },
-        {
-          "title": "Mathematics of Data Science",
-          "link": "https://arxiv.org/abs/2607.11938",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T20:38:48.000Z"
-        },
-        {
-          "title": "Netflix says around 300 titles used generative AI",
-          "link": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly…",
-          "published": "2026-07-16T20:29:27.000Z"
-        },
-        {
-          "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
-          "published": "2026-07-16T20:26:23.000Z"
-        },
-        {
-          "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
-          "link": "https://www.science.org/doi/10.1126/science.aea9708",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T20:24:02.000Z"
-        },
-        {
-          "title": "LM Studio Bionic: the AI agent for open models",
-          "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-16T20:18:15.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Rebecca Slaughter speaks out",
+          "link": "https://www.scotusblog.com/2026/07/rebecca-slaughter-speaks-out/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, catch-up on the latest SCOTUSblog events with these videos.",
+          "published": "2026-07-17T13:00:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 07.17.26",
+          "link": "https://abovethelaw.com/2026/07/morning-docket-07-17-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Last night, Trump delivered a speech ostensibly about election security, but it was mostly a commercial for the 25th Amendment. [ Election Law Blog ] * Madison Square Garden sues WIRED over article claiming the stadium \"used…",
+          "published": "2026-07-17T12:53:00.000Z"
+        },
         {
           "title": "Biglaw Layoffs Are Never A Good Sign See Also",
           "link": "https://abovethelaw.com/2026/07/biglaw-layoffs-are-never-a-good-sign-see-also/",
@@ -419,7 +435,7 @@
           "link": "https://abovethelaw.com/2026/07/stop-acting-like-a-squirrel-with-your-legal-business-development/",
           "source": "Above the Law",
           "category": "legal",
-          "snippet": "The lawyers who build real books of business are not the ones who dart, hesitate, and hope. They are the ones who pick a direction, commit to a plan, and cross the road with purpose. The post Stop Acting Like A Squirrel With Your Legal…",
+          "snippet": "Building a book of business requires direction, consistency, and a willingness to cross the road. The post Stop Acting Like A Squirrel With Your Legal Business Development appeared first on Above the Law .",
           "published": "2026-07-16T22:16:00.000Z"
         },
         {
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Trump is bleeding support even among his stubborn, uneducated base. The post I Don’t Think Trump’s Remaining Supporters Realize How Much They Are Despised By Non-MAGA Voters appeared first on Above the Law .",
           "published": "2026-07-15T22:17:00.000Z"
-        },
-        {
-          "title": "AALL 2026: Focusing On The Aloha",
-          "link": "https://abovethelaw.com/2026/07/aall-2026-focusing-on-the-aloha/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "It’s good to pay attention to what AALL is focused on. That’s why this year’s theme was eye-catching. The post AALL 2026: Focusing On The Aloha appeared first on Above the Law .",
-          "published": "2026-07-15T21:29:00.000Z"
-        },
-        {
-          "title": "Paging Dr. Freud: Todd Blanche Calls Himself Trump s Lawyer At His Attorney General Confirmation Hearing",
-          "link": "https://abovethelaw.com/2026/07/paging-dr-freud-todd-blanche-calls-himself-trumps-lawyer-at-his-attorney-general-confirmation-hearing/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "'I'm his lawyer — was his lawyer.' Sure, Todd. The post Paging Dr. Freud: Todd Blanche Calls Himself Trump s Lawyer At His Attorney General Confirmation Hearing appeared first on Above the Law .",
-          "published": "2026-07-15T20:44:00.000Z"
         }
       ]
     }
