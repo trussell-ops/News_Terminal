@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T22:38:48.063Z",
+  "updated": "2026-07-18T23:42:44.400Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,22 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Codex Resets",
+          "link": "https://codex-resets.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-18T23:24:26.000Z"
+        },
+        {
+          "title": "Gap in Mochizuki's proof of ABC confirmed by Lean",
+          "link": "https://twitter.com/FumiharuKato/status/2078017230537892207",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-18T22:19:37.000Z"
+        },
+        {
           "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
           "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
           "source": "Hacker News",
@@ -210,12 +226,28 @@
           "published": "2026-07-18T22:13:39.000Z"
         },
         {
+          "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+          "link": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-18T22:09:07.000Z"
+        },
+        {
           "title": "Judge a book by its first pages",
           "link": "https://uncovered.ink",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-18T22:02:31.000Z"
+        },
+        {
+          "title": "Classic Amiga titles, free to download",
+          "link": "https://amigafreeware.downer.tech/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-18T21:55:27.000Z"
         },
         {
           "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01&#x2F;day",
@@ -234,28 +266,12 @@
           "published": "2026-07-18T21:09:01.000Z"
         },
         {
-          "title": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-          "link": "https://github.com/saineshnakra/automated-data-analyst",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-18T21:06:49.000Z"
-        },
-        {
           "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
           "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that…",
           "published": "2026-07-18T20:54:42.000Z"
-        },
-        {
-          "title": "SpaceX and the myth of independent Wall St research",
-          "link": "https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-18T20:13:56.000Z"
         },
         {
           "title": "Typing Speed Test, but for Developers",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-18T13:00:52.000Z"
-        },
-        {
-          "title": "Sony’s flagship RGB LED TV is incredible",
-          "link": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting into the roleplaying game but had never seen the…",
-          "published": "2026-07-18T12:30:00.000Z"
-        },
-        {
-          "title": "More games should be on rails (literally)",
-          "link": "https://www.theverge.com/games/961152/denshattack-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly through nearly 20 years later. Denshattack!,…",
-          "published": "2026-07-18T12:00:00.000Z"
         }
       ]
     },
@@ -399,12 +399,132 @@
       "label": "Legal Developments",
       "items": [
         {
+          "title": "DOJ Remains Dullest Tools In The Shed See Also",
+          "link": "https://abovethelaw.com/2026/07/doj-remains-dullest-tools-in-the-shed-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The DOJ Gabs About Its Biglaw Subpoenas: I don't think it'll work out the way they planned it in their head. House Oversight Caught With Their Pants Down : Alan \"Underpants\" Dershowitz cancels Monday Epstein interview at the last minute.…",
+          "published": "2026-07-17T23:13:00.000Z"
+        },
+        {
+          "title": "The Death Watch For Biglaw On-Campus Interviews Has Begun",
+          "link": "https://abovethelaw.com/2026/07/the-death-watch-for-biglaw-on-campus-interviews-has-begun/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "It used to be *the* way to get yourself a Biglaw summer job. Not anymore. The post The Death Watch For Biglaw On-Campus Interviews Has Begun appeared first on Above the Law .",
+          "published": "2026-07-17T22:44:00.000Z"
+        },
+        {
+          "title": "Healthcare Groups Praise Unanimous Committee Approval Of MA Prior Auth Bill",
+          "link": "https://medcitynews.com/2026/07/healthcare-groups-praise-unanimous-committee-approval-of-ma-prior-auth-bill/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The House Ways and Means Committee unanimously advanced a bill to reform Medicare Advantage prior authorization requirements. The post Healthcare Groups Praise Unanimous Committee Approval Of MA Prior Auth Bill appeared first on Above the…",
+          "published": "2026-07-17T22:15:00.000Z"
+        },
+        {
           "title": "Johnny Brown, Justice Jackson’s father, passes away at 80",
           "link": "https://www.scotusblog.com/2026/07/johnny-brown-justice-jacksons-father-passes-away-at-80/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "Johnny Brown, the father of Justice Ketanji Brown Jackson, died on Wednesday, according to an obituary published in the Miami Herald on Friday afternoon. He was 80 years old. Jackson appeared on Tuesday night in a conversation at the…",
           "published": "2026-07-17T21:57:32.000Z"
+        },
+        {
+          "title": "Voice Search For Lawyers: Why Your Firm May Already Be Losing Clients",
+          "link": "https://abovethelaw.com/2026/07/voice-search-for-lawyers-why-your-firm-may-already-be-losing-clients/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Understanding and optimizing for voice search is increasingly vital to online search visibility, especially for capturing the all-important local search activity. The post Voice Search For Lawyers: Why Your Firm May Already Be Losing…",
+          "published": "2026-07-17T21:33:00.000Z"
+        },
+        {
+          "title": "Remember When Alan Dershowitz Begged To Testify About Epstein? Well, Now He s Not Showing Up",
+          "link": "https://abovethelaw.com/2026/07/remember-when-alan-dershowitz-begged-to-be-called-to-testify-about-epstein-well-he-was-and-hes-refusing/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "I remember... because I'm more than 30 days old. The post Remember When Alan Dershowitz Begged To Testify About Epstein? Well, Now He s Not Showing Up appeared first on Above the Law .",
+          "published": "2026-07-17T21:15:00.000Z"
+        },
+        {
+          "title": "The BigHand Legal Report: More Trouble For Ostriches",
+          "link": "https://abovethelaw.com/2026/07/the-bighand-legal-report-more-trouble-for-ostriches/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Bottom line? The ostrich law firms that keep their heads in the sand are going to lose business. The post The BigHand Legal Report: More Trouble For Ostriches appeared first on Above the Law .",
+          "published": "2026-07-17T20:44:00.000Z"
+        },
+        {
+          "title": "The DOJ s Biglaw Subpoena Explanation Raises More Questions Than It Answers",
+          "link": "https://abovethelaw.com/2026/07/the-dojs-biglaw-subpoena-explanation-raises-more-questions-than-it-answers/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "So, I guess those Epshteyn documents really are relevant... The post The DOJ s Biglaw Subpoena Explanation Raises More Questions Than It Answers appeared first on Above the Law .",
+          "published": "2026-07-17T20:02:00.000Z"
+        },
+        {
+          "title": "Veteran GOP Election Lawyer Still Has One Problem With Trump s 2020 Claims: The Evidence",
+          "link": "https://abovethelaw.com/2026/07/veteran-gop-election-lawyer-still-has-one-problem-with-trumps-2020-claims-the-evidence/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Ben Ginsberg says years later, the proof Trump keeps promising still hasn't materialized. The post Veteran GOP Election Lawyer Still Has One Problem With Trump s 2020 Claims: The Evidence appeared first on Above the Law .",
+          "published": "2026-07-17T19:16:56.000Z"
+        },
+        {
+          "title": "Litigants Ask To Check Reflecting Pool For Sabotage",
+          "link": "https://abovethelaw.com/2026/07/litigants-ask-to-check-reflecting-pool-for-sabotage/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Before the saboteur in chief covers it with water. The post Litigants Ask To Check Reflecting Pool For Sabotage appeared first on Above the Law .",
+          "published": "2026-07-17T18:32:00.000Z"
+        },
+        {
+          "title": "What Lawyers Really Need To Know About Marketing",
+          "link": "https://abovethelaw.com/2026/07/what-lawyers-really-need-to-know-about-marketing/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Advice for lawyers at every stage of their career. The post What Lawyers Really Need To Know About Marketing appeared first on Above the Law .",
+          "published": "2026-07-17T17:49:00.000Z"
+        },
+        {
+          "title": "Things Are Heating Up At This Newly Merged Global Megafirm Literally",
+          "link": "https://abovethelaw.com/2026/07/things-are-heating-up-at-this-newly-merged-global-megafirm-literally/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "New megafirm sends London lawyers home after its air conditioning gives out during a heatwave. The post Things Are Heating Up At This Newly Merged Global Megafirm Literally appeared first on Above the Law .",
+          "published": "2026-07-17T17:01:00.000Z"
+        },
+        {
+          "title": "DOJ Cites Fake Case To Keep Man Locked Up By ICE, Judge Declines To Do Anything About It",
+          "link": "https://abovethelaw.com/2026/07/doj-cites-fake-case-to-keep-man-locked-up-by-ice-judge-declines-to-do-anything-about-it/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Judge spent two-thirds of her order explaining why fake citations are unacceptable, then shrugs off holding anyone accountable. The post DOJ Cites Fake Case To Keep Man Locked Up By ICE, Judge Declines To Do Anything About It appeared…",
+          "published": "2026-07-17T16:13:56.000Z"
+        },
+        {
+          "title": "Lawyers Should Spend More Time Studying Legal History",
+          "link": "https://abovethelaw.com/2026/07/lawyers-should-spend-more-time-studying-legal-history/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Many underlying challenges have remained remarkably similar from one generation to the next. The post Lawyers Should Spend More Time Studying Legal History appeared first on Above the Law .",
+          "published": "2026-07-17T15:40:01.000Z"
+        },
+        {
+          "title": "How Appealing Weekly Roundup",
+          "link": "https://abovethelaw.com/2026/07/how-appealing-weekly-roundup-177/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
+          "published": "2026-07-17T14:43:00.000Z"
+        },
+        {
+          "title": "Writers Guild Of America Also Sues Paramount, Citing Looming Merger Layoff Bloodbath",
+          "link": "https://abovethelaw.com/2026/07/writers-guild-of-america-also-sues-paramount-citing-looming-merger-layoff-bloodbath/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "From the do-not-pass-go,-do-not-collect-$200 dept The post Writers Guild Of America Also Sues Paramount, Citing Looming Merger Layoff Bloodbath appeared first on Above the Law .",
+          "published": "2026-07-17T14:03:00.000Z"
         },
         {
           "title": "In birthright citizenship dissent, Justice Thomas stakes out an ideological claim of who counts as an American",
@@ -431,164 +551,44 @@
           "published": "2026-07-17T13:00:00.000Z"
         },
         {
-          "title": "The administrative agency cases were not the court’s only significant separation of powers decisions this term",
-          "link": "https://www.scotusblog.com/2026/07/the-administrative-agency-cases-were-not-the-courts-only-significant-separation-of-powers-decisi/",
-          "source": "SCOTUSblog",
+          "title": "Morning Docket: 07.17.26",
+          "link": "https://abovethelaw.com/2026/07/morning-docket-07-17-26/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. This term, the court decided several important separation of powers cases. In…",
-          "published": "2026-07-16T14:00:00.000Z"
+          "snippet": "* Last night, Trump delivered a speech ostensibly about election security, but it was mostly a commercial for the 25th Amendment. [ Election Law Blog ] * Madison Square Garden sues WIRED over article claiming the stadium \"used…",
+          "published": "2026-07-17T12:53:00.000Z"
         },
         {
-          "title": "The public’s view of the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/07/the-publics-view-of-the-supreme-court/",
-          "source": "SCOTUSblog",
+          "title": "Biglaw Layoffs Are Never A Good Sign See Also",
+          "link": "https://abovethelaw.com/2026/07/biglaw-layoffs-are-never-a-good-sign-see-also/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "One of the more controversial topics concerning the Supreme Court is how attuned justices should be to public opinion. An even more fundamental question, however, is how closely public opinion matches the Supreme Court’s decisions. The…",
-          "published": "2026-07-16T13:30:00.000Z"
+          "snippet": "LAYOFF ALERT : K L Gates lays off roughly 10 percent of staff . Cravath Keeps Associates Waiting On Cash : Six weeks! This firm has made almost everyone wait for six weeks to match Milbank's money! Kathryn Ruemmler Gets Grilled Over Her…",
+          "published": "2026-07-16T23:28:00.000Z"
         },
         {
-          "title": "Reactions to Kagan and Barrett’s congressional testimony",
-          "link": "https://www.scotusblog.com/2026/07/reactions-to-kagan-and-barretts-congressional-testimony/",
-          "source": "SCOTUSblog",
+          "title": "Biglaw Summer Associate Recruiting Has Officially Become Ridiculous",
+          "link": "https://abovethelaw.com/2026/07/biglaw-summer-associate-recruiting-has-officially-become-ridiculous/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, a look at the Trump administration’s new petition for review on Temporary Protected Status.",
-          "published": "2026-07-16T13:00:00.000Z"
+          "snippet": "Will anyone do anything about it? Unlikely! The post Biglaw Summer Associate Recruiting Has Officially Become Ridiculous appeared first on Above the Law .",
+          "published": "2026-07-16T23:01:00.000Z"
         },
         {
-          "title": "Trump administration asks justices to have lower court reconsider protected status for Venezuelan and Haitian nationals",
-          "link": "https://www.scotusblog.com/2026/07/trump-administration-asks-justices-to-have-lower-court-reconsider-protected-status-for-venezuela/",
-          "source": "SCOTUSblog",
+          "title": "Stop Acting Like A Squirrel With Your Legal Business Development",
+          "link": "https://abovethelaw.com/2026/07/stop-acting-like-a-squirrel-with-your-legal-business-development/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "In a filing submitted on July 9 and docketed on Monday, U.S. Solicitor General D. John Sauer urged the justices to order the U.S. Court of Appeals for the 9th Circuit to reconsider its ruling in a challenge to the decision by…",
-          "published": "2026-07-15T15:20:00.000Z"
+          "snippet": "Building a book of business requires direction, consistency, and a willingness to cross the road. The post Stop Acting Like A Squirrel With Your Legal Business Development appeared first on Above the Law .",
+          "published": "2026-07-16T22:16:00.000Z"
         },
         {
-          "title": "Narrow holdings with broad consequences",
-          "link": "https://www.scotusblog.com/2026/07/narrow-holdings-with-broad-consequences/",
-          "source": "SCOTUSblog",
+          "title": "The One About Passing AI Costs Through To Clients",
+          "link": "https://www.myshingle.com/2026/07/the-one-about-passing-ai-costs-through-to-clients/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "June brought two Second Amendment decisions. In United States v. Hemani , the court unanimously sustained Ali Hemani’s challenge to his indictment under 18 U.S.C. § 922(g)(3) , for possessing firearms while being an unlawful user of a…",
-          "published": "2026-07-15T14:00:00.000Z"
-        },
-        {
-          "title": "The court’s criminal law term: overview and observations",
-          "link": "https://www.scotusblog.com/2026/07/the-courts-criminal-law-term-overview-and-observations/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Approximately two weeks after the final opinion of the 57 argued cases decided by the Supreme Court in the October 2025-26 Term was filed, this column presents an overview of the “pure” criminal law decisions the court issued. By my…",
-          "published": "2026-07-15T13:30:00.000Z"
-        },
-        {
-          "title": "Carroll receives payment from Trump",
-          "link": "https://www.scotusblog.com/2026/07/carroll-receives-payment-from-trump/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, what Justices Kagan and Barrett told Congress about the court’s security concerns.",
-          "published": "2026-07-15T13:00:00.000Z"
-        },
-        {
-          "title": "Justices Kagan and Barrett testify before Congress",
-          "link": "https://www.scotusblog.com/2026/07/justices-kagan-and-barrett-testify-before-congress/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In the first appearances by members of the Supreme Court before Congress in seven years, Justices Elena Kagan and Amy Coney Barrett testified on Tuesday in both the House of Representatives and the Senate. Although the focus of the…",
-          "published": "2026-07-14T21:56:00.000Z"
-        },
-        {
-          "title": "Two cheers – but not three – for Roberts and Barrett",
-          "link": "https://www.scotusblog.com/2026/07/two-cheers-but-not-three-for-roberts-and-barrett/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Chief Justice John Roberts and Justice Amy Coney Barrett deserve high praise for the pivotal role they played at the end of the just-concluded term in two key cases. One is Trump v. Barbara , the monumental decision confirming that the…",
-          "published": "2026-07-14T14:00:00.000Z"
-        },
-        {
-          "title": "The biggest Supreme Court surprises this term",
-          "link": "https://www.scotusblog.com/2026/07/the-biggest-supreme-court-surprises-this-term/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "At the end of a recent talk on the Supreme Court’s latest term I was asked what surprised me most about the term. I was not surprised by the results in the most high-profile cases of the term, such as tariffs , presidential removal power…",
-          "published": "2026-07-14T13:30:00.000Z"
-        },
-        {
-          "title": "Executive Power and its Limits",
-          "link": "https://www.scotusblog.com/2026/07/executive-power-and-its-limits/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Watch on YouTube Please note that this transcript has been edited for clarity. Zachary Shemtob: [00:00:00] So first of all, thank you so much to Amy. I’m really excited to have this conversation. There’s so much to talk about.…",
-          "published": "2026-07-14T13:15:00.000Z"
-        },
-        {
-          "title": "A history of justices testifying before Congress",
-          "link": "https://www.scotusblog.com/2026/07/a-history-of-justices-testifying-before-congress/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Justices Kagan and Barrett will discuss the court’s budget request before House and Senate subcommittees.",
-          "published": "2026-07-14T13:00:00.000Z"
-        },
-        {
-          "title": "The Supreme Court and the opinion-assignment guessing game",
-          "link": "https://www.scotusblog.com/2026/07/the-supreme-court-and-the-opinion-assignment-guessing-game/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "As we saw this term, by late May the Supreme Court begins releasing the bulk of its merits decisions, and with it a familiar guessing game starts among court watchers. If Justice Elena Kagan has not yet written from the December sitting…",
-          "published": "2026-07-13T14:00:00.000Z"
-        },
-        {
-          "title": "A dissent worthy of a World Cup",
-          "link": "https://www.scotusblog.com/2026/07/a-dissent-worthy-of-a-world-cup/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This month the World Cup final will be played at MetLife Stadium, home of the New York Giants and Jets. Nobody finds it odd that soccer’s biggest match will be staged in a stadium built for football. That’s remarkable, because 44 years…",
-          "published": "2026-07-13T13:30:00.000Z"
-        },
-        {
-          "title": "How Justice Samuel Alito stands out",
-          "link": "https://www.scotusblog.com/2026/07/how-justice-samuel-alito-stands-out/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a closer look at summer order lists.",
-          "published": "2026-07-13T13:00:00.000Z"
-        },
-        {
-          "title": "The limits of the Second Amendment",
-          "link": "https://www.scotusblog.com/2026/07/the-limits-of-the-second-amendment/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In previous articles, I explored two of the biggest unanswered questions in the Second Amendment space: Who are “the people,” and what constitutes “Arms” ? Both of these questions seemingly emerge from the text of the amendment itself,…",
-          "published": "2026-07-10T14:30:00.000Z"
-        },
-        {
-          "title": "The man and the movement: a Q&A with Peter Canellos on his biography of Samuel Alito",
-          "link": "https://www.scotusblog.com/2026/07/the-man-and-the-movement-a-qa-with-peter-canellos-on-his-biography-of-samuel-alito/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Peter S. Canellos is a prize-winning journalist and the author of Revenge for the Sixties: Sam Alito and the Triumph of the Conservative Legal Movement , which Publishers Weekly called “a razor-sharp” dissection of one of the most…",
-          "published": "2026-07-10T14:00:00.000Z"
-        },
-        {
-          "title": "High court mysteries",
-          "link": "https://www.scotusblog.com/2026/07/high-court-mysteries/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "One might argue that Supreme Court justices are more visible today than ever before. Six have published books and Brett Kavanaugh is apparently working on one to become the seventh. Several have recently given television interviews,…",
-          "published": "2026-07-10T13:30:00.000Z"
-        },
-        {
-          "title": "The rarity of Supreme Court do-overs",
-          "link": "https://www.scotusblog.com/2026/07/the-rarity-of-supreme-court-do-overs/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, what Cecillia Wang said about arguing the birthright citizenship case during SCOTUSblog’s term-in-review event.",
-          "published": "2026-07-10T13:00:00.000Z"
-        },
-        {
-          "title": "At SCOTUSblog’s term-in-review event, National Legal Director of the ACLU Cecillia Wang speaks about arguing birthright citizenship, the term in general, and what’s next on the organization’s docket",
-          "link": "https://www.scotusblog.com/2026/07/at-scotusblogs-term-in-review-event-national-legal-director-of-the-aclu-cecillia-wang-speaks-abo/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Cecillia Wang, the national legal director of the American Civil Liberties Union, called her April 1 argument in Trump v. Barbara , the challenge to President Donald Trump’s executive order seeking to end the guarantee of U.S. citizenship…",
-          "published": "2026-07-09T18:50:00.000Z"
+          "snippet": "Regulators aren’t providing guidance quickly enough, and while large firms have access to in-house ethics advisors, solos and smalls don’t. The post The One About Passing AI Costs Through To Clients appeared first on Above the Law .",
+          "published": "2026-07-16T21:33:00.000Z"
         }
       ]
     }
