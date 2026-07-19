@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-18T23:42:44.400Z",
+  "updated": "2026-07-19T01:47:02.796Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Private jets flock to Montana - but locals can't afford the trailer park",
+          "link": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Rents in Bozeman, Montana have skyrocketed as wealthy out-of-towners flock to the city to experience the American West.",
+          "published": "2026-07-18T23:44:04.000Z"
+        },
         {
           "title": "Guidance needed for families reclaiming childcare",
           "link": "https://www.bbc.co.uk/news/articles/cx2d5yxpry0o?at_medium=RSS&at_campaign=rss",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
           "published": "2026-07-17T05:00:08.000Z"
-        },
-        {
-          "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
-          "link": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
-          "published": "2026-07-16T23:14:11.000Z"
         }
       ]
     },
@@ -202,20 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Better and Cheaper Than IPTV",
+          "link": "https://github.com/stupside/castor",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-19T00:59:55.000Z"
+        },
+        {
+          "title": "Transcribe.cpp",
+          "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-19T00:38:26.000Z"
+        },
+        {
+          "title": "Harness Engineering",
+          "link": "https://github.com/lopopolo/harness-engineering",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-18T23:27:36.000Z"
+        },
+        {
           "title": "Codex Resets",
           "link": "https://codex-resets.com/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-18T23:24:26.000Z"
-        },
-        {
-          "title": "Gap in Mochizuki's proof of ABC confirmed by Lean",
-          "link": "https://twitter.com/FumiharuKato/status/2078017230537892207",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-18T22:19:37.000Z"
         },
         {
           "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
@@ -282,6 +298,14 @@
           "published": "2026-07-18T19:38:21.000Z"
         },
         {
+          "title": "What's the deal with all the random weekly quota resets for agents lately?",
+          "link": "https://minimaxir.com/2026/07/agent-quota-reset/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-18T19:06:23.000Z"
+        },
+        {
           "title": "Google might not kneecap the Pixel 11a with an old processor",
           "link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
           "source": "The Verge",
@@ -296,14 +320,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-18T17:32:40.000Z"
-        },
-        {
-          "title": "Goodbye, and Thanks for All the Bikesheds",
-          "link": "https://queue.acm.org/detail.cfm?id=3818307",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-18T17:27:24.000Z"
         },
         {
           "title": "Google is open-sourcing its 3D emoji",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along…",
           "published": "2026-07-18T14:30:00.000Z"
-        },
-        {
-          "title": "Surprise! Facial recognition smart locks are actually good",
-          "link": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a free hand to…",
-          "published": "2026-07-18T14:00:00.000Z"
-        },
-        {
-          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-18T13:00:52.000Z"
         }
       ]
     },
