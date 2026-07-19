@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-19T05:12:41.576Z",
+  "updated": "2026-07-19T07:38:04.221Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "New EU border system tripling time at passport control, airport boss says",
+          "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+          "published": "2026-07-19T01:47:59.000Z"
+        },
+        {
+          "title": "The hidden cost of the night shift and how to sleep it off",
+          "link": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
+          "published": "2026-07-19T00:01:55.000Z"
+        },
         {
           "title": "Private jets flock to Montana - but locals can't afford the trailer park",
           "link": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
           "published": "2026-07-17T05:59:36.000Z"
-        },
-        {
-          "title": "How do you split the bill with friends?",
-          "link": "https://www.bbc.co.uk/news/videos/c5yzy3j39vwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Hands down the worst part of going out for dinner.",
-          "published": "2026-07-17T05:26:39.000Z"
-        },
-        {
-          "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-          "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
-          "published": "2026-07-17T05:00:08.000Z"
         }
       ]
     },
@@ -202,12 +202,12 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "LLM-Integrated Multivariable Calculus Course",
-          "link": "https://calculus.academa.ai/",
+          "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+          "link": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-19T02:55:43.000Z"
+          "published": "2026-07-19T05:07:08.000Z"
         },
         {
           "title": "FDA approves new kind of cholesterol pill",
@@ -274,14 +274,6 @@
           "published": "2026-07-18T22:13:39.000Z"
         },
         {
-          "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
-          "link": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-18T22:09:07.000Z"
-        },
-        {
           "title": "Classic Amiga titles, free to download",
           "link": "https://amigafreeware.downer.tech/",
           "source": "Hacker News",
@@ -314,12 +306,44 @@
           "published": "2026-07-18T20:54:42.000Z"
         },
         {
+          "title": "What's the deal with all the random weekly quota resets for agents lately?",
+          "link": "https://minimaxir.com/2026/07/agent-quota-reset/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-18T19:06:23.000Z"
+        },
+        {
           "title": "Google might not kneecap the Pixel 11a with an old processor",
           "link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4.…",
           "published": "2026-07-18T18:25:08.000Z"
+        },
+        {
+          "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+          "link": "https://reotrucks.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-18T18:13:05.000Z"
+        },
+        {
+          "title": "The Kimi K3 Moment",
+          "link": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-18T17:32:40.000Z"
+        },
+        {
+          "title": "Goodbye, and Thanks for All the Bikesheds",
+          "link": "https://queue.acm.org/detail.cfm?id=3818307",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-18T17:27:24.000Z"
         },
         {
           "title": "Google is open-sourcing its 3D emoji",
@@ -336,14 +360,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-18T16:12:08.000Z"
-        },
-        {
-          "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
-          "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-18T16:02:45.000Z"
         },
         {
           "title": "Gleam Is Now on Tangled",
@@ -370,28 +386,12 @@
           "published": "2026-07-18T15:32:04.000Z"
         },
         {
-          "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
-          "link": "https://q3edit.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-18T15:12:40.000Z"
-        },
-        {
           "title": "GoPro s discounted Max 2 bundle includes $100 worth of accessories",
           "link": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
           "source": "The Verge",
           "category": "tech",
           "snippet": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369…",
           "published": "2026-07-18T15:00:00.000Z"
-        },
-        {
-          "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
-          "link": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along…",
-          "published": "2026-07-18T14:30:00.000Z"
         }
       ]
     },
