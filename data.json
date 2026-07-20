@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-20T11:18:54.855Z",
+  "updated": "2026-07-20T13:22:34.329Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Burnham promises help with your money. How could it affect you?",
+          "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "New Prime Minister Andy Burnham says he wants life to be more affordable, but how could he do it?",
+          "published": "2026-07-20T13:03:23.000Z"
+        },
         {
           "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
           "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
@@ -141,14 +149,6 @@
           "published": "2026-07-18T07:34:39.000Z"
         },
         {
-          "title": "Rural residents back heating oil protection plan",
-          "link": "https://www.bbc.co.uk/news/articles/clyry0ky6vno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Households reliant on heating oil as a fuel source say better regulation of pricing is needed.",
-          "published": "2026-07-18T06:10:45.000Z"
-        },
-        {
           "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
           "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -202,12 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Stop Using OpenCode",
+          "link": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-20T12:45:55.000Z"
+        },
+        {
+          "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+          "link": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-20T12:14:08.000Z"
+        },
+        {
+          "title": "Beyond grep: The case for a context-rich AI coding harness",
+          "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
+          "published": "2026-07-20T11:20:10.000Z"
+        },
+        {
           "title": "AliExpress fined almost $630 million over illegal product sales",
           "link": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
           "source": "The Verge",
           "category": "tech",
           "snippet": "AliExpress has been hit with a 550 million (about $629 million) fine for violating Europe's Digital Services Act (DSA) rules by failing to prevent illegal, unsafe, or counterfeit products from being sold on the e-commerce platform. The…",
           "published": "2026-07-20T11:16:32.000Z"
+        },
+        {
+          "title": "Airport Simulator",
+          "link": "https://airport.apunen.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-20T10:30:40.000Z"
         },
         {
           "title": "China delivers a one-two punch to America’s AI dominance",
@@ -234,14 +266,6 @@
           "published": "2026-07-20T08:13:36.000Z"
         },
         {
-          "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
-          "link": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-20T04:49:47.000Z"
-        },
-        {
           "title": "Xiaomi-Robotics-1",
           "link": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
           "source": "Hacker News",
@@ -264,14 +288,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-20T04:19:22.000Z"
-        },
-        {
-          "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-          "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-20T02:51:16.000Z"
         },
         {
           "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
@@ -330,14 +346,6 @@
           "published": "2026-07-19T17:35:54.000Z"
         },
         {
-          "title": "HMD Touch 4G",
-          "link": "https://www.hmd.com/en_int/hmd-touch-4g",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-19T17:25:03.000Z"
-        },
-        {
           "title": "The FBI reportedly won’t investigate ICE anymore",
           "link": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
           "source": "The Verge",
@@ -384,20 +392,20 @@
           "category": "tech",
           "snippet": "The manosphere influencers Andrew and Tristan Tate were arrested Saturday in Miami by US Marshals in relation to new rape and sex trafficking charges in England. According to the Associated Press, British authorities are seeking the…",
           "published": "2026-07-19T14:20:48.000Z"
-        },
-        {
-          "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-          "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-19T13:29:29.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Almost Half of Americans View SCOTUS as Political",
+          "link": "https://www.scotusblog.com/2026/07/almost-half-of-americans-view-scotus-as-political/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, Trump’s ban on transgender troops will likely return to the Supreme Court.",
+          "published": "2026-07-20T13:00:00.000Z"
+        },
         {
           "title": "Bad News Out Of Biglaw See Generally",
           "link": "https://abovethelaw.com/2026/07/bad-news-out-of-biglaw-see-generally/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Will anyone do anything about it? Unlikely! The post Biglaw Summer Associate Recruiting Has Officially Become Ridiculous appeared first on Above the Law .",
           "published": "2026-07-16T23:01:00.000Z"
-        },
-        {
-          "title": "Stop Acting Like A Squirrel With Your Legal Business Development",
-          "link": "https://abovethelaw.com/2026/07/stop-acting-like-a-squirrel-with-your-legal-business-development/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Building a book of business requires direction, consistency, and a willingness to cross the road. The post Stop Acting Like A Squirrel With Your Legal Business Development appeared first on Above the Law .",
-          "published": "2026-07-16T22:16:00.000Z"
         }
       ]
     }
