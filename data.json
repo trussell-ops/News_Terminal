@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-20T04:59:15.012Z",
+  "updated": "2026-07-20T08:06:22.968Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+          "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+          "published": "2026-07-20T07:26:56.000Z"
+        },
+        {
+          "title": "Former academy pupil offers students free haircuts",
+          "link": "https://www.bbc.co.uk/news/articles/c87nxj7dw1zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Razwan Amin set up his barbers after leaving Erdington Academy and wants to help people with the cost of living.",
+          "published": "2026-07-20T05:08:04.000Z"
+        },
         {
           "title": "This farmer wanted to quit the cocaine industry - he couldn't",
           "link": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
@@ -101,6 +117,14 @@
           "published": "2026-07-18T23:44:04.000Z"
         },
         {
+          "title": "Money Box",
+          "link": "https://www.bbc.co.uk/sounds/play/m002z5p9?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Call for help for people on low incomes who must now wait longer for their state pension.",
+          "published": "2026-07-18T11:30:00.000Z"
+        },
+        {
           "title": "Guidance needed for families reclaiming childcare",
           "link": "https://www.bbc.co.uk/news/articles/cx2d5yxpry0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -115,14 +139,6 @@
           "category": "markets",
           "snippet": "Households reliant on heating oil as a fuel source say better regulation of pricing is needed.",
           "published": "2026-07-18T06:10:45.000Z"
-        },
-        {
-          "title": "'I'd rather not leave the house so I don't get into more debt'",
-          "link": "https://www.bbc.co.uk/news/articles/cy8d1zm01k0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Great Yarmouth has some of the highest levels of problem debt in the country, but help is at hand.",
-          "published": "2026-07-18T05:23:28.000Z"
         },
         {
           "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
@@ -179,28 +195,36 @@
           "category": "markets",
           "snippet": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
           "published": "2026-07-17T16:44:22.000Z"
-        },
-        {
-          "title": "Brewdog founder faces data complaints over efforts to buy back firm",
-          "link": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
-          "published": "2026-07-17T16:44:15.000Z"
-        },
-        {
-          "title": "What are your rights if you buy something that breaks?",
-          "link": "https://www.bbc.co.uk/news/videos/c3r0lq9n14wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Martin Lewis explains why you should go back to the item's retailer, not the manufacturer.",
-          "published": "2026-07-17T15:28:12.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+          "link": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-20T04:49:47.000Z"
+        },
+        {
+          "title": "Xiaomi-Robotics-1",
+          "link": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-20T04:45:15.000Z"
+        },
+        {
+          "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+          "link": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-20T04:24:48.000Z"
+        },
         {
           "title": "Power companies are using eminent domain to seize land for data centers",
           "link": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
@@ -216,14 +240,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-20T02:51:16.000Z"
-        },
-        {
-          "title": "Big Tech Is Now Targeting Native American Land for Data Centers",
-          "link": "https://www.nytimes.com/2026/07/09/us/data-centers-native-american-tribes.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-20T02:34:18.000Z"
         },
         {
           "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
@@ -248,14 +264,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-19T21:42:12.000Z"
-        },
-        {
-          "title": "AI advice made people less accurate but more confident – sudy",
-          "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-19T21:18:10.000Z"
         },
         {
           "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
@@ -346,28 +354,12 @@
           "published": "2026-07-19T15:00:00.000Z"
         },
         {
-          "title": "Natural experiments prove phytoplankton carbon removal works",
-          "link": "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-19T14:51:57.000Z"
-        },
-        {
           "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
           "link": "https://news.ycombinator.com/item?id=48968606",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-19T14:41:16.000Z"
-        },
-        {
-          "title": "Terence McKenna's Mega Bad Trip (2025)",
-          "link": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-19T14:30:31.000Z"
         },
         {
           "title": "US Marshals arrest the Tate brothers in Miami",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and faster, that didn't work, clap two more times, and suddenly:…",
           "published": "2026-07-19T13:28:26.000Z"
+        },
+        {
+          "title": "I burned all my tokens researching how to save tokens",
+          "link": "https://quesma.com/blog/custom-deep-research-pipeline/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-19T12:01:53.000Z"
         }
       ]
     },
