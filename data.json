@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-21T20:40:48.322Z",
+  "updated": "2026-07-21T21:55:34.209Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "GM beats on earnings, raises guidance amid 'resilient' consumer, pricing",
-          "link": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
-          "source": "CNBC Business",
+          "title": "'It's frustrating' - Canadians react to new US tariffs",
+          "link": "https://www.bbc.co.uk/news/videos/c4gkl7ede49o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
           "category": "markets",
-          "snippet": "GM raised several key earnings forecasts after beating Wall Street's second-quarter expectations as its North American operations continue to drive results.",
-          "published": "2026-07-21T20:19:12.000Z"
+          "snippet": "President Donald Trump has imposed a 50% tariff on a wide range of Canadian goods in retaliation for what he called \"unequal treatment\" of US products.",
+          "published": "2026-07-21T20:52:08.000Z"
         },
         {
           "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
@@ -18,7 +18,15 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
-          "published": "2026-07-21T19:41:54.000Z"
+          "published": "2026-07-21T20:51:34.000Z"
+        },
+        {
+          "title": "GM beats on earnings, raises guidance amid 'resilient' consumer, pricing",
+          "link": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "GM raised several key earnings forecasts after beating Wall Street's second-quarter expectations as its North American operations continue to drive results.",
+          "published": "2026-07-21T20:19:12.000Z"
         },
         {
           "title": "RFK Jr. says cyclospora outbreak is 'under control'",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Food banks and community larders are warning of an uncertain future.",
           "published": "2026-07-21T05:12:55.000Z"
-        },
-        {
-          "title": "Families skipping meals during holidays - charity",
-          "link": "https://www.bbc.co.uk/news/articles/cm2g0g557g2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "FareShare Sussex & Surrey says it is facing a \"mountain\" of need over the school holidays.",
-          "published": "2026-07-21T05:10:52.000Z"
         }
       ]
     },
@@ -202,7 +202,31 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "OpenAI and Hugging Face partner to address security incident",
+          "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities…",
+          "published": "2026-07-21T21:48:54.000Z"
+        },
+        {
+          "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+          "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T21:13:20.000Z"
+        },
+        {
+          "title": "A digestion of the Jacobian conjecture counterexample",
+          "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T21:09:25.000Z"
+        },
+        {
+          "title": "OpenAI and Hugging Face address security incident during model evaluation",
           "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
           "source": "Hacker News",
           "category": "tech",
@@ -242,7 +266,7 @@
           "published": "2026-07-21T18:58:44.000Z"
         },
         {
-          "title": "The Price of Happiness",
+          "title": "The Price of Happiness (2024)",
           "link": "https://happiness-science.org/price-of-happiness/",
           "source": "Hacker News",
           "category": "tech",
@@ -274,28 +298,12 @@
           "published": "2026-07-21T18:32:21.000Z"
         },
         {
-          "title": "Apple has decided to compete for creativity app users",
-          "link": "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T18:30:53.000Z"
-        },
-        {
           "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
           "link": "https://github.com/Kalcode/spaceprojectsim",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-21T18:29:57.000Z"
-        },
-        {
-          "title": "Cheap self-hosted Kubernetes on Hetzner cloud (2025)",
-          "link": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T18:25:08.000Z"
         },
         {
           "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
@@ -306,20 +314,20 @@
           "published": "2026-07-21T18:17:55.000Z"
         },
         {
+          "title": "Measuring reward-seeking by instilling contrastive beliefs",
+          "link": "https://alignment.openai.com/measuring-reward-seeking/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T18:17:50.000Z"
+        },
+        {
           "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
           "link": "https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter",
           "source": "The Verge",
           "category": "tech",
           "snippet": "I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Have I left it on an airplane? Also yes. For me, finder tags are essential for my cameras. The…",
           "published": "2026-07-21T18:12:02.000Z"
-        },
-        {
-          "title": "Greedy is optimal for single-pass semi-streaming matching",
-          "link": "https://arxiv.org/abs/2607.14656",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T17:59:29.000Z"
         },
         {
           "title": "Apple Private Cloud Compute SoC 3 audit reports",
@@ -344,14 +352,6 @@
           "category": "tech",
           "snippet": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
           "published": "2026-07-21T17:33:14.000Z"
-        },
-        {
-          "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
-          "link": "https://github.com/cristibaluta/Imagin-Raw",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T17:30:01.000Z"
         },
         {
           "title": "Laguna S 2.1",
@@ -398,6 +398,22 @@
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Enterprise AI Is Quietly Creating Its Own Standard Contract",
+          "link": "https://abovethelaw.com/2026/07/enterprise-ai-is-quietly-creating-its-own-standard-contract/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Markets mature when their contracts become recognizable. The post Enterprise AI Is Quietly Creating Its Own Standard Contract appeared first on Above the Law .",
+          "published": "2026-07-21T21:34:00.000Z"
+        },
+        {
+          "title": "Lawyers Learning You Can t Square Peg AI Into eDiscovery Round Holes",
+          "link": "https://abovethelaw.com/2026/07/lawyers-learning-you-cant-square-peg-ai-into-ediscovery-round-holes/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Everyone has a vague notion of 'AI,' but when it comes to discovery, we already built better tech a decade ago. The post Lawyers Learning You Can t Square Peg AI Into eDiscovery Round Holes appeared first on Above the Law .",
+          "published": "2026-07-21T20:44:00.000Z"
+        },
         {
           "title": "This Biglaw Partner Got A Crash Course In Comedy From Larry David",
           "link": "https://abovethelaw.com/2026/07/this-biglaw-partner-got-a-crash-course-in-comedy-from-larry-david/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "This is the case that keeps on giving. The post DOJ Wants Susman Godfrey Kicked Off The ABA s Case Because DOJ Subpoenaed Susman Godfrey appeared first on Above the Law .",
           "published": "2026-07-20T18:33:22.000Z"
-        },
-        {
-          "title": "Biglaw May Want To Break Up With The Billable Hour Thanks To AI",
-          "link": "https://abovethelaw.com/2026/07/biglaw-may-want-to-break-up-with-the-billable-hour-thanks-to-ai/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Baker McKenzie's global chair says AI demands a new way of thinking about legal fees. The post Biglaw May Want To Break Up With The Billable Hour Thanks To AI appeared first on Above the Law .",
-          "published": "2026-07-20T17:49:00.000Z"
-        },
-        {
-          "title": "AALL 2026: An Aloha Keynote For Lasting Impact, Not Glitz",
-          "link": "https://abovethelaw.com/2026/07/aall-2026-an-aloha-keynote-for-lasting-impact-not-glitz/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Law librarians are 'uniquely positioned to wield influence' because their job is to help others, not to win. The post AALL 2026: An Aloha Keynote For Lasting Impact, Not Glitz appeared first on Above the Law .",
-          "published": "2026-07-20T17:08:17.000Z"
         }
       ]
     }
