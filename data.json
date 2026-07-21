@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-21T19:04:24.520Z",
+  "updated": "2026-07-21T20:40:48.322Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "RFK Jr. says cyclospora outbreak is 'under control'",
-          "link": "https://www.cnbc.com/2026/07/21/cyclospora-rfk-jr-says-outbreak-is-under-control.html",
+          "title": "GM beats on earnings, raises guidance amid 'resilient' consumer, pricing",
+          "link": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
           "source": "CNBC Business",
           "category": "markets",
-          "snippet": "Health and Human Services Secretary Robert F. Kennedy Jr. on Tuesday said that the ongoing outbreak of cyclosporiasis is \"under control\" despite criticism.",
-          "published": "2026-07-21T18:43:24.000Z"
+          "snippet": "GM raised several key earnings forecasts after beating Wall Street's second-quarter expectations as its North American operations continue to drive results.",
+          "published": "2026-07-21T20:19:12.000Z"
         },
         {
           "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
@@ -18,7 +18,15 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
-          "published": "2026-07-21T18:23:32.000Z"
+          "published": "2026-07-21T19:41:54.000Z"
+        },
+        {
+          "title": "RFK Jr. says cyclospora outbreak is 'under control'",
+          "link": "https://www.cnbc.com/2026/07/21/cyclospora-rfk-jr-says-outbreak-is-under-control.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Health and Human Services Secretary Robert F. Kennedy Jr. on Tuesday said that the ongoing outbreak of cyclosporiasis is \"under control\" despite criticism.",
+          "published": "2026-07-21T18:43:24.000Z"
         },
         {
           "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
@@ -35,14 +43,6 @@
           "category": "markets",
           "snippet": "This new round of duties on Canadian goods is fuelling speculation about a potential announcement of new US tariffs on countries across the world.",
           "published": "2026-07-21T17:27:47.000Z"
-        },
-        {
-          "title": "GM beats on earnings, raises guidance amid 'resilient' consumer, pricing",
-          "link": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "GM raised several key earnings forecasts after beating Wall Street's second-quarter expectations as its North American operations continue to drive results.",
-          "published": "2026-07-21T17:11:52.000Z"
         },
         {
           "title": "Union plans rail strikes over train safety concerns",
@@ -202,6 +202,54 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "OpenAI and Hugging Face partner to address security incident",
+          "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T20:09:52.000Z"
+        },
+        {
+          "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+          "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T19:43:59.000Z"
+        },
+        {
+          "title": "Substack adds an AI detector to help spot blogs written by no one",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated…",
+          "published": "2026-07-21T19:22:28.000Z"
+        },
+        {
+          "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
+          "link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
+          "published": "2026-07-21T19:09:19.000Z"
+        },
+        {
+          "title": "Advertise in ChatGPT",
+          "link": "https://ads.openai.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T18:58:44.000Z"
+        },
+        {
+          "title": "The Price of Happiness",
+          "link": "https://happiness-science.org/price-of-happiness/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T18:42:46.000Z"
+        },
+        {
           "title": "Slater – Low-memory graphdb designed for read-heavy graphs",
           "link": "https://github.com/Hikari-Systems/slater",
           "source": "Hacker News",
@@ -210,7 +258,7 @@
           "published": "2026-07-21T18:39:41.000Z"
         },
         {
-          "title": "Freeink: Open Ecosystem for E-Readers",
+          "title": "FreeInk: Open ecosystem for e-readers",
           "link": "https://freeink.org/",
           "source": "Hacker News",
           "category": "tech",
@@ -234,14 +282,6 @@
           "published": "2026-07-21T18:30:53.000Z"
         },
         {
-          "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
-          "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T18:30:21.000Z"
-        },
-        {
           "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
           "link": "https://github.com/Kalcode/spaceprojectsim",
           "source": "Hacker News",
@@ -250,12 +290,20 @@
           "published": "2026-07-21T18:29:57.000Z"
         },
         {
-          "title": "Cheap Self-Hosted Kubernetes on Hetzner Cloud",
+          "title": "Cheap self-hosted Kubernetes on Hetzner cloud (2025)",
           "link": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-21T18:25:08.000Z"
+        },
+        {
+          "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
+          "link": "https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "NatGeo's Pompeii: Out of Time fuses historical fact and imagination to bring city's last 24 hours to life.",
+          "published": "2026-07-21T18:17:55.000Z"
         },
         {
           "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
@@ -264,22 +312,6 @@
           "category": "tech",
           "snippet": "I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Have I left it on an airplane? Also yes. For me, finder tags are essential for my cameras. The…",
           "published": "2026-07-21T18:12:02.000Z"
-        },
-        {
-          "title": "Show HN: Edky, a CLI to convert Ed25519 public keys from one encoding to another",
-          "link": "https://github.com/artob/edky",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T18:09:07.000Z"
-        },
-        {
-          "title": "YouTube System Design for Robotics Data Infrastructure",
-          "link": "https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T18:08:38.000Z"
         },
         {
           "title": "Greedy is optimal for single-pass semi-streaming matching",
@@ -298,6 +330,22 @@
           "published": "2026-07-21T17:58:21.000Z"
         },
         {
+          "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals",
+          "link": "https://arstechnica.com/science/2026/07/naked-mole-rat-queens-keep-their-colonies-in-line-with-a-scent/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "A single chemical made by mole-rat queens enforces the social order.",
+          "published": "2026-07-21T17:51:52.000Z"
+        },
+        {
+          "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+          "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
+          "published": "2026-07-21T17:33:14.000Z"
+        },
+        {
           "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
           "link": "https://github.com/cristibaluta/Imagin-Raw",
           "source": "Hacker News",
@@ -306,12 +354,12 @@
           "published": "2026-07-21T17:30:01.000Z"
         },
         {
-          "title": "Firefox Containers Preview",
-          "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+          "title": "Laguna S 2.1",
+          "link": "https://poolside.ai/blog/introducing-laguna-s-2-1",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-21T17:27:59.000Z"
+          "published": "2026-07-21T17:17:06.000Z"
         },
         {
           "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
@@ -330,7 +378,7 @@
           "published": "2026-07-21T17:13:23.000Z"
         },
         {
-          "title": "Steam Deck sales are losing steam since May's price hike",
+          "title": "Sales of Valve's Steam Deck crater after recent price hike",
           "link": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
           "source": "Ars Technica",
           "category": "tech",
@@ -344,60 +392,28 @@
           "category": "tech",
           "snippet": "As component and RAM shortages drive prices higher, Apple is reportedly launching an \"Apple Upgrade\" program for leasing new devices. According to Bloomberg's Mark Gurman, it will work similar to a car lease, with options to upgrade to a…",
           "published": "2026-07-21T17:12:06.000Z"
-        },
-        {
-          "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
-          "link": "https://github.com/AlmanacCode/codealmanac/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T17:12:01.000Z"
-        },
-        {
-          "title": "Uhubctl – control USB power per-port on smart USB hubs",
-          "link": "https://github.com/mvp/uhubctl",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T17:09:37.000Z"
-        },
-        {
-          "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
-          "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T17:03:18.000Z"
-        },
-        {
-          "title": "Bloomy (YC S26) is hiring a founding engineer",
-          "link": "https://news.ycombinator.com/item?id=48995037",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T17:00:20.000Z"
-        },
-        {
-          "title": "Twitch will let parents stop their teens going live",
-          "link": "https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Twitch is giving parents more control over how their children are using the streaming platform, including the ability to block them from broadcasting entirely. Parental controls are now available that allow guardians to link Twitch…",
-          "published": "2026-07-21T17:00:00.000Z"
-        },
-        {
-          "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-          "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
-          "published": "2026-07-21T16:58:25.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "This Biglaw Partner Got A Crash Course In Comedy From Larry David",
+          "link": "https://abovethelaw.com/2026/07/this-biglaw-partner-got-a-crash-course-in-comedy-from-larry-david/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A Latham practice chair says the professionals made sure he didn't embarrass himself on camera. The post This Biglaw Partner Got A Crash Course In Comedy From Larry David appeared first on Above the Law .",
+          "published": "2026-07-21T19:57:00.000Z"
+        },
+        {
+          "title": "The One Thing You Didn’t Think To Look For In Legal AI",
+          "link": "https://abovethelaw.com/2026/07/the-one-thing-you-didnt-think-to-look-for-in-legal-ai/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Accuracy isn’t just about pinpointing the correct answer. It’s also about being able to acknowledge when there is no answer to be found. The post The One Thing You Didn’t Think To Look For In Legal AI appeared first on Above the Law .",
+          "published": "2026-07-21T19:14:42.000Z"
+        },
         {
           "title": "John Yoo Wants DOJ To Investigate Mamdani For Crime He Literally Did Not Commit",
           "link": "https://abovethelaw.com/2026/07/john-yoo-wants-doj-to-investigate-mamdani-for-crime-he-literally-did-not-commit/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Law librarians are 'uniquely positioned to wield influence' because their job is to help others, not to win. The post AALL 2026: An Aloha Keynote For Lasting Impact, Not Glitz appeared first on Above the Law .",
           "published": "2026-07-20T17:08:17.000Z"
-        },
-        {
-          "title": "Supreme Court agrees to hear case on whether airplane was improperly seized for transporting a six-pack of beer",
-          "link": "https://www.scotusblog.com/2026/07/supreme-court-agrees-to-hear-case-on-whether-airplane-was-improperly-seized-s/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Monday morning added a new case to its oral argument docket for the 2026-27 term . As part of a regularly scheduled summer order list , the justices agreed to review Jouppi v. Alaska , an Alaskan bush pilot’s…",
-          "published": "2026-07-20T16:25:09.000Z"
-        },
-        {
-          "title": "3 Contract Intelligence Use Cases Every Legal Team Should Know",
-          "link": "https://abovethelaw.com/2026/07/3-contract-intelligence-use-cases-every-legal-team-should-know/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] Some challenges show up no matter what industry you’re in. Contracting is one of them. The post 3 Contract Intelligence Use Cases Every Legal Team Should Know appeared first on Above the Law .",
-          "published": "2026-07-20T16:12:14.000Z"
         }
       ]
     }
