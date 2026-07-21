@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-21T22:45:51.486Z",
+  "updated": "2026-07-21T23:48:09.053Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Boost youth jobs by cutting employers' national insurance, MPs urge",
+          "link": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A select committee says it has heard \"overwhelming evidence\" that rising employment costs are reducing training and job vacancies.",
+          "published": "2026-07-21T23:17:58.000Z"
+        },
+        {
+          "title": "Will AI help you do your job or replace you?",
+          "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
+          "published": "2026-07-21T23:04:42.000Z"
+        },
         {
           "title": "RFK Jr. says cyclospora outbreak is 'under control'",
           "link": "https://www.cnbc.com/2026/07/21/cyclospora-rfk-jr-says-outbreak-is-under-control.html",
@@ -179,28 +195,36 @@
           "category": "markets",
           "snippet": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
           "published": "2026-07-21T09:45:21.000Z"
-        },
-        {
-          "title": "Minister pressed on electricity bills savings figures",
-          "link": "https://www.bbc.co.uk/news/videos/c9q9709dvq9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The government says a typical home will save about £45 a year when VAT is cut from 5% to 0%.",
-          "published": "2026-07-21T08:48:18.000Z"
-        },
-        {
-          "title": "Dad facing difficult summer as food donations plunge",
-          "link": "https://www.bbc.co.uk/news/articles/cn7nl6np8r1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Food banks and community larders are warning of an uncertain future.",
-          "published": "2026-07-21T05:12:55.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
+          "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The Range Rover GT will debut as an EV with a hybrid version to follow.",
+          "published": "2026-07-21T23:01:23.000Z"
+        },
+        {
+          "title": "An Engineer's Guide to USB Type-C [pdf]",
+          "link": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T22:45:27.000Z"
+        },
+        {
+          "title": "Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux",
+          "link": "https://github.com/MatheuZSecurity/Furtex",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T22:39:58.000Z"
+        },
         {
           "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
           "link": "https://fireworks.ai/blog/kimik3-fable",
@@ -216,6 +240,14 @@
           "category": "tech",
           "snippet": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI…",
           "published": "2026-07-21T22:06:43.000Z"
+        },
+        {
+          "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
+          "link": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Ronald Fischer, aka Richard Graydon, was arrested in New York last week.",
+          "published": "2026-07-21T22:04:56.000Z"
         },
         {
           "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
@@ -234,6 +266,14 @@
           "published": "2026-07-21T21:48:19.000Z"
         },
         {
+          "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+          "link": "https://ai.google.dev/gemini-api/docs/latest-model",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T21:27:54.000Z"
+        },
+        {
           "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
           "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
           "source": "Hacker News",
@@ -250,20 +290,20 @@
           "published": "2026-07-21T21:09:25.000Z"
         },
         {
-          "title": "Show HN: Browser Tools SDK – an optimal browser harness for agents",
-          "link": "https://libretto.sh/browser-tools",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T21:01:57.000Z"
-        },
-        {
           "title": "OpenAI and Hugging Face address security incident during model evaluation",
           "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-21T20:09:52.000Z"
+        },
+        {
+          "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
+          "link": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"Maybe that's my responsibility, to live alone with the truth.\"",
+          "published": "2026-07-21T19:50:10.000Z"
         },
         {
           "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
@@ -274,6 +314,14 @@
           "published": "2026-07-21T19:43:59.000Z"
         },
         {
+          "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
+          "link": "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Taylor Farms stirred confusion on FDA test and provided a vague recall list.",
+          "published": "2026-07-21T19:39:10.000Z"
+        },
+        {
           "title": "Substack adds an AI detector to help spot blogs written by no one",
           "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
           "source": "The Verge",
@@ -282,20 +330,12 @@
           "published": "2026-07-21T19:22:28.000Z"
         },
         {
-          "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
+          "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
           "link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
           "published": "2026-07-21T19:09:19.000Z"
-        },
-        {
-          "title": "Advertise in ChatGPT",
-          "link": "https://ads.openai.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T18:58:44.000Z"
         },
         {
           "title": "The Price of Happiness (2024)",
@@ -304,14 +344,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-21T18:42:46.000Z"
-        },
-        {
-          "title": "Slater – Low-memory graphdb designed for read-heavy graphs",
-          "link": "https://github.com/Hikari-Systems/slater",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T18:39:41.000Z"
         },
         {
           "title": "FreeInk: Open ecosystem for e-readers",
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "A single chemical made by mole-rat queens enforces the social order.",
           "published": "2026-07-21T17:51:52.000Z"
-        },
-        {
-          "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
-          "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
-          "published": "2026-07-21T17:33:14.000Z"
-        },
-        {
-          "title": "Laguna S 2.1",
-          "link": "https://poolside.ai/blog/introducing-laguna-s-2-1",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T17:17:06.000Z"
-        },
-        {
-          "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-          "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T17:14:06.000Z"
-        },
-        {
-          "title": "Nearly every Kindle is steeply discounted at Best Buy",
-          "link": "https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you ve been thinking about picking up a Kindle before school starts, or for your next vacation, now s a good time to do it. As part of its Black Friday in July sale, Best Buy has brought the Kindle Paperwhite back down to its all-time…",
-          "published": "2026-07-21T17:13:23.000Z"
         }
       ]
     },
