@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-21T17:49:58.629Z",
+  "updated": "2026-07-21T19:04:24.520Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "RFK Jr. says cyclospora outbreak is 'under control'",
+          "link": "https://www.cnbc.com/2026/07/21/cyclospora-rfk-jr-says-outbreak-is-under-control.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Health and Human Services Secretary Robert F. Kennedy Jr. on Tuesday said that the ongoing outbreak of cyclosporiasis is \"under control\" despite criticism.",
+          "published": "2026-07-21T18:43:24.000Z"
+        },
+        {
+          "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+          "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
+          "published": "2026-07-21T18:23:32.000Z"
+        },
         {
           "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
           "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
@@ -179,28 +195,108 @@
           "category": "markets",
           "snippet": "FareShare Sussex & Surrey says it is facing a \"mountain\" of need over the school holidays.",
           "published": "2026-07-21T05:10:52.000Z"
-        },
-        {
-          "title": "Why Andy Burnham will find it so tricky to unite Britain",
-          "link": "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Is there any common ground left?",
-          "published": "2026-07-20T23:49:02.000Z"
-        },
-        {
-          "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
-          "link": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Firms have to balance hi-tech and age-old skills when training up young workers.",
-          "published": "2026-07-20T23:07:40.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Slater – Low-memory graphdb designed for read-heavy graphs",
+          "link": "https://github.com/Hikari-Systems/slater",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T18:39:41.000Z"
+        },
+        {
+          "title": "Freeink: Open Ecosystem for E-Readers",
+          "link": "https://freeink.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T18:39:06.000Z"
+        },
+        {
+          "title": "AI Agent – TRMNL",
+          "link": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T18:32:21.000Z"
+        },
+        {
+          "title": "Apple has decided to compete for creativity app users",
+          "link": "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T18:30:53.000Z"
+        },
+        {
+          "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
+          "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T18:30:21.000Z"
+        },
+        {
+          "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
+          "link": "https://github.com/Kalcode/spaceprojectsim",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T18:29:57.000Z"
+        },
+        {
+          "title": "Cheap Self-Hosted Kubernetes on Hetzner Cloud",
+          "link": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T18:25:08.000Z"
+        },
+        {
+          "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
+          "link": "https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Have I left it on an airplane? Also yes. For me, finder tags are essential for my cameras. The…",
+          "published": "2026-07-21T18:12:02.000Z"
+        },
+        {
+          "title": "Show HN: Edky, a CLI to convert Ed25519 public keys from one encoding to another",
+          "link": "https://github.com/artob/edky",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T18:09:07.000Z"
+        },
+        {
+          "title": "YouTube System Design for Robotics Data Infrastructure",
+          "link": "https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T18:08:38.000Z"
+        },
+        {
+          "title": "Greedy is optimal for single-pass semi-streaming matching",
+          "link": "https://arxiv.org/abs/2607.14656",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T17:59:29.000Z"
+        },
+        {
+          "title": "Apple Private Cloud Compute SoC 3 audit reports",
+          "link": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T17:58:21.000Z"
+        },
         {
           "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
           "link": "https://github.com/cristibaluta/Imagin-Raw",
@@ -210,12 +306,20 @@
           "published": "2026-07-21T17:30:01.000Z"
         },
         {
-          "title": "Show HN: I built a command palette for the terminal – 6.2MB, pure Go, no fzf",
-          "link": "https://github.com/matheuzgomes/decoreba",
+          "title": "Firefox Containers Preview",
+          "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-21T17:22:17.000Z"
+          "published": "2026-07-21T17:27:59.000Z"
+        },
+        {
+          "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+          "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T17:14:06.000Z"
         },
         {
           "title": "Nearly every Kindle is steeply discounted at Best Buy",
@@ -240,6 +344,22 @@
           "category": "tech",
           "snippet": "As component and RAM shortages drive prices higher, Apple is reportedly launching an \"Apple Upgrade\" program for leasing new devices. According to Bloomberg's Mark Gurman, it will work similar to a car lease, with options to upgrade to a…",
           "published": "2026-07-21T17:12:06.000Z"
+        },
+        {
+          "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
+          "link": "https://github.com/AlmanacCode/codealmanac/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T17:12:01.000Z"
+        },
+        {
+          "title": "Uhubctl – control USB power per-port on smart USB hubs",
+          "link": "https://github.com/mvp/uhubctl",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T17:09:37.000Z"
         },
         {
           "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
@@ -272,132 +392,20 @@
           "category": "tech",
           "snippet": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
           "published": "2026-07-21T16:58:25.000Z"
-        },
-        {
-          "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli…",
-          "published": "2026-07-21T16:53:37.000Z"
-        },
-        {
-          "title": "Instagram will let users endlessly swap the audio on old posts",
-          "link": "https://www.theverge.com/news/968243/instagram-creators-replace-audio-tiktok-competition",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "There's a symbiotic - and sometimes frustrating - relationship between social media sites and the creators that depend on them. Platforms need influencers' and creators' content to keep consumers on their apps; the creators, in turn, need…",
-          "published": "2026-07-21T16:15:00.000Z"
-        },
-        {
-          "title": "Tesla Robotaxis go to Florida",
-          "link": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "It must be earnings day, because Tesla is making a Robotaxi announcement. The company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attaching a pair of maps that show each city's service area. No…",
-          "published": "2026-07-21T16:11:41.000Z"
-        },
-        {
-          "title": "The World's 2,400 Castles",
-          "link": "https://thecastlemap.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T16:05:58.000Z"
-        },
-        {
-          "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
-          "link": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T16:02:04.000Z"
-        },
-        {
-          "title": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
-          "link": "https://e360.yale.edu/digest/benin-coral-reef",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T15:41:51.000Z"
-        },
-        {
-          "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
-          "link": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T15:31:41.000Z"
-        },
-        {
-          "title": "Oracle could face $7B collateral bill for Wisconsin data centre",
-          "link": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T15:22:33.000Z"
-        },
-        {
-          "title": "Samsung can t afford to play it safe with Apple s first foldable looming",
-          "link": "https://www.theverge.com/tech/968583/samsung-galaxy-unpacked-wide-z-fold-8-iphone",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Tomorrow's foldable-centric Galaxy Unpacked event looks like it will be Samsung's biggest in years. The company is expected to launch new versions of its Fold and Flip phones while also introducing a brand new Fold form factor that's…",
-          "published": "2026-07-21T15:20:33.000Z"
-        },
-        {
-          "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-          "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"Current economic conditions\" have shifted TreeSize's business model.",
-          "published": "2026-07-21T15:18:23.000Z"
-        },
-        {
-          "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T15:17:16.000Z"
-        },
-        {
-          "title": "The Light Flip is a minimalist flip phone with a point to prove",
-          "link": "https://www.theverge.com/gadgets/968563/light-flip-phone-price-specs",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A few years ago, the team at Light shipped the most smartphone-like device they'd ever created. The Light Phone III still kept to its minimalist, no-distractions ethos, but it was a phone-size rectangle with a phone-size touchscreen, a…",
-          "published": "2026-07-21T15:00:00.000Z"
-        },
-        {
-          "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-          "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly…",
-          "published": "2026-07-21T15:00:00.000Z"
-        },
-        {
-          "title": "Claude Is Not a Compiler",
-          "link": "https://blog.exe.dev/claude-is-not-a-compiler",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T14:49:18.000Z"
-        },
-        {
-          "title": "Stellantis taps Mobileye for hands-free driving assist",
-          "link": "https://www.theverge.com/transportation/968525/stellantis-taps-mobileye-for-hands-free-driving-assist",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Stellantis will use technology from Intel's Mobileye to power its Level 2 hands-free driving features for its vehicle brands, the companies announced Tuesday. Starting in 2027, Stellantis will begin using Mobileye's EyeQ system-on-a-chip…",
-          "published": "2026-07-21T14:42:38.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "John Yoo Wants DOJ To Investigate Mamdani For Crime He Literally Did Not Commit",
+          "link": "https://abovethelaw.com/2026/07/john-yoo-wants-doj-to-investigate-mamdani-for-crime-he-literally-did-not-commit/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Torture memo thug appears on Fox News to casually threaten the NYC mayor -- and all of us. The post John Yoo Wants DOJ To Investigate Mamdani For Crime He Literally Did Not Commit appeared first on Above the Law .",
+          "published": "2026-07-21T18:32:00.000Z"
+        },
         {
           "title": "Courtroom View Network: Learning Trial Skills By Watching Real Lawyers In Real Trials",
           "link": "https://abovethelaw.com/2026/07/courtroom-view-network-learning-trial-skills-by-watching-real-lawyers-in-real-trials/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "[Sponsored] Some challenges show up no matter what industry you’re in. Contracting is one of them. The post 3 Contract Intelligence Use Cases Every Legal Team Should Know appeared first on Above the Law .",
           "published": "2026-07-20T16:12:14.000Z"
-        },
-        {
-          "title": "What The 2026 FIFA World Cup Taught Us About Global Events",
-          "link": "https://abovethelaw.com/2026/07/what-the-2026-fifa-world-cup-taught-us-about-global-events/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The 2026 FIFA World Cup succeeded because millions of moving parts operated within carefully constructed legal frameworks that most fans never noticed. The post What The 2026 FIFA World Cup Taught Us About Global Events appeared first on…",
-          "published": "2026-07-20T15:33:09.000Z"
         }
       ]
     }
