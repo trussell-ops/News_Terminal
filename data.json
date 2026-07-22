@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-22T10:15:20.467Z",
+  "updated": "2026-07-22T12:09:53.611Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Food prices have fallen – but inflation expected to rise from here",
-          "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+          "title": "What does an Andy Burnham-led government mean for your money?",
+          "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
-          "published": "2026-07-22T10:10:01.000Z"
+          "snippet": "The new PM says he will look at how much people can earn before paying tax but there will be no change yet.",
+          "published": "2026-07-22T11:41:08.000Z"
         },
         {
           "title": "Most bus fares in England to be capped at £2 from January",
@@ -18,7 +18,39 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
-          "published": "2026-07-22T08:41:20.000Z"
+          "published": "2026-07-22T11:39:51.000Z"
+        },
+        {
+          "title": "Renting a yacht in the Mediterranean this summer just got cheaper",
+          "link": "https://www.cnbc.com/2026/07/22/mediterranean-yacht-rentals.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Summer charters in the Med are down 20% to 30% from last year, yacht brokers say, with a growing number offering special discounts for July and August.",
+          "published": "2026-07-22T11:20:28.000Z"
+        },
+        {
+          "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+          "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+          "published": "2026-07-22T11:19:06.000Z"
+        },
+        {
+          "title": "What is happening to UK prices?",
+          "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "UK inflation dropped slightly in June 2026, but higher energy costs are expected to push it back up.",
+          "published": "2026-07-22T10:16:39.000Z"
+        },
+        {
+          "title": "Some food prices have fallen – but inflation expected to rise from here",
+          "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
+          "published": "2026-07-22T10:10:01.000Z"
         },
         {
           "title": "Transport secretary quizzed on bus fare change",
@@ -35,22 +67,6 @@
           "category": "markets",
           "snippet": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
           "published": "2026-07-22T07:40:33.000Z"
-        },
-        {
-          "title": "Removing tax from sanitary products 'pointless'",
-          "link": "https://www.bbc.co.uk/news/articles/cn8k0n0rdz0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Jersey's government has spent more than £500,000 on its free period product scheme since 2022.",
-          "published": "2026-07-22T05:29:25.000Z"
-        },
-        {
-          "title": "The borough where families are slowly disappearing",
-          "link": "https://www.bbc.co.uk/news/articles/cgjxqg08q82o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Islington is a snapshot of a trend playing out across inner London, Britain and much of the world.",
-          "published": "2026-07-22T05:15:39.000Z"
         },
         {
           "title": "France passes law banning under-15s from social media",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "The Swiss chocolate maker adjusts its strategy in response to weaker demand after its price rises.",
           "published": "2026-07-21T15:37:58.000Z"
-        },
-        {
-          "title": "Ozempic-maker accuses rival of false advertising",
-          "link": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Novo Nordisk has launched legal action accusing Eli Lilly of creating \"misleading\" ads, a claim its rival denies.",
-          "published": "2026-07-21T15:20:10.000Z"
-        },
-        {
-          "title": "Is the internet broken?",
-          "link": "https://www.bbc.co.uk/videos/c0qv07pzyepo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "75% of the world is online, and in many ways it makes all our lives better. But faced with AI slop, misinformation and toxicity, many people are asking: Is there a better way?",
-          "published": "2026-07-21T15:10:43.000Z"
         }
       ]
     },
@@ -202,28 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Utility companies are promising to spare us from AI’s energy bill",
+          "title": "Meta made its own AI detection system. It should have just used Google’s",
+          "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content…",
+          "published": "2026-07-22T11:00:00.000Z"
+        },
+        {
+          "title": "The 2026 Honda Prelude is a marvel of hybrid technology",
+          "link": "https://www.theverge.com/transportation/968772/honda-prelude-hybrid-2026-review-specs-price",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "When it comes to enthusiast-geared Honda hardware, the Civic Si, Civic Type R, and Acura NSX often come to mind first for their revvy VTEC (Honda's form of variable valve timing) engines and playful chassis dynamics. The Prelude, on the…",
+          "published": "2026-07-22T11:00:00.000Z"
+        },
+        {
+          "title": "OverpAId – Fire your CEO. Hire the future",
+          "link": "https://overpaid.lol",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T10:49:04.000Z"
+        },
+        {
+          "title": "Utility companies promise to spare us from AI’s energy bill",
           "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
           "source": "The Verge",
           "category": "tech",
           "snippet": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that…",
           "published": "2026-07-22T10:12:13.000Z"
-        },
-        {
-          "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
-          "link": "https://codeberg.org/Codeberg/org/pulls/1253",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T08:27:12.000Z"
-        },
-        {
-          "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
-          "link": "https://www.readkinetic.com/app/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T05:49:51.000Z"
         },
         {
           "title": "Show HN: A new kind of FPS aim trainer",
@@ -242,20 +250,20 @@
           "published": "2026-07-22T05:18:08.000Z"
         },
         {
+          "title": "Never Enough",
+          "link": "https://dark.ronacher.eu/2026/7/21/never-enough/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T03:24:36.000Z"
+        },
+        {
           "title": "Late.sh – a command-line Clubhouse for computer people",
           "link": "https://late.sh/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-22T02:32:30.000Z"
-        },
-        {
-          "title": "LG to ban residential proxies from smart TV apps",
-          "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T01:52:31.000Z"
         },
         {
           "title": "Ten Steps Towards Happiness (2015)",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated…",
           "published": "2026-07-21T19:22:28.000Z"
-        },
-        {
-          "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
-          "link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
-          "published": "2026-07-21T19:09:19.000Z"
         }
       ]
     },
