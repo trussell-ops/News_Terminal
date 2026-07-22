@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-22T01:46:08.221Z",
+  "updated": "2026-07-22T04:59:47.027Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "France passes law banning under-15s from social media",
+          "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The law will require social media platforms in France to verify all users age from January.",
+          "published": "2026-07-22T03:50:55.000Z"
+        },
         {
           "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint",
           "link": "https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html",
@@ -35,6 +43,14 @@
           "category": "markets",
           "snippet": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
           "published": "2026-07-21T23:04:42.000Z"
+        },
+        {
+          "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+          "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
+          "published": "2026-07-21T22:26:19.000Z"
         },
         {
           "title": "RFK Jr. says cyclospora outbreak is 'under control'",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft.",
           "published": "2026-07-21T13:10:49.000Z"
-        },
-        {
-          "title": "UK borrows less than expected in June but public finances remain a challenge",
-          "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Public finances for last month were better than expected but the UK is carrying major debt.",
-          "published": "2026-07-21T12:36:29.000Z"
-        },
-        {
-          "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
-          "link": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government",
-          "published": "2026-07-21T10:30:45.000Z"
         }
       ]
     },
@@ -202,7 +202,23 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Ten Steps Towards Happiness",
+          "title": "Late.sh – a command-line Clubhouse for computer people",
+          "link": "https://late.sh/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T02:32:30.000Z"
+        },
+        {
+          "title": "LG to ban residential proxies from smart TV apps",
+          "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T01:52:31.000Z"
+        },
+        {
+          "title": "Ten Steps Towards Happiness (2015)",
           "link": "http://hintjens.com/blog:99",
           "source": "Hacker News",
           "category": "tech",
@@ -218,20 +234,20 @@
           "published": "2026-07-22T01:00:00.000Z"
         },
         {
-          "title": "How an AI Anime Is Created",
-          "link": "https://www.aventos.dev/our-process?view=blog",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T00:53:00.000Z"
-        },
-        {
           "title": "A flaky test exposed a Redis client use-after-free",
           "link": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-22T00:27:35.000Z"
+        },
+        {
+          "title": "It's a shame what's happened to radio",
+          "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-21T23:33:31.000Z"
         },
         {
           "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-21T18:39:06.000Z"
-        },
-        {
-          "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
-          "link": "https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "NatGeo's Pompeii: Out of Time fuses historical fact and imagination to bring city's last 24 hours to life.",
-          "published": "2026-07-21T18:17:55.000Z"
-        },
-        {
-          "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
-          "link": "https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Have I left it on an airplane? Also yes. For me, finder tags are essential for my cameras. The…",
-          "published": "2026-07-21T18:12:02.000Z"
         }
       ]
     },
