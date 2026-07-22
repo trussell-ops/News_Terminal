@@ -1,9 +1,41 @@
 {
-  "updated": "2026-07-22T04:59:47.027Z",
+  "updated": "2026-07-22T07:36:03.258Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Food prices rise at slowest rate in nearly two years",
+          "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
+          "published": "2026-07-22T07:27:04.000Z"
+        },
+        {
+          "title": "Most bus fares in England to be capped at £2 from January",
+          "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
+          "published": "2026-07-22T06:05:29.000Z"
+        },
+        {
+          "title": "Removing tax from sanitary products 'pointless'",
+          "link": "https://www.bbc.co.uk/news/articles/cn8k0n0rdz0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Jersey's government has spent more than £500,000 on its free period product scheme since 2022.",
+          "published": "2026-07-22T05:29:25.000Z"
+        },
+        {
+          "title": "The borough where families are slowly disappearing",
+          "link": "https://www.bbc.co.uk/news/articles/cgjxqg08q82o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Islington is a snapshot of a trend playing out across inner London, Britain and much of the world.",
+          "published": "2026-07-22T05:15:39.000Z"
+        },
         {
           "title": "France passes law banning under-15s from social media",
           "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
@@ -163,44 +195,36 @@
           "category": "markets",
           "snippet": "Novo asked the court to permanently stop Lilly from running the \"deceptive\" ads and require the drugmaker to issue corrective advertising.",
           "published": "2026-07-21T14:54:22.000Z"
-        },
-        {
-          "title": "Wall Street is selling more rental homes, as buying ban takes effect",
-          "link": "https://www.cnbc.com/2026/07/21/wall-street-selling-homes-real-estate.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The largest landlords are all net sellers year to date, with 3,180 more homes sold than bought since Jan. 1.",
-          "published": "2026-07-21T14:49:07.000Z"
-        },
-        {
-          "title": "VAT to be cut from household electricity bills in October",
-          "link": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
-          "published": "2026-07-21T14:25:22.000Z"
-        },
-        {
-          "title": "UK's first sugar factory at risk of closure",
-          "link": "https://www.bbc.co.uk/news/articles/c8dnq6v5pvgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Over 100 jobs are at risk after British Sugar announced plans to shut one of its four factories.",
-          "published": "2026-07-21T13:57:21.000Z"
-        },
-        {
-          "title": "Ryanair broken window may have been caused by 'foreign object'",
-          "link": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft.",
-          "published": "2026-07-21T13:10:49.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+          "link": "https://www.readkinetic.com/app/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T05:49:51.000Z"
+        },
+        {
+          "title": "Show HN: A new kind of FPS aim trainer",
+          "link": "https://openaim.pramit.gg/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T05:39:31.000Z"
+        },
+        {
+          "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+          "link": "https://github.com/chrislgarry/Apollo-11",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T05:18:08.000Z"
+        },
         {
           "title": "Late.sh – a command-line Clubhouse for computer people",
           "link": "https://late.sh/",
@@ -232,14 +256,6 @@
           "category": "tech",
           "snippet": "Samsung's next Galaxy Unpacked event is just around the corner, and the company is expected to take the wraps off a bunch of new devices. Based on the rumors and leaks we've seen so far, Samsung's next generation of foldables will likely…",
           "published": "2026-07-22T01:00:00.000Z"
-        },
-        {
-          "title": "A flaky test exposed a Redis client use-after-free",
-          "link": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T00:27:35.000Z"
         },
         {
           "title": "It's a shame what's happened to radio",
@@ -288,14 +304,6 @@
           "category": "tech",
           "snippet": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities…",
           "published": "2026-07-21T21:48:54.000Z"
-        },
-        {
-          "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
-          "link": "https://www.getcomputable.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T21:48:19.000Z"
         },
         {
           "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-21T18:58:44.000Z"
-        },
-        {
-          "title": "FreeInk: Open ecosystem for e-readers",
-          "link": "https://freeink.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-21T18:39:06.000Z"
         }
       ]
     },
