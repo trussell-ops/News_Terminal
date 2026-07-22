@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-22T16:14:37.344Z",
+  "updated": "2026-07-22T17:47:09.244Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water tests",
-          "link": "https://www.bbc.co.uk/news/articles/c36d0njy7jjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
+          "title": "EU antitrust regulators clear Paramount-WBD merger as it faces challenge by U.S. states",
+          "link": "https://www.cnbc.com/2026/07/22/european-commission-paramount-wbd-approval.html",
+          "source": "CNBC Business",
           "category": "markets",
-          "snippet": "Matthew Wright is accused alongside three others of trying to save the firm millions in penalties.",
-          "published": "2026-07-22T16:07:15.000Z"
+          "snippet": "",
+          "published": "2026-07-22T17:45:29.000Z"
         },
         {
           "title": "Former Lloyd's of London boss's relationship breached rules, firm says",
@@ -18,7 +18,23 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The insurance market's chairman said the CEO's conduct \"fell significantly below the standards expected of him\".",
-          "published": "2026-07-22T15:50:25.000Z"
+          "published": "2026-07-22T17:08:53.000Z"
+        },
+        {
+          "title": "I travel four hours on a bus per day - the bus fare cap will save me £500 a year",
+          "link": "https://www.bbc.co.uk/news/articles/clyv4y3xdvgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The BBC speaks to people around the country about their view on the newly-announced bus fare cap.",
+          "published": "2026-07-22T17:07:05.000Z"
+        },
+        {
+          "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water tests",
+          "link": "https://www.bbc.co.uk/news/articles/c36d0njy7jjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Matthew Wright is accused alongside three others of trying to save the firm millions in penalties.",
+          "published": "2026-07-22T16:07:15.000Z"
         },
         {
           "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint",
@@ -51,14 +67,6 @@
           "category": "markets",
           "snippet": "'It's going to help us' - public respond to bus fare cut.",
           "published": "2026-07-22T13:14:03.000Z"
-        },
-        {
-          "title": "I travel four hours on a bus per day - the bus fare cap will save me £500 a year",
-          "link": "https://www.bbc.co.uk/news/articles/clyv4y3xdvgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The BBC speaks to people around the country about their view on the newly-announced bus fare cap.",
-          "published": "2026-07-22T12:58:55.000Z"
         },
         {
           "title": "Wall Street is selling more rental homes, as buying ban takes effect",
@@ -187,20 +195,52 @@
           "category": "markets",
           "snippet": "President Donald Trump has imposed a 50% tariff on a wide range of Canadian goods in retaliation for what he called \"unequal treatment\" of US products.",
           "published": "2026-07-21T20:52:08.000Z"
-        },
-        {
-          "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-          "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
-          "published": "2026-07-21T20:51:34.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+          "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T17:30:40.000Z"
+        },
+        {
+          "title": "GigaToken: ~1000x faster Language model tokenization",
+          "link": "https://github.com/marcelroed/gigatoken/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T17:20:38.000Z"
+        },
+        {
+          "title": "Apple is reportedly testing a MacBook Neo with more RAM",
+          "link": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Following the MacBook Neo's huge popularity so far, Apple is reportedly developing an updated version of its budget laptop with a new processor and more memory, and even has plans to refresh the model with new colors. Following a similar…",
+          "published": "2026-07-22T16:35:58.000Z"
+        },
+        {
+          "title": "Here s what Samsung s smart glasses actually look like",
+          "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration…",
+          "published": "2026-07-22T16:35:34.000Z"
+        },
+        {
+          "title": "Show HN: Web swing through midtown NYC",
+          "link": "https://www.swingnyc.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T16:25:08.000Z"
+        },
         {
           "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
           "link": "https://unlayer.com",
@@ -214,24 +254,8 @@
           "link": "https://www.theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Samsung's latest round of folding Galaxy Z phones and updated smartwatches were announced at its July 2026 Unpacked event and set to launch on August 7th. The Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra don't seem geared toward people who…",
+          "snippet": "Samsung's latest round of folding Galaxy Z phones and updated smartwatches were announced at its July 2026 Unpacked event and are set to launch on August 7th. The Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra don't seem geared toward people…",
           "published": "2026-07-22T15:47:10.000Z"
-        },
-        {
-          "title": "Does creatine make you smarter?",
-          "link": "https://dynomight.net/creatine/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T15:45:18.000Z"
-        },
-        {
-          "title": "Six questions before you add an LLM",
-          "link": "https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T15:43:45.000Z"
         },
         {
           "title": "Preorders for Samsung’s new Z Fold and Flip 8 come with up to $350 in gift cards",
@@ -242,12 +266,12 @@
           "published": "2026-07-22T15:42:22.000Z"
         },
         {
-          "title": "A Zipper Patent Sat in a Garage for 40 Years. Now It's Real",
-          "link": "https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/",
+          "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+          "link": "https://cruciblebench.ai/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-22T15:37:25.000Z"
+          "published": "2026-07-22T15:39:01.000Z"
         },
         {
           "title": "Making",
@@ -274,14 +298,6 @@
           "published": "2026-07-22T15:26:56.000Z"
         },
         {
-          "title": "Why I am not going to buy a computer",
-          "link": "https://karlvmuller.com/posts/why-i-am-not-going-to-buy-a-computer/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T15:22:53.000Z"
-        },
-        {
           "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
           "link": "https://bento.page/slides/",
           "source": "Hacker News",
@@ -296,14 +312,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-22T15:15:29.000Z"
-        },
-        {
-          "title": "OpenAI Presence",
-          "link": "https://openai.com/index/introducing-openai-presence/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T15:12:26.000Z"
         },
         {
           "title": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
@@ -328,14 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-22T14:59:08.000Z"
-        },
-        {
-          "title": "The Pillars of an API Platform",
-          "link": "https://launchany.com/the-pillars-of-an-api-platform/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T14:57:37.000Z"
         },
         {
           "title": "Airbus Full Scale Foldable Wing Extensions",
@@ -378,20 +378,20 @@
           "published": "2026-07-22T14:42:49.000Z"
         },
         {
+          "title": "\"We have information that Moonshot distilled Fable for the development of K3\"",
+          "link": "https://twitter.com/mkratsios47/status/2079933645888880708",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T14:42:08.000Z"
+        },
+        {
           "title": "Ethics Is the Skill That Matters Most Now",
           "link": "https://agonora.com/blog/ethics-most-important-skill",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-22T14:39:40.000Z"
-        },
-        {
-          "title": "I Built a Private Genomics Study with Stoffel MPC",
-          "link": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T14:35:55.000Z"
         }
       ]
     },
