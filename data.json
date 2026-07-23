@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-23T07:54:23.723Z",
+  "updated": "2026-07-23T10:11:42.309Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "UK millionaires ask Andy Burnham to tax them more",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Former footballer Gary Lineker and producer Brian Eno write to the new PM telling him \"we can afford it\".",
+          "published": "2026-07-23T10:00:20.000Z"
+        },
+        {
+          "title": "What about cuts for cafes and hotels?",
+          "link": "https://www.bbc.co.uk/news/videos/cwy4ek4n15vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The new PM has announced at 20% business rate cut for pubs, clubs and live music venues in England,",
+          "published": "2026-07-23T09:45:19.000Z"
+        },
+        {
+          "title": "Government to cut business rates for pubs, clubs and music venues",
+          "link": "https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Some hospitality firms will get a 20% discount from next April, saving an estimated £1,100.",
+          "published": "2026-07-23T08:48:35.000Z"
+        },
         {
           "title": "Charity 'heartbroken' as food ruined in break-in",
           "link": "https://www.bbc.co.uk/news/articles/cyvl4p781g4o?at_medium=RSS&at_campaign=rss",
@@ -43,6 +67,14 @@
           "category": "markets",
           "snippet": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
           "published": "2026-07-23T06:18:37.000Z"
+        },
+        {
+          "title": "Big bosses reveal the secret to getting hired",
+          "link": "https://www.bbc.co.uk/news/videos/cvgxelx3y78o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Business leaders share their best career advice and the qualities they look for when recruiting new staff.",
+          "published": "2026-07-23T05:22:34.000Z"
         },
         {
           "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
@@ -133,14 +165,6 @@
           "published": "2026-07-22T15:02:45.000Z"
         },
         {
-          "title": "Money Box",
-          "link": "https://www.bbc.co.uk/sounds/play/m002z7bf?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Will planned house-sale reforms improve the system in England, Wales and Northern Ireland?",
-          "published": "2026-07-22T14:30:00.000Z"
-        },
-        {
           "title": "Minister to bring forward storm compensation law",
           "link": "https://www.bbc.co.uk/news/articles/cdj0dw22g43o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -171,36 +195,20 @@
           "category": "markets",
           "snippet": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
           "published": "2026-07-22T12:26:03.000Z"
-        },
-        {
-          "title": "Renting a yacht in the Mediterranean this summer just got cheaper",
-          "link": "https://www.cnbc.com/2026/07/22/mediterranean-yacht-rentals.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Summer charters in the Med are down 20% to 30% from last year, yacht brokers say, with a growing number offering special discounts for July and August.",
-          "published": "2026-07-22T12:12:46.000Z"
-        },
-        {
-          "title": "What does an Andy Burnham-led government mean for your money?",
-          "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The new PM says he will look at how much people can earn before paying tax but there will be no change yet.",
-          "published": "2026-07-22T11:41:08.000Z"
-        },
-        {
-          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-          "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
-          "published": "2026-07-22T11:40:11.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Framework’s premium laptop is shipping with less RAM",
+          "link": "https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "RAMageddon has claimed yet another victim, with Framework now announcing a \"major and unfortunate\" pricing update for its upcoming premium laptop - which also impacts folks who preordered it. Memory configurations for the Laptop 13 Pro…",
+          "published": "2026-07-23T09:28:30.000Z"
+        },
         {
           "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
           "link": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
@@ -234,20 +242,12 @@
           "published": "2026-07-23T02:28:23.000Z"
         },
         {
-          "title": "Petals: Run LLMs at home, BitTorrent-style",
-          "link": "https://petals.dev/",
+          "title": "Protecting our FLOSS commons from LLMs",
+          "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-23T01:33:12.000Z"
-        },
-        {
-          "title": "Codeberg Bans Cryptocurrency Projects",
-          "link": "https://codeberg.org/Codeberg/org/pulls/1254",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T01:06:56.000Z"
+          "published": "2026-07-23T01:14:53.000Z"
         },
         {
           "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
@@ -272,22 +272,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-22T21:55:34.000Z"
-        },
-        {
-          "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
-          "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T21:54:30.000Z"
-        },
-        {
-          "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
-          "link": "https://claytondorge.com/patterns-list",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-22T21:48:44.000Z"
         },
         {
           "title": "Malleable Computing, Emacs, and You",
@@ -392,6 +376,22 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-22T17:48:18.000Z"
+        },
+        {
+          "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+          "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T17:30:40.000Z"
+        },
+        {
+          "title": "GigaToken: ~1000x faster Language model tokenization",
+          "link": "https://github.com/marcelroed/gigatoken/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-22T17:20:38.000Z"
         }
       ]
     },
