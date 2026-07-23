@@ -1,16 +1,48 @@
 {
-  "updated": "2026-07-23T22:47:16.592Z",
+  "updated": "2026-07-23T23:52:21.850Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "US announces tariffs on dozens of trade partners over 'forced labour' imports",
+          "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+          "link": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
+          "published": "2026-07-23T23:50:38.000Z"
+        },
+        {
+          "title": "UK complacent about war threat, warns defence boss",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned. Dr Charles Woodburn",
+          "published": "2026-07-23T23:04:19.000Z"
+        },
+        {
+          "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
           "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
-          "published": "2026-07-23T22:34:36.000Z"
+          "published": "2026-07-23T23:03:29.000Z"
+        },
+        {
+          "title": "UK mortgage rates rise to highest level for a month",
+          "link": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
+          "published": "2026-07-23T23:02:10.000Z"
+        },
+        {
+          "title": "We split bills equally even when one of us earned a lot more",
+          "link": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
+          "published": "2026-07-23T23:01:08.000Z"
         },
         {
           "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
@@ -109,14 +141,6 @@
           "published": "2026-07-23T15:31:00.000Z"
         },
         {
-          "title": "Why are UK fuel prices rising again?",
-          "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "UK fuel prices are going up again after the collapse of peace talks to end the US-Israel war with Iran.",
-          "published": "2026-07-23T15:10:00.000Z"
-        },
-        {
           "title": "Comcast earnings highlight NBCUniversal strength ahead of planned split",
           "link": "https://www.cnbc.com/2026/07/23/comcast-earnings-nbcuniversal-strength-split.html",
           "source": "CNBC Business",
@@ -171,36 +195,28 @@
           "category": "markets",
           "snippet": "For wealthy landowners, conservation easements can still make sense if you avoid these IRS red flags.",
           "published": "2026-07-23T11:30:01.000Z"
-        },
-        {
-          "title": "Why three automakers dominate the fast-growing hybrid vehicle market",
-          "link": "https://www.cnbc.com/2026/07/23/hybrid-vehicles-toyota-honda-hyundai.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Hybrid sales are surging in the U.S., and Japanese and Korean manufacturers making them are reaping the benefits.",
-          "published": "2026-07-23T11:30:01.000Z"
-        },
-        {
-          "title": "Airport drop-off fees up by a third - here are the priciest",
-          "link": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
-          "published": "2026-07-23T11:25:34.000Z"
-        },
-        {
-          "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
-          "link": "https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Mercedes-Benz’s largest individual shareholder is Chinese state-owned BAIC. Cruz warned the bill could hurt Mercedes and accused GM of backing it.",
-          "published": "2026-07-23T11:21:17.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+          "link": "https://arxiv.org/abs/2507.09369",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-23T22:51:13.000Z"
+        },
+        {
+          "title": "98.css",
+          "link": "https://jdan.github.io/98.css/#status-bar",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-23T22:30:29.000Z"
+        },
         {
           "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
           "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
@@ -210,7 +226,7 @@
           "published": "2026-07-23T21:15:06.000Z"
         },
         {
-          "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
+          "title": "Tell HN: Namecheap gave my account to an unverified third party",
           "link": "https://news.ycombinator.com/item?id=49028037",
           "source": "Hacker News",
           "category": "tech",
@@ -346,6 +362,14 @@
           "published": "2026-07-23T17:09:31.000Z"
         },
         {
+          "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+          "link": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-23T17:06:22.000Z"
+        },
+        {
           "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
           "link": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
           "source": "The Verge",
@@ -368,36 +392,28 @@
           "category": "tech",
           "snippet": "The case provides a novel report of the emergence of heterovirulence.",
           "published": "2026-07-23T16:58:26.000Z"
-        },
-        {
-          "title": "What happened to TheNumbers.com",
-          "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T16:53:33.000Z"
-        },
-        {
-          "title": "The arguments against open source AI are bad",
-          "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T16:49:57.000Z"
-        },
-        {
-          "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
-          "link": "https://news.ycombinator.com/item?id=49024620",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T16:48:38.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Todd Blanche Can t Admit The Slush Fund Was A Mistake Because That s Not Proper MAGA Talk See Also",
+          "link": "https://abovethelaw.com/2026/07/todd-blanche-cant-admit-the-slush-fund-was-a-mistake-because-thats-not-proper-maga-talk-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Liar, Liar: Todd Blanche's unique confirmation strategy . Stop Waiting For Cravath : Biglaw firms don't need permission anymore. It's time to make your money moves. That's A Pretty Big Malpractice Claim You've Got There: Holland Knight…",
+          "published": "2026-07-23T23:32:00.000Z"
+        },
+        {
+          "title": "Congratulations On That Biglaw Leadership Role. Here s Your Second Job.",
+          "link": "https://abovethelaw.com/2026/07/congratulations-on-that-biglaw-leadership-role-heres-your-second-job/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Some firm leaders are logging the equivalent of an extra workweek every month, and none of it goes on a client bill. The post Congratulations On That Biglaw Leadership Role. Here s Your Second Job. appeared first on Above the Law .",
+          "published": "2026-07-23T23:02:00.000Z"
+        },
         {
           "title": "The FRETZIN Rules For Legal Business Development Success",
           "link": "https://abovethelaw.com/2026/07/the-fretzin-rules-for-legal-business-development-success/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Popular with Republican voters, not so much with Republican Senators... The post Senate Democrats Reintroduce Supreme Court Term Limits Bill, And The Polling Has Never Been Friendlier appeared first on Above the Law .",
           "published": "2026-07-22T20:44:00.000Z"
-        },
-        {
-          "title": "Willkie Farr And OpenAI Building Proprietary AI Named After Guy Who Would Not Have Cut A Deal With Trump",
-          "link": "https://abovethelaw.com/2026/07/willkie-farr-and-openai-building-proprietary-ai-named-after-guy-who-would-not-have-cut-a-deal-with-trump/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The firm's AI platform is called Wendell after Wendell Willkie. They could do with some of his advice. The post Willkie Farr And OpenAI Building Proprietary AI Named After Guy Who Would Not Have Cut A Deal With Trump appeared first on…",
-          "published": "2026-07-22T20:00:00.000Z"
-        },
-        {
-          "title": "2026: A Rule Of Law Odyssey",
-          "link": "https://abovethelaw.com/2026/07/2026-a-rule-of-law-odyssey/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Maybe in several years, we can get it back. The post 2026: A Rule Of Law Odyssey appeared first on Above the Law .",
-          "published": "2026-07-22T19:15:06.000Z"
         }
       ]
     }
