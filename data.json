@@ -1,9 +1,41 @@
 {
-  "updated": "2026-07-23T18:59:36.985Z",
+  "updated": "2026-07-23T20:14:59.069Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
+          "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs.",
+          "published": "2026-07-23T20:14:12.000Z"
+        },
+        {
+          "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
+          "link": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.",
+          "published": "2026-07-23T20:12:42.000Z"
+        },
+        {
+          "title": "Help for electricity bills as crude oil hits $100",
+          "link": "https://www.bbc.co.uk/news/articles/c4gd9kypkjlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The States of Guernsey said it would give Alderney Electricity £200,000 to offset islanders' bills.",
+          "published": "2026-07-23T19:37:38.000Z"
+        },
+        {
+          "title": "Burnham says 20% business rates cut for English pubs 'a first step'",
+          "link": "https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Some hospitality firms will get a discount from next April but hotels and restaurants won't get a cut.",
+          "published": "2026-07-23T19:33:09.000Z"
+        },
         {
           "title": "'The Odyssey' is cleaning up for Imax. Expect the momentum to continue",
           "link": "https://www.cnbc.com/2026/07/23/the-odyssey-imax-ticket-sales-revenue.html",
@@ -11,14 +43,6 @@
           "category": "markets",
           "snippet": "Nolan's \"The Odyssey\" is racking up box office dollars for Imax and fueling investor confidence that the company will reach record ticket sales in 2026.",
           "published": "2026-07-23T17:57:35.000Z"
-        },
-        {
-          "title": "American Airlines stock tumbles 9% as fuel spike further postpones turnaround",
-          "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs.",
-          "published": "2026-07-23T17:47:45.000Z"
         },
         {
           "title": "Google and Tesla shares plunge as AI spending rattles markets",
@@ -35,14 +59,6 @@
           "category": "markets",
           "snippet": "The future of the Ridgeline midsize pickup truck had been in flux, and the automaker said there will be a temporary production stoppage for the truck.",
           "published": "2026-07-23T17:02:35.000Z"
-        },
-        {
-          "title": "Burnham says 20% business rates cut for English pubs 'a first step'",
-          "link": "https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Some hospitality firms will get a discount from next April but hotels and restaurants won't get a cut.",
-          "published": "2026-07-23T16:59:59.000Z"
         },
         {
           "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
@@ -117,14 +133,6 @@
           "published": "2026-07-23T13:52:00.000Z"
         },
         {
-          "title": "Help for electricity bills as crude oil nears $100",
-          "link": "https://www.bbc.co.uk/news/articles/c4gd9kypkjlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The States of Guernsey said it would give Alderney Electricity £200,000 to offset islanders' bills.",
-          "published": "2026-07-23T13:24:30.000Z"
-        },
-        {
           "title": "China's Geely to make EVs at Ford plant in Spain under new joint venture",
           "link": "https://www.cnbc.com/2026/07/23/ford-china-geely-ev-europe.html",
           "source": "CNBC Business",
@@ -187,20 +195,36 @@
           "category": "markets",
           "snippet": "Pubs, clubs and live music venues in England will get a 20% cut in business rates from April.",
           "published": "2026-07-23T07:29:46.000Z"
-        },
-        {
-          "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
-          "link": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
-          "published": "2026-07-23T06:18:37.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
+          "link": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation’s TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wielded that power to threaten broadcasters…",
+          "published": "2026-07-23T19:46:11.000Z"
+        },
+        {
+          "title": "Show HN: Echo – Fable-level results at 1&#x2F;3 the cost using open-weight models",
+          "link": "https://news.ycombinator.com/item?id=49026810",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-23T19:26:01.000Z"
+        },
+        {
+          "title": "Claude’s voice mode is now available for Opus and Sonnet",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack,…",
+          "published": "2026-07-23T19:00:00.000Z"
+        },
         {
           "title": "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
           "link": "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/",
@@ -314,7 +338,7 @@
           "published": "2026-07-23T16:49:57.000Z"
         },
         {
-          "title": "Launch HN: Screenpipe (YC S26) – Power your agents by your 24&#x2F;7 screen recording",
+          "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
           "link": "https://news.ycombinator.com/item?id=49024620",
           "source": "Hacker News",
           "category": "tech",
@@ -368,36 +392,28 @@
           "category": "tech",
           "snippet": "Xbox Insiders can stream games from their libraries for free in ad-supported streaming sessions starting today. The free streaming sessions are limited to games you already own, and sessions are capped at one hour. However, ads will only…",
           "published": "2026-07-23T16:00:00.000Z"
-        },
-        {
-          "title": "Free way to get your data out of ChatGPT Business accounts",
-          "link": "https://github.com/Conradqh/scrapemychats",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T15:45:51.000Z"
-        },
-        {
-          "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-          "link": "https://github.com/onecli/onecli",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T15:42:40.000Z"
-        },
-        {
-          "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-          "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T15:18:48.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Todd Blanche s Confirmation Strategy: Call Two Senate Judiciary Committee Members Liars",
+          "link": "https://abovethelaw.com/2026/07/todd-blanches-confirmation-strategy-call-two-senate-judiciary-committee-members-liars/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "It's a choice. The post Todd Blanche s Confirmation Strategy: Call Two Senate Judiciary Committee Members Liars appeared first on Above the Law .",
+          "published": "2026-07-23T19:58:36.000Z"
+        },
+        {
+          "title": "Biglaw Firm Facing $1.2 Billion Malpractice Lawsuit Over The Business Model It Allegedly Built",
+          "link": "https://abovethelaw.com/2026/07/biglaw-firm-facing-1-2-billion-malpractice-lawsuit-over-the-business-model-it-allegedly-built/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "According to the complaint, Holland Knight should have designed a lawful version of its product -- or told the company it couldn't be done. The post Biglaw Firm Facing $1.2 Billion Malpractice Lawsuit Over The Business Model It Allegedly…",
+          "published": "2026-07-23T19:16:38.000Z"
+        },
         {
           "title": "Enough Already: Biglaw Needs To Stop Waiting For Cravath",
           "link": "https://abovethelaw.com/2026/07/enough-already-biglaw-needs-to-stop-waiting-for-cravath/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "The DOJ's Epstein files reply calls Katie Phang 'outlandish' and 'absurd,' then requests that the court please hold off on those sanctions. The post Todd Blanche s Brief Has The Tone Of A Kid Yelling That s Not Fair appeared first on…",
           "published": "2026-07-22T17:01:00.000Z"
-        },
-        {
-          "title": "Why Experience Still Matters In An AI-Driven Legal Industry",
-          "link": "https://abovethelaw.com/2026/07/why-experience-still-matters-in-an-ai-driven-legal-industry/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] A conversation with Trustpoint.One CEO Christopher Gallagher The post Why Experience Still Matters In An AI-Driven Legal Industry appeared first on Above the Law .",
-          "published": "2026-07-22T16:18:00.000Z"
-        },
-        {
-          "title": "Comer Throws Alan Dershowitz s Nothing To Hide Boast Back At Him With Subpoena Threat",
-          "link": "https://abovethelaw.com/2026/07/comer-throws-alan-dershowitzs-nothing-to-hide-boast-back-at-him-with-subpoena-threat/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "House Oversight chair dumped receipts in letter after law professor bailed on scheduled testimony. The post Comer Throws Alan Dershowitz s Nothing To Hide Boast Back At Him With Subpoena Threat appeared first on Above the Law .",
-          "published": "2026-07-22T15:32:00.000Z"
         }
       ]
     }
