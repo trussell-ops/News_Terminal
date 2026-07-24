@@ -1,16 +1,24 @@
 {
-  "updated": "2026-07-24T05:12:01.225Z",
+  "updated": "2026-07-24T07:44:03.675Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
+          "title": "US hits dozens of trading partners with new wave of tariffs",
           "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The tariffs target 60 trading partners over claims they failed to properly stop forced labour.",
-          "published": "2026-07-24T04:27:15.000Z"
+          "snippet": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+          "published": "2026-07-24T07:12:13.000Z"
+        },
+        {
+          "title": "How much money do you give for a wedding gift?",
+          "link": "https://www.bbc.co.uk/news/videos/c0jlnw825w8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "You've been invited by the happy couple, but they've asked for cash - not presents. North Londoners tell us what they would do.",
+          "published": "2026-07-24T05:22:37.000Z"
         },
         {
           "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
@@ -21,7 +29,7 @@
           "published": "2026-07-23T23:50:38.000Z"
         },
         {
-          "title": "UK complacent about war threat, warns defence boss",
+          "title": "UK complacent about war threat, warns BAE boss",
           "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -45,7 +53,7 @@
           "published": "2026-07-23T23:01:08.000Z"
         },
         {
-          "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+          "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
           "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -115,14 +123,6 @@
           "category": "markets",
           "snippet": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
           "published": "2026-07-23T16:20:45.000Z"
-        },
-        {
-          "title": "Business rate cut not enough, says Michelin-star chef",
-          "link": "https://www.bbc.co.uk/news/articles/ceqe91pnn7eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Alex Claridge, owner of The Wilderness in Birmingham, said the proposal did not go far enough.",
-          "published": "2026-07-23T16:03:47.000Z"
         },
         {
           "title": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
@@ -202,12 +202,28 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
-          "link": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607",
+          "title": "The PImpl idiom and the C++26 std:indirect type",
+          "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-24T02:06:31.000Z"
+          "published": "2026-07-24T07:02:43.000Z"
+        },
+        {
+          "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+          "link": "https://www.bbc.com/news/articles/cvg9n2y61w6o",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T06:36:50.000Z"
+        },
+        {
+          "title": "Flux 3",
+          "link": "https://bfl.ai/blog/flux-3",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T06:17:08.000Z"
         },
         {
           "title": "The Visual 6502",
@@ -232,14 +248,6 @@
           "category": "tech",
           "snippet": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs,…",
           "published": "2026-07-23T21:15:06.000Z"
-        },
-        {
-          "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-          "link": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T20:52:19.000Z"
         },
         {
           "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
@@ -368,14 +376,6 @@
           "category": "tech",
           "snippet": "In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being driven, and more people are experiencing Tesla's unsupervised…",
           "published": "2026-07-23T17:09:31.000Z"
-        },
-        {
-          "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
-          "link": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T17:06:22.000Z"
         },
         {
           "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
