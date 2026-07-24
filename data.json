@@ -1,16 +1,32 @@
 {
-  "updated": "2026-07-24T07:44:03.675Z",
+  "updated": "2026-07-24T10:08:02.397Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "US hits dozens of trading partners with new wave of tariffs",
+          "title": "UK mortgage rates rise to highest level for a month",
+          "link": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
+          "published": "2026-07-24T09:44:53.000Z"
+        },
+        {
+          "title": "US hits dozens of countries with new wave of tariffs",
           "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-          "published": "2026-07-24T07:12:13.000Z"
+          "published": "2026-07-24T08:59:31.000Z"
+        },
+        {
+          "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
+          "link": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
+          "published": "2026-07-24T08:30:58.000Z"
         },
         {
           "title": "How much money do you give for a wedding gift?",
@@ -35,14 +51,6 @@
           "category": "markets",
           "snippet": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned. Dr Charles Woodburn",
           "published": "2026-07-23T23:04:19.000Z"
-        },
-        {
-          "title": "UK mortgage rates rise to highest level for a month",
-          "link": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
-          "published": "2026-07-23T23:02:10.000Z"
         },
         {
           "title": "We split bills equally even when one of us earned a lot more",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "What was the best business move of the last 12 months and who made the biggest blunder?",
           "published": "2026-07-23T11:40:00.000Z"
-        },
-        {
-          "title": "A tax break for preserving land has drawn IRS scrutiny. Here’s when it still makes sense",
-          "link": "https://www.cnbc.com/2026/07/23/conservation-easements-tax-incentives-irs-crackdown.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "For wealthy landowners, conservation easements can still make sense if you avoid these IRS red flags.",
-          "published": "2026-07-23T11:30:01.000Z"
         }
       ]
     },
@@ -202,20 +202,76 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Show HN: A static, client-side tarot calculator for Brazilian Portuguese",
+          "link": "https://meuarcanopessoal.net/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T09:40:25.000Z"
+        },
+        {
+          "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "link": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T09:31:48.000Z"
+        },
+        {
+          "title": "Future euro banknote design proposals",
+          "link": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T09:29:44.000Z"
+        },
+        {
+          "title": "Microsoft pressures LG into killing unwanted McAfee ads",
+          "link": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups. In response to complaints about the LG bloatware, Microsoft's Windows chief, Pavan Davuluri, said that LG has…",
+          "published": "2026-07-24T09:20:09.000Z"
+        },
+        {
+          "title": "Nothing works and everyone is euphoric",
+          "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T09:08:17.000Z"
+        },
+        {
+          "title": "The day Steve Jobs dissed me in a keynote (2010)",
+          "link": "https://sive.rs/itunes",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T09:07:44.000Z"
+        },
+        {
+          "title": "The Book Prize Index",
+          "link": "https://book-prize-index.vercel.app",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T08:29:11.000Z"
+        },
+        {
+          "title": "It's getting harder to focus every day",
+          "link": "https://glyphack.com/attention/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T08:18:30.000Z"
+        },
+        {
           "title": "The PImpl idiom and the C++26 std:indirect type",
           "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-24T07:02:43.000Z"
-        },
-        {
-          "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-          "link": "https://www.bbc.com/news/articles/cvg9n2y61w6o",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T06:36:50.000Z"
         },
         {
           "title": "Flux 3",
@@ -226,12 +282,12 @@
           "published": "2026-07-24T06:17:08.000Z"
         },
         {
-          "title": "The Visual 6502",
-          "link": "http://visual6502.org/JSSim/index.html",
+          "title": "Claude Cookbook",
+          "link": "https://platform.claude.com/cookbook/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-23T23:36:42.000Z"
+          "published": "2026-07-24T05:09:15.000Z"
         },
         {
           "title": "98.css",
@@ -264,14 +320,6 @@
           "category": "tech",
           "snippet": "Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to control your smart lights, glance at recipes,…",
           "published": "2026-07-23T20:36:40.000Z"
-        },
-        {
-          "title": "Mourning Dan Williams",
-          "link": "https://lwn.net/Articles/1084545/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T19:46:28.000Z"
         },
         {
           "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
@@ -338,60 +386,12 @@
           "published": "2026-07-23T18:20:30.000Z"
         },
         {
-          "title": "A solid-state “atomic channel” for separating rare earth elements",
-          "link": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T18:13:03.000Z"
-        },
-        {
           "title": "Why Sony can't bring back its classic Walkman models",
           "link": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-23T18:08:29.000Z"
-        },
-        {
-          "title": "Final Coyote vs. Acme trailer drops at SDCC",
-          "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman.",
-          "published": "2026-07-23T18:01:46.000Z"
-        },
-        {
-          "title": "Corsair’s PC case with a panoramic glass design is $70 off",
-          "link": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "On the hunt for a PC case that’s loaded with features and has a unique look? Amazon, Best Buy, and Corsair are selling the Corsair Frame 4500X RS for $119.99, a $70 discount from the usual price. The versatile case supports motherboards…",
-          "published": "2026-07-23T17:20:00.000Z"
-        },
-        {
-          "title": "Tesla’s robotaxi promises are clashing with reality",
-          "link": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being driven, and more people are experiencing Tesla's unsupervised…",
-          "published": "2026-07-23T17:09:31.000Z"
-        },
-        {
-          "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
-          "link": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Primate Labs is releasing Geekbench 7, the latest generation of its popular benchmarking tool. Geekbench 7 features new video and audio encoding / decoding tests, a redesigned multi-core test, and larger, more demanding datasets for CPUs…",
-          "published": "2026-07-23T17:00:00.000Z"
-        },
-        {
-          "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of…",
-          "published": "2026-07-23T17:00:00.000Z"
         }
       ]
     },
