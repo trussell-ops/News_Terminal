@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-24T11:58:45.280Z",
+  "updated": "2026-07-24T13:45:33.820Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "We split money equally even when one of us earned a lot more",
+          "link": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
+          "published": "2026-07-24T13:33:02.000Z"
+        },
+        {
+          "title": "US hits dozens of countries with new wave of tariffs",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+          "published": "2026-07-24T12:40:44.000Z"
+        },
+        {
+          "title": "New figures show costs rising for pensioners",
+          "link": "https://www.bbc.co.uk/news/articles/cj637z28xnyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "They face 4.7% inflation - driven by steep rises in fuel and household service costs, report finds.",
+          "published": "2026-07-24T12:30:06.000Z"
+        },
         {
           "title": "Preston Bus still to decide on Burnham's £2 cap",
           "link": "https://www.bbc.co.uk/news/articles/cre4wz4np7lo?at_medium=RSS&at_campaign=rss",
@@ -29,7 +53,7 @@
           "published": "2026-07-24T10:45:41.000Z"
         },
         {
-          "title": "Watch: Are Trump's tariffs delivering on his objectives?",
+          "title": "Watch: Another day, more Trump tariffs - but are they working?",
           "link": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -51,14 +75,6 @@
           "category": "markets",
           "snippet": "The Scottish government welcomed the lifting of the 10% levy, which the US President agreed after the state visit of King Charles.",
           "published": "2026-07-24T09:35:23.000Z"
-        },
-        {
-          "title": "US hits dozens of countries with new wave of tariffs",
-          "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-          "published": "2026-07-24T08:59:31.000Z"
         },
         {
           "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
@@ -91,14 +107,6 @@
           "category": "markets",
           "snippet": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned. Dr Charles Woodburn",
           "published": "2026-07-23T23:04:19.000Z"
-        },
-        {
-          "title": "We split bills equally even when one of us earned a lot more",
-          "link": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
-          "published": "2026-07-23T23:01:08.000Z"
         },
         {
           "title": "Tourist tax introduced in Edinburgh: How much is it and who pays?",
@@ -187,20 +195,76 @@
           "category": "markets",
           "snippet": "Shares of Albertsons sank Thursday after the grocer reported softness in its core business and lowered its full-year outlook as a result.",
           "published": "2026-07-23T15:41:37.000Z"
-        },
-        {
-          "title": "Oil prices hit $100 for the first time since May",
-          "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-          "published": "2026-07-23T15:31:00.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Patreon laying off 20% of staff",
+          "link": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T13:02:49.000Z"
+        },
+        {
+          "title": "Ah, the Codeberg Drama",
+          "link": "https://gagliardoni.net/#20260724_codeberg_drama",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T13:00:18.000Z"
+        },
+        {
+          "title": "Em dashes are fucking amazing",
+          "link": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T12:40:27.000Z"
+        },
+        {
+          "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
+          "link": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T12:34:28.000Z"
+        },
+        {
+          "title": "Why is programming so captivating, yet so agonizing?",
+          "link": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T12:15:11.000Z"
+        },
+        {
+          "title": "I Tried Building a Real App with AI. It Took a Year",
+          "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T12:00:17.000Z"
+        },
+        {
+          "title": "Whack-a-drone",
+          "link": "https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "In Pasadena, California, there's a cute red brick courtyard where one storefront isn't like the rest. The glass doors open onto a sparse industrial hallway, which leads to a sunlit foyer with a large spiral staircase. Go up, and you'll…",
+          "published": "2026-07-24T12:00:00.000Z"
+        },
+        {
+          "title": "My security camera shipped a GitHub admin token in its login page",
+          "link": "https://hhh.hn/hanwha-github-token/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T11:54:41.000Z"
+        },
         {
           "title": "The case for MUDs in modern times",
           "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
@@ -216,6 +280,14 @@
           "category": "tech",
           "snippet": "TikTok has attracted the ire of the European Union over its protection of children who use the video sharing platform. The European Commission announced preliminary findings today under the Digital Services Act (DSA) that offer specific…",
           "published": "2026-07-24T11:40:03.000Z"
+        },
+        {
+          "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+          "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
+          "published": "2026-07-24T11:20:43.000Z"
         },
         {
           "title": "The IBM PC, Part 1: Arrival",
@@ -242,12 +314,20 @@
           "published": "2026-07-24T10:15:29.000Z"
         },
         {
-          "title": "Launching Health in ChatGPT to US Users",
-          "link": "https://openai.com/index/health-in-chatgpt/",
+          "title": "How Do We Stop Vibe Coding?",
+          "link": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-24T10:09:36.000Z"
+          "published": "2026-07-24T10:12:39.000Z"
+        },
+        {
+          "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+          "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T09:52:58.000Z"
         },
         {
           "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
@@ -312,92 +392,44 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-24T08:18:30.000Z"
-        },
-        {
-          "title": "The PImpl idiom and the C++26 std:indirect type",
-          "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T07:02:43.000Z"
-        },
-        {
-          "title": "AMD's Instinct MI455X: Aiming for the Sun",
-          "link": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T06:59:07.000Z"
-        },
-        {
-          "title": "Flux 3",
-          "link": "https://bfl.ai/blog/flux-3",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T06:17:08.000Z"
-        },
-        {
-          "title": "Claude Cookbook",
-          "link": "https://platform.claude.com/cookbook/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T05:09:15.000Z"
-        },
-        {
-          "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-          "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs,…",
-          "published": "2026-07-23T21:15:06.000Z"
-        },
-        {
-          "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-          "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "App is installed through Windows Update when certain LG monitors connect to a PC.",
-          "published": "2026-07-23T20:47:33.000Z"
-        },
-        {
-          "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
-          "link": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to control your smart lights, glance at recipes,…",
-          "published": "2026-07-23T20:36:40.000Z"
-        },
-        {
-          "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
-          "link": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation’s TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wielded that power to threaten broadcasters…",
-          "published": "2026-07-23T19:46:11.000Z"
-        },
-        {
-          "title": "Show HN: Echo – Fable-level results at 1&#x2F;3 the cost using open-weight models",
-          "link": "https://news.ycombinator.com/item?id=49026810",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T19:26:01.000Z"
-        },
-        {
-          "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
-          "link": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The FDA hasn't said where the cases are or how they're linked.",
-          "published": "2026-07-23T19:22:36.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Is Elena Kagan the stare decisis justice?",
+          "link": "https://www.scotusblog.com/2026/07/is-elena-kagan-the-stare-decisis-justice/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "When asked during a 2022 appearance at the University of Pennsylvania about the opinions of which she was most proud, Justice Elena Kagan cited her 2015 opinion in Kimble v. Marvel Entertainment, LLC as one she had “thought about a lot…",
+          "published": "2026-07-24T13:30:00.000Z"
+        },
+        {
+          "title": "Biglaw Partner-Associate Public Makeout Sesh Posted On Social Media",
+          "link": "https://abovethelaw.com/2026/07/biglaw-partner-associate-public-makeout-sesh-posted-on-social-media/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Biglaw having its Coldplay Kiss-Cam moment. The post Biglaw Partner-Associate Public Makeout Sesh Posted On Social Media appeared first on Above the Law .",
+          "published": "2026-07-24T13:30:00.000Z"
+        },
+        {
+          "title": "Justice Kagan says court gets a \"bad rap”",
+          "link": "https://www.scotusblog.com/2026/07/justice-kagan-says-court-gets-a-bad-rap/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, will the Supreme Court take up the federal ban on home distilling?",
+          "published": "2026-07-24T13:00:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 07.24.26",
+          "link": "https://abovethelaw.com/2026/07/morning-docket-07-24-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* SCOTUSBlog founder Tom Goldstein's sentencing set for today. Anyone want action on what he gets? [ Reuters ] * Plaintiff hired spies to extract intel about defendant's case from Biglaw partner. This James Bond reboot sucks. [ Roll on…",
+          "published": "2026-07-24T12:55:00.000Z"
+        },
         {
           "title": "Todd Blanche Can t Admit The Slush Fund Was A Mistake Because That s Not Proper MAGA Talk See Also",
           "link": "https://abovethelaw.com/2026/07/todd-blanche-cant-admit-the-slush-fund-was-a-mistake-because-thats-not-proper-maga-talk-see-also/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "DOJ Files Childish Brief, Begs Judge Not To Take Its Allowance: The $1,000 a day fine Todd Blanche would really like to avoid. Heartbreaking: DOJ Lawyers Used To Have To Follow Ethics Rules : While the current DOJ argues that government…",
           "published": "2026-07-22T23:44:00.000Z"
-        },
-        {
-          "title": "Biglaw Firm With A Stellar Rep On Associate Compensation",
-          "link": "https://abovethelaw.com/2026/07/biglaw-firm-with-a-stellar-rep-on-associate-compensation/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "More interesting might be who was left off the list. The post Biglaw Firm With A Stellar Rep On Associate Compensation appeared first on Above the Law .",
-          "published": "2026-07-22T23:14:00.000Z"
-        },
-        {
-          "title": "The Next President Should Throw Open The Gates Of Trade To BYD And Other Electric Automakers",
-          "link": "https://abovethelaw.com/2026/07/the-next-president-should-throw-open-the-gates-of-trade-to-byd-and-other-electric-automakers/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The risk-reward numbers are pretty clear on this. The post The Next President Should Throw Open The Gates Of Trade To BYD And Other Electric Automakers appeared first on Above the Law .",
-          "published": "2026-07-22T22:46:00.000Z"
-        },
-        {
-          "title": "A Class Action Lawsuit Will Determine Whether Nintendo Customers Are Entitled To Tariff Refunds",
-          "link": "https://abovethelaw.com/2026/07/a-class-action-lawsuit-will-determine-whether-nintendo-customers-are-entitled-to-tariff-refunds/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The issue isn't quite as simple as it seems. The post A Class Action Lawsuit Will Determine Whether Nintendo Customers Are Entitled To Tariff Refunds appeared first on Above the Law .",
-          "published": "2026-07-22T22:16:00.000Z"
-        },
-        {
-          "title": "Matt Damon Still Can’t Believe He Was Ketanji Brown Jackson’s College Scene Partner",
-          "link": "https://abovethelaw.com/2026/07/matt-damon-still-cant-believe-he-was-ketanji-brown-jacksons-college-scene-partner/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Justice Ketanji Brown Jackson's college memories gave the actor a story he'll never stop telling. The post Matt Damon Still Can’t Believe He Was Ketanji Brown Jackson’s College Scene Partner appeared first on Above the Law .",
-          "published": "2026-07-22T21:29:00.000Z"
         }
       ]
     }
