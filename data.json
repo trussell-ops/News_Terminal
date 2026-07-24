@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-24T15:20:42.121Z",
+  "updated": "2026-07-24T17:01:03.660Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "CDC says massive cyclospora outbreak is now in nine states",
+          "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The four newly linked states – Illinois, Kansas, Oklahoma and Pennsylvania – join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
+          "published": "2026-07-24T16:13:07.000Z"
+        },
         {
           "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
           "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
@@ -187,20 +195,116 @@
           "category": "markets",
           "snippet": "The future of the Ridgeline midsize pickup truck had been in flux, and the automaker said there will be a temporary production stoppage for the truck.",
           "published": "2026-07-23T17:02:35.000Z"
-        },
-        {
-          "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
-          "link": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
-          "published": "2026-07-23T16:20:45.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a…",
+          "published": "2026-07-24T17:00:00.000Z"
+        },
+        {
+          "title": "Meta is making its AI chatbot more like an assistant",
+          "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily…",
+          "published": "2026-07-24T17:00:00.000Z"
+        },
+        {
+          "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS&#x2F;x64 port",
+          "link": "https://openjdk.org/jeps/541",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T16:52:33.000Z"
+        },
+        {
+          "title": "Online Historical Encyclopaedia of Programming Languages",
+          "link": "https://hopl.info/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T16:47:23.000Z"
+        },
+        {
+          "title": "Must have tool for agentic workspace and Mac users",
+          "link": "https://github.com/rohankc69/clickit",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T16:46:14.000Z"
+        },
+        {
+          "title": "Apple won't let me show my app",
+          "link": "https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T16:41:16.000Z"
+        },
+        {
+          "title": "The rise and fall of language diversity through the Holocene",
+          "link": "https://www.science.org/doi/10.1126/science.adx4343",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T16:40:49.000Z"
+        },
+        {
+          "title": "Be skeptical of OpenAI's rogue hacker agent story",
+          "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T16:33:31.000Z"
+        },
+        {
+          "title": "Proving a Human Wrote Something",
+          "link": "https://gjtorikian.online/posts/proving-a-human-wrote-something/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T16:33:26.000Z"
+        },
+        {
+          "title": "Unitree As2-W",
+          "link": "https://www.unitree.com/As2-W/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T16:32:52.000Z"
+        },
+        {
+          "title": "Micro-SaaS Is Dead. Service With A Software Replaces It",
+          "link": "https://adriengonin.com/writing/service-with-a-software/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T16:27:58.000Z"
+        },
+        {
+          "title": "The front end framework for correctness: built on Effect, architected like Elm",
+          "link": "https://foldkit.dev/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T15:24:00.000Z"
+        },
+        {
+          "title": "This is the world's most advanced robotic servicing satellite—that we know about",
+          "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"These are things that tend to be really hard.\"",
+          "published": "2026-07-24T15:23:06.000Z"
+        },
         {
           "title": "Tesla’s car door defect could lead to tougher rules for everyone",
           "link": "https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules",
@@ -216,6 +320,14 @@
           "category": "tech",
           "snippet": "Most Chromebooks ship with only 8GB of RAM, which is enough for some people, but certainly not enough for me. Multitaskers who want more memory in their next Chromebook should check out Best Buy, which is discounting Acer’s Chromebook…",
           "published": "2026-07-24T15:11:03.000Z"
+        },
+        {
+          "title": "Codeberg Divides",
+          "link": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T15:05:06.000Z"
         },
         {
           "title": "Boox is taking on Xteink with its own tiny e-reader",
@@ -242,6 +354,14 @@
           "published": "2026-07-24T14:41:59.000Z"
         },
         {
+          "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
+          "link": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Relativity Space announced plans to build a second rocket factory near Cape Canaveral, Florida.",
+          "published": "2026-07-24T14:34:25.000Z"
+        },
+        {
           "title": "Co-Opting Linux Processes for High-Performance Network Simulation (2022)",
           "link": "https://www.usenix.org/conference/atc22/presentation/jansen",
           "source": "Hacker News",
@@ -266,138 +386,34 @@
           "published": "2026-07-24T14:23:39.000Z"
         },
         {
-          "title": "Preventing line breaks in elements",
-          "link": "https://alexwlchan.net/2026/non-breaking-code/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T14:20:17.000Z"
-        },
-        {
           "title": "Writing a Debugger from Scratch",
           "link": "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-24T14:06:03.000Z"
-        },
-        {
-          "title": "WebGPU Unleashed: A Practical Tutorial",
-          "link": "https://shi-yan.github.io/webgpuunleashed/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T14:04:50.000Z"
-        },
-        {
-          "title": "What I track in a day",
-          "link": "https://www.theverge.com/column/970056/optimizer-health-tracking-fitness-wearables-what-i-track-in-a-day",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Optimizer will be taking a two-week break and…",
-          "published": "2026-07-24T14:00:00.000Z"
-        },
-        {
-          "title": "Open Weights and American AI Leadership [pdf]",
-          "link": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T13:58:12.000Z"
-        },
-        {
-          "title": "Plants vs. Zombies for PlayStation 2",
-          "link": "https://github.com/OptiJuegos/pvz-ps2",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T13:57:22.000Z"
-        },
-        {
-          "title": "Interview with a Maintainer",
-          "link": "https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T13:51:48.000Z"
-        },
-        {
-          "title": "PCI DSS DMARC Requirement: What Section 5.4.1 Requires",
-          "link": "https://dmarcguard.io/blog/pci-dss/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T13:47:21.000Z"
-        },
-        {
-          "title": "My Emacs Configuration (Dired)",
-          "link": "https://eugene-andrienko.com/2026-07-05-my-emacs-configuration-dired.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T13:47:04.000Z"
-        },
-        {
-          "title": "Kaizen #4: Overhauled Homelab",
-          "link": "https://timharek.no/blog/kaizen-4/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T13:46:40.000Z"
-        },
-        {
-          "title": "Half-Life 2 running natively on HaikuOS",
-          "link": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T12:53:59.000Z"
-        },
-        {
-          "title": "Em dashes are fucking amazing",
-          "link": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T12:40:27.000Z"
-        },
-        {
-          "title": "Why is programming so captivating, yet so agonizing?",
-          "link": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T12:15:11.000Z"
-        },
-        {
-          "title": "Whack-a-drone",
-          "link": "https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "In Pasadena, California, there's a cute red brick courtyard where one storefront isn't like the rest. The glass doors open onto a sparse industrial hallway, which leads to a sunlit foyer with a large spiral staircase. Go up, and you'll…",
-          "published": "2026-07-24T12:00:00.000Z"
-        },
-        {
-          "title": "My security camera shipped a GitHub admin token in its login page",
-          "link": "https://hhh.hn/hanwha-github-token/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T11:54:41.000Z"
-        },
-        {
-          "title": "TikTok s protection of minors should not be opt-in, warns EU",
-          "link": "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "TikTok has attracted the ire of the European Union over its protection of children who use the video sharing platform. The European Commission announced preliminary findings today under the Digital Services Act (DSA) that offer specific…",
-          "published": "2026-07-24T11:40:03.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "One Year In, The HSF Kramer Merger Looks Like A Success With $2.4 Billion In Revenue",
+          "link": "https://abovethelaw.com/2026/07/one-year-in-the-hsf-kramer-merger-looks-like-a-success-with-2-4-billion-in-revenue/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The merged firm beat its own financial targets in year one, giving other merger-hungry Biglaw firms something to think about. The post One Year In, The HSF Kramer Merger Looks Like A Success With $2.4 Billion In Revenue appeared first on…",
+          "published": "2026-07-24T16:44:00.000Z"
+        },
+        {
+          "title": "Partners Should Sometimes Just Perform Work Rather Than Spend Time Delegating It To Associates",
+          "link": "https://abovethelaw.com/2026/07/partners-should-sometimes-just-perform-work-rather-than-spend-time-delegating-it-to-associates/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "You have to consider long- and short-term efficiencies. The post Partners Should Sometimes Just Perform Work Rather Than Spend Time Delegating It To Associates appeared first on Above the Law .",
+          "published": "2026-07-24T16:07:11.000Z"
+        },
         {
           "title": "How Appealing Weekly Roundup",
           "link": "https://abovethelaw.com/2026/07/how-appealing-weekly-roundup-178/",
@@ -463,7 +479,7 @@
           "published": "2026-07-23T23:32:00.000Z"
         },
         {
-          "title": "Trump’s petition for reconsideration of $5 million verdict in E. Jean Carroll case may be considered by the justices in August",
+          "title": "Trump’s petition for reconsideration of $5 million verdict in E. Jean Carroll case may be considered by the justices in August​‌‌‌‌​",
           "link": "https://www.scotusblog.com/2026/07/trumps-petition-for-reconsideration-of-5-million-verdict-in-e-jean-carroll-case-may-be-considere/",
           "source": "SCOTUSblog",
           "category": "legal",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Rep. Angie Craig introduced a bill to establish a public health insurance option on the ACA marketplaces and permanently extend enhanced premium tax credits. The post New Bill Seeks To Create Public Option On ACA Marketplaces appeared…",
           "published": "2026-07-23T14:03:00.000Z"
-        },
-        {
-          "title": "Nine justices, nine styles",
-          "link": "https://www.scotusblog.com/2026/07/nine-justices-nine-styles/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. By my count, the 58 oral arguments of October Term 2025 resulted in 5,095…",
-          "published": "2026-07-23T14:00:00.000Z"
-        },
-        {
-          "title": "Dissents on the emergency docket are not created equal",
-          "link": "https://www.scotusblog.com/2026/07/all-dissents-are-not-created-equal/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "By now, you have probably read a great deal about the Supreme Court’s emergency docket – and a fair amount about the justices who disagree with its orders. Over the past year, in this space alone, I have written about how long the court…",
-          "published": "2026-07-23T13:30:00.000Z"
         }
       ]
     }
