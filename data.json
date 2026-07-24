@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-23T23:52:21.850Z",
+  "updated": "2026-07-24T01:49:16.548Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+          "published": "2026-07-24T00:40:26.000Z"
+        },
         {
           "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
           "link": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
@@ -19,14 +27,6 @@
           "category": "markets",
           "snippet": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned. Dr Charles Woodburn",
           "published": "2026-07-23T23:04:19.000Z"
-        },
-        {
-          "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-          "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
-          "published": "2026-07-23T23:03:29.000Z"
         },
         {
           "title": "UK mortgage rates rise to highest level for a month",
@@ -202,7 +202,15 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+          "title": "The Visual 6502",
+          "link": "http://visual6502.org/JSSim/index.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-23T23:36:42.000Z"
+        },
+        {
+          "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
           "link": "https://arxiv.org/abs/2507.09369",
           "source": "Hacker News",
           "category": "tech",
@@ -224,22 +232,6 @@
           "category": "tech",
           "snippet": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs,…",
           "published": "2026-07-23T21:15:06.000Z"
-        },
-        {
-          "title": "Tell HN: Namecheap gave my account to an unverified third party",
-          "link": "https://news.ycombinator.com/item?id=49028037",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T21:05:29.000Z"
-        },
-        {
-          "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-          "link": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T20:52:19.000Z"
         },
         {
           "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
@@ -330,14 +322,6 @@
           "published": "2026-07-23T18:13:03.000Z"
         },
         {
-          "title": "Geekbench 7",
-          "link": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-23T18:11:46.000Z"
-        },
-        {
           "title": "Final Coyote vs. Acme trailer drops at SDCC",
           "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
           "source": "Ars Technica",
@@ -392,6 +376,22 @@
           "category": "tech",
           "snippet": "The case provides a novel report of the emergence of heterovirulence.",
           "published": "2026-07-23T16:58:26.000Z"
+        },
+        {
+          "title": "What happened to TheNumbers.com",
+          "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-23T16:53:33.000Z"
+        },
+        {
+          "title": "The arguments against open source AI are bad",
+          "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-23T16:49:57.000Z"
         }
       ]
     },
@@ -405,6 +405,14 @@
           "category": "legal",
           "snippet": "Liar, Liar: Todd Blanche's unique confirmation strategy . Stop Waiting For Cravath : Biglaw firms don't need permission anymore. It's time to make your money moves. That's A Pretty Big Malpractice Claim You've Got There: Holland Knight…",
           "published": "2026-07-23T23:32:00.000Z"
+        },
+        {
+          "title": "Trump’s petition for reconsideration of $5 million verdict in E. Jean Carroll case may be considered by the justices in August",
+          "link": "https://www.scotusblog.com/2026/07/trumps-petition-for-reconsideration-of-5-million-verdict-in-e-jean-carroll-case-may-be-considere/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Three days after the Supreme Court issued its first set of summer orders , President Donald Trump’s request for the Supreme Court to reconsider its decision to leave in place the 2023 verdict against him in a civil suit brought by E. Jean…",
+          "published": "2026-07-23T23:13:13.000Z"
         },
         {
           "title": "Congratulations On That Biglaw Leadership Role. Here s Your Second Job.",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Justice Ketanji Brown Jackson's college memories gave the actor a story he'll never stop telling. The post Matt Damon Still Can’t Believe He Was Ketanji Brown Jackson’s College Scene Partner appeared first on Above the Law .",
           "published": "2026-07-22T21:29:00.000Z"
-        },
-        {
-          "title": "Senate Democrats Reintroduce Supreme Court Term Limits Bill, And The Polling Has Never Been Friendlier",
-          "link": "https://abovethelaw.com/2026/07/senate-democrats-reintroduce-supreme-court-term-limits-bill-and-the-polling-has-never-been-friendlier/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Popular with Republican voters, not so much with Republican Senators... The post Senate Democrats Reintroduce Supreme Court Term Limits Bill, And The Polling Has Never Been Friendlier appeared first on Above the Law .",
-          "published": "2026-07-22T20:44:00.000Z"
         }
       ]
     }
