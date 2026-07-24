@@ -1,16 +1,24 @@
 {
-  "updated": "2026-07-24T18:53:10.401Z",
+  "updated": "2026-07-24T20:10:44.316Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "CDC says massive cyclospora outbreak is now in nine states",
+          "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
+          "published": "2026-07-24T19:53:01.000Z"
+        },
         {
           "title": "Trump vows to investigate EU over fining of US tech companies",
           "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-          "published": "2026-07-24T18:35:15.000Z"
+          "published": "2026-07-24T18:57:39.000Z"
         },
         {
           "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
@@ -19,14 +27,6 @@
           "category": "markets",
           "snippet": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
           "published": "2026-07-24T18:20:17.000Z"
-        },
-        {
-          "title": "CDC says massive cyclospora outbreak is now in nine states",
-          "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
-          "published": "2026-07-24T17:32:22.000Z"
         },
         {
           "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
@@ -202,6 +202,46 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Meta just created a moderation nightmare for its smart glasses",
+          "link": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Meta's smart glasses have been a PR headache for the company. Public backlash has been swift, and fierce; people are concerned about the erosion of privacy and expansion of surveillance. Some especially bad actors are using the glasses to…",
+          "published": "2026-07-24T19:23:44.000Z"
+        },
+        {
+          "title": "Qualcomm is about to raise prices and that s bad news for everyone",
+          "link": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Qualcomm sent a letter to customers on Friday warning of plans to increase its prices by \"a percentage in the double digits,\" Bloomberg reports. The price hikes will go into effect starting with products shipped after September 1st.…",
+          "published": "2026-07-24T19:14:23.000Z"
+        },
+        {
+          "title": "RFK Jr.'s hand-picked committee approves manufacture of peptides he uses",
+          "link": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "There's no human safety or efficacy data, but that no longer seems to matter.",
+          "published": "2026-07-24T19:10:09.000Z"
+        },
+        {
+          "title": "Midjourney bought the astrology app Co-Star",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported…",
+          "published": "2026-07-24T19:06:58.000Z"
+        },
+        {
+          "title": "Postgres LISTEN&#x2F;NOTIFY actually scales",
+          "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T19:05:53.000Z"
+        },
+        {
           "title": "DJI camera clone company Xtra is halting and refunding all preorders",
           "link": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
           "source": "The Verge",
@@ -234,12 +274,20 @@
           "published": "2026-07-24T18:07:08.000Z"
         },
         {
-          "title": "I got into YC by hacking it",
+          "title": "I got into YC (Startup School) by hacking it",
           "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-24T18:03:22.000Z"
+        },
+        {
+          "title": "Judge rebuffs Trump admin demand for phone records from NYT reporters",
+          "link": "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"We can quash the subpoenas, or you could withdraw the subpoenas,” judge told US.",
+          "published": "2026-07-24T18:02:21.000Z"
         },
         {
           "title": "Gsxui – Shadcn-style components for Go",
@@ -250,12 +298,28 @@
           "published": "2026-07-24T17:59:08.000Z"
         },
         {
+          "title": "European Union grants US request to restrict satellite images of Iran War region",
+          "link": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "New delay on Copernicus satellite pics comes as US ramps up war with Iran again.",
+          "published": "2026-07-24T17:45:05.000Z"
+        },
+        {
           "title": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
           "link": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
           "source": "The Verge",
           "category": "tech",
           "snippet": "After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits Prime Video on November 25th with all eight episodes dropping…",
           "published": "2026-07-24T17:40:00.000Z"
+        },
+        {
+          "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+          "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
+          "published": "2026-07-24T17:31:26.000Z"
         },
         {
           "title": "You can’t ignore Google Zero anymore",
@@ -328,76 +392,28 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-24T16:47:23.000Z"
-        },
-        {
-          "title": "The rise and fall of language diversity through the Holocene",
-          "link": "https://www.science.org/doi/10.1126/science.adx4343",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T16:40:49.000Z"
-        },
-        {
-          "title": "Be skeptical of OpenAI's rogue hacker agent story",
-          "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T16:33:31.000Z"
-        },
-        {
-          "title": "Proving a Human Wrote Something",
-          "link": "https://gjtorikian.online/posts/proving-a-human-wrote-something/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T16:33:26.000Z"
-        },
-        {
-          "title": "Unitree As2-W",
-          "link": "https://www.unitree.com/As2-W/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T16:32:52.000Z"
-        },
-        {
-          "title": "The front end framework for correctness: built on Effect, architected like Elm",
-          "link": "https://foldkit.dev/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T15:24:00.000Z"
-        },
-        {
-          "title": "This is the world's most advanced robotic servicing satellite—that we know about",
-          "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"These are things that tend to be really hard.\"",
-          "published": "2026-07-24T15:23:06.000Z"
-        },
-        {
-          "title": "Tesla’s car door defect could lead to tougher rules for everyone",
-          "link": "https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Tesla's electronic door handles that have been linked to several deaths could lead to tougher safety rules for the entire auto industry. In a notice published today, the National Highway Traffic Safety Administration said that complaints…",
-          "published": "2026-07-24T15:14:04.000Z"
-        },
-        {
-          "title": "One of the best 2-in-1 Chromebooks is almost $200 off for today only",
-          "link": "https://www.theverge.com/gadgets/970559/acer-chromebook-spin-anker-charger-nintendo-logitech-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Most Chromebooks ship with only 8GB of RAM, which is enough for some people, but certainly not enough for me. Multitaskers who want more memory in their next Chromebook should check out Best Buy, which is discounting Acer’s Chromebook…",
-          "published": "2026-07-24T15:11:03.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Marketing Roundup: Optimizing Content For AI Answer Engines, Revamping Your Operating Model, And More",
+          "link": "https://abovethelaw.com/2026/07/marketing-roundup-choosing-your-board-of-advisors-what-parenting-teaches-us-about-communication-and-more-2/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A roundup of the latest from Strategies Voices, the official online publication of LMA. The post Marketing Roundup: Optimizing Content For AI Answer Engines, Revamping Your Operating Model, And More appeared first on Above the Law .",
+          "published": "2026-07-24T19:44:56.000Z"
+        },
+        {
+          "title": "New Jersey Has A Message For Lawyers: Don t Sleep With Your Clients",
+          "link": "https://abovethelaw.com/2026/07/new-jersey-has-a-message-for-lawyers-dont-sleep-with-your-clients/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The state supreme court embraced a bright-line ethics rule despite concerns from the state bar. The post New Jersey Has A Message For Lawyers: Don t Sleep With Your Clients appeared first on Above the Law .",
+          "published": "2026-07-24T19:17:42.000Z"
+        },
         {
           "title": "Only A Billionaire Could Fail The Bar Exam This Profitably",
           "link": "https://abovethelaw.com/2026/07/only-a-billionaire-could-fail-the-bar-exam-this-profitably/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Every element of a Computer Fraud and Abuse Act violation seems to be sitting right there in OpenAI's own announcement. The post OpenAI s New Model Hacked A Website On Its Own Humans Would Go To Prison For That appeared first on Above the…",
           "published": "2026-07-23T17:45:00.000Z"
-        },
-        {
-          "title": "Law Librarians In The City Of The Rock And Roll Hall Of Fame",
-          "link": "https://abovethelaw.com/2026/07/law-librarians-in-the-city-of-the-rock-and-roll-hall-of-fame/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The conference, like most law librarians, was low key -- and that's what was so great about it. The post Law Librarians In The City Of The Rock And Roll Hall Of Fame appeared first on Above the Law .",
-          "published": "2026-07-23T17:01:11.000Z"
-        },
-        {
-          "title": "Hell Week Is Coming",
-          "link": "https://abovethelaw.com/2026/07/hell-week-is-coming/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Everyone who has passed the bar, whatever the year, has horror stories about the exam. The post Hell Week Is Coming appeared first on Above the Law .",
-          "published": "2026-07-23T16:12:00.000Z"
         }
       ]
     }
