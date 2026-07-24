@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-24T21:33:55.698Z",
+  "updated": "2026-07-24T22:53:18.360Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+          "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+          "published": "2026-07-24T22:43:56.000Z"
+        },
         {
           "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
           "link": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
@@ -11,14 +19,6 @@
           "category": "markets",
           "snippet": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
           "published": "2026-07-24T21:24:09.000Z"
-        },
-        {
-          "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-          "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
-          "published": "2026-07-24T20:33:21.000Z"
         },
         {
           "title": "Trump vows to investigate EU over fining of US tech companies",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+          "link": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud?…",
+          "published": "2026-07-24T22:27:46.000Z"
+        },
+        {
           "title": "Canadian legislator reads out apparent LLM response in floor speech",
           "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
           "source": "Ars Technica",
@@ -218,12 +226,20 @@
           "published": "2026-07-24T21:05:51.000Z"
         },
         {
-          "title": "Show HN: Max Studio Tools (C++ DSP Modules for Max and Ableton Live)",
+          "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
           "link": "https://github.com/apresta/max-studio-tools",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-24T21:03:10.000Z"
+        },
+        {
+          "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+          "link": "https://artificialanalysis.ai/models",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T19:45:10.000Z"
         },
         {
           "title": "Roku raises streaming stick prices by up to 60 percent",
@@ -354,35 +370,11 @@
           "published": "2026-07-24T17:29:48.000Z"
         },
         {
-          "title": "The small, real, original web",
-          "link": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T17:28:59.000Z"
-        },
-        {
-          "title": "DuckPGQ – A DuckDB community extension for graph workloads",
-          "link": "https://duckpgq.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T17:00:23.000Z"
-        },
-        {
           "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
           "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a…",
-          "published": "2026-07-24T17:00:00.000Z"
-        },
-        {
-          "title": "Meta is making its AI chatbot more like an assistant",
-          "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily…",
           "published": "2026-07-24T17:00:00.000Z"
         },
         {
@@ -392,12 +384,36 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-24T16:57:41.000Z"
+        },
+        {
+          "title": "Don't Take the Black Pill [video]",
+          "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T16:48:57.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "SCOTUSblog Co-Founder Headed To Prison",
+          "link": "https://abovethelaw.com/2026/07/scotusblog-co-founder-headed-to-prison/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Plus millions owed in restitution. The post SCOTUSblog Co-Founder Headed To Prison appeared first on Above the Law .",
+          "published": "2026-07-24T22:46:00.000Z"
+        },
+        {
+          "title": "Stat(s) Of The Week: Believing In AI",
+          "link": "https://abovethelaw.com/2026/07/stats-of-the-week-believing-in-ai/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Measuring it, not so much. The post Stat(s) Of The Week: Believing In AI appeared first on Above the Law .",
+          "published": "2026-07-24T22:16:00.000Z"
+        },
         {
           "title": "How To Create A Free Tool To Capture Leads In Your Practice Niche",
           "link": "https://abovethelaw.com/2026/07/how-to-create-a-free-tool-to-capture-leads-in-your-practice-niche/",
@@ -543,7 +559,7 @@
           "published": "2026-07-23T23:32:00.000Z"
         },
         {
-          "title": "Trump’s petition for reconsideration of $5 million verdict in E. Jean Carroll case may be considered by the justices in August​‌‌‌‌​",
+          "title": "Trump’s petition for reconsideration of $5 million verdict in E. Jean Carroll case may be considered by the justices in August",
           "link": "https://www.scotusblog.com/2026/07/trumps-petition-for-reconsideration-of-5-million-verdict-in-e-jean-carroll-case-may-be-considere/",
           "source": "SCOTUSblog",
           "category": "legal",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "A self-scheduled, prepaid consultation fee is exactly the kind of low-stakes, high-access tool solos and smalls should be able to use without a compliance department. The post It s Easier To Get Into Harvard Law School Than To Accept A…",
           "published": "2026-07-23T21:30:00.000Z"
-        },
-        {
-          "title": "Kirkland Plans To Play To Win In Biglaw s AI Talent War",
-          "link": "https://abovethelaw.com/2026/07/kirkland-plans-to-play-to-win-in-biglaws-ai-talent-war/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The firm's hiring ambitions reflect surging demand for partners advising on the real estate behind AI infrastructure. The post Kirkland Plans To Play To Win In Biglaw s AI Talent War appeared first on Above the Law .",
-          "published": "2026-07-23T20:44:00.000Z"
-        },
-        {
-          "title": "Todd Blanche s Confirmation Strategy: Call Two Senate Judiciary Committee Members Liars",
-          "link": "https://abovethelaw.com/2026/07/todd-blanches-confirmation-strategy-call-two-senate-judiciary-committee-members-liars/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "It's a choice. The post Todd Blanche s Confirmation Strategy: Call Two Senate Judiciary Committee Members Liars appeared first on Above the Law .",
-          "published": "2026-07-23T19:58:36.000Z"
         }
       ]
     }
