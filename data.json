@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-24T13:45:33.820Z",
+  "updated": "2026-07-24T15:20:42.121Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+          "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
+          "published": "2026-07-24T14:02:26.000Z"
+        },
         {
           "title": "We split money equally even when one of us earned a lot more",
           "link": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
           "published": "2026-07-23T16:20:45.000Z"
-        },
-        {
-          "title": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
-          "link": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Shares of Albertsons sank Thursday after the grocer reported softness in its core business and lowered its full-year outlook as a result.",
-          "published": "2026-07-23T15:41:37.000Z"
         }
       ]
     },
@@ -202,20 +202,156 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Patreon laying off 20% of staff",
-          "link": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
-          "source": "Hacker News",
+          "title": "Tesla’s car door defect could lead to tougher rules for everyone",
+          "link": "https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules",
+          "source": "The Verge",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T13:02:49.000Z"
+          "snippet": "Tesla's electronic door handles that have been linked to several deaths could lead to tougher safety rules for the entire auto industry. In a notice published today, the National Highway Traffic Safety Administration said that complaints…",
+          "published": "2026-07-24T15:14:04.000Z"
         },
         {
-          "title": "Ah, the Codeberg Drama",
-          "link": "https://gagliardoni.net/#20260724_codeberg_drama",
+          "title": "One of the best 2-in-1 Chromebooks is almost $200 off for today only",
+          "link": "https://www.theverge.com/gadgets/970559/acer-chromebook-spin-anker-charger-nintendo-logitech-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Most Chromebooks ship with only 8GB of RAM, which is enough for some people, but certainly not enough for me. Multitaskers who want more memory in their next Chromebook should check out Best Buy, which is discounting Acer’s Chromebook…",
+          "published": "2026-07-24T15:11:03.000Z"
+        },
+        {
+          "title": "Boox is taking on Xteink with its own tiny e-reader",
+          "link": "https://www.theverge.com/tech/970618/onyx-boox-picco-ereader-xteink",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Boox's new Tile lineup will take on Xteink's popular e-readers that are small enough to stick on the back of an iPhone with MagSafe. As spotted by Good E-Reader, the first one is the Picco, which will feature a 3.97-inch front-lit,…",
+          "published": "2026-07-24T15:00:03.000Z"
+        },
+        {
+          "title": "The tech-broification of American science has officially begun",
+          "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the…",
+          "published": "2026-07-24T14:43:55.000Z"
+        },
+        {
+          "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+          "link": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-24T13:00:18.000Z"
+          "published": "2026-07-24T14:41:59.000Z"
+        },
+        {
+          "title": "Co-Opting Linux Processes for High-Performance Network Simulation (2022)",
+          "link": "https://www.usenix.org/conference/atc22/presentation/jansen",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T14:28:38.000Z"
+        },
+        {
+          "title": "Mag Computer: A Mag History of RAM (1960–2025)",
+          "link": "https://magworld.pw/episodes/computer/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T14:26:09.000Z"
+        },
+        {
+          "title": "3GPP Version 19",
+          "link": "https://www.3gpp.org/specifications-technologies/releases/release-19",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T14:23:39.000Z"
+        },
+        {
+          "title": "Preventing line breaks in elements",
+          "link": "https://alexwlchan.net/2026/non-breaking-code/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T14:20:17.000Z"
+        },
+        {
+          "title": "Writing a Debugger from Scratch",
+          "link": "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T14:06:03.000Z"
+        },
+        {
+          "title": "WebGPU Unleashed: A Practical Tutorial",
+          "link": "https://shi-yan.github.io/webgpuunleashed/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T14:04:50.000Z"
+        },
+        {
+          "title": "What I track in a day",
+          "link": "https://www.theverge.com/column/970056/optimizer-health-tracking-fitness-wearables-what-i-track-in-a-day",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Optimizer will be taking a two-week break and…",
+          "published": "2026-07-24T14:00:00.000Z"
+        },
+        {
+          "title": "Open Weights and American AI Leadership [pdf]",
+          "link": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T13:58:12.000Z"
+        },
+        {
+          "title": "Plants vs. Zombies for PlayStation 2",
+          "link": "https://github.com/OptiJuegos/pvz-ps2",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T13:57:22.000Z"
+        },
+        {
+          "title": "Interview with a Maintainer",
+          "link": "https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T13:51:48.000Z"
+        },
+        {
+          "title": "PCI DSS DMARC Requirement: What Section 5.4.1 Requires",
+          "link": "https://dmarcguard.io/blog/pci-dss/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T13:47:21.000Z"
+        },
+        {
+          "title": "My Emacs Configuration (Dired)",
+          "link": "https://eugene-andrienko.com/2026-07-05-my-emacs-configuration-dired.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T13:47:04.000Z"
+        },
+        {
+          "title": "Kaizen #4: Overhauled Homelab",
+          "link": "https://timharek.no/blog/kaizen-4/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T13:46:40.000Z"
+        },
+        {
+          "title": "Half-Life 2 running natively on HaikuOS",
+          "link": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T12:53:59.000Z"
         },
         {
           "title": "Em dashes are fucking amazing",
@@ -226,28 +362,12 @@
           "published": "2026-07-24T12:40:27.000Z"
         },
         {
-          "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
-          "link": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T12:34:28.000Z"
-        },
-        {
           "title": "Why is programming so captivating, yet so agonizing?",
           "link": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-24T12:15:11.000Z"
-        },
-        {
-          "title": "I Tried Building a Real App with AI. It Took a Year",
-          "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T12:00:17.000Z"
         },
         {
           "title": "Whack-a-drone",
@@ -266,138 +386,42 @@
           "published": "2026-07-24T11:54:41.000Z"
         },
         {
-          "title": "The case for MUDs in modern times",
-          "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T11:46:40.000Z"
-        },
-        {
           "title": "TikTok s protection of minors should not be opt-in, warns EU",
           "link": "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy",
           "source": "The Verge",
           "category": "tech",
           "snippet": "TikTok has attracted the ire of the European Union over its protection of children who use the video sharing platform. The European Commission announced preliminary findings today under the Digital Services Act (DSA) that offer specific…",
           "published": "2026-07-24T11:40:03.000Z"
-        },
-        {
-          "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
-          "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
-          "published": "2026-07-24T11:20:43.000Z"
-        },
-        {
-          "title": "The IBM PC, Part 1: Arrival",
-          "link": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T11:13:59.000Z"
-        },
-        {
-          "title": "Facebook considers giving up and becoming TikTok",
-          "link": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Facebook is planning some big changes to try and keep its users from jumping to rival social platforms like TikTok - changes that sound dubiously similar to becoming a TikTok clone. Facebook head Tom Alison announced today that the…",
-          "published": "2026-07-24T11:00:00.000Z"
-        },
-        {
-          "title": "Game of Trees – Git-based version control from OpenBSD folks",
-          "link": "https://www.gameoftrees.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T10:15:29.000Z"
-        },
-        {
-          "title": "How Do We Stop Vibe Coding?",
-          "link": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T10:12:39.000Z"
-        },
-        {
-          "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
-          "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T09:52:58.000Z"
-        },
-        {
-          "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "link": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T09:31:48.000Z"
-        },
-        {
-          "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
-          "link": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T09:26:40.000Z"
-        },
-        {
-          "title": "Hetzner is working on LLM Inference",
-          "link": "https://sliplane.io/blog/hetzner-inference",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T09:24:44.000Z"
-        },
-        {
-          "title": "Microsoft pressures LG into killing unwanted McAfee ads",
-          "link": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups. In response to complaints about the LG bloatware, Microsoft's Windows chief, Pavan Davuluri, said that LG has…",
-          "published": "2026-07-24T09:20:09.000Z"
-        },
-        {
-          "title": "Nothing works and everyone is euphoric",
-          "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T09:08:17.000Z"
-        },
-        {
-          "title": "The day Steve Jobs dissed me in a keynote (2010)",
-          "link": "https://sive.rs/itunes",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T09:07:44.000Z"
-        },
-        {
-          "title": "The Book Prize Index",
-          "link": "https://book-prize-index.vercel.app",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T08:29:11.000Z"
-        },
-        {
-          "title": "It's getting harder to focus every day",
-          "link": "https://glyphack.com/attention/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T08:18:30.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "How Appealing Weekly Roundup",
+          "link": "https://abovethelaw.com/2026/07/how-appealing-weekly-roundup-178/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
+          "published": "2026-07-24T15:12:00.000Z"
+        },
+        {
+          "title": "Brendan Carr Lobs More Empty Threats At ABC For Not Airing Trump’s Election Fraud Lies",
+          "link": "https://abovethelaw.com/2026/07/brendan-carr-lobs-more-empty-threats-at-abc-for-not-airing-trumps-election-fraud-lies/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "From the pathetic,-weak-men dept The post Brendan Carr Lobs More Empty Threats At ABC For Not Airing Trump’s Election Fraud Lies appeared first on Above the Law .",
+          "published": "2026-07-24T14:28:01.000Z"
+        },
+        {
+          "title": "The Constitutional Court of South Africa",
+          "link": "https://www.scotusblog.com/2026/07/the-constitutional-court-of-south-africa/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Welcome to SCOTUSblog’s recurring series in which we interview experts on different supreme courts around the world and how they compare to our own. Today’s column focuses on the Constitutional Court of South Africa. To help me understand…",
+          "published": "2026-07-24T14:00:00.000Z"
+        },
         {
           "title": "Is Elena Kagan the stare decisis justice?",
           "link": "https://www.scotusblog.com/2026/07/is-elena-kagan-the-stare-decisis-justice/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "By now, you have probably read a great deal about the Supreme Court’s emergency docket – and a fair amount about the justices who disagree with its orders. Over the past year, in this space alone, I have written about how long the court…",
           "published": "2026-07-23T13:30:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 07.23.26",
-          "link": "https://abovethelaw.com/2026/07/morning-docket-07-23-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Holland Knight sued for $1.2 billion by embattled client hit with multiple state AG cases. [ Reuters ] * Delaware adapting to future of AI managed companies. [ Bloomberg Law News ] * Peter Navarro's contempt conviction upheld by D.C.…",
-          "published": "2026-07-23T13:20:35.000Z"
-        },
-        {
-          "title": "Democrats push Supreme Court term limits",
-          "link": "https://www.scotusblog.com/2026/07/democrats-push-supreme-court-term-limits/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, SCOTUS’ prediction markets policy is facing scrutiny.",
-          "published": "2026-07-23T13:00:00.000Z"
-        },
-        {
-          "title": "When You Run Out Of Law, Reach For Absurd See Also",
-          "link": "https://abovethelaw.com/2026/07/when-you-run-out-of-law-reach-for-absurd-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "DOJ Files Childish Brief, Begs Judge Not To Take Its Allowance: The $1,000 a day fine Todd Blanche would really like to avoid. Heartbreaking: DOJ Lawyers Used To Have To Follow Ethics Rules : While the current DOJ argues that government…",
-          "published": "2026-07-22T23:44:00.000Z"
         }
       ]
     }
