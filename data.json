@@ -1,24 +1,16 @@
 {
-  "updated": "2026-07-24T20:10:44.316Z",
+  "updated": "2026-07-24T21:33:55.698Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "CDC says massive cyclospora outbreak is now in nine states",
-          "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+          "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+          "link": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
           "source": "CNBC Business",
           "category": "markets",
-          "snippet": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
-          "published": "2026-07-24T19:53:01.000Z"
-        },
-        {
-          "title": "Trump vows to investigate EU over fining of US tech companies",
-          "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-          "published": "2026-07-24T18:57:39.000Z"
+          "snippet": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
+          "published": "2026-07-24T21:24:09.000Z"
         },
         {
           "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
@@ -26,7 +18,23 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
-          "published": "2026-07-24T18:20:17.000Z"
+          "published": "2026-07-24T20:33:21.000Z"
+        },
+        {
+          "title": "Trump vows to investigate EU over fining of US tech companies",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+          "published": "2026-07-24T20:23:58.000Z"
+        },
+        {
+          "title": "CDC says massive cyclospora outbreak is now in nine states",
+          "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
+          "published": "2026-07-24T19:53:01.000Z"
         },
         {
           "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
@@ -187,20 +195,44 @@
           "category": "markets",
           "snippet": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs.",
           "published": "2026-07-23T20:14:12.000Z"
-        },
-        {
-          "title": "Burnham says 20% business rates cut for English pubs 'a first step'",
-          "link": "https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Some hospitality firms will get a discount from next April but hotels and restaurants won't get a cut.",
-          "published": "2026-07-23T19:33:09.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Canadian legislator reads out apparent LLM response in floor speech",
+          "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"Here’s a more natural, flowing version of that section...\"",
+          "published": "2026-07-24T21:25:15.000Z"
+        },
+        {
+          "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+          "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Models are improving quickly, but the cheaper options are often good enough.",
+          "published": "2026-07-24T21:05:51.000Z"
+        },
+        {
+          "title": "Show HN: Max Studio Tools (C++ DSP Modules for Max and Ableton Live)",
+          "link": "https://github.com/apresta/max-studio-tools",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-24T21:03:10.000Z"
+        },
+        {
+          "title": "Roku raises streaming stick prices by up to 60 percent",
+          "link": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
+          "published": "2026-07-24T19:41:06.000Z"
+        },
         {
           "title": "Meta just created a moderation nightmare for its smart glasses",
           "link": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
@@ -266,15 +298,7 @@
           "published": "2026-07-24T18:07:19.000Z"
         },
         {
-          "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-          "link": "https://blog.cloudflare.com/bgp-origin-attribute/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T18:07:08.000Z"
-        },
-        {
-          "title": "I got into YC (Startup School) by hacking it",
+          "title": "I got into YC Startup School by hacking it",
           "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
           "source": "Hacker News",
           "category": "tech",
@@ -368,36 +392,36 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-24T16:57:41.000Z"
-        },
-        {
-          "title": "JEP 541: Deprecate the macOS&#x2F;x64 Port for Removal",
-          "link": "https://openjdk.org/jeps/541",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T16:52:33.000Z"
-        },
-        {
-          "title": "Don't Take the Black Pill [video]",
-          "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T16:48:57.000Z"
-        },
-        {
-          "title": "Online Historical Encyclopaedia of Programming Languages",
-          "link": "https://hopl.info/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T16:47:23.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "How To Create A Free Tool To Capture Leads In Your Practice Niche",
+          "link": "https://abovethelaw.com/2026/07/how-to-create-a-free-tool-to-capture-leads-in-your-practice-niche/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "You will want to place this lead capture technique in the ‘early’ stages of your marketing funnel, where it can not only collect critical information but underscore your law firm’s value and authority. The post How To Create A Free Tool…",
+          "published": "2026-07-24T21:15:00.000Z"
+        },
+        {
+          "title": "Did Jim Jordan Outsource This Jack Smith Criminal Referral To ChatGPT?",
+          "link": "https://abovethelaw.com/2026/07/did-jim-jordan-outsource-this-jack-smith-criminal-referral-to-chatgpt/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "What even is this shit? The post Did Jim Jordan Outsource This Jack Smith Criminal Referral To ChatGPT? appeared first on Above the Law .",
+          "published": "2026-07-24T20:44:00.000Z"
+        },
+        {
+          "title": "What It Takes for Women to Break Through in Litigation",
+          "link": "https://abovethelaw.com/2026/07/what-it-takes-for-women-to-break-through-in-litigation/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Real advice from the front lines of the legal profession. The post What It Takes for Women to Break Through in Litigation appeared first on Above the Law .",
+          "published": "2026-07-24T20:15:00.000Z"
+        },
         {
           "title": "Marketing Roundup: Optimizing Content For AI Answer Engines, Revamping Your Operating Model, And More",
           "link": "https://abovethelaw.com/2026/07/marketing-roundup-choosing-your-board-of-advisors-what-parenting-teaches-us-about-communication-and-more-2/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "It's a choice. The post Todd Blanche s Confirmation Strategy: Call Two Senate Judiciary Committee Members Liars appeared first on Above the Law .",
           "published": "2026-07-23T19:58:36.000Z"
-        },
-        {
-          "title": "Biglaw Firm Facing $1.2 Billion Malpractice Lawsuit Over The Business Model It Allegedly Built",
-          "link": "https://abovethelaw.com/2026/07/biglaw-firm-facing-1-2-billion-malpractice-lawsuit-over-the-business-model-it-allegedly-built/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "According to the complaint, Holland Knight should have designed a lawful version of its product -- or told the company it couldn't be done. The post Biglaw Firm Facing $1.2 Billion Malpractice Lawsuit Over The Business Model It Allegedly…",
-          "published": "2026-07-23T19:16:38.000Z"
-        },
-        {
-          "title": "Enough Already: Biglaw Needs To Stop Waiting For Cravath",
-          "link": "https://abovethelaw.com/2026/07/enough-already-biglaw-needs-to-stop-waiting-for-cravath/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The market has had weeks to act. Instead, Biglaw is still waiting for permission. The post Enough Already: Biglaw Needs To Stop Waiting For Cravath appeared first on Above the Law .",
-          "published": "2026-07-23T18:32:00.000Z"
-        },
-        {
-          "title": "OpenAI s New Model Hacked A Website On Its Own Humans Would Go To Prison For That",
-          "link": "https://abovethelaw.com/2026/07/openais-new-model-hacked-a-website-on-its-own-humans-would-go-to-prison-for-that/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Every element of a Computer Fraud and Abuse Act violation seems to be sitting right there in OpenAI's own announcement. The post OpenAI s New Model Hacked A Website On Its Own Humans Would Go To Prison For That appeared first on Above the…",
-          "published": "2026-07-23T17:45:00.000Z"
         }
       ]
     }
