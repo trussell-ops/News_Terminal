@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T15:56:49.063Z",
+  "updated": "2026-07-25T16:51:46.038Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,76 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Rauno's Field Notes #2",
+          "link": "https://rauno.me/notes/2",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T16:39:55.000Z"
+        },
+        {
+          "title": "Writing a (valid) C program without main()",
+          "link": "https://labs.iximiuz.com/tutorials/c-program-without-main-a1eea557",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T16:21:13.000Z"
+        },
+        {
+          "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
+          "link": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T16:09:58.000Z"
+        },
+        {
+          "title": "Bringing PyTorch Monarch to AMD GPUs",
+          "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T15:55:27.000Z"
+        },
+        {
+          "title": "The Dark Night of Mathematics",
+          "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T15:54:59.000Z"
+        },
+        {
+          "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
+          "link": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T15:51:26.000Z"
+        },
+        {
+          "title": "The whole premise of checking for human writing is daft",
+          "link": "https://mohammedshehu.com/checking-for-human-writing-is-daft/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T15:46:11.000Z"
+        },
+        {
           "title": "Synth historian Oli Freke will spend big on a good bicycle",
           "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins.…",
           "published": "2026-07-25T15:15:00.000Z"
+        },
+        {
+          "title": "Engineering management after the cost of code collapsed",
+          "link": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T15:10:51.000Z"
         },
         {
           "title": "Teenage Engineering’s unique music machines are 30 percent off",
@@ -218,12 +282,44 @@
           "published": "2026-07-25T15:00:00.000Z"
         },
         {
+          "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T14:49:49.000Z"
+        },
+        {
+          "title": "Task-centered iproute2 user guide",
+          "link": "https://baturin.org/docs/iproute2/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T14:32:16.000Z"
+        },
+        {
+          "title": "Scanwheel is a drum style mechanical television you can build yourself",
+          "link": "https://github.com/AncientJames/Scanwheel/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T14:10:43.000Z"
+        },
+        {
           "title": "Warner Bros. is suing Amazon for poaching employees",
           "link": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees, including Pia Barlow, former senior VP for originals marketing. In the complaint, Warner says that \"Amazon has chosen to ride on the…",
           "published": "2026-07-25T14:05:12.000Z"
+        },
+        {
+          "title": "My web version of Mars MIPS, now have builtin C compiler",
+          "link": "https://webmars.nfiles.top/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T13:42:28.000Z"
         },
         {
           "title": "Bitchat Is Now on Radicle",
@@ -296,102 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-25T07:51:19.000Z"
-        },
-        {
-          "title": "Forget expensive sleepbuds. Buy this pillow instead",
-          "link": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Tech companies love to sell us expensive gadgets to solve all of life's little problems. Sleepbuds sold by the likes of Anker and Ozlo are a good example. These miniature marvels of engineering sit flush in the ear, and allow…",
-          "published": "2026-07-25T07:00:00.000Z"
-        },
-        {
-          "title": "Android May Soon Restrict On-Device ADB",
-          "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T06:57:14.000Z"
-        },
-        {
-          "title": "ARC-AGI Leaderboard",
-          "link": "https://arcprize.org/leaderboard",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T06:31:40.000Z"
-        },
-        {
-          "title": "Extinct Media Museum Tokyo",
-          "link": "https://extinct-media-museum.blog.jp/otemachi/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T05:51:27.000Z"
-        },
-        {
-          "title": "UK AISI &#x2F; Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-          "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T04:20:21.000Z"
-        },
-        {
-          "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-          "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T01:44:12.000Z"
-        },
-        {
-          "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-          "link": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-24T23:13:18.000Z"
-        },
-        {
-          "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-          "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"Any potential damage will be assessed when it is safe to do so.\"",
-          "published": "2026-07-24T22:28:20.000Z"
-        },
-        {
-          "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
-          "link": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud?…",
-          "published": "2026-07-24T22:27:46.000Z"
-        },
-        {
-          "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-          "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
-          "published": "2026-07-24T21:56:02.000Z"
-        },
-        {
-          "title": "Canadian legislator reads out apparent LLM response in floor speech",
-          "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"Here’s a more natural, flowing version of that section...\"",
-          "published": "2026-07-24T21:25:15.000Z"
-        },
-        {
-          "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-          "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Models are improving quickly, but the cheaper options are often good enough.",
-          "published": "2026-07-24T21:05:51.000Z"
         }
       ]
     },
