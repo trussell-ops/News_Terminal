@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T17:51:22.141Z",
+  "updated": "2026-07-25T18:53:21.784Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,20 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Canada is taking an outsized role in the construction of the post-American world",
-          "link": "https://www.theglobeandmail.com/opinion/article-carney-canada-role-post-american-world-trump/",
+          "title": "Tile's security is so bad it's a feature for stalkers",
+          "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-25T17:38:48.000Z"
+          "published": "2026-07-25T18:18:42.000Z"
+        },
+        {
+          "title": "Google basically confirms the Pixel 11 is getting a price hike",
+          "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion…",
+          "published": "2026-07-25T18:13:36.000Z"
         },
         {
           "title": "Rauno's Field Notes #2",
@@ -216,22 +224,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-25T16:39:55.000Z"
-        },
-        {
-          "title": "Politician reads AI prompt during assembly",
-          "link": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T16:31:15.000Z"
-        },
-        {
-          "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
-          "link": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T16:09:58.000Z"
         },
         {
           "title": "Bringing PyTorch Monarch to AMD GPUs",
@@ -266,6 +258,14 @@
           "published": "2026-07-25T15:15:00.000Z"
         },
         {
+          "title": "Engineering management after the cost of code collapsed",
+          "link": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T15:10:51.000Z"
+        },
+        {
           "title": "Teenage Engineering’s unique music machines are 30 percent off",
           "link": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
           "source": "The Verge",
@@ -274,7 +274,7 @@
           "published": "2026-07-25T15:00:00.000Z"
         },
         {
-          "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title": "Open-weight AI is having its Kubernetes moment",
           "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
           "source": "Hacker News",
           "category": "tech",
@@ -306,6 +306,14 @@
           "published": "2026-07-25T14:05:12.000Z"
         },
         {
+          "title": "The Silurian Hypothesis (2020)",
+          "link": "https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T13:48:11.000Z"
+        },
+        {
           "title": "My web version of Mars MIPS, now have builtin C compiler",
           "link": "https://webmars.nfiles.top/",
           "source": "Hacker News",
@@ -314,7 +322,7 @@
           "published": "2026-07-25T13:42:28.000Z"
         },
         {
-          "title": "Bitchat Is Now on Radicle",
+          "title": "Bitchat is now on Radicle",
           "link": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
           "source": "Hacker News",
           "category": "tech",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-25T07:51:19.000Z"
-        },
-        {
-          "title": "Forget expensive sleepbuds. Buy this pillow instead",
-          "link": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Tech companies love to sell us expensive gadgets to solve all of life's little problems. Sleepbuds sold by the likes of Anker and Ozlo are a good example. These miniature marvels of engineering sit flush in the ear, and allow…",
-          "published": "2026-07-25T07:00:00.000Z"
         }
       ]
     },
