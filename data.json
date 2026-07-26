@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T18:57:06.016Z",
+  "updated": "2026-07-26T20:06:15.691Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -38,7 +38,7 @@
         },
         {
           "title": "Money Box",
-          "link": "https://www.bbc.co.uk/sounds/play/m002zg12?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "What might the new team at the top of government mean for your money?",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Apple is banking on privacy to set its smart glasses apart",
+          "link": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy…",
+          "published": "2026-07-26T19:36:38.000Z"
+        },
+        {
           "title": "The US is charging an American citizen for wiping his phone at the border",
           "link": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
           "source": "The Verge",
@@ -210,12 +218,12 @@
           "published": "2026-07-26T18:45:50.000Z"
         },
         {
-          "title": "Show HN: The Occult Gatsby",
-          "link": "https://occultgatsby.work",
+          "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "link": "https://github.com/hertz-ai/HARTOS",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-26T18:38:11.000Z"
+          "published": "2026-07-26T18:40:08.000Z"
         },
         {
           "title": "The Strongest El Niño Ever",
@@ -234,20 +242,12 @@
           "published": "2026-07-26T18:32:46.000Z"
         },
         {
-          "title": "Decker",
+          "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
           "link": "https://beyondloom.com/decker/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-26T18:23:06.000Z"
-        },
-        {
-          "title": "Google Cache used to have a copy of this page at",
-          "link": "https://www.hornet.org/wikipedia-notes.txt",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-26T18:18:57.000Z"
         },
         {
           "title": "Introduction to Data-Oriented Design [pdf]",
@@ -274,20 +274,12 @@
           "published": "2026-07-26T17:29:35.000Z"
         },
         {
-          "title": "Calling all open source maintainers working with Ruby",
-          "link": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
+          "title": "Using ThinkPad T480 as a mobile phone",
+          "link": "https://grego.site/blog/thinkphone",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-26T17:28:03.000Z"
-        },
-        {
-          "title": "Make an Origami Circuit Board",
-          "link": "https://spectrum.ieee.org/origami-circuit-boards",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-26T15:56:08.000Z"
+          "published": "2026-07-26T16:56:06.000Z"
         },
         {
           "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
@@ -314,7 +306,7 @@
           "published": "2026-07-26T15:33:27.000Z"
         },
         {
-          "title": "An Inside Look at the Token Reseller Market",
+          "title": "The relay market powering token resellers and fraud",
           "link": "https://vectoral.com/blog/token-relay-market",
           "source": "Hacker News",
           "category": "tech",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for…",
           "published": "2026-07-26T12:00:00.000Z"
+        },
+        {
+          "title": "Kill The Cookie Banner",
+          "link": "https://killthecookiebanner.eu/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T11:53:17.000Z"
         }
       ]
     },
