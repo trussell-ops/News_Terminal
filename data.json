@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-26T09:50:46.033Z",
+  "updated": "2026-07-26T11:13:16.970Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Last chance to apply for help with school costs",
+          "link": "https://www.bbc.co.uk/news/articles/cnvnzj41z21o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The bonus scheme offers a one-off payment of up to £150 towards school essentials.",
+          "published": "2026-07-26T11:04:03.000Z"
+        },
         {
           "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
           "link": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
@@ -187,20 +195,28 @@
           "category": "markets",
           "snippet": "The Scottish government welcomed the lifting of the 10% levy, which the US President agreed after the state visit of King Charles.",
           "published": "2026-07-24T09:35:23.000Z"
-        },
-        {
-          "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
-          "link": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
-          "published": "2026-07-24T08:30:58.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
+          "link": "https://comuniq.xyz/post?t=1439",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T09:58:11.000Z"
+        },
+        {
+          "title": "Elevated Errors for Opus 5",
+          "link": "https://status.claude.com/incidents/zftg3gqkmv18",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T09:18:34.000Z"
+        },
         {
           "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
           "link": "https://astral.sh/blog/ruff-v0.16.0",
@@ -216,14 +232,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-26T05:57:22.000Z"
-        },
-        {
-          "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
-          "link": "https://github.com/mulfyx/w4me-station",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-26T04:19:59.000Z"
         },
         {
           "title": "JetZero",
@@ -346,14 +354,6 @@
           "published": "2026-07-25T19:44:39.000Z"
         },
         {
-          "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-          "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T19:30:24.000Z"
-        },
-        {
           "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
           "link": "https://github.com/slvDev/esp32-ai",
           "source": "Hacker News",
@@ -370,14 +370,6 @@
           "published": "2026-07-25T18:13:36.000Z"
         },
         {
-          "title": "Memory safety absolutists",
-          "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T18:08:52.000Z"
-        },
-        {
           "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
           "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
           "source": "Ars Technica",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-25T17:34:34.000Z"
+        },
+        {
+          "title": "Synth historian Oli Freke will spend big on a good bicycle",
+          "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins.…",
+          "published": "2026-07-25T15:15:00.000Z"
         }
       ]
     },
