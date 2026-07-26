@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T07:30:47.988Z",
+  "updated": "2026-07-26T09:50:46.033Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -35,6 +35,14 @@
           "category": "markets",
           "snippet": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
           "published": "2026-07-25T12:00:02.000Z"
+        },
+        {
+          "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+          "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+          "published": "2026-07-25T10:14:41.000Z"
         },
         {
           "title": "What does the South make of the King of the North?",
@@ -83,6 +91,14 @@
           "category": "markets",
           "snippet": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
           "published": "2026-07-24T22:43:56.000Z"
+        },
+        {
+          "title": "Paramount and Warner Bros pause $110bn merger amid legal challenge",
+          "link": "https://www.bbc.co.uk/news/articles/c8en74yz5e7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Until a judge reaches a final verdict – or until 1 June 2027 – the Hollywood studios will remain completely separate, competing operations.",
+          "published": "2026-07-24T21:49:25.000Z"
         },
         {
           "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
@@ -179,28 +195,28 @@
           "category": "markets",
           "snippet": "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
           "published": "2026-07-24T08:30:58.000Z"
-        },
-        {
-          "title": "How much money do you give for a wedding gift?",
-          "link": "https://www.bbc.co.uk/news/videos/c0jlnw825w8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "You've been invited by the happy couple, but they've asked for cash - not presents. North Londoners tell us what they would do.",
-          "published": "2026-07-24T05:22:37.000Z"
-        },
-        {
-          "title": "UK complacent about war threat, warns BAE boss",
-          "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned. Dr Charles Woodburn",
-          "published": "2026-07-23T23:04:19.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+          "link": "https://astral.sh/blog/ruff-v0.16.0",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T09:01:39.000Z"
+        },
+        {
+          "title": "GrapheneOS protections against data extraction from locked devices",
+          "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T05:57:22.000Z"
+        },
         {
           "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
           "link": "https://github.com/mulfyx/w4me-station",
@@ -242,6 +258,14 @@
           "published": "2026-07-26T01:35:03.000Z"
         },
         {
+          "title": "Git rebase -I is not that scary",
+          "link": "https://cachebag.sh/journal/interactive-rebasing/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T00:37:54.000Z"
+        },
+        {
           "title": "Systems and Delays",
           "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
           "source": "Hacker News",
@@ -258,12 +282,28 @@
           "published": "2026-07-26T00:36:30.000Z"
         },
         {
+          "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T23:32:50.000Z"
+        },
+        {
           "title": "Clinical failure rates over the decades: yikes",
           "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-25T22:57:17.000Z"
+        },
+        {
+          "title": "What is happening to jobs? Separating AI hype from reality",
+          "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-25T22:51:10.000Z"
         },
         {
           "title": "Cloudflare's new AI traffic options for customers",
@@ -290,28 +330,12 @@
           "published": "2026-07-25T20:52:30.000Z"
         },
         {
-          "title": "Turn And Face The Strange",
-          "link": "https://fly.io/blog/kurt-scott-money-sprites/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T20:43:11.000Z"
-        },
-        {
           "title": "The new rules of context engineering for Claude 5 generation models",
           "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-25T20:42:35.000Z"
-        },
-        {
-          "title": "Did They Ghost You?",
-          "link": "https://didtheyghostyou.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T20:18:03.000Z"
         },
         {
           "title": "LLM Usage in Debian: Three Proposals",
@@ -346,7 +370,7 @@
           "published": "2026-07-25T18:13:36.000Z"
         },
         {
-          "title": "Memory Safety Absolutists",
+          "title": "Memory safety absolutists",
           "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
           "source": "Hacker News",
           "category": "tech",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-25T17:34:34.000Z"
-        },
-        {
-          "title": "Synth historian Oli Freke will spend big on a good bicycle",
-          "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins.…",
-          "published": "2026-07-25T15:15:00.000Z"
-        },
-        {
-          "title": "Teenage Engineering’s unique music machines are 30 percent off",
-          "link": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in…",
-          "published": "2026-07-25T15:00:00.000Z"
-        },
-        {
-          "title": "Open-weight AI is having its Kubernetes moment",
-          "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T14:49:49.000Z"
         }
       ]
     },
