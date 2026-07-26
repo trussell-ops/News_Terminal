@@ -1,9 +1,17 @@
 {
-  "updated": "2026-07-26T11:13:16.970Z",
+  "updated": "2026-07-26T12:35:41.807Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Water supply issue affects Gatwick Airport",
+          "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
+          "published": "2026-07-26T12:32:26.000Z"
+        },
         {
           "title": "Last chance to apply for help with school costs",
           "link": "https://www.bbc.co.uk/news/articles/cnvnzj41z21o?at_medium=RSS&at_campaign=rss",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
           "published": "2026-07-24T09:44:53.000Z"
-        },
-        {
-          "title": "Scotch whisky levy lifted as Trump imposes new wave of US tariffs",
-          "link": "https://www.bbc.co.uk/news/articles/c7vgz680977o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The Scottish government welcomed the lifting of the 10% levy, which the US President agreed after the state visit of King Charles.",
-          "published": "2026-07-24T09:35:23.000Z"
         }
       ]
     },
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+          "link": "https://english.mapn.ro/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T12:00:42.000Z"
+        },
+        {
+          "title": "The vertical video takeover is here",
+          "link": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for…",
+          "published": "2026-07-26T12:00:00.000Z"
+        },
+        {
+          "title": "An OpenAI model left notes about how to evade containment; we need more details",
+          "link": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T11:00:54.000Z"
+        },
+        {
+          "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
+          "link": "https://code.claude.com/docs/en/data-usage",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T10:42:00.000Z"
+        },
+        {
           "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
           "link": "https://comuniq.xyz/post?t=1439",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-26T09:58:11.000Z"
+        },
+        {
+          "title": "Systemd Linger",
+          "link": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T09:43:13.000Z"
         },
         {
           "title": "Elevated Errors for Opus 5",
@@ -322,14 +362,6 @@
           "published": "2026-07-25T22:50:49.000Z"
         },
         {
-          "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-          "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T21:48:22.000Z"
-        },
-        {
           "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
           "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
           "source": "Ars Technica",
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-25T18:59:50.000Z"
-        },
-        {
-          "title": "Google basically confirms the Pixel 11 is getting a price hike",
-          "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion…",
-          "published": "2026-07-25T18:13:36.000Z"
-        },
-        {
-          "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-          "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
-          "published": "2026-07-25T17:47:22.000Z"
-        },
-        {
-          "title": "Show HN: Brolly, a plain-text weather forecast site",
-          "link": "https://brolly.sh/forecast/RWFP2qW8",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-25T17:34:34.000Z"
-        },
-        {
-          "title": "Synth historian Oli Freke will spend big on a good bicycle",
-          "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins.…",
-          "published": "2026-07-25T15:15:00.000Z"
         }
       ]
     },
