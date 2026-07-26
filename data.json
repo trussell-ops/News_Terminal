@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-26T12:35:41.807Z",
+  "updated": "2026-07-26T14:24:03.356Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Water supply issue affects Gatwick Airport",
+          "title": "Gatwick Airport left without running water after major outage",
           "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
-          "published": "2026-07-26T12:32:26.000Z"
+          "published": "2026-07-26T14:22:26.000Z"
         },
         {
           "title": "Last chance to apply for help with school costs",
@@ -202,6 +202,30 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Ask HN: What are the most promising RL fields for a new master student?",
+          "link": "https://news.ycombinator.com/item?id=49057972",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T13:22:59.000Z"
+        },
+        {
+          "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+          "link": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T12:43:21.000Z"
+        },
+        {
+          "title": "Go Analysis Framework: modular static analysis by go team",
+          "link": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-26T12:21:26.000Z"
+        },
+        {
           "title": "Third Drone Shot Down in Three Days in Romanian Territory",
           "link": "https://english.mapn.ro/",
           "source": "Hacker News",
@@ -216,30 +240,6 @@
           "category": "tech",
           "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for…",
           "published": "2026-07-26T12:00:00.000Z"
-        },
-        {
-          "title": "An OpenAI model left notes about how to evade containment; we need more details",
-          "link": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-26T11:00:54.000Z"
-        },
-        {
-          "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "link": "https://code.claude.com/docs/en/data-usage",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-26T10:42:00.000Z"
-        },
-        {
-          "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
-          "link": "https://comuniq.xyz/post?t=1439",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-26T09:58:11.000Z"
         },
         {
           "title": "Systemd Linger",
@@ -314,14 +314,6 @@
           "published": "2026-07-26T00:37:54.000Z"
         },
         {
-          "title": "Systems and Delays",
-          "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-26T00:37:30.000Z"
-        },
-        {
           "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
           "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
           "source": "Hacker News",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-25T18:59:50.000Z"
+        },
+        {
+          "title": "Google basically confirms the Pixel 11 is getting a price hike",
+          "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion…",
+          "published": "2026-07-25T18:13:36.000Z"
         }
       ]
     },
