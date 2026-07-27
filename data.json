@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-27T22:52:34.326Z",
+  "updated": "2026-07-27T23:55:34.461Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Is it time to stop using glue and labels on paper?",
+          "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
+          "published": "2026-07-27T23:00:06.000Z"
+        },
+        {
+          "title": "New technical education routes to be offered at 14 in England",
+          "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.",
+          "published": "2026-07-27T22:25:31.000Z"
+        },
         {
           "title": "Some people's chats with Claude AI found publicly available online",
           "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
@@ -179,28 +195,68 @@
           "category": "markets",
           "snippet": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
           "published": "2026-07-25T10:14:41.000Z"
-        },
-        {
-          "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
-          "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The government wants to relax wedding laws so couples can get married almost anywhere.",
-          "published": "2026-07-24T23:31:11.000Z"
-        },
-        {
-          "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-          "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
-          "published": "2026-07-24T23:23:53.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
+          "link": "https://www.dowe.dev",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T23:26:05.000Z"
+        },
+        {
+          "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+          "link": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T23:21:37.000Z"
+        },
+        {
+          "title": "DConf 2026 in London",
+          "link": "https://dconf.org/2026/index.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T23:14:19.000Z"
+        },
+        {
+          "title": "C&#x2F;C++ projects packaged for Zig",
+          "link": "https://github.com/allyourcodebase",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T23:09:50.000Z"
+        },
+        {
+          "title": "America has become an entrepreneur's paradise",
+          "link": "https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T23:04:13.000Z"
+        },
+        {
+          "title": "Benchmarking Opus 5 on SlopCodeBench",
+          "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T22:37:52.000Z"
+        },
+        {
+          "title": "Hard Road – A beautiful procedural post-apocalyptic game",
+          "link": "https://hardroad.xyz/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T22:36:55.000Z"
+        },
         {
           "title": "X Money is launching in the US starting today",
           "link": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
@@ -250,22 +306,6 @@
           "published": "2026-07-27T21:29:22.000Z"
         },
         {
-          "title": "Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware",
-          "link": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T20:53:29.000Z"
-        },
-        {
-          "title": "US DOT deleting bike lane references",
-          "link": "https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T20:50:58.000Z"
-        },
-        {
           "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
           "link": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
           "source": "Ars Technica",
@@ -310,7 +350,7 @@
           "link": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "An extended Xbox outage that began Sunday evening hasn't just caused issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the outage on Sunday…",
+          "snippet": "An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the outage on Sunday at…",
           "published": "2026-07-27T19:53:50.000Z"
         },
         {
@@ -352,52 +392,28 @@
           "category": "tech",
           "snippet": "NASA has not made substantial investments in thermal protection research for decades.",
           "published": "2026-07-27T18:34:40.000Z"
-        },
-        {
-          "title": "The Artist Who Colored Ghibli",
-          "link": "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T18:32:09.000Z"
-        },
-        {
-          "title": "Bytecode-to-Source Mapping",
-          "link": "https://tidefield.dev/bytecode-to-source-mapping/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T18:25:21.000Z"
-        },
-        {
-          "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-          "link": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T18:15:35.000Z"
-        },
-        {
-          "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
-          "link": "https://up.codes/careers?utm_source=HN",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T17:02:41.000Z"
-        },
-        {
-          "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-          "link": "https://usefeyn.com/blog/feynobg/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T16:59:08.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Milbank Is Paying Their Associates Even More Money See Also",
+          "link": "https://abovethelaw.com/2026/07/milbank-is-paying-their-associates-even-more-money-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "More Milbank Money : Up to $25K in special bonuses for associates and counsel. Is any firm willing to match without Cravath's permission? What's Your Sign? This lawyer zodiac breakdown will leave you laughing. Teaching Professional…",
+          "published": "2026-07-27T23:30:00.000Z"
+        },
+        {
+          "title": "A Bar Exam Disaster For The Ages",
+          "link": "https://abovethelaw.com/2026/07/a-bar-exam-disaster-for-the-ages/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Worried about the bar exam this week? Well, it could be worse! Just ask the class of 2014. The post A Bar Exam Disaster For The Ages appeared first on Above the Law .",
+          "published": "2026-07-27T23:00:00.000Z"
+        },
         {
           "title": "A Jaunt Through The Odyssey",
           "link": "https://abovethelaw.com/2026/07/a-jaunt-through-the-odyssey/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "What's The Billing Code For This : A midday park-bench makeout session between a Biglaw partner and associate ends up going viral. $1.2 Billion Worth Of 'Are You Sure This Is Legal?' : MV Realty has sued Holland Knight claiming it sank…",
           "published": "2026-07-26T23:56:18.000Z"
-        },
-        {
-          "title": "Partner And Associate, Sittin In A Tree See Also",
-          "link": "https://abovethelaw.com/2026/07/partner-and-associate-sittin-in-a-tree-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Always Be Billing : A Biglaw partner and associate got caught making out by an obnoxious social media video . I Consider Experience Experience : Guy posts his performance reviews from WilmerHale 15 years ago on his LinkedIn profile . A…",
-          "published": "2026-07-24T23:32:00.000Z"
-        },
-        {
-          "title": "Elena Kagan Thinks The Supreme Court Gets A Bad Rap,’ Which Is Either A Lie Or Dangerously Naive",
-          "link": "https://abovethelaw.com/2026/07/elena-kagan-thinks-the-supreme-court-gets-a-bad-rap-which-is-either-a-lie-or-dangerously-naive/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The justice threw her liberal colleagues under the bus... for nothing. The post Elena Kagan Thinks The Supreme Court Gets A Bad Rap,’ Which Is Either A Lie Or Dangerously Naive appeared first on Above the Law .",
-          "published": "2026-07-24T23:14:00.000Z"
         }
       ]
     }
