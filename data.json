@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-27T18:52:47.044Z",
+  "updated": "2026-07-27T20:13:39.787Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
-          "link": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
+          "title": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
+          "link": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
+          "source": "CNBC Business",
           "category": "markets",
-          "snippet": "Cracker Barrel CEO Julie Masino will exit following customer backlash over modern logo redesign.",
-          "published": "2026-07-27T18:49:54.000Z"
+          "snippet": "Beginning in early 2027, YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies.",
+          "published": "2026-07-27T20:10:03.000Z"
         },
         {
           "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
@@ -18,7 +18,15 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Experts say food industry consolidation may be amplifying the cyclospora outbreak, allowing contaminated produce to spread farther.",
-          "published": "2026-07-27T17:19:29.000Z"
+          "published": "2026-07-27T19:48:30.000Z"
+        },
+        {
+          "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
+          "link": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Cracker Barrel CEO Julie Masino will exit following customer backlash over modern logo redesign.",
+          "published": "2026-07-27T18:49:54.000Z"
         },
         {
           "title": "JetBlue overhauls fare options, from basic first to flexible economy. Here's what to know",
@@ -43,14 +51,6 @@
           "category": "markets",
           "snippet": "John Burford was jailed in 2025 after taking more than £1m from his victims.",
           "published": "2026-07-27T16:00:49.000Z"
-        },
-        {
-          "title": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
-          "link": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Beginning in early 2027, YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies.",
-          "published": "2026-07-27T15:54:52.000Z"
         },
         {
           "title": "Oil price dives as US and Iran pause attacks",
@@ -202,6 +202,46 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+          "link": "https://www.rise-reforming.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T19:58:22.000Z"
+        },
+        {
+          "title": "Xbox’s huge outage even blocked games on disc",
+          "link": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "An extended Xbox outage that began Sunday evening hasn't just caused issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the outage on Sunday…",
+          "published": "2026-07-27T19:53:50.000Z"
+        },
+        {
+          "title": "Nanoleaf s colorful pegboard and shelf kit is half off",
+          "link": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Nanoleaf s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can…",
+          "published": "2026-07-27T19:24:55.000Z"
+        },
+        {
+          "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
+          "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
+          "published": "2026-07-27T19:18:02.000Z"
+        },
+        {
+          "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+          "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
+          "published": "2026-07-27T18:48:41.000Z"
+        },
+        {
           "title": "Self-contained highly-portable Python distributions",
           "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
           "source": "Hacker News",
@@ -210,12 +250,20 @@
           "published": "2026-07-27T18:43:31.000Z"
         },
         {
-          "title": "Exercise works for depression. So why isn't it treated like real medicine?",
-          "link": "https://bigthink.com/mind-behavior/exercise-works-for-depression-so-why-isnt-it-treated-like-real-medicine/",
+          "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
+          "link": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "NASA has not made substantial investments in thermal protection research for decades.",
+          "published": "2026-07-27T18:34:40.000Z"
+        },
+        {
+          "title": "The Artist Who Colored Ghibli",
+          "link": "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-27T18:26:59.000Z"
+          "published": "2026-07-27T18:32:09.000Z"
         },
         {
           "title": "Bytecode-to-Source Mapping",
@@ -234,14 +282,6 @@
           "published": "2026-07-27T18:15:35.000Z"
         },
         {
-          "title": "Jensen Huang's first-ever post on X is in defense of open access to AI models",
-          "link": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T17:56:20.000Z"
-        },
-        {
           "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
           "link": "https://up.codes/careers?utm_source=HN",
           "source": "Hacker News",
@@ -258,7 +298,15 @@
           "published": "2026-07-27T16:59:08.000Z"
         },
         {
-          "title": "MAI-Cyber 1",
+          "title": "ChatGPT starts blocking direct requests to copy an author's style",
+          "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
+          "published": "2026-07-27T16:58:46.000Z"
+        },
+        {
+          "title": "MAI-Cyber-1-Flash inside MDASH",
           "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
           "source": "Hacker News",
           "category": "tech",
@@ -282,7 +330,7 @@
           "published": "2026-07-27T16:49:08.000Z"
         },
         {
-          "title": "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat",
+          "title": "Show HN: Infrawrench – A tool to manage cloud and svcs with workflows and chat",
           "link": "https://infrawrench.com",
           "source": "Hacker News",
           "category": "tech",
@@ -306,12 +354,28 @@
           "published": "2026-07-27T15:58:34.000Z"
         },
         {
+          "title": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
+          "link": "https://github.com/letsseal/letsseal",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T15:52:13.000Z"
+        },
+        {
           "title": "Amazon s trying to launch a global satellite cellphone network in 2028",
           "link": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will begin deploying…",
           "published": "2026-07-27T15:40:38.000Z"
+        },
+        {
+          "title": "How real are real numbers? (2004)",
+          "link": "https://arxiv.org/abs/math/0411418",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T15:40:17.000Z"
         },
         {
           "title": "Kimi-K3 Technical Report [pdf]",
@@ -322,82 +386,34 @@
           "published": "2026-07-27T15:23:45.000Z"
         },
         {
-          "title": "Exploiting Volvo&#x2F;Eicher's fleet platform to gain control over all users&#x2F;vehicles",
-          "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+          "title": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
+          "link": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-27T15:08:16.000Z"
-        },
-        {
-          "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
-          "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Framework's latest modular laptop trades one set of problems for another.",
-          "published": "2026-07-27T15:02:45.000Z"
-        },
-        {
-          "title": "This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800",
-          "link": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor flaws for modular ports, easy repairs,…",
-          "published": "2026-07-27T15:00:00.000Z"
-        },
-        {
-          "title": "Tariffs didn’t bring manufacturing jobs back to the US",
-          "link": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in early 2025 to talk about how Trump’s first…",
-          "published": "2026-07-27T15:00:00.000Z"
-        },
-        {
-          "title": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
-          "link": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung’s 27-inch 1440p model costs exactly that much thanks to a recent…",
-          "published": "2026-07-27T14:56:38.000Z"
-        },
-        {
-          "title": "SDCC 2026’s best trailers are heavy on cyberpunk and sci-fi",
-          "link": "https://www.theverge.com/entertainment/971285/sdcc-2026-trailers-neuromancer-blade-runner-carrie",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "San Diego Comic-Con took place over the weekend, and as per usual it was full of tidbits of news across film, TV, and gaming. Marvel revealed the next Ghost Rider (Ryan Gosling) and Black Panther (David Jonsson), while we also got release…",
-          "published": "2026-07-27T14:38:43.000Z"
-        },
-        {
-          "title": "Chinese RAM company CXMT makes a $484 billion stock market debut",
-          "link": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The China-based memory firm ChangXin Memory Technologies (CXMT) had a massive first day on the Shanghai stock exchange after its shares surged 466 percent, as reported earlier by The Wall Street Journal and CNBC. The stock market frenzy…",
-          "published": "2026-07-27T14:27:16.000Z"
-        },
-        {
-          "title": "Paged Out #9 [pdf]",
-          "link": "https://pagedout.institute/download/PagedOut_009.pdf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T14:22:34.000Z"
-        },
-        {
-          "title": "AI companies spend record sums on Washington lobbying",
-          "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T14:07:48.000Z"
+          "published": "2026-07-27T15:10:56.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The DOJ (Dis)Honors Program Is Having Trouble Finding Takers",
+          "link": "https://abovethelaw.com/2026/07/the-doj-dishonors-program-is-having-trouble-finding-takers/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Prestige works as a recruiting tool right up until the label becomes a liability. The post The DOJ (Dis)Honors Program Is Having Trouble Finding Takers appeared first on Above the Law .",
+          "published": "2026-07-27T20:00:00.000Z"
+        },
+        {
+          "title": "FIU Installs Sanctioned Trump Attorney As Interim Law Dean, Overruling Its Own Search Committee",
+          "link": "https://abovethelaw.com/2026/07/fiu-installs-sanctioned-trump-attorney-as-interim-law-dean-overruling-its-own-search-committee/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "FIU continues to have an Epstein problem. The post FIU Installs Sanctioned Trump Attorney As Interim Law Dean, Overruling Its Own Search Committee appeared first on Above the Law .",
+          "published": "2026-07-27T19:15:00.000Z"
+        },
         {
           "title": "This Viral Lawyer Zodiac Breakdown Is Painfully Accurate",
           "link": "https://abovethelaw.com/2026/07/this-viral-lawyer-zodiac-breakdown-is-painfully-accurate/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "A roundup of the latest from Strategies Voices, the official online publication of LMA. The post Marketing Roundup: Optimizing Content For AI Answer Engines, Revamping Your Operating Model, And More appeared first on Above the Law .",
           "published": "2026-07-24T19:44:56.000Z"
-        },
-        {
-          "title": "New Jersey Has A Message For Lawyers: Don t Sleep With Your Clients",
-          "link": "https://abovethelaw.com/2026/07/new-jersey-has-a-message-for-lawyers-dont-sleep-with-your-clients/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The state supreme court embraced a bright-line ethics rule despite concerns from the state bar. The post New Jersey Has A Message For Lawyers: Don t Sleep With Your Clients appeared first on Above the Law .",
-          "published": "2026-07-24T19:17:42.000Z"
-        },
-        {
-          "title": "Only A Billionaire Could Fail The Bar Exam This Profitably",
-          "link": "https://abovethelaw.com/2026/07/only-a-billionaire-could-fail-the-bar-exam-this-profitably/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Kim Kardashian's new UPDATE campaign makes a punchline of the test she can't seem to beat -- and she's laughing all the way to the endcap. The post Only A Billionaire Could Fail The Bar Exam This Profitably appeared first on Above the Law .",
-          "published": "2026-07-24T18:45:53.000Z"
         }
       ]
     }
