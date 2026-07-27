@@ -1,24 +1,40 @@
 {
-  "updated": "2026-07-27T12:11:56.542Z",
+  "updated": "2026-07-27T15:20:47.229Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
-        {
-          "title": "How wildfires in France and Spain may affect your travel plans",
-          "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
-          "published": "2026-07-27T12:09:48.000Z"
-        },
         {
           "title": "Oil price dives as US and Iran pause attacks",
           "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
-          "published": "2026-07-27T11:50:23.000Z"
+          "published": "2026-07-27T15:08:37.000Z"
+        },
+        {
+          "title": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
+          "link": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Beginning in early 2027, YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies.",
+          "published": "2026-07-27T15:02:01.000Z"
+        },
+        {
+          "title": "Businessman and philanthropist Sir Ian Wood dies aged 84",
+          "link": "https://www.bbc.co.uk/news/articles/ce3qv0p9105o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The Aberdeen-based businessman turned his family's boat repair firm into an oil and gas engineering giant.",
+          "published": "2026-07-27T14:17:56.000Z"
+        },
+        {
+          "title": "How wildfires in France and Spain might affect your travel plans",
+          "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+          "published": "2026-07-27T13:21:49.000Z"
         },
         {
           "title": "'I fear for wee families' - home heating oil jumps £100 in three weeks",
@@ -27,14 +43,6 @@
           "category": "markets",
           "snippet": "The Consumer Council for Northern Ireland says the price rise is in direct response to the US-Iran conflict.",
           "published": "2026-07-27T11:38:51.000Z"
-        },
-        {
-          "title": "Businessman and philanthropist Sir Ian Wood dies aged 84",
-          "link": "https://www.bbc.co.uk/news/articles/ce3qv0p9105o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The Aberdeen-based businessman turned his family's boat repair firm into an oil and gas engineering giant.",
-          "published": "2026-07-27T10:33:08.000Z"
         },
         {
           "title": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
           "published": "2026-07-24T19:53:01.000Z"
-        },
-        {
-          "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
-          "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
-          "published": "2026-07-24T14:02:26.000Z"
         }
       ]
     },
@@ -202,7 +202,95 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
+          "title": "This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800",
+          "link": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor flaws for modular ports, easy repairs,…",
+          "published": "2026-07-27T15:00:00.000Z"
+        },
+        {
+          "title": "Tariffs didn’t bring manufacturing jobs back to the US",
+          "link": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in early 2025 to talk about how Trump’s first…",
+          "published": "2026-07-27T15:00:00.000Z"
+        },
+        {
+          "title": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
+          "link": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung’s 27-inch 1440p model costs exactly that much thanks to a recent…",
+          "published": "2026-07-27T14:56:38.000Z"
+        },
+        {
+          "title": "SDCC 2026’s best trailers are heavy on cyberpunk and sci-fi",
+          "link": "https://www.theverge.com/entertainment/971285/sdcc-2026-trailers-neuromancer-blade-runner-carrie",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "San Diego Comic-Con took place over the weekend, and as per usual it was full of tidbits of news across film, TV, and gaming. Marvel revealed the next Ghost Rider (Ryan Gosling) and Black Panther (David Jonsson), while we also got release…",
+          "published": "2026-07-27T14:38:43.000Z"
+        },
+        {
+          "title": "Chinese RAM company CXMT makes a $484 billion stock market debut",
+          "link": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The China-based memory firm ChangXin Memory Technologies (CXMT) had a massive first day on the Shanghai stock exchange after its shares surged 466 percent, as reported earlier by The Wall Street Journal and CNBC. The stock market frenzy…",
+          "published": "2026-07-27T14:27:16.000Z"
+        },
+        {
+          "title": "AI companies spend record sums on Washington lobbying",
+          "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T14:07:48.000Z"
+        },
+        {
+          "title": "What public health professionals can learn from anti-vaccine storytelling",
+          "link": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Sometimes, compelling stories beat medical evidence.",
+          "published": "2026-07-27T14:01:56.000Z"
+        },
+        {
+          "title": "We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles",
+          "link": "https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T13:29:12.000Z"
+        },
+        {
+          "title": "Should you wash your solar panels?",
+          "link": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T13:04:11.000Z"
+        },
+        {
+          "title": "AI companies are shredding rare books",
+          "link": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T12:32:12.000Z"
+        },
+        {
+          "title": "The Proof Machine (2016)",
+          "link": "https://incredible.pm/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-27T12:29:24.000Z"
+        },
+        {
+          "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
           "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
           "source": "The Verge",
           "category": "tech",
@@ -210,7 +298,7 @@
           "published": "2026-07-27T12:06:22.000Z"
         },
         {
-          "title": "With smart glasses, Meta holds all the cards but fails to play them well",
+          "title": "Meta is royally screwing up its smart glasses rollout",
           "link": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
           "source": "The Verge",
           "category": "tech",
@@ -258,14 +346,6 @@
           "published": "2026-07-27T10:50:37.000Z"
         },
         {
-          "title": "If digital computers are conscious, they are conscious at the hardware level",
-          "link": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T10:33:25.000Z"
-        },
-        {
           "title": "Libsm64: Mario 64 as a library for use in external game engines",
           "link": "https://github.com/libsm64/libsm64",
           "source": "Hacker News",
@@ -274,7 +354,7 @@
           "published": "2026-07-27T10:04:48.000Z"
         },
         {
-          "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity",
+          "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
           "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
           "source": "Hacker News",
           "category": "tech",
@@ -306,98 +386,90 @@
           "published": "2026-07-27T09:06:34.000Z"
         },
         {
-          "title": "How Unix spell ran in 64 kB of RAM",
-          "link": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T08:43:11.000Z"
-        },
-        {
           "title": "Modern email can be built from borrowed parts",
           "link": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-27T08:27:21.000Z"
-        },
-        {
-          "title": "Elevated errors on Claude Opus 5",
-          "link": "https://status.claude.com/incidents/lhqp09kxq7pb",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T08:20:06.000Z"
-        },
-        {
-          "title": "Kimi-K3 Releases on HuggingFace 7&#x2F;27",
-          "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T06:18:10.000Z"
-        },
-        {
-          "title": "PGSimCity - How PostgreSQL Works",
-          "link": "https://nikolays.github.io/PGSimCity/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T00:19:04.000Z"
-        },
-        {
-          "title": "Fonts In Use – Find out where a font is used",
-          "link": "https://fontsinuse.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-26T23:45:09.000Z"
-        },
-        {
-          "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-          "link": "https://github.com/vercel-labs/scriptc",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-26T22:46:10.000Z"
-        },
-        {
-          "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-          "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-26T22:21:41.000Z"
-        },
-        {
-          "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
-          "link": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "There's something about a movie like The Room, Troll 2, or Fateful Findings that I find irresistible. These sorts of \"so bad they're good\" films are marvelous curiosities where ambition far outstrips resources, ability, and self-awareness…",
-          "published": "2026-07-26T21:24:07.000Z"
-        },
-        {
-          "title": "We have proof automation now",
-          "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-26T20:53:26.000Z"
-        },
-        {
-          "title": "Simulate cassette tape audio profiles using FFmpeg",
-          "link": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-26T20:02:15.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Summer Surprise: Milbank Announces Special Bonuses Up To $25K",
+          "link": "https://abovethelaw.com/2026/07/summer-surprise-milbank-announces-special-bonuses-up-to-25k/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Here comes more Milbank money! The post Summer Surprise: Milbank Announces Special Bonuses Up To $25K appeared first on Above the Law .",
+          "published": "2026-07-27T15:13:59.000Z"
+        },
+        {
+          "title": "Why the Supreme Court decided the wrong issue in the transgender athletes cases",
+          "link": "https://www.scotusblog.com/2026/07/why-the-supreme-court-decided-the-wrong-issue-in-the-transgender-athletes-cases/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. In one of the last decisions in argued cases this term, West Virginia v. B.P.J.…",
+          "published": "2026-07-27T15:00:00.000Z"
+        },
+        {
+          "title": "Marco Imperiale Is Right: Lawyers Don t Know Their Clients Nearly As Well As They Think",
+          "link": "https://abovethelaw.com/2026/07/marco-imperiale-is-right-lawyers-dont-know-their-clients-nearly-as-well-as-they-think/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Expertise without curiosity becomes brittle. The post Marco Imperiale Is Right: Lawyers Don t Know Their Clients Nearly As Well As They Think appeared first on Above the Law .",
+          "published": "2026-07-27T14:51:25.000Z"
+        },
+        {
+          "title": "Justices’ lucrative book deals deserve more scrutiny",
+          "link": "https://www.scotusblog.com/2026/07/justices-lucrative-book-deals-deserve-more-scrutiny/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. It was around the time the justices crossed the $10 million threshold in book…",
+          "published": "2026-07-27T14:30:00.000Z"
+        },
+        {
+          "title": "FCC Approves Satellite Spectrum License Streamlining",
+          "link": "https://breakingdefense.com/2026/07/fcc-approves-satellite-spectrum-license-streamlining/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "By reducing regulatory burdens, the FCC ‘is taking a critical step in allowing for continued American innovation and space superiority,’ according to the Commercial Space Federation. The post FCC Approves Satellite Spectrum License…",
+          "published": "2026-07-27T14:03:00.000Z"
+        },
+        {
+          "title": "How predictable is the Supreme Court from oral argument?",
+          "link": "https://www.scotusblog.com/2026/07/how-predictable-is-the-supreme-court-from-oral-argument/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Some Supreme Court arguments seem relatively easy to read. After the court reheard Louisiana v. Callais , SCOTUSblog reported that the court appeared “ready to curtail [a] major provision of the Voting Rights Act.” Justices Clarence…",
+          "published": "2026-07-27T14:00:00.000Z"
+        },
+        {
+          "title": "Announcing The SCOTUSblog Summit: 2026 Term Preview",
+          "link": "https://www.scotusblog.com/2026/07/announcing-the-scotusblog-summit-2026-term-preview/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "SCOTUSblog and Johns Hopkins University are proud to convene The SCOTUSblog Summit: 2026 Term Preview , an afternoon of conversations and analysis on the Supreme Court, to be held at the Johns Hopkins University Bloomberg Center in…",
+          "published": "2026-07-27T13:30:00.000Z"
+        },
+        {
+          "title": "New tariffs, new lawsuits",
+          "link": "https://www.scotusblog.com/2026/07/new-tariffs-new-lawsuits/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, mark your calendars for the 2026 SCOTUSblog Summit.",
+          "published": "2026-07-27T13:00:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 07.27.26",
+          "link": "https://abovethelaw.com/2026/07/morning-docket-07-27-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* One of the architects of Kirkland's rise now sees AI as the profession's future. [ WSJ ] * Kalshi angrily rails against Wisconsin law making it illegal to gamble on elections as \"voter suppression.\" Because think of all the voters who…",
+          "published": "2026-07-27T12:21:39.000Z"
+        },
         {
           "title": "Partner-Associate Park Passion Predicament See Generally",
           "link": "https://abovethelaw.com/2026/07/partner-associate-park-passion-predicament-see-generally/",
@@ -517,78 +589,6 @@
           "category": "legal",
           "snippet": "You have to consider long- and short-term efficiencies. The post Partners Should Sometimes Just Perform Work Rather Than Spend Time Delegating It To Associates appeared first on Above the Law .",
           "published": "2026-07-24T16:07:11.000Z"
-        },
-        {
-          "title": "How Appealing Weekly Roundup",
-          "link": "https://abovethelaw.com/2026/07/how-appealing-weekly-roundup-178/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
-          "published": "2026-07-24T15:12:00.000Z"
-        },
-        {
-          "title": "Brendan Carr Lobs More Empty Threats At ABC For Not Airing Trump’s Election Fraud Lies",
-          "link": "https://abovethelaw.com/2026/07/brendan-carr-lobs-more-empty-threats-at-abc-for-not-airing-trumps-election-fraud-lies/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "From the pathetic,-weak-men dept The post Brendan Carr Lobs More Empty Threats At ABC For Not Airing Trump’s Election Fraud Lies appeared first on Above the Law .",
-          "published": "2026-07-24T14:28:01.000Z"
-        },
-        {
-          "title": "The Constitutional Court of South Africa",
-          "link": "https://www.scotusblog.com/2026/07/the-constitutional-court-of-south-africa/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Welcome to SCOTUSblog’s recurring series in which we interview experts on different supreme courts around the world and how they compare to our own. Today’s column focuses on the Constitutional Court of South Africa. To help me understand…",
-          "published": "2026-07-24T14:00:00.000Z"
-        },
-        {
-          "title": "Is Elena Kagan the stare decisis justice?",
-          "link": "https://www.scotusblog.com/2026/07/is-elena-kagan-the-stare-decisis-justice/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "When asked during a 2022 appearance at the University of Pennsylvania about the opinions of which she was most proud, Justice Elena Kagan cited her 2015 opinion in Kimble v. Marvel Entertainment, LLC as one she had “thought about a lot…",
-          "published": "2026-07-24T13:30:00.000Z"
-        },
-        {
-          "title": "Biglaw Partner-Associate Public Makeout Sesh Posted On Social Media",
-          "link": "https://abovethelaw.com/2026/07/biglaw-partner-associate-public-makeout-sesh-posted-on-social-media/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Biglaw having its Coldplay Kiss-Cam moment. The post Biglaw Partner-Associate Public Makeout Sesh Posted On Social Media appeared first on Above the Law .",
-          "published": "2026-07-24T13:30:00.000Z"
-        },
-        {
-          "title": "Justice Kagan says court gets a \"bad rap”",
-          "link": "https://www.scotusblog.com/2026/07/justice-kagan-says-court-gets-a-bad-rap/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, will the Supreme Court take up the federal ban on home distilling?",
-          "published": "2026-07-24T13:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 07.24.26",
-          "link": "https://abovethelaw.com/2026/07/morning-docket-07-24-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* SCOTUSBlog founder Tom Goldstein's sentencing set for today. Anyone want action on what he gets? [ Reuters ] * Plaintiff hired spies to extract intel about defendant's case from Biglaw partner. This James Bond reboot sucks. [ Roll on…",
-          "published": "2026-07-24T12:55:00.000Z"
-        },
-        {
-          "title": "Todd Blanche Can t Admit The Slush Fund Was A Mistake Because That s Not Proper MAGA Talk See Also",
-          "link": "https://abovethelaw.com/2026/07/todd-blanche-cant-admit-the-slush-fund-was-a-mistake-because-thats-not-proper-maga-talk-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Liar, Liar: Todd Blanche's unique confirmation strategy . Stop Waiting For Cravath : Biglaw firms don't need permission anymore. It's time to make your money moves. That's A Pretty Big Malpractice Claim You've Got There: Holland Knight…",
-          "published": "2026-07-23T23:32:00.000Z"
-        },
-        {
-          "title": "Trump’s petition for reconsideration of $5 million verdict in E. Jean Carroll case may be considered by the justices in August",
-          "link": "https://www.scotusblog.com/2026/07/trumps-petition-for-reconsideration-of-5-million-verdict-in-e-jean-carroll-case-may-be-considere/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Three days after the Supreme Court issued its first set of summer orders , President Donald Trump’s request for the Supreme Court to reconsider its decision to leave in place the 2023 verdict against him in a civil suit brought by E. Jean…",
-          "published": "2026-07-23T23:13:13.000Z"
         }
       ]
     }
