@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T20:39:37.942Z",
+  "updated": "2026-07-28T21:55:47.698Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,7 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Former eBay executives carried out \"unprecedented\" harassment over a critical newsletter.",
-          "published": "2026-07-28T20:31:15.000Z"
+          "published": "2026-07-28T21:49:16.000Z"
         },
         {
           "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
@@ -18,7 +18,7 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Ford cited operational improvements, resilient vehicle pricing and a high sales mix of profitable products for its performance and the improved guidance.",
-          "published": "2026-07-28T20:30:41.000Z"
+          "published": "2026-07-28T21:44:31.000Z"
         },
         {
           "title": "UPS expects third-quarter domestic revenue to be flat but CEO tells CNBC the company is through its 'bumps'",
@@ -33,7 +33,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.",
+          "snippet": "Some parents on benefits lose income if their children take on apprenticeships.",
           "published": "2026-07-28T17:32:56.000Z"
         },
         {
@@ -202,6 +202,70 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Ariana Grande is suing the hackers who ve been leaking her songs and videos for years",
+          "link": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to \"uncover the identities of these currently unknown and…",
+          "published": "2026-07-28T21:48:50.000Z"
+        },
+        {
+          "title": "Running Kimi K3 on a M1 Mac",
+          "link": "https://github.com/gavamedia/deltafin",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T21:35:19.000Z"
+        },
+        {
+          "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+          "link": "https://github.com/anthropics/cryptography-research-demo",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T21:22:48.000Z"
+        },
+        {
+          "title": "The union drive at the Wikimedia Foundation is expanding",
+          "link": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intentions to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive, but management at the nonprofit have…",
+          "published": "2026-07-28T21:11:11.000Z"
+        },
+        {
+          "title": "eBay s bizarre cyberstalking saga ends with a $56 million settlement",
+          "link": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a…",
+          "published": "2026-07-28T21:11:11.000Z"
+        },
+        {
+          "title": "Half-Life ported to Mac OS 9",
+          "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T20:58:39.000Z"
+        },
+        {
+          "title": "OpenAI just open-sourced Codex Security",
+          "link": "https://github.com/openai/codex-security",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T20:52:55.000Z"
+        },
+        {
+          "title": "Recursion is lying to you",
+          "link": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T20:20:51.000Z"
+        },
+        {
           "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
           "link": "https://github.com/ghaziwali/Hulios",
           "source": "Hacker News",
@@ -258,14 +322,6 @@
           "published": "2026-07-28T19:12:48.000Z"
         },
         {
-          "title": "Donate to GrapheneOS",
-          "link": "https://grapheneos.org/donate",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T19:06:10.000Z"
-        },
-        {
           "title": "Apple won’t turn on any ‘restricted mode’ for missed lease payments",
           "link": "https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode",
           "source": "The Verge",
@@ -280,14 +336,6 @@
           "category": "tech",
           "snippet": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
           "published": "2026-07-28T18:43:36.000Z"
-        },
-        {
-          "title": "Deflock Casa Grande",
-          "link": "https://deflockcg.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T18:41:48.000Z"
         },
         {
           "title": "MCP 2026-07-28 Specification: transport going stateless",
@@ -312,22 +360,6 @@
           "category": "tech",
           "snippet": "New Yorkers who want to see their Instagram or TikTok feed curated by an algorithm, or receive notification after midnight, will soon have to verify their ages to access those features. New York Attorney General Letitia James (D) released…",
           "published": "2026-07-28T18:09:32.000Z"
-        },
-        {
-          "title": "Tile s best Bluetooth tracker is down to its lowest price of the year",
-          "link": "https://www.theverge.com/gadgets/971976/tile-pro-bluetooth-tracker-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple s latest AirTag may seem like the obvious choice if you own an iPhone and are shopping for a Bluetooth tracker, but it s not the most affordable option. For families that contain both Android and Apple devices, it might be better to…",
-          "published": "2026-07-28T17:53:51.000Z"
-        },
-        {
-          "title": "Save $150 on this smart indoor bike trainer that can keep you riding during the off months",
-          "link": "https://www.theverge.com/gadgets/971634/wahoo-kickr-core-bike-trainer-dell-6k-monitor-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "While the summer months are great for putting in the miles on your favorite bike, it can be frustrating to have to hang it up when the weather turns. This smart bike trainer turns your road bike into an indoor exercise bike, with Wi-Fi…",
-          "published": "2026-07-28T17:48:03.000Z"
         },
         {
           "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
@@ -360,44 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-28T17:05:51.000Z"
-        },
-        {
-          "title": "Substack writers, you need a website",
-          "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T16:58:31.000Z"
-        },
-        {
-          "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
-          "link": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Trump is fixated on the false, long-debunked claim that vaccines cause autism.",
-          "published": "2026-07-28T16:16:25.000Z"
-        },
-        {
-          "title": "A walk through of the DeltaNet family of linear attention variants",
-          "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T16:02:07.000Z"
-        },
-        {
-          "title": "HBO Max is putting on vertical shorts",
-          "link": "https://www.theverge.com/streaming/971880/hbo-max-vertical-video-feed-shorts",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Warner Bros. Discovery is bringing a vertical video feed to HBO Max to help you find something new to watch. Streaming platforms like Netflix, Disney Plus, and Peacock already offer TikTok-like vertical video feeds to surface content that…",
-          "published": "2026-07-28T15:59:37.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Selling The Skinny",
+          "link": "https://abovethelaw.com/2026/07/selling-the-skinny/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "With the threats from compounders and generics mostly contained, we can take a look at the latest piece of GLP-1 news. The post Selling The Skinny appeared first on Above the Law .",
+          "published": "2026-07-28T21:15:00.000Z"
+        },
         {
           "title": "Neil Gorsuch Says He Trusts Sonia Sotomayor’s Motives, Even If He Rejects Her Legal Views",
           "link": "https://abovethelaw.com/2026/07/neil-gorsuch-says-he-trusts-sonia-sotomayors-motives-even-if-he-rejects-her-legal-views/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "The firm that once assigned associates to translate memes for the partners has become a meme. The post Makeout Video Elevates Wachtell To The Internet s Main Character appeared first on Above the Law .",
           "published": "2026-07-27T20:32:00.000Z"
-        },
-        {
-          "title": "The DOJ (Dis)Honors Program Is Having Trouble Finding Takers",
-          "link": "https://abovethelaw.com/2026/07/the-doj-dishonors-program-is-having-trouble-finding-takers/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Prestige works as a recruiting tool right up until the label becomes a liability. The post The DOJ (Dis)Honors Program Is Having Trouble Finding Takers appeared first on Above the Law .",
-          "published": "2026-07-27T20:00:00.000Z"
         }
       ]
     }
