@@ -1,40 +1,48 @@
 {
-  "updated": "2026-07-28T07:33:27.476Z",
+  "updated": "2026-07-28T10:25:23.114Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Coca-Cola is about to report earnings. Here's what to expect",
+          "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500.",
+          "published": "2026-07-28T10:25:01.000Z"
+        },
         {
           "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
           "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
-          "published": "2026-07-28T07:33:12.000Z"
+          "published": "2026-07-28T10:15:47.000Z"
         },
         {
-          "title": "Should I still travel to France or Spain on holiday?",
+          "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
+          "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+          "published": "2026-07-28T09:46:52.000Z"
+        },
+        {
+          "title": "Is it safe to travel to France and Spain right now?",
           "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
-          "published": "2026-07-28T07:22:58.000Z"
+          "published": "2026-07-28T08:50:39.000Z"
         },
         {
-          "title": "Some people's chats with Claude AI found publicly available online",
+          "title": "Some people's chats with Claude AI found to be publicly available online",
           "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
           "published": "2026-07-28T07:10:37.000Z"
-        },
-        {
-          "title": "Schools to offer technical subjects to pupils from age 14, Burnham says",
-          "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
-          "published": "2026-07-28T07:06:04.000Z"
         },
         {
           "title": "The way you look can help you get a job - here's how",
@@ -187,20 +195,44 @@
           "category": "markets",
           "snippet": "What might the new team at the top of government mean for your money?",
           "published": "2026-07-25T15:01:24.000Z"
-        },
-        {
-          "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
-          "link": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
-          "published": "2026-07-25T12:00:02.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "What Even Are Microservices?",
+          "link": "https://var0.xyz/posts/what-even-are-microservices.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T09:52:31.000Z"
+        },
+        {
+          "title": "About the security content of macOS Tahoe 26.6",
+          "link": "https://support.apple.com/en-us/128067",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T09:45:43.000Z"
+        },
+        {
+          "title": "Hugging Face is being used to easily undress women and children",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found…",
+          "published": "2026-07-28T09:07:14.000Z"
+        },
+        {
+          "title": "7.1 Earthquake in Japan",
+          "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T07:44:24.000Z"
+        },
         {
           "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
           "link": "https://arsastronomica.com/",
@@ -226,36 +258,12 @@
           "published": "2026-07-28T04:46:00.000Z"
         },
         {
-          "title": "Why do we think we understand the world more than we actually do?",
-          "link": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T04:00:41.000Z"
-        },
-        {
-          "title": "The age of token efficiency, the age of libraries",
-          "link": "https://golemui.com/blog/the-age-of-token-efficiency/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T03:56:08.000Z"
-        },
-        {
           "title": "Using an open model feels surprisingly good",
           "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-28T02:37:14.000Z"
-        },
-        {
-          "title": "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
-          "link": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T02:35:28.000Z"
         },
         {
           "title": "EYG: A Programming Language for Humans",
@@ -330,14 +338,6 @@
           "published": "2026-07-27T22:10:18.000Z"
         },
         {
-          "title": "A missing underscore sent innocent man to prison for 18 months",
-          "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-27T22:10:15.000Z"
-        },
-        {
           "title": "Our position on open-weights models",
           "link": "https://www.anthropic.com/news/position-open-weights-models",
           "source": "Hacker News",
@@ -386,12 +386,12 @@
           "published": "2026-07-27T20:32:45.000Z"
         },
         {
-          "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-          "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+          "title": "A missing underscore sent innocent man to prison for 18 months",
+          "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
-          "published": "2026-07-27T20:12:42.000Z"
+          "snippet": "When the first step goes wrong, bad results follow.",
+          "published": "2026-07-27T20:22:03.000Z"
         }
       ]
     },
