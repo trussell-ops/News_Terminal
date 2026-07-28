@@ -1,16 +1,48 @@
 {
-  "updated": "2026-07-28T10:25:23.114Z",
+  "updated": "2026-07-28T12:19:20.707Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Coca-Cola is about to report earnings. Here's what to expect",
+          "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results",
+          "link": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Boeing took a $280 million charge on its long-delayed Air Force One program.",
+          "published": "2026-07-28T12:17:59.000Z"
+        },
+        {
+          "title": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs",
           "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500.",
-          "published": "2026-07-28T10:25:01.000Z"
+          "published": "2026-07-28T11:54:11.000Z"
+        },
+        {
+          "title": "UPS beats earnings expectations, raises full-year guidance",
+          "link": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
+          "published": "2026-07-28T11:50:50.000Z"
+        },
+        {
+          "title": "What you wear can help you get a job - here's how",
+          "link": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
+          "published": "2026-07-28T11:07:13.000Z"
+        },
+        {
+          "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
+          "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+          "published": "2026-07-28T10:25:52.000Z"
         },
         {
           "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
@@ -19,14 +51,6 @@
           "category": "markets",
           "snippet": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
           "published": "2026-07-28T10:15:47.000Z"
-        },
-        {
-          "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
-          "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
-          "published": "2026-07-28T09:46:52.000Z"
         },
         {
           "title": "Is it safe to travel to France and Spain right now?",
@@ -43,14 +67,6 @@
           "category": "markets",
           "snippet": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
           "published": "2026-07-28T07:10:37.000Z"
-        },
-        {
-          "title": "The way you look can help you get a job - here's how",
-          "link": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
-          "published": "2026-07-28T06:53:59.000Z"
         },
         {
           "title": "Michelin-starred chef calls for VAT cut for restaurants",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
           "published": "2026-07-26T23:11:36.000Z"
-        },
-        {
-          "title": "Rental searches for pet friendly properties drop after law change",
-          "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
-          "published": "2026-07-26T00:00:49.000Z"
-        },
-        {
-          "title": "Money Box",
-          "link": "https://www.bbc.co.uk/sounds/play/m002zg12?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "What might the new team at the top of government mean for your money?",
-          "published": "2026-07-25T15:01:24.000Z"
         }
       ]
     },
@@ -202,12 +202,20 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "What Even Are Microservices?",
-          "link": "https://var0.xyz/posts/what-even-are-microservices.html",
+          "title": "Smart rings are looking like my kind of AI gadget",
+          "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very…",
+          "published": "2026-07-28T12:00:00.000Z"
+        },
+        {
+          "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+          "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-28T09:52:31.000Z"
+          "published": "2026-07-28T09:59:13.000Z"
         },
         {
           "title": "About the security content of macOS Tahoe 26.6",
@@ -258,22 +266,6 @@
           "published": "2026-07-28T04:46:00.000Z"
         },
         {
-          "title": "Using an open model feels surprisingly good",
-          "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T02:37:14.000Z"
-        },
-        {
-          "title": "EYG: A Programming Language for Humans",
-          "link": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T02:21:37.000Z"
-        },
-        {
           "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
           "link": "https://fermisense.com/when-machines-take-the-wheel/",
           "source": "Hacker News",
@@ -290,12 +282,12 @@
           "published": "2026-07-28T01:13:26.000Z"
         },
         {
-          "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-          "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+          "title": "Don't ask an LLM for a confidence score",
+          "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-27T23:21:37.000Z"
+          "published": "2026-07-28T00:06:53.000Z"
         },
         {
           "title": "DConf 2026 in London",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "When the first step goes wrong, bad results follow.",
           "published": "2026-07-27T20:22:03.000Z"
+        },
+        {
+          "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+          "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
+          "published": "2026-07-27T20:12:42.000Z"
         }
       ]
     },
