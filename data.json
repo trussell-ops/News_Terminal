@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-28T19:12:03.924Z",
+  "updated": "2026-07-28T20:39:37.942Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "eBay agrees $56m settlement with bloggers over harassment case",
+          "link": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Former eBay executives carried out \"unprecedented\" harassment over a critical newsletter.",
+          "published": "2026-07-28T20:31:15.000Z"
+        },
+        {
+          "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
+          "link": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Ford cited operational improvements, resilient vehicle pricing and a high sales mix of profitable products for its performance and the improved guidance.",
+          "published": "2026-07-28T20:30:41.000Z"
+        },
+        {
+          "title": "UPS expects third-quarter domestic revenue to be flat but CEO tells CNBC the company is through its 'bumps'",
+          "link": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
+          "published": "2026-07-28T20:01:06.000Z"
+        },
         {
           "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
           "link": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
@@ -21,28 +45,12 @@
           "published": "2026-07-28T17:12:52.000Z"
         },
         {
-          "title": "UPS expects third-quarter domestic revenue to be flat but CEO tells CNBC the company is through its 'bumps'",
-          "link": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
-          "published": "2026-07-28T16:41:42.000Z"
-        },
-        {
           "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
           "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
           "published": "2026-07-28T16:35:05.000Z"
-        },
-        {
-          "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
-          "link": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Wall Street analysts expect Ford to report adjusted earnings per share of 35 cents and automotive revenue of $45.86 billion.",
-          "published": "2026-07-28T16:00:01.000Z"
         },
         {
           "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
@@ -187,20 +195,92 @@
           "category": "markets",
           "snippet": "The results of the 2023/24 Household Expenditure Survey have been published.",
           "published": "2026-07-27T16:47:30.000Z"
-        },
-        {
-          "title": "Oil price dives as US and Iran pause attacks",
-          "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
-          "published": "2026-07-27T15:08:37.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
+          "link": "https://github.com/ghaziwali/Hulios",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T19:54:38.000Z"
+        },
+        {
+          "title": "AI leaders sign statement asking the government to do something about automated AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI…",
+          "published": "2026-07-28T19:46:43.000Z"
+        },
+        {
+          "title": "Uv 0.12.0",
+          "link": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T19:41:33.000Z"
+        },
+        {
+          "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
+          "link": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "A Georgia man was charged with a felony for allegedly wiping his phone while being questioned by Customs and Border Protection. Samuel Tunick had something in common with others who have had their devices searched at airports: He was an…",
+          "published": "2026-07-28T19:35:00.000Z"
+        },
+        {
+          "title": "AI’s finally expensive enough to make Wall Street nervous",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new…",
+          "published": "2026-07-28T19:33:03.000Z"
+        },
+        {
+          "title": "This comfy gaming headset that can play audio from two sources is $25",
+          "link": "https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "While most gaming headsets have moved towards low-latency wireless connections, there’s something to be said for a budget-friendly, capable wired headset. The EPOS H3 Hybrid is on sale for just $24.99 at Woot, a whopping 75 percent off…",
+          "published": "2026-07-28T19:18:15.000Z"
+        },
+        {
+          "title": "Logitech will pull a Nintendo — only European mice will come with replaceable batteries",
+          "link": "https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "In June, Nintendo announced a new version of the Switch 2 that should let you easily replace its battery pack - but only for Europe. Logitech will do much the same. User-replaceable batteries will be the law in Europe in February 2027,…",
+          "published": "2026-07-28T19:12:48.000Z"
+        },
+        {
+          "title": "Donate to GrapheneOS",
+          "link": "https://grapheneos.org/donate",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T19:06:10.000Z"
+        },
+        {
+          "title": "Apple won’t turn on any ‘restricted mode’ for missed lease payments",
+          "link": "https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple says it won't limit the capabilities of devices leased through its new Upgrade program if you miss a payment. In an emailed statement to The Verge, Apple spokesperson Brian Bumbery says, \"There will be no restricted mode and/or…",
+          "published": "2026-07-28T18:43:57.000Z"
+        },
+        {
+          "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+          "link": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
+          "published": "2026-07-28T18:43:36.000Z"
+        },
         {
           "title": "Deflock Casa Grande",
           "link": "https://deflockcg.com/",
@@ -216,6 +296,22 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-28T18:35:11.000Z"
+        },
+        {
+          "title": "Judge blocks first state law that would have banned prediction markets",
+          "link": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Judge may allow Minnesota to ban some types of bets, but not all of them.",
+          "published": "2026-07-28T18:31:13.000Z"
+        },
+        {
+          "title": "New Yorkers will soon need to verify their age to access algorithmic feeds",
+          "link": "https://www.theverge.com/policy/972007/new-york-safe-for-kids-act-age-verification",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "New Yorkers who want to see their Instagram or TikTok feed curated by an algorithm, or receive notification after midnight, will soon have to verify their ages to access those features. New York Attorney General Letitia James (D) released…",
+          "published": "2026-07-28T18:09:32.000Z"
         },
         {
           "title": "Tile s best Bluetooth tracker is down to its lowest price of the year",
@@ -234,20 +330,20 @@
           "published": "2026-07-28T17:48:03.000Z"
         },
         {
+          "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+          "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T17:37:12.000Z"
+        },
+        {
           "title": "Discovering Cryptographic Weaknesses with Claude",
           "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-28T17:22:16.000Z"
-        },
-        {
-          "title": "Scientific computing in the age of agentic AI",
-          "link": "https://openai.com/index/scientific-computing-agentic-ai/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T17:13:15.000Z"
         },
         {
           "title": "Steel Bank Common Lisp version 2.6.7",
@@ -282,7 +378,7 @@
           "published": "2026-07-28T16:16:25.000Z"
         },
         {
-          "title": "You Could Have Come Up with Kimi Delta Attention",
+          "title": "A walk through of the DeltaNet family of linear attention variants",
           "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
           "source": "Hacker News",
           "category": "tech",
@@ -296,102 +392,6 @@
           "category": "tech",
           "snippet": "Warner Bros. Discovery is bringing a vertical video feed to HBO Max to help you find something new to watch. Streaming platforms like Netflix, Disney Plus, and Peacock already offer TikTok-like vertical video feeds to surface content that…",
           "published": "2026-07-28T15:59:37.000Z"
-        },
-        {
-          "title": "How Do I Profile eBPF Code?",
-          "link": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T15:55:44.000Z"
-        },
-        {
-          "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
-          "link": "https://github.com/reflex-dev/xy",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T15:54:55.000Z"
-        },
-        {
-          "title": "4GB graphics cards are back",
-          "link": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user…",
-          "published": "2026-07-28T15:52:04.000Z"
-        },
-        {
-          "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
-          "link": "https://www.slow-journalism.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T15:50:38.000Z"
-        },
-        {
-          "title": "Kimi K3 Architecture Overview and Notes",
-          "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T15:48:34.000Z"
-        },
-        {
-          "title": "Zig's Incremental Compilation Internals",
-          "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T15:46:45.000Z"
-        },
-        {
-          "title": "So, you want to make a game engine (2023)",
-          "link": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T15:36:45.000Z"
-        },
-        {
-          "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
-          "link": "https://flashpaper.app/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T15:36:35.000Z"
-        },
-        {
-          "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-          "link": "https://arxiv.org/abs/1202.4212",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T15:20:35.000Z"
-        },
-        {
-          "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
-          "link": "https://anthropeum.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T15:01:15.000Z"
-        },
-        {
-          "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
-          "link": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T15:01:12.000Z"
-        },
-        {
-          "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
-          "link": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T14:58:15.000Z"
         }
       ]
     },
@@ -399,12 +399,92 @@
       "label": "Legal Developments",
       "items": [
         {
+          "title": "Neil Gorsuch Says He Trusts Sonia Sotomayor’s Motives, Even If He Rejects Her Legal Views",
+          "link": "https://abovethelaw.com/2026/07/neil-gorsuch-says-he-trusts-sonia-sotomayors-motives-even-if-he-rejects-her-legal-views/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Gorsuch says his friendship with Sotomayor proves profound disagreement doesn't require personal animosity. The post Neil Gorsuch Says He Trusts Sonia Sotomayor’s Motives, Even If He Rejects Her Legal Views appeared first on Above the Law .",
+          "published": "2026-07-28T20:29:00.000Z"
+        },
+        {
+          "title": "Trump Fails To File Promised Birthright Citizenship Rehearing Before Deadline",
+          "link": "https://abovethelaw.com/2026/07/trump-fails-to-file-promised-birthright-citizenship-rehearing-before-deadline/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Shocking! The post Trump Fails To File Promised Birthright Citizenship Rehearing Before Deadline appeared first on Above the Law .",
+          "published": "2026-07-28T19:43:00.000Z"
+        },
+        {
+          "title": "DHS General Counsel Names Four Federal Judges Worst Of The Worst As Threats Against Judiciary Hit 564",
+          "link": "https://abovethelaw.com/2026/07/dhs-general-counsel-names-four-federal-judges-worst-of-the-worst-as-threats-against-judiciary-hit-564/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The general counsel who told the Senate his role was 'limited' has started publishing a target list. The post DHS General Counsel Names Four Federal Judges Worst Of The Worst As Threats Against Judiciary Hit 564 appeared first on Above…",
+          "published": "2026-07-28T18:58:00.000Z"
+        },
+        {
+          "title": "Todd Blanche s Confirmation Is Being Held Up By Todd Blanche",
+          "link": "https://abovethelaw.com/2026/07/todd-blanches-confirmation-is-being-held-up-by-todd-blanche/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Two Republican senators want the slush fund killed in writing. Blanche testified it was dead, so writing it down shouldn't be hard. And yet... The post Todd Blanche s Confirmation Is Being Held Up By Todd Blanche appeared first on Above…",
+          "published": "2026-07-28T18:12:00.000Z"
+        },
+        {
           "title": "Trump administration appears not to have asked Supreme Court to rehear birthright citizenship case",
           "link": "https://www.scotusblog.com/2026/07/trump-administration-appears-not-to-have-asked-supreme-court-to-rehear-birthright-citizenship-ca/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The Trump administration will (apparently) not ask the Supreme Court to reconsider its June 30 ruling that struck down President Donald Trump’s executive order ending birthright citizenship – the guarantee of U.S. citizenship to virtually…",
+          "snippet": "The Trump administration will apparently not ask the Supreme Court to reconsider its June 30 ruling that struck down President Donald Trump’s executive order ending birthright citizenship – the guarantee of U.S. citizenship to virtually…",
           "published": "2026-07-28T17:58:00.000Z"
+        },
+        {
+          "title": "Where Biglaw Gets Its Lawyers: An ATL Infographic",
+          "link": "https://abovethelaw.com/2026/07/where-biglaw-gets-its-lawyers-an-atl-infographic/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "In honor of Shark Week, here’s a deep dive into the sources of associates for five top law firms. The post Where Biglaw Gets Its Lawyers: An ATL Infographic appeared first on Above the Law .",
+          "published": "2026-07-28T17:32:00.000Z"
+        },
+        {
+          "title": "Webinar: Why Contract Ownership Is Your Most Expensive Blind Spot",
+          "link": "https://abovethelaw.com/2026/07/webinar-why-contract-ownership-is-your-most-expensive-blind-spot/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] Join us for this webinar as the group will dig into what the new global data reveals about why contract ownership remains Legal's most expensive blind spot. The post Webinar: Why Contract Ownership Is Your Most Expensive Blind…",
+          "published": "2026-07-28T17:01:00.000Z"
+        },
+        {
+          "title": "The Bar Exam Is Here, Which Means Something Is About To Go Horribly Wrong",
+          "link": "https://abovethelaw.com/2026/07/the-bar-exam-is-here-which-means-something-is-about-to-go-horribly-wrong/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "It's a grand tradition of chaos, and we want to hear all about it. The post The Bar Exam Is Here, Which Means Something Is About To Go Horribly Wrong appeared first on Above the Law .",
+          "published": "2026-07-28T16:22:56.000Z"
+        },
+        {
+          "title": "Cha-Ching: Another Firm Joins The Bonus Party",
+          "link": "https://abovethelaw.com/2026/07/cha-ching-another-firm-joins-the-bonus-party/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Biglaw keeps waiting while other firms keep writing checks. The post Cha-Ching: Another Firm Joins The Bonus Party appeared first on Above the Law .",
+          "published": "2026-07-28T15:25:00.000Z"
+        },
+        {
+          "title": "Bringing Home The Bacon: Clio Launches ‘Clio Work’ AI In Its Home Country Of Canada",
+          "link": "https://www.lawnext.com/2026/07/bringing-home-the-bacon-clio-launches-clio-work-ai-in-its-home-country-of-canada.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Clio Work went live in Canada on July 23, enabled by more than 470,000 Canadian cases drawn from Jurisage. The post Bringing Home The Bacon: Clio Launches ‘Clio Work’ AI In Its Home Country Of Canada appeared first on Above the Law .",
+          "published": "2026-07-28T14:49:36.000Z"
+        },
+        {
+          "title": "What Happens When Patients Trust AI Over Their Doctor?",
+          "link": "https://medcitynews.com/2026/07/ai-chatbot-healthcare-law/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "As patients increasingly bring AI chatbot advice into exam rooms, where does liability land when that advice goes wrong? Health law attorney Meghan O'Connor said the answer still isn’t clear, but silence is the riskiest response for…",
+          "published": "2026-07-28T14:03:00.000Z"
         },
         {
           "title": "Eliminate the summer recess",
@@ -423,12 +503,52 @@
           "published": "2026-07-28T13:30:00.000Z"
         },
         {
+          "title": "Morning Docket: 07.28.26",
+          "link": "https://abovethelaw.com/2026/07/morning-docket-07-28-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Corporate pardons were never a thing. Trump has issued nine. [ The New Republic ] * Freshfields losing European partners worried about U.S. growth. [ Bloomberg Law News ] * Comey seeks to 86 the 8647 suit. [ NPR ] * Trump heading to the…",
+          "published": "2026-07-28T13:06:35.000Z"
+        },
+        {
           "title": "The ongoing battle over TPS status",
           "link": "https://www.scotusblog.com/2026/07/the-ongoing-battle-over-tps-status/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "Plus, how predictable is the Supreme Court from oral argument?",
           "published": "2026-07-28T13:00:00.000Z"
+        },
+        {
+          "title": "Milbank Is Paying Their Associates Even More Money See Also",
+          "link": "https://abovethelaw.com/2026/07/milbank-is-paying-their-associates-even-more-money-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "More Milbank Money : Up to $25K in special bonuses for associates and counsel. Is any firm willing to match without Cravath's permission? What's Your Sign? This lawyer zodiac breakdown will leave you laughing. Teaching Professional…",
+          "published": "2026-07-27T23:30:00.000Z"
+        },
+        {
+          "title": "A Bar Exam Disaster For The Ages",
+          "link": "https://abovethelaw.com/2026/07/a-bar-exam-disaster-for-the-ages/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Worried about the bar exam this week? Well, it could be worse! Just ask the class of 2014. The post A Bar Exam Disaster For The Ages appeared first on Above the Law .",
+          "published": "2026-07-27T23:00:00.000Z"
+        },
+        {
+          "title": "A Jaunt Through The Odyssey",
+          "link": "https://abovethelaw.com/2026/07/a-jaunt-through-the-odyssey/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Beware of gifts-bearing Greeks. The post A Jaunt Through The Odyssey appeared first on Above the Law .",
+          "published": "2026-07-27T22:32:00.000Z"
+        },
+        {
+          "title": "A Blanche Confirmation Hearing Witness Is Getting Death Threats. Thanks, Sens. Hawley And Schmitt!",
+          "link": "https://abovethelaw.com/2026/07/a-blanche-confirmation-hearing-witness-is-getting-death-threats-thanks-sens-hawley-and-schmitt/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Weirdly, no questions about Blanche... The post A Blanche Confirmation Hearing Witness Is Getting Death Threats. Thanks, Sens. Hawley And Schmitt! appeared first on Above the Law .",
+          "published": "2026-07-27T22:00:00.000Z"
         },
         {
           "title": "Trump administration asks Supreme Court to clear the way for new mail-in voting restrictions",
@@ -439,156 +559,36 @@
           "published": "2026-07-27T21:48:30.000Z"
         },
         {
-          "title": "Why the Supreme Court decided the wrong issue in the transgender athletes cases",
-          "link": "https://www.scotusblog.com/2026/07/why-the-supreme-court-decided-the-wrong-issue-in-the-transgender-athletes-cases/",
-          "source": "SCOTUSblog",
+          "title": "The Bar Exam Pep Talk Every Student Needs To Read",
+          "link": "https://abovethelaw.com/2019/02/the-bar-exam-pep-talk-every-student-needs-to-read/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. In one of the last decisions in argued cases this term, West Virginia v. B.P.J.…",
-          "published": "2026-07-27T15:00:00.000Z"
+          "snippet": "If you aren’t going to study the day before the exam, what are you going to do? Read this. The post The Bar Exam Pep Talk Every Student Needs To Read appeared first on Above the Law .",
+          "published": "2026-07-27T21:33:00.000Z"
         },
         {
-          "title": "Justices’ lucrative book deals deserve more scrutiny",
-          "link": "https://www.scotusblog.com/2026/07/justices-lucrative-book-deals-deserve-more-scrutiny/",
-          "source": "SCOTUSblog",
+          "title": "The Lawyer Who Helped Build Kirkland Thinks AI Will Build Its Successor",
+          "link": "https://abovethelaw.com/2026/07/the-lawyer-who-helped-build-kirkland-thinks-ai-will-build-its-successor/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. It was around the time the justices crossed the $10 million threshold in book…",
-          "published": "2026-07-27T14:30:00.000Z"
+          "snippet": "Former Kirkland partner David Fox believes AI-powered firms could reshape the entire legal industry. The post The Lawyer Who Helped Build Kirkland Thinks AI Will Build Its Successor appeared first on Above the Law .",
+          "published": "2026-07-27T21:00:00.000Z"
         },
         {
-          "title": "How predictable is the Supreme Court from oral argument?",
-          "link": "https://www.scotusblog.com/2026/07/how-predictable-is-the-supreme-court-from-oral-argument/",
-          "source": "SCOTUSblog",
+          "title": "Makeout Video Elevates Wachtell To The Internet s Main Character",
+          "link": "https://abovethelaw.com/2026/07/makeout-video-elevates-wachtell-to-the-internets-main-character/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Some Supreme Court arguments seem relatively easy to read. After the court reheard Louisiana v. Callais , SCOTUSblog reported that the court appeared “ready to curtail [a] major provision of the Voting Rights Act.” Justices Clarence…",
-          "published": "2026-07-27T14:00:00.000Z"
+          "snippet": "The firm that once assigned associates to translate memes for the partners has become a meme. The post Makeout Video Elevates Wachtell To The Internet s Main Character appeared first on Above the Law .",
+          "published": "2026-07-27T20:32:00.000Z"
         },
         {
-          "title": "Announcing The SCOTUSblog Summit: 2026 Term Preview",
-          "link": "https://www.scotusblog.com/2026/07/announcing-the-scotusblog-summit-2026-term-preview/",
-          "source": "SCOTUSblog",
+          "title": "The DOJ (Dis)Honors Program Is Having Trouble Finding Takers",
+          "link": "https://abovethelaw.com/2026/07/the-doj-dishonors-program-is-having-trouble-finding-takers/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "SCOTUSblog and Johns Hopkins University are proud to convene The SCOTUSblog Summit: 2026 Term Preview , an afternoon of conversations and analysis on the Supreme Court, to be held at the Johns Hopkins University Bloomberg Center in…",
-          "published": "2026-07-27T13:30:00.000Z"
-        },
-        {
-          "title": "New tariffs, new lawsuits",
-          "link": "https://www.scotusblog.com/2026/07/new-tariffs-new-lawsuits/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, mark your calendars for the 2026 SCOTUSblog Summit.",
-          "published": "2026-07-27T13:00:00.000Z"
-        },
-        {
-          "title": "The Constitutional Court of South Africa",
-          "link": "https://www.scotusblog.com/2026/07/the-constitutional-court-of-south-africa/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Welcome to SCOTUSblog’s recurring series in which we interview experts on different supreme courts around the world and how they compare to our own. Today’s column focuses on the Constitutional Court of South Africa. To help me understand…",
-          "published": "2026-07-24T14:00:00.000Z"
-        },
-        {
-          "title": "Is Elena Kagan the stare decisis justice?",
-          "link": "https://www.scotusblog.com/2026/07/is-elena-kagan-the-stare-decisis-justice/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "When asked during a 2022 appearance at the University of Pennsylvania about the opinions of which she was most proud, Justice Elena Kagan cited her 2015 opinion in Kimble v. Marvel Entertainment, LLC as one she had “thought about a lot…",
-          "published": "2026-07-24T13:30:00.000Z"
-        },
-        {
-          "title": "Justice Kagan says court gets a “bad rap”",
-          "link": "https://www.scotusblog.com/2026/07/justice-kagan-says-court-gets-a-bad-rap/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, will the Supreme Court take up the federal ban on home distilling?",
-          "published": "2026-07-24T13:00:00.000Z"
-        },
-        {
-          "title": "Trump’s petition for reconsideration of $5 million verdict in E. Jean Carroll case may be considered by the justices in August",
-          "link": "https://www.scotusblog.com/2026/07/trumps-petition-for-reconsideration-of-5-million-verdict-in-e-jean-carroll-case-may-be-considere/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Three days after the Supreme Court issued its first set of summer orders , President Donald Trump’s request for the Supreme Court to reconsider its decision to leave in place the 2023 verdict against him in a civil suit brought by E. Jean…",
-          "published": "2026-07-23T23:13:13.000Z"
-        },
-        {
-          "title": "Nine justices, nine styles",
-          "link": "https://www.scotusblog.com/2026/07/nine-justices-nine-styles/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. By my count, the 58 oral arguments of October Term 2025 resulted in 5,095…",
-          "published": "2026-07-23T14:00:00.000Z"
-        },
-        {
-          "title": "Dissents on the emergency docket are not created equal",
-          "link": "https://www.scotusblog.com/2026/07/all-dissents-are-not-created-equal/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "By now, you have probably read a great deal about the Supreme Court’s emergency docket – and a fair amount about the justices who disagree with its orders. Over the past year, in this space alone, I have written about how long the court…",
-          "published": "2026-07-23T13:30:00.000Z"
-        },
-        {
-          "title": "Democrats push Supreme Court term limits",
-          "link": "https://www.scotusblog.com/2026/07/democrats-push-supreme-court-term-limits/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, SCOTUS’ prediction markets policy is facing scrutiny.",
-          "published": "2026-07-23T13:00:00.000Z"
-        },
-        {
-          "title": "The case for Callais",
-          "link": "https://www.scotusblog.com/2026/07/the-case-for-callais/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This publication has been inundated with essays by academics critical of Louisiana v. Callais , but has not published a single one in defense of it. So I decided to take it on in my column. After all, I am pretty sure Justice Antonin…",
-          "published": "2026-07-22T14:00:00.000Z"
-        },
-        {
-          "title": "The live blog comments that stuck with us",
-          "link": "https://www.scotusblog.com/2026/07/the-live-blog-comments-that-stuck-with-us/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "One of SCOTUSblog’s most popular features is our live blogging during major oral arguments and opinion hand down days. Throughout these live chats, our moderators (led by Amy) not only provide what’s happening at the court in real time,…",
-          "published": "2026-07-22T13:30:00.000Z"
-        },
-        {
-          "title": "Judicial ethics in the spotlight",
-          "link": "https://www.scotusblog.com/2026/07/judicial-ethics-in-the-spotlight/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, the Trump administration continues to rebuild its tariff regime.",
-          "published": "2026-07-22T13:00:00.000Z"
-        },
-        {
-          "title": "The history the court would rather not see",
-          "link": "https://www.scotusblog.com/2026/07/the-history-the-court-would-rather-not-see/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In 2021’s New York State Rifle & Pistol Association v. Bruen , the Supreme Court held that modern gun laws must be “consistent with the Nation’s historical tradition of firearm regulation” to survive a Second Amendment challenge. Under…",
-          "published": "2026-07-21T14:00:00.000Z"
-        },
-        {
-          "title": "Heller and Bruen are here to stay",
-          "link": "https://www.scotusblog.com/2026/07/heller-and-bruen-are-here-to-stay-/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. The October 2025 Supreme Court Term was a good one for the Second Amendment. In…",
-          "published": "2026-07-21T13:30:00.000Z"
-        },
-        {
-          "title": "The ripple effects of the TPS ruling",
-          "link": "https://www.scotusblog.com/2026/07/the-ripple-effects-of-the-tps-ruling/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, the justices added a case involving a seized plane and a six-pack of beer to next term’s oral argument docket.",
-          "published": "2026-07-21T13:00:00.000Z"
-        },
-        {
-          "title": "Supreme Court agrees to hear case on whether airplane was improperly seized for transporting a six-pack of beer",
-          "link": "https://www.scotusblog.com/2026/07/supreme-court-agrees-to-hear-case-on-whether-airplane-was-improperly-seized-s/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Monday morning added a new case to its oral argument docket for the 2026-27 term . As part of a regularly scheduled summer order list , the justices agreed to review Jouppi v. Alaska , an Alaskan bush pilot’s…",
-          "published": "2026-07-20T16:25:09.000Z"
+          "snippet": "Prestige works as a recruiting tool right up until the label becomes a liability. The post The DOJ (Dis)Honors Program Is Having Trouble Finding Takers appeared first on Above the Law .",
+          "published": "2026-07-27T20:00:00.000Z"
         }
       ]
     }
