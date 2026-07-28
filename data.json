@@ -1,16 +1,32 @@
 {
-  "updated": "2026-07-28T14:56:42.027Z",
+  "updated": "2026-07-28T16:29:45.201Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Energy prices rise by 19% in a year -report",
-          "link": "https://www.bbc.co.uk/news/articles/c74gqxz27q0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
+          "title": "Shein says it's under investigation by the Federal Trade Commission as it prepares for Hong Kong IPO",
+          "link": "https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html",
+          "source": "CNBC Business",
           "category": "markets",
-          "snippet": "The Retail Prices Indices and Household Costs Indices inflation statistics have been published.",
-          "published": "2026-07-28T14:52:31.000Z"
+          "snippet": "Shein disclosed the FTC is investigating its U.S. business, but the nature of the probe is unclear.",
+          "published": "2026-07-28T16:14:44.000Z"
+        },
+        {
+          "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
+          "link": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Wall Street analysts expect Ford to report adjusted earnings per share of 35 cents and automotive revenue of $45.86 billion.",
+          "published": "2026-07-28T16:00:01.000Z"
+        },
+        {
+          "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
+          "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.",
+          "published": "2026-07-28T15:35:48.000Z"
         },
         {
           "title": "UPS expects third-quarter domestic revenue to be flat but CEO tells CNBC the company is through its 'bumps'",
@@ -18,7 +34,15 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
-          "published": "2026-07-28T14:50:46.000Z"
+          "published": "2026-07-28T15:15:25.000Z"
+        },
+        {
+          "title": "Energy prices rise by 19% in a year -report",
+          "link": "https://www.bbc.co.uk/news/articles/c74gqxz27q0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The Retail Prices Indices and Household Costs Indices inflation statistics have been published.",
+          "published": "2026-07-28T14:52:31.000Z"
         },
         {
           "title": "Coca-Cola hikes full-year forecast. CEO tells CNBC the World Cup boosted its brands",
@@ -171,36 +195,116 @@
           "category": "markets",
           "snippet": "The Consumer Council for Northern Ireland says the price rise is in direct response to the US-Iran conflict.",
           "published": "2026-07-27T11:38:51.000Z"
-        },
-        {
-          "title": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The company's shares soared by nearly 470% in its market debut, as the AI boom drives chip demand.",
-          "published": "2026-07-27T10:19:36.000Z"
-        },
-        {
-          "title": "Ford wants more customers to customize vehicles to boost profits as it eyes 'Nike shoe drop' moments",
-          "link": "https://www.cnbc.com/2026/07/27/ford-vehicle-customization-bronco.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Ford is expanding its accessory and parts business in an effort to boost profits and better tap into the $53 billion U.S. automotive aftermarket industry.",
-          "published": "2026-07-27T10:00:01.000Z"
-        },
-        {
-          "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-          "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
-          "published": "2026-07-27T02:08:36.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "You Could Have Come Up with Kimi Delta Attention",
+          "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T16:02:07.000Z"
+        },
+        {
+          "title": "HBO Max is putting on vertical shorts",
+          "link": "https://www.theverge.com/streaming/971880/hbo-max-vertical-video-feed-shorts",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Warner Bros. Discovery is bringing a vertical video feed to HBO Max to help you find something new to watch. Streaming platforms like Netflix, Disney Plus, and Peacock already offer TikTok-like vertical video feeds to surface content that…",
+          "published": "2026-07-28T15:59:37.000Z"
+        },
+        {
+          "title": "How Do I Profile eBPF Code?",
+          "link": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T15:55:44.000Z"
+        },
+        {
+          "title": "Show HN: XY – Fast, composable, GPU-accelerated charts, written in Rust",
+          "link": "https://github.com/reflex-dev/xy",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T15:54:55.000Z"
+        },
+        {
+          "title": "4GB graphics cards are back",
+          "link": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user…",
+          "published": "2026-07-28T15:52:04.000Z"
+        },
+        {
+          "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+          "link": "https://www.slow-journalism.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T15:50:38.000Z"
+        },
+        {
+          "title": "Kimi K3 Architecture Overview and Notes",
+          "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T15:48:34.000Z"
+        },
+        {
+          "title": "Zig's Incremental Compilation Internals",
+          "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T15:46:45.000Z"
+        },
+        {
+          "title": "So, you want to make a game engine (2023)",
+          "link": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T15:36:45.000Z"
+        },
+        {
+          "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
+          "link": "https://flashpaper.app/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T15:36:35.000Z"
+        },
+        {
+          "title": "Setup Script Should Support Git Worktrees",
+          "link": "https://piechowski.io/post/setup-script-git-worktrees/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T15:32:58.000Z"
+        },
+        {
+          "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+          "link": "https://arxiv.org/abs/1202.4212",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T15:20:35.000Z"
+        },
+        {
+          "title": "GrapheneOS Defends Data-Wiping Function That Blocked US Border Search",
+          "link": "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T15:17:38.000Z"
+        },
         {
           "title": "Apple’s reported ‘HomePad’ may launch as early as October",
           "link": "https://www.theverge.com/tech/971790/apple-homepad-rumor-launch",
@@ -210,12 +314,20 @@
           "published": "2026-07-28T14:39:42.000Z"
         },
         {
-          "title": "Ask HN: Crooked Timber showed showed me a virus captcha, What now?",
-          "link": "https://news.ycombinator.com/item?id=49084404",
+          "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women",
+          "link": "https://ooni.org/post/2026-italy-blocks-wow-and-whw",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-28T14:25:36.000Z"
+          "published": "2026-07-28T14:05:51.000Z"
+        },
+        {
+          "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
+          "link": "https://github.com/utmapp/UTM/issues/7658",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T13:33:42.000Z"
         },
         {
           "title": "As US measles cases rise, biotech firms start developing new treatments",
@@ -280,124 +392,28 @@
           "category": "tech",
           "snippet": "Despite what influencers may say, you don’t need to spend $99.99 on Dyson’s HushJet Mini Cool or $149.99 for the Shark ChillPill to survive the summer whenever you leave the comfort of air-conditioning. My family has found all the comfort…",
           "published": "2026-07-28T13:00:00.000Z"
-        },
-        {
-          "title": "Great Mobile Apps Aren't Built Around Features",
-          "link": "https://geekyants.com/case-studies/nowmatch-next-gen-social-and-dating-app-development",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T12:51:16.000Z"
-        },
-        {
-          "title": "Logitech’s handheld plans are on ice — don’t expect a G Cloud 2 soon",
-          "link": "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Logitech's new gaming boss, Robin Piispanen, tells me he likes the idea of gaming handhelds. \"It's such a charming value proposition,\" he says, as we sip iced vanilla lattes at my local cafe. But he's not building one right now. He's not…",
-          "published": "2026-07-28T12:31:51.000Z"
-        },
-        {
-          "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer…",
-          "published": "2026-07-28T12:30:00.000Z"
-        },
-        {
-          "title": "Show HN: Segue – Save context in one AI, load it in another by a short handle",
-          "link": "https://segue.ai/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T12:27:05.000Z"
-        },
-        {
-          "title": "Apple launches ‘Upgrade’ program to lease new devices",
-          "link": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple has officially introduced \"Apple Upgrade,\" a new leasing program that aims to make it easier to get your hands on the latest iPhone, Mac, iPad, and Apple Watch models. The service is launching today in the US, and works like a car…",
-          "published": "2026-07-28T12:23:50.000Z"
-        },
-        {
-          "title": "Mondragon Corporation – a federation of co-operatives",
-          "link": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T12:19:07.000Z"
-        },
-        {
-          "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-          "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T12:02:57.000Z"
-        },
-        {
-          "title": "Smart rings are looking like my kind of AI gadget",
-          "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very…",
-          "published": "2026-07-28T12:00:00.000Z"
-        },
-        {
-          "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
-          "link": "https://arxiv.org/abs/2510.26692",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T10:52:30.000Z"
-        },
-        {
-          "title": "Usenet Archive Toolkit – process Usenet messages into a searchable archive",
-          "link": "https://github.com/wolfpld/usenetarchive",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T10:30:54.000Z"
-        },
-        {
-          "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
-          "link": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T10:20:50.000Z"
-        },
-        {
-          "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-          "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T09:59:13.000Z"
-        },
-        {
-          "title": "About the security content of macOS Tahoe 26.6",
-          "link": "https://support.apple.com/en-us/128067",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T09:45:43.000Z"
-        },
-        {
-          "title": "Hugging Face is being used to easily undress women and children",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found…",
-          "published": "2026-07-28T09:07:14.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Bar Exam Is Here, Which Means Something Is About To Go Horribly Wrong",
+          "link": "https://abovethelaw.com/2026/07/the-bar-exam-is-here-which-means-something-is-about-to-go-horribly-wrong/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "It's a grand tradition of chaos, and we want to hear all about it. The post The Bar Exam Is Here, Which Means Something Is About To Go Horribly Wrong appeared first on Above the Law .",
+          "published": "2026-07-28T16:22:56.000Z"
+        },
+        {
+          "title": "Cha-Ching: Another Firm Joins The Bonus Party",
+          "link": "https://abovethelaw.com/2026/07/cha-ching-another-firm-joins-the-bonus-party/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Biglaw keeps waiting while other firms keep writing checks. The post Cha-Ching: Another Firm Joins The Bonus Party appeared first on Above the Law .",
+          "published": "2026-07-28T15:25:00.000Z"
+        },
         {
           "title": "Bringing Home The Bacon: Clio Launches ‘Clio Work’ AI In Its Home Country Of Canada",
           "link": "https://www.lawnext.com/2026/07/bringing-home-the-bacon-clio-launches-clio-work-ai-in-its-home-country-of-canada.html",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. In one of the last decisions in argued cases this term, West Virginia v. B.P.J.…",
           "published": "2026-07-27T15:00:00.000Z"
-        },
-        {
-          "title": "Marco Imperiale Is Right: Lawyers Don t Know Their Clients Nearly As Well As They Think",
-          "link": "https://abovethelaw.com/2026/07/marco-imperiale-is-right-lawyers-dont-know-their-clients-nearly-as-well-as-they-think/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Expertise without curiosity becomes brittle. The post Marco Imperiale Is Right: Lawyers Don t Know Their Clients Nearly As Well As They Think appeared first on Above the Law .",
-          "published": "2026-07-27T14:51:25.000Z"
-        },
-        {
-          "title": "Justices’ lucrative book deals deserve more scrutiny",
-          "link": "https://www.scotusblog.com/2026/07/justices-lucrative-book-deals-deserve-more-scrutiny/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. It was around the time the justices crossed the $10 million threshold in book…",
-          "published": "2026-07-27T14:30:00.000Z"
         }
       ]
     }
