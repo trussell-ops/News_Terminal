@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-29T21:50:00.479Z",
+  "updated": "2026-07-29T22:51:53.249Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Meta shares fall as frustration grows over AI spending plans",
+          "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
+          "published": "2026-07-29T22:44:18.000Z"
+        },
+        {
+          "title": "The Chinese robot army transforming the UK's retail industry",
+          "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+          "published": "2026-07-29T22:08:29.000Z"
+        },
+        {
+          "title": "Chipotle hikes same-store sales forecast, says cyclospora fears hit sales in late July",
+          "link": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
+          "published": "2026-07-29T21:52:41.000Z"
+        },
         {
           "title": "Carvana stock falls as auto retailer’s 2026 earnings guidance misses Wall Street’s expectations",
           "link": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
@@ -11,14 +35,6 @@
           "category": "markets",
           "snippet": "Carvana said Wednesday it expects earnings of between $2.7 billion and $3 billion this year after reporting record quarterly results for the second quarter.",
           "published": "2026-07-29T21:47:28.000Z"
-        },
-        {
-          "title": "Meta shares fall as frustration grows over AI spending plans",
-          "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
-          "published": "2026-07-29T21:47:21.000Z"
         },
         {
           "title": "Starbucks stock jumps as coffee giant raises full-year outlook",
@@ -43,14 +59,6 @@
           "category": "markets",
           "snippet": "The FTC sued Hims and Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
           "published": "2026-07-29T20:30:15.000Z"
-        },
-        {
-          "title": "Chipotle hikes same-store sales forecast as diners return for burrito bowls",
-          "link": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
-          "published": "2026-07-29T20:19:31.000Z"
         },
         {
           "title": "'We are rescuing unpicked blackberries'",
@@ -187,20 +195,20 @@
           "category": "markets",
           "snippet": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
           "published": "2026-07-29T08:49:27.000Z"
-        },
-        {
-          "title": "1975: The world's first shop for left-handers",
-          "link": "https://www.bbc.co.uk/videos/cr47gvdk9n3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A London shop selling goods designed for left-handed people was doing a brisk trade.",
-          "published": "2026-07-29T07:23:40.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+          "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\"…",
+          "published": "2026-07-29T22:17:38.000Z"
+        },
         {
           "title": "Mark Zuckerberg is planning a big push into personal AI agents",
           "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
@@ -232,6 +240,14 @@
           "category": "tech",
           "snippet": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok…",
           "published": "2026-07-29T21:06:52.000Z"
+        },
+        {
+          "title": "The Cold Email",
+          "link": "https://zachholman.com/posts/cold-email",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T21:06:42.000Z"
         },
         {
           "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spying doesn't require legs - and neither does the FCC's robot…",
           "published": "2026-07-29T18:13:09.000Z"
-        },
-        {
-          "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
-          "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Google's new API relies on parents to set age ranges in Family Link.",
-          "published": "2026-07-29T18:08:22.000Z"
-        },
-        {
-          "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-          "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.",
-          "published": "2026-07-29T17:58:24.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "This Attorney Wouldn t Let The Supreme Court Have The Last Word",
+          "link": "https://abovethelaw.com/2026/07/this-attorney-wouldnt-let-the-supreme-court-have-the-last-word/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "She didn't take 'none but men' as an answer. The post This Attorney Wouldn t Let The Supreme Court Have The Last Word appeared first on Above the Law .",
+          "published": "2026-07-29T22:13:00.000Z"
+        },
         {
           "title": "Data Centers In Space: An Absurd Fantasy Dumber Than Running Hundreds Of Tests On A Drop Of Blood",
           "link": "https://abovethelaw.com/2026/07/data-centers-in-space-an-absurd-fantasy-dumber-than-running-hundreds-of-tests-on-a-drop-of-blood/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "The general counsel who told the Senate his role was 'limited' has started publishing a target list. The post DHS General Counsel Names Four Federal Judges Worst Of The Worst As Threats Against Judiciary Hit 564 appeared first on Above…",
           "published": "2026-07-28T18:58:00.000Z"
-        },
-        {
-          "title": "Todd Blanche s Confirmation Is Being Held Up By Todd Blanche",
-          "link": "https://abovethelaw.com/2026/07/todd-blanches-confirmation-is-being-held-up-by-todd-blanche/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Two Republican senators want the slush fund killed in writing. Blanche testified it was dead, so writing it down shouldn't be hard. And yet... The post Todd Blanche s Confirmation Is Being Held Up By Todd Blanche appeared first on Above…",
-          "published": "2026-07-28T18:12:00.000Z"
         }
       ]
     }
