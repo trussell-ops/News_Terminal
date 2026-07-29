@@ -1,40 +1,48 @@
 {
-  "updated": "2026-07-29T19:50:11.609Z",
+  "updated": "2026-07-29T20:42:40.840Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
-          "link": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
-          "published": "2026-07-29T19:40:01.000Z"
-        },
-        {
-          "title": "Starbucks is about to report earnings. Here's what to expect",
-          "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Shares of Starbucks have risen 11% this year, raising its market cap to roughly $118 billion.",
-          "published": "2026-07-29T19:35:01.000Z"
-        },
-        {
-          "title": "US interest rates held for fifth time in a row",
+          "title": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
           "link": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
-          "published": "2026-07-29T19:30:40.000Z"
+          "published": "2026-07-29T20:32:50.000Z"
+        },
+        {
+          "title": "Carvana stock falls 15% as auto retailer's 2026 earnings guidance misses Wall Street's expectations",
+          "link": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Carvana said Wednesday it expects earnings of between $2.7 billion and $3 billion this year after reporting record quarterly results for the second quarter.",
+          "published": "2026-07-29T20:32:31.000Z"
         },
         {
           "title": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
           "link": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
           "source": "CNBC Business",
           "category": "markets",
-          "snippet": "The FTC sued Hims & Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
-          "published": "2026-07-29T18:24:09.000Z"
+          "snippet": "The FTC sued Hims and Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
+          "published": "2026-07-29T20:30:15.000Z"
+        },
+        {
+          "title": "Starbucks stock jumps as coffee giant raises full-year outlook",
+          "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Starbucks posted its fourth straight quarter of same-store sales growth, as it continues a turnaround under CEO Brian Niccol.",
+          "published": "2026-07-29T20:27:19.000Z"
+        },
+        {
+          "title": "Chipotle hikes same-store sales forecast as diners return for burrito bowls",
+          "link": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
+          "published": "2026-07-29T20:19:31.000Z"
         },
         {
           "title": "'We are rescuing unpicked blackberries'",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Customers says they returned from their holidays to find their cars damaged and dirty.",
           "published": "2026-07-29T05:12:15.000Z"
-        },
-        {
-          "title": "'Why we are rescuing unpicked blackberries'",
-          "link": "https://www.bbc.co.uk/news/videos/cqx7e3eyl8zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Low-income households will benefit from blackberries being collected, a community group says.",
-          "published": "2026-07-29T05:08:01.000Z"
         }
       ]
     },
@@ -202,20 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Xbox revenue drops 10 percent as Microsoft s cloud and AI business surges",
+          "link": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 14 percent, according to Microsoft's…",
+          "published": "2026-07-29T20:26:48.000Z"
+        },
+        {
+          "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
+          "link": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T20:21:48.000Z"
+        },
+        {
+          "title": "A Trampoline",
+          "link": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T20:14:36.000Z"
+        },
+        {
+          "title": "Claude Is Down",
+          "link": "https://status.claude.com/incidents/q2kg8n613kr3",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T19:50:42.000Z"
+        },
+        {
           "title": "Kimi K3-256k",
           "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-29T19:25:33.000Z"
-        },
-        {
-          "title": "Balcony Solar: $1.74&#x2F;watt direct plug-in solar",
-          "link": "https://www.brightsaver.org/balcony-solar-kits",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-29T19:25:17.000Z"
         },
         {
           "title": "How much can you delegate to agents?",
@@ -240,14 +264,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-29T18:50:10.000Z"
-        },
-        {
-          "title": "The motion-sickness cure hidden in iPhone settings",
-          "link": "https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-29T18:43:18.000Z"
         },
         {
           "title": "How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
           "published": "2026-07-29T15:52:48.000Z"
-        },
-        {
-          "title": "Superlogical",
-          "link": "https://www.superlogical.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-29T15:41:33.000Z"
-        },
-        {
-          "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
-          "link": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Improved efficiency in EPP mode leads to ~32% jump in \"1% low\" frame rates.",
-          "published": "2026-07-29T15:33:20.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "AI For Criminal Defense: It’s An Issue Of Priorities. And Money.",
+          "link": "https://abovethelaw.com/2026/07/ai-for-criminal-defense-its-an-issue-of-priorities-and-money/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "There just aren’t that many criminal defense customers with the funds to buy a lot of tech and AI stuff. The post AI For Criminal Defense: It’s An Issue Of Priorities. And Money. appeared first on Above the Law .",
+          "published": "2026-07-29T20:04:00.000Z"
+        },
         {
           "title": "The Unexpected Downside Of Becoming A Supreme Court Justice",
           "link": "https://abovethelaw.com/2026/07/the-unexpected-downside-of-becoming-a-supreme-court-justice/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "In honor of Shark Week, here’s a deep dive into the sources of associates for five top law firms. The post Where Biglaw Gets Its Lawyers: An ATL Infographic appeared first on Above the Law .",
           "published": "2026-07-28T17:32:00.000Z"
-        },
-        {
-          "title": "Webinar: Why Contract Ownership Is Your Most Expensive Blind Spot",
-          "link": "https://abovethelaw.com/2026/07/webinar-why-contract-ownership-is-your-most-expensive-blind-spot/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] Join us for this webinar as the group will dig into what the new global data reveals about why contract ownership remains Legal's most expensive blind spot. The post Webinar: Why Contract Ownership Is Your Most Expensive Blind…",
-          "published": "2026-07-28T17:01:00.000Z"
         }
       ]
     }
