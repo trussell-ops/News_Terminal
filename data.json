@@ -1,16 +1,24 @@
 {
-  "updated": "2026-07-29T07:45:45.768Z",
+  "updated": "2026-07-29T10:30:49.133Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Ticket prices set to rise as Heathrow able to recover runway project money",
+          "title": "OpenAI says its rogue AI tried to hack other companies",
+          "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+          "published": "2026-07-29T08:49:27.000Z"
+        },
+        {
+          "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
           "link": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
-          "published": "2026-07-29T07:29:31.000Z"
+          "published": "2026-07-29T08:22:53.000Z"
         },
         {
           "title": "1975: The world's first shop for left-handers",
@@ -19,6 +27,14 @@
           "category": "markets",
           "snippet": "A London shop selling goods designed for left-handed people was doing a brisk trade.",
           "published": "2026-07-29T07:23:40.000Z"
+        },
+        {
+          "title": "How cow showers and fans help farmers keep cattle cool",
+          "link": "https://www.bbc.co.uk/news/articles/c62qz2geq93o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Dairy farmers are using cow showers and fans to protect cattle as hotter summers hit milk production.",
+          "published": "2026-07-29T05:18:49.000Z"
         },
         {
           "title": "Unauthorised airport car park grows despite stop notice",
@@ -85,19 +101,11 @@
           "published": "2026-07-28T23:00:12.000Z"
         },
         {
-          "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
-          "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
-          "published": "2026-07-28T23:00:10.000Z"
-        },
-        {
           "title": "'Don't wait until you want revenge' - why prenups are on the rise",
           "link": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Around one in three young couples are now signing prenups to set out who gets what in the event of divorce.",
+          "snippet": "More young couples are now signing prenups to set out who gets what in the event of divorce.",
           "published": "2026-07-28T23:00:07.000Z"
         },
         {
@@ -187,20 +195,28 @@
           "category": "markets",
           "snippet": "The director is due to work on scripts based on the popular tabletop hobby, Games Workshop says.",
           "published": "2026-07-28T13:59:24.000Z"
-        },
-        {
-          "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results",
-          "link": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Boeing took a $280 million charge on its long-delayed Air Force One program.",
-          "published": "2026-07-28T13:56:52.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "ChatGPT claims rogue AI attacked more companies",
+          "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T09:03:17.000Z"
+        },
+        {
+          "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+          "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T07:18:24.000Z"
+        },
         {
           "title": "More Tailscale tricks for your jailbroken Kindle",
           "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
@@ -256,22 +272,6 @@
           "category": "tech",
           "snippet": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
           "published": "2026-07-29T01:00:36.000Z"
-        },
-        {
-          "title": "Multiple Mouse Cursors in Wayland",
-          "link": "https://blinry.org/multi-seat-wayland/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-29T00:59:37.000Z"
-        },
-        {
-          "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
-          "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-29T00:32:08.000Z"
         },
         {
           "title": "Hubble: Open-source notetaking app for you and your agents",
