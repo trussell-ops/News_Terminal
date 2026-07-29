@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T01:44:22.299Z",
+  "updated": "2026-07-29T05:00:09.221Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,7 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
-          "published": "2026-07-29T01:22:14.000Z"
+          "published": "2026-07-29T02:30:50.000Z"
         },
         {
           "title": "Audi continues U.S. product push with three-row Q9 SUV",
@@ -18,7 +18,7 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Audi sales have struggled in the U.S. over the last several quarters. The brand has been hit by tariffs and a market shift away from EVs. New product may help.",
-          "published": "2026-07-29T01:00:01.000Z"
+          "published": "2026-07-29T01:56:52.000Z"
         },
         {
           "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
@@ -202,20 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
-          "link": "https://andreadimatteo.com/md-to-html-compiler.html",
+          "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+          "link": "https://transformer-transformer.github.io/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-29T01:04:30.000Z"
+          "published": "2026-07-29T03:52:29.000Z"
         },
         {
-          "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
-          "link": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
+          "title": "Hooray for the Sockets Interface",
+          "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-29T00:44:26.000Z"
+          "published": "2026-07-29T02:25:29.000Z"
+        },
+        {
+          "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+          "link": "https://github.com/jagg-ix/zil-lean",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T02:22:04.000Z"
+        },
+        {
+          "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+          "link": "https://learnvector.ai/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T01:49:19.000Z"
+        },
+        {
+          "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
+          "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
+          "published": "2026-07-29T01:00:36.000Z"
+        },
+        {
+          "title": "Multiple Mouse Cursors in Wayland",
+          "link": "https://blinry.org/multi-seat-wayland/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T00:59:37.000Z"
         },
         {
           "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
@@ -242,6 +274,14 @@
           "published": "2026-07-29T00:11:23.000Z"
         },
         {
+          "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+          "link": "https://studio.academa.ai/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T00:07:43.000Z"
+        },
+        {
           "title": "ReFrame – The EPaper Camera",
           "link": "https://reframe.camera/",
           "source": "Hacker News",
@@ -256,14 +296,6 @@
           "category": "tech",
           "snippet": "The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission…",
           "published": "2026-07-28T22:37:53.000Z"
-        },
-        {
-          "title": "Underwater oxygen loss threatens earth's stability, researchers warn",
-          "link": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T22:31:14.000Z"
         },
         {
           "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
@@ -304,14 +336,6 @@
           "category": "tech",
           "snippet": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
           "published": "2026-07-28T21:36:39.000Z"
-        },
-        {
-          "title": "Running Kimi K3 on a M1 Max",
-          "link": "https://github.com/gavamedia/deltafin",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T21:35:19.000Z"
         },
         {
           "title": "The union drive at the Wikimedia Foundation is expanding",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "The final condition will shock you! (It won’t. It’s taxes.)",
           "published": "2026-07-28T20:43:19.000Z"
-        },
-        {
-          "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-          "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
-          "published": "2026-07-28T20:20:20.000Z"
-        },
-        {
-          "title": "Pacing the frontier",
-          "link": "https://www.pacingthefrontier.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T20:09:09.000Z"
-        },
-        {
-          "title": "AI leaders sign a statement asking the government to do something about automated AI",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI…",
-          "published": "2026-07-28T19:46:43.000Z"
         }
       ]
     },
