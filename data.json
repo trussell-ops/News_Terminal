@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-28T23:51:32.225Z",
+  "updated": "2026-07-29T01:44:22.299Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Trump administration bans new Chinese humanoid robots",
+          "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+          "published": "2026-07-29T01:22:14.000Z"
+        },
+        {
+          "title": "Audi continues U.S. product push with three-row Q9 SUV",
+          "link": "https://www.cnbc.com/2026/07/28/audi-q9-suv.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Audi sales have struggled in the U.S. over the last several quarters. The brand has been hit by tariffs and a market shift away from EVs. New product may help.",
+          "published": "2026-07-29T01:00:01.000Z"
+        },
         {
           "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
           "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
@@ -179,28 +195,60 @@
           "category": "markets",
           "snippet": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
           "published": "2026-07-28T01:53:58.000Z"
-        },
-        {
-          "title": "Is it time to stop using glue and labels on paper?",
-          "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
-          "published": "2026-07-27T23:00:06.000Z"
-        },
-        {
-          "title": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
-          "link": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Beginning in early 2027, YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies.",
-          "published": "2026-07-27T20:10:03.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+          "link": "https://andreadimatteo.com/md-to-html-compiler.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T01:04:30.000Z"
+        },
+        {
+          "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
+          "link": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T00:44:26.000Z"
+        },
+        {
+          "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+          "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T00:32:08.000Z"
+        },
+        {
+          "title": "The Difference Between a Button and a Link",
+          "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T00:12:14.000Z"
+        },
+        {
+          "title": "Hubble: Open-source notetaking app for you and your agents",
+          "link": "https://www.hubble.md/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T00:11:23.000Z"
+        },
+        {
+          "title": "ReFrame – The EPaper Camera",
+          "link": "https://reframe.camera/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-28T23:27:09.000Z"
+        },
         {
           "title": "The US is banning foreign robots",
           "link": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
@@ -258,12 +306,12 @@
           "published": "2026-07-28T21:36:39.000Z"
         },
         {
-          "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-          "link": "https://github.com/anthropics/cryptography-research-demo",
+          "title": "Running Kimi K3 on a M1 Max",
+          "link": "https://github.com/gavamedia/deltafin",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-28T21:22:48.000Z"
+          "published": "2026-07-28T21:35:19.000Z"
         },
         {
           "title": "The union drive at the Wikimedia Foundation is expanding",
@@ -298,7 +346,7 @@
           "published": "2026-07-28T20:58:39.000Z"
         },
         {
-          "title": "OpenAI just open-sourced Codex Security",
+          "title": "Codex Security",
           "link": "https://github.com/openai/codex-security",
           "source": "Hacker News",
           "category": "tech",
@@ -322,14 +370,6 @@
           "published": "2026-07-28T20:43:19.000Z"
         },
         {
-          "title": "Toolcraft",
-          "link": "https://toolcraft.sh",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-28T20:37:29.000Z"
-        },
-        {
           "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
           "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
           "source": "Ars Technica",
@@ -338,12 +378,12 @@
           "published": "2026-07-28T20:20:20.000Z"
         },
         {
-          "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
-          "link": "https://github.com/ghaziwali/Hulios",
+          "title": "Pacing the frontier",
+          "link": "https://www.pacingthefrontier.com/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-28T19:54:38.000Z"
+          "published": "2026-07-28T20:09:09.000Z"
         },
         {
           "title": "AI leaders sign a statement asking the government to do something about automated AI",
@@ -352,46 +392,6 @@
           "category": "tech",
           "snippet": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI…",
           "published": "2026-07-28T19:46:43.000Z"
-        },
-        {
-          "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
-          "link": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A Georgia man was charged with a felony for allegedly wiping his phone while being questioned by Customs and Border Protection. Samuel Tunick had something in common with others who have had their devices searched at airports: He was an…",
-          "published": "2026-07-28T19:35:00.000Z"
-        },
-        {
-          "title": "AI’s finally expensive enough to make Wall Street nervous",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new…",
-          "published": "2026-07-28T19:33:03.000Z"
-        },
-        {
-          "title": "This comfy gaming headset that can play audio from two sources is $25",
-          "link": "https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "While most gaming headsets have moved towards low-latency wireless connections, there’s something to be said for a budget-friendly, capable wired headset. The EPOS H3 Hybrid is on sale for just $24.99 at Woot, a whopping 75 percent off…",
-          "published": "2026-07-28T19:18:15.000Z"
-        },
-        {
-          "title": "Logitech will pull a Nintendo — only European mice will come with replaceable batteries",
-          "link": "https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "In June, Nintendo announced a new version of the Switch 2 that should let you easily replace its battery pack - but only for Europe. Logitech will do much the same. User-replaceable batteries will be the law in Europe in February 2027,…",
-          "published": "2026-07-28T19:12:48.000Z"
-        },
-        {
-          "title": "Apple won’t turn on any ‘restricted mode’ for missed lease payments",
-          "link": "https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple says it won't limit the capabilities of devices leased through its new Upgrade program if you miss a payment. In an emailed statement to The Verge, Apple spokesperson Brian Bumbery says, \"There will be no restricted mode and/or…",
-          "published": "2026-07-28T18:43:57.000Z"
         }
       ]
     },
