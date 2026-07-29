@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-29T22:51:53.249Z",
+  "updated": "2026-07-29T23:53:33.513Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
+          "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business.",
+          "published": "2026-07-29T23:02:18.000Z"
+        },
+        {
+          "title": "Interest rates expected to be held again by Bank of England",
+          "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
+          "published": "2026-07-29T23:01:56.000Z"
+        },
         {
           "title": "Meta shares fall as frustration grows over AI spending plans",
           "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "With Andy Burnham saying he wants to bring \"substantial change\" to social care in England, BBC Verify looks at what could be done.",
           "published": "2026-07-29T10:47:08.000Z"
-        },
-        {
-          "title": "Matcha and protein pivot pays off for Greggs as profits rise",
-          "link": "https://www.bbc.co.uk/news/articles/cx2r0nyx99yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "UK's largest fast-food chain says it is changing its menu \"in line with changing tastes and trends\".",
-          "published": "2026-07-29T10:37:33.000Z"
-        },
-        {
-          "title": "OpenAI says its rogue AI tried to hack other companies",
-          "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
-          "published": "2026-07-29T08:49:27.000Z"
         }
       ]
     },
@@ -202,12 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+          "link": "https://archive.org/details/mancomputerbyjoh0000john",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T22:53:44.000Z"
+        },
+        {
+          "title": "LLM Honeypot",
+          "link": "https://llm2human.pages.dev/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T22:51:03.000Z"
+        },
+        {
+          "title": "GitHub is the wrong shape for this new world",
+          "link": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T22:27:09.000Z"
+        },
+        {
           "title": "Microsoft confirms Copilot ‘super app’ coming this year",
           "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\"…",
           "published": "2026-07-29T22:17:38.000Z"
+        },
+        {
+          "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+          "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+          "published": "2026-07-29T22:07:06.000Z"
         },
         {
           "title": "Mark Zuckerberg is planning a big push into personal AI agents",
@@ -266,6 +298,14 @@
           "published": "2026-07-29T21:01:01.000Z"
         },
         {
+          "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+          "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Advertisers agreed to “reset” relationship with X.",
+          "published": "2026-07-29T20:57:35.000Z"
+        },
+        {
           "title": "The coolest use for the Vision Pro",
           "link": "https://christianselig.com/2026/07/vision-pro-house/",
           "source": "Hacker News",
@@ -282,14 +322,6 @@
           "published": "2026-07-29T20:26:48.000Z"
         },
         {
-          "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
-          "link": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-29T20:21:48.000Z"
-        },
-        {
           "title": "A Trampoline",
           "link": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
           "source": "Hacker News",
@@ -304,14 +336,6 @@
           "category": "tech",
           "snippet": "Government ban on foreign-made robots may hinder instead of help US robotics.",
           "published": "2026-07-29T20:03:42.000Z"
-        },
-        {
-          "title": "Claude: Elevated errors across all models",
-          "link": "https://status.claude.com/incidents/q2kg8n613kr3",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-29T19:50:42.000Z"
         },
         {
           "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
@@ -338,14 +362,6 @@
           "published": "2026-07-29T19:23:27.000Z"
         },
         {
-          "title": "How much can you delegate to agents?",
-          "link": "https://newsletter.posthog.com/p/agent-autonomy",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-29T19:07:13.000Z"
-        },
-        {
           "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
           "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
           "source": "Hacker News",
@@ -354,7 +370,7 @@
           "published": "2026-07-29T18:57:10.000Z"
         },
         {
-          "title": "How to not die by a thousand cuts or how to think about software quality (2023)",
+          "title": "How to think about software quality (2022)",
           "link": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
           "source": "Hacker News",
           "category": "tech",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-29T18:28:51.000Z"
-        },
-        {
-          "title": "OpenAI president says it s building a family of devices for its AI chatbots",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one…",
-          "published": "2026-07-29T18:15:02.000Z"
-        },
-        {
-          "title": "The US government just banned Roombas",
-          "link": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spying doesn't require legs - and neither does the FCC's robot…",
-          "published": "2026-07-29T18:13:09.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Bar Exam That Went So Horribly Wrong The Whole Thing Got Canceled See Also",
+          "link": "https://abovethelaw.com/2026/07/the-bar-exam-that-went-so-horribly-wrong-the-whole-thing-got-canceled-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The NCBE Called It A 'Historic Milestone.' Washington Canceled It. The state pulled the plug on the entire exam rather than trust the tech again. What About Diploma Privilege? The question answers itself after Washington torched an entire…",
+          "published": "2026-07-29T23:00:00.000Z"
+        },
         {
           "title": "This Attorney Wouldn t Let The Supreme Court Have The Last Word",
           "link": "https://abovethelaw.com/2026/07/this-attorney-wouldnt-let-the-supreme-court-have-the-last-word/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Shocking! The post Trump Fails To File Promised Birthright Citizenship Rehearing Before Deadline appeared first on Above the Law .",
           "published": "2026-07-28T19:43:00.000Z"
-        },
-        {
-          "title": "DHS General Counsel Names Four Federal Judges Worst Of The Worst As Threats Against Judiciary Hit 564",
-          "link": "https://abovethelaw.com/2026/07/dhs-general-counsel-names-four-federal-judges-worst-of-the-worst-as-threats-against-judiciary-hit-564/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The general counsel who told the Senate his role was 'limited' has started publishing a target list. The post DHS General Counsel Names Four Federal Judges Worst Of The Worst As Threats Against Judiciary Hit 564 appeared first on Above…",
-          "published": "2026-07-28T18:58:00.000Z"
         }
       ]
     }
