@@ -1,16 +1,40 @@
 {
-  "updated": "2026-07-30T17:14:58.755Z",
+  "updated": "2026-07-30T18:52:42.018Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Jersey Mike's stock falls 2% in public market debut after pricing shares at $23",
+          "title": "Jersey Mike's stock falls 3% in public market debut after pricing shares at $23",
           "link": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Jersey Mike's priced its initial public offering at $23 per share.",
-          "published": "2026-07-30T17:13:19.000Z"
+          "published": "2026-07-30T17:59:19.000Z"
+        },
+        {
+          "title": "Retailer Reformation opens flat in NYSE debut as CEO says company is 'ready to scale'",
+          "link": "https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Retailer Reformation made its IPO on the New York Stock Exchange on Thursday under the ticker symbol \"REF.\"",
+          "published": "2026-07-30T17:41:11.000Z"
+        },
+        {
+          "title": "British Airways flight called mayday on approach to Heathrow",
+          "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
+          "published": "2026-07-30T17:34:26.000Z"
+        },
+        {
+          "title": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
+          "link": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "FIFA has faced backlash from global soccer governing bodies over the proposal to allow private investment.",
+          "published": "2026-07-30T17:30:06.000Z"
         },
         {
           "title": "How NBCUniversal's deal with YouTube could jump-start the next chapter of the streaming wars",
@@ -19,14 +43,6 @@
           "category": "markets",
           "snippet": "The next iteration of the streaming wars is likely to be about aggregating content on the biggest existing platforms.",
           "published": "2026-07-30T17:05:28.000Z"
-        },
-        {
-          "title": "Retailer Reformation opens flat in market debut after pricing IPO at $15",
-          "link": "https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Retailer Reformation made its IPO on the New York Stock Exchange on Thursday under the ticker symbol \"REF.\"",
-          "published": "2026-07-30T16:58:41.000Z"
         },
         {
           "title": "Hundreds of jobs to go at Jaguar Land Rover",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time.",
           "published": "2026-07-29T22:44:18.000Z"
-        },
-        {
-          "title": "The Chinese robot army transforming the UK's retail industry",
-          "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-          "published": "2026-07-29T22:08:29.000Z"
-        },
-        {
-          "title": "Carvana stock falls as auto retailer’s 2026 earnings guidance misses Wall Street’s expectations",
-          "link": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Carvana said Wednesday it expects earnings of between $2.7 billion and $3 billion this year after reporting record quarterly results for the second quarter.",
-          "published": "2026-07-29T21:47:28.000Z"
         }
       ]
     },
@@ -202,12 +202,124 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you…",
+          "published": "2026-07-30T18:43:26.000Z"
+        },
+        {
+          "title": "Postgres Queues Actually Scale",
+          "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-30T18:39:32.000Z"
+        },
+        {
+          "title": "So you want to use plants to reduce CO₂",
+          "link": "https://dynomight.net/plants/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-30T18:31:02.000Z"
+        },
+        {
+          "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+          "link": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-30T18:08:48.000Z"
+        },
+        {
+          "title": "Govee s portable smart lamp is down to one of its best prices to date",
+          "link": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Buying multiple lamps for different rooms can get expensive. Govee’s rechargeable Table Lamp Classic gives you one lamp you can use throughout your home instead of getting one for every room, and right now it’s down to $59 ($21 off) at…",
+          "published": "2026-07-30T18:01:26.000Z"
+        },
+        {
+          "title": "CodePen 2.0",
+          "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-30T17:52:51.000Z"
+        },
+        {
+          "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+          "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-30T17:31:07.000Z"
+        },
+        {
+          "title": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
+          "link": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of the unusual terrain texture before, called…",
+          "published": "2026-07-30T17:20:06.000Z"
+        },
+        {
+          "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+          "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body…",
+          "published": "2026-07-30T17:18:45.000Z"
+        },
+        {
+          "title": "Advancing the price-performance frontier with GPT‑5.6",
+          "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-30T17:15:51.000Z"
+        },
+        {
+          "title": "ABC demands FCC drop its ‘punitive’ early license renewal of its stations",
+          "link": "https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "ABC filed its formal opposition to the Federal Communications Commission's effort to force it to submit to an early renewal of its broadcast station licenses, calling it an effort to chill the speech of broadcasters across the country. In…",
+          "published": "2026-07-30T17:08:14.000Z"
+        },
+        {
+          "title": "Read This Before You Buy That TV Streaming Stick",
+          "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-30T17:04:53.000Z"
+        },
+        {
           "title": "Rise Reforming (YC S26) Is Hiring",
           "link": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-30T17:00:21.000Z"
+        },
+        {
+          "title": "Google is working on Chrome updates that don’t require restarts",
+          "link": "https://www.theverge.com/tech/973174/google-chrome-update-no-restart",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google is working on a way to apply Chrome updates without requiring you to restart your browser. In a post on Thursday, Google outlines its approach to bug fixes in the age of AI, while noting that it's trying to make updates less…",
+          "published": "2026-07-30T17:00:00.000Z"
+        },
+        {
+          "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
+          "link": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold in a post on his Substack. The renders, if accurate, show that the new…",
+          "published": "2026-07-30T16:57:39.000Z"
         },
         {
           "title": "How Olinia Turns Mexico's EV Ambition into Reality",
@@ -218,12 +330,20 @@
           "published": "2026-07-30T16:36:47.000Z"
         },
         {
-          "title": "Toot.community Is Shutting Down",
-          "link": "https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2",
+          "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+          "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't…",
+          "published": "2026-07-30T16:33:32.000Z"
+        },
+        {
+          "title": "Stacked PRs are now live on GitHub",
+          "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-07-30T16:33:41.000Z"
+          "published": "2026-07-30T16:26:16.000Z"
         },
         {
           "title": "Quantum computers outperform classical ones, with results you can trust",
@@ -272,132 +392,28 @@
           "category": "tech",
           "snippet": "The SkyNomad N90 Max is the latest electric SUV from Xiaomi and its first extended-range EV, with a claimed range of over 1,705 km (about 1,059 miles). It will come in both five- and seven-seat configurations, as well as an N90 Max…",
           "published": "2026-07-30T15:05:09.000Z"
-        },
-        {
-          "title": "Razer’s new keyboards drop the price on powerful gaming features",
-          "link": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array…",
-          "published": "2026-07-30T15:00:00.000Z"
-        },
-        {
-          "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
-          "link": "https://github.com/hamzarehmandeveloper/claude-account",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-30T14:58:59.000Z"
-        },
-        {
-          "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
-          "link": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-30T14:58:07.000Z"
-        },
-        {
-          "title": "New MCP specification addresses the main barrier to enterprise adoption",
-          "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
-          "published": "2026-07-30T14:53:07.000Z"
-        },
-        {
-          "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
-          "link": "https://github.com/n67094/sdl_gp",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-30T14:36:59.000Z"
-        },
-        {
-          "title": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
-          "link": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has granted the Amazon-owned Zoox a temporary exemption,…",
-          "published": "2026-07-30T14:35:43.000Z"
-        },
-        {
-          "title": "Trusted URLs via Cryptographic Signatures",
-          "link": "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-30T14:31:13.000Z"
-        },
-        {
-          "title": "Hacker Public Radio",
-          "link": "https://hackerpublicradio.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-30T14:29:27.000Z"
-        },
-        {
-          "title": "Microsoft’s latest Surface Laptop is hundreds off at Best Buy",
-          "link": "https://www.theverge.com/gadgets/973056/surface-laptop-16gb-ram-microsd-express-switch-2-lego-game-boy-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you’re keen on getting a laptop that looks fantastic, feels great to use, and doesn’t cost too much, well, pickings are slim right due to RAMageddon. However, there’s a good deal happening at Best Buy through Thursday, July 30th, on…",
-          "published": "2026-07-30T14:22:20.000Z"
-        },
-        {
-          "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
-          "link": "https://prized.dev",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-30T13:29:03.000Z"
-        },
-        {
-          "title": "Upper stage impacting the moon on 2026 August 5",
-          "link": "https://www.projectpluto.com/25010d.htm",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-30T13:21:34.000Z"
-        },
-        {
-          "title": "RFC 8890 – The Internet is for End Users (2020)",
-          "link": "https://mnot.net/blog/2020/for_the_users",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-30T13:07:53.000Z"
-        },
-        {
-          "title": "Spotify Running Mode helps match tunes to tempo",
-          "link": "https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Spotify has introduced a new Running Mode feature that makes it easier to curate playlists around your workout goals, music tastes, and desired beats per minute (BPM). The aim is to help you \"spend less time hunting for the right music…",
-          "published": "2026-07-30T13:00:00.000Z"
-        },
-        {
-          "title": "Why is everyone trying to build a solid-state battery?",
-          "link": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-30T12:38:51.000Z"
-        },
-        {
-          "title": "Amazon’s short story collections are one of the best reasons to own a Kindle",
-          "link": "https://www.theverge.com/tech/972612/amazons-kindle-short-stories",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Over the last few years, I've gradually shifted away from ebooks. It's been part of a general return to physical media, an attempt to create a deeper sense of ownership over the art I love and collect. A Kindle is obviously more…",
-          "published": "2026-07-30T12:30:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Have You Been Injured In A Football-Related Accident? Temple s Uniform Now Has A Firm For That.",
+          "link": "https://abovethelaw.com/2026/07/have-you-been-injured-in-a-football-related-accident-temples-uniform-now-has-a-firm-for-that/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The first law firm on a Division I football uniform. The post Have You Been Injured In A Football-Related Accident? Temple s Uniform Now Has A Firm For That. appeared first on Above the Law .",
+          "published": "2026-07-30T18:17:00.000Z"
+        },
+        {
+          "title": "Supreme Court Approval Hits Rock Bottom As Public Confidence Continues To Crater",
+          "link": "https://abovethelaw.com/2026/07/supreme-court-approval-hits-rock-bottom-as-public-confidence-continues-to-crater/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Gallup finds record-low support for the Court as its legitimacy crisis shows no signs of easing. The post Supreme Court Approval Hits Rock Bottom As Public Confidence Continues To Crater appeared first on Above the Law .",
+          "published": "2026-07-30T17:32:00.000Z"
+        },
         {
           "title": "Louisiana Supreme Court Forcibly Recuses Its Own Chief Justice",
           "link": "https://abovethelaw.com/2026/07/louisiana-supreme-court-forcibly-recuses-its-own-chief-justice/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "The rollout of the NextGen bar exam left a lot to be desired. The post BAR EXAM DISASTER! All The Details From Around The Country. appeared first on Above the Law .",
           "published": "2026-07-29T14:47:00.000Z"
-        },
-        {
-          "title": "The push to reduce the Supreme Court’s power",
-          "link": "https://www.scotusblog.com/2026/07/the-push-to-reduce-the-supreme-courts-power/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Supreme Court reform is in the spotlight this summer after a contentious term in which the court limited Congress’ ability to prevent the president from removing the heads of certain federal agencies , weakened a central provision of the…",
-          "published": "2026-07-29T14:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 07.29.26",
-          "link": "https://abovethelaw.com/2026/07/morning-docket-07-29-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Federal judges call out government attorneys for the 3 \"U\"s: \"unlawful,” “unethical” and “unseemly” conduct. [ Pro Publica ] * Gibson Dunn snags big litigation team from Wachtell. [ NY Times ] * Judge orders immigration authorities to…",
-          "published": "2026-07-29T13:33:31.000Z"
         }
       ]
     }
