@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-29T23:53:33.513Z",
+  "updated": "2026-07-30T01:27:33.367Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Trump considering AI controls after OpenAI hacking incidents",
+          "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+          "published": "2026-07-30T00:41:28.000Z"
+        },
+        {
+          "title": "Your burger costs more this summer, but farmers say they're not cashing in",
+          "link": "https://www.bbc.co.uk/news/articles/c1519n0d01jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The prices of beef, bread buns and bagged salad have risen sharply over the past year, figures show.",
+          "published": "2026-07-30T00:04:19.000Z"
+        },
         {
           "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
           "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
@@ -173,34 +189,42 @@
           "published": "2026-07-29T11:35:35.000Z"
         },
         {
-          "title": "What's happening to UK interest rates and what does it mean for mortgages?",
-          "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
-          "published": "2026-07-29T11:09:30.000Z"
-        },
-        {
           "title": "Cyclospora outbreak tied to Taco Bell will steal the spotlight from Yum Brands' earnings",
           "link": "https://www.cnbc.com/2026/07/29/cyclospora-outbreak-taco-bell-yum-brands-earnings.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Wall Street is projecting a strong second quarter for Yum Brands, but investors' focus will be on updates related to the cyclospora outbreak tied to Taco Bell.",
           "published": "2026-07-29T11:00:01.000Z"
-        },
-        {
-          "title": "Andy Burnham wants to fix social care - what are the options?",
-          "link": "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "With Andy Burnham saying he wants to bring \"substantial change\" to social care in England, BBC Verify looks at what could be done.",
-          "published": "2026-07-29T10:47:08.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Starter Homes Are Piling Up While Luxury Homes Fly Off the Market",
+          "link": "https://www.zillow.com/research/starter-homes-price-tiers-36571/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-30T01:03:22.000Z"
+        },
+        {
+          "title": "Show HN: A local merge queue for parallel Claude Code agents",
+          "link": "https://github.com/funador/claude-code-merge-queue",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-30T00:20:16.000Z"
+        },
+        {
+          "title": "The Productivity Mirage",
+          "link": "https://frantic.im/mirage/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-29T23:18:11.000Z"
+        },
         {
           "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
           "link": "https://archive.org/details/mancomputerbyjoh0000john",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-29T18:57:10.000Z"
-        },
-        {
-          "title": "How to think about software quality (2022)",
-          "link": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-29T18:42:10.000Z"
-        },
-        {
-          "title": "What’s the catch with the Apple Upgrade program?",
-          "link": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple's new Upgrade program is here, allowing you to lease select models of iPhones, iPads, Macs, and Watches with a relatively low monthly payment. The company promises you won't pay more than the full price of the device over the course…",
-          "published": "2026-07-29T18:40:06.000Z"
-        },
-        {
-          "title": "Turning a dumb AC unit smart (without losing my security deposit)",
-          "link": "https://prilik.com/blog/post/automating-ac-nyc/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-29T18:28:51.000Z"
         }
       ]
     },
