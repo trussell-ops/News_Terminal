@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-30T23:57:20.128Z",
+  "updated": "2026-07-31T02:28:43.730Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Three things we learned about AI from Big Tech earnings",
+          "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+          "published": "2026-07-31T01:31:50.000Z"
+        },
+        {
+          "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+          "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+          "published": "2026-07-31T01:31:14.000Z"
+        },
         {
           "title": "Apple warns of future 'supply constraints' for Mac, iPhone, iPad",
           "link": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss",
@@ -179,28 +195,20 @@
           "category": "markets",
           "snippet": "Large language models may give financial advisors a run for their money, but wealth management leaders say the human touch can't be replaced.",
           "published": "2026-07-30T15:02:24.000Z"
-        },
-        {
-          "title": "Jeep maker Stellantis swings to profit on rising demand in North America",
-          "link": "https://www.cnbc.com/2026/07/30/stellantis-q2-earnings-autos-jeep.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Auto giant Stellantis on Thursday swung to profit in the second quarter, boosted by rising demand in North America.",
-          "published": "2026-07-30T15:02:17.000Z"
-        },
-        {
-          "title": "US economic growth sees surprise slowdown in second quarter",
-          "link": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The economy grew at an annual rate of 1.5% in the three months to June, down from 2.1% seen in the previous quarter.",
-          "published": "2026-07-30T14:24:41.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "The Religion of Speed",
+          "link": "https://graybeard.ing/the-religion-of-speed/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-30T23:43:22.000Z"
+        },
         {
           "title": "The AI Aesthetic",
           "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
@@ -304,14 +312,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-30T18:40:52.000Z"
-        },
-        {
-          "title": "Making Postgres queues scale",
-          "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-30T18:39:32.000Z"
         },
         {
           "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
