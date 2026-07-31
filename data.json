@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-31T21:34:48.605Z",
+  "updated": "2026-07-31T22:51:43.497Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+          "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+          "published": "2026-07-31T21:57:59.000Z"
+        },
+        {
+          "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+          "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
+          "published": "2026-07-31T21:49:40.000Z"
+        },
         {
           "title": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
           "link": "https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html",
@@ -27,14 +43,6 @@
           "category": "markets",
           "snippet": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
           "published": "2026-07-31T20:19:03.000Z"
-        },
-        {
-          "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-          "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
-          "published": "2026-07-31T18:20:01.000Z"
         },
         {
           "title": "GM to launch proprietary in-vehicle AI system later this year",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
           "published": "2026-07-30T22:04:09.000Z"
-        },
-        {
-          "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
-          "link": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Rivian reduced its 2026 spending plans and slightly narrowed its previously forecast losses this year as the company reported second-quarter results.",
-          "published": "2026-07-30T21:19:16.000Z"
         }
       ]
     },
@@ -202,12 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-          "link": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
-          "source": "Hacker News",
+          "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+          "link": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-31T21:08:05.000Z"
+          "snippet": "Some group with no modern descendants contributed a lot to our genomes.",
+          "published": "2026-07-31T22:17:05.000Z"
+        },
+        {
+          "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
+          "link": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the…",
+          "published": "2026-07-31T22:09:11.000Z"
+        },
+        {
+          "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+          "link": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The term \"Milwaukee Should Syndrome\" was coined in 1981, based on cases in four women.",
+          "published": "2026-07-31T21:51:52.000Z"
+        },
+        {
+          "title": "Google plans to exempt sanctioned nations from Android developer verification",
+          "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
+          "published": "2026-07-31T21:35:56.000Z"
+        },
+        {
+          "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+          "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
+          "published": "2026-07-31T21:19:39.000Z"
         },
         {
           "title": "Loops (YC W22) Is Hiring a Product Educator",
@@ -226,7 +258,7 @@
           "published": "2026-07-31T20:44:29.000Z"
         },
         {
-          "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+          "title": "Claude published malicious code to the Internet and attacked 3 real companies",
           "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
           "source": "Ars Technica",
           "category": "tech",
@@ -240,6 +272,14 @@
           "category": "tech",
           "snippet": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
           "published": "2026-07-31T20:21:05.000Z"
+        },
+        {
+          "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+          "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-31T19:55:41.000Z"
         },
         {
           "title": "Apple’s new AirTags are back down to their best price",
@@ -288,14 +328,6 @@
           "category": "tech",
           "snippet": "The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension failure that could cause \"a loss of vehicle directional control,\" as reported earlier by…",
           "published": "2026-07-31T18:33:39.000Z"
-        },
-        {
-          "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
-          "link": "https://arxiv.org/abs/2607.28545",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-31T18:32:43.000Z"
         },
         {
           "title": "Using the railway network as a flatbed scanner [video]",
@@ -360,44 +392,28 @@
           "category": "tech",
           "snippet": "Wavelength and intensity in the infrared are translated into colors in the visible.",
           "published": "2026-07-31T17:58:38.000Z"
-        },
-        {
-          "title": "The ban on robot vacuums won’t make them safer, only worse",
-          "link": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them a better understanding of what they see,…",
-          "published": "2026-07-31T17:30:49.000Z"
-        },
-        {
-          "title": "China could supply EV manufacturing boom with recycled EVs",
-          "link": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Look at chemistry of batteries and motors shows big opportunity for recycling.",
-          "published": "2026-07-31T17:29:21.000Z"
-        },
-        {
-          "title": "Severance",
-          "link": "https://lcamtuf.substack.com/p/severance",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-31T17:15:09.000Z"
-        },
-        {
-          "title": "Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount",
-          "link": "https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Looking to start your own island paradise full of Miis based on family, friends, and celebrities, but don’t feel like paying full fare? Woot has Tomodachi Life: Living the Dream for Switch on sale for $52.99 (usually $59.95). Sort of like…",
-          "published": "2026-07-31T17:09:13.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Ultimate Clerkship Flex",
+          "link": "https://abovethelaw.com/2026/07/the-ultimate-clerkship-flex/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Only one justice can say two of his clerks got the, ahem, supreme promotion. The post The Ultimate Clerkship Flex appeared first on Above the Law .",
+          "published": "2026-07-31T22:16:00.000Z"
+        },
+        {
+          "title": "How To Gain Visibility Through Featured Snippets",
+          "link": "https://abovethelaw.com/2026/07/how-to-gain-visibility-through-featured-snippets/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Understanding how Google selects pages and content for these featured snippets is the first step toward making sure your law firm appears in the top spot with greater frequency. The post How To Gain Visibility Through Featured Snippets…",
+          "published": "2026-07-31T21:35:00.000Z"
+        },
         {
           "title": "The Blickstein Group Law Firm COO Survey: The More Things Change, The More Some Things Stay The Same",
           "link": "https://abovethelaw.com/2026/07/the-blickstein-group-law-firm-coo-survey-the-more-things-change-the-more-some-things-stay-the-same/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "In a normal world, Fauci had no right to invoke the Fifth Amendment. But in 2026 America, what other choice did he have? The post Dr. Fauci s Fifth Amendment Claim Exposes Giant Hole Opening In Rule Of Law appeared first on Above the Law .",
           "published": "2026-07-30T20:03:00.000Z"
-        },
-        {
-          "title": "Trump: I ll Pull Blanche s Nomination And Resubmit After Cornyn And Tillis Are Gone. Cornyn: Cool, Roll The Dice.",
-          "link": "https://abovethelaw.com/2026/07/trump-ill-pull-blanches-nomination-and-resubmit-after-cornyn-and-tillis-are-gone-cornyn-cool-roll-the-dice/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "That's a lot riding on the midterms. The post Trump: I ll Pull Blanche s Nomination And Resubmit After Cornyn And Tillis Are Gone. Cornyn: Cool, Roll The Dice. appeared first on Above the Law .",
-          "published": "2026-07-30T19:33:00.000Z"
-        },
-        {
-          "title": "Washington Bar Exam Chaos Leaves Future Legal Careers In Limbo",
-          "link": "https://abovethelaw.com/2026/07/washington-bar-exam-chaos-leaves-future-legal-careers-in-limbo/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A canceled July exam means delayed licenses, postponed careers, and fewer lawyers available to serve the public. The post Washington Bar Exam Chaos Leaves Future Legal Careers In Limbo appeared first on Above the Law .",
-          "published": "2026-07-30T19:00:40.000Z"
         }
       ]
     }
