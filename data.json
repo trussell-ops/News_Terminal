@@ -1,24 +1,24 @@
 {
-  "updated": "2026-07-31T20:14:53.243Z",
+  "updated": "2026-07-31T21:34:48.605Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
-        {
-          "title": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
-          "link": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports.",
-          "published": "2026-07-31T19:55:37.000Z"
-        },
         {
           "title": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
           "link": "https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Sony and Marvel's \"Spider-Man: Brave New Day\" is expected to haul in around $270 million domestically over its debut weekend.",
-          "published": "2026-07-31T19:12:06.000Z"
+          "published": "2026-07-31T21:06:36.000Z"
+        },
+        {
+          "title": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
+          "link": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports.",
+          "published": "2026-07-31T20:40:51.000Z"
         },
         {
           "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
@@ -26,7 +26,7 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
-          "published": "2026-07-31T19:07:44.000Z"
+          "published": "2026-07-31T20:19:03.000Z"
         },
         {
           "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
@@ -202,6 +202,46 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+          "link": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-31T21:08:05.000Z"
+        },
+        {
+          "title": "Loops (YC W22) Is Hiring a Product Educator",
+          "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-31T21:00:40.000Z"
+        },
+        {
+          "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+          "link": "https://arxiv.org/abs/2607.28233",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-07-31T20:44:29.000Z"
+        },
+        {
+          "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+          "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Had the hacks used conventional methods, someone would likely go to prison.",
+          "published": "2026-07-31T20:39:14.000Z"
+        },
+        {
+          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+          "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
+          "published": "2026-07-31T20:21:05.000Z"
+        },
+        {
           "title": "Apple’s new AirTags are back down to their best price",
           "link": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
           "source": "The Verge",
@@ -216,6 +256,14 @@
           "category": "tech",
           "snippet": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital…",
           "published": "2026-07-31T19:13:29.000Z"
+        },
+        {
+          "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+          "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "LemonLime’s CEO got “carried away” with tattoo gimmick.",
+          "published": "2026-07-31T19:04:56.000Z"
         },
         {
           "title": "Tailscale didn't stop the Hugging Face intrusion",
@@ -344,60 +392,20 @@
           "category": "tech",
           "snippet": "Looking to start your own island paradise full of Miis based on family, friends, and celebrities, but don’t feel like paying full fare? Woot has Tomodachi Life: Living the Dream for Switch on sale for $52.99 (usually $59.95). Sort of like…",
           "published": "2026-07-31T17:09:13.000Z"
-        },
-        {
-          "title": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
-          "link": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Sony doesn't think the move will hurt it financially.",
-          "published": "2026-07-31T17:07:42.000Z"
-        },
-        {
-          "title": "Here’s the problem with putting an AI image generator in Google Earth",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Now a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a…",
-          "published": "2026-07-31T17:05:46.000Z"
-        },
-        {
-          "title": "Miso (YC S16) is hiring for U.S. expansion",
-          "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-31T17:01:08.000Z"
-        },
-        {
-          "title": "The major labels propose rules to keep AI slop off the charts",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further…",
-          "published": "2026-07-31T16:36:48.000Z"
-        },
-        {
-          "title": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
-          "link": "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Filmmaker sues Netflix over stolen screener of unreleased Nicolas Cage movie.",
-          "published": "2026-07-31T16:17:55.000Z"
-        },
-        {
-          "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-          "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-31T16:15:31.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Blickstein Group Law Firm COO Survey: The More Things Change, The More Some Things Stay The Same",
+          "link": "https://abovethelaw.com/2026/07/the-blickstein-group-law-firm-coo-survey-the-more-things-change-the-more-some-things-stay-the-same/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The businesspeople say one thing, the lawyers another. Just like always. The post The Blickstein Group Law Firm COO Survey: The More Things Change, The More Some Things Stay The Same appeared first on Above the Law .",
+          "published": "2026-07-31T20:44:00.000Z"
+        },
         {
           "title": "Senior Partners Should Sometimes Take Advice From Junior Associates",
           "link": "https://abovethelaw.com/2026/07/senior-partners-should-sometimes-take-advice-from-junior-associates/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "A canceled July exam means delayed licenses, postponed careers, and fewer lawyers available to serve the public. The post Washington Bar Exam Chaos Leaves Future Legal Careers In Limbo appeared first on Above the Law .",
           "published": "2026-07-30T19:00:40.000Z"
-        },
-        {
-          "title": "Have You Been Injured In A Football-Related Accident? Temple s Uniform Now Has A Firm For That.",
-          "link": "https://abovethelaw.com/2026/07/have-you-been-injured-in-a-football-related-accident-temples-uniform-now-has-a-firm-for-that/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The first law firm on a Division I football uniform. The post Have You Been Injured In A Football-Related Accident? Temple s Uniform Now Has A Firm For That. appeared first on Above the Law .",
-          "published": "2026-07-30T18:17:00.000Z"
         }
       ]
     }
