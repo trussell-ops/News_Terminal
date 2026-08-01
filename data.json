@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T17:52:59.952Z",
+  "updated": "2026-08-01T18:54:39.893Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Postmortem for Kernel Soundness Bug #14576",
+          "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-01T18:32:20.000Z"
+        },
+        {
+          "title": "Tell HN: I hate your fuzzy search",
+          "link": "https://news.ycombinator.com/item?id=49136990",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-01T18:25:00.000Z"
+        },
+        {
+          "title": "Is this Billboard Hot 100 hit AI slop?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though,…",
+          "published": "2026-08-01T18:20:00.000Z"
+        },
+        {
+          "title": "NetBSD 11.0 Released",
+          "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-01T17:56:41.000Z"
+        },
+        {
           "title": "Spider-Man: Brand New Day leak racks up millions of views",
           "link": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
           "source": "The Verge",
@@ -210,20 +242,12 @@
           "published": "2026-08-01T17:00:12.000Z"
         },
         {
-          "title": "I ♥ RSS – A directory of people who love RSS",
+          "title": "A directory of people who love RSS",
           "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-01T16:52:41.000Z"
-        },
-        {
-          "title": "Twelve Years Without a VPN",
-          "link": "https://khessin.de/twelve-years-without-a-vpn/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-01T16:52:38.000Z"
         },
         {
           "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
@@ -234,12 +258,28 @@
           "published": "2026-08-01T16:45:40.000Z"
         },
         {
+          "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+          "link": "https://franken.domains/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-01T16:44:49.000Z"
+        },
+        {
           "title": "Pgtestdb's template cloning approach to testing is fast",
           "link": "https://brandur.org/fragments/pgtestdb",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-01T16:01:22.000Z"
+        },
+        {
+          "title": "BMW Is Showing Commercials on Their Car's Dash Screens as a Treat",
+          "link": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-01T15:58:10.000Z"
         },
         {
           "title": "Cursor removed cost information from the usage page and CSV export",
@@ -322,14 +362,6 @@
           "published": "2026-08-01T13:00:00.000Z"
         },
         {
-          "title": "Charlie Stross – On the non-use of AI in my writing process",
-          "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-01T12:56:54.000Z"
-        },
-        {
           "title": "RipGrep musl binaries occasionally segfault during very-large searches",
           "link": "https://github.com/BurntSushi/ripgrep/issues/3494",
           "source": "Hacker News",
@@ -346,14 +378,6 @@
           "published": "2026-08-01T12:30:36.000Z"
         },
         {
-          "title": "Astro Loop",
-          "link": "https://pubdeer.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-01T12:17:48.000Z"
-        },
-        {
           "title": "Kontigo (YC S24) Is Hiring",
           "link": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
           "source": "Hacker News",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) This week, I've been…",
           "published": "2026-08-01T12:00:00.000Z"
-        },
-        {
-          "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
-          "link": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Autonomous vehicle giant disturbs residents' sleep.",
-          "published": "2026-08-01T11:30:54.000Z"
-        },
-        {
-          "title": "Defcon's new badge is a security key you can see inside",
-          "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
-          "published": "2026-08-01T10:05:21.000Z"
-        },
-        {
-          "title": "How fruit flies chase invisible ribbons of smell to get to their source",
-          "link": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
-          "published": "2026-08-01T10:00:19.000Z"
         }
       ]
     },
