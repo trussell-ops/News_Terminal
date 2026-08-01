@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T09:49:41.228Z",
+  "updated": "2026-08-01T11:10:37.592Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Defcon's new badge is a security key you can see inside",
+          "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
+          "published": "2026-08-01T10:05:21.000Z"
+        },
+        {
+          "title": "How fruit flies chase invisible ribbons of smell to get to their source",
+          "link": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
+          "published": "2026-08-01T10:00:19.000Z"
+        },
+        {
           "title": "RamenHaus",
           "link": "https://ramen.haus/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-01T08:48:58.000Z"
+        },
+        {
+          "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "link": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-01T08:26:55.000Z"
         },
         {
           "title": "How to Do Great Work",
@@ -314,14 +338,6 @@
           "published": "2026-07-31T21:19:39.000Z"
         },
         {
-          "title": "Loops (YC W22) Is Hiring a Product Educator",
-          "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-31T21:00:40.000Z"
-        },
-        {
           "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
           "link": "https://arxiv.org/abs/2607.28233",
           "source": "Hacker News",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-07-31T18:39:47.000Z"
-        },
-        {
-          "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
-          "link": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension failure that could cause \"a loss of vehicle directional control,\" as reported earlier by…",
-          "published": "2026-07-31T18:33:39.000Z"
-        },
-        {
-          "title": "Google might launch a ‘Pixel Tag’",
-          "link": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google is seemingly working on an item tracker that might compete with Apple's AirTag. 9to5Google obtained an image of something called a \"Google Pixel Tag\" that has a small oval shape. The publication also linked to a Slovenian store…",
-          "published": "2026-07-31T18:27:24.000Z"
         }
       ]
     },
