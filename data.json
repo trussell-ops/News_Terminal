@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-01T11:10:37.592Z",
+  "updated": "2026-08-01T12:31:33.651Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+          "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
+          "published": "2026-08-01T12:00:01.000Z"
+        },
         {
           "title": "Stick to spending limits, PM and chancellor tell ministers in joint memo",
           "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
@@ -187,20 +195,36 @@
           "category": "markets",
           "snippet": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
           "published": "2026-07-30T23:05:41.000Z"
-        },
-        {
-          "title": "India wants to join the strawberry superpowers",
-          "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-          "published": "2026-07-30T22:04:09.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Kontigo (YC S24) Is Hiring",
+          "link": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-01T12:00:25.000Z"
+        },
+        {
+          "title": "The OG reading app just got a big update",
+          "link": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) This week, I've been…",
+          "published": "2026-08-01T12:00:00.000Z"
+        },
+        {
+          "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
+          "link": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Autonomous vehicle giant disturbs residents' sleep.",
+          "published": "2026-08-01T11:30:54.000Z"
+        },
         {
           "title": "Defcon's new badge is a security key you can see inside",
           "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
@@ -226,15 +250,7 @@
           "published": "2026-08-01T08:48:58.000Z"
         },
         {
-          "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "link": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-01T08:26:55.000Z"
-        },
-        {
-          "title": "How to Do Great Work",
+          "title": "How to Do Great Work (2023)",
           "link": "https://paulgraham.com/greatwork.html",
           "source": "Hacker News",
           "category": "tech",
@@ -338,14 +354,6 @@
           "published": "2026-07-31T21:19:39.000Z"
         },
         {
-          "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-          "link": "https://arxiv.org/abs/2607.28233",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-31T20:44:29.000Z"
-        },
-        {
           "title": "Claude published malicious code to the Internet and attacked 3 real companies",
           "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
           "source": "Ars Technica",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "LemonLime’s CEO got “carried away” with tattoo gimmick.",
           "published": "2026-07-31T19:04:56.000Z"
-        },
-        {
-          "title": "Golang proposal: container&#x2F;: generic collection types",
-          "link": "https://github.com/golang/go/issues/80590",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-07-31T18:39:47.000Z"
         }
       ]
     },
