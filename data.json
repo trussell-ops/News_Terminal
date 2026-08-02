@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-02T11:10:38.586Z",
+  "updated": "2026-08-02T12:32:53.080Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Why flights are so expensive and will likely stay that way",
+          "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Airlines are paying billions of dollars more in fuel costs this year",
+          "published": "2026-08-02T12:00:01.000Z"
+        },
         {
           "title": "Parents save on school uniforms at city swap shop",
           "link": "https://www.bbc.co.uk/news/articles/cz05yrv4el5o?at_medium=RSS&at_campaign=rss",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
           "published": "2026-07-31T01:31:50.000Z"
-        },
-        {
-          "title": "Apple warns of future 'supply constraints' for Mac, iPhone, iPad",
-          "link": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Shares of Apple plunged on a warning of slower sales in the coming months.",
-          "published": "2026-07-30T23:25:42.000Z"
         }
       ]
     },
@@ -202,12 +202,68 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Is the Industrial Revolution a good precedent for explosive growth today?",
-          "link": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
+          "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "link": "https://twitter.com/polynoamial/status/2083467194663571701",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-02T10:25:25.000Z"
+          "published": "2026-08-02T12:01:37.000Z"
+        },
+        {
+          "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+          "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-02T12:01:00.000Z"
+        },
+        {
+          "title": "Foldables are sort of boring now — and that’s great news for Apple",
+          "link": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for…",
+          "published": "2026-08-02T12:00:00.000Z"
+        },
+        {
+          "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "link": "https://website-auditor.io/ai-visibility-index",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-02T11:53:52.000Z"
+        },
+        {
+          "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+          "link": "https://meshdiff.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-02T11:34:41.000Z"
+        },
+        {
+          "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+          "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-02T11:24:20.000Z"
+        },
+        {
+          "title": "Show HN: Fuse – statically typed functional programming language",
+          "link": "https://fuselang.org",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-02T11:23:56.000Z"
+        },
+        {
+          "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+          "link": "https://github.com/kamalfarahani/katharos",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-02T10:45:11.000Z"
         },
         {
           "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
@@ -234,14 +290,6 @@
           "published": "2026-08-02T09:06:33.000Z"
         },
         {
-          "title": "The time filter in Google Search broke a few days ago",
-          "link": "https://mastodon.online/@mwichary/117023736804129342",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T08:48:53.000Z"
-        },
-        {
           "title": "Cyberscript",
           "link": "https://cyberscript.dev",
           "source": "Hacker News",
@@ -258,28 +306,12 @@
           "published": "2026-08-02T07:47:26.000Z"
         },
         {
-          "title": "Police in the US are making their own true crime podcasts",
-          "link": "https://www.bbc.com/news/articles/cpw9q0ekd9eo",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T07:25:00.000Z"
-        },
-        {
           "title": "IBM i (OS&#x2F;400) the Database Operating System",
           "link": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-02T07:17:49.000Z"
-        },
-        {
-          "title": "I don't recommend Tailwind CSS",
-          "link": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T07:09:38.000Z"
         },
         {
           "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
@@ -338,14 +370,6 @@
           "published": "2026-08-02T01:35:11.000Z"
         },
         {
-          "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
-          "link": "https://yarchive.net/comp/128bit.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T01:26:12.000Z"
-        },
-        {
           "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
           "link": "https://www.rfc-editor.org/rfc/rfc10015.html",
           "source": "Hacker News",
@@ -362,36 +386,12 @@
           "published": "2026-08-01T22:55:52.000Z"
         },
         {
-          "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
-          "link": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+          "title": "Atom is better than RSS, in ways that matter",
+          "link": "https://chrismorgan.info/atom%3Erss",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-01T22:52:44.000Z"
-        },
-        {
-          "title": "Pixel 11 specs and price leak with no surprises",
-          "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a…",
-          "published": "2026-08-01T21:31:24.000Z"
-        },
-        {
-          "title": "Seedance 2.5",
-          "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-01T20:45:12.000Z"
-        },
-        {
-          "title": "Diátaxis",
-          "link": "https://diataxis.fr/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-01T20:33:27.000Z"
+          "published": "2026-08-01T22:00:16.000Z"
         }
       ]
     },
