@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T12:32:53.080Z",
+  "updated": "2026-08-02T14:23:36.998Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
-          "link": "https://twitter.com/polynoamial/status/2083467194663571701",
+          "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
+          "link": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has…",
+          "published": "2026-08-02T14:00:00.000Z"
+        },
+        {
+          "title": "Is paying artists enough to convince them to embrace AI?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response,…",
+          "published": "2026-08-02T13:00:00.000Z"
+        },
+        {
+          "title": "Twenty Years of RISC OS Open",
+          "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-02T12:01:37.000Z"
+          "published": "2026-08-02T12:36:07.000Z"
+        },
+        {
+          "title": "F*: A general-purpose proof-oriented programming language",
+          "link": "https://fstar-lang.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-02T12:31:16.000Z"
         },
         {
           "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
@@ -224,14 +248,6 @@
           "category": "tech",
           "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for…",
           "published": "2026-08-02T12:00:00.000Z"
-        },
-        {
-          "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-          "link": "https://website-auditor.io/ai-visibility-index",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T11:53:52.000Z"
         },
         {
           "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
@@ -256,6 +272,22 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-02T11:23:56.000Z"
+        },
+        {
+          "title": "I made a Promise-aware debounce and throttle library for TypeScript",
+          "link": "https://github.com/nyvexis1/temporize",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-02T11:07:56.000Z"
+        },
+        {
+          "title": "US Treasury undertakes historic intervention in yen market",
+          "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-02T10:46:28.000Z"
         },
         {
           "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
@@ -298,20 +330,20 @@
           "published": "2026-08-02T07:58:30.000Z"
         },
         {
-          "title": "Mathematics Without Mathematicians",
-          "link": "https://borretti.me/article/mathematics-without-mathematicians",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T07:47:26.000Z"
-        },
-        {
           "title": "IBM i (OS&#x2F;400) the Database Operating System",
           "link": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-02T07:17:49.000Z"
+        },
+        {
+          "title": "ESP32-C3 SuperMini antenna modification",
+          "link": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-02T06:56:38.000Z"
         },
         {
           "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-02T01:35:51.000Z"
-        },
-        {
-          "title": "ASRock BC-250: Building the Budget Steam Machine",
-          "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T01:35:11.000Z"
-        },
-        {
-          "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-          "link": "https://www.rfc-editor.org/rfc/rfc10015.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-01T23:44:55.000Z"
-        },
-        {
-          "title": "Unraveling the mysteries of habit formation",
-          "link": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-01T22:55:52.000Z"
-        },
-        {
-          "title": "Atom is better than RSS, in ways that matter",
-          "link": "https://chrismorgan.info/atom%3Erss",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-01T22:00:16.000Z"
         }
       ]
     },
