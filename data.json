@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T17:53:56.472Z",
+  "updated": "2026-08-02T18:55:29.109Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+          "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-02T17:45:51.000Z"
+        },
+        {
           "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
           "link": "https://github.com/graham33/nixos-dgx-spark",
           "source": "Hacker News",
@@ -216,22 +224,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-02T17:03:02.000Z"
-        },
-        {
-          "title": "Linux Desktop Market Share Surpasses 10% in North America",
-          "link": "https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T16:50:01.000Z"
-        },
-        {
-          "title": "GE-97 Terminal: The Old Internet",
-          "link": "https://ge97.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T16:41:35.000Z"
         },
         {
           "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
@@ -384,6 +376,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-02T06:56:38.000Z"
+        },
+        {
+          "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-02T04:21:14.000Z"
         },
         {
           "title": "Karpathy’s Pelican",
