@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-03T08:25:19.621Z",
+  "updated": "2026-08-03T11:53:27.780Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+          "published": "2026-08-03T11:49:41.000Z"
+        },
+        {
+          "title": "It may be easier to get your first mortgage than you think - here's why",
+          "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
+          "published": "2026-08-03T09:55:36.000Z"
+        },
         {
           "title": "US and Japan take action to prop up yen in rare joint move",
           "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
@@ -19,22 +35,6 @@
           "category": "markets",
           "snippet": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
           "published": "2026-08-03T04:10:16.000Z"
-        },
-        {
-          "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-          "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
-          "published": "2026-08-03T01:04:23.000Z"
-        },
-        {
-          "title": "The change that may help you get a mortgage as a first-time buyer",
-          "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
-          "published": "2026-08-02T23:16:32.000Z"
         },
         {
           "title": "Why flights are so expensive and will likely stay that way",
@@ -202,6 +202,110 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+          "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T11:28:54.000Z"
+        },
+        {
+          "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
+          "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T11:16:33.000Z"
+        },
+        {
+          "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "link": "https://github.com/garagehq/nightcrawler/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T11:06:15.000Z"
+        },
+        {
+          "title": "China s Alibaba takes another swipe at America’s AI supremacy",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's…",
+          "published": "2026-08-03T11:01:11.000Z"
+        },
+        {
+          "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T09:32:07.000Z"
+        },
+        {
+          "title": "What DMARC Protects You From, and What It Does Not",
+          "link": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T09:29:46.000Z"
+        },
+        {
+          "title": "MPs demand answers on Fujitsu's inclusion in lucrative frameworks",
+          "link": "https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T09:25:15.000Z"
+        },
+        {
+          "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+          "link": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T08:54:00.000Z"
+        },
+        {
+          "title": "The true power of regular expressions (2012)",
+          "link": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T08:47:23.000Z"
+        },
+        {
+          "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+          "link": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T08:34:24.000Z"
+        },
+        {
+          "title": "Bonsai: Janestreet's UI Library",
+          "link": "https://github.com/janestreet/bonsai",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T08:29:57.000Z"
+        },
+        {
+          "title": "Octane – React's programming model, compiled",
+          "link": "https://octanejs.dev",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T08:04:04.000Z"
+        },
+        {
+          "title": "The Shape of Things to Come",
+          "link": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T07:22:27.000Z"
+        },
+        {
           "title": "Rust project goals: Immobile types and guaranteed destructors",
           "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
           "source": "Hacker News",
@@ -218,20 +322,12 @@
           "published": "2026-08-03T06:28:01.000Z"
         },
         {
-          "title": "More German than many Germans",
-          "link": "https://mertbulan.com/more-german-than-many-germans/",
+          "title": "Situational Awareness and the Impending Stock Market Volatility",
+          "link": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-03T06:00:14.000Z"
-        },
-        {
-          "title": "AI migrated legacy COBOL programs to Java, bugs included",
-          "link": "https://arxiv.org/abs/2607.28271",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T03:06:12.000Z"
+          "published": "2026-08-03T06:17:53.000Z"
         },
         {
           "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
@@ -240,14 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-03T02:16:09.000Z"
-        },
-        {
-          "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
-          "link": "https://www.rfc-editor.org/rfc/rfc9851.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T01:23:26.000Z"
         },
         {
           "title": "Show HN: Isopolis – Isometric pixel map of SF",
@@ -282,36 +370,12 @@
           "published": "2026-08-03T00:12:16.000Z"
         },
         {
-          "title": "The Computational Theory of Mind (2015)",
-          "link": "https://plato.stanford.edu/entries/computational-mind/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T22:35:35.000Z"
-        },
-        {
           "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
           "link": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album…",
           "published": "2026-08-02T21:53:15.000Z"
-        },
-        {
-          "title": "Show HN: Make your Framework 12 sound like a creaky door",
-          "link": "https://github.com/ArcaEge/creakwork12",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T20:33:01.000Z"
-        },
-        {
-          "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "link": "https://frogs.vaguespac.es/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T19:42:08.000Z"
         },
         {
           "title": "Fender’s CEO seems to think your bandmates are just analog AI",
@@ -328,70 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-02T18:59:05.000Z"
-        },
-        {
-          "title": "The myth of Snow Leopard",
-          "link": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T18:21:45.000Z"
-        },
-        {
-          "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-          "link": "https://github.com/graham33/nixos-dgx-spark",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T17:05:54.000Z"
-        },
-        {
-          "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-          "link": "https://github.com/wie-project/kakehashi",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T16:26:40.000Z"
-        },
-        {
-          "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-          "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T16:19:17.000Z"
-        },
-        {
-          "title": "Xbox prices are increasing by up to €200 or £170",
-          "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to 200 or…",
-          "published": "2026-08-02T16:14:20.000Z"
-        },
-        {
-          "title": "How the words we teach English language learners changed",
-          "link": "https://pudding.cool/2026/07/essential-words/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-02T15:41:08.000Z"
-        },
-        {
-          "title": "Skylight s smart calendars are up to $90 off during its back-to-school sale",
-          "link": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It s easy for things to slip through the cracks, but Skylight s…",
-          "published": "2026-08-02T15:00:00.000Z"
-        },
-        {
-          "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
-          "link": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has…",
-          "published": "2026-08-02T14:00:00.000Z"
         }
       ]
     },
