@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-03T22:52:20.171Z",
+  "updated": "2026-08-03T23:59:57.340Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Half price rail travel extended to 18-year-olds",
+          "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
+          "published": "2026-08-03T23:34:13.000Z"
+        },
+        {
+          "title": "Tokenomics: Why making AI pay is tricky",
+          "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+          "published": "2026-08-03T23:21:10.000Z"
+        },
+        {
+          "title": "What heatwaves mean for summer weddings – and how to plan for one",
+          "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The wedding industry is facing last-minute costs to cope with the heat and October bookings are up.",
+          "published": "2026-08-03T23:20:15.000Z"
+        },
         {
           "title": "Larry Berg named next Major League Soccer commissioner",
           "link": "https://www.cnbc.com/2026/08/03/larry-berg-major-league-soccer-commissioner.html",
@@ -171,36 +195,20 @@
           "category": "markets",
           "snippet": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
           "published": "2026-07-31T21:49:40.000Z"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
-          "link": "https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Sony and Marvel's \"Spider-Man: Brave New Day\" is expected to haul in around $270 million domestically over its debut weekend.",
-          "published": "2026-07-31T21:06:36.000Z"
-        },
-        {
-          "title": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
-          "link": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports.",
-          "published": "2026-07-31T20:40:51.000Z"
-        },
-        {
-          "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
-          "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
-          "published": "2026-07-31T20:19:03.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+          "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+          "published": "2026-08-03T22:11:39.000Z"
+        },
         {
           "title": "Windows XP 2002 for the Itanium: Unbridled rage",
           "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
@@ -210,7 +218,7 @@
           "published": "2026-08-03T22:04:49.000Z"
         },
         {
-          "title": "ZX Spectrum System Tour: Text Mode – Bumbershoot Software",
+          "title": "ZX Spectrum System Tour: Text Mode",
           "link": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
           "source": "Hacker News",
           "category": "tech",
@@ -248,14 +256,6 @@
           "category": "tech",
           "snippet": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
           "published": "2026-08-03T20:13:37.000Z"
-        },
-        {
-          "title": "DDoS against Norwegian government IT infrastructure – status",
-          "link": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T19:56:27.000Z"
         },
         {
           "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
@@ -378,12 +378,12 @@
           "published": "2026-08-03T16:27:12.000Z"
         },
         {
-          "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-          "link": "https://armature.tech/",
+          "title": "What's the largest software project AI can complete on its own?",
+          "link": "https://epoch.ai/MirrorCode",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-03T16:17:59.000Z"
+          "published": "2026-08-03T16:16:40.000Z"
         },
         {
           "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
@@ -398,6 +398,22 @@
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Explosive Look Inside Paul, Weiss See Also",
+          "link": "https://abovethelaw.com/2026/08/the-explosive-look-inside-paul-weiss-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The Man Now Running Paul, Weiss Reportedly Didn't Want A Trans Partner Working On His Clients : Before Scott Barshay took the corner office, he allegedly decided Lex Korberg was bad for business. Upon Further Reflection... : Jeanine Pirro…",
+          "published": "2026-08-03T23:32:00.000Z"
+        },
+        {
+          "title": "Before He Wrote Opinions, He Broke Tackles",
+          "link": "https://abovethelaw.com/2026/08/before-he-wrote-opinions-he-broke-tackles/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "From the backfield to the bench. The post Before He Wrote Opinions, He Broke Tackles appeared first on Above the Law .",
+          "published": "2026-08-03T23:03:00.000Z"
+        },
         {
           "title": "Some Law Grads Were Actually Able To Take The Washington Bar Exam And They Deserve Diploma Privilege Too",
           "link": "https://abovethelaw.com/2026/08/some-law-grads-were-actually-able-to-take-the-washington-bar-exam-and-they-deserve-diploma-privilege-too/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Understanding how Google selects pages and content for these featured snippets is the first step toward making sure your law firm appears in the top spot with greater frequency. The post How To Gain Visibility Through Featured Snippets…",
           "published": "2026-07-31T21:35:00.000Z"
-        },
-        {
-          "title": "The Blickstein Group Law Firm COO Survey: The More Things Change, The More Some Things Stay The Same",
-          "link": "https://abovethelaw.com/2026/07/the-blickstein-group-law-firm-coo-survey-the-more-things-change-the-more-some-things-stay-the-same/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The businesspeople say one thing, the lawyers another. Just like always. The post The Blickstein Group Law Firm COO Survey: The More Things Change, The More Some Things Stay The Same appeared first on Above the Law .",
-          "published": "2026-07-31T20:44:00.000Z"
-        },
-        {
-          "title": "Senior Partners Should Sometimes Take Advice From Junior Associates",
-          "link": "https://abovethelaw.com/2026/07/senior-partners-should-sometimes-take-advice-from-junior-associates/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Sometimes the lawyer with the most useful information is the one with the least impressive title. The post Senior Partners Should Sometimes Take Advice From Junior Associates appeared first on Above the Law .",
-          "published": "2026-07-31T20:04:00.000Z"
         }
       ]
     }
