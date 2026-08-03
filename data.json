@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-03T20:20:25.218Z",
+  "updated": "2026-08-03T21:36:13.626Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Larry Berg named next Major League Soccer commissioner",
+          "link": "https://www.cnbc.com/2026/08/03/larry-berg-major-league-soccer-commissioner.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Larry Berg will take over as MLS commissioner from Don Garber next year. He will sell his stake in Los Angeles FC.",
+          "published": "2026-08-03T20:46:57.000Z"
+        },
         {
           "title": "FAA clears smallest Boeing 737 Max to fly after years of delays",
           "link": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
@@ -187,20 +195,92 @@
           "category": "markets",
           "snippet": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
           "published": "2026-07-31T20:19:03.000Z"
-        },
-        {
-          "title": "GM to launch proprietary in-vehicle AI system later this year",
-          "link": "https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.",
-          "published": "2026-07-31T18:13:39.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Your Fitbit data can now connect directly to Apple Health",
+          "link": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05 update, you can now tap your profile…",
+          "published": "2026-08-03T21:24:23.000Z"
+        },
+        {
+          "title": "LLMs reward expertise",
+          "link": "https://www.seangoedecke.com/llms-reward-expertise/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T21:13:53.000Z"
+        },
+        {
+          "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+          "link": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Samsung makes a variety of TVs and computer monitors, but if want both and you’re limited on space, you might want to consider the M80F. This capable 32-inch 4K panel combines features commonly found on both types of screens, and Amazon…",
+          "published": "2026-08-03T21:13:38.000Z"
+        },
+        {
+          "title": "Research roundup: 6 cool science stories we almost missed",
+          "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+          "published": "2026-08-03T20:13:37.000Z"
+        },
+        {
+          "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+          "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T20:02:21.000Z"
+        },
+        {
+          "title": "DDoS against Norwegian government IT infrastructure – status",
+          "link": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T19:56:27.000Z"
+        },
+        {
+          "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+          "link": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T19:39:34.000Z"
+        },
+        {
+          "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+          "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The orbiting observatory in minifigure scale.",
+          "published": "2026-08-03T19:21:16.000Z"
+        },
+        {
+          "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+          "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Top scores increased by 5x.",
+          "published": "2026-08-03T19:00:50.000Z"
+        },
+        {
+          "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+          "link": "https://github.com/SwagSoftware/KisakCOD",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T18:58:00.000Z"
+        },
         {
           "title": "ZX Spectrum System Tour: Sound",
           "link": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
@@ -312,92 +392,28 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-03T16:07:09.000Z"
-        },
-        {
-          "title": "Bluesky’s new CEO wants a big tent, not a bubble",
-          "link": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Today, I’m talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky — he formally took over after a short stint as interim CEO. This is one of my favorite kinds of interviews to do on Decoder, because a couple…",
-          "published": "2026-08-03T15:00:00.000Z"
-        },
-        {
-          "title": "Palworld’s expanding to mobile with a new MMORPG",
-          "link": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online…",
-          "published": "2026-08-03T14:50:29.000Z"
-        },
-        {
-          "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
-          "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "A Louisiana launch site would offer several significant advantages.",
-          "published": "2026-08-03T14:41:46.000Z"
-        },
-        {
-          "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
-          "link": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand New Day will be available in select digital IMAX locations…",
-          "published": "2026-08-03T14:26:47.000Z"
-        },
-        {
-          "title": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
-          "link": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Next to buying RAM, finding a fast, high-capacity NVMe SSD at a reasonable price has been a challenge during RAMageddon. I don’t want to say it’s getting easier, but one of Samsung’s latest SSDs is cheaper than it has sold for since…",
-          "published": "2026-08-03T14:16:13.000Z"
-        },
-        {
-          "title": "Devtools must be open source",
-          "link": "https://blog.exe.dev/devtools-must-be-open-source",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T14:15:47.000Z"
-        },
-        {
-          "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-          "link": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T14:09:00.000Z"
-        },
-        {
-          "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-          "link": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T13:34:43.000Z"
-        },
-        {
-          "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
-          "link": "https://dmarcguard.io/blog/spf-record-syntax/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T13:34:25.000Z"
-        },
-        {
-          "title": "Trump wants the power to stop the public from suing polluters",
-          "link": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
-          "published": "2026-08-03T13:33:56.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Did Paul, Weiss Partners Seriously Debate Running The Firm s Business Past Stephen Miller?",
+          "link": "https://abovethelaw.com/2026/08/did-paul-weiss-partners-seriously-debate-running-the-firms-business-past-stephen-miller/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Dropped clients, a killed lawsuit, and a debate over letting the White House vet its website. The post Did Paul, Weiss Partners Seriously Debate Running The Firm s Business Past Stephen Miller? appeared first on Above the Law .",
+          "published": "2026-08-03T21:32:00.000Z"
+        },
+        {
+          "title": "Donald Trump Likely To Fire Jeanine Pirro For Having One Foot In Reality",
+          "link": "https://abovethelaw.com/2026/08/donald-trump-likely-to-fire-jeanine-pirro-for-having-one-foot-in-reality/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Judge Jeanine backed out before another humiliating defeat. Trump isn't happy. The post Donald Trump Likely To Fire Jeanine Pirro For Having One Foot In Reality appeared first on Above the Law .",
+          "published": "2026-08-03T20:45:20.000Z"
+        },
         {
           "title": "Counting Trump s Many Victories",
           "link": "https://abovethelaw.com/2026/08/counting-trumps-many-victories/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Second verse, same as the first. The post The Anti-DEI Crowd Is Coming For The Biglaw Pipeline. Again. appeared first on Above the Law .",
           "published": "2026-07-31T18:32:00.000Z"
-        },
-        {
-          "title": "Associate Compensation Scoreboard: Milbank Unleashes Special Bonuses And Biglaw Continues To Wait For Cravath",
-          "link": "https://abovethelaw.com/2026/06/associate-compensation-scorecard-the-2026-summer-of-salary-increases/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "It’s almost August, associates are still waiting, and the rest of Biglaw appears unwilling to act without Cravath’s approval. The post Associate Compensation Scoreboard: Milbank Unleashes Special Bonuses And Biglaw Continues To Wait For…",
-          "published": "2026-07-31T17:42:00.000Z"
-        },
-        {
-          "title": "Is Anyone At Wachtell NOT Hooking Up?",
-          "link": "https://abovethelaw.com/2026/07/is-anyone-at-wachtell-not-hooking-up/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "If you see a faded sign at the side of the road that says / '15 miles to / Wachtell, Lipton, Rosen Katz' The post Is Anyone At Wachtell NOT Hooking Up? appeared first on Above the Law .",
-          "published": "2026-07-31T17:01:00.000Z"
         }
       ]
     }
