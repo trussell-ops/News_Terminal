@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-03T23:59:57.340Z",
+  "updated": "2026-08-04T02:48:13.461Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "US states sue to block Trump tariffs impacting dozens of countries",
+          "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+          "published": "2026-08-04T02:40:32.000Z"
+        },
+        {
+          "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+          "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
+          "published": "2026-08-04T00:17:48.000Z"
+        },
         {
           "title": "Half price rail travel extended to 18-year-olds",
           "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
@@ -179,28 +195,36 @@
           "category": "markets",
           "snippet": "The Chancellor said the Budget on 28 October would “meet our fiscal rules” and give families \"stability\" to plan for the future.",
           "published": "2026-08-01T07:48:01.000Z"
-        },
-        {
-          "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-          "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
-          "published": "2026-07-31T21:57:59.000Z"
-        },
-        {
-          "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-          "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
-          "published": "2026-07-31T21:49:40.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Native Apps Should Be Avoided Whenever Possible",
+          "link": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T01:06:36.000Z"
+        },
+        {
+          "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+          "link": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pok mon adventures with a machinelike precision. But every so often it launches a curious experiment, whether it's an action title…",
+          "published": "2026-08-04T00:00:00.000Z"
+        },
+        {
+          "title": "There Will Come Soft Rains (1950) [pdf]",
+          "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T23:24:53.000Z"
+        },
         {
           "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
           "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
@@ -290,14 +314,6 @@
           "published": "2026-08-03T18:58:00.000Z"
         },
         {
-          "title": "ZX Spectrum System Tour: Sound",
-          "link": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T18:32:06.000Z"
-        },
-        {
           "title": "Europe’s AI labeling and transparency rules are now in effect",
           "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
           "source": "The Verge",
@@ -338,22 +354,6 @@
           "published": "2026-08-03T17:02:10.000Z"
         },
         {
-          "title": "Use Task Runners for Common Coding Tasks",
-          "link": "https://hamvocke.com/blog/task-runners/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T16:51:51.000Z"
-        },
-        {
-          "title": "SearXNG in Rust",
-          "link": "https://github.com/MikeLuu99/searxng-rust",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T16:41:40.000Z"
-        },
-        {
           "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
           "link": "https://hoplite.sh",
           "source": "Hacker News",
@@ -378,20 +378,20 @@
           "published": "2026-08-03T16:27:12.000Z"
         },
         {
-          "title": "What's the largest software project AI can complete on its own?",
-          "link": "https://epoch.ai/MirrorCode",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T16:16:40.000Z"
-        },
-        {
           "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
           "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
           "published": "2026-08-03T16:10:22.000Z"
+        },
+        {
+          "title": "Twenty Years of Pandoc",
+          "link": "https://pandoc.org/twenty-years-of-pandoc.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T15:04:53.000Z"
         }
       ]
     },
