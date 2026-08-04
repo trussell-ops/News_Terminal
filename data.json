@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-04T15:43:15.867Z",
+  "updated": "2026-08-04T17:28:56.648Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
-          "link": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
+          "title": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
+          "link": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
           "source": "CNBC Business",
           "category": "markets",
-          "snippet": "P&G CEO Shailesh Jejurikar said the acquisition is play to grow the company's health business on CNBC's \"Squawk on the Street.\"",
-          "published": "2026-08-04T15:42:26.000Z"
+          "snippet": "Pfizer said it cut its full-year revenue expectation for its Covid products to $4 billion, down from around $5 billion previously.",
+          "published": "2026-08-04T17:09:37.000Z"
         },
         {
           "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
@@ -18,23 +18,31 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-          "published": "2026-08-04T15:33:03.000Z"
+          "published": "2026-08-04T17:06:17.000Z"
+        },
+        {
+          "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
+          "link": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "P&G CEO Shailesh Jejurikar said the acquisition is a play to grow the company's health business on CNBC's \"Squawk on the Street.\"",
+          "published": "2026-08-04T17:02:05.000Z"
+        },
+        {
+          "title": "Green means go for uniform ahead of new school year",
+          "link": "https://www.bbc.co.uk/news/articles/cx2dn0p5zlyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Sirius Academy West in Hull is giving parents the chance to make sure uniforms conform in advance.",
+          "published": "2026-08-04T16:57:28.000Z"
         },
         {
           "title": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
           "link": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
           "source": "CNBC Business",
           "category": "markets",
-          "snippet": "The July decline adds to a lackluster sales year for the automaker, with results off 9.7% compared to 2025.",
-          "published": "2026-08-04T14:45:37.000Z"
-        },
-        {
-          "title": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
-          "link": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Pfizer said it cut its full-year revenue expectation for its Covid products to $4 billion, down from around $5 billion previously.",
-          "published": "2026-08-04T14:36:44.000Z"
+          "snippet": "The July decline adds to a lackluster sales year for the automaker, with results off 9.7% compared with 2025.",
+          "published": "2026-08-04T16:04:43.000Z"
         },
         {
           "title": "McDonald's names company veteran Skye Anderson as its U.S. president as growth in its largest market slows",
@@ -187,20 +195,84 @@
           "category": "markets",
           "snippet": "Airlines can finally start flying passengers soon after planes are certified, but it can take them months to work them into schedules.",
           "published": "2026-08-03T20:09:19.000Z"
-        },
-        {
-          "title": "More tech millionaires are using donor-advised funds for tax savings and giving",
-          "link": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "DAFs are gaining in popularity as private firms like Anthropic and OpenAI skyrocket in value and more companies stay private for longer.",
-          "published": "2026-08-03T18:56:51.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "BMW’s in-car Spider-Man ad is villain behavior",
+          "link": "https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "When a premium car brand like BMW says it has a \"special surprise\" in store for drivers, I'd expect something more luxurious than having a movie commercial beamed onto the dashboard. That's exactly what's happening to many BMW owners,…",
+          "published": "2026-08-04T17:17:14.000Z"
+        },
+        {
+          "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+          "link": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T17:00:12.000Z"
+        },
+        {
+          "title": "Webb telescope finds signs of ancient disaster for Neptune's moons",
+          "link": "https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T16:29:02.000Z"
+        },
+        {
+          "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+          "link": "https://arxiv.org/abs/2602.16763",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T16:10:39.000Z"
+        },
+        {
+          "title": "T-Mobile’s $0-down financing plan bundles taxes and fees",
+          "link": "https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "T-Mobile is launching a new financing option that will allow you to pay for a device, taxes, and fees over 36 months. In an update on Tuesday, T-Mobile says its new Equipment Installment Plan (EIP) Flex 36 requires no upfront payment and…",
+          "published": "2026-08-04T16:07:02.000Z"
+        },
+        {
+          "title": "Skylight s smart calendars are up to $90 off during its back-to-school sale",
+          "link": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It s easy for things to slip through the cracks, but Skylight s…",
+          "published": "2026-08-04T16:01:57.000Z"
+        },
+        {
+          "title": "The AI Demand Bubble",
+          "link": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T15:51:51.000Z"
+        },
+        {
+          "title": "Samsung’s HDR10 Plus Advanced is launching this month on Prime Video",
+          "link": "https://www.theverge.com/gadgets/975085/samsung-hdr-10-plus-advanced-prime-video",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "After previewing HDR10 Plus Advanced late last year, Samsung's not-Dolby Vision 2 spec will launch globally on Amazon's Prime Video this month. The first TVs announced with support are Samsung's 2026 lineup, which will be able to make use…",
+          "published": "2026-08-04T15:43:59.000Z"
+        },
+        {
+          "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+          "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T15:37:42.000Z"
+        },
         {
           "title": "Texas says data centers must pass an audit before connecting to the grid",
           "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
@@ -234,14 +306,6 @@
           "published": "2026-08-04T15:05:33.000Z"
         },
         {
-          "title": "FFmpeg 9.0",
-          "link": "https://jbkempf.com/blog/2026/ffmpeg-9.0/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T14:49:50.000Z"
-        },
-        {
           "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
           "link": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
           "source": "Ars Technica",
@@ -256,14 +320,6 @@
           "category": "tech",
           "snippet": "Apple is working on a feature that will allow users in the European Union to copy content on their iPhone and paste it onto their Windows PC (or vice versa), as spotted earlier by MacRumors. The move comes in response to an…",
           "published": "2026-08-04T14:42:31.000Z"
-        },
-        {
-          "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-          "link": "https://github.com/tikalk/adlc-team-skills",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T14:38:31.000Z"
         },
         {
           "title": "We’re giving away a back-to-school bag filled with over $800 of free tech",
@@ -306,36 +362,12 @@
           "published": "2026-08-04T13:00:00.000Z"
         },
         {
-          "title": "Nothing CMF is launching its first open earbuds",
-          "link": "https://www.theverge.com/gadgets/974933/nothing-cmf-clip-pro-open-ear-buds-price-launch",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Open earbuds are having a bit of a moment right now, and Nothing is the latest company jumping on the trend. Its budget sub-brand has introduced the CMF Clip Pro, CMF's first open earbuds that are designed to provide comfort and sound…",
-          "published": "2026-08-04T13:00:00.000Z"
-        },
-        {
-          "title": "Apple briefly yanked Telegram from the App Store over CSAM violations",
-          "link": "https://www.theverge.com/tech/974951/telegram-apple-app-store-removed",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Telegram is back on the App Store after Apple briefly removed it on Monday night over concerns about child sexual abuse material (CSAM). In a statement to Bloomberg's Mark Gurman, Apple says a review found that Telegram \"violates our…",
-          "published": "2026-08-04T12:57:43.000Z"
-        },
-        {
           "title": "Xbox goes down. You can't play games you own on disc",
           "link": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-04T12:01:02.000Z"
-        },
-        {
-          "title": "Roame (YC S23) Is Hiring Lead Engineer",
-          "link": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T12:00:51.000Z"
         },
         {
           "title": "Buckminster Fuller: everything I know",
@@ -354,50 +386,34 @@
           "published": "2026-08-04T11:30:17.000Z"
         },
         {
-          "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that…",
-          "published": "2026-08-04T11:27:55.000Z"
-        },
-        {
           "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
           "link": "https://github.com/MakazhanAlpamys/Soup",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-04T11:17:57.000Z"
-        },
-        {
-          "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-          "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T11:01:37.000Z"
-        },
-        {
-          "title": "The next Xbox could play every Xbox game ever made",
-          "link": "https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The next Xbox, Project Helix, could theoretically have the largest library of any home console. Not only will it play PC games, but we now know, courtesy of a leaked memo obtained by The Verge's Tom Warren, that it will run games from…",
-          "published": "2026-08-04T11:00:00.000Z"
-        },
-        {
-          "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-          "link": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T10:13:13.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Todd Blanche Will Probably Be Confirmed Even Though Some Republican Senators Are Performatively On The Fence",
+          "link": "https://abovethelaw.com/2026/08/todd-blanche-will-probably-be-confirmed-even-though-some-republican-senators-are-performatively-on-the-fence/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Four Republicans are playing coy on the Blanche floor vote. The post Todd Blanche Will Probably Be Confirmed Even Though Some Republican Senators Are Performatively On The Fence appeared first on Above the Law .",
+          "published": "2026-08-04T17:01:00.000Z"
+        },
+        {
+          "title": "New Site From Suffolk Law Dean Andrew Perlman Catalogs AI Policies At 128 Law Schools",
+          "link": "https://www.lawnext.com/2026/08/new-site-from-suffolk-law-dean-andrew-perlman-catalogs-ai-policies-at-128-law-schools.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "For each school, the archive links to the underlying source, including student handbooks, honor codes, dean’s memoranda, strategy statements, and program pages. The post New Site From Suffolk Law Dean Andrew Perlman Catalogs AI Policies…",
+          "published": "2026-08-04T16:18:00.000Z"
+        },
         {
           "title": "In-House Lawyers: Who You Gonna Call?",
           "link": "https://abovethelaw.com/2026/08/in-house-lawyers-who-you-gonna-call/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "'I love you, sir!' The post Blanche Pantsed By Trump Rants appeared first on Above the Law .",
           "published": "2026-08-03T14:42:59.000Z"
-        },
-        {
-          "title": "Nike And Lululemon Face Pricing Lawsuits",
-          "link": "https://fashionista.com/2026/07/reformation-enters-nyse",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Activewear brands Nike and Lululemon are facing separate lawsuits alleging they used misleading ‘phantom discount’ pricing. The post Nike And Lululemon Face Pricing Lawsuits appeared first on Above the Law .",
-          "published": "2026-08-03T14:03:00.000Z"
-        },
-        {
-          "title": "Born free and equal",
-          "link": "https://www.scotusblog.com/2026/08/born-free-and-equal/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This is my first article for SCOTUSblog, and I want to explain why I have chosen the header Born Free and Equal for my column. The phrase is derived from the Declaration of Independence , whose 250th anniversary we are celebrating this…",
-          "published": "2026-08-03T14:00:00.000Z"
         }
       ]
     }
