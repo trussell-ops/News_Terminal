@@ -1,16 +1,24 @@
 {
-  "updated": "2026-08-04T02:48:13.461Z",
+  "updated": "2026-08-04T05:39:12.186Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Horror bookshop aims to raise £20k to stay open",
+          "link": "https://www.bbc.co.uk/news/articles/c0l57w8ne92o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A drop in customers caused by the recent heatwave has increased financial pressures for the owner.",
+          "published": "2026-08-04T05:14:34.000Z"
+        },
         {
           "title": "US states sue to block Trump tariffs impacting dozens of countries",
           "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
-          "published": "2026-08-04T02:40:32.000Z"
+          "published": "2026-08-04T02:53:00.000Z"
         },
         {
           "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
           "published": "2026-08-01T12:00:01.000Z"
-        },
-        {
-          "title": "Stick to spending limits, PM and chancellor tell ministers in joint memo",
-          "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The Chancellor said the Budget on 28 October would “meet our fiscal rules” and give families \"stability\" to plan for the future.",
-          "published": "2026-08-01T07:48:01.000Z"
         }
       ]
     },
@@ -202,12 +202,12 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Native Apps Should Be Avoided Whenever Possible",
-          "link": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
+          "title": "The Myth, the Mythos, and the Man",
+          "link": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-04T01:06:36.000Z"
+          "published": "2026-08-04T01:22:35.000Z"
         },
         {
           "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
@@ -216,6 +216,14 @@
           "category": "tech",
           "snippet": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pok mon adventures with a machinelike precision. But every so often it launches a curious experiment, whether it's an action title…",
           "published": "2026-08-04T00:00:00.000Z"
+        },
+        {
+          "title": "Why did we wait so long for the bicycle? (2019)",
+          "link": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T23:44:19.000Z"
         },
         {
           "title": "There Will Come Soft Rains (1950) [pdf]",
@@ -282,14 +290,6 @@
           "published": "2026-08-03T20:13:37.000Z"
         },
         {
-          "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
-          "link": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T19:39:34.000Z"
-        },
-        {
           "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
           "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
           "source": "Ars Technica",
@@ -306,7 +306,7 @@
           "published": "2026-08-03T19:00:50.000Z"
         },
         {
-          "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+          "title": "KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer",
           "link": "https://github.com/SwagSoftware/KisakCOD",
           "source": "Hacker News",
           "category": "tech",
@@ -320,14 +320,6 @@
           "category": "tech",
           "snippet": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd,…",
           "published": "2026-08-03T17:38:45.000Z"
-        },
-        {
-          "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
-          "link": "https://blog.cloudflare.com/billable-usage-api/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-03T17:18:06.000Z"
         },
         {
           "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
@@ -352,6 +344,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-03T17:02:10.000Z"
+        },
+        {
+          "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+          "link": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-03T16:54:15.000Z"
         },
         {
           "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
