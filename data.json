@@ -1,16 +1,32 @@
 {
-  "updated": "2026-08-05T01:43:15.190Z",
+  "updated": "2026-08-05T04:56:14.292Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "title": "Here's what to expect when Disney reports earnings before the bell",
+          "link": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Disney reports its fiscal third-quarter earnings before the bell Wednesday as the market awaits further updates and changes under newly minted CEO Josh D'Amaro.",
+          "published": "2026-08-05T04:01:01.000Z"
+        },
+        {
+          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
           "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-          "published": "2026-08-05T01:05:21.000Z"
+          "published": "2026-08-05T03:44:30.000Z"
+        },
+        {
+          "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
+          "link": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "GM said the deal will focus on domestic sales of Buick and Cadillac models in China and exporting Chevrolet products built in China for non-U.S. markets.",
+          "published": "2026-08-05T02:30:01.000Z"
         },
         {
           "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
@@ -179,28 +195,36 @@
           "category": "markets",
           "snippet": "Merck cut its profit guidance due to a charge tied to its acquisition of biotech company Terns Pharmaceuticals.",
           "published": "2026-08-04T12:43:35.000Z"
-        },
-        {
-          "title": "Campaigners denied appeal over Gatwick expansion",
-          "link": "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "An application to stop the two-runway operation is rejected, with judges calling it \"unarguable\".",
-          "published": "2026-08-04T12:25:34.000Z"
-        },
-        {
-          "title": "Apple issues new challenge against UK order for access to private user data",
-          "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
-          "published": "2026-08-04T10:22:40.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "The auto industry is building for a past that's never coming back",
+          "link": "https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T03:35:10.000Z"
+        },
+        {
+          "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+          "link": "https://www.asiae.co.kr/en/article/2026080416131786841",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T01:34:26.000Z"
+        },
+        {
+          "title": "Gallium: Why the US Cannot Produce Precision Missiles and Fully-Functional F-35s",
+          "link": "https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T00:54:18.000Z"
+        },
         {
           "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
           "link": "https://arxiv.org/abs/2603.04221",
@@ -240,22 +264,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-04T23:31:46.000Z"
-        },
-        {
-          "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
-          "link": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T23:22:37.000Z"
-        },
-        {
-          "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
-          "link": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T23:21:33.000Z"
         },
         {
           "title": "Don’t screw this up, Marvel",
@@ -338,22 +346,6 @@
           "published": "2026-08-04T21:27:05.000Z"
         },
         {
-          "title": "Third-party cyber evaluations involving OpenAI models",
-          "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T21:14:19.000Z"
-        },
-        {
-          "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-          "link": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T21:09:39.000Z"
-        },
-        {
           "title": "AMD s data center business is booming while gaming takes a backseat",
           "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
           "source": "The Verge",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a…",
           "published": "2026-08-04T20:18:14.000Z"
+        },
+        {
+          "title": "Oxide Computer raises $445M (SEC Form D)",
+          "link": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T20:13:40.000Z"
         }
       ]
     },
