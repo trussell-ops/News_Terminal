@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-05T21:40:50.726Z",
+  "updated": "2026-08-05T22:49:01.850Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
+          "link": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Box office analysts say the resurgence of billion-dollar releases bodes well for a film industry that's still chasing pre-Covid levels, even with higher prices.",
+          "published": "2026-08-05T21:55:46.000Z"
+        },
         {
           "title": "Flutter shares plummet on earnings miss and another key leadership change",
           "link": "https://www.cnbc.com/2026/08/05/flutter-earnings-ceo-leadership-change-stock.html",
@@ -35,14 +43,6 @@
           "category": "markets",
           "snippet": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
           "published": "2026-08-05T21:21:51.000Z"
-        },
-        {
-          "title": "Hollywood is cranking out billion-dollar movies again. Spider-Man just joined the ranks",
-          "link": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Box office analysts say the resurgence of billion-dollar releases bodes well for a film industry that's still chasing pre-Covid levels, even with higher prices.",
-          "published": "2026-08-05T21:15:01.000Z"
         },
         {
           "title": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
@@ -202,12 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "X product chief Nikita Bier is leaving after one year",
+          "link": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after…",
+          "published": "2026-08-05T22:19:55.000Z"
+        },
+        {
+          "title": "The Title Cards in Blade Runner Are Fucking Amazing",
+          "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T21:29:23.000Z"
+        },
+        {
           "title": "Nvidia's Vera Whitepaper Has a Thread Loose",
           "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-05T21:24:45.000Z"
+        },
+        {
+          "title": "Nikita Bier Steps Down as Head of Product at X",
+          "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T21:15:40.000Z"
         },
         {
           "title": "Prime Agent: A self-improving RLM agent",
@@ -322,14 +346,6 @@
           "published": "2026-08-05T18:39:31.000Z"
         },
         {
-          "title": "Born Against, or why hobby programming communities are against LLM usage",
-          "link": "https://blog.fogus.me/llm/born-against.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-05T18:37:49.000Z"
-        },
-        {
           "title": "Review: Spider-Man: Brand New Day reminds us that superhero movies can be good",
           "link": "https://arstechnica.com/culture/2026/08/review-spider-man-brand-new-day-reminds-us-that-superhero-movies-can-be-good/",
           "source": "Ars Technica",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-05T17:23:25.000Z"
-        },
-        {
-          "title": "Phishers are hijacking legitimate cloud infrastructure",
-          "link": "https://securelist.com/cloud-platforms-in-phishing/120832/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-05T17:20:25.000Z"
-        },
-        {
-          "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
-          "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Disney is interested in \"price-sensitive\" streaming customers.",
-          "published": "2026-08-05T17:12:39.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "He Left The Bench For The Ballot, Then Came Back For More",
+          "link": "https://abovethelaw.com/2026/08/he-left-the-bench-for-the-ballot-then-came-back-for-more/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A resignation, a heartbreaker of an election, and an unlikely return. The post He Left The Bench For The Ballot, Then Came Back For More appeared first on Above the Law .",
+          "published": "2026-08-05T22:14:00.000Z"
+        },
         {
           "title": "Trump Warms To Ukraine Only Because It’s Winning; He Might Do The Right Thing For The Wrong Reason",
           "link": "https://abovethelaw.com/2026/08/trump-warms-to-ukraine-only-because-its-winning-he-might-do-the-right-thing-for-the-wrong-reason/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "New NYC Customer Innovation Lab promises prototypes in hours and products in weeks. The post LexisNexis Bets On Build-A-Bear Model For Legal AI appeared first on Above the Law .",
           "published": "2026-08-04T18:32:00.000Z"
-        },
-        {
-          "title": "Sidley Wastes No Time Raiding Hogan Lovells Cadwalader In Big Group Lateral Move",
-          "link": "https://abovethelaw.com/2026/08/sidley-wastes-no-time-raiding-hogan-lovells-cadwalader-in-big-group-lateral-move/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Just a month after the blockbuster merger, an 11-lawyer New York fund finance team is heading for the exits. The post Sidley Wastes No Time Raiding Hogan Lovells Cadwalader In Big Group Lateral Move appeared first on Above the Law .",
-          "published": "2026-08-04T17:41:00.000Z"
         }
       ]
     }
