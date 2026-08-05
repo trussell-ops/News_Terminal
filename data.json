@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-05T18:01:44.834Z",
+  "updated": "2026-08-05T20:02:07.405Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Trump's 'Liberation Day' tariff refunds hit $100bn",
+          "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The repayments represent roughly 60% of all tariff revenue collected by the US government under the policy.",
+          "published": "2026-08-05T19:39:48.000Z"
+        },
+        {
+          "title": "How Disney parks are bucking a travel slowdown",
+          "link": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S.",
+          "published": "2026-08-05T19:07:30.000Z"
+        },
+        {
+          "title": "Flutter shares plummet on earnings miss and another key leadership change",
+          "link": "https://www.cnbc.com/2026/08/05/flutter-earnings-ceo-leadership-change-stock.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "FanDuel, Flutter's most important business, has been losing its dominance in market share in the United States.",
+          "published": "2026-08-05T18:20:31.000Z"
+        },
         {
           "title": "Lucid stock plunges as EV maker begins 'operational reset,' delays midsize vehicle",
           "link": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
@@ -51,14 +75,6 @@
           "category": "markets",
           "snippet": "Tanger CEO Stephen Yalof told CNBC that the company saw increased store traffic and sales this summer because of the World Cup.",
           "published": "2026-08-05T15:48:39.000Z"
-        },
-        {
-          "title": "How Disney parks are bucking a travel slowdown",
-          "link": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S.",
-          "published": "2026-08-05T15:44:55.000Z"
         },
         {
           "title": "Disney weighs free, ad-supported streaming, says it has sold out Super Bowl ad spots",
@@ -179,28 +195,84 @@
           "category": "markets",
           "snippet": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
           "published": "2026-08-05T03:44:30.000Z"
-        },
-        {
-          "title": "How tech is helping in the battle against wildfires",
-          "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
-          "published": "2026-08-04T23:21:47.000Z"
-        },
-        {
-          "title": "The cost of being single – and how friends are teaming up to beat it",
-          "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
-          "published": "2026-08-04T23:21:08.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+          "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T19:47:26.000Z"
+        },
+        {
+          "title": "Muse Code and Muse Spark 1.2",
+          "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T19:15:52.000Z"
+        },
+        {
+          "title": "Sula: A Gemini protocol server written in Scryer Prolog",
+          "link": "https://sagredo.dev/projects/sula/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T18:52:58.000Z"
+        },
+        {
+          "title": "Zed DeltaDB",
+          "link": "https://zed.dev/deltadb",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T18:52:54.000Z"
+        },
+        {
+          "title": "What happens if you put work into the second dimension?",
+          "link": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T18:39:31.000Z"
+        },
+        {
+          "title": "Born Against, or why hobby programming communities are against LLM usage",
+          "link": "https://blog.fogus.me/llm/born-against.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T18:37:49.000Z"
+        },
+        {
+          "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+          "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T18:18:56.000Z"
+        },
+        {
+          "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+          "link": "https://arxiv.org/abs/2510.01395",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T18:17:03.000Z"
+        },
+        {
+          "title": "Two of Ring s latest video doorbells are a lot cheaper than usual",
+          "link": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Ring s Wired Doorbell Pro and Battery Doorbell Plus are two of the brand s most well-rounded video doorbells, whether you re looking for a hardwired model or one that runs on a battery. Right now, its Wired Doorbell Pro is down to $199…",
+          "published": "2026-08-05T17:53:43.000Z"
+        },
         {
           "title": "Uber CEO brushes off reports of a Waymo break-up",
           "link": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
@@ -210,12 +282,20 @@
           "published": "2026-08-05T17:34:48.000Z"
         },
         {
-          "title": "AI is a bubble, just like dot-com",
-          "link": "https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html",
+          "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+          "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-05T17:17:19.000Z"
+          "published": "2026-08-05T17:23:25.000Z"
+        },
+        {
+          "title": "Phishers are hijacking legitimate cloud infrastructure",
+          "link": "https://securelist.com/cloud-platforms-in-phishing/120832/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T17:20:25.000Z"
         },
         {
           "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
@@ -250,6 +330,14 @@
           "published": "2026-08-05T16:57:25.000Z"
         },
         {
+          "title": "Celld: Self-hosted, distributed Durable Objects",
+          "link": "https://github.com/denoland/celld",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T16:50:06.000Z"
+        },
+        {
           "title": "Google just announced a major shakeup of its top AI leadership",
           "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
           "source": "The Verge",
@@ -264,6 +352,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-05T16:47:15.000Z"
+        },
+        {
+          "title": "I’m leaving OpenAI to build telepathy",
+          "link": "https://naomibashkansky.com/blog/telepathy/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T16:45:33.000Z"
         },
         {
           "title": "D-Wave shows off its new entry in quantum computing race",
@@ -282,122 +378,42 @@
           "published": "2026-08-05T16:35:56.000Z"
         },
         {
+          "title": "Stop sending me your errors",
+          "link": "https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T16:35:30.000Z"
+        },
+        {
           "title": "Discovery Loop",
           "link": "https://www.discoveryloop.com/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-05T16:19:44.000Z"
-        },
-        {
-          "title": "Jeff Dean Leaving Google",
-          "link": "https://twitter.com/JeffDean/status/2085034604172603724",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-05T16:14:49.000Z"
-        },
-        {
-          "title": "Google DeepMind CEO Demis Hassabis is stepping down",
-          "link": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-05T16:05:37.000Z"
-        },
-        {
-          "title": "The next chapter of our AI momentum",
-          "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-05T16:05:31.000Z"
-        },
-        {
-          "title": "Jeff Dean leaving Alphabet",
-          "link": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-05T16:04:33.000Z"
-        },
-        {
-          "title": "Reddit is introducing a new moderator: AI",
-          "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those…",
-          "published": "2026-08-05T16:00:00.000Z"
-        },
-        {
-          "title": "Google plans to kill Assistant on your phone on September 4",
-          "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
-          "published": "2026-08-05T15:30:02.000Z"
-        },
-        {
-          "title": "The Valley of Webhooks",
-          "link": "https://weli.dev/blog/the-valley-of-webhooks/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-05T15:22:06.000Z"
-        },
-        {
-          "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
-          "link": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-05T15:20:11.000Z"
-        },
-        {
-          "title": "Rogue AI agents created fake online identities in another hacking attempt",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and…",
-          "published": "2026-08-05T15:14:57.000Z"
-        },
-        {
-          "title": "Qwen 3.0 Image Pro",
-          "link": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-05T14:53:29.000Z"
-        },
-        {
-          "title": "Oracle Just Halved Its Always Free ARM Limits",
-          "link": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-05T14:46:36.000Z"
-        },
-        {
-          "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and You",
-          "link": "https://sightlessscribbles.com/disability-dongle/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-05T14:38:13.000Z"
-        },
-        {
-          "title": "Sunbird relaunched its iMessage app for Android users after three years away",
-          "link": "https://www.theverge.com/tech/975563/imessage-android-sunbird",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Sunbird Messaging is back on the Google Play Store, offering Android users blue bubble privileges in iMessage complete with reactions and high quality videos for $2.99 a month. Apple and Google have made cross platform messaging better in…",
-          "published": "2026-08-05T14:13:15.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Former Federal Prosecutors To Senate: Stop Confirming Election Deniers To The Federal Bench",
+          "link": "https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Not a single Trump 2.0 judicial nominee will admit that Joe Biden legitimately won the 2020 election. The post Former Federal Prosecutors To Senate: Stop Confirming Election Deniers To The Federal Bench appeared first on Above the Law .",
+          "published": "2026-08-05T19:19:37.000Z"
+        },
+        {
+          "title": "Will We Never Learn Our Lesson About The Bar Exam?",
+          "link": "https://abovethelaw.com/2026/08/will-we-never-learn-our-lesson-about-the-bar-exam/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "And summer bonuses have arrived. The post Will We Never Learn Our Lesson About The Bar Exam? appeared first on Above the Law .",
+          "published": "2026-08-05T18:32:00.000Z"
+        },
         {
           "title": "Milbank Is So Busy It s Letting Its Incoming Associates Start Early Again",
           "link": "https://abovethelaw.com/2026/08/milbank-is-so-busy-its-letting-its-incoming-associates-start-early-again/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "It’s time for our annual survey to determine the top outside counsel. The post In-House Lawyers: Who You Gonna Call? appeared first on Above the Law .",
           "published": "2026-08-04T15:33:38.000Z"
-        },
-        {
-          "title": "The Biglaw Partner/Federal Judge Romance Scandal Has A $15 Million Ending",
-          "link": "https://abovethelaw.com/2026/08/the-biglaw-partner-federal-judge-romance-scandal-has-a-15-million-ending/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Jackson Walker will pay $15 million to end the U.S. Trustee's suit, while conceding approximately nothing. The post The Biglaw Partner/Federal Judge Romance Scandal Has A $15 Million Ending appeared first on Above the Law .",
-          "published": "2026-08-04T14:45:24.000Z"
-        },
-        {
-          "title": "Daffodil Health Launches No Surprises Act Dispute Management Solution",
-          "link": "https://medcitynews.com/2026/07/daffodil-health-launches-no-surprises-act-dispute-management-solution/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Daffodil Health launched an AI-powered solution to help payers manage No Surprises Act disputes by automating claims review, negotiations, and arbitration workflows. The post Daffodil Health Launches No Surprises Act Dispute Management…",
-          "published": "2026-08-04T14:03:00.000Z"
         }
       ]
     }
