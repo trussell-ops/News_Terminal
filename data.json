@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-04T23:30:44.721Z",
+  "updated": "2026-08-05T01:43:15.190Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+          "published": "2026-08-05T01:05:21.000Z"
+        },
+        {
+          "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+          "published": "2026-08-05T00:02:18.000Z"
+        },
         {
           "title": "Could tech replace firefighters in the battle against wildfires?",
           "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
@@ -83,14 +99,6 @@
           "category": "markets",
           "snippet": "Novo Nordisk raised its financial outlook as it tries to catch up with rival Eli Lilly in the booming GLP-1 market.",
           "published": "2026-08-04T20:12:20.000Z"
-        },
-        {
-          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-          "published": "2026-08-04T19:00:43.000Z"
         },
         {
           "title": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
@@ -187,20 +195,68 @@
           "category": "markets",
           "snippet": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
           "published": "2026-08-04T10:22:40.000Z"
-        },
-        {
-          "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
-          "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
-          "published": "2026-08-04T10:07:05.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+          "link": "https://arxiv.org/abs/2603.04221",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T00:10:37.000Z"
+        },
+        {
+          "title": "Bugtraq Is Back",
+          "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T00:05:49.000Z"
+        },
+        {
+          "title": "Flowise Is Shutting Down",
+          "link": "https://flowiseai.com/sunset",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-05T00:02:40.000Z"
+        },
+        {
+          "title": "Eight Myths on Software Engineering and GenAI",
+          "link": "https://queue.acm.org/detail.cfm?id=3807963",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T23:50:52.000Z"
+        },
+        {
+          "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+          "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T23:31:46.000Z"
+        },
+        {
+          "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+          "link": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T23:22:37.000Z"
+        },
+        {
+          "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+          "link": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T23:21:33.000Z"
+        },
         {
           "title": "Don’t screw this up, Marvel",
           "link": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
@@ -210,12 +266,36 @@
           "published": "2026-08-04T23:20:56.000Z"
         },
         {
+          "title": "libexpat now funded by the City of Munich for up to 6 months",
+          "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T23:18:12.000Z"
+        },
+        {
+          "title": "Show HN: SIMD Viterbi Decoder in Rust",
+          "link": "https://github.com/brian-armstrong/fec",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T22:37:05.000Z"
+        },
+        {
           "title": "We finally learned to center a div, then browsers added sidebars",
           "link": "https://seg6.space/posts/center-div/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-04T22:24:00.000Z"
+        },
+        {
+          "title": "Pi's Minimalism Is Its Advantage",
+          "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-04T22:22:12.000Z"
         },
         {
           "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
@@ -282,8 +362,8 @@
           "published": "2026-08-04T20:57:49.000Z"
         },
         {
-          "title": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
-          "link": "https://twitter.com/i/status/2084739205071343837",
+          "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+          "link": "https://twitter.com/gwern/status/2084739205071343837",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
@@ -312,86 +392,6 @@
           "category": "tech",
           "snippet": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a…",
           "published": "2026-08-04T20:18:14.000Z"
-        },
-        {
-          "title": "Oxide Computer raises $445M (SEC Form D)",
-          "link": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T20:13:40.000Z"
-        },
-        {
-          "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok&#x2F;s on a iPhone",
-          "link": "https://deepgrove.ai/maple-preview",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T19:44:55.000Z"
-        },
-        {
-          "title": "Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store",
-          "link": "https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. \"Apple removed Telegram from the App Store before…",
-          "published": "2026-08-04T19:11:05.000Z"
-        },
-        {
-          "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-          "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T18:51:38.000Z"
-        },
-        {
-          "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-          "link": "https://edotenv.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T18:36:02.000Z"
-        },
-        {
-          "title": "Waymo in Dallas",
-          "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T18:29:41.000Z"
-        },
-        {
-          "title": "The Sound of Inevitability",
-          "link": "https://www.panoptica.com/the-sound-of-inevitability/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T18:12:10.000Z"
-        },
-        {
-          "title": "Why some people mow a lawn better than others",
-          "link": "https://pudding.cool/2026/06/mow/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T18:06:12.000Z"
-        },
-        {
-          "title": "Hop.earth – OpenStreetMap based car racing game",
-          "link": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-04T17:55:19.000Z"
-        },
-        {
-          "title": "How an OpenAI influencer trip backfired",
-          "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from…",
-          "published": "2026-08-04T17:46:41.000Z"
         }
       ]
     },
