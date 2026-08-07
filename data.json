@@ -1,16 +1,24 @@
 {
-  "updated": "2026-08-07T00:21:00.298Z",
+  "updated": "2026-08-07T03:23:55.760Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Trump imposes 15% tariff on key chip material to counter China",
+          "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
+          "published": "2026-08-07T01:03:35.000Z"
+        },
         {
           "title": "Meta fined $567m in largest child safety ruling against social media giant",
           "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
-          "published": "2026-08-07T00:06:17.000Z"
+          "published": "2026-08-07T00:54:03.000Z"
         },
         {
           "title": "Why airlines are warning over lithium-ion batteries",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "The sale of the Amadea caps a turbulent and controversial history for the 348-foot yacht, which was seized from a sanctioned Russian oligarch.",
           "published": "2026-08-06T12:44:52.000Z"
-        },
-        {
-          "title": "Owner of bike maker Raleigh files for insolvency",
-          "link": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
-          "published": "2026-08-06T12:34:42.000Z"
         }
       ]
     },
@@ -210,12 +210,20 @@
           "published": "2026-08-07T00:06:28.000Z"
         },
         {
-          "title": "Spin audit of SQD&#x2F;QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-          "link": "https://zenodo.org/records/21359923",
+          "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+          "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-06T22:50:09.000Z"
+          "published": "2026-08-06T23:30:03.000Z"
+        },
+        {
+          "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+          "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
+          "published": "2026-08-06T22:20:50.000Z"
         },
         {
           "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
@@ -234,14 +242,6 @@
           "published": "2026-08-06T21:52:16.000Z"
         },
         {
-          "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
-          "link": "https://github.com/mattdeeds/pokeemerald-rp2350",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-06T21:49:07.000Z"
-        },
-        {
           "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
           "link": "https://www.aleksagordic.com/blog/vllm",
           "source": "Hacker News",
@@ -250,7 +250,7 @@
           "published": "2026-08-06T21:30:21.000Z"
         },
         {
-          "title": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
+          "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
           "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
           "source": "Hacker News",
           "category": "tech",
