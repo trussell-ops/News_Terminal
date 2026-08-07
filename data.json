@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T18:40:03.702Z",
+  "updated": "2026-08-07T19:44:11.341Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -35,6 +35,14 @@
           "category": "markets",
           "snippet": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
           "published": "2026-08-07T16:11:32.000Z"
+        },
+        {
+          "title": "Goodwin considers selling part of defence business",
+          "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
+          "published": "2026-08-07T15:22:51.000Z"
         },
         {
           "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "It's the first vehicle to be built using the \"Universal Electric Vehicle\" platform that Ford has said is key to making money with EVs.",
           "published": "2026-08-06T16:09:49.000Z"
-        },
-        {
-          "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
-          "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
-          "published": "2026-08-06T15:59:34.000Z"
         }
       ]
     },
@@ -202,12 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "ICE will release body cam video only when seen in the agency's 'best interests'",
-          "link": "https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57",
+          "title": "Watching Roku’s AI channel is like eating from a trough",
+          "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally…",
+          "published": "2026-08-07T18:59:46.000Z"
+        },
+        {
+          "title": "App Store Rejection of the Week: Dark Hours",
+          "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-07T18:15:33.000Z"
+          "published": "2026-08-07T18:59:08.000Z"
+        },
+        {
+          "title": "Ancient Library – 1,060 Greek&#x2F;Latin texts, click any word to parse it",
+          "link": "https://ancientlibrary.net/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-07T18:51:14.000Z"
+        },
+        {
+          "title": "OpenAI puts the brakes on a new model because it s supposedly too powerful",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI…",
+          "published": "2026-08-07T18:40:34.000Z"
+        },
+        {
+          "title": "Databricks drove down AI coding spend 70%",
+          "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-07T18:25:17.000Z"
         },
         {
           "title": "The only instant cameras worth your money",
@@ -226,12 +258,12 @@
           "published": "2026-08-07T18:01:30.000Z"
         },
         {
-          "title": "The End of No Code",
-          "link": "https://blog.exe.dev/the-end-of-no-code",
-          "source": "Hacker News",
+          "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+          "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-07T17:59:19.000Z"
+          "snippet": "19 new maps continue the story from MachineGames' other campaign additions.",
+          "published": "2026-08-07T18:00:02.000Z"
         },
         {
           "title": "DeepSeek V4 Flash 0731",
@@ -250,6 +282,14 @@
           "published": "2026-08-07T17:53:44.000Z"
         },
         {
+          "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
+          "link": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "DOGE's inflated \"Wall of Receipts\": 96% of grant savings unverifiable, GAO says.",
+          "published": "2026-08-07T17:51:05.000Z"
+        },
+        {
           "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
           "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
           "source": "The Verge",
@@ -264,6 +304,30 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-07T17:36:30.000Z"
+        },
+        {
+          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+          "published": "2026-08-07T17:36:22.000Z"
+        },
+        {
+          "title": "How snails engineer their slime",
+          "link": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus.",
+          "published": "2026-08-07T17:25:20.000Z"
+        },
+        {
+          "title": "Volkswagen plans to win America back with a pickup, report says",
+          "link": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "There's no evidence the truck will be a cheap EV truck, but what if it were?",
+          "published": "2026-08-07T17:13:31.000Z"
         },
         {
           "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
@@ -298,14 +362,6 @@
           "published": "2026-08-07T16:15:46.000Z"
         },
         {
-          "title": "This Mine Predicts Major Wars. It's Opening Again",
-          "link": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-07T16:14:37.000Z"
-        },
-        {
           "title": "Birdfy’s smart bird feeder is on sale for just $60",
           "link": "https://www.theverge.com/gadgets/976422/birdfy-feeder-rookie-nothing-headphones-deal-sale",
           "source": "The Verge",
@@ -330,74 +386,34 @@
           "published": "2026-08-07T15:10:34.000Z"
         },
         {
-          "title": "99% of My Website Traffic Is Bots",
+          "title": "A year of fighting scrapers on my 1.5 million-page website",
           "link": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-07T14:51:57.000Z"
-        },
-        {
-          "title": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
-          "link": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "What makes the Samsung Galaxy Z Fold 8 Ultra so Ultra? Samsung's first foldable with the Ultra name isn't a souped-up version of the regular Fold 8, as you might expect. Where the Z Fold 8 is squat and wide, the Fold 8 Ultra retains the…",
-          "published": "2026-08-07T14:48:38.000Z"
-        },
-        {
-          "title": "Report: White House drafting executive order linking vaccines and autism",
-          "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Trump determined to link life-saving shots to autism, despite science and political risk.",
-          "published": "2026-08-07T14:41:34.000Z"
-        },
-        {
-          "title": "Werewolf transformed my old gadgets into USB-C powered ones",
-          "link": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos… or want to play Japanese SNES games with friends… or lose the AC adapter for my old external hard disk… I can now power them with a USB battery instead.…",
-          "published": "2026-08-07T14:05:00.000Z"
-        },
-        {
-          "title": "USA Today Co., partners with Palantir to analyze audience data",
-          "link": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-07T14:02:15.000Z"
-        },
-        {
-          "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-          "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Clinicians and researchers say AI companies need to open up their safety data.",
-          "published": "2026-08-07T13:49:37.000Z"
-        },
-        {
-          "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-          "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "TikTok owner training a model with 10 trillion parameters.",
-          "published": "2026-08-07T13:29:22.000Z"
-        },
-        {
-          "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
-          "link": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "We expected them to be there, but they had previously been too small to see.",
-          "published": "2026-08-07T13:20:46.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Todd Blanche Threading The Narrowest Of Needles For Confirmation",
+          "link": "https://abovethelaw.com/2026/08/todd-blanche-threading-the-narrowest-of-needles-for-confirmation/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Bill Cassidy has seen this movie before -- he's still voting for the sequel. The post Todd Blanche Threading The Narrowest Of Needles For Confirmation appeared first on Above the Law .",
+          "published": "2026-08-07T19:15:00.000Z"
+        },
+        {
+          "title": "Trump signs new birthright citizenship order, ballroom dispute likely headed to Supreme Court",
+          "link": "https://www.scotusblog.com/2026/08/trump-signs-new-birthright-citizenship-order-ballroom-dispute-likely-headed-to-supreme-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "President Donald Trump on Thursday signed an executive order seeking to narrow the availability of birthright citizenship, the current guarantee of citizenship to almost everyone born in the United States. The order, which bears the title…",
+          "published": "2026-08-07T19:01:41.000Z"
+        },
         {
           "title": "Washington Does (Mostly) Right By Students Screwed Over By Bar Exam",
           "link": "https://abovethelaw.com/2026/08/washington-does-mostly-right-by-students-screwed-over-by-bar-exam/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Biglaw now employs more new law graduates than any other sector, but first-year hiring just fell for the first time since 2014. The post Biglaw Is Bigger Than Ever, But Its Associate Classes Are Getting Smaller appeared first on Above the…",
           "published": "2026-08-06T17:00:15.000Z"
-        },
-        {
-          "title": "Law Schools Spent 30 Years Buying U.S. News Rankings And The Bill Just Came Due",
-          "link": "https://abovethelaw.com/2026/08/law-schools-spent-30-years-buying-u-s-news-rankings-and-the-bill-just-came-due/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A whopping 7 in 10 law schools find themselves in financial trouble. The post Law Schools Spent 30 Years Buying U.S. News Rankings And The Bill Just Came Due appeared first on Above the Law .",
-          "published": "2026-08-06T16:18:33.000Z"
-        },
-        {
-          "title": "DISCO Moves Beyond E-Discovery With ‘Unified Litigation Solution’ That Combines Case Facts And Case Law",
-          "link": "https://www.lawnext.com/2026/08/disco-moves-beyond-e-discovery-with-unified-litigation-solution-that-combines-case-facts-and-case-law.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The product, which the company has not yet named, is currently in pilot with five law firms on live cases, with general availability planned for early next year. The post DISCO Moves Beyond E-Discovery With ‘Unified Litigation Solution’…",
-          "published": "2026-08-06T15:33:17.000Z"
         }
       ]
     }
