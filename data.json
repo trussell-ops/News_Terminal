@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-07T13:45:45.376Z",
+  "updated": "2026-08-07T14:44:52.002Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
-          "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
+          "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+          "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+          "source": "CNBC Business",
           "category": "markets",
-          "snippet": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-          "published": "2026-08-07T13:32:41.000Z"
+          "snippet": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
+          "published": "2026-08-07T14:32:43.000Z"
         },
         {
           "title": "Surprise fall in US jobs last month as slow summer continues",
@@ -18,7 +18,15 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
-          "published": "2026-08-07T13:26:22.000Z"
+          "published": "2026-08-07T14:03:55.000Z"
+        },
+        {
+          "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+          "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+          "published": "2026-08-07T13:32:41.000Z"
         },
         {
           "title": "Mums hope school uniform swap will help families",
@@ -35,14 +43,6 @@
           "category": "markets",
           "snippet": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
           "published": "2026-08-07T12:30:07.000Z"
-        },
-        {
-          "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
-          "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
-          "published": "2026-08-07T12:15:42.000Z"
         },
         {
           "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -202,12 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Werewolf transformed my old gadgets into USB-C powered ones",
+          "link": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos… or want to play Japanese SNES games with friends… or lose the AC adapter for my old external hard disk… I can now power them with a USB battery instead.…",
+          "published": "2026-08-07T14:05:00.000Z"
+        },
+        {
+          "title": "US's largest newspaper chain partners with Palantir to analyze audience data",
+          "link": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-07T14:02:15.000Z"
+        },
+        {
+          "title": "U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",
+          "link": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-07T13:39:45.000Z"
+        },
+        {
           "title": "ByteDance trains massive AI model in bid to rival Anthropic",
           "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "TikTok owner training a model with 10 trillion parameters.",
           "published": "2026-08-07T13:29:22.000Z"
+        },
+        {
+          "title": "AI psychosis is the new leadership blind spot",
+          "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-07T13:27:30.000Z"
         },
         {
           "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
@@ -250,12 +282,12 @@
           "published": "2026-08-07T12:42:58.000Z"
         },
         {
-          "title": "Why is Everyone in Tech so sad?",
-          "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+          "title": "Show HN: Wyzer Programming Language",
+          "link": "https://github.com/Wyzer-Lang/wyzer",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-07T12:42:27.000Z"
+          "published": "2026-08-07T12:28:55.000Z"
         },
         {
           "title": "The best classic slasher movie you ll never watch",
@@ -290,6 +322,14 @@
           "published": "2026-08-07T11:00:00.000Z"
         },
         {
+          "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+          "link": "https://textlog.cc/about",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-07T10:52:21.000Z"
+        },
+        {
           "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
           "link": "https://blog.cloudflare.com/kitesurf/",
           "source": "Hacker News",
@@ -322,14 +362,6 @@
           "published": "2026-08-07T09:10:01.000Z"
         },
         {
-          "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-          "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-07T00:37:30.000Z"
-        },
-        {
           "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
           "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
           "source": "Hacker News",
@@ -360,44 +392,28 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-06T21:52:16.000Z"
-        },
-        {
-          "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-06T21:18:32.000Z"
-        },
-        {
-          "title": "What is a product?",
-          "link": "https://roge.onwrite.app/what-is-a-product",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-06T21:16:52.000Z"
-        },
-        {
-          "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
-          "link": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show. The video indicates that the event will feature other…",
-          "published": "2026-08-06T21:15:47.000Z"
-        },
-        {
-          "title": "Jony Ive s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark…",
-          "published": "2026-08-06T20:55:39.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "How Appealing Weekly Roundup",
+          "link": "https://abovethelaw.com/2026/08/how-appealing-weekly-roundup-180/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
+          "published": "2026-08-07T14:05:42.000Z"
+        },
+        {
+          "title": "The Supreme Court of Japan",
+          "link": "https://www.scotusblog.com/2026/08/the-supreme-court-of-japan/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Welcome to SCOTUSblog’s recurring series in which we interview experts on different supreme courts around the world and how they compare with our own. Today’s column focuses on the Supreme Court of Japan. To help me comprehend this…",
+          "published": "2026-08-07T14:00:00.000Z"
+        },
         {
           "title": "Pete Buttigieg, the Supreme Court, and the Fourth Amendment",
           "link": "https://www.scotusblog.com/2026/08/pete-buttigieg-the-supreme-court-and-the-fourth-amendment/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Plus, a judge confirmed on Wednesday that TPS for Haitians has ended.",
           "published": "2026-08-06T13:00:00.000Z"
-        },
-        {
-          "title": "Things Must Be Busy At Milbank See Also",
-          "link": "https://abovethelaw.com/2026/08/things-must-be-busy-at-milbank-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Milbank Offers An Early Start, And Actually Means 'Optional': The firm is offering its incoming class a start date three weeks early, and citing 'exceptionally strong client demand' to explain why. A History-Making Group Lateral Move :…",
-          "published": "2026-08-05T23:01:00.000Z"
-        },
-        {
-          "title": "He Left The Bench For The Ballot, Then Came Back For More",
-          "link": "https://abovethelaw.com/2026/08/he-left-the-bench-for-the-ballot-then-came-back-for-more/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A resignation, a heartbreaker of an election, and an unlikely return. The post He Left The Bench For The Ballot, Then Came Back For More appeared first on Above the Law .",
-          "published": "2026-08-05T22:14:00.000Z"
         }
       ]
     }
