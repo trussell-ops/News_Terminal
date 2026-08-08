@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T23:18:34.376Z",
+  "updated": "2026-08-08T23:51:15.065Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "My server is a phone now",
+          "link": "https://seg6.space/posts/phone-server/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-08T22:49:23.000Z"
+        },
+        {
           "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
           "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
           "source": "The Verge",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
           "published": "2026-08-08T11:05:50.000Z"
-        },
-        {
-          "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-08T10:57:44.000Z"
         }
       ]
     },
