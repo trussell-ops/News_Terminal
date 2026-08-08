@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T11:24:54.224Z",
+  "updated": "2026-08-08T11:51:27.043Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,30 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+          "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+          "published": "2026-08-08T11:30:48.000Z"
+        },
+        {
+          "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+          "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+          "published": "2026-08-08T11:05:50.000Z"
+        },
+        {
+          "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-08T10:57:44.000Z"
+        },
+        {
           "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
           "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
           "source": "Hacker News",
@@ -232,6 +256,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-08T09:58:41.000Z"
+        },
+        {
+          "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+          "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-08T09:18:50.000Z"
         },
         {
           "title": "Hardware backdoors in some x86 CPUs",
@@ -322,14 +354,6 @@
           "published": "2026-08-07T18:59:46.000Z"
         },
         {
-          "title": "Psychological Warfare in Reverse Engineering (2015)",
-          "link": "https://github.com/xoreaxeaxeax/repsych",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-07T18:51:45.000Z"
-        },
-        {
           "title": "Ancient Library – 1,060 Greek&#x2F;Latin texts, click any word to parse it",
           "link": "https://ancientlibrary.net/",
           "source": "Hacker News",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-07T18:01:30.000Z"
-        },
-        {
-          "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-          "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "19 new maps continue the story from MachineGames' other campaign additions.",
-          "published": "2026-08-07T18:00:02.000Z"
-        },
-        {
-          "title": "DeepSeek V4 Flash 0731",
-          "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-07T17:56:20.000Z"
-        },
-        {
-          "title": "Disney Plus tries a new AI-powered search",
-          "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services,…",
-          "published": "2026-08-07T17:53:44.000Z"
         }
       ]
     },
