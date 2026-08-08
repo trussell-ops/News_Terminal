@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T20:17:53.067Z",
+  "updated": "2026-08-08T20:54:51.588Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+          "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-08T19:38:08.000Z"
+        },
+        {
           "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
           "source": "Hacker News",
@@ -240,14 +248,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-08T16:49:07.000Z"
-        },
-        {
-          "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP",
-          "link": "https://toonk.io/index.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-08T16:07:00.000Z"
         },
         {
           "title": "Fastmail offers EU data region",
