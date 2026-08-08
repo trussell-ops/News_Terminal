@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-08T11:51:27.043Z",
+  "updated": "2026-08-08T12:27:14.306Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Cyclospora fears lead consumers to lose their appetite for salads",
+          "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
+          "published": "2026-08-08T12:00:01.000Z"
+        },
         {
           "title": "Shop selling second-hand school uniforms for £5",
           "link": "https://www.bbc.co.uk/news/articles/czxe31e3enqo?at_medium=RSS&at_campaign=rss",
@@ -141,6 +149,14 @@
           "published": "2026-08-06T20:30:05.000Z"
         },
         {
+          "title": "Business Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8g9m?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Why is global trade proving so resilient despite the tariffs and trade restrictions?",
+          "published": "2026-08-06T20:30:00.000Z"
+        },
+        {
           "title": "Versant raises 2026 outlook on strength of platforms segment and advertising momentum",
           "link": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
           "source": "CNBC Business",
@@ -179,28 +195,36 @@
           "category": "markets",
           "snippet": "Harsh fouls against Clark and WNBA officiating have fueled a national debate, with some lawmakers demanding accountability from the league.",
           "published": "2026-08-06T17:00:41.000Z"
-        },
-        {
-          "title": "EasyJet agrees to £5.7bn takeover by US firm",
-          "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
-          "published": "2026-08-06T16:35:32.000Z"
-        },
-        {
-          "title": "The divide between Eli Lilly and Novo Nordisk is widening after their latest earnings",
-          "link": "https://www.cnbc.com/2026/08/06/eli-lilly-novo-nordisk-earnings-glp1-market.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "As Lilly widens its lead in the obesity race, Novo is still racing to win back market share and restore investor confidence in its pipeline.",
-          "published": "2026-08-06T16:28:05.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "The USSR in 100 Photographs",
+          "link": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-08T12:07:25.000Z"
+        },
+        {
+          "title": "Is this $450 laptop from an unknown brand too good to be true?",
+          "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and…",
+          "published": "2026-08-08T12:00:00.000Z"
+        },
+        {
+          "title": "My favorite feel-good show is back",
+          "link": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been…",
+          "published": "2026-08-08T12:00:00.000Z"
+        },
         {
           "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
           "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI…",
           "published": "2026-08-07T18:40:34.000Z"
-        },
-        {
-          "title": "Managing AI Coding Costs at Scale",
-          "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-07T18:25:17.000Z"
-        },
-        {
-          "title": "The only instant cameras worth your money",
-          "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are…",
-          "published": "2026-08-07T18:04:08.000Z"
-        },
-        {
-          "title": "Assembly Hall of Shame",
-          "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-07T18:01:30.000Z"
         }
       ]
     },
