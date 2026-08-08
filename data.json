@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-08T06:03:11.436Z",
+  "updated": "2026-08-08T07:26:46.208Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Shop selling second-hand school uniforms for £5",
+          "link": "https://www.bbc.co.uk/news/articles/czxe31e3enqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A charity for families facing poverty runs the swap shop for uniforms to help with the cost of living.",
+          "published": "2026-08-08T07:19:34.000Z"
+        },
         {
           "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
           "link": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
@@ -187,20 +195,28 @@
           "category": "markets",
           "snippet": "As Lilly widens its lead in the obesity race, Novo is still racing to win back market share and restore investor confidence in its pipeline.",
           "published": "2026-08-06T16:28:05.000Z"
-        },
-        {
-          "title": "Ford's new 'Fathom' electric pickup truck will start at $28,000",
-          "link": "https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "It's the first vehicle to be built using the \"Universal Electric Vehicle\" platform that Ford has said is key to making money with EVs.",
-          "published": "2026-08-06T16:09:49.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+          "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running. So imagine…",
+          "published": "2026-08-08T07:00:00.000Z"
+        },
+        {
+          "title": "Stack Overflow new questions are down 98.5% since ChatGPT (+ 5 other platforms)",
+          "link": "https://www.harperflow.io/dead-internet",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-08T06:43:32.000Z"
+        },
         {
           "title": "Mythos social engineering AISI INC-2026-07-28-01",
           "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
@@ -210,7 +226,7 @@
           "published": "2026-08-08T03:41:56.000Z"
         },
         {
-          "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+          "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
           "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
           "source": "Hacker News",
           "category": "tech",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "DOGE's inflated \"Wall of Receipts\": 96% of grant savings unverifiable, GAO says.",
           "published": "2026-08-07T17:51:05.000Z"
-        },
-        {
-          "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-          "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58…",
-          "published": "2026-08-07T17:43:34.000Z"
-        },
-        {
-          "title": "Oracle bans AI-generated code from OpenJDK",
-          "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-07T17:36:30.000Z"
         }
       ]
     },
