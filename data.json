@@ -1,17 +1,9 @@
 {
-  "updated": "2026-08-09T00:57:47.445Z",
+  "updated": "2026-08-09T03:00:54.435Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
-        {
-          "title": "Andy Burnham to embark on cost of living tour through the UK",
-          "link": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
-          "published": "2026-08-08T23:10:50.000Z"
-        },
         {
           "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
           "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
@@ -195,12 +187,28 @@
           "category": "markets",
           "snippet": "Fox advertising revenue increased 78% during the quarter primarily due to the FIFA Men's World Cup and growth at ad-supported streaming service Tubi.",
           "published": "2026-08-06T17:59:12.000Z"
+        },
+        {
+          "title": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
+          "link": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Fox has decided not to renegotiate its current TV deal with the NFL until the expiration of the league's opt-out clause in 2030, said CEO Lachlan Murdoch.",
+          "published": "2026-08-06T17:01:07.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "The phone book that led us to Assad's spy chief in hiding",
+          "link": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-09T01:55:53.000Z"
+        },
         {
           "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
           "link": "https://os8088.com/",
@@ -218,14 +226,6 @@
           "published": "2026-08-08T23:19:44.000Z"
         },
         {
-          "title": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
-          "link": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-08T23:09:07.000Z"
-        },
-        {
           "title": "Dithered QR Codes",
           "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
           "source": "Hacker News",
@@ -234,20 +234,28 @@
           "published": "2026-08-08T23:05:24.000Z"
         },
         {
-          "title": "You can build an AI agent's memory layer with only Go's standard library",
-          "link": "https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-08T22:50:06.000Z"
-        },
-        {
           "title": "My server is a phone now",
           "link": "https://seg6.space/posts/phone-server/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-08T22:49:23.000Z"
+        },
+        {
+          "title": "Should you stop cracking your knuckles?",
+          "link": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-08T22:36:25.000Z"
+        },
+        {
+          "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+          "link": "https://shopify.engineering/scaling-inventory-reservations",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-08T22:32:50.000Z"
         },
         {
           "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
@@ -264,14 +272,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-08T21:07:10.000Z"
-        },
-        {
-          "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
-          "link": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-08T20:37:24.000Z"
         },
         {
           "title": "Open-source interactive map for the Aug 12 total solar eclipse",
