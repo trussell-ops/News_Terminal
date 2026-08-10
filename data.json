@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-10T17:21:52.938Z",
+  "updated": "2026-08-10T18:10:41.061Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Cyclospora fears lead consumers to lose their appetite for salads",
+          "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
+          "published": "2026-08-10T17:23:17.000Z"
+        },
         {
           "title": "Jeff Bezos and Liverpool explained",
           "link": "https://www.bbc.co.uk/sport/football/videos/cn0nw1j48pjo?at_medium=RSS&at_campaign=rss",
@@ -133,14 +141,6 @@
           "published": "2026-08-08T13:41:32.000Z"
         },
         {
-          "title": "Cyclospora fears lead consumers to lose their appetite for salads",
-          "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
-          "published": "2026-08-08T12:00:01.000Z"
-        },
-        {
           "title": "Shop selling second-hand school uniforms for £5",
           "link": "https://www.bbc.co.uk/news/articles/czxe31e3enqo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Learning more about Claude's mathematical capabilities",
+          "link": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T17:41:13.000Z"
+        },
+        {
+          "title": "What to expect from Google’s 2026 Pixel hardware launch event",
+          "link": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that…",
+          "published": "2026-08-10T17:30:00.000Z"
+        },
+        {
+          "title": "CEO Just Fired 500 People Because He Says Zillow Is More Efficient Without Them",
+          "link": "https://galratner.substack.com/p/zillows-ceo-just-fired-500-people",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T17:29:23.000Z"
+        },
+        {
+          "title": "YouTube is making it harder to earn money on YouTube",
+          "link": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 million qualified…",
+          "published": "2026-08-10T17:26:46.000Z"
+        },
+        {
           "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
           "link": "https://www.stoaexchange.com",
           "source": "Hacker News",
@@ -224,14 +256,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-10T16:03:14.000Z"
-        },
-        {
-          "title": "Study links GLP-1 drugs to bigger jump in women's employment than a degree",
-          "link": "https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T16:02:34.000Z"
         },
         {
           "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
@@ -266,14 +290,6 @@
           "published": "2026-08-10T15:54:47.000Z"
         },
         {
-          "title": "Show HN: MergeImage – Merge and stitch images locally in the browser",
-          "link": "https://mergeimage.app/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T15:53:02.000Z"
-        },
-        {
           "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
           "link": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
           "source": "Hacker News",
@@ -298,7 +314,7 @@
           "published": "2026-08-10T15:32:04.000Z"
         },
         {
-          "title": "Itadakimasu: A Word You Say to the Food, Not the Cook",
+          "title": "Itadakimasu: A word you say to the food, not the cook",
           "link": "https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the",
           "source": "Hacker News",
           "category": "tech",
@@ -354,7 +370,7 @@
           "published": "2026-08-10T14:49:21.000Z"
         },
         {
-          "title": "There is no \"done\": Reflections on a completed AT thru-hike (2022)",
+          "title": "There is no “done”: Reflections on a completed Appalachian Trail thru-hike (2022)",
           "link": "https://thetrek.co/appalachian-trail/there-is-no-done-reflections-on-a-completed-at-thru-hike/",
           "source": "Hacker News",
           "category": "tech",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "Companies treat some email domains as digital trash cans, despite the risks.",
           "published": "2026-08-10T14:25:50.000Z"
-        },
-        {
-          "title": "Exploring Claude&#x2F;GPT Knowledge Cutoffs and Pre-Training Timelines",
-          "link": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T14:20:41.000Z"
-        },
-        {
-          "title": "What happens to Bose when headphones become AI?",
-          "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research…",
-          "published": "2026-08-10T14:00:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "How Lawyers Can Start A Podcast That Actually Builds Business And Brand",
+          "link": "https://abovethelaw.com/2026/08/how-lawyers-can-start-a-podcast-that-actually-builds-business-and-brand/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A podcast can be one of the smartest branding and relationship tools a lawyer will ever use, but only if it has a clear purpose, a strong format, and a real plan behind it. The post How Lawyers Can Start A Podcast That Actually Builds…",
+          "published": "2026-08-10T17:47:00.000Z"
+        },
         {
           "title": "The Richest Law Firms Are Looking At Private Equity Cash Because I Guess They Don t Have Enough Money",
           "link": "https://abovethelaw.com/2026/08/the-richest-law-firms-are-looking-at-private-equity-cash-because-i-guess-they-dont-have-enough-money/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "When deployed effectively, AI chatbots can reduce bounce rate, increase law firm website conversion, and enhance your reputation with prospective clients. The post Law Firm Website Conversions In The Age Of AI Chatbots appeared first on…",
           "published": "2026-08-07T16:18:00.000Z"
-        },
-        {
-          "title": "What Nobody Tells You About Law School",
-          "link": "https://abovethelaw.com/2026/08/what-nobody-tells-you-about-law-school/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "There's a cost to 'thinking like a lawyer' no one talks about. The post What Nobody Tells You About Law School appeared first on Above the Law .",
-          "published": "2026-08-07T15:32:00.000Z"
         }
       ]
     }
