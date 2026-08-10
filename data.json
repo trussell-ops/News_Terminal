@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-10T12:44:40.212Z",
+  "updated": "2026-08-10T14:13:16.102Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Consortium advances talks for stake in Liverpool",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
+          "published": "2026-08-10T13:16:51.000Z"
+        },
+        {
+          "title": "Archer shares surge after Boeing stake, electric aircraft subsidiary deal",
+          "link": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for a stake in the eVTOL startup.",
+          "published": "2026-08-10T13:13:31.000Z"
+        },
         {
           "title": "New school uniform rules won't cut costs, says mum",
           "link": "https://www.bbc.co.uk/news/articles/c2k73jqwz38o?at_medium=RSS&at_campaign=rss",
@@ -11,14 +27,6 @@
           "category": "markets",
           "snippet": "Michaela Wilson says she has \"no idea why schools don't just sell iron-on branded badges\".",
           "published": "2026-08-10T12:38:30.000Z"
-        },
-        {
-          "title": "Boeing sells eVTOL subsidiaries, takes stake in Archer",
-          "link": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for an undisclosed stake in the eVTOL startup.",
-          "published": "2026-08-10T12:03:25.000Z"
         },
         {
           "title": "Thames Water gave finance boss a £1m signing-on fee",
@@ -187,20 +195,76 @@
           "category": "markets",
           "snippet": "Items were donated to the pair for a swap event held in Tavistock Library.",
           "published": "2026-08-07T13:23:44.000Z"
-        },
-        {
-          "title": "Meta fined $567m in largest child safety ruling against social media giant",
-          "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-          "published": "2026-08-07T09:22:03.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
+          "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research…",
+          "published": "2026-08-10T14:00:00.000Z"
+        },
+        {
+          "title": "Boeing is selling its air taxi startups to Archer Aviation",
+          "link": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Boeing is selling three of its electric vertical takeoff and landing (eVTOL) subsidiaries to Archer Aviation, in addition to taking an undisclosed stake in the San Jose-based company. The subsidiares to be acquired by Archer include Wisk…",
+          "published": "2026-08-10T13:51:46.000Z"
+        },
+        {
+          "title": "Mistral Patent for \"Code implemented tool calls\"",
+          "link": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T13:29:12.000Z"
+        },
+        {
+          "title": "Defending my own brain against enshittification",
+          "link": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T13:20:09.000Z"
+        },
+        {
+          "title": "50k Boat Names",
+          "link": "https://www.beautifulpublicdata.com/boat-names/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T12:58:16.000Z"
+        },
+        {
+          "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+          "link": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may…",
+          "published": "2026-08-10T12:48:12.000Z"
+        },
+        {
+          "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+          "link": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T12:26:05.000Z"
+        },
+        {
+          "title": "Squeak&#x2F;Smalltalk 6.1 Release Notes",
+          "link": "https://squeak.org/release_notes/6.1/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T12:15:53.000Z"
+        },
         {
           "title": "This great retro-inspired keyboard now comes preassembled",
           "link": "https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review",
@@ -232,14 +296,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-10T11:27:47.000Z"
-        },
-        {
-          "title": "A 'bananas' order for 5000 obscure book titles fuels suspicion",
-          "link": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T11:22:34.000Z"
         },
         {
           "title": "Peer review is overwhelmed—can it survive in the AI era?",
@@ -298,14 +354,6 @@
           "published": "2026-08-10T06:02:38.000Z"
         },
         {
-          "title": "Auto mode is now the default in Claude Code",
-          "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T03:50:00.000Z"
-        },
-        {
           "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
           "link": "https://www.whodunnitai.com/",
           "source": "Hacker News",
@@ -338,66 +386,58 @@
           "published": "2026-08-10T01:01:34.000Z"
         },
         {
-          "title": "The Ambition Project",
-          "link": "https://www.betonit.ai/p/the-ambition-project",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-09T23:36:05.000Z"
-        },
-        {
           "title": "Tuxedo No. 2 – Cocktail recipes",
           "link": "https://tuxedono2.com",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-09T20:48:46.000Z"
-        },
-        {
-          "title": "New Zealand lost its music media, and what we're building to replace it",
-          "link": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-09T20:42:29.000Z"
-        },
-        {
-          "title": "No Dogs in Space is a music history podcast for true obsessives",
-          "link": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season 3, which focused on experimental rock. Don't get me wrong, I loved seasons 1 and 2,…",
-          "published": "2026-08-09T20:28:31.000Z"
-        },
-        {
-          "title": "How I use LLMs to learn complex topics",
-          "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-09T19:16:49.000Z"
-        },
-        {
-          "title": "I made tinnitus my friend, then it disappeared [video]",
-          "link": "https://mynoise.net/vlog.php?ep=20260803",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-09T18:41:35.000Z"
-        },
-        {
-          "title": "Ask HN: What are you working on? (August 2026)",
-          "link": "https://news.ycombinator.com/item?id=49233423",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-09T17:23:22.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Moderna Gets FDA Approval For mRNA Flu Vaccine, But CDC Input Still Uncertain",
+          "link": "https://medcitynews.com/2026/08/moderna-flu-vaccine-fda-approval-mflusiva-acip-cdc-mrna/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A recommendation from a Centers for Disease Control and Prevention advisory committee is key for payer coverage, and that committee has not met all year due to ongoing litigation. The post Moderna Gets FDA Approval For mRNA Flu Vaccine,…",
+          "published": "2026-08-10T14:04:00.000Z"
+        },
+        {
+          "title": "The Supreme Court and the Indian nations",
+          "link": "https://www.scotusblog.com/2026/08/the-supreme-court-and-the-indian-nations/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This article was adapted from an essay that first appeared in the essay collection America Unfinished: 250 Years of Law and Governance (MIT Press, 2026). *** Indian nations occupy two distinct places in American history and law. American…",
+          "published": "2026-08-10T14:00:00.000Z"
+        },
+        {
+          "title": "12 angry men – or six?",
+          "link": "https://www.scotusblog.com/2026/08/twelve-angry-men-or-six/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "“6 Angry Men” doesn’t have the same ring as the name of the famous film – but is 12 constitutionally required? Or is it merely a convention that some states choose to follow in the spirit of English common law? When the Supreme Court…",
+          "published": "2026-08-10T13:30:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 08.10.26",
+          "link": "https://abovethelaw.com/2026/08/morning-docket-08-10-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Todd Blanche confirmed as Attorney General in the middle of the night. [ NPR ] * President's son-in-law intended to destroy villages to build luxury property on stolen Albanian land he bought from suspected gang lord. We are running out…",
+          "published": "2026-08-10T13:00:37.000Z"
+        },
+        {
+          "title": "Justice Alito isn’t going anywhere",
+          "link": "https://www.scotusblog.com/2026/08/justice-alito-isnt-going-anywhere/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, the battle over the White House ballroom is likely headed to the Supreme Court.",
+          "published": "2026-08-10T13:00:00.000Z"
+        },
         {
           "title": "Trump Rewrites Supreme Court Loss As A Win See Generally",
           "link": "https://abovethelaw.com/2026/08/trump-rewrites-supreme-court-loss-as-a-win-see-generally/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. In late June, presidential candidate Pete Buttigieg described in a Substack post…",
           "published": "2026-08-07T13:30:00.000Z"
-        },
-        {
-          "title": "President Trump issues new birthright citizenship and “birth tourism” orders",
-          "link": "https://www.scotusblog.com/2026/08/president-trump-signs-new-birthright-citizenship-and-birth-tourism-orders/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, the next great First Amendment battleground is on the back of your car.",
-          "published": "2026-08-07T13:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 08.07.26",
-          "link": "https://abovethelaw.com/2026/08/morning-docket-08-07-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Murkowski will vote against Todd Blanche, putting the nomination in the hands of Bill Cassidy to see if he's learned anything since confirming RFK Jr. [ CNN ] * Fresh off losing at the Supreme Court, Trump issues new executive orders to…",
-          "published": "2026-08-07T12:57:00.000Z"
-        },
-        {
-          "title": "The Incredible, Shrinking Biglaw Class See Also",
-          "link": "https://abovethelaw.com/2026/08/the-incredible-shrinking-biglaw-class-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Go Big Or Go Home : Biglaw may be the largest single employer of new law school grads, but now associate class sizes are shrinking. Senator Schiff Tried A New Approach With Trump's Election-Denying Judicial Nominees: He asked about 2008,…",
-          "published": "2026-08-06T23:30:00.000Z"
-        },
-        {
-          "title": "No Law Degree, No Problem",
-          "link": "https://abovethelaw.com/2026/08/no-law-degree-no-problem/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "He sat in all three branches of government, but never in a law school classroom. The post No Law Degree, No Problem appeared first on Above the Law .",
-          "published": "2026-08-06T23:00:00.000Z"
-        },
-        {
-          "title": "Bar Exam FUBARs Are Still Out There",
-          "link": "https://abovethelaw.com/2026/08/bar-exam-fubars-are-still-out-there/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "If only NCBE would live up to the mission statement it sets forth on its website in capital letters. The post Bar Exam FUBARs Are Still Out There appeared first on Above the Law .",
-          "published": "2026-08-06T22:42:00.000Z"
         }
       ]
     }
