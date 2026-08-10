@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-10T11:45:17.346Z",
+  "updated": "2026-08-10T12:44:40.212Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "New school uniform rules won't cut costs, says mum",
+          "link": "https://www.bbc.co.uk/news/articles/c2k73jqwz38o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Michaela Wilson says she has \"no idea why schools don't just sell iron-on branded badges\".",
+          "published": "2026-08-10T12:38:30.000Z"
+        },
+        {
+          "title": "Boeing sells eVTOL subsidiaries, takes stake in Archer",
+          "link": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for an undisclosed stake in the eVTOL startup.",
+          "published": "2026-08-10T12:03:25.000Z"
+        },
+        {
+          "title": "Thames Water gave finance boss a £1m signing-on fee",
+          "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+          "published": "2026-08-10T11:48:54.000Z"
+        },
         {
           "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
           "link": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html",
@@ -13,12 +37,12 @@
           "published": "2026-08-10T11:00:01.000Z"
         },
         {
-          "title": "Thames Water gave finance boss a £1m signing-on fee",
-          "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+          "title": "Water outage forces Chessington theme park to close",
+          "link": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
-          "published": "2026-08-10T10:35:47.000Z"
+          "snippet": "Chessington says all tickets booked for Monday can be used on a future date.",
+          "published": "2026-08-10T10:54:28.000Z"
         },
         {
           "title": "Ban on 'subscription traps' brought forward by three months",
@@ -171,30 +195,6 @@
           "category": "markets",
           "snippet": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
           "published": "2026-08-07T09:22:03.000Z"
-        },
-        {
-          "title": "What do people want from Argos?",
-          "link": "https://www.bbc.co.uk/news/videos/clyj57g4kkeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "As Sainsbury agrees to sell Argos for £120m, we ask people if they still shop there, and what the new owners can do to compete with big online retailers like Amazon.",
-          "published": "2026-08-07T08:04:21.000Z"
-        },
-        {
-          "title": "Trump imposes 15% tariff on key chip material to counter China",
-          "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
-          "published": "2026-08-07T01:03:35.000Z"
-        },
-        {
-          "title": "Why airlines are warning over lithium-ion batteries",
-          "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
-          "published": "2026-08-06T23:04:40.000Z"
         }
       ]
     },
@@ -202,12 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "This great retro-inspired keyboard now comes preassembled",
+          "link": "https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "You probably know just by looking at it if the Classic-TKL Underscore Edition is for you. Do you want a retro-looking wired keyboard without a number pad? Great. Do you care that it doesn't have wireless? Perfect. Do you want it…",
+          "published": "2026-08-10T12:00:00.000Z"
+        },
+        {
+          "title": "Tail-call optimization in C is relatively recent",
+          "link": "https://lwn.net/Articles/1034703/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T11:34:40.000Z"
+        },
+        {
           "title": "The first rival Android app store just arrived in the US Play Store",
           "link": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Following the latest twist in Google's legal battles with Epic, US Android users are now able to open Google's Play Store and download a third-party digital store with its own selection of apps. Aptoide, a store specializing in mobile…",
           "published": "2026-08-10T11:30:32.000Z"
+        },
+        {
+          "title": "Because It's Not Fun Enough: why languages fail",
+          "link": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T11:27:47.000Z"
+        },
+        {
+          "title": "A 'bananas' order for 5000 obscure book titles fuels suspicion",
+          "link": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T11:22:34.000Z"
         },
         {
           "title": "Peer review is overwhelmed—can it survive in the AI era?",
@@ -232,6 +264,22 @@
           "category": "tech",
           "snippet": "Solar energy, at any time of day or night - that's the dream of space mirror projects. Futurists have been imagining satellite mirrors that could reflect the sun's light onto the Earth's surface for over a century. Russian scientists…",
           "published": "2026-08-10T11:00:00.000Z"
+        },
+        {
+          "title": "Meta's new open-weight model targets local agentic AI",
+          "link": "https://twitter.com/finkd/status/2086754845218726027",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T10:55:03.000Z"
+        },
+        {
+          "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+          "link": "https://ethw.org/Milestones:Parametron,_1954",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T10:29:14.000Z"
         },
         {
           "title": "Meta Muse Glimmer – open weights 30B local coding model",
@@ -272,14 +320,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-10T03:12:48.000Z"
-        },
-        {
-          "title": "Turn satellite imagery into a paper globe you fold yourself",
-          "link": "https://foldingglobes.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T02:57:38.000Z"
         },
         {
           "title": "What Happened to HackerOne?",
@@ -346,52 +386,12 @@
           "published": "2026-08-09T18:41:35.000Z"
         },
         {
-          "title": "OpenChamber: An Agentic Development Environment",
-          "link": "https://openchamber.dev/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-09T17:27:16.000Z"
-        },
-        {
           "title": "Ask HN: What are you working on? (August 2026)",
           "link": "https://news.ycombinator.com/item?id=49233423",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-09T17:23:22.000Z"
-        },
-        {
-          "title": "Zuckerberg s yacht was closer, but someone else saved a stranded boat",
-          "link": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest…",
-          "published": "2026-08-09T17:20:30.000Z"
-        },
-        {
-          "title": "49ers coach says his Tesla was on Autopilot when he crashed",
-          "link": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time, Shanahan said only that the accident was his fault. But during a recent press conference, he shared more details…",
-          "published": "2026-08-09T15:56:49.000Z"
-        },
-        {
-          "title": "Taxi drivers rarely die of Alzheimer's",
-          "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-09T15:21:46.000Z"
-        },
-        {
-          "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-          "link": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-09T15:11:20.000Z"
         }
       ]
     },
