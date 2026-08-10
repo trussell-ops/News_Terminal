@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-10T18:10:41.061Z",
+  "updated": "2026-08-10T19:27:46.974Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
+          "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.",
+          "published": "2026-08-10T18:58:47.000Z"
+        },
+        {
+          "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
+          "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "HHS moves to tighten oversight of food ingredients and define ultra-processed foods as food safety concerns raise questions about FDA visibility.",
+          "published": "2026-08-10T18:46:43.000Z"
+        },
         {
           "title": "Cyclospora fears lead consumers to lose their appetite for salads",
           "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
@@ -27,14 +43,6 @@
           "category": "markets",
           "snippet": "Food producer Taylor Farms is recalling sandwiches, sauces and dips across 26 US states after a salmonella outbreak.",
           "published": "2026-08-10T15:10:33.000Z"
-        },
-        {
-          "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
-          "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "HHS moves to tighten oversight of food ingredients and define ultra-processed foods as food safety concerns raise questions about FDA visibility.",
-          "published": "2026-08-10T15:03:24.000Z"
         },
         {
           "title": "Thames Water gave finance boss a £1m signing-on fee",
@@ -187,20 +195,44 @@
           "category": "markets",
           "snippet": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
           "published": "2026-08-07T15:22:51.000Z"
-        },
-        {
-          "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
-          "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
-          "published": "2026-08-07T15:13:11.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Bluesky now lets you hide reposts from that annoying person you follow",
+          "link": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your feed with reposts of things you don't…",
+          "published": "2026-08-10T19:26:50.000Z"
+        },
+        {
+          "title": "Costco s great Switch 2 console bundle includes over $100 in free stuff",
+          "link": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We’re just weeks away, but Costco is offering a fantastic $499.99 bundle for its members that includes a…",
+          "published": "2026-08-10T19:14:27.000Z"
+        },
+        {
+          "title": "Rust SIMD on the GPU",
+          "link": "https://www.vectorware.com/blog/simd-on-gpu/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T18:12:49.000Z"
+        },
+        {
+          "title": "Security Vulnerability in Pioneer Rekordbox",
+          "link": "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T18:11:52.000Z"
+        },
         {
           "title": "Learning more about Claude's mathematical capabilities",
           "link": "https://www.anthropic.com/research/riemann-zeta",
@@ -218,20 +250,28 @@
           "published": "2026-08-10T17:30:00.000Z"
         },
         {
-          "title": "CEO Just Fired 500 People Because He Says Zillow Is More Efficient Without Them",
-          "link": "https://galratner.substack.com/p/zillows-ceo-just-fired-500-people",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T17:29:23.000Z"
-        },
-        {
           "title": "YouTube is making it harder to earn money on YouTube",
           "link": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 million qualified…",
           "published": "2026-08-10T17:26:46.000Z"
+        },
+        {
+          "title": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
+          "link": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Ford dealers were told about the new Escape-sized model; one of them spilled the beans.",
+          "published": "2026-08-10T17:07:47.000Z"
+        },
+        {
+          "title": "Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak",
+          "link": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Recall of jalapeño products spans 26 states, major retailers, a variety of foods.",
+          "published": "2026-08-10T16:37:08.000Z"
         },
         {
           "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
@@ -242,20 +282,20 @@
           "published": "2026-08-10T16:35:27.000Z"
         },
         {
-          "title": "Why Addresses Have Numbers",
-          "link": "https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T16:12:54.000Z"
-        },
-        {
           "title": "Exploiting System Management Mode with a very long interrupt",
           "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-10T16:03:14.000Z"
+        },
+        {
+          "title": "Valve slowly expands SteamOS support on non-Valve hardware",
+          "link": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "New update includes improvements for the Intel-based MSI Claw 8 EX AI+ among others.",
+          "published": "2026-08-10T16:01:04.000Z"
         },
         {
           "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
@@ -306,6 +346,14 @@
           "published": "2026-08-10T15:49:48.000Z"
         },
         {
+          "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
+          "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Aptoide has become the first app store distributed inside Google Play under a judge's order.",
+          "published": "2026-08-10T15:44:45.000Z"
+        },
+        {
           "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
           "link": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
           "source": "Hacker News",
@@ -344,60 +392,28 @@
           "category": "tech",
           "snippet": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains.",
           "published": "2026-08-10T15:00:53.000Z"
-        },
-        {
-          "title": "Apple will stream Friday Night Baseball live in Vision Pro",
-          "link": "https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Starting on Friday, August 28th, Apple will begin streaming Friday Night Baseball in immersive video on Apple Vision Pro. The stream will feature commentary from various analysts and reporters, and live graphics will be anchored around…",
-          "published": "2026-08-10T15:00:00.000Z"
-        },
-        {
-          "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-          "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T14:56:32.000Z"
-        },
-        {
-          "title": "2026 Subaru Outback review: Great interior, refined drive, divisive looks",
-          "link": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The newest Outback sticks to the script; that's no bad thing if you like Outbacks.",
-          "published": "2026-08-10T14:49:21.000Z"
-        },
-        {
-          "title": "There is no “done”: Reflections on a completed Appalachian Trail thru-hike (2022)",
-          "link": "https://thetrek.co/appalachian-trail/there-is-no-done-reflections-on-a-completed-at-thru-hike/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T14:32:54.000Z"
-        },
-        {
-          "title": "Keychron’s wireless Hall effect keyboard is back to its lowest price",
-          "link": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don’t need to compromise on quality to get a good deal. Keychron’s aluminum-clad K2 HE with a 75-percent layout is down to $103.99…",
-          "published": "2026-08-10T14:27:23.000Z"
-        },
-        {
-          "title": "A researcher bought noreply.net. Companies started sending him secrets.",
-          "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Companies treat some email domains as digital trash cans, despite the risks.",
-          "published": "2026-08-10T14:25:50.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Law Schools With The Highest LSAT Scores (2026)",
+          "link": "https://abovethelaw.com/2026/08/the-law-schools-with-the-highest-lsat-scores-2026/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Did your law school make the list? The post The Law Schools With The Highest LSAT Scores (2026) appeared first on Above the Law .",
+          "published": "2026-08-10T19:13:00.000Z"
+        },
+        {
+          "title": "The Senate Confirmed Todd Blanche At 4 am. Nothing Good Happens After Midnight.",
+          "link": "https://abovethelaw.com/2026/08/the-senate-confirmed-todd-blanche-at-4-am-nothing-good-happens-after-midnight/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "50-49. Trump's former personal criminal defense attorney will now lead the nation's top law enforcement agency. The post The Senate Confirmed Todd Blanche At 4 am. Nothing Good Happens After Midnight. appeared first on Above the Law .",
+          "published": "2026-08-10T18:32:00.000Z"
+        },
         {
           "title": "How Lawyers Can Start A Podcast That Actually Builds Business And Brand",
           "link": "https://abovethelaw.com/2026/08/how-lawyers-can-start-a-podcast-that-actually-builds-business-and-brand/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Two new executive orders cite Trump v. Barbara for exactly the proposition the Court spent several pages rejecting. The post Trump Issues New Birthright Citizenship Orders In Direct Defiance Of Supreme Court appeared first on Above the…",
           "published": "2026-08-07T17:47:00.000Z"
-        },
-        {
-          "title": "Biglaw Is Officially Running Out Of Summer To Announce Associate Raises",
-          "link": "https://abovethelaw.com/2026/08/biglaw-is-officially-running-out-of-summer-to-announce-associate-raises/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Milbank made its move more than two months ago. Please don’t tell us Biglaw is actually going to wait until after Labor Day to match. The post Biglaw Is Officially Running Out Of Summer To Announce Associate Raises appeared first on Above…",
-          "published": "2026-08-07T17:04:21.000Z"
-        },
-        {
-          "title": "Law Firm Website Conversions In The Age Of AI Chatbots",
-          "link": "https://abovethelaw.com/2026/08/law-firm-website-conversions-in-the-age-of-ai-chatbots/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "When deployed effectively, AI chatbots can reduce bounce rate, increase law firm website conversion, and enhance your reputation with prospective clients. The post Law Firm Website Conversions In The Age Of AI Chatbots appeared first on…",
-          "published": "2026-08-07T16:18:00.000Z"
         }
       ]
     }
