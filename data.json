@@ -1,16 +1,32 @@
 {
-  "updated": "2026-08-10T14:13:16.102Z",
+  "updated": "2026-08-10T15:28:58.480Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Consortium advances talks for stake in Liverpool",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+          "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
+          "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "HHS moves to tighten oversight of food ingredients and define ultra-processed foods as food safety concerns raise questions about FDA visibility.",
+          "published": "2026-08-10T15:03:24.000Z"
+        },
+        {
+          "title": "Thames Water gave finance boss a £1m signing-on fee",
+          "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
-          "published": "2026-08-10T13:16:51.000Z"
+          "snippet": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+          "published": "2026-08-10T14:49:46.000Z"
+        },
+        {
+          "title": "Water outage forces Chessington theme park to close",
+          "link": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Chessington says all tickets booked for Monday can be used on a future date.",
+          "published": "2026-08-10T14:24:53.000Z"
         },
         {
           "title": "Archer shares surge after Boeing stake, electric aircraft subsidiary deal",
@@ -18,7 +34,15 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for a stake in the eVTOL startup.",
-          "published": "2026-08-10T13:13:31.000Z"
+          "published": "2026-08-10T14:16:24.000Z"
+        },
+        {
+          "title": "Consortium advances talks for stake in Liverpool",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
+          "published": "2026-08-10T13:16:51.000Z"
         },
         {
           "title": "New school uniform rules won't cut costs, says mum",
@@ -29,28 +53,12 @@
           "published": "2026-08-10T12:38:30.000Z"
         },
         {
-          "title": "Thames Water gave finance boss a £1m signing-on fee",
-          "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
-          "published": "2026-08-10T11:48:54.000Z"
-        },
-        {
           "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
           "link": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Shein has won over consumers with its low prices but is now seeing shoppers flee after new tariffs and changing regulations forced it to raise prices.",
           "published": "2026-08-10T11:00:01.000Z"
-        },
-        {
-          "title": "Water outage forces Chessington theme park to close",
-          "link": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Chessington says all tickets booked for Monday can be used on a future date.",
-          "published": "2026-08-10T10:54:28.000Z"
         },
         {
           "title": "Ban on 'subscription traps' brought forward by three months",
@@ -187,20 +195,84 @@
           "category": "markets",
           "snippet": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
           "published": "2026-08-07T13:32:41.000Z"
-        },
-        {
-          "title": "Mums hope school uniform swap will help families",
-          "link": "https://www.bbc.co.uk/news/articles/c5yrqr8npe9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Items were donated to the pair for a swap event held in Tavistock Library.",
-          "published": "2026-08-07T13:23:44.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Four takeaways from Mark Zuckerberg s massive AI manifesto",
+          "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg…",
+          "published": "2026-08-10T15:19:05.000Z"
+        },
+        {
+          "title": "One of China's workhorse rockets just exploded in flight",
+          "link": "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "If the failure involved the YF-100 engine, there are broader concerns for China's space program.",
+          "published": "2026-08-10T15:05:00.000Z"
+        },
+        {
+          "title": "Dogs can tell if you're scared or sad",
+          "link": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains.",
+          "published": "2026-08-10T15:00:53.000Z"
+        },
+        {
+          "title": "Apple will stream Friday Night Baseball live in Vision Pro",
+          "link": "https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Starting on Friday, August 28th, Apple will begin streaming Friday Night Baseball in immersive video on Apple Vision Pro. The stream will feature commentary from various analysts and reporters, and live graphics will be anchored around…",
+          "published": "2026-08-10T15:00:00.000Z"
+        },
+        {
+          "title": "2026 Subaru Outback review: Great interior, refined drive, divisive looks",
+          "link": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The newest Outback sticks to the script; that's no bad thing if you like Outbacks.",
+          "published": "2026-08-10T14:49:21.000Z"
+        },
+        {
+          "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T14:38:20.000Z"
+        },
+        {
+          "title": "Keychron’s wireless Hall effect keyboard is back to its lowest price",
+          "link": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don’t need to compromise on quality to get a good deal. Keychron’s aluminum-clad K2 HE with a 75-percent layout is down to $103.99…",
+          "published": "2026-08-10T14:27:23.000Z"
+        },
+        {
+          "title": "A researcher bought noreply.net. Companies started sending him secrets.",
+          "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Companies treat some email domains as digital trash cans, despite the risks.",
+          "published": "2026-08-10T14:25:50.000Z"
+        },
+        {
+          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+          "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T14:06:22.000Z"
+        },
         {
           "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
           "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
@@ -290,14 +362,6 @@
           "published": "2026-08-10T11:30:32.000Z"
         },
         {
-          "title": "Because It's Not Fun Enough: why languages fail",
-          "link": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T11:27:47.000Z"
-        },
-        {
           "title": "Peer review is overwhelmed—can it survive in the AI era?",
           "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
           "source": "Ars Technica",
@@ -322,82 +386,26 @@
           "published": "2026-08-10T11:00:00.000Z"
         },
         {
-          "title": "Meta's new open-weight model targets local agentic AI",
-          "link": "https://twitter.com/finkd/status/2086754845218726027",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T10:55:03.000Z"
-        },
-        {
           "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
           "link": "https://ethw.org/Milestones:Parametron,_1954",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-10T10:29:14.000Z"
-        },
-        {
-          "title": "Meta Muse Glimmer – open weights 30B local coding model",
-          "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T10:10:02.000Z"
-        },
-        {
-          "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "link": "https://www.docker.com/products/docker-sandboxes/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T06:02:38.000Z"
-        },
-        {
-          "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-          "link": "https://www.whodunnitai.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T03:18:40.000Z"
-        },
-        {
-          "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-          "link": "https://github.com/shinyquagsire23/Klepton",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T03:12:48.000Z"
-        },
-        {
-          "title": "What Happened to HackerOne?",
-          "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T02:23:17.000Z"
-        },
-        {
-          "title": "How We Pushed CDC into Postgres",
-          "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T01:01:34.000Z"
-        },
-        {
-          "title": "Tuxedo No. 2 – Cocktail recipes",
-          "link": "https://tuxedono2.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-09T20:48:46.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Bunker Ballroom Blocked",
+          "link": "https://abovethelaw.com/2026/08/bunker-ballroom-blocked/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "BOOM The post Bunker Ballroom Blocked appeared first on Above the Law .",
+          "published": "2026-08-10T14:49:33.000Z"
+        },
         {
           "title": "Moderna Gets FDA Approval For mRNA Flu Vaccine, But CDC Input Still Uncertain",
           "link": "https://medcitynews.com/2026/08/moderna-flu-vaccine-fda-approval-mflusiva-acip-cdc-mrna/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Welcome to SCOTUSblog’s recurring series in which we interview experts on different supreme courts around the world and how they compare with our own. Today’s column focuses on the Supreme Court of Japan. To help me comprehend this…",
           "published": "2026-08-07T14:00:00.000Z"
-        },
-        {
-          "title": "Pete Buttigieg, the Supreme Court, and the Fourth Amendment",
-          "link": "https://www.scotusblog.com/2026/08/pete-buttigieg-the-supreme-court-and-the-fourth-amendment/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. In late June, presidential candidate Pete Buttigieg described in a Substack post…",
-          "published": "2026-08-07T13:30:00.000Z"
         }
       ]
     }
