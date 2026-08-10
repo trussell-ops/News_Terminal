@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-10T15:28:58.480Z",
+  "updated": "2026-08-10T16:22:55.025Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Jeff Bezos and Liverpool explained",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cn0nw1j48pjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "BBC Sport's Sam Harris breaks down the potential new investment of Jeff Bezos into Liverpool.",
+          "published": "2026-08-10T15:48:35.000Z"
+        },
+        {
+          "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
+          "link": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Food producer Taylor Farms is recalling sandwiches, sauces and dips across 26 US states after a salmonella outbreak.",
+          "published": "2026-08-10T15:10:33.000Z"
+        },
         {
           "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
           "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
           "published": "2026-08-07T15:13:11.000Z"
-        },
-        {
-          "title": "Surprise fall in US jobs last month as slow summer continues",
-          "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
-          "published": "2026-08-07T14:03:55.000Z"
-        },
-        {
-          "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-          "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-          "published": "2026-08-07T13:32:41.000Z"
         }
       ]
     },
@@ -202,12 +202,92 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Exploiting System Management Mode with a very long interrupt",
+          "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T16:03:14.000Z"
+        },
+        {
+          "title": "GLP-1 drugs linked to bigger jump in women’s employment than a college degree",
+          "link": "https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T16:02:34.000Z"
+        },
+        {
+          "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+          "link": "https://github.com/AntigmaLabs/ante",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T15:59:23.000Z"
+        },
+        {
+          "title": "Back to the Future of Handwriting Recognition",
+          "link": "https://jackschaedler.github.io/handwriting-recognition/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T15:58:32.000Z"
+        },
+        {
+          "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
+          "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T15:49:48.000Z"
+        },
+        {
+          "title": "Force-Fed by ICE",
+          "link": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T15:35:44.000Z"
+        },
+        {
+          "title": "OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T15:35:00.000Z"
+        },
+        {
+          "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+          "link": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T15:32:04.000Z"
+        },
+        {
+          "title": "Itadakimasu: A Word You Say to the Food, Not the Cook",
+          "link": "https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T15:23:44.000Z"
+        },
+        {
           "title": "Four takeaways from Mark Zuckerberg s massive AI manifesto",
           "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg…",
           "published": "2026-08-10T15:19:05.000Z"
+        },
+        {
+          "title": "'Pervert glasses': Backlash against Meta's smart glasses grows",
+          "link": "https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T15:13:08.000Z"
         },
         {
           "title": "One of China's workhorse rockets just exploded in flight",
@@ -234,6 +314,14 @@
           "published": "2026-08-10T15:00:00.000Z"
         },
         {
+          "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+          "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T14:56:32.000Z"
+        },
+        {
           "title": "2026 Subaru Outback review: Great interior, refined drive, divisive looks",
           "link": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
           "source": "Ars Technica",
@@ -242,12 +330,28 @@
           "published": "2026-08-10T14:49:21.000Z"
         },
         {
-          "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+          "title": "Felix and I",
+          "link": "https://jacobfilipp.com/felix/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-10T14:38:20.000Z"
+          "published": "2026-08-10T14:40:24.000Z"
+        },
+        {
+          "title": "Every Company Needs a Cassandra",
+          "link": "https://sunilpai.dev/posts/every-company-needs-a-cassandra/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T14:34:13.000Z"
+        },
+        {
+          "title": "There Is No \"Done\": Reflections on a Completed at Thru-Hike (2022)",
+          "link": "https://thetrek.co/appalachian-trail/there-is-no-done-reflections-on-a-completed-at-thru-hike/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T14:32:54.000Z"
         },
         {
           "title": "Keychron’s wireless Hall effect keyboard is back to its lowest price",
@@ -266,12 +370,12 @@
           "published": "2026-08-10T14:25:50.000Z"
         },
         {
-          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-          "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+          "title": "Exploring Claude&#x2F;GPT Knowledge Cutoffs and Pre-Training Timelines",
+          "link": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-10T14:06:22.000Z"
+          "published": "2026-08-10T14:20:41.000Z"
         },
         {
           "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
@@ -288,116 +392,28 @@
           "category": "tech",
           "snippet": "Boeing is selling three of its electric vertical takeoff and landing (eVTOL) subsidiaries to Archer Aviation, in addition to taking an undisclosed stake in the San Jose-based company. The subsidiares to be acquired by Archer include Wisk…",
           "published": "2026-08-10T13:51:46.000Z"
-        },
-        {
-          "title": "Mistral Patent for \"Code implemented tool calls\"",
-          "link": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T13:29:12.000Z"
-        },
-        {
-          "title": "Defending my own brain against enshittification",
-          "link": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T13:20:09.000Z"
-        },
-        {
-          "title": "50k Boat Names",
-          "link": "https://www.beautifulpublicdata.com/boat-names/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T12:58:16.000Z"
-        },
-        {
-          "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
-          "link": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may…",
-          "published": "2026-08-10T12:48:12.000Z"
-        },
-        {
-          "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
-          "link": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T12:26:05.000Z"
-        },
-        {
-          "title": "Squeak&#x2F;Smalltalk 6.1 Release Notes",
-          "link": "https://squeak.org/release_notes/6.1/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T12:15:53.000Z"
-        },
-        {
-          "title": "This great retro-inspired keyboard now comes preassembled",
-          "link": "https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "You probably know just by looking at it if the Classic-TKL Underscore Edition is for you. Do you want a retro-looking wired keyboard without a number pad? Great. Do you care that it doesn't have wireless? Perfect. Do you want it…",
-          "published": "2026-08-10T12:00:00.000Z"
-        },
-        {
-          "title": "Tail-call optimization in C is relatively recent",
-          "link": "https://lwn.net/Articles/1034703/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T11:34:40.000Z"
-        },
-        {
-          "title": "The first rival Android app store just arrived in the US Play Store",
-          "link": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Following the latest twist in Google's legal battles with Epic, US Android users are now able to open Google's Play Store and download a third-party digital store with its own selection of apps. Aptoide, a store specializing in mobile…",
-          "published": "2026-08-10T11:30:32.000Z"
-        },
-        {
-          "title": "Peer review is overwhelmed—can it survive in the AI era?",
-          "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
-          "published": "2026-08-10T11:00:47.000Z"
-        },
-        {
-          "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-          "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling…",
-          "published": "2026-08-10T11:00:00.000Z"
-        },
-        {
-          "title": "Space mirrors could ruin astronomy — and your eyes",
-          "link": "https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Solar energy, at any time of day or night - that's the dream of space mirror projects. Futurists have been imagining satellite mirrors that could reflect the sun's light onto the Earth's surface for over a century. Russian scientists…",
-          "published": "2026-08-10T11:00:00.000Z"
-        },
-        {
-          "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
-          "link": "https://ethw.org/Milestones:Parametron,_1954",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T10:29:14.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Thinking About Trump s Brain Trust",
+          "link": "https://abovethelaw.com/2026/08/thinking-about-trumps-brain-trust/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Trump likes credentials; he just doesn't have 'em. The post Thinking About Trump s Brain Trust appeared first on Above the Law .",
+          "published": "2026-08-10T16:16:00.000Z"
+        },
+        {
+          "title": "Cherryn-Paige Bissett Says AI Didn t Replace Lawyers. It Repriced Judgment.",
+          "link": "https://abovethelaw.com/2026/08/cherryn-paige-bissett-says-ai-didnt-replace-lawyers-it-repriced-judgment/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The future isn't about redlining faster. The post Cherryn-Paige Bissett Says AI Didn t Replace Lawyers. It Repriced Judgment. appeared first on Above the Law .",
+          "published": "2026-08-10T15:32:00.000Z"
+        },
         {
           "title": "Bunker Ballroom Blocked",
           "link": "https://abovethelaw.com/2026/08/bunker-ballroom-blocked/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "From the agentic-law dept The post Ninth Circuit: Your AI Agent Can’t Violate Hacking Law. But You Might. appeared first on Above the Law .",
           "published": "2026-08-07T14:47:00.000Z"
-        },
-        {
-          "title": "How Appealing Weekly Roundup",
-          "link": "https://abovethelaw.com/2026/08/how-appealing-weekly-roundup-180/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
-          "published": "2026-08-07T14:05:42.000Z"
-        },
-        {
-          "title": "The Supreme Court of Japan",
-          "link": "https://www.scotusblog.com/2026/08/the-supreme-court-of-japan/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Welcome to SCOTUSblog’s recurring series in which we interview experts on different supreme courts around the world and how they compare with our own. Today’s column focuses on the Supreme Court of Japan. To help me comprehend this…",
-          "published": "2026-08-07T14:00:00.000Z"
         }
       ]
     }
