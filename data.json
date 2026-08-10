@@ -1,11 +1,19 @@
 {
-  "updated": "2026-08-10T23:03:33.116Z",
+  "updated": "2026-08-10T23:57:46.415Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Nvidia gets $500bn from major banks to develop AI data centres",
+          "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+          "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
+          "published": "2026-08-10T23:32:10.000Z"
+        },
+        {
+          "title": "Nvidia gets $500bn from major investors to develop AI data centres",
           "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Burger King is once again the second-largest burger chain in the U.S. by system-wide sales.",
           "published": "2026-08-07T18:19:39.000Z"
-        },
-        {
-          "title": "Jeweller 'priced out' of Christmas market stall this year",
-          "link": "https://www.bbc.co.uk/news/articles/c0qv4g4k4zpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Alex says a change in operator and rise in costs means this is the first winter she will not be renting a stall.",
-          "published": "2026-08-07T17:34:33.000Z"
         }
       ]
     },
@@ -202,12 +202,28 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "World Train Map – 1247 train routes around the world",
+          "link": "https://worldtrainmap.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T22:42:14.000Z"
+        },
+        {
           "title": "Google Search Is Dying. What Comes Next Is Worse",
           "link": "https://thewalrus.ca/google-search-is-dying/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-10T22:36:30.000Z"
+        },
+        {
+          "title": "Mark Zuckerberg's Yacht Refused to Help Ship in Distress",
+          "link": "https://nymag.com/intelligencer/article/zuckerbergs-yacht-booed-over-failing-to-help-stranded-boat.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T22:27:06.000Z"
         },
         {
           "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
@@ -370,28 +386,12 @@
           "published": "2026-08-10T16:35:27.000Z"
         },
         {
-          "title": "Exploiting System Management Mode with a very long interrupt",
-          "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+          "title": "What's the best programming language for coding agents?",
+          "link": "http://danluu.com/pl-tokens/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-10T16:03:14.000Z"
-        },
-        {
-          "title": "Valve slowly expands SteamOS support on non-Valve hardware",
-          "link": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "New update includes improvements for the Intel-based MSI Claw 8 EX AI+ among others.",
-          "published": "2026-08-10T16:01:04.000Z"
-        },
-        {
-          "title": "Back to the Future of Handwriting Recognition (2016)",
-          "link": "https://jackschaedler.github.io/handwriting-recognition/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T15:58:32.000Z"
+          "published": "2026-08-10T16:28:58.000Z"
         }
       ]
     },
