@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T20:34:29.393Z",
+  "updated": "2026-08-11T21:36:05.126Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -9,8 +9,16 @@
           "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
           "source": "CNBC Business",
           "category": "markets",
-          "snippet": "",
-          "published": "2026-08-11T20:31:20.000Z"
+          "snippet": "The deal follows years of global automotive supply chain issues for GM and other companies.",
+          "published": "2026-08-11T21:15:01.000Z"
+        },
+        {
+          "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+          "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
+          "published": "2026-08-11T21:01:13.000Z"
         },
         {
           "title": "Tributes to co-founder of John Pye auction house",
@@ -187,20 +195,36 @@
           "category": "markets",
           "snippet": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
           "published": "2026-08-10T17:23:17.000Z"
-        },
-        {
-          "title": "Jeff Bezos and Liverpool explained",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cn0nw1j48pjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "BBC Sport's Sam Harris breaks down the potential new investment of Jeff Bezos into Liverpool.",
-          "published": "2026-08-10T15:48:35.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "An FCC filing points to new Sonos headphones coming soon",
+          "link": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, Inc reveals details…",
+          "published": "2026-08-11T21:23:30.000Z"
+        },
+        {
+          "title": "AI Is Solving CTF Challenges in Minutes",
+          "link": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-11T21:13:44.000Z"
+        },
+        {
+          "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+          "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
+          "published": "2026-08-11T20:27:16.000Z"
+        },
         {
           "title": "The brain may be about to have its Ozempic moment",
           "link": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
@@ -210,7 +234,7 @@
           "published": "2026-08-11T20:01:27.000Z"
         },
         {
-          "title": "Compression Is Prediction",
+          "title": "Compression is prediction",
           "link": "https://ngrok.com/blog/compression-is-prediction",
           "source": "Hacker News",
           "category": "tech",
@@ -218,12 +242,12 @@
           "published": "2026-08-11T19:49:44.000Z"
         },
         {
-          "title": "Bluesky's active user base is shrinking as its focus expands beyond the app",
-          "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-          "source": "Hacker News",
+          "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+          "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-11T19:45:41.000Z"
+          "snippet": "But will Gemini's surge survive slowing model releases?",
+          "published": "2026-08-11T19:48:12.000Z"
         },
         {
           "title": "ChatGPT and Gemini both just passed 1 billion users",
@@ -248,14 +272,6 @@
           "category": "tech",
           "snippet": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform has crossed 500…",
           "published": "2026-08-11T19:10:14.000Z"
-        },
-        {
-          "title": "The whole of PyTorch on one page",
-          "link": "https://tensor.khalilli.ai/blog/part-0-the-map/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-11T19:05:10.000Z"
         },
         {
           "title": "Making holograms with a pen plotter",
@@ -322,6 +338,14 @@
           "published": "2026-08-11T17:31:06.000Z"
         },
         {
+          "title": "Grok Bot",
+          "link": "https://x.ai/bot",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-11T17:23:09.000Z"
+        },
+        {
           "title": "CSS properties you should know for better text designs",
           "link": "https://master.dev/blog/typographic-css-tricks/",
           "source": "Hacker News",
@@ -346,14 +370,6 @@
           "published": "2026-08-11T17:00:00.000Z"
         },
         {
-          "title": "Go is an ideal language for AI-assisted software engineering",
-          "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-11T16:57:09.000Z"
-        },
-        {
           "title": "Mojo 1.0",
           "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
           "source": "Hacker News",
@@ -376,28 +392,28 @@
           "category": "tech",
           "snippet": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed…",
           "published": "2026-08-11T16:19:15.000Z"
-        },
-        {
-          "title": "A Google insider spills the tea on how the company forsook its founding ideals",
-          "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Claire Stapleton's new book, Don't Be Evil , recounts her journey from company cheerleader to outspoken dissident.",
-          "published": "2026-08-11T16:07:34.000Z"
-        },
-        {
-          "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
-          "link": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Trump has resisted urge to fire FCC Democrat despite recent Supreme Court win.",
-          "published": "2026-08-11T15:28:43.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Challenge brought to Trump’s new birthright citizenship order",
+          "link": "https://www.scotusblog.com/2026/08/challenge-brought-to-trumps-new-birthright-citizenship-order/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Just five days after President Donald Trump signed a new executive order that seeks to narrow the availability of birthright citizenship – the current guarantee of automatic citizenship to almost all babies born in the United States –…",
+          "published": "2026-08-11T20:48:00.000Z"
+        },
+        {
+          "title": "Mark Zuckerberg Thinks Everyone Should Have A Superintelligent AI Lawyer",
+          "link": "https://abovethelaw.com/2026/08/mark-zuckerberg-thinks-everyone-should-have-a-superintelligent-ai-lawyer/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Because justice is apparently what happens when everyone brings a robot lawyer to court. The post Mark Zuckerberg Thinks Everyone Should Have A Superintelligent AI Lawyer appeared first on Above the Law .",
+          "published": "2026-08-11T20:44:00.000Z"
+        },
         {
           "title": "Judge Rejects ChatGPT Wrote My Confession Defense",
           "link": "https://abovethelaw.com/2026/08/judge-rejects-chatgpt-wrote-my-confession-defense/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "A podcast can be one of the smartest branding and relationship tools a lawyer will ever use, but only if it has a clear purpose, a strong format, and a real plan behind it. The post How Lawyers Can Start A Podcast That Actually Builds…",
           "published": "2026-08-10T17:47:00.000Z"
-        },
-        {
-          "title": "The Richest Law Firms Are Looking At Private Equity Cash Because I Guess They Don t Have Enough Money",
-          "link": "https://abovethelaw.com/2026/08/the-richest-law-firms-are-looking-at-private-equity-cash-because-i-guess-they-dont-have-enough-money/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Biglaw is looking at the playbook that killed endless shrimp. The post The Richest Law Firms Are Looking At Private Equity Cash Because I Guess They Don t Have Enough Money appeared first on Above the Law .",
-          "published": "2026-08-10T17:01:00.000Z"
-        },
-        {
-          "title": "Thinking About Trump s Brain Trust",
-          "link": "https://abovethelaw.com/2026/08/thinking-about-trumps-brain-trust/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Trump likes credentials; he just doesn't have 'em. The post Thinking About Trump s Brain Trust appeared first on Above the Law .",
-          "published": "2026-08-10T16:16:00.000Z"
         }
       ]
     }
