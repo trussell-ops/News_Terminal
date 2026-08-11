@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-11T11:11:29.899Z",
+  "updated": "2026-08-11T12:04:37.505Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Baby products company Frida is expanding into kids’ personal care",
+          "link": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Baby products company Frida is launching a new category of personal care items for kids, tapping into a growing market and largely untapped space.",
+          "published": "2026-08-11T12:00:02.000Z"
+        },
         {
           "title": "Councils to get more powers to stop vape and betting shops, PM announces",
           "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
@@ -13,7 +21,7 @@
           "published": "2026-08-11T09:23:58.000Z"
         },
         {
-          "title": "Mars Bar from 1991 found - and it's 56% bigger than today's",
+          "title": "Mars Bar from 1991 found – and it's 56% bigger than today's",
           "link": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Tech companies are not modelling their own claims of the technology giving people more free time.",
           "published": "2026-08-10T05:00:32.000Z"
-        },
-        {
-          "title": "Could your tattoo stop you from getting a job?",
-          "link": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A quarter of the UK population – including the new prime minister – have at least one tattoo, but they still divide opinion in the workplace.",
-          "published": "2026-08-10T00:40:48.000Z"
         }
       ]
     },
@@ -202,12 +202,28 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Joby flexes military muscle with $500 million defense acquisition",
+          "link": "https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Joby Aviation announced it was acquiring Dayton, Ohio-based defense firm Resonant Sciences in a $500 million deal, in a bid by the electric aircraft company to expand further into the military industrial complex. Joby says it expects to…",
+          "published": "2026-08-11T12:00:00.000Z"
+        },
+        {
           "title": "The AI takeover of mathematics has begun",
           "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his…",
           "published": "2026-08-11T11:00:00.000Z"
+        },
+        {
+          "title": "Panic of 1873",
+          "link": "https://en.wikipedia.org/wiki/Panic_of_1873",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-11T10:26:49.000Z"
         },
         {
           "title": "Closing Canario Terminal source code",
@@ -224,14 +240,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-11T08:15:46.000Z"
-        },
-        {
-          "title": "The Water Footprint of AI",
-          "link": "https://doi.org/10.1016/j.watres.2026.125866",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-11T07:00:57.000Z"
         },
         {
           "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We’re just weeks away, but Costco is offering a fantastic $499.99 bundle for its members that includes a…",
           "published": "2026-08-10T19:14:27.000Z"
-        },
-        {
-          "title": "Rust SIMD on the GPU",
-          "link": "https://www.vectorware.com/blog/simd-on-gpu/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T18:12:49.000Z"
         }
       ]
     },
