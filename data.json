@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-11T06:49:03.847Z",
+  "updated": "2026-08-11T08:03:39.150Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Trump Media reports $238m loss as crypto falls",
+          "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
+          "published": "2026-08-11T06:55:32.000Z"
+        },
         {
           "title": "School uniform rules must go further, charity says",
           "link": "https://www.bbc.co.uk/news/articles/c2lqwn4q24xo?at_medium=RSS&at_campaign=rss",
@@ -19,14 +27,6 @@
           "category": "markets",
           "snippet": "Parents are struggling to feed children in the school holidays, with more families using food banks.",
           "published": "2026-08-11T05:14:54.000Z"
-        },
-        {
-          "title": "Trump Media reports $238m loss as crypto falls",
-          "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
-          "published": "2026-08-11T02:21:31.000Z"
         },
         {
           "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
@@ -202,14 +202,6 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
-          "link": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-11T05:30:24.000Z"
-        },
-        {
           "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
           "link": "https://github.com/activeing123/mcptoon",
           "source": "Hacker News",
@@ -250,20 +242,20 @@
           "published": "2026-08-11T00:24:15.000Z"
         },
         {
+          "title": "The UK's war on anonymity has come to America",
+          "link": "https://www.effort.news/uk-lobby",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T23:45:50.000Z"
+        },
+        {
           "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
           "link": "https://everycube.alen.is/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-10T23:16:25.000Z"
-        },
-        {
-          "title": "World Train Map – 1247 train routes around the world",
-          "link": "https://worldtrainmap.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-10T22:42:14.000Z"
         },
         {
           "title": "As AI eats the web, the internet’s collective memory is disappearing",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that…",
           "published": "2026-08-10T17:30:00.000Z"
+        },
+        {
+          "title": "YouTube is making it harder to earn money on YouTube",
+          "link": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 million qualified…",
+          "published": "2026-08-10T17:26:46.000Z"
         }
       ]
     },
