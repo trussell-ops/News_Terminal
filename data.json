@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T05:47:35.933Z",
+  "updated": "2026-08-11T06:49:03.847Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -37,7 +37,7 @@
           "published": "2026-08-10T23:32:10.000Z"
         },
         {
-          "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+          "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
           "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -202,36 +202,20 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
+          "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
+          "link": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-11T05:30:24.000Z"
+        },
+        {
+          "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
           "link": "https://github.com/activeing123/mcptoon",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-11T05:26:58.000Z"
-        },
-        {
-          "title": "Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App",
-          "link": "https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-11T04:18:37.000Z"
-        },
-        {
-          "title": "Updated GPG Key for Signing Firefox and Thunderbird Releases",
-          "link": "https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-11T04:04:36.000Z"
-        },
-        {
-          "title": "Why My Father Is Wrong: A Defense of Guitar Hero",
-          "link": "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-11T03:52:39.000Z"
         },
         {
           "title": "Hyperspace",
@@ -282,6 +266,14 @@
           "published": "2026-08-10T22:42:14.000Z"
         },
         {
+          "title": "As AI eats the web, the internet’s collective memory is disappearing",
+          "link": "https://thewalrus.ca/google-search-is-dying/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T22:36:30.000Z"
+        },
+        {
           "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
           "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
           "source": "Ars Technica",
@@ -312,6 +304,14 @@
           "category": "tech",
           "snippet": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
           "published": "2026-08-10T21:42:56.000Z"
+        },
+        {
+          "title": "How Claude marks AI-generated content",
+          "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T21:36:56.000Z"
         },
         {
           "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
@@ -378,20 +378,20 @@
           "published": "2026-08-10T18:12:49.000Z"
         },
         {
+          "title": "Learning more about Claude's mathematical capabilities",
+          "link": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-10T17:41:13.000Z"
+        },
+        {
           "title": "What to expect from Google’s 2026 Pixel hardware launch event",
           "link": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
           "source": "The Verge",
           "category": "tech",
           "snippet": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that…",
           "published": "2026-08-10T17:30:00.000Z"
-        },
-        {
-          "title": "YouTube is making it harder to earn money on YouTube",
-          "link": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 million qualified…",
-          "published": "2026-08-10T17:26:46.000Z"
         }
       ]
     },
