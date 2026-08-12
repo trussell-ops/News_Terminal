@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T17:25:17.867Z",
+  "updated": "2026-08-12T18:13:46.090Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,15 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
-          "published": "2026-08-12T17:18:29.000Z"
+          "published": "2026-08-12T17:48:56.000Z"
+        },
+        {
+          "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
+          "link": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
+          "published": "2026-08-12T17:34:28.000Z"
         },
         {
           "title": "Discord ordered to suspend livestreams in Brazil",
@@ -43,14 +51,6 @@
           "category": "markets",
           "snippet": "Home Depot's CEO, Ted Decker, is taking a temporary medical leave of absence that's expected to last a few months.",
           "published": "2026-08-12T16:48:53.000Z"
-        },
-        {
-          "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
-          "link": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
-          "published": "2026-08-12T15:25:09.000Z"
         },
         {
           "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
@@ -202,6 +202,22 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
+          "link": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base Pixel 11 starts at $899, the Pro and Pro XL are $1,099 and…",
+          "published": "2026-08-12T17:47:54.000Z"
+        },
+        {
+          "title": "Twitch streamers can now opt out from training Amazon’s AI",
+          "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future…",
+          "published": "2026-08-12T17:29:10.000Z"
+        },
+        {
           "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
           "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
           "source": "Hacker News",
@@ -258,20 +274,20 @@
           "published": "2026-08-12T16:38:25.000Z"
         },
         {
-          "title": "DeepSeek V4 Pro 0813 quietly released",
-          "link": "https://api-docs.deepseek.com/guides/responses_api/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T16:37:13.000Z"
-        },
-        {
           "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
           "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Trump admin claims New York suing Kalshi created \"market emergency.\"",
           "published": "2026-08-12T16:33:43.000Z"
+        },
+        {
+          "title": "Qwen3.8-2.4T",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T16:26:16.000Z"
         },
         {
           "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
@@ -282,7 +298,7 @@
           "published": "2026-08-12T16:22:27.000Z"
         },
         {
-          "title": "AI coding startup Lovable raised $400M at $13.3B valuation up from $6.6B in 2025",
+          "title": "We just raised $400M in Series C",
           "link": "https://lovable.dev/blog/series-c",
           "source": "Hacker News",
           "category": "tech",
@@ -296,6 +312,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-12T16:20:22.000Z"
+        },
+        {
+          "title": "Pixel Watch 5",
+          "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T16:14:37.000Z"
         },
         {
           "title": "DeepSeek V4 Pro 0813",
@@ -368,36 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-12T14:22:30.000Z"
-        },
-        {
-          "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
-          "link": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news; we were able to check out the devices ahead of the event and take a…",
-          "published": "2026-08-12T14:15:00.000Z"
-        },
-        {
-          "title": "Tim King, AmigaDOS developer, has died",
-          "link": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T14:09:11.000Z"
-        },
-        {
-          "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-          "link": "https://knownagents.com/insights",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T14:02:46.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Alabama s Primary Drew 5 Percent Turnout Thanks To Supreme Court Destroying Voting Rights Act",
+          "link": "https://abovethelaw.com/2026/08/alabamas-primary-drew-5-percent-turnout-thanks-to-supreme-court-destroying-voting-rights-act/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The do-over election hastily thrown together by Republicans proved as chaotic as expected. The post Alabama s Primary Drew 5 Percent Turnout Thanks To Supreme Court Destroying Voting Rights Act appeared first on Above the Law .",
+          "published": "2026-08-12T17:48:00.000Z"
+        },
         {
           "title": "Elite Litigation Boutique Is Already On Its Third Round Of Associate Bonuses",
           "link": "https://abovethelaw.com/2026/08/elite-litigation-boutique-is-already-on-its-third-round-of-associate-bonuses/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "It is a platform that combines lead generation, AI-powered intake and follow-up, and automated client reactivation, all in a single product aimed at flat-fee practices. The post Exclusive: Coming Out Of Stealth, Paravo Launches What It…",
           "published": "2026-08-11T14:47:52.000Z"
-        },
-        {
-          "title": "Bipartisan Lawmakers Are Fighting HHS’ 340B Rebate Push",
-          "link": "https://medcitynews.com/2026/08/340b-drugs-senate/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A bipartisan group of six senators introduced a bill to reform the 340B drug program, locking in hospitals' use of contract pharmacies and adding new transparency and compliance rules. The legislation would also kill HHS' contested rebate…",
-          "published": "2026-08-11T14:03:00.000Z"
         }
       ]
     }
