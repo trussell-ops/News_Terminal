@@ -1,16 +1,48 @@
 {
-  "updated": "2026-08-12T16:24:28.724Z",
+  "updated": "2026-08-12T17:25:17.867Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Trump sued over Truth Social's $100,000 early access service",
+          "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
+          "published": "2026-08-12T17:18:29.000Z"
+        },
+        {
+          "title": "Discord ordered to suspend livestreams in Brazil",
+          "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
+          "published": "2026-08-12T17:10:31.000Z"
+        },
+        {
+          "title": "US inflation eases as food and fuel costs cool",
+          "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+          "published": "2026-08-12T17:03:05.000Z"
+        },
         {
           "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
           "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
-          "published": "2026-08-12T16:02:40.000Z"
+          "published": "2026-08-12T16:59:49.000Z"
+        },
+        {
+          "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
+          "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Home Depot's CEO, Ted Decker, is taking a temporary medical leave of absence that's expected to last a few months.",
+          "published": "2026-08-12T16:48:53.000Z"
         },
         {
           "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
@@ -43,22 +75,6 @@
           "category": "markets",
           "snippet": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
           "published": "2026-08-12T14:17:26.000Z"
-        },
-        {
-          "title": "US inflation eases as food and fuel costs cool",
-          "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
-          "published": "2026-08-12T14:09:48.000Z"
-        },
-        {
-          "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
-          "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Home Depot's CEO Ted Decker is taking a temporary medical leave of absence that's expected to last a few months.",
-          "published": "2026-08-12T13:42:45.000Z"
         },
         {
           "title": "Bakery buys comedian's former sites after closure",
@@ -179,28 +195,116 @@
           "category": "markets",
           "snippet": "Baby products company Frida is launching a new category of personal care items for kids, tapping into a growing market and largely untapped space.",
           "published": "2026-08-11T16:23:29.000Z"
-        },
-        {
-          "title": "Watch: U's fans told house prices put players off",
-          "link": "https://www.bbc.co.uk/news/videos/cwymddx1el3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "At a fans' forum, the director of football reveals high property costs are a \"big challenge\".",
-          "published": "2026-08-11T16:19:34.000Z"
-        },
-        {
-          "title": "Councils to get more powers to stop vape and betting shops, PM announces",
-          "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Prime Minister Andy Burnham says town centres have been \"hollowed out\" by decades of decline.",
-          "published": "2026-08-11T15:32:27.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+          "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T17:00:21.000Z"
+        },
+        {
+          "title": "How Google’s new Pixel 11 phones compare to last year’s models",
+          "link": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgrades, including…",
+          "published": "2026-08-12T17:00:00.000Z"
+        },
+        {
+          "title": "ICE wants to give agents electrified gloves that shock people into compliance",
+          "link": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the…",
+          "published": "2026-08-12T16:58:29.000Z"
+        },
+        {
+          "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+          "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T16:54:25.000Z"
+        },
+        {
+          "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+          "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T16:51:25.000Z"
+        },
+        {
+          "title": "Amazon gets out of the MMO game",
+          "link": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Amazon is fully stepping back from MMOs. After saying last year that it would be halting \"a significant amount\" of its work on first-party AAA games, \"specifically around MMOs,\" Amazon will be handing over live operations of Throne and…",
+          "published": "2026-08-12T16:46:05.000Z"
+        },
+        {
+          "title": "Glaciers on the Climate Dashboard",
+          "link": "https://climate.metoffice.cloud/glaciers.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T16:38:25.000Z"
+        },
+        {
+          "title": "DeepSeek V4 Pro 0813 quietly released",
+          "link": "https://api-docs.deepseek.com/guides/responses_api/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T16:37:13.000Z"
+        },
+        {
+          "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
+          "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Trump admin claims New York suing Kalshi created \"market emergency.\"",
+          "published": "2026-08-12T16:33:43.000Z"
+        },
+        {
+          "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
+          "link": "https://www.githubstatus.com/incidents/76t89hbfb09h",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T16:22:27.000Z"
+        },
+        {
+          "title": "AI coding startup Lovable raised $400M at $13.3B valuation up from $6.6B in 2025",
+          "link": "https://lovable.dev/blog/series-c",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T16:20:34.000Z"
+        },
+        {
+          "title": "Bike Bureau: Report Bike Lane Obstructions",
+          "link": "https://loudbicycle.com/bb",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T16:20:22.000Z"
+        },
+        {
+          "title": "DeepSeek V4 Pro 0813",
+          "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T16:04:50.000Z"
+        },
         {
           "title": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
           "link": "https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison",
@@ -232,22 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-12T15:01:17.000Z"
-        },
-        {
-          "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
-          "link": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T14:55:27.000Z"
-        },
-        {
-          "title": "Google launches Pixel 11 Pro Fold",
-          "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T14:52:27.000Z"
         },
         {
           "title": "Hax – a minimalist, terminal-native coding agent written in C",
@@ -298,106 +386,26 @@
           "published": "2026-08-12T14:09:11.000Z"
         },
         {
-          "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
-          "link": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T14:06:03.000Z"
-        },
-        {
           "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
           "link": "https://knownagents.com/insights",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-12T14:02:46.000Z"
-        },
-        {
-          "title": "Why Tiny JPEGs Look Different in Chrome",
-          "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T14:00:54.000Z"
-        },
-        {
-          "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-          "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
-          "published": "2026-08-12T14:00:51.000Z"
-        },
-        {
-          "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
-          "link": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones are as beautiful as ever, with Google's signature camera bar…",
-          "published": "2026-08-12T14:00:00.000Z"
-        },
-        {
-          "title": "Google is making the Pixel cameras better by making them worse",
-          "link": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible. The skies are pristine and blue. Even at night, scenes are well lit and noise-free. If the physical…",
-          "published": "2026-08-12T14:00:00.000Z"
-        },
-        {
-          "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-          "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an…",
-          "published": "2026-08-12T14:00:00.000Z"
-        },
-        {
-          "title": "Android now has a tap-to-share feature",
-          "link": "https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Android's AirDrop-like Quick Share feature will now let some devices exchange files and contact information when tapped together. The update is coming to Pixel 6 series phones and newer starting today, according to Google's announcement,…",
-          "published": "2026-08-12T14:00:00.000Z"
-        },
-        {
-          "title": "The Pixel Tag is Google’s answer to the AirTag",
-          "link": "https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "More than two years after launching its own device-tracking network, Google has finally followed up with its own tracker. The Pixel Tag, which goes on sale in November, looks like one of the more capable trackers too: It combines ultra…",
-          "published": "2026-08-12T14:00:00.000Z"
-        },
-        {
-          "title": "My Agent Setup",
-          "link": "https://chad.cm/posts/2026-8-11-my-agent-setup",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T13:56:05.000Z"
-        },
-        {
-          "title": "Jaguar offers a first look inside the all-electric Type 01",
-          "link": "https://www.theverge.com/transportation/978793/jaguar-type-01-interior",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Jaguar's all-electric Type 01 comes with a very beige interior that divides the four seats with a \"spine\" that spans the length of the cabin. New photos shared by Jaguar show a low-slung driver's seat, alongside a slim dashboard with a…",
-          "published": "2026-08-12T13:48:48.000Z"
-        },
-        {
-          "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
-          "link": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T13:41:12.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Elite Litigation Boutique Is Already On Its Third Round Of Associate Bonuses",
+          "link": "https://abovethelaw.com/2026/08/elite-litigation-boutique-is-already-on-its-third-round-of-associate-bonuses/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Associates are already sitting on six-figure bonuses, and another payout is still ahead. The post Elite Litigation Boutique Is Already On Its Third Round Of Associate Bonuses appeared first on Above the Law .",
+          "published": "2026-08-12T17:03:00.000Z"
+        },
         {
           "title": "Florida s AG Wants To Charge WNBA Player With Crime Of Playing Basketball",
           "link": "https://abovethelaw.com/2026/08/floridas-ag-wants-to-charge-wnba-player-with-crime-of-playing-basketball/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "A bipartisan group of six senators introduced a bill to reform the 340B drug program, locking in hospitals' use of contract pharmacies and adding new transparency and compliance rules. The legislation would also kill HHS' contested rebate…",
           "published": "2026-08-11T14:03:00.000Z"
-        },
-        {
-          "title": "The court should hold oral argument outside of the capital",
-          "link": "https://www.scotusblog.com/2026/08/the-court-should-hold-oral-argument-outside-of-the-capital/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This is the third piece in a series on what I believe the court can, and should, do better. *** Over the years, the Supreme Court found its home in several places, following Congress from New York to Philadelphia, then to the Capitol…",
-          "published": "2026-08-11T14:00:00.000Z"
         }
       ]
     }
