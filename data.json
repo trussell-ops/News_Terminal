@@ -1,9 +1,41 @@
 {
-  "updated": "2026-08-12T12:44:32.663Z",
+  "updated": "2026-08-12T14:14:11.507Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "US inflation eases as food and fuel costs cool",
+          "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+          "published": "2026-08-12T14:09:48.000Z"
+        },
+        {
+          "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
+          "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Home Depot's CEO Ted Decker is taking a temporary medical leave of absence that's expected to last a few months.",
+          "published": "2026-08-12T13:42:45.000Z"
+        },
+        {
+          "title": "Burnham warned of Iran war impact on UK growth next year",
+          "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+          "published": "2026-08-12T13:33:58.000Z"
+        },
+        {
+          "title": "Bakery buys comedian's former sites after closure",
+          "link": "https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Bakery business Janes Pantry confirms its plans to reopen at least 20 of the Coughlans shops.",
+          "published": "2026-08-12T12:46:31.000Z"
+        },
         {
           "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
           "link": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
@@ -163,38 +195,6 @@
           "category": "markets",
           "snippet": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
           "published": "2026-08-11T12:09:26.000Z"
-        },
-        {
-          "title": "Mars Bar from 1991 found – and it's 56% bigger than today's",
-          "link": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The woman who found the chocolate bar during a house clearance compares it with today's Mars Bars.",
-          "published": "2026-08-11T09:08:46.000Z"
-        },
-        {
-          "title": "The Global Story",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8mhx?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Are we entering the Chinese Century, or is the Chinese Dream already fading for some?",
-          "published": "2026-08-11T09:00:00.000Z"
-        },
-        {
-          "title": "'I paid £400 for a Prada bag on Vinted - only to find it was fake'",
-          "link": "https://www.bbc.co.uk/news/articles/cp308wy8zk9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A woman who paid £400 for a Prada handbag on Vinted later discovered it was a fake.",
-          "published": "2026-08-11T08:48:58.000Z"
-        },
-        {
-          "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-          "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-          "published": "2026-08-11T08:44:52.000Z"
         }
       ]
     },
@@ -202,12 +202,20 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Honor’s Robot Phone is better than a gimbal in a phone has any right to be",
-          "link": "https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera",
-          "source": "The Verge",
+          "title": "My Agent Setup",
+          "link": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+          "source": "Hacker News",
           "category": "tech",
-          "snippet": "The Robot Phone, which launches today in China, doesn't sound like a good idea - and not only because it's not actually a robot. Instead it's a regular Android smartphone with its main camera installed on a compact gimbal arm that unfolds…",
-          "published": "2026-08-12T12:30:00.000Z"
+          "snippet": "Comments",
+          "published": "2026-08-12T13:56:05.000Z"
+        },
+        {
+          "title": "Did poop enable the evolution of complex animals?",
+          "link": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "In a recent study, evolution gets even messier than usual.",
+          "published": "2026-08-12T12:34:38.000Z"
         },
         {
           "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
@@ -242,12 +250,12 @@
           "published": "2026-08-12T11:53:01.000Z"
         },
         {
-          "title": "I hate packaging my software for Linux",
-          "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+          "title": "Show HN: KidScreen, a finite YouTube shelf chosen by parents",
+          "link": "https://kidscreen.app",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-12T11:33:48.000Z"
+          "published": "2026-08-12T11:44:40.000Z"
         },
         {
           "title": "Delphi 13 Community Edition Is Now Available",
@@ -384,20 +392,52 @@
           "category": "tech",
           "snippet": "This follows many drone incursions into Romania and a failed attack in Germany.",
           "published": "2026-08-11T21:20:11.000Z"
-        },
-        {
-          "title": "Chrome adopts what may be the best protection yet against account takeovers",
-          "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Device-bound session credentials thwart an increasingly common form of account takeover.",
-          "published": "2026-08-11T20:59:52.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Small Businesses Could Face Double-Digit Premium Hikes In 2027",
+          "link": "https://medcitynews.com/2026/08/small-businesses-could-face-double-digit-premium-hikes-in-2027/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Small group insurers are proposing a median 14% premium increase for 2027, driven by rising healthcare costs. The post Small Businesses Could Face Double-Digit Premium Hikes In 2027 appeared first on Above the Law .",
+          "published": "2026-08-12T14:04:00.000Z"
+        },
+        {
+          "title": "SCOTUS has issued its decisions. Now Congress has the floor.",
+          "link": "https://www.scotusblog.com/2026/08/scotus-has-issued-its-decisions-now-congress-has-the-floor/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. A healthy federal government depends on an ongoing conversation between the…",
+          "published": "2026-08-12T14:00:00.000Z"
+        },
+        {
+          "title": "Are Republicans falling out of love with the Supreme Court?",
+          "link": "https://www.scotusblog.com/2026/08/are-republicans-falling-out-of-love-with-the-supreme-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Public opinion polls fielded and released this summer showed a by-now-familiar partisan gap in views on the Supreme Court. Republicans are not only more likely than Democrats to approve of the way the court handles its job (74% vs. 22%,…",
+          "published": "2026-08-12T13:30:00.000Z"
+        },
+        {
+          "title": "The new birthright citizenship battle",
+          "link": "https://www.scotusblog.com/2026/08/the-new-birthright-citizenship-battle/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, the court has scheduled seven cases for the November argument session.",
+          "published": "2026-08-12T13:00:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 08.12.26",
+          "link": "https://abovethelaw.com/2026/08/morning-docket-08-12-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Elite firms warn that AI spending could impact profits, though most continue to believe they'll be fine. Ahem... then where are the associate raises? [ ABA Journal ] * ICE wants $20 million worth of electric shock gloves, in case you…",
+          "published": "2026-08-12T12:43:11.000Z"
+        },
         {
           "title": "Someone Is Keeping Up With Milbank See Also",
           "link": "https://abovethelaw.com/2026/08/someone-is-keeping-up-with-milbank-see-also/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "* Biglaw firms hit with data breaches. [ Law360 ] * Office of Legal Counsel takes position that executive privilege extends to unofficial, unconfirmed people the president talks to. [ Alternet ] * Court appearance coming up for Luigi. […",
           "published": "2026-08-11T12:48:46.000Z"
-        },
-        {
-          "title": "Biglaw Flirts With Private Equity, Because Ruining Everything Else Wasn t Enough See Also",
-          "link": "https://abovethelaw.com/2026/08/biglaw-flirts-with-private-equity-because-ruining-everything-else-wasnt-enough-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Biglaw Wants Private Equity's Money -- Ask Your Vet How That Turned Out: The same 'management services' trick that swallowed your dog's clinic is now knocking on Paul Weiss's door. That's Some Catch, That Catch-22 : The administration may…",
-          "published": "2026-08-10T22:56:00.000Z"
-        },
-        {
-          "title": "Nine Was Never Sacred",
-          "link": "https://abovethelaw.com/2026/08/nine-was-never-sacred/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Congress just stopped changing it. The post Nine Was Never Sacred appeared first on Above the Law .",
-          "published": "2026-08-10T22:16:00.000Z"
-        },
-        {
-          "title": "A Practical Framework For Optimizing Your Firm s Content For AI Answer Engines",
-          "link": "https://abovethelaw.com/2026/08/a-practical-framework-for-optimizing-your-firms-content-for-ai-answer-engines/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "If your bios, practice pages, and thought leadership aren't structured for AI to read, cite, and recommend, you're invisible at the moment of consideration. The post A Practical Framework For Optimizing Your Firm s Content For AI Answer…",
-          "published": "2026-08-10T21:33:00.000Z"
-        },
-        {
-          "title": "Samuel Alito Sees Vultures Circling His Supreme Court Seat But Has No Plans To Retire",
-          "link": "https://abovethelaw.com/2026/08/samuel-alito-sees-vultures-circling-his-supreme-court-seat-but-has-no-plans-to-retire/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "After 20 terms on the bench, he’s not ready to leave. The post Samuel Alito Sees Vultures Circling His Supreme Court Seat But Has No Plans To Retire appeared first on Above the Law .",
-          "published": "2026-08-10T20:44:00.000Z"
-        },
-        {
-          "title": "Trump Judge Rules SPLC Can t Prove Vindictive Prosecution Without Evidence, Which She Also Won t Let Them See",
-          "link": "https://abovethelaw.com/2026/08/trump-judge-rules-splc-cant-prove-vindictive-prosecution-without-evidence-which-she-also-wont-let-them-see/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Judge Emily Marks rejected the DOJ's most absurd argument, then built a standard that requires you to have been born yesterday. The post Trump Judge Rules SPLC Can t Prove Vindictive Prosecution Without Evidence, Which She Also Won t Let…",
-          "published": "2026-08-10T20:04:00.000Z"
         }
       ]
     }
