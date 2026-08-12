@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T21:35:13.967Z",
+  "updated": "2026-08-12T22:30:31.016Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,22 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+          "link": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T21:45:29.000Z"
+        },
+        {
+          "title": "Terabytes of credentials leaked in massive supply-chain attack",
+          "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+          "published": "2026-08-12T21:43:21.000Z"
+        },
+        {
           "title": "Made by Google 2026 live blog: Let’s watch Trevor Noah talk about the Pixel 11",
           "link": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
           "source": "The Verge",
@@ -218,12 +234,52 @@
           "published": "2026-08-12T21:21:09.000Z"
         },
         {
+          "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
+          "link": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
+          "published": "2026-08-12T21:13:39.000Z"
+        },
+        {
           "title": "Cats and dogs are missing meals after a popular smart feeder went down",
           "link": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
           "source": "The Verge",
           "category": "tech",
           "snippet": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, litter boxes, and…",
           "published": "2026-08-12T21:07:17.000Z"
+        },
+        {
+          "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+          "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+          "published": "2026-08-12T21:00:30.000Z"
+        },
+        {
+          "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+          "link": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "With Truth API, Trump is \"selling priority access to news he himself generates.\"",
+          "published": "2026-08-12T20:20:52.000Z"
+        },
+        {
+          "title": "Breaking the WAL",
+          "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T20:00:16.000Z"
+        },
+        {
+          "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
+          "link": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Hundreds of Homeland Security drones retasked to survey wildlife and livestock.",
+          "published": "2026-08-12T19:40:46.000Z"
         },
         {
           "title": "The next big indie game publisher is taking some exciting swings",
@@ -248,14 +304,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-12T18:19:59.000Z"
-        },
-        {
-          "title": "People who grew up with high economic connectedness earn more",
-          "link": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T18:17:03.000Z"
         },
         {
           "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
@@ -344,60 +392,20 @@
           "category": "tech",
           "snippet": "Trump admin claims New York suing Kalshi created \"market emergency.\"",
           "published": "2026-08-12T16:33:43.000Z"
-        },
-        {
-          "title": "Lovable raises $400M Series C",
-          "link": "https://lovable.dev/blog/series-c",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T16:20:34.000Z"
-        },
-        {
-          "title": "Pixel Watch 5",
-          "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T16:14:37.000Z"
-        },
-        {
-          "title": "DeepSeek V4 Pro 0813",
-          "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T16:04:50.000Z"
-        },
-        {
-          "title": "Grok 4.6",
-          "link": "https://x.ai/news/grok-4-6",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T15:32:50.000Z"
-        },
-        {
-          "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-          "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "AI firms quietly bulk buying rare books face resistance from booksellers.",
-          "published": "2026-08-12T15:19:17.000Z"
-        },
-        {
-          "title": "Qwen3.8-2.4T",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T15:01:17.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Ken Paxton Won t Discuss His Marriage With Thousands Of Strangers. He ll Just Regulate Yours.",
+          "link": "https://abovethelaw.com/2026/08/ken-paxton-wont-discuss-his-marriage-with-thousands-of-strangers-hell-just-regulate-yours/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Turnabout, as they say, is fair play. The post Ken Paxton Won t Discuss His Marriage With Thousands Of Strangers. He ll Just Regulate Yours. appeared first on Above the Law .",
+          "published": "2026-08-12T22:15:00.000Z"
+        },
         {
           "title": "Legal Education In America Is Getting A Fresh Look, Without The ABA Accreditor At The Table",
           "link": "https://abovethelaw.com/2026/08/legal-education-in-america-is-getting-a-fresh-look-without-the-aba-accreditor-at-the-table/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "AI visibility is typically seen as a content problem. But that only helps with a third of the hurdles law firms face in how legal service buyers are using AI search. The post Law Firms Don’t Have One AI Visibility Problem. They Have…",
           "published": "2026-08-11T18:32:00.000Z"
-        },
-        {
-          "title": "Court announces cases it will hear in November, including religious discrimination dispute",
-          "link": "https://www.scotusblog.com/2026/08/court-announces-cases-it-will-hear-in-november-including-religious-discrimination-dispute/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court will hear oral arguments in November in disputes over (among other issues) a Catholic preschool’s challenge to its exclusion from a Colorado preschool program and an inmate’s ability to sue a federal prison official for…",
-          "published": "2026-08-11T18:07:22.000Z"
         }
       ]
     }
