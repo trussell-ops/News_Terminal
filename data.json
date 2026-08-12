@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T18:13:46.090Z",
+  "updated": "2026-08-12T19:33:34.614Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "The next big indie game publisher is taking some exciting swings",
+          "link": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 2028. Perhaps the…",
+          "published": "2026-08-12T19:30:00.000Z"
+        },
+        {
+          "title": "It looks like Apple s iPhone 18 really will skip the fall launch this year",
+          "link": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18 won't arrive…",
+          "published": "2026-08-12T19:27:47.000Z"
+        },
+        {
+          "title": "Zed: Delta",
+          "link": "https://zed.dev/blog/introducing-delta",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T18:19:59.000Z"
+        },
+        {
+          "title": "Your Key to Success Isn't More Luck or Hard Work",
+          "link": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T18:17:03.000Z"
+        },
+        {
           "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
           "link": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
           "source": "The Verge",
@@ -216,6 +248,14 @@
           "category": "tech",
           "snippet": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future…",
           "published": "2026-08-12T17:29:10.000Z"
+        },
+        {
+          "title": "Two hydrogen-burning engines powered this car to a new land speed record",
+          "link": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "JCB has invested heavily in hydrogen to power its diggers and other machinery.",
+          "published": "2026-08-12T17:01:11.000Z"
         },
         {
           "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
@@ -282,22 +322,6 @@
           "published": "2026-08-12T16:33:43.000Z"
         },
         {
-          "title": "Qwen3.8-2.4T",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T16:26:16.000Z"
-        },
-        {
-          "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
-          "link": "https://www.githubstatus.com/incidents/76t89hbfb09h",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T16:22:27.000Z"
-        },
-        {
           "title": "We just raised $400M in Series C",
           "link": "https://lovable.dev/blog/series-c",
           "source": "Hacker News",
@@ -312,14 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-12T16:20:22.000Z"
-        },
-        {
-          "title": "Pixel Watch 5",
-          "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T16:14:37.000Z"
         },
         {
           "title": "DeepSeek V4 Pro 0813",
@@ -346,6 +362,14 @@
           "published": "2026-08-12T15:52:07.000Z"
         },
         {
+          "title": "Grok 4.6",
+          "link": "https://x.ai/news/grok-4-6",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T15:32:50.000Z"
+        },
+        {
           "title": "Booksellers suspect AI firms are buying and then destroying rare books",
           "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
           "source": "Ars Technica",
@@ -354,7 +378,7 @@
           "published": "2026-08-12T15:19:17.000Z"
         },
         {
-          "title": "Qwen&#x2F;Qwen3.8-2.4T-A95B",
+          "title": "Qwen3.8-2.4T",
           "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
           "source": "Hacker News",
           "category": "tech",
@@ -368,36 +392,36 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-12T14:43:45.000Z"
-        },
-        {
-          "title": "License plate reader searches should require a warrant",
-          "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T14:43:39.000Z"
-        },
-        {
-          "title": "Google aims for influencers with the Pixel 11 Creator Suite",
-          "link": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel…",
-          "published": "2026-08-12T14:30:00.000Z"
-        },
-        {
-          "title": "Tailscale Traces Database Corruption to 16y&#x2F;o SQLite WAL-Reset Bug",
-          "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T14:22:30.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "How Much Misconduct Is Jeanine Pirro Willing To Do To Save Her Job?",
+          "link": "https://abovethelaw.com/2026/08/how-much-misconduct-is-jeanine-pirro-willing-to-do-to-save-her-job/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Looks like we're about to find out. The post How Much Misconduct Is Jeanine Pirro Willing To Do To Save Her Job? appeared first on Above the Law .",
+          "published": "2026-08-12T19:21:25.000Z"
+        },
+        {
+          "title": "Trump administration urges Supreme Court to issue a decision in mail-in voting dispute",
+          "link": "https://www.scotusblog.com/2026/08/trump-administration-urges-supreme-court-to-issue-a-decision-in-mail-in-voting-dispute/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Trump administration on Wednesday reiterated its request for the Supreme Court to move quickly to block a ruling by a federal judge in Massachusetts that prohibits the government from implementing part of an executive order on mail-in…",
+          "published": "2026-08-12T18:49:00.000Z"
+        },
+        {
+          "title": "Biglaw Surrenders Were Worse Than We Thought",
+          "link": "https://abovethelaw.com/2026/08/biglaw-surrenders-were-worse-than-we-thought/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Remember when Trump lost the birthright citizenship case? Because he doesn't. The post Biglaw Surrenders Were Worse Than We Thought appeared first on Above the Law .",
+          "published": "2026-08-12T18:33:19.000Z"
+        },
         {
           "title": "Alabama s Primary Drew 5 Percent Turnout Thanks To Supreme Court Destroying Voting Rights Act",
           "link": "https://abovethelaw.com/2026/08/alabamas-primary-drew-5-percent-turnout-thanks-to-supreme-court-destroying-voting-rights-act/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "Bloomberg Law hasn't been the loudest player in legal AI, in part because the company is focused on the parts investors aren't as interested in. The post The AI User Experience Is More Important Than Ever appeared first on Above the Law .",
           "published": "2026-08-11T17:01:00.000Z"
-        },
-        {
-          "title": "Peter Navarro Wants A Prosecutor Fired For The Unforgivable Sin Of Prosecuting Him",
-          "link": "https://abovethelaw.com/2026/08/peter-navarro-wants-a-prosecutor-fired-for-the-unforgivable-sin-of-prosecuting-him/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "'Never mention her friggin' name to me.' Jeanine Pirro is taking some hits. The post Peter Navarro Wants A Prosecutor Fired For The Unforgivable Sin Of Prosecuting Him appeared first on Above the Law .",
-          "published": "2026-08-11T16:12:00.000Z"
-        },
-        {
-          "title": "3 Takeaways From The Lex Machina 2026 Patent Report",
-          "link": "https://abovethelaw.com/2026/08/3-takeaways-from-the-lex-machina-2026-patent-report/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Modern patent litigation remains a vibrant and challenging pursuit for both plaintiffs and defendants. The post 3 Takeaways From The Lex Machina 2026 Patent Report appeared first on Above the Law .",
-          "published": "2026-08-11T15:38:48.000Z"
-        },
-        {
-          "title": "Exclusive: Coming Out Of Stealth, Paravo Launches What It Calls The First AI ‘Revenue Engine’ For Law Firms",
-          "link": "https://www.lawnext.com/2026/08/exclusive-coming-out-of-stealth-paravo-launches-what-it-calls-the-first-ai-revenue-engine-for-law-firms.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "It is a platform that combines lead generation, AI-powered intake and follow-up, and automated client reactivation, all in a single product aimed at flat-fee practices. The post Exclusive: Coming Out Of Stealth, Paravo Launches What It…",
-          "published": "2026-08-11T14:47:52.000Z"
         }
       ]
     }
