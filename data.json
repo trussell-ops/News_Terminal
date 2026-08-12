@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-12T15:26:55.429Z",
+  "updated": "2026-08-12T16:24:28.724Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+          "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
+          "published": "2026-08-12T16:02:40.000Z"
+        },
         {
           "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
           "link": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
@@ -11,14 +19,6 @@
           "category": "markets",
           "snippet": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
           "published": "2026-08-12T15:25:09.000Z"
-        },
-        {
-          "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
-          "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
-          "published": "2026-08-12T15:08:58.000Z"
         },
         {
           "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
@@ -202,6 +202,30 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
+          "link": "https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google wasn't first to make a foldable Android phone, but the company's Pixel Fold series is now an established player with unique traits compared to its competitors. For one, it popularized the passport-style design years ago, being more…",
+          "published": "2026-08-12T16:00:00.000Z"
+        },
+        {
+          "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence…",
+          "published": "2026-08-12T15:52:07.000Z"
+        },
+        {
+          "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+          "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "AI firms quietly bulk buying rare books face resistance from booksellers.",
+          "published": "2026-08-12T15:19:17.000Z"
+        },
+        {
           "title": "Qwen&#x2F;Qwen3.8-2.4T-A95B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
           "source": "Hacker News",
@@ -218,6 +242,14 @@
           "published": "2026-08-12T14:55:27.000Z"
         },
         {
+          "title": "Google launches Pixel 11 Pro Fold",
+          "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T14:52:27.000Z"
+        },
+        {
           "title": "Hax – a minimalist, terminal-native coding agent written in C",
           "link": "https://usehax.dev/",
           "source": "Hacker News",
@@ -226,7 +258,7 @@
           "published": "2026-08-12T14:43:45.000Z"
         },
         {
-          "title": "License Plate Reader Searches Should Require a Warrant",
+          "title": "License plate reader searches should require a warrant",
           "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
           "source": "Hacker News",
           "category": "tech",
@@ -254,11 +286,11 @@
           "link": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news: We were able to check out the devices ahead of the event and take a…",
+          "snippet": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news; we were able to check out the devices ahead of the event and take a…",
           "published": "2026-08-12T14:15:00.000Z"
         },
         {
-          "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
+          "title": "Tim King, AmigaDOS developer, has died",
           "link": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
           "source": "Hacker News",
           "category": "tech",
@@ -354,50 +386,34 @@
           "published": "2026-08-12T13:48:48.000Z"
         },
         {
-          "title": "Only 2.6% of the most visited websites have fully valid HTML",
-          "link": "https://validatehtml.com/html-error-statistics",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T13:44:01.000Z"
-        },
-        {
           "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
           "link": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-12T13:41:12.000Z"
-        },
-        {
-          "title": "Researchers found a way to hijack devices through Zoom screen sharing",
-          "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "A public AI tool found the dangerous Zoom flaw in under 20 prompts.",
-          "published": "2026-08-12T13:37:12.000Z"
-        },
-        {
-          "title": "Formula E finds a new home on Disney+, ESPN+",
-          "link": "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The deal starts with the arrival of the GEN4 car and 2026/2027 season this December.",
-          "published": "2026-08-12T13:35:30.000Z"
-        },
-        {
-          "title": "Brendan Carr is one firing away from an unchecked FCC",
-          "link": "https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "President Donald Trump already holds a Republican majority in the agency tasked with regulating America's communications systems. But with a new nomination to the Federal Communications Commission, he could move to shut out opposing…",
-          "published": "2026-08-12T13:31:19.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Florida s AG Wants To Charge WNBA Player With Crime Of Playing Basketball",
+          "link": "https://abovethelaw.com/2026/08/floridas-ag-wants-to-charge-wnba-player-with-crime-of-playing-basketball/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "James Uthmeier saw a white-grievance layup and took the shot. The post Florida s AG Wants To Charge WNBA Player With Crime Of Playing Basketball appeared first on Above the Law .",
+          "published": "2026-08-12T16:22:48.000Z"
+        },
+        {
+          "title": "If You Really Want To Work For The Department Of Justice, Then Do It Regardless Of Who The President Is",
+          "link": "https://abovethelaw.com/2026/08/if-you-really-want-to-work-for-the-department-of-justice-then-do-it-regardless-of-who-the-president-is/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "In this prestige-obsessed profession, this opportunity may not come again for a long time. The post If You Really Want To Work For The Department Of Justice, Then Do It Regardless Of Who The President Is appeared first on Above the Law .",
+          "published": "2026-08-12T15:37:03.000Z"
+        },
         {
           "title": "Lobbing Multimillion-Dollar Munitions At Targets Worth Less Than The Missiles Themselves Remains A Bad War Strategy",
           "link": "https://abovethelaw.com/2026/08/lobbing-multimillion-dollar-munitions-at-targets-worth-less-than-the-missiles-themselves-remains-a-bad-war-strategy/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "This is the third piece in a series on what I believe the court can, and should, do better. *** Over the years, the Supreme Court found its home in several places, following Congress from New York to Philadelphia, then to the Capitol…",
           "published": "2026-08-11T14:00:00.000Z"
-        },
-        {
-          "title": "Weakening the protection against sex discrimination?",
-          "link": "https://www.scotusblog.com/2026/08/weakening-the-protection-against-sex-discrimination/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Few were surprised by the court’s ruling in West Virginia v. B.P.J. upholding a West Virginia law prohibiting transgender girls and women from participating in sports corresponding to their gender identity. How the court justified its…",
-          "published": "2026-08-11T13:30:00.000Z"
-        },
-        {
-          "title": "A reflection on John Roberts",
-          "link": "https://www.scotusblog.com/2026/08/a-reflection-on-john-roberts/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, what happened to Homer Plessy after Plessy v. Ferguson?",
-          "published": "2026-08-11T13:00:00.000Z"
         }
       ]
     }
