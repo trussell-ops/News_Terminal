@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-13T17:25:28.711Z",
+  "updated": "2026-08-13T18:14:34.534Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "The ‘20% rule’ behind Giorgos Tsetis’ blueprint for a new kind of family office",
+          "link": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Family offices are built to be patient with their money. Giorgos Tsetis is not.",
+          "published": "2026-08-13T18:02:01.000Z"
+        },
         {
           "title": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
           "link": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
@@ -43,14 +51,6 @@
           "category": "markets",
           "snippet": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
           "published": "2026-08-13T13:02:24.000Z"
-        },
-        {
-          "title": "The ‘20% rule’ behind Giorgos Tsetis’ blueprint for a new kind of family office",
-          "link": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Family offices are built to be patient with their money. Giorgos Tsetis is not.",
-          "published": "2026-08-13T12:20:46.000Z"
         },
         {
           "title": "Young people want better job prospects and housing",
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "You can now just point at a mess and this robot vacuum will suck it up",
+          "link": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or…",
+          "published": "2026-08-13T18:00:00.000Z"
+        },
+        {
+          "title": "Where did the old web go? We followed 657,607 links to find out",
+          "link": "https://0.mk/blog/link-rot",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T17:49:18.000Z"
+        },
+        {
+          "title": "Choose Boring Technology (2015)",
+          "link": "https://mcfunley.com/choose-boring-technology",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T17:48:13.000Z"
+        },
+        {
+          "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+          "link": "https://donkeybas.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T17:45:50.000Z"
+        },
+        {
           "title": "Gemini 3.7 Flash",
-          "link": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-13T17:23:22.000Z"
+        },
+        {
+          "title": "Tocharian Online",
+          "link": "https://lrc.la.utexas.edu/eieol/tokol/0",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T17:15:46.000Z"
         },
         {
           "title": "Mistral OCR 4.1",
@@ -226,14 +266,6 @@
           "published": "2026-08-13T16:38:15.000Z"
         },
         {
-          "title": "Mozilla says stricter antitrust measures against Google 'threaten Firefox'",
-          "link": "https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T16:24:19.000Z"
-        },
-        {
           "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
           "link": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
           "source": "The Verge",
@@ -242,7 +274,15 @@
           "published": "2026-08-13T16:23:18.000Z"
         },
         {
-          "title": "We Have AI at Home Chapter 1: A Box of Scraps",
+          "title": "GoAccess – Open-source real-time log analyzer and interactive viewer",
+          "link": "https://goaccess.io/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T16:22:16.000Z"
+        },
+        {
+          "title": "AI At Home Part 1: A Box Of Scraps",
           "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
           "source": "Hacker News",
           "category": "tech",
@@ -352,52 +392,20 @@
           "category": "tech",
           "snippet": "Pricing hasn't changed, and now you can get captain's chairs for the R1S.",
           "published": "2026-08-13T14:00:57.000Z"
-        },
-        {
-          "title": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
-          "link": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Rivian R1S owners, rejoice. Rivian has heard your pleas for second-row captain's chairs. For years, Rivian owners have lamented the absence of captain's chairs in the R1S, noting that the three-row SUV would be much improved with…",
-          "published": "2026-08-13T14:00:00.000Z"
-        },
-        {
-          "title": "Anthropic could be worth $2 trillion when it goes public",
-          "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
-          "published": "2026-08-13T13:58:56.000Z"
-        },
-        {
-          "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-          "link": "https://github.com/fellowgeek/mcp-memory",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T13:57:47.000Z"
-        },
-        {
-          "title": "Time to Move On: Querying Without Nulls and Bags",
-          "link": "https://arxiv.org/abs/2608.10863",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T13:54:56.000Z"
-        },
-        {
-          "title": "Gloomberb",
-          "link": "https://gloom.sh/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T13:52:32.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Who Is Justice Barrett?",
+          "link": "https://abovethelaw.com/2026/08/who-is-justice-barrett/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "She has been labeled conservative, a swing justice, and sometimes unpredictable. This article puts all of these hypotheses to the test and provides a data based assessment of where she really stands. The post Who Is Justice Barrett?…",
+          "published": "2026-08-13T17:47:00.000Z"
+        },
         {
           "title": "Relativity Announces claiR, A Conversational AI For Lawyers, But You’ll Have To Wait Awhile To Chat With It",
           "link": "https://www.lawnext.com/2026/08/relativity-announces-clair-a-conversational-ai-for-lawyers-but-youll-have-to-wait-awhile-to-chat-with-it.html",
@@ -479,11 +487,11 @@
           "published": "2026-08-12T23:33:00.000Z"
         },
         {
-          "title": "Two Brother Left The Same Biglaw Firm And Took Over U.S. Foreign Policy",
+          "title": "Two Brothers Left The Same Biglaw Firm And Took Over U.S. Foreign Policy",
           "link": "https://abovethelaw.com/2026/08/two-brother-left-the-same-biglaw-firm-and-took-over-u-s-foreign-policy/",
           "source": "Above the Law",
           "category": "legal",
-          "snippet": "Before they ran American foreign policy, they billed hours together. The post Two Brother Left The Same Biglaw Firm And Took Over U.S. Foreign Policy appeared first on Above the Law .",
+          "snippet": "Before they ran American foreign policy, they billed hours together. The post Two Brothers Left The Same Biglaw Firm And Took Over U.S. Foreign Policy appeared first on Above the Law .",
           "published": "2026-08-12T22:45:00.000Z"
         },
         {
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Small group insurers are proposing a median 14% premium increase for 2027, driven by rising healthcare costs. The post Small Businesses Could Face Double-Digit Premium Hikes In 2027 appeared first on Above the Law .",
           "published": "2026-08-12T14:04:00.000Z"
-        },
-        {
-          "title": "SCOTUS has issued its decisions. Now Congress has the floor.",
-          "link": "https://www.scotusblog.com/2026/08/scotus-has-issued-its-decisions-now-congress-has-the-floor/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. A healthy federal government depends on an ongoing conversation between the…",
-          "published": "2026-08-12T14:00:00.000Z"
         }
       ]
     }
