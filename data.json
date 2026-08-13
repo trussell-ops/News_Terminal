@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T18:14:34.534Z",
+  "updated": "2026-08-13T19:31:58.352Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,62 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Show HN: Pixy, visual editor for coding agents, like Figma on your live site",
+          "link": "https://pixydesignapp.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T19:15:10.000Z"
+        },
+        {
+          "title": "The Trump admin will start letting private firms launch international cyberattacks",
+          "link": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control and oversight\" of…",
+          "published": "2026-08-13T18:56:13.000Z"
+        },
+        {
+          "title": "Understanding Is the New Bottleneck",
+          "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T18:47:19.000Z"
+        },
+        {
+          "title": "Single log line is 49KB+ (ext4) &#x2F; 110KB+ (btrfs) of systemd-journald disk writes",
+          "link": "https://github.com/systemd/systemd/issues/40262",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T18:41:01.000Z"
+        },
+        {
+          "title": "What Is Kimi K3? A Complete Developer Guide for 2026",
+          "link": "https://www.firecrawl.dev/blog/kimi-k3",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T18:39:52.000Z"
+        },
+        {
+          "title": "I finally found a robot lawnmower I’d trust with my yard",
+          "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your…",
+          "published": "2026-08-13T18:30:00.000Z"
+        },
+        {
+          "title": "Accelerating GPT-5.6 Sol Ultrafast",
+          "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T18:10:02.000Z"
+        },
+        {
           "title": "You can now just point at a mess and this robot vacuum will suck it up",
           "link": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
           "source": "The Verge",
@@ -240,6 +296,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-13T17:23:22.000Z"
+        },
+        {
+          "title": "JDK 27 G1&#x2F;Parallel&#x2F;Serial GC Changes",
+          "link": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T17:22:39.000Z"
         },
         {
           "title": "Tocharian Online",
@@ -328,76 +392,28 @@
           "category": "tech",
           "snippet": "Instagram has unveiled a new wordmark, moving away from the recognizable cursive typeface it's used over the last decade. The updated wordmark is a strange mix of half-cursive half-print that's somehow less legible than its predecessor.…",
           "published": "2026-08-13T15:00:38.000Z"
-        },
-        {
-          "title": "Wolverine on the PS5 made me care about Marvel’s mutant for the first time",
-          "link": "https://www.theverge.com/games/977564/marvels-wolverine-ps5-preview-character-combat",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Going into my demo of Marvel's Wolverine, I mainly wanted to try out the game's very bloody combat. And it is delightfully bloody. But after two-ish hours of slashing and stabbing (and parrying!) enemies with Wolverine's claws, I left…",
-          "published": "2026-08-13T15:00:00.000Z"
-        },
-        {
-          "title": "I requested a copy of my data from McDonald’s loyalty program",
-          "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T14:37:51.000Z"
-        },
-        {
-          "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
-          "link": "https://oxide.computer/blog/kubernetes-on-oxide",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T14:26:41.000Z"
-        },
-        {
-          "title": "Graduate student proves a quantum uncertainty principle for fractals",
-          "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T14:22:54.000Z"
-        },
-        {
-          "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
-          "link": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T14:18:34.000Z"
-        },
-        {
-          "title": "Spaghettifying DRAM",
-          "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T14:17:13.000Z"
-        },
-        {
-          "title": "Does Google even want to win at AI?",
-          "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a…",
-          "published": "2026-08-13T14:10:31.000Z"
-        },
-        {
-          "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
-          "link": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Pricing hasn't changed, and now you can get captain's chairs for the R1S.",
-          "published": "2026-08-13T14:00:57.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Todd Blanche Would Like The DOJ To Know He Will Lead With Integrity",
+          "link": "https://abovethelaw.com/2026/08/todd-blanche-would-like-the-doj-to-know-he-will-lead-with-integrity/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Sure, Todd. The post Todd Blanche Would Like The DOJ To Know He Will Lead With Integrity appeared first on Above the Law .",
+          "published": "2026-08-13T19:13:00.000Z"
+        },
+        {
+          "title": "There s A Secret Yale Law Group Chat About The Vances Because Of Course There Is",
+          "link": "https://abovethelaw.com/2026/08/theres-a-secret-yale-law-group-chat-about-the-vances-because-of-course-there-is/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The chat is just the alumni network with better gossip. The post There s A Secret Yale Law Group Chat About The Vances Because Of Course There Is appeared first on Above the Law .",
+          "published": "2026-08-13T18:32:00.000Z"
+        },
         {
           "title": "Who Is Justice Barrett?",
           "link": "https://abovethelaw.com/2026/08/who-is-justice-barrett/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "In this prestige-obsessed profession, this opportunity may not come again for a long time. The post If You Really Want To Work For The Department Of Justice, Then Do It Regardless Of Who The President Is appeared first on Above the Law .",
           "published": "2026-08-12T15:37:03.000Z"
-        },
-        {
-          "title": "Lobbing Multimillion-Dollar Munitions At Targets Worth Less Than The Missiles Themselves Remains A Bad War Strategy",
-          "link": "https://abovethelaw.com/2026/08/lobbing-multimillion-dollar-munitions-at-targets-worth-less-than-the-missiles-themselves-remains-a-bad-war-strategy/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "It is not possible to bomb an entire country into submission from the air using conventional weapons. The post Lobbing Multimillion-Dollar Munitions At Targets Worth Less Than The Missiles Themselves Remains A Bad War Strategy appeared…",
-          "published": "2026-08-12T14:49:29.000Z"
-        },
-        {
-          "title": "Small Businesses Could Face Double-Digit Premium Hikes In 2027",
-          "link": "https://medcitynews.com/2026/08/small-businesses-could-face-double-digit-premium-hikes-in-2027/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Small group insurers are proposing a median 14% premium increase for 2027, driven by rising healthcare costs. The post Small Businesses Could Face Double-Digit Premium Hikes In 2027 appeared first on Above the Law .",
-          "published": "2026-08-12T14:04:00.000Z"
         }
       ]
     }
