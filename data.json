@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T16:23:43.548Z",
+  "updated": "2026-08-13T17:25:28.711Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,54 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Gemini 3.7 Flash",
+          "link": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T17:23:22.000Z"
+        },
+        {
+          "title": "Mistral OCR 4.1",
+          "link": "https://docs.mistral.ai/models/ocr-4-1",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T17:05:12.000Z"
+        },
+        {
+          "title": "2K launches new studio to build its next blockbuster sports franchise",
+          "link": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new…",
+          "published": "2026-08-13T16:38:15.000Z"
+        },
+        {
+          "title": "Mozilla says stricter antitrust measures against Google 'threaten Firefox'",
+          "link": "https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T16:24:19.000Z"
+        },
+        {
+          "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
+          "link": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be…",
+          "published": "2026-08-13T16:23:18.000Z"
+        },
+        {
+          "title": "We Have AI at Home Chapter 1: A Box of Scraps",
+          "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T16:22:05.000Z"
+        },
+        {
           "title": "Meta adds AI screening to detect WhatsApp scams",
           "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
           "source": "The Verge",
@@ -234,14 +282,6 @@
           "published": "2026-08-13T15:30:00.000Z"
         },
         {
-          "title": "Text AI watermarks will always be trivial to remove",
-          "link": "https://www.seangoedecke.com/text-ai-watermarks/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T15:07:10.000Z"
-        },
-        {
           "title": "This is Instagram s new logo",
           "link": "https://www.theverge.com/tech/979583/this-is-instagrams-new-logo",
           "source": "The Verge",
@@ -266,14 +306,6 @@
           "published": "2026-08-13T14:37:51.000Z"
         },
         {
-          "title": "Flock updates privacy, accountability, security, and transparency safeguards",
-          "link": "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T14:37:29.000Z"
-        },
-        {
           "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
           "link": "https://oxide.computer/blog/kubernetes-on-oxide",
           "source": "Hacker News",
@@ -282,7 +314,7 @@
           "published": "2026-08-13T14:26:41.000Z"
         },
         {
-          "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+          "title": "Graduate student proves a quantum uncertainty principle for fractals",
           "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
           "source": "Hacker News",
           "category": "tech",
@@ -306,28 +338,12 @@
           "published": "2026-08-13T14:17:13.000Z"
         },
         {
-          "title": "Heart aerospace completes first flight of largest electric aircraft",
-          "link": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T14:11:51.000Z"
-        },
-        {
           "title": "Does Google even want to win at AI?",
           "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a…",
           "published": "2026-08-13T14:10:31.000Z"
-        },
-        {
-          "title": "Build a Stratum 1 PTP Grandmaster on a Budget",
-          "link": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T14:08:44.000Z"
         },
         {
           "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
@@ -343,22 +359,6 @@
           "source": "The Verge",
           "category": "tech",
           "snippet": "Rivian R1S owners, rejoice. Rivian has heard your pleas for second-row captain's chairs. For years, Rivian owners have lamented the absence of captain's chairs in the R1S, noting that the three-row SUV would be much improved with…",
-          "published": "2026-08-13T14:00:00.000Z"
-        },
-        {
-          "title": "Wearables are getting a taste of much-needed minimalism",
-          "link": "https://www.theverge.com/column/978295/optimizer-screenless-wearables-fitness-trackers-smart-rings",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. During my summer…",
-          "published": "2026-08-13T14:00:00.000Z"
-        },
-        {
-          "title": "Samsung s $1,900 Z Fold 8 is still vulnerable to pocket lint",
-          "link": "https://www.theverge.com/tech/979421/ifixit-samsung-galaxy-z-fold-8-hinge",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "iFixit has provisionally given Samsung's Galaxy Z Fold 8 a repairability score of 4 out of 10, which largely hinged on… well, the hinge. In its teardown of the device, iFixit found that because it carries an IP48 ingress rating - meaning…",
           "published": "2026-08-13T14:00:00.000Z"
         },
         {
@@ -398,6 +398,14 @@
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Relativity Announces claiR, A Conversational AI For Lawyers, But You’ll Have To Wait Awhile To Chat With It",
+          "link": "https://www.lawnext.com/2026/08/relativity-announces-clair-a-conversational-ai-for-lawyers-but-youll-have-to-wait-awhile-to-chat-with-it.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Relativity CEO Phil Saunders calls it a fundamentally new way for lawyers to get straight to the answers in their most consequential legal data. The post Relativity Announces claiR, A Conversational AI For Lawyers, But You’ll Have To Wait…",
+          "published": "2026-08-13T17:03:26.000Z"
+        },
         {
           "title": "The Best Law Schools For Technology Law (2026)",
           "link": "https://abovethelaw.com/2026/08/the-best-law-schools-for-technology-law-2026/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. A healthy federal government depends on an ongoing conversation between the…",
           "published": "2026-08-12T14:00:00.000Z"
-        },
-        {
-          "title": "Are Republicans falling out of love with the Supreme Court?",
-          "link": "https://www.scotusblog.com/2026/08/are-republicans-falling-out-of-love-with-the-supreme-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Public opinion polls fielded and released this summer showed a by-now-familiar partisan gap in views on the Supreme Court. Republicans are not only more likely than Democrats to approve of the way the court handles its job (74% vs. 22%,…",
-          "published": "2026-08-12T13:30:00.000Z"
         }
       ]
     }
