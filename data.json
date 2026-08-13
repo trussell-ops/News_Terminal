@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-13T05:27:28.565Z",
+  "updated": "2026-08-13T06:55:30.692Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Sun and World Cup helped some UK businesses as economy grew in April to June",
+          "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.",
+          "published": "2026-08-13T06:45:33.000Z"
+        },
+        {
+          "title": "Twitch users can block Amazon from using content for AI",
+          "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Fans of the streaming platform criticised Twitch for letting Amazon use their content for AI training.",
+          "published": "2026-08-13T06:44:53.000Z"
+        },
         {
           "title": "Charity awarded £100k for back to school support",
           "link": "https://www.bbc.co.uk/news/articles/cgjep51d0xjo?at_medium=RSS&at_campaign=rss",
@@ -11,14 +27,6 @@
           "category": "markets",
           "snippet": "From September, uniforms will be limited to three items requiring a school logo.",
           "published": "2026-08-13T05:02:12.000Z"
-        },
-        {
-          "title": "Twitch users can now block Amazon from using their content to train AI",
-          "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
-          "published": "2026-08-13T02:46:04.000Z"
         },
         {
           "title": "Why Japanese firms are being so slow to use AI",
@@ -187,20 +195,28 @@
           "category": "markets",
           "snippet": "JPMorgan is making a nine-figure bet as the Olympics Games' first-ever global banking partner.",
           "published": "2026-08-11T18:50:37.000Z"
-        },
-        {
-          "title": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
-          "link": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The CEO of the nation's largest single-family rental landlord said the new law banning large-scale investors from the market will lower prices in the long term.",
-          "published": "2026-08-11T16:54:38.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+          "link": "https://openai.com/codex/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T04:53:41.000Z"
+        },
+        {
+          "title": "Celld: Self-hosted, distributed Durable Objects",
+          "link": "https://celld.dev/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-13T04:37:31.000Z"
+        },
         {
           "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
           "link": "https://www.ballet.dev/",
@@ -216,6 +232,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-12T23:50:33.000Z"
+        },
+        {
+          "title": "Flutter 3.47",
+          "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T23:46:00.000Z"
         },
         {
           "title": "Build Wide, Ship Narrow",
@@ -248,14 +272,6 @@
           "category": "tech",
           "snippet": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
           "published": "2026-08-12T22:02:25.000Z"
-        },
-        {
-          "title": "Process as a Proxy for Motivation",
-          "link": "https://bengodfrey.dev/blog/process/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T22:01:43.000Z"
         },
         {
           "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future…",
           "published": "2026-08-12T17:29:10.000Z"
-        },
-        {
-          "title": "Two hydrogen-burning engines powered this car to a new land speed record",
-          "link": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "JCB has invested heavily in hydrogen to power its diggers and other machinery.",
-          "published": "2026-08-12T17:01:11.000Z"
-        },
-        {
-          "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-          "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T17:00:21.000Z"
         }
       ]
     },
