@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T23:30:55.147Z",
+  "updated": "2026-08-13T01:07:18.160Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Show HN: A marketplace where AI agents buy services from AI agents",
-          "link": "https://aaas-marketplace-1089237826218.asia-northeast1.run.app",
+          "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+          "link": "https://www.ballet.dev/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-12T23:07:32.000Z"
+          "published": "2026-08-13T00:01:43.000Z"
+        },
+        {
+          "title": "Happy 45th Birthday to the IBM PC and Model F&#x2F;XT",
+          "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T23:50:33.000Z"
+        },
+        {
+          "title": "What's New in Flutter 3.47",
+          "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T23:46:00.000Z"
+        },
+        {
+          "title": "Build Wide, Ship Narrow",
+          "link": "https://adapt.com/blog/build-wide-ship-narrow",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T23:43:48.000Z"
+        },
+        {
+          "title": "Principia Mathematica is modern and insightful",
+          "link": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T23:26:21.000Z"
         },
         {
           "title": "I built a browser-native SysEx librarian for 80s&#x2F;90s synthesizers",
@@ -216,6 +248,30 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-12T22:47:20.000Z"
+        },
+        {
+          "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+          "link": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Boy's unusual symptoms could help identify the next case sooner.",
+          "published": "2026-08-12T22:31:19.000Z"
+        },
+        {
+          "title": "The web’s newest weapon against AI scrapers is a font",
+          "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+          "published": "2026-08-12T22:02:25.000Z"
+        },
+        {
+          "title": "Process as a Proxy for Motivation",
+          "link": "https://bengodfrey.dev/blog/process/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-12T22:01:43.000Z"
         },
         {
           "title": "Terabytes of credentials leaked in massive supply-chain attack",
@@ -306,14 +362,6 @@
           "published": "2026-08-12T19:27:47.000Z"
         },
         {
-          "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
-          "link": "https://timer.jotaen.net",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T18:27:52.000Z"
-        },
-        {
           "title": "Delta",
           "link": "https://zed.dev/blog/introducing-delta",
           "source": "Hacker News",
@@ -344,60 +392,20 @@
           "category": "tech",
           "snippet": "JCB has invested heavily in hydrogen to power its diggers and other machinery.",
           "published": "2026-08-12T17:01:11.000Z"
-        },
-        {
-          "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-          "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T17:00:21.000Z"
-        },
-        {
-          "title": "How Google’s new Pixel 11 phones compare to last year’s models",
-          "link": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgrades, including…",
-          "published": "2026-08-12T17:00:00.000Z"
-        },
-        {
-          "title": "ICE wants to give agents electrified gloves that shock people into compliance",
-          "link": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the…",
-          "published": "2026-08-12T16:58:29.000Z"
-        },
-        {
-          "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-          "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T16:54:25.000Z"
-        },
-        {
-          "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-          "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-12T16:51:25.000Z"
-        },
-        {
-          "title": "Amazon gets out of the MMO game",
-          "link": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Amazon is fully stepping back from MMOs. After saying last year that it would be halting \"a significant amount\" of its work on first-party AAA games, \"specifically around MMOs,\" Amazon will be handing over live operations of Throne and…",
-          "published": "2026-08-12T16:46:05.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Boutique Money Is Where It s At See Also",
+          "link": "https://abovethelaw.com/2026/08/boutique-money-is-where-its-out-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Up To $170K In Bonus Bucks! This firm has already handed out three bonuses, while Biglaw associates are waiting to see if they'll maybe get one. Purcell Unprincipled : Alabama held its first primary since the Supreme Court jettisoned the…",
+          "published": "2026-08-12T23:33:00.000Z"
+        },
         {
           "title": "Two Brother Left The Same Biglaw Firm And Took Over U.S. Foreign Policy",
           "link": "https://abovethelaw.com/2026/08/two-brother-left-the-same-biglaw-firm-and-took-over-u-s-foreign-policy/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Company wrote that it fired employee for discussing pay and then tried to claim ChatGPT was responsible for admitting violation. The post Judge Rejects ChatGPT Wrote My Confession Defense appeared first on Above the Law .",
           "published": "2026-08-11T20:04:00.000Z"
-        },
-        {
-          "title": "Your Cyber Insurance May Not Be Ready For Autonomous AI",
-          "link": "https://abovethelaw.com/2026/08/your-cyber-insurance-may-not-be-ready-for-autonomous-ai/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The concern isn't simply that AI creates new cyber threats. It's that organizations may unknowingly introduce risks that fall outside the assumptions underlying their insurance policies. The post Your Cyber Insurance May Not Be Ready For…",
-          "published": "2026-08-11T19:18:00.000Z"
         }
       ]
     }
