@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-14T11:36:41.533Z",
+  "updated": "2026-08-14T12:41:22.656Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Selena Gomez sued for alleged fraud over mental health company",
+          "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
+          "published": "2026-08-14T11:32:05.000Z"
+        },
         {
           "title": "US says dozens of countries helped China dodge Trump's tariffs",
           "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
@@ -187,20 +195,36 @@
           "category": "markets",
           "snippet": "Home Depot's CEO, Ted Decker, is taking a temporary medical leave of absence that's expected to last a few months.",
           "published": "2026-08-12T16:48:53.000Z"
-        },
-        {
-          "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
-          "link": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The new feature, starting from mid-September, will tell listeners if an artist is AI-generated.",
-          "published": "2026-08-12T15:07:21.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "CMF hit the balance between cheap and good clip earbuds",
+          "link": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambient awareness is…",
+          "published": "2026-08-14T12:00:00.000Z"
+        },
+        {
+          "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+          "link": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"We’ve never seen launch capacity so constrained.\"",
+          "published": "2026-08-14T11:00:49.000Z"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+          "link": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Samsung didn't have to change much this year because its hardware is just that good.",
+          "published": "2026-08-14T11:00:05.000Z"
+        },
         {
           "title": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
           "link": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
@@ -218,28 +242,12 @@
           "published": "2026-08-14T11:00:00.000Z"
         },
         {
-          "title": "For the love of god stop using CPU limits in Kubernetes",
-          "link": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T10:41:21.000Z"
-        },
-        {
           "title": "Why does Opus 5 feel worse to work with?",
           "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-14T10:12:48.000Z"
-        },
-        {
-          "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
-          "link": "https://www.bbc.com/news/articles/cr7kpdkg13zo",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T10:10:15.000Z"
         },
         {
           "title": "DeepSeek peak&#x2F;off-peak pricing update",
@@ -360,14 +368,6 @@
           "category": "tech",
           "snippet": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react…",
           "published": "2026-08-13T21:42:38.000Z"
-        },
-        {
-          "title": "Netflix is closing two game studios",
-          "link": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of…",
-          "published": "2026-08-13T20:52:58.000Z"
         },
         {
           "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
