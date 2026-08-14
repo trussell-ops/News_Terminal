@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T14:09:07.859Z",
+  "updated": "2026-08-14T15:12:37.224Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,15 +10,23 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
-          "published": "2026-08-14T14:00:01.000Z"
+          "published": "2026-08-14T15:02:26.000Z"
         },
         {
           "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
           "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Government issues a temporary ban on the sale of disposable barbeques as they pose a \"significant risk to the public\".",
-          "published": "2026-08-14T13:42:11.000Z"
+          "snippet": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+          "published": "2026-08-14T14:30:46.000Z"
+        },
+        {
+          "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+          "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+          "published": "2026-08-14T14:08:21.000Z"
         },
         {
           "title": "Selena Gomez sued for alleged fraud over mental health company",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
           "published": "2026-08-12T17:10:31.000Z"
-        },
-        {
-          "title": "US inflation eases as food and fuel costs cool",
-          "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
-          "published": "2026-08-12T17:03:05.000Z"
         }
       ]
     },
@@ -202,12 +202,84 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "France's tax authority had data stolen on 680k taxpayers",
-          "link": "https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html",
+          "title": "Qwen3.8-27B",
+          "link": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-14T13:18:53.000Z"
+          "published": "2026-08-14T15:03:54.000Z"
+        },
+        {
+          "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T15:00:00.000Z"
+        },
+        {
+          "title": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
+          "link": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "For RPG fans who dig Persona-style turn-based action and who are pursuing games with original stories and fantastic tunes, look no further than Clair Obscur: Expedition 33. This praise might come off sounding weird, but I really like that…",
+          "published": "2026-08-14T14:50:25.000Z"
+        },
+        {
+          "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T14:34:49.000Z"
+        },
+        {
+          "title": "Every Fucking Website",
+          "link": "https://lxe.github.io/everywebsite/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T14:31:08.000Z"
+        },
+        {
+          "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+          "published": "2026-08-14T14:27:14.000Z"
+        },
+        {
+          "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+          "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T14:22:39.000Z"
+        },
+        {
+          "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+          "link": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T14:21:18.000Z"
+        },
+        {
+          "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+          "link": "https://apimart.ai/register?aff=yScTCM",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T14:14:13.000Z"
+        },
+        {
+          "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+          "link": "https://e360.yale.edu/digest/australia-home-batteries",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T14:07:52.000Z"
         },
         {
           "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
@@ -218,12 +290,12 @@
           "published": "2026-08-14T12:57:02.000Z"
         },
         {
-          "title": "Dear people who work at the airport",
-          "link": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+          "title": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
+          "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-14T12:23:22.000Z"
+          "published": "2026-08-14T12:45:37.000Z"
         },
         {
           "title": "The TEMU-Fication of Software, Digital Goods and Services",
@@ -266,7 +338,7 @@
           "published": "2026-08-14T11:00:05.000Z"
         },
         {
-          "title": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+          "title": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
           "link": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
           "source": "The Verge",
           "category": "tech",
@@ -320,84 +392,20 @@
           "category": "tech",
           "snippet": "Czinger used topological design and additive manufacturing to make the brakes.",
           "published": "2026-08-14T07:01:15.000Z"
-        },
-        {
-          "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-          "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T06:09:04.000Z"
-        },
-        {
-          "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-          "link": "https://z.ai/blog/glm-5.3",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T05:19:59.000Z"
-        },
-        {
-          "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-          "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and…",
-          "published": "2026-08-14T01:06:15.000Z"
-        },
-        {
-          "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
-          "link": "https://github.com/JustVugg/lumabri",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T00:47:04.000Z"
-        },
-        {
-          "title": "Bluesky Protocol Services",
-          "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T00:14:28.000Z"
-        },
-        {
-          "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
-          "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic…",
-          "published": "2026-08-13T23:13:24.000Z"
-        },
-        {
-          "title": "US wait times for cancer surgeries are getting longer and longer",
-          "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Study finds wait times for cancer surgeries hit 10-year high.",
-          "published": "2026-08-13T22:17:29.000Z"
-        },
-        {
-          "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
-          "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install…",
-          "published": "2026-08-13T21:53:04.000Z"
-        },
-        {
-          "title": "The fight over Flock and other ALPRs",
-          "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model,…",
-          "published": "2026-08-13T21:46:21.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Fake Free Speech President Has Unleashed ICE On Its Critics",
+          "link": "https://abovethelaw.com/2026/08/the-fake-free-speech-president-has-unleashed-ice-on-its-critics/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "From the what-free-speech? dept The post The Fake Free Speech President Has Unleashed ICE On Its Critics appeared first on Above the Law .",
+          "published": "2026-08-14T14:43:00.000Z"
+        },
         {
           "title": "How Appealing Weekly Roundup",
           "link": "https://abovethelaw.com/2026/08/how-appealing-weekly-roundup-181/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Up To $170K In Bonus Bucks! This firm has already handed out three bonuses, while Biglaw associates are waiting to see if they'll maybe get one. Purcell Unprincipled : Alabama held its first primary since the Supreme Court jettisoned the…",
           "published": "2026-08-12T23:33:00.000Z"
-        },
-        {
-          "title": "Two Brothers Left The Same Biglaw Firm And Took Over U.S. Foreign Policy",
-          "link": "https://abovethelaw.com/2026/08/two-brother-left-the-same-biglaw-firm-and-took-over-u-s-foreign-policy/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Before they ran American foreign policy, they billed hours together. The post Two Brothers Left The Same Biglaw Firm And Took Over U.S. Foreign Policy appeared first on Above the Law .",
-          "published": "2026-08-12T22:45:00.000Z"
         }
       ]
     }
