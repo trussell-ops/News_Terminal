@@ -1,16 +1,24 @@
 {
-  "updated": "2026-08-14T15:12:37.224Z",
+  "updated": "2026-08-14T16:11:45.955Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Housing investors say this is their worst market in at least 3 years",
-          "link": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+          "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+          "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+          "published": "2026-08-14T15:58:21.000Z"
+        },
+        {
+          "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
+          "link": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
           "source": "CNBC Business",
           "category": "markets",
-          "snippet": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
-          "published": "2026-08-14T15:02:26.000Z"
+          "snippet": "New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology.",
+          "published": "2026-08-14T15:38:46.000Z"
         },
         {
           "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
@@ -18,15 +26,15 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
-          "published": "2026-08-14T14:30:46.000Z"
+          "published": "2026-08-14T15:36:45.000Z"
         },
         {
-          "title": "Electric vehicle sales targets could be cut after pressure from car makers",
-          "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
+          "title": "Housing investors say this is their worst market in at least 3 years",
+          "link": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+          "source": "CNBC Business",
           "category": "markets",
-          "snippet": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
-          "published": "2026-08-14T14:08:21.000Z"
+          "snippet": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
+          "published": "2026-08-14T15:02:26.000Z"
         },
         {
           "title": "Selena Gomez sued for alleged fraud over mental health company",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
           "published": "2026-08-12T17:48:56.000Z"
-        },
-        {
-          "title": "Discord ordered to suspend livestreams in Brazil",
-          "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-          "published": "2026-08-12T17:10:31.000Z"
         }
       ]
     },
@@ -202,12 +202,84 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Show HN: Online SNMP MIB database - upload&#x2F;view your own MIBs",
+          "link": "https://mib-viewer.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T15:49:33.000Z"
+        },
+        {
+          "title": "\"Solving a largely imaginary user goal\"",
+          "link": "https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T15:48:59.000Z"
+        },
+        {
+          "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+          "link": "https://github.com/NanoNets/Graft",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T15:22:02.000Z"
+        },
+        {
+          "title": "AV1 vs. AV2: Which Video Codec Should You Use in 2026?",
+          "link": "https://www.red5.net/blog/av1-vs-av2/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T15:21:07.000Z"
+        },
+        {
+          "title": "Private prisons announce $1.4B in revenue as immigration detentions climb",
+          "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T15:16:00.000Z"
+        },
+        {
+          "title": "Introducing Toast 1",
+          "link": "https://www.mixedbread.com/blog/toast-1",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T15:07:57.000Z"
+        },
+        {
+          "title": "Unsloth Qwen3.8-27B GGUF files",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T15:04:17.000Z"
+        },
+        {
           "title": "Qwen3.8-27B",
           "link": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-14T15:03:54.000Z"
+        },
+        {
+          "title": "Seven books I keep close because I love them",
+          "link": "https://blog.plover.com/2026/08/02/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T15:03:26.000Z"
+        },
+        {
+          "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+          "link": "https://kukuroo.cc/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T15:03:12.000Z"
         },
         {
           "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
@@ -226,6 +298,14 @@
           "published": "2026-08-14T14:50:25.000Z"
         },
         {
+          "title": "Earth.nullschool.net",
+          "link": "https://earth.nullschool.net/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T14:42:23.000Z"
+        },
+        {
           "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
           "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
           "source": "Hacker News",
@@ -234,7 +314,7 @@
           "published": "2026-08-14T14:34:49.000Z"
         },
         {
-          "title": "Every Fucking Website",
+          "title": "Every Fucking Website (2020)",
           "link": "https://lxe.github.io/everywebsite/",
           "source": "Hacker News",
           "category": "tech",
@@ -264,14 +344,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-14T14:21:18.000Z"
-        },
-        {
-          "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
-          "link": "https://apimart.ai/register?aff=yScTCM",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T14:14:13.000Z"
         },
         {
           "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
@@ -320,84 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-14T11:41:34.000Z"
-        },
-        {
-          "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
-          "link": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"We’ve never seen launch capacity so constrained.\"",
-          "published": "2026-08-14T11:00:49.000Z"
-        },
-        {
-          "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
-          "link": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Samsung didn't have to change much this year because its hardware is just that good.",
-          "published": "2026-08-14T11:00:05.000Z"
-        },
-        {
-          "title": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
-          "link": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is…",
-          "published": "2026-08-14T11:00:00.000Z"
-        },
-        {
-          "title": "Hoto’s new cordless soldering iron heats up in three seconds",
-          "link": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Hoto is introducing its first soldering iron through its modular Snapbloq collection that lets you assemble your own custom toolbox by stacking magnetic cases and tools together. The new I-A06 Cordless Soldering Iron can heat to just over…",
-          "published": "2026-08-14T11:00:00.000Z"
-        },
-        {
-          "title": "Why does Opus 5 feel worse to work with?",
-          "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T10:12:48.000Z"
-        },
-        {
-          "title": "DeepSeek peak&#x2F;off-peak pricing update",
-          "link": "https://api-docs.deepseek.com/news/news260813/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T09:55:33.000Z"
-        },
-        {
-          "title": "Apple trained its own AI model for China with help from Alibaba",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language…",
-          "published": "2026-08-14T09:21:17.000Z"
-        },
-        {
-          "title": "Help build a monument to that ‘sad little bitch’ Elon Musk",
-          "link": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Cards Against Humanity is gearing up to build \"something that will annoy Elon Musk,\" and it's crowdfunding the project with its usual flavor of vulgarity. The company behind the card game announced plans to build \"a grand monument\" to…",
-          "published": "2026-08-14T08:40:13.000Z"
-        },
-        {
-          "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
-          "link": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Czinger used topological design and additive manufacturing to make the brakes.",
-          "published": "2026-08-14T07:01:15.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Hakeem Jeffries Is Reading The Room, Wants Dramatic Supreme Court Reform",
+          "link": "https://abovethelaw.com/2026/08/hakeem-jeffries-is-reading-the-room-wants-dramatic-supreme-court-reform/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "He called the conservative majority on the Court 'basically a subsidiary of the MAGA Republican Party.' The post Hakeem Jeffries Is Reading The Room, Wants Dramatic Supreme Court Reform appeared first on Above the Law .",
+          "published": "2026-08-14T15:32:00.000Z"
+        },
         {
           "title": "The Fake Free Speech President Has Unleashed ICE On Its Critics",
           "link": "https://abovethelaw.com/2026/08/the-fake-free-speech-president-has-unleashed-ice-on-its-critics/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "* Jayden Daniels sends cease-and-desist claiming LSU violated his NIL rights by giving his number from three years ago to another player. [ ESPN ] * Journalist Katie Phang's latest filing blasts DOJ's effort to delay Epstein file release.…",
           "published": "2026-08-13T12:56:00.000Z"
-        },
-        {
-          "title": "Boutique Money Is Where It s At See Also",
-          "link": "https://abovethelaw.com/2026/08/boutique-money-is-where-its-out-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Up To $170K In Bonus Bucks! This firm has already handed out three bonuses, while Biglaw associates are waiting to see if they'll maybe get one. Purcell Unprincipled : Alabama held its first primary since the Supreme Court jettisoned the…",
-          "published": "2026-08-12T23:33:00.000Z"
         }
       ]
     }
