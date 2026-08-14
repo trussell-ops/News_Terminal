@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-14T17:23:50.824Z",
+  "updated": "2026-08-14T18:12:41.900Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Why is Selena Gomez being sued?",
-          "link": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
+          "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+          "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+          "source": "CNBC Business",
           "category": "markets",
-          "snippet": "BBC journalist Ana Guerra-Moore looks at why investors who backed Wondermind Global are claiming the pop star failed to fulfil promises.",
-          "published": "2026-08-14T16:59:53.000Z"
+          "snippet": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
+          "published": "2026-08-14T18:00:01.000Z"
         },
         {
           "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
@@ -18,7 +18,15 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
-          "published": "2026-08-14T16:49:23.000Z"
+          "published": "2026-08-14T17:42:00.000Z"
+        },
+        {
+          "title": "Why is Selena Gomez being sued?",
+          "link": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "BBC journalist Ana Guerra-Moore looks at why investors who backed Wondermind Global are claiming the pop star failed to fulfil promises.",
+          "published": "2026-08-14T16:59:53.000Z"
         },
         {
           "title": "Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner",
@@ -187,20 +195,36 @@
           "category": "markets",
           "snippet": "From September, uniforms will be limited to three items requiring a school logo.",
           "published": "2026-08-13T05:02:12.000Z"
-        },
-        {
-          "title": "Why Japanese firms are being so slow to use AI",
-          "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
-          "published": "2026-08-12T23:00:47.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
+          "link": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with…",
+          "published": "2026-08-14T18:00:00.000Z"
+        },
+        {
+          "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+          "link": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen with a grisly story…",
+          "published": "2026-08-14T18:00:00.000Z"
+        },
+        {
+          "title": "Google s best new camera feature is only for the Pixel 11 series",
+          "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like…",
+          "published": "2026-08-14T17:34:14.000Z"
+        },
         {
           "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
           "link": "https://arxiv.org/abs/2608.12700",
@@ -248,14 +272,6 @@
           "category": "tech",
           "snippet": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When…",
           "published": "2026-08-14T16:39:32.000Z"
-        },
-        {
-          "title": "The Qdrant Output Connector",
-          "link": "https://opencrawling.org/blog/introducing-qdrant-output-connector.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T16:35:18.000Z"
         },
         {
           "title": "Maximizing the value of your Claude Code sessions",
@@ -306,14 +322,6 @@
           "published": "2026-08-14T15:58:59.000Z"
         },
         {
-          "title": "\"Solving a largely imaginary user goal\"",
-          "link": "https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T15:48:59.000Z"
-        },
-        {
           "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
           "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
           "source": "Ars Technica",
@@ -328,14 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-14T15:43:10.000Z"
-        },
-        {
-          "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
-          "link": "https://github.com/NanoNets/Graft",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T15:22:02.000Z"
         },
         {
           "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
@@ -398,6 +398,14 @@
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Don t Put Secret AI Instructions In Court Filings! But Also… Why Are We Worried About This?",
+          "link": "https://abovethelaw.com/2026/08/dont-put-secret-ai-instructions-in-court-filings-but-also-why-are-we-worried-about-this/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "This is bad... but the fact that we're worried about it signals something way worse. The post Don t Put Secret AI Instructions In Court Filings! But Also… Why Are We Worried About This? appeared first on Above the Law .",
+          "published": "2026-08-14T17:43:00.000Z"
+        },
         {
           "title": "Associate Compensation Scorecard: Biglaw Raises Continue To Trickle In At An Agonizing Pace",
           "link": "https://abovethelaw.com/2026/06/associate-compensation-scorecard-the-2026-summer-of-salary-increases/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "When news of the scandal first broke on July 8, the company co-founders claimed that they had just been made aware of the situation. The post Phia Co-Founders Knew The App Was Wrongfully Claiming Sales Credits appeared first on Above the…",
           "published": "2026-08-13T14:02:00.000Z"
-        },
-        {
-          "title": "Once upon a time: storytelling in Learning Resources v. Trump",
-          "link": "https://www.scotusblog.com/2026/08/once-upon-a-time-storytelling-in-learning-resources-v-trump/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Every fall, with each new class of 1Ls, we legal writing teachers undertake a strange job. We spend an entire year trying to get students to not write like lawyers, a notoriously dreadful category of writers. In pursuit of that goal, we…",
-          "published": "2026-08-13T14:00:00.000Z"
         }
       ]
     }
