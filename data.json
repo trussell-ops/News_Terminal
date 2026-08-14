@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T19:25:24.075Z",
+  "updated": "2026-08-14T20:01:41.679Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,20 +202,60 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+          "link": "https://arxiv.org/abs/2608.11158",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T19:41:42.000Z"
+        },
+        {
+          "title": "Z.ai Security Disclosure",
+          "link": "https://cvd.z.ai",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T19:22:00.000Z"
+        },
+        {
+          "title": "Samsung has new Galaxy headphones in the works",
+          "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and…",
+          "published": "2026-08-14T19:18:45.000Z"
+        },
+        {
+          "title": "How Claude's text watermarking works",
+          "link": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T19:15:51.000Z"
+        },
+        {
+          "title": "High-Performance Array-Backed LRU Hash Table",
+          "link": "https://github.com/adanil-code/LRUHashTable",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T19:11:19.000Z"
+        },
+        {
+          "title": "Open WireGuard Endpoints",
+          "link": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T19:05:46.000Z"
+        },
+        {
           "title": "Show HN: Mole – Deep research agent for your terminal",
           "link": "https://github.com/lajosdeme/mole",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-14T18:52:48.000Z"
-        },
-        {
-          "title": "Show HN: Embed a real Linux terminal on your website",
-          "link": "https://sandbox.bio/training/embed",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T18:51:27.000Z"
         },
         {
           "title": "A RAMageddon guide to back-to-school laptop shopping",
@@ -352,46 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-14T16:12:52.000Z"
-        },
-        {
-          "title": "Ars Live recap: How can we stop publishers from killing their own games?",
-          "link": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The Stop Killing Games movement faces an uphill battle.",
-          "published": "2026-08-14T16:11:37.000Z"
-        },
-        {
-          "title": "France's top court blocks social media ban for under-15s",
-          "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T16:06:49.000Z"
-        },
-        {
-          "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
-          "link": "https://rayforcedb.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T16:02:20.000Z"
-        },
-        {
-          "title": "AI by Hand",
-          "link": "https://www.byhand.ai/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T15:58:59.000Z"
-        },
-        {
-          "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
-          "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Third-party app stores are about to become more visible in Google Play.",
-          "published": "2026-08-14T15:46:40.000Z"
         }
       ]
     },
