@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-14T18:12:41.900Z",
+  "updated": "2026-08-14T19:25:24.075Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+          "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+          "published": "2026-08-14T19:17:16.000Z"
+        },
         {
           "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
           "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
@@ -11,14 +19,6 @@
           "category": "markets",
           "snippet": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
           "published": "2026-08-14T18:00:01.000Z"
-        },
-        {
-          "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
-          "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
-          "published": "2026-08-14T17:42:00.000Z"
         },
         {
           "title": "Why is Selena Gomez being sued?",
@@ -202,6 +202,46 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Show HN: Mole – Deep research agent for your terminal",
+          "link": "https://github.com/lajosdeme/mole",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T18:52:48.000Z"
+        },
+        {
+          "title": "Show HN: Embed a real Linux terminal on your website",
+          "link": "https://sandbox.bio/training/embed",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T18:51:27.000Z"
+        },
+        {
+          "title": "A RAMageddon guide to back-to-school laptop shopping",
+          "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be…",
+          "published": "2026-08-14T18:32:47.000Z"
+        },
+        {
+          "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+          "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Screen-sharing bug lets remote hackers log in without a password.",
+          "published": "2026-08-14T18:32:14.000Z"
+        },
+        {
+          "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+          "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+          "published": "2026-08-14T18:00:23.000Z"
+        },
+        {
           "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
           "link": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
           "source": "The Verge",
@@ -226,6 +266,30 @@
           "published": "2026-08-14T17:34:14.000Z"
         },
         {
+          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+          "published": "2026-08-14T17:26:53.000Z"
+        },
+        {
+          "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+          "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
+          "published": "2026-08-14T17:13:14.000Z"
+        },
+        {
+          "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+          "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+          "published": "2026-08-14T17:03:54.000Z"
+        },
+        {
           "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
           "link": "https://arxiv.org/abs/2608.12700",
           "source": "Hacker News",
@@ -240,14 +304,6 @@
           "category": "tech",
           "snippet": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram…",
           "published": "2026-08-14T16:54:16.000Z"
-        },
-        {
-          "title": "Discrete Fourier Transform by Hand",
-          "link": "https://www.byhand.ai/p/28-discrete-fourier-transform",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T16:52:46.000Z"
         },
         {
           "title": "Count Binface receives over a quarter of votes in Clacton by-election",
@@ -272,6 +328,14 @@
           "category": "tech",
           "snippet": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When…",
           "published": "2026-08-14T16:39:32.000Z"
+        },
+        {
+          "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+          "link": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "It turns out that the economics of rocket reuse are pretty, pretty good.",
+          "published": "2026-08-14T16:29:21.000Z"
         },
         {
           "title": "Maximizing the value of your Claude Code sessions",
@@ -328,76 +392,28 @@
           "category": "tech",
           "snippet": "Third-party app stores are about to become more visible in Google Play.",
           "published": "2026-08-14T15:46:40.000Z"
-        },
-        {
-          "title": "Google is making private AI practical with homomorphic encryption",
-          "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T15:43:10.000Z"
-        },
-        {
-          "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
-          "link": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
-          "published": "2026-08-14T15:18:22.000Z"
-        },
-        {
-          "title": "Introducing Toast 1",
-          "link": "https://www.mixedbread.com/blog/toast-1",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T15:07:57.000Z"
-        },
-        {
-          "title": "Seven books I keep close because I love them",
-          "link": "https://blog.plover.com/2026/08/02/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T15:03:26.000Z"
-        },
-        {
-          "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
-          "link": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Senator Warren questions whether Taylor Farms' influence swayed Trump admin.",
-          "published": "2026-08-14T15:03:16.000Z"
-        },
-        {
-          "title": "Self-hosted web push Cloudflare Worker, works on iOS",
-          "link": "https://kukuroo.cc/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T15:03:12.000Z"
-        },
-        {
-          "title": "Qwen 3.8 27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T15:00:00.000Z"
-        },
-        {
-          "title": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
-          "link": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "For RPG fans who dig Persona-style turn-based action and who are pursuing games with original stories and fantastic tunes, look no further than Clair Obscur: Expedition 33. This praise might come off sounding weird, but I really like that…",
-          "published": "2026-08-14T14:50:25.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Biglaw s NDA Problem Is Heading To Prestige TV",
+          "link": "https://abovethelaw.com/2026/08/biglaws-nda-problem-is-heading-to-prestige-tv/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "'Discretion' comes from a novelist who spent a decade in corporate practice negotiating hundreds of NDAs a year. The post Biglaw s NDA Problem Is Heading To Prestige TV appeared first on Above the Law .",
+          "published": "2026-08-14T19:12:50.000Z"
+        },
+        {
+          "title": "Luigi Mangione Pleads Guilty To Stalking, Admits To Murder Anyway, Argues This Makes Trial Double Jeopardy",
+          "link": "https://abovethelaw.com/2026/08/luigi-mangione-pleads-guilty-to-stalking-admits-to-murder-anyway-argues-this-makes-trial-double-jeopardy/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "DOJ and Mangione team conspire to give Luigi elusive 'Double Jeopardy Mushroom' power up. The post Luigi Mangione Pleads Guilty To Stalking, Admits To Murder Anyway, Argues This Makes Trial Double Jeopardy appeared first on Above the Law .",
+          "published": "2026-08-14T18:32:00.000Z"
+        },
         {
           "title": "Don t Put Secret AI Instructions In Court Filings! But Also… Why Are We Worried About This?",
           "link": "https://abovethelaw.com/2026/08/dont-put-secret-ai-instructions-in-court-filings-but-also-why-are-we-worried-about-this/",
@@ -427,7 +443,7 @@
           "link": "https://www.scotusblog.com/2026/08/trump-brings-ballroom-dispute-to-the-supreme-court/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The Trump administration came to the Supreme Court on Friday, asking the justices to allow construction of the new White House ballroom to continue while a challenge to the project continues in the lower courts. The request came one week…",
+          "snippet": "Updated on Aug. 14 at 2:01 p.m. The Trump administration came to the Supreme Court on Friday, asking the justices to allow construction of the new White House ballroom to continue while a challenge to the project continues in the lower…",
           "published": "2026-08-14T16:09:44.000Z"
         },
         {
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "The firm wanted to talk about road safety. The mayor wants to talk about the state grievance committee. The post Law Firm Advertising Labeled Graffiti, Threatened By Town Officials appeared first on Above the Law .",
           "published": "2026-08-13T15:31:00.000Z"
-        },
-        {
-          "title": "The First 10: A Young Lawyer s Blueprint Beyond The Billable Hour",
-          "link": "https://abovethelaw.com/2026/08/the-first-10-a-young-lawyers-blueprint-beyond-the-billable-hour/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Your first decade will not unfold in a straight line. Some years will feel like acceleration. Others will feel like survival. Keep building anyway. The post The First 10: A Young Lawyer s Blueprint Beyond The Billable Hour appeared first…",
-          "published": "2026-08-13T14:46:00.000Z"
-        },
-        {
-          "title": "Phia Co-Founders Knew The App Was Wrongfully Claiming Sales Credits",
-          "link": "https://fashionista.com/2026/08/rihanna-elle-cover-september-2026",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "When news of the scandal first broke on July 8, the company co-founders claimed that they had just been made aware of the situation. The post Phia Co-Founders Knew The App Was Wrongfully Claiming Sales Credits appeared first on Above the…",
-          "published": "2026-08-13T14:02:00.000Z"
         }
       ]
     }
