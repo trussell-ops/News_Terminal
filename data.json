@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-14T12:41:22.656Z",
+  "updated": "2026-08-14T14:09:07.859Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Housing investors say this is their worst market in at least 3 years",
+          "link": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
+          "published": "2026-08-14T14:00:01.000Z"
+        },
+        {
+          "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+          "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Government issues a temporary ban on the sale of disposable barbeques as they pose a \"significant risk to the public\".",
+          "published": "2026-08-14T13:42:11.000Z"
+        },
         {
           "title": "Selena Gomez sued for alleged fraud over mental health company",
           "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
           "published": "2026-08-12T17:03:05.000Z"
-        },
-        {
-          "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
-          "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
-          "published": "2026-08-12T16:59:49.000Z"
-        },
-        {
-          "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
-          "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Home Depot's CEO, Ted Decker, is taking a temporary medical leave of absence that's expected to last a few months.",
-          "published": "2026-08-12T16:48:53.000Z"
         }
       ]
     },
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "France's tax authority had data stolen on 680k taxpayers",
+          "link": "https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T13:18:53.000Z"
+        },
+        {
+          "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+          "link": "https://hashagent.pages.dev/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T12:57:02.000Z"
+        },
+        {
+          "title": "Dear people who work at the airport",
+          "link": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T12:23:22.000Z"
+        },
+        {
+          "title": "The TEMU-Fication of Software, Digital Goods and Services",
+          "link": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T12:00:51.000Z"
+        },
+        {
           "title": "CMF hit the balance between cheap and good clip earbuds",
           "link": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambient awareness is…",
           "published": "2026-08-14T12:00:00.000Z"
+        },
+        {
+          "title": "WhatCable: Know what your USB-C cable can do",
+          "link": "https://www.whatcable.uk/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T11:41:34.000Z"
         },
         {
           "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
@@ -322,14 +362,6 @@
           "published": "2026-08-14T00:14:28.000Z"
         },
         {
-          "title": "Blog about things you don't understand yet",
-          "link": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T23:39:33.000Z"
-        },
-        {
           "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
           "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
           "source": "The Verge",
@@ -360,44 +392,52 @@
           "category": "tech",
           "snippet": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model,…",
           "published": "2026-08-13T21:46:21.000Z"
-        },
-        {
-          "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-          "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react…",
-          "published": "2026-08-13T21:42:38.000Z"
-        },
-        {
-          "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-          "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-          "published": "2026-08-13T19:38:58.000Z"
-        },
-        {
-          "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-          "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-13T19:25:38.000Z"
-        },
-        {
-          "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
-          "link": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Will it be the VSS... Horizon , Explorer , Ascend or Apeiron ?",
-          "published": "2026-08-13T19:12:15.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "How Appealing Weekly Roundup",
+          "link": "https://abovethelaw.com/2026/08/how-appealing-weekly-roundup-181/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
+          "published": "2026-08-14T14:01:56.000Z"
+        },
+        {
+          "title": "Understanding the court’s next major case on asylum seekers: Wassily v. Blanche",
+          "link": "https://www.scotusblog.com/2026/08/understanding-the-courts-next-major-case-on-asylum-seekers-wassily-v-blanche/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This coming term, in Wassily v. Blanche , the Supreme Court will decide whether asylum beneficiaries are barred from obtaining lawful permanent residency if their asylum status has been terminated. Wassily is of considerable significance.…",
+          "published": "2026-08-14T14:00:00.000Z"
+        },
+        {
+          "title": "Who exactly are the “friends of the court”?",
+          "link": "https://www.scotusblog.com/2026/08/who-exactly-are-the-friends-of-the-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "On Oct. 13, the Supreme Court will hear argument in Beaird v. United States , a case brought by a Texas man challenging an increase to his sentence for having a gun after a prior felony conviction. Like most federal criminal cases at the…",
+          "published": "2026-08-14T13:30:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 08.14.26",
+          "link": "https://abovethelaw.com/2026/08/morning-docket-08-14-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Judge threatens DOJ with contempt in Epstein files coverup case. [ All Rise News ] * Holland Knight brings in former partner to defend against $1.2B malpractice case. [ Bloomberg Law News ] * Litigant hides prompt injection in court…",
+          "published": "2026-08-14T13:10:33.000Z"
+        },
+        {
+          "title": "The transformation of Supreme Court arguments",
+          "link": "https://www.scotusblog.com/2026/08/the-transformation-of-supreme-court-arguments/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, a top Democrat is calling for Supreme Court reform.",
+          "published": "2026-08-14T13:00:00.000Z"
+        },
         {
           "title": "XOXO, Gossip Girl: The Yale Law Whisper Network Dishes On Usha Vance See Also",
           "link": "https://abovethelaw.com/2026/08/xoxo-gossip-girl-the-yale-law-whisper-network-dishes-on-usha-vance-see-also/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "Before they ran American foreign policy, they billed hours together. The post Two Brothers Left The Same Biglaw Firm And Took Over U.S. Foreign Policy appeared first on Above the Law .",
           "published": "2026-08-12T22:45:00.000Z"
-        },
-        {
-          "title": "Ken Paxton Won t Discuss His Marriage With Thousands Of Strangers. He ll Just Regulate Yours.",
-          "link": "https://abovethelaw.com/2026/08/ken-paxton-wont-discuss-his-marriage-with-thousands-of-strangers-hell-just-regulate-yours/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Turnabout, as they say, is fair play. The post Ken Paxton Won t Discuss His Marriage With Thousands Of Strangers. He ll Just Regulate Yours. appeared first on Above the Law .",
-          "published": "2026-08-12T22:15:00.000Z"
-        },
-        {
-          "title": "Legal Education In America Is Getting A Fresh Look, Without The ABA Accreditor At The Table",
-          "link": "https://abovethelaw.com/2026/08/legal-education-in-america-is-getting-a-fresh-look-without-the-aba-accreditor-at-the-table/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Judges, lawyers, educators, and higher-ed leaders will examine how legal education is regulated, with an eye toward independence. The post Legal Education In America Is Getting A Fresh Look, Without The ABA Accreditor At The Table…",
-          "published": "2026-08-12T21:15:00.000Z"
-        },
-        {
-          "title": "Former SPLC Expert Arrested On Fraud Charges As Malicious Prosecution Expands",
-          "link": "https://abovethelaw.com/2026/08/former-splc-expert-arrested-on-fraud-charges-as-malicious-prosecution-expands/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Give an authoritarian a cookie. The post Former SPLC Expert Arrested On Fraud Charges As Malicious Prosecution Expands appeared first on Above the Law .",
-          "published": "2026-08-12T20:37:33.000Z"
-        },
-        {
-          "title": "How Much Misconduct Is Jeanine Pirro Willing To Do To Save Her Job?",
-          "link": "https://abovethelaw.com/2026/08/how-much-misconduct-is-jeanine-pirro-willing-to-do-to-save-her-job/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Looks like we're about to find out. The post How Much Misconduct Is Jeanine Pirro Willing To Do To Save Her Job? appeared first on Above the Law .",
-          "published": "2026-08-12T19:21:25.000Z"
-        },
-        {
-          "title": "Trump administration urges Supreme Court to issue a decision in mail-in voting dispute",
-          "link": "https://www.scotusblog.com/2026/08/trump-administration-urges-supreme-court-to-issue-a-decision-in-mail-in-voting-dispute/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Trump administration on Wednesday reiterated its request for the Supreme Court to move quickly to block a ruling by a federal judge in Massachusetts that prohibits the government from implementing part of an executive order on mail-in…",
-          "published": "2026-08-12T18:49:00.000Z"
         }
       ]
     }
