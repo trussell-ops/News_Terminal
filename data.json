@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T13:05:18.255Z",
+  "updated": "2026-08-15T13:49:00.169Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,70 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Brazilian election filter in X For You timeline",
+          "link": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-15T13:18:27.000Z"
+        },
+        {
+          "title": "388 years ago, Galileo worked out why human giants can't exist",
+          "link": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-15T13:15:48.000Z"
+        },
+        {
+          "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
+          "link": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-15T13:09:28.000Z"
+        },
+        {
+          "title": "Xteink’s tiny e-readers are getting access to free books through Libby",
+          "link": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, but with Xteink's…",
+          "published": "2026-08-15T13:00:00.000Z"
+        },
+        {
+          "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+          "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-15T12:56:56.000Z"
+        },
+        {
+          "title": "Strait of Hormuz Live Traffic Tracking",
+          "link": "https://hormuz.now/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-15T12:54:43.000Z"
+        },
+        {
+          "title": "We’re reaching peak camera with the Sony A7R VI",
+          "link": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "It wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI. Sony's latest flagship high-res camera is a 66.8-megapixel spec monster. In…",
+          "published": "2026-08-15T12:00:00.000Z"
+        },
+        {
+          "title": "The surprise must-see movie of the summer",
+          "link": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Hi, friends! Welcome to Installer No. 140, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old editions at the Installer homepage.) This week,…",
+          "published": "2026-08-15T12:00:00.000Z"
+        },
+        {
           "title": "So much solar: Digging into the list of every US power plant that went online this year",
           "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
           "source": "Ars Technica",
@@ -224,6 +288,14 @@
           "category": "tech",
           "snippet": "Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technologist had no idea what the future would…",
           "published": "2026-08-15T11:00:00.000Z"
+        },
+        {
+          "title": "Working with AI Feels More Like Leadership Than Coding",
+          "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-15T10:39:41.000Z"
         },
         {
           "title": "Debian has begun voting on the future of AI&#x2F;LLM contributions",
@@ -320,78 +392,6 @@
           "category": "tech",
           "snippet": "Screen-sharing bug lets remote hackers log in without a password.",
           "published": "2026-08-14T18:32:14.000Z"
-        },
-        {
-          "title": "Racket v9.3",
-          "link": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T18:14:48.000Z"
-        },
-        {
-          "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-          "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
-          "published": "2026-08-14T18:00:23.000Z"
-        },
-        {
-          "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
-          "link": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with…",
-          "published": "2026-08-14T18:00:00.000Z"
-        },
-        {
-          "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
-          "link": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen with a grisly story…",
-          "published": "2026-08-14T18:00:00.000Z"
-        },
-        {
-          "title": "Google s best new camera feature is only for the Pixel 11 series",
-          "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like…",
-          "published": "2026-08-14T17:34:14.000Z"
-        },
-        {
-          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-          "published": "2026-08-14T17:26:53.000Z"
-        },
-        {
-          "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
-          "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
-          "published": "2026-08-14T17:13:14.000Z"
-        },
-        {
-          "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-          "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-          "published": "2026-08-14T17:03:54.000Z"
-        },
-        {
-          "title": "Mark Zuckerberg has an Instagzam",
-          "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram…",
-          "published": "2026-08-14T16:54:16.000Z"
         }
       ]
     },
