@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-15T11:41:40.667Z",
+  "updated": "2026-08-15T12:18:26.328Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+          "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
+          "published": "2026-08-15T12:00:01.000Z"
+        },
         {
           "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
           "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
@@ -187,20 +195,44 @@
           "category": "markets",
           "snippet": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
           "published": "2026-08-13T10:39:02.000Z"
-        },
-        {
-          "title": "UK economy grows but experts warn of challenging months ahead",
-          "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
-          "published": "2026-08-13T10:17:56.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "We’re reaching peak camera with the Sony A7R VI",
+          "link": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "It wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI. Sony's latest flagship high-res camera is a 66.8-megapixel spec monster. In…",
+          "published": "2026-08-15T12:00:00.000Z"
+        },
+        {
+          "title": "The surprise must-see movie of the summer",
+          "link": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Hi, friends! Welcome to Installer No. 140, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old editions at the Installer homepage.) This week,…",
+          "published": "2026-08-15T12:00:00.000Z"
+        },
+        {
+          "title": "So much solar: Digging into the list of every US power plant that went online this year",
+          "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+          "published": "2026-08-15T11:09:57.000Z"
+        },
+        {
+          "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "link": "https://sankalp.bearblog.dev/autoresearch/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-15T11:00:02.000Z"
+        },
         {
           "title": "When housing is unaffordable, this artist’s device makes pedaling harder",
           "link": "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal",
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
           "published": "2026-08-14T17:13:14.000Z"
-        },
-        {
-          "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-          "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-          "published": "2026-08-14T17:03:54.000Z"
-        },
-        {
-          "title": "Mark Zuckerberg has an Instagzam",
-          "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram…",
-          "published": "2026-08-14T16:54:16.000Z"
-        },
-        {
-          "title": "You can now turn off Google Gemini s visible watermarks",
-          "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When…",
-          "published": "2026-08-14T16:39:32.000Z"
-        },
-        {
-          "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
-          "link": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "It turns out that the economics of rocket reuse are pretty, pretty good.",
-          "published": "2026-08-14T16:29:21.000Z"
         }
       ]
     },
