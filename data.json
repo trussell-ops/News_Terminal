@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-15T03:09:56.624Z",
+  "updated": "2026-08-15T04:00:23.662Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+          "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+          "published": "2026-08-15T03:58:31.000Z"
+        },
         {
           "title": "Protein or pickled garlic? What's new in ice cream",
           "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
@@ -11,14 +19,6 @@
           "category": "markets",
           "snippet": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
           "published": "2026-08-14T21:20:19.000Z"
-        },
-        {
-          "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
-          "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
-          "published": "2026-08-14T19:17:16.000Z"
         },
         {
           "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "AI Driven Testing",
+          "link": "https://app.deltix.ai",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-15T02:42:14.000Z"
+        },
+        {
           "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
           "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
           "source": "Hacker News",
@@ -234,22 +242,6 @@
           "published": "2026-08-15T00:15:23.000Z"
         },
         {
-          "title": "Stop sending me huge PRs; a rant",
-          "link": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T22:48:15.000Z"
-        },
-        {
-          "title": "RISC-V: They should have known better",
-          "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T22:38:34.000Z"
-        },
-        {
           "title": "eigendrum",
           "link": "https://eigendrum.com/#p=circle",
           "source": "Hacker News",
@@ -264,14 +256,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-14T20:52:44.000Z"
-        },
-        {
-          "title": "Every exterior shot in The Taking of Pelham 123",
-          "link": "https://iafisher.com/2026/07/pelham-123",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T20:10:49.000Z"
         },
         {
           "title": "New Lower and Upper Bounds for the Grothendieck Constant",
@@ -320,6 +304,14 @@
           "category": "tech",
           "snippet": "Screen-sharing bug lets remote hackers log in without a password.",
           "published": "2026-08-14T18:32:14.000Z"
+        },
+        {
+          "title": "Racket v9.3",
+          "link": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-14T18:14:48.000Z"
         },
         {
           "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-14T16:43:22.000Z"
+        },
+        {
+          "title": "You can now turn off Google Gemini s visible watermarks",
+          "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When…",
+          "published": "2026-08-14T16:39:32.000Z"
         }
       ]
     },
