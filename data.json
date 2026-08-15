@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T09:46:39.456Z",
+  "updated": "2026-08-15T10:12:38.594Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,28 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+          "link": "https://uecker.codeberg.page/2026-07-14.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-15T07:59:42.000Z"
+        },
+        {
           "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
           "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-15T07:31:46.000Z"
+        },
+        {
+          "title": "Ask HN: How do you keep up with HN these days?",
+          "link": "https://news.ycombinator.com/item?id=49308059",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-15T05:59:12.000Z"
         },
         {
           "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
@@ -224,14 +240,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-15T04:18:44.000Z"
-        },
-        {
-          "title": "Show HN: Deltix – AI Driven Testing",
-          "link": "https://app.deltix.ai",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-15T02:42:14.000Z"
         },
         {
           "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "It turns out that the economics of rocket reuse are pretty, pretty good.",
           "published": "2026-08-14T16:29:21.000Z"
-        },
-        {
-          "title": "Maximizing the value of your Claude Code sessions",
-          "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-14T16:15:21.000Z"
         }
       ]
     },
