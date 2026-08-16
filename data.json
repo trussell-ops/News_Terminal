@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-16T16:47:18.140Z",
+  "updated": "2026-08-16T17:11:49.907Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+          "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
+          "published": "2026-08-16T17:08:04.000Z"
+        },
         {
           "title": "Changing pubs into homes to be made harder under new rules",
           "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
@@ -51,14 +59,6 @@
           "category": "markets",
           "snippet": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
           "published": "2026-08-14T21:20:19.000Z"
-        },
-        {
-          "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
-          "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
-          "published": "2026-08-14T18:00:01.000Z"
         },
         {
           "title": "Why is Selena Gomez being sued?",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "NIH is ending a key grant for budding clinical researchers",
+          "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T16:14:55.000Z"
+        },
+        {
           "title": "The weekend is 100 years old",
           "link": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
           "source": "Hacker News",
@@ -322,28 +330,12 @@
           "published": "2026-08-16T10:00:59.000Z"
         },
         {
-          "title": "Falstad Math and Physics Simulations",
-          "link": "https://www.falstad.com/mathphysics.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T04:19:32.000Z"
-        },
-        {
           "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
           "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera…",
           "published": "2026-08-16T03:00:00.000Z"
-        },
-        {
-          "title": "Patterns and problems in emerging multi-agent systems",
-          "link": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T02:12:53.000Z"
         },
         {
           "title": "Guiding Ships with Moire Patterns (2018)",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the…",
           "published": "2026-08-15T20:45:00.000Z"
+        },
+        {
+          "title": "Kimi Work attaches raw agent sessions to feedback reports",
+          "link": "https://news.ycombinator.com/item?id=49313711",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-15T19:50:46.000Z"
         }
       ]
     },
