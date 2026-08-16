@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-16T14:45:24.844Z",
+  "updated": "2026-08-16T15:11:23.668Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Changing pubs into homes to be made harder under new rules",
+          "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The rules will come into force on Monday along with other changes to planning policy.",
+          "published": "2026-08-16T15:04:13.000Z"
+        },
         {
           "title": "Parents 'watering down baby milk' over high costs",
           "link": "https://www.bbc.co.uk/news/articles/cpq8p82gq49o?at_medium=RSS&at_campaign=rss",
@@ -187,20 +195,28 @@
           "category": "markets",
           "snippet": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
           "published": "2026-08-13T13:02:24.000Z"
-        },
-        {
-          "title": "Young people want better job prospects and housing",
-          "link": "https://www.bbc.co.uk/news/articles/cwyj260x1p1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "In a recent survey only 27% of respondents say they want to stay in Guernsey.",
-          "published": "2026-08-13T11:58:32.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to…",
+          "published": "2026-08-16T14:56:40.000Z"
+        },
+        {
+          "title": "The AI Credit Resale Economy",
+          "link": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T14:44:55.000Z"
+        },
         {
           "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
           "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
@@ -216,6 +232,22 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-16T13:30:27.000Z"
+        },
+        {
+          "title": "Show HN: A public AI whose memory is shared across all users",
+          "link": "https://wildstatic.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T13:21:45.000Z"
+        },
+        {
+          "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
+          "link": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T13:09:41.000Z"
         },
         {
           "title": "Firefox for iOS now has a native adblocker",
@@ -274,14 +306,6 @@
           "published": "2026-08-16T08:40:50.000Z"
         },
         {
-          "title": "What happens when an LLM never sees material beyond fifth grade?",
-          "link": "https://littlelearner-ll.github.io/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T07:37:53.000Z"
-        },
-        {
           "title": "Falstad Math and Physics Simulations",
           "link": "https://www.falstad.com/mathphysics.html",
           "source": "Hacker News",
@@ -338,14 +362,6 @@
           "published": "2026-08-15T21:56:13.000Z"
         },
         {
-          "title": "Tracking down a Zsh history data loss bug",
-          "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-15T21:39:09.000Z"
-        },
-        {
           "title": "VisionQuest trailer kicks off Disney's D23 fan event",
           "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
           "source": "Ars Technica",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-15T19:20:51.000Z"
-        },
-        {
-          "title": "AI in drug discovery – what it is, where we stand and the path forward",
-          "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-15T19:12:53.000Z"
-        },
-        {
-          "title": "Don t overlook Elektron s budget electronic music instruments",
-          "link": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the…",
-          "published": "2026-08-15T17:00:00.000Z"
         }
       ]
     },
