@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T19:14:02.323Z",
+  "updated": "2026-08-16T19:40:45.603Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,20 +202,20 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Protobuf has LSP support. You're welcome",
+          "link": "https://buf.build/blog/protobuf-lsp",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T18:48:27.000Z"
+        },
+        {
           "title": "MathCode, Mathematical Coding Agent",
           "link": "https://math-ai-org.github.io/mathcode/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-16T18:17:10.000Z"
-        },
-        {
-          "title": "I've built a free, open-source local and remote memory system for agentw and CL",
-          "link": "https://www.lorekit.io/blog/give-your-agent-a-memory",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T18:03:09.000Z"
         },
         {
           "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
@@ -346,14 +346,6 @@
           "published": "2026-08-16T12:00:00.000Z"
         },
         {
-          "title": "AI Coding Without the Vibes",
-          "link": "https://peterbloem.nl/blog/craft-coding",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T10:31:36.000Z"
-        },
-        {
           "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
           "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
           "source": "Ars Technica",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-15T20:54:11.000Z"
+        },
+        {
+          "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+          "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the…",
+          "published": "2026-08-15T20:45:00.000Z"
         }
       ]
     },
