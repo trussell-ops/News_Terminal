@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T11:16:46.050Z",
+  "updated": "2026-08-17T11:47:19.676Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,28 +202,12 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "How to take better photos of your pets",
-          "link": "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos",
-          "source": "The Verge",
+          "title": "Self hosted email continues to steeply decline",
+          "link": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
+          "source": "Hacker News",
           "category": "tech",
-          "snippet": "Like the pets of any self-respecting millennial, my cats have their own Instagram account. Noodle and Loaf - aka Carb Cats - aren't exactly celebrities. But they are used to having their photos taken a lot. Between their Instagram…",
-          "published": "2026-08-17T11:00:00.000Z"
-        },
-        {
-          "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-          "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that…",
-          "published": "2026-08-17T11:00:00.000Z"
-        },
-        {
-          "title": "Anthropic explains how Claude s invisible text watermarks will work",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the…",
-          "published": "2026-08-17T10:57:13.000Z"
+          "snippet": "Comments",
+          "published": "2026-08-17T10:45:14.000Z"
         },
         {
           "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
@@ -392,6 +376,22 @@
           "category": "tech",
           "snippet": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver.…",
           "published": "2026-08-16T17:35:02.000Z"
+        },
+        {
+          "title": "A third world engineer responds to “RISC-V: They should have known better”",
+          "link": "https://rvembedded.com/blog_post/12/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T17:01:07.000Z"
+        },
+        {
+          "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to…",
+          "published": "2026-08-16T14:56:40.000Z"
         }
       ]
     },
