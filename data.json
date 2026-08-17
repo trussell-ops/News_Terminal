@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T16:15:48.869Z",
+  "updated": "2026-08-17T16:52:00.991Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,7 +202,7 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Universal Health Coverage Could Save $1T and 114,000 Lives a Year, Yale Study",
+          "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
           "link": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
           "source": "Hacker News",
           "category": "tech",
@@ -211,7 +211,7 @@
         },
         {
           "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-          "link": "https://news.ycombinator.com/item?id=49332751",
+          "link": "https://speko.ai/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
@@ -242,12 +242,12 @@
           "published": "2026-08-17T14:35:25.000Z"
         },
         {
-          "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB&#x2F;s): 50 tok&#x2F;s with MTP",
-          "link": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
+          "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+          "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-17T14:29:18.000Z"
+          "published": "2026-08-17T14:30:09.000Z"
         },
         {
           "title": "The only known trebuchet casualty in history",
@@ -256,6 +256,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-17T14:26:19.000Z"
+        },
+        {
+          "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+          "link": "https://saggar.marginalutility.dev/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T14:25:54.000Z"
         },
         {
           "title": "Uber partners with Zipline on Eats drone deliveries",
@@ -282,7 +290,7 @@
           "published": "2026-08-17T14:21:25.000Z"
         },
         {
-          "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
           "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
           "source": "Hacker News",
           "category": "tech",
@@ -351,31 +359,15 @@
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-17T13:40:55.000Z"
+          "published": "2026-08-17T13:35:06.000Z"
         },
         {
-          "title": "GitHub down again? no PR access",
-          "link": "https://news.ycombinator.com/item?id=49330632",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T13:37:28.000Z"
-        },
-        {
-          "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+          "title": "Online clinics and influencers are promoting Cialis as a longevity drug",
           "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-17T13:24:55.000Z"
-        },
-        {
-          "title": "Show HN: LLMs each trading $100K vs. a frozen rulebook – the rulebook leads",
-          "link": "https://aitradingcompetition.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T13:20:01.000Z"
         },
         {
           "title": "Show HN: Sokoban AI Solver",
@@ -386,12 +378,20 @@
           "published": "2026-08-17T13:07:00.000Z"
         },
         {
-          "title": "Mexico Crackdown on Coastal Development Underway",
+          "title": "Mexico crackdown on coastal development",
           "link": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-17T12:10:22.000Z"
+        },
+        {
+          "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "link": "https://blog.roboflow.com/openai-gpt-5-6/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T12:09:42.000Z"
         }
       ]
     },
