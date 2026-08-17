@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T05:57:20.868Z",
+  "updated": "2026-08-17T06:46:17.184Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -9,7 +9,7 @@
           "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+          "snippet": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
           "published": "2026-08-17T05:00:25.000Z"
         },
         {
@@ -202,15 +202,23 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
-          "link": "https://boston.conman.org/2026/08/11.1",
+          "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+          "link": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-17T03:21:37.000Z"
+          "published": "2026-08-17T05:22:49.000Z"
         },
         {
-          "title": "Strong Gravitational Lensing and Microlensing of Supernovae",
+          "title": "Linear Algebra Done Right – Sheldon Axler",
+          "link": "https://linear.axler.net/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T05:21:34.000Z"
+        },
+        {
+          "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
           "link": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
           "source": "Hacker News",
           "category": "tech",
@@ -256,14 +264,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-17T00:17:57.000Z"
-        },
-        {
-          "title": "The federal keyword lists that canceled billions in research funding",
-          "link": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T00:14:10.000Z"
         },
         {
           "title": "Reticulum – Decentralized Mesh Network",
@@ -354,20 +354,12 @@
           "published": "2026-08-16T17:35:02.000Z"
         },
         {
-          "title": "A third world engineer responds to ”RISC-V: They should have known better“",
+          "title": "A third world engineer responds to “RISC-V: They should have known better”",
           "link": "https://rvembedded.com/blog_post/12/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-16T17:01:07.000Z"
-        },
-        {
-          "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-          "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T15:16:06.000Z"
         },
         {
           "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-16T12:58:10.000Z"
+        },
+        {
+          "title": "Claude: System Prompts",
+          "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T12:48:21.000Z"
         }
       ]
     },
