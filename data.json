@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-17T00:40:30.660Z",
+  "updated": "2026-08-17T02:13:54.657Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Ferrari's first ever electric car sold for record $40m at auction",
+          "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+          "published": "2026-08-17T01:47:33.000Z"
+        },
+        {
+          "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+          "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+          "published": "2026-08-16T23:27:36.000Z"
+        },
         {
           "title": "How switching your bank account could earn you up to £220",
           "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading.",
           "published": "2026-08-13T14:27:43.000Z"
-        },
-        {
-          "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
-          "link": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
-          "published": "2026-08-13T14:09:05.000Z"
-        },
-        {
-          "title": "Water bills set to rise for many after firms permitted extra funding",
-          "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
-          "published": "2026-08-13T13:38:30.000Z"
         }
       ]
     },
@@ -202,20 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Webmaster a Manifesto for Everyone",
-          "link": "https://brennan.day/webmaster-a-manifesto-for-everyone/",
+          "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+          "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-17T00:04:14.000Z"
+          "published": "2026-08-17T01:45:36.000Z"
         },
         {
-          "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-          "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "title": "Rhombus 1.1 is now available",
+          "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-16T21:53:43.000Z"
+          "published": "2026-08-17T00:48:21.000Z"
+        },
+        {
+          "title": "The Life and Death of Direct File [pdf]",
+          "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T00:17:57.000Z"
+        },
+        {
+          "title": "The federal keyword lists that canceled billions in research funding",
+          "link": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T00:14:10.000Z"
+        },
+        {
+          "title": "Reticulum – Decentralized Mesh Network",
+          "link": "https://reticulum.network/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T23:59:10.000Z"
+        },
+        {
+          "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+          "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T23:45:09.000Z"
         },
         {
           "title": "OpenAI reportedly disbanded its preparedness team",
@@ -234,14 +266,6 @@
           "published": "2026-08-16T21:07:10.000Z"
         },
         {
-          "title": "The Case Against Formal Verification, 50 Years Later",
-          "link": "https://ivan-gavran.github.io/0-social-processes-paper",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T20:38:58.000Z"
-        },
-        {
           "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
           "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
           "source": "The Verge",
@@ -256,6 +280,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-16T20:31:16.000Z"
+        },
+        {
+          "title": "Red queen hypothesis – a new way forward for self-improving AI",
+          "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T20:01:13.000Z"
         },
         {
           "title": "Models Are Getting Dumber on Purpose",
@@ -304,14 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-16T17:01:07.000Z"
-        },
-        {
-          "title": "NIH is ending a key grant for budding clinical researchers",
-          "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T16:14:55.000Z"
         },
         {
           "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-16T12:16:21.000Z"
-        },
-        {
-          "title": "Rogue AI aren’t science fiction anymore",
-          "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it…",
-          "published": "2026-08-16T12:00:00.000Z"
-        },
-        {
-          "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-          "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-          "published": "2026-08-16T10:00:59.000Z"
-        },
-        {
-          "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
-          "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera…",
-          "published": "2026-08-16T03:00:00.000Z"
         }
       ]
     },
