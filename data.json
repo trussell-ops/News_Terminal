@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T13:13:30.971Z",
+  "updated": "2026-08-17T13:58:49.334Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -13,11 +13,11 @@
           "published": "2026-08-17T12:46:25.000Z"
         },
         {
-          "title": "Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner",
+          "title": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
           "link": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Au Vodka co-owner Charlie Morgan earned infamy in 2013 after being kicked by the Chelsea footballer.",
+          "snippet": "The distinctive gold Au bottles have become a staple of poolside parties in Ibiza and Dubai.",
           "published": "2026-08-17T12:43:09.000Z"
         },
         {
@@ -202,20 +202,68 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Incident with Github.com",
+          "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T13:40:55.000Z"
+        },
+        {
+          "title": "GitHub down again? no PR access",
+          "link": "https://news.ycombinator.com/item?id=49330632",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T13:37:28.000Z"
+        },
+        {
+          "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
+          "link": "https://1667.ai/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T13:35:31.000Z"
+        },
+        {
+          "title": "Tell HN: GitHub Is Experiencing Degraded Performance",
+          "link": "https://news.ycombinator.com/item?id=49330597",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T13:35:06.000Z"
+        },
+        {
+          "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T13:24:55.000Z"
+        },
+        {
+          "title": "Show HN: Sokoban AI Solver",
+          "link": "https://mkornreich.me/projects/sokoban/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T13:07:00.000Z"
+        },
+        {
+          "title": "Stripe to Buy OpenRouter for $7B",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T13:00:44.000Z"
+        },
+        {
           "title": "David Sacks on X: Some thoughts on Dario's post",
           "link": "https://twitter.com/DavidSacks/status/2089227290769080656",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-17T12:35:01.000Z"
-        },
-        {
-          "title": "Buyer cancels showing after Deflock shows two cameras utilized by the HOA",
-          "link": "https://twitter.com/lydiakauppi/status/2089196932413452386",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T12:18:24.000Z"
         },
         {
           "title": "Mexico Crackdown on Coastal Development Underway",
@@ -240,14 +288,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-17T11:55:15.000Z"
-        },
-        {
-          "title": "People are worried about America's solvency",
-          "link": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T11:45:12.000Z"
         },
         {
           "title": "Satellite operators are in panic mode due to a worsening launch crisis",
@@ -282,12 +322,12 @@
           "published": "2026-08-17T10:57:13.000Z"
         },
         {
-          "title": "Self hosted email continues to steeply decline",
-          "link": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
+          "title": "Pi coding agent: config folder is out of place on Linux",
+          "link": "https://github.com/earendil-works/pi/issues/534",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-17T10:45:14.000Z"
+          "published": "2026-08-17T09:11:17.000Z"
         },
         {
           "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
@@ -330,14 +370,6 @@
           "published": "2026-08-17T01:45:36.000Z"
         },
         {
-          "title": "Prolly: A content-addressed ordered map built on prolly trees",
-          "link": "https://github.com/crabbuild/prolly",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T01:00:45.000Z"
-        },
-        {
           "title": "Rhombus 1.1 is now available",
           "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
           "source": "Hacker News",
@@ -360,44 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-16T23:59:10.000Z"
-        },
-        {
-          "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-          "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T23:45:09.000Z"
-        },
-        {
-          "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T21:53:43.000Z"
-        },
-        {
-          "title": "OpenAI reportedly disbanded its preparedness team",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the…",
-          "published": "2026-08-16T21:32:56.000Z"
-        },
-        {
-          "title": "Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece",
-          "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "\"Breakups are… tough.\" It's the opening lines of an interlude toward the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject…",
-          "published": "2026-08-16T20:31:37.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Who is Justice Barrett?",
+          "link": "https://www.scotusblog.com/2026/08/who-is-justice-barrett/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Back in 2024, Justice Amy Coney Barrett ended the Supreme Court’s term with two dissents that complicated the usual descriptions of her as a textbook conservative. In Ohio v. EPA , decided on June 27, 2024, Barrett joined the court’s…",
+          "published": "2026-08-17T13:30:00.000Z"
+        },
         {
           "title": "Emergency docket heats up",
           "link": "https://www.scotusblog.com/2026/08/emergency-docket-heats-up/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "They were law partners first, the scandal came later. The post The Only Attorney General To Go To Prison (So Far) appeared first on Above the Law .",
           "published": "2026-08-13T22:16:00.000Z"
-        },
-        {
-          "title": "Your Most Important Summer Reading Isn’t On Your Syllabus",
-          "link": "https://abovethelaw.com/2026/08/your-most-important-summer-reading-isnt-on-your-syllabus/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Read your cases this summer. But also read the room. The post Your Most Important Summer Reading Isn’t On Your Syllabus appeared first on Above the Law .",
-          "published": "2026-08-13T21:33:00.000Z"
         }
       ]
     }
