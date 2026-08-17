@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T07:43:10.922Z",
+  "updated": "2026-08-17T08:31:40.560Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -13,7 +13,7 @@
           "published": "2026-08-17T07:04:21.000Z"
         },
         {
-          "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+          "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
           "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "HackEurope 2026: A short rant on AI and hackathons",
+          "link": "https://duti.dev/blog/2026/spr/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T07:28:43.000Z"
+        },
+        {
           "title": "I’m hooked on Peak Design’s new City bags",
           "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
           "source": "The Verge",
@@ -218,7 +226,7 @@
           "published": "2026-08-17T05:22:49.000Z"
         },
         {
-          "title": "Linear Algebra Done Right – Sheldon Axler",
+          "title": "Linear algebra done right",
           "link": "https://linear.axler.net/",
           "source": "Hacker News",
           "category": "tech",
@@ -240,6 +248,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-17T02:55:20.000Z"
+        },
+        {
+          "title": "On A.I. regulation and messaging",
+          "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T01:59:56.000Z"
         },
         {
           "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
@@ -298,20 +314,20 @@
           "published": "2026-08-16T23:45:09.000Z"
         },
         {
+          "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T21:53:43.000Z"
+        },
+        {
           "title": "OpenAI reportedly disbanded its preparedness team",
           "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
           "source": "The Verge",
           "category": "tech",
           "snippet": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the…",
           "published": "2026-08-16T21:32:56.000Z"
-        },
-        {
-          "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T21:07:10.000Z"
         },
         {
           "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
@@ -338,7 +354,7 @@
           "published": "2026-08-16T20:01:13.000Z"
         },
         {
-          "title": "Protobuf has LSP support. You're welcome",
+          "title": "Protobuf has LSP support",
           "link": "https://buf.build/blog/protobuf-lsp",
           "source": "Hacker News",
           "category": "tech",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-16T17:01:07.000Z"
-        },
-        {
-          "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to…",
-          "published": "2026-08-16T14:56:40.000Z"
-        },
-        {
-          "title": "The AI Credit Resale Economy",
-          "link": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T14:44:55.000Z"
         }
       ]
     },
