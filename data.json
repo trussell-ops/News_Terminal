@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T13:58:49.334Z",
+  "updated": "2026-08-17T14:27:27.151Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -94,7 +94,7 @@
         },
         {
           "title": "Business Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8gg6?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Amid economic uncertainty, workers are more cautious about taking their next career step",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "It’s about ethics in journalism, with Ben Smith",
+          "link": "https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Today I’m talking to Ben Smith, the editor-in-chief of Semafor. Everywhere you go, people say they don’t trust the media — and yet they’ve never consumed more of it. Audiences have moved on from legacy names in favor of Substacks and…",
+          "published": "2026-08-17T14:00:00.000Z"
+        },
+        {
+          "title": "Ask HN: Alternatives to GitHub",
+          "link": "https://news.ycombinator.com/item?id=49331033",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T13:59:17.000Z"
+        },
+        {
+          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T13:44:23.000Z"
+        },
+        {
+          "title": "Meet the only known trebuchet casualty in history",
+          "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
+          "published": "2026-08-17T13:41:35.000Z"
+        },
+        {
           "title": "Incident with Github.com",
           "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
           "source": "Hacker News",
@@ -216,14 +248,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-17T13:37:28.000Z"
-        },
-        {
-          "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
-          "link": "https://1667.ai/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T13:35:31.000Z"
         },
         {
           "title": "Tell HN: GitHub Is Experiencing Degraded Performance",
@@ -256,14 +280,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-17T13:00:44.000Z"
-        },
-        {
-          "title": "David Sacks on X: Some thoughts on Dario's post",
-          "link": "https://twitter.com/DavidSacks/status/2089227290769080656",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T12:35:01.000Z"
         },
         {
           "title": "Mexico Crackdown on Coastal Development Underway",
@@ -322,14 +338,6 @@
           "published": "2026-08-17T10:57:13.000Z"
         },
         {
-          "title": "Pi coding agent: config folder is out of place on Linux",
-          "link": "https://github.com/earendil-works/pi/issues/534",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T09:11:17.000Z"
-        },
-        {
           "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
           "link": "https://desktopcolors.com",
           "source": "Hacker News",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-17T00:35:29.000Z"
-        },
-        {
-          "title": "Reticulum – Decentralized Mesh Network",
-          "link": "https://reticulum.network/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-16T23:59:10.000Z"
         }
       ]
     },
@@ -399,11 +399,27 @@
       "label": "Legal Developments",
       "items": [
         {
+          "title": "PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction For Sangamo Gene Therapy",
+          "link": "https://medcitynews.com/2026/08/ptc-sangamo-therapeutics-bankruptcy-auction-fabry-gene-therapybid-wins-bankruptcy-auction-for-sangamo-gene-therapy-ptct-sgmoq/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Sangamo Therapeutics filed for Chapter 11 bankruptcy in June after its search for strategic alternatives failed to find a path forward for the company. PTC Therapeutics’ auction win brings a Sangamo gene therapy candidate for Fabry…",
+          "published": "2026-08-17T14:03:00.000Z"
+        },
+        {
+          "title": "SCOTUS litigator Floyd Abrams at 90",
+          "link": "https://www.scotusblog.com/2026/08/scotus-litigator-floyd-abrams-at-90/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Floyd Abrams’ initials signaled his destiny as a First Amendment lawyer. More than any others, Abrams’ name is synonymous with freedom of speech and the press. Now nine decades into his life journey, I thought it would be good to provide…",
+          "published": "2026-08-17T14:00:00.000Z"
+        },
+        {
           "title": "Who is Justice Barrett?",
           "link": "https://www.scotusblog.com/2026/08/who-is-justice-barrett/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Back in 2024, Justice Amy Coney Barrett ended the Supreme Court’s term with two dissents that complicated the usual descriptions of her as a textbook conservative. In Ohio v. EPA , decided on June 27, 2024, Barrett joined the court’s…",
+          "snippet": "In 2024, Justice Amy Coney Barrett ended the Supreme Court’s term with two dissents that complicated the usual descriptions of her as a textbook conservative. In Ohio v. EPA , decided on June 27, 2024, Barrett joined the court’s three…",
           "published": "2026-08-17T13:30:00.000Z"
         },
         {
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Plus, a top Democrat is calling for Supreme Court reform.",
           "published": "2026-08-14T13:00:00.000Z"
-        },
-        {
-          "title": "XOXO, Gossip Girl: The Yale Law Whisper Network Dishes On Usha Vance See Also",
-          "link": "https://abovethelaw.com/2026/08/xoxo-gossip-girl-the-yale-law-whisper-network-dishes-on-usha-vance-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Everything You Need To Know About Usha Vance, You Can Learn At Yale Law: Her classmates gossip about her on Signal. The clerkship culture that shaped her politics is the part they don't put in the group chat. Daft For Taft : John Roberts…",
-          "published": "2026-08-13T23:02:00.000Z"
-        },
-        {
-          "title": "The Only Attorney General To Go To Prison (So Far)",
-          "link": "https://abovethelaw.com/2026/08/the-only-attorney-general-to-go-to-prison-so-far/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "They were law partners first, the scandal came later. The post The Only Attorney General To Go To Prison (So Far) appeared first on Above the Law .",
-          "published": "2026-08-13T22:16:00.000Z"
         }
       ]
     }
