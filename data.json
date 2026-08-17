@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T14:27:27.151Z",
+  "updated": "2026-08-17T14:53:26.440Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -94,7 +94,7 @@
         },
         {
           "title": "Business Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8gg6?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Amid economic uncertainty, workers are more cautious about taking their next career step",
@@ -202,6 +202,62 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "WiiM’s capable HomePod-esque smart speaker is almost $50 off",
+          "link": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not locked down to play nicely with…",
+          "published": "2026-08-17T14:35:25.000Z"
+        },
+        {
+          "title": "Show HN: Eve Software Factory",
+          "link": "https://github.com/vercel-labs/eve-software-factory-template/tree/main",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T14:28:49.000Z"
+        },
+        {
+          "title": "Uber partners with Zipline on Eats drone deliveries",
+          "link": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Uber is teaming up with drone company Zipline to start airborne takeout deliveries later this year, with the goal of reaching one million daily drone deliveries by 2029. Uber also said it was making a strategic investment in Zipline, a…",
+          "published": "2026-08-17T14:24:35.000Z"
+        },
+        {
+          "title": "How to put 170 atoms in an atom",
+          "link": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T14:21:25.000Z"
+        },
+        {
+          "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T14:18:38.000Z"
+        },
+        {
+          "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+          "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T14:07:59.000Z"
+        },
+        {
+          "title": "How to disable or avoid intrusive AI",
+          "link": "https://www.librarian.net/notoai/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T14:07:56.000Z"
+        },
+        {
           "title": "It’s about ethics in journalism, with Ben Smith",
           "link": "https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news",
           "source": "The Verge",
@@ -216,6 +272,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-17T13:59:17.000Z"
+        },
+        {
+          "title": "A Preview of DuckDB v2.0",
+          "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T13:46:27.000Z"
         },
         {
           "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
@@ -266,6 +330,14 @@
           "published": "2026-08-17T13:24:55.000Z"
         },
         {
+          "title": "Speeding Up the Plush Garbage Collector",
+          "link": "https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-17T13:09:06.000Z"
+        },
+        {
           "title": "Show HN: Sokoban AI Solver",
           "link": "https://mkornreich.me/projects/sokoban/",
           "source": "Hacker News",
@@ -298,14 +370,6 @@
           "published": "2026-08-17T12:09:42.000Z"
         },
         {
-          "title": "Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed",
-          "link": "https://www.bgr.com/2233625/who-owns-commodore-retro-brand/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T11:55:15.000Z"
-        },
-        {
           "title": "Satellite operators are in panic mode due to a worsening launch crisis",
           "link": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
           "source": "Ars Technica",
@@ -328,76 +392,20 @@
           "category": "tech",
           "snippet": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that…",
           "published": "2026-08-17T11:00:00.000Z"
-        },
-        {
-          "title": "Anthropic explains how Claude s invisible text watermarks will work",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the…",
-          "published": "2026-08-17T10:57:13.000Z"
-        },
-        {
-          "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
-          "link": "https://desktopcolors.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T07:51:22.000Z"
-        },
-        {
-          "title": "I’m hooked on Peak Design’s new City bags",
-          "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "It's just a hook, sewn into a bag, but I really, really like it. Peak Design is so proud of its clever integration that the San Francisco-based maker of camera gear gave it a name: BagLev, for its ability to keep its new City Line of bags…",
-          "published": "2026-08-17T07:00:00.000Z"
-        },
-        {
-          "title": "Linear algebra done right",
-          "link": "https://linear.axler.net/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T05:21:34.000Z"
-        },
-        {
-          "title": "On A.I. regulation and messaging",
-          "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T01:59:56.000Z"
-        },
-        {
-          "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-          "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T01:45:36.000Z"
-        },
-        {
-          "title": "Rhombus 1.1 is now available",
-          "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T00:48:21.000Z"
-        },
-        {
-          "title": "Applying a photosynthetic process to treat “dry eye”",
-          "link": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T00:35:29.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Temptation And Corruption Of Andrew Boutros",
+          "link": "https://abovethelaw.com/2026/08/the-temptation-and-corruption-of-andrew-boutros/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Shoulda stayed at Dechert, dude. The post The Temptation And Corruption Of Andrew Boutros appeared first on Above the Law .",
+          "published": "2026-08-17T14:48:00.000Z"
+        },
         {
           "title": "PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction For Sangamo Gene Therapy",
           "link": "https://medcitynews.com/2026/08/ptc-sangamo-therapeutics-bankruptcy-auction-fabry-gene-therapybid-wins-bankruptcy-auction-for-sangamo-gene-therapy-ptct-sgmoq/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "* Judge threatens DOJ with contempt in Epstein files coverup case. [ All Rise News ] * Holland Knight brings in former partner to defend against $1.2B malpractice case. [ Bloomberg Law News ] * Litigant hides prompt injection in court…",
           "published": "2026-08-14T13:10:33.000Z"
-        },
-        {
-          "title": "The transformation of Supreme Court arguments",
-          "link": "https://www.scotusblog.com/2026/08/the-transformation-of-supreme-court-arguments/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a top Democrat is calling for Supreme Court reform.",
-          "published": "2026-08-14T13:00:00.000Z"
         }
       ]
     }
