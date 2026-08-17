@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-17T09:30:59.617Z",
+  "updated": "2026-08-17T10:22:02.051Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Virgin takes step towards running Channel Tunnel rail services",
+          "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
+          "published": "2026-08-17T09:47:51.000Z"
+        },
         {
           "title": "Changing pubs into homes to be made harder under new rules",
           "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
@@ -21,7 +29,7 @@
           "published": "2026-08-17T05:00:25.000Z"
         },
         {
-          "title": "Sainsbury's pauses AI cameras after shopper ousted",
+          "title": "Sainsbury's branch halts AI use as shopper ejected",
           "link": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -51,6 +59,14 @@
           "category": "markets",
           "snippet": "New research suggests staying put is costing British savers billions in missed interest every year.",
           "published": "2026-08-16T23:14:47.000Z"
+        },
+        {
+          "title": "Business Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8gg6?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Amid economic uncertainty, workers are more cautious about taking their next career step",
+          "published": "2026-08-16T20:30:00.000Z"
         },
         {
           "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
           "published": "2026-08-13T22:00:10.000Z"
-        },
-        {
-          "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-          "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
-          "published": "2026-08-13T21:43:47.000Z"
-        },
-        {
-          "title": "The ‘20% rule’ behind Giorgos Tsetis’ blueprint for a new kind of family office",
-          "link": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Family offices are built to be patient with their money. Giorgos Tsetis is not.",
-          "published": "2026-08-13T18:02:01.000Z"
         }
       ]
     },
@@ -232,14 +232,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-17T03:08:47.000Z"
-        },
-        {
-          "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
-          "link": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T02:55:20.000Z"
         },
         {
           "title": "On A.I. regulation and messaging",
@@ -282,14 +274,6 @@
           "published": "2026-08-17T00:35:29.000Z"
         },
         {
-          "title": "The Life and Death of Direct File [pdf]",
-          "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T00:17:57.000Z"
-        },
-        {
           "title": "Reticulum – Decentralized Mesh Network",
           "link": "https://reticulum.network/",
           "source": "Hacker News",
@@ -322,11 +306,11 @@
           "published": "2026-08-16T21:32:56.000Z"
         },
         {
-          "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+          "title": "Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece",
           "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject…",
+          "snippet": "\"Breakups are… tough.\" It's the opening lines of an interlude toward the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject…",
           "published": "2026-08-16T20:31:37.000Z"
         },
         {
@@ -370,7 +354,7 @@
           "published": "2026-08-16T17:49:46.000Z"
         },
         {
-          "title": "Amazon is trying to crush class-action suits before they get started",
+          "title": "Amazon is trying to crush class action suits before they get started",
           "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
           "source": "The Verge",
           "category": "tech",
@@ -392,6 +376,22 @@
           "category": "tech",
           "snippet": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to…",
           "published": "2026-08-16T14:56:40.000Z"
+        },
+        {
+          "title": "The AI Credit Resale Economy",
+          "link": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T14:44:55.000Z"
+        },
+        {
+          "title": "Claude: System Prompts",
+          "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-16T12:48:21.000Z"
         }
       ]
     },
