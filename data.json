@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T18:22:34.476Z",
+  "updated": "2026-08-18T19:04:54.493Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,30 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+          "link": "https://pantheongpu.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T18:47:51.000Z"
+        },
+        {
+          "title": "How does IKEA come up with names for its products?",
+          "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T18:11:53.000Z"
+        },
+        {
+          "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+          "link": "https://github.com/RyanCodrai/turbovec",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T18:07:21.000Z"
+        },
+        {
           "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
           "link": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
           "source": "The Verge",
@@ -234,20 +258,20 @@
           "published": "2026-08-18T17:18:57.000Z"
         },
         {
-          "title": "Claude Code weekly limits reduce by a third tomorrow",
+          "title": "And then the men with guns tell you to do it anyway",
+          "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T17:11:28.000Z"
+        },
+        {
+          "title": "Claude Code May–August 2026 weekly limits promotion",
           "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-18T17:02:15.000Z"
-        },
-        {
-          "title": "Why your Amazon order confirmation emails have become so unhelpful",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T16:54:42.000Z"
         },
         {
           "title": "Apple squashes EU beef with new App Store rules",
@@ -280,14 +304,6 @@
           "category": "tech",
           "snippet": "One big question: Will China assert territorial rights where its rover explores?",
           "published": "2026-08-18T16:30:07.000Z"
-        },
-        {
-          "title": "Degraded performance for multiple models",
-          "link": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T16:28:20.000Z"
         },
         {
           "title": "Superpowers, Not Superintelligence",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-18T14:06:50.000Z"
-        },
-        {
-          "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-          "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T13:38:23.000Z"
-        },
-        {
-          "title": "Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it",
-          "link": "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "There's an argument to be made that people wouldn't be all that interested in Coyote vs. Acme if it weren't for the way David Zaslav tried to kill it. By trying to shelve the project, Warner Bros. Discovery only drew attention to its…",
-          "published": "2026-08-18T13:35:35.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "In-House Leaders Say Lawyers At These Biglaw Firms Are Client Service ‘All-Stars’ (2026)",
+          "link": "https://abovethelaw.com/2026/08/in-house-leaders-say-lawyers-at-these-biglaw-firms-are-client-service-all-stars-2026/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Which firms -- and which lawyers -- came out on top when it comes to excellence in client service? The post In-House Leaders Say Lawyers At These Biglaw Firms Are Client Service ‘All-Stars’ (2026) appeared first on Above the Law .",
+          "published": "2026-08-18T18:32:00.000Z"
+        },
         {
           "title": "Meet Me At ILTACON: Ajax, An Intelligent Timekeeper That Adapts To Your Existing Workflow",
           "link": "https://abovethelaw.com/2026/08/meet-me-at-iltacon-ajax-an-intelligent-timekeeper-that-adapts-to-your-existing-workflow/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "[Sponsored] AI can accelerate document review, but metrics alone aren't enough. Learn how Managing Attorney oversight turns AI-driven review into a more adaptive, strategic and defensible process. The post Beyond Recall And Precision:…",
           "published": "2026-08-17T16:13:08.000Z"
-        },
-        {
-          "title": "ILTACON Preview: What These Tech Leaders Expect To See",
-          "link": "https://abovethelaw.com/2026/08/iltacon-preview-what-these-tech-leaders-expect-to-see/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The massive legal tech conference is fast approaching. The post ILTACON Preview: What These Tech Leaders Expect To See appeared first on Above the Law .",
-          "published": "2026-08-17T15:35:01.000Z"
         }
       ]
     }
