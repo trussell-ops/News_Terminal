@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-18T14:03:19.343Z",
+  "updated": "2026-08-18T14:59:13.232Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Hims & Hers CEO says FTC lawsuit misunderstands how the company works",
+          "link": "https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Hims & Hers CEO Andrew Dudum spoke to CNBC about the FTC's lawsuit against the company, compounded GLP-1 drugs and AI.",
+          "published": "2026-08-18T14:20:05.000Z"
+        },
         {
           "title": "Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales",
           "link": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html",
@@ -187,20 +195,44 @@
           "category": "markets",
           "snippet": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
           "published": "2026-08-17T19:14:03.000Z"
-        },
-        {
-          "title": "Film commission backs Amazon MGM expansion of Berkshire studios",
-          "link": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The Berkshire film studio was previously home to iconic horror studio Hammer Films.",
-          "published": "2026-08-17T18:03:39.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "I used to be excited about new tech, but I rarely am anymore",
+          "link": "https://82mhz.net/posts/2026/08/i-used-to-be-excited-about-new-tech-but-i-rarely-am-anymore/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T14:54:26.000Z"
+        },
+        {
+          "title": "Peacock is raising prices by up to $3",
+          "link": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.99…",
+          "published": "2026-08-18T14:11:39.000Z"
+        },
+        {
+          "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+          "link": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T14:06:50.000Z"
+        },
+        {
+          "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+          "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T13:38:23.000Z"
+        },
         {
           "title": "Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it",
           "link": "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery",
@@ -234,6 +266,14 @@
           "published": "2026-08-18T13:25:54.000Z"
         },
         {
+          "title": "The Amazon Tax",
+          "link": "https://seths.blog/2026/08/the-amazon-tax/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T13:22:38.000Z"
+        },
+        {
           "title": "Fixing a Bricked Framework Laptop",
           "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
           "source": "Hacker News",
@@ -242,15 +282,7 @@
           "published": "2026-08-18T13:18:40.000Z"
         },
         {
-          "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
-          "link": "https://github.com/mukundzha/avouch",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T13:13:17.000Z"
-        },
-        {
-          "title": "Kent Beck: Composable Tests",
+          "title": "Composable Tests",
           "link": "https://newsletter.kentbeck.com/p/composable-tests",
           "source": "Hacker News",
           "category": "tech",
@@ -272,14 +304,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-18T13:06:24.000Z"
-        },
-        {
-          "title": "Things That Used to Be Normal and Are Now a Luxury",
-          "link": "https://albertogalca.com/5-things-that-used-to-be-normal-and-are-now-a-luxury",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T13:01:40.000Z"
         },
         {
           "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -368,36 +392,36 @@
           "category": "tech",
           "snippet": "Pets, like children, come with the responsibility to keep them happy, healthy, and mentally stimulated - obligations I readily committed to before getting my cat, Trevor. I work from home, so he's never lonely, and play with him using a…",
           "published": "2026-08-18T11:30:00.000Z"
-        },
-        {
-          "title": "How I turned my fish tank high tech",
-          "link": "https://www.theverge.com/tech/978229/fish-tank-tech",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "When I was a kid, I owned two goldfish that eventually outgrew the size of their tank. At the time, I didn't realize just how much actually goes into having fish and keeping them healthy. I've learned a lot over the past couple of years…",
-          "published": "2026-08-18T11:15:00.000Z"
-        },
-        {
-          "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
-          "link": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Research shows heat amplifies the dangers of pesticides.",
-          "published": "2026-08-18T11:07:49.000Z"
-        },
-        {
-          "title": "Google buys crashed airline Spirit's data at auction, because AI",
-          "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T10:13:28.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Travel Trap For Legal Immigrants",
+          "link": "https://abovethelaw.com/2026/08/the-travel-trap-for-legal-immigrants/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Travel, once viewed as a routine part of life for legal immigrants, now requires careful legal and strategic consideration. The post The Travel Trap For Legal Immigrants appeared first on Above the Law .",
+          "published": "2026-08-18T14:42:00.000Z"
+        },
+        {
+          "title": "Appeals Court Sides With Providers In No Surprises Act Pay Dispute",
+          "link": "https://medcitynews.com/2026/08/provider-court-surprise-billing/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A court ruling struck down key parts of how regulators calculate the No Surprises Act's qualifying payment amount, siding with the Texas Medical Association's argument that the formula has historically favored payers in arbitration. The…",
+          "published": "2026-08-18T14:04:00.000Z"
+        },
+        {
+          "title": "The chief justice should share much of his power",
+          "link": "https://www.scotusblog.com/2026/08/the-chief-justice-should-share-much-of-his-power/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This is the fourth piece in a series on what I believe the court can, and should, do better. *** Under longstanding tradition, the chief justice presides over oral argument and the justices’ private conferences. I propose a change. The…",
+          "published": "2026-08-18T14:00:00.000Z"
+        },
         {
           "title": "What if one vote had changed in the birthright citizenship case?",
           "link": "https://www.scotusblog.com/2026/08/what-if-one-vote-had-changed-in-the-birthright-citizenship-case/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "In 2024, Justice Amy Coney Barrett ended the Supreme Court’s term with two dissents that complicated the usual descriptions of her as a textbook conservative. In Ohio v. EPA , decided on June 27, 2024, Barrett joined the court’s three…",
           "published": "2026-08-17T13:30:00.000Z"
-        },
-        {
-          "title": "Emergency docket heats up",
-          "link": "https://www.scotusblog.com/2026/08/emergency-docket-heats-up/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a refresher on the Supreme Court’s lottery system for oral argument tickets.",
-          "published": "2026-08-17T13:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 08.17.26",
-          "link": "https://abovethelaw.com/2026/08/morning-docket-08-17-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Trump's legal team at S C just keeps shrinking. [ Politico ] * Armed men claiming to be ICE agents try to bust into immigration law firm. [ Sacramento Bee ] * Already facing ethical questions, the Chicago US Attorney's Office now…",
-          "published": "2026-08-17T12:54:00.000Z"
-        },
-        {
-          "title": "Vances Learn That If You re Not In A Side Chat, The Side Chat Is About You See Generally",
-          "link": "https://abovethelaw.com/2026/08/vances-learn-that-if-youre-not-in-a-side-chat-the-side-chat-is-about-you-see-generally/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Yale Law Cool Kids' Chat: JD and Usha Vance's law school classmates have kept a private Signal chat running for years to gossip about the couple's improbable turn from Yale liberals to MAGA royalty. Mangione Tries For Double Jeopardy…",
-          "published": "2026-08-16T22:41:24.000Z"
         }
       ]
     }
