@@ -1,11 +1,19 @@
 {
-  "updated": "2026-08-18T16:19:41.922Z",
+  "updated": "2026-08-18T16:55:23.049Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Global borrowing costs hit fresh highs",
+          "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+          "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The network accuses the administration of retaliation against ABC, as it \"disapproves of what ABC broadcasts\".",
+          "published": "2026-08-18T16:22:54.000Z"
+        },
+        {
+          "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
           "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years.",
           "published": "2026-08-17T20:25:37.000Z"
-        },
-        {
-          "title": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
-          "link": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Disney Experiences chief Thomas Mazloum is focused on balancing the needs of its most ardent parkgoers with its less frequent visitors.",
-          "published": "2026-08-17T20:23:22.000Z"
         }
       ]
     },
@@ -202,12 +202,76 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Apple squashes EU beef with new App Store rules",
+          "link": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes, every developer…",
+          "published": "2026-08-18T16:48:26.000Z"
+        },
+        {
+          "title": "Claude: Degraded Performance for Multiple Models",
+          "link": "https://status.claude.com/incidents/q7txxvbsftgq",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T16:28:20.000Z"
+        },
+        {
+          "title": "Superpowers, Not Superintelligence",
+          "link": "https://bond.now/news/superpowers-not-superintelligence",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T16:27:41.000Z"
+        },
+        {
+          "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+          "link": "https://machine0.io",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T16:26:42.000Z"
+        },
+        {
+          "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
+          "link": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone…",
+          "published": "2026-08-18T16:26:29.000Z"
+        },
+        {
+          "title": "A local ePub eBook server for my xteink",
+          "link": "https://solariz.de/posts/26/04-xteink-local-epub-server",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T16:22:00.000Z"
+        },
+        {
+          "title": "Apple announces changes for apps in the European Union",
+          "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T16:21:34.000Z"
+        },
+        {
           "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
           "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans.",
           "published": "2026-08-18T15:36:47.000Z"
+        },
+        {
+          "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+          "link": "https://github.com/therepanic/openleetcode",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T15:30:40.000Z"
         },
         {
           "title": "X-rays add new twist to narwhal's spiral tusk",
@@ -226,28 +290,12 @@
           "published": "2026-08-18T14:54:44.000Z"
         },
         {
-          "title": "The coolest anti-surveillance tools at Defcon [video]",
-          "link": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T14:49:19.000Z"
-        },
-        {
           "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
           "link": "https://notactuallytreyanastasio.github.io/shoehorn/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-18T14:29:20.000Z"
-        },
-        {
-          "title": "Muse Glimmer is a memory hierarchy disguised as a 30B Transformer",
-          "link": "https://abstractextraordinary.com/blog/how-muse-glimmer-fits-an-agent-on-your-device/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T14:23:48.000Z"
         },
         {
           "title": "Peacock is raising prices by up to $3",
@@ -322,14 +370,6 @@
           "published": "2026-08-18T13:08:32.000Z"
         },
         {
-          "title": "Deus Ex creator Warren Spector is retiring from game development",
-          "link": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T13:06:24.000Z"
-        },
-        {
           "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
           "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
           "source": "Ars Technica",
@@ -352,46 +392,6 @@
           "category": "tech",
           "snippet": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show…",
           "published": "2026-08-18T13:00:00.000Z"
-        },
-        {
-          "title": "Using the railway network as a flatbed scanner",
-          "link": "https://philo.gay/linecam/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T12:43:54.000Z"
-        },
-        {
-          "title": "Fairphone is now officially available in the United States",
-          "link": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T12:42:53.000Z"
-        },
-        {
-          "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
-          "link": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T12:23:55.000Z"
-        },
-        {
-          "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-          "link": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T12:22:58.000Z"
-        },
-        {
-          "title": "Google s Pet Memory forgot who my cats are",
-          "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So,…",
-          "published": "2026-08-18T12:01:29.000Z"
         }
       ]
     },
