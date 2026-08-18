@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T21:14:06.710Z",
+  "updated": "2026-08-18T21:44:30.414Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,7 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling \"would be and is void.\"",
-          "published": "2026-08-18T21:04:05.000Z"
+          "published": "2026-08-18T21:29:03.000Z"
         },
         {
           "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+          "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T21:14:21.000Z"
+        },
+        {
           "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
           "link": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
           "source": "The Verge",
@@ -250,6 +258,14 @@
           "published": "2026-08-18T19:07:47.000Z"
         },
         {
+          "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+          "link": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
+          "published": "2026-08-18T19:01:09.000Z"
+        },
+        {
           "title": "Pacing model development in an era of cyber-critical capabilities",
           "link": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
           "source": "Hacker News",
@@ -264,6 +280,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-18T18:11:53.000Z"
+        },
+        {
+          "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+          "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
+          "published": "2026-08-18T18:11:26.000Z"
         },
         {
           "title": "Turbovec – Google's TurboQuant for vector search in Rust",
@@ -368,36 +392,20 @@
           "category": "tech",
           "snippet": "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans.",
           "published": "2026-08-18T15:36:47.000Z"
-        },
-        {
-          "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
-          "link": "https://github.com/therepanic/openleetcode",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T15:30:40.000Z"
-        },
-        {
-          "title": "X-rays add new twist to narwhal's spiral tusk",
-          "link": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "New study finds that the tusks have not one but two spirals, twisting in opposite directions.",
-          "published": "2026-08-18T15:00:51.000Z"
-        },
-        {
-          "title": "Peacock is raising prices by up to $3",
-          "link": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.99…",
-          "published": "2026-08-18T14:11:39.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The War For Legal Talent Is Here",
+          "link": "https://abovethelaw.com/2026/08/the-war-for-legal-talent-is-here/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Why law firms that ignore retention right now may pay for it for years. The post The War For Legal Talent Is Here appeared first on Above the Law .",
+          "published": "2026-08-18T21:35:00.000Z"
+        },
         {
           "title": "Judicial Immunity Still Applies Even If The Judge Let AI Decide The Case",
           "link": "https://abovethelaw.com/2026/08/judicial-immunity-still-applies-even-if-the-judge-let-ai-decide-the-case/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Thomas says Stanford Law is among the places where conservatives aren’t welcome. Stanford would apparently be happy to prove him wrong. The post Justice Clarence Thomas Says He’s Not Welcome At Stanford Law, But The School Says Otherwise…",
           "published": "2026-08-17T19:13:00.000Z"
-        },
-        {
-          "title": "Supreme Court Kills Trump s E. Jean Carroll Rehearing Request",
-          "link": "https://abovethelaw.com/2026/08/supreme-court-kills-trumps-e-jean-carroll-rehearing-request/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Trump's lawyers claimed they had the concepts of a plan for winning the case. The justices were not impressed. The post Supreme Court Kills Trump s E. Jean Carroll Rehearing Request appeared first on Above the Law .",
-          "published": "2026-08-17T18:32:00.000Z"
         }
       ]
     }
