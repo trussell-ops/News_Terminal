@@ -1,16 +1,32 @@
 {
-  "updated": "2026-08-18T13:17:57.607Z",
+  "updated": "2026-08-18T14:03:19.343Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales",
+          "link": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Brunswick Corp. CEO David Foulkes told CNBC premium boat sales are staying afloat, while value options are lagging.",
+          "published": "2026-08-18T14:02:03.000Z"
+        },
         {
           "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
           "link": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Disney's ABC has sued the FCC claiming its investigation and early broadcast licenses renewal are a 'retaliatory campaign' due to its programming.",
-          "published": "2026-08-18T13:11:30.000Z"
+          "published": "2026-08-18T13:55:20.000Z"
+        },
+        {
+          "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
+          "link": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
+          "published": "2026-08-18T13:43:28.000Z"
         },
         {
           "title": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
@@ -45,20 +61,12 @@
           "published": "2026-08-18T12:27:47.000Z"
         },
         {
-          "title": "Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales",
-          "link": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html",
-          "source": "CNBC Business",
+          "title": "From jumpers to slug pellets - how British wool is back in demand",
+          "link": "https://www.bbc.co.uk/news/articles/c8xnkjwdn5wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
           "category": "markets",
-          "snippet": "Brunswick Corp. CEO David Foulkes told CNBC premium boat sales are staying afloat, while value options are lagging.",
-          "published": "2026-08-18T11:59:01.000Z"
-        },
-        {
-          "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
-          "link": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
-          "published": "2026-08-18T11:48:01.000Z"
+          "snippet": "An increased demand in wool has meant prices have increased more than 70% in the last year.",
+          "published": "2026-08-18T11:18:39.000Z"
         },
         {
           "title": "Wetherspoons bans customers playing music from phones in pubs",
@@ -187,20 +195,76 @@
           "category": "markets",
           "snippet": "The Berkshire film studio was previously home to iconic horror studio Hammer Films.",
           "published": "2026-08-17T18:03:39.000Z"
-        },
-        {
-          "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
-          "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
-          "published": "2026-08-17T15:16:53.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it",
+          "link": "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "There's an argument to be made that people wouldn't be all that interested in Coyote vs. Acme if it weren't for the way David Zaslav tried to kill it. By trying to shelve the project, Warner Bros. Discovery only drew attention to its…",
+          "published": "2026-08-18T13:35:35.000Z"
+        },
+        {
+          "title": "Comcast is turning millions of its routers into motion detectors",
+          "link": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Comcast is bringing Wi-Fi motion sensing to millions of routers that are already in customers' homes, turning the devices into activity monitors. A new update to the Xfinity Internet app, arriving today, August 18th, enables the feature…",
+          "published": "2026-08-18T13:30:00.000Z"
+        },
+        {
+          "title": "ABC sues the FCC over Trump and Carr s campaign of threats",
+          "link": "https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "ABC is suing the Federal Communications Commission over claims the agency \"waged a retaliatory campaign\" against its networks over the content they broadcast. In a lawsuit filed in federal court on Tuesday, ABC and its parent company…",
+          "published": "2026-08-18T13:27:43.000Z"
+        },
+        {
+          "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "link": "https://github.com/pitiflautico/neobrowser",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T13:25:54.000Z"
+        },
+        {
+          "title": "Fixing a Bricked Framework Laptop",
+          "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T13:18:40.000Z"
+        },
+        {
+          "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+          "link": "https://github.com/mukundzha/avouch",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T13:13:17.000Z"
+        },
+        {
+          "title": "Kent Beck: Composable Tests",
+          "link": "https://newsletter.kentbeck.com/p/composable-tests",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T13:08:32.000Z"
+        },
+        {
+          "title": "Show HN: A local MitM proxy to control TLS fingerprints",
+          "link": "https://github.com/ytkoka/impersonate-proxy",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T13:07:50.000Z"
+        },
         {
           "title": "Deus Ex creator Warren Spector is retiring from game development",
           "link": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
@@ -210,12 +274,52 @@
           "published": "2026-08-18T13:06:24.000Z"
         },
         {
+          "title": "Things That Used to Be Normal and Are Now a Luxury",
+          "link": "https://albertogalca.com/5-things-that-used-to-be-normal-and-are-now-a-luxury",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T13:01:40.000Z"
+        },
+        {
+          "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+          "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+          "published": "2026-08-18T13:00:04.000Z"
+        },
+        {
+          "title": "Polaroid’s new Pokémon collection captures memories, not Pikachus",
+          "link": "https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Polaroid announced a new collection of cameras, instant film, and accessories all featuring limited-edition designs to help celebrate the 30th anniversary of Pok mon. The new collection goes a little harder than Fujifilm's Pok mon…",
+          "published": "2026-08-18T13:00:00.000Z"
+        },
+        {
+          "title": "Firefox s Smart Window promises a better AI browser",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show…",
+          "published": "2026-08-18T13:00:00.000Z"
+        },
+        {
           "title": "Using the railway network as a flatbed scanner",
           "link": "https://philo.gay/linecam/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-18T12:43:54.000Z"
+        },
+        {
+          "title": "Fairphone is now officially available in the United States",
+          "link": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T12:42:53.000Z"
         },
         {
           "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
@@ -266,14 +370,6 @@
           "published": "2026-08-18T11:30:00.000Z"
         },
         {
-          "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-          "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T11:27:03.000Z"
-        },
-        {
           "title": "How I turned my fish tank high tech",
           "link": "https://www.theverge.com/tech/978229/fish-tank-tech",
           "source": "The Verge",
@@ -290,114 +386,26 @@
           "published": "2026-08-18T11:07:49.000Z"
         },
         {
-          "title": "Fairphone’s latest repairable phone is going on sale in the US",
-          "link": "https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Fairphone 6 Plus is a minor hardware refresh, but a major launch for the company: It's the first phone that Fairphone is selling directly in the US. It's on sale now for $649.99, available through Fairphone's website and Amazon, and…",
-          "published": "2026-08-18T11:00:00.000Z"
-        },
-        {
-          "title": "Elon Musk made flying even worse so Palantir could profit",
-          "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days…",
-          "published": "2026-08-18T11:00:00.000Z"
-        },
-        {
-          "title": "ChatGPT is getting a dedicated mode for teens",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other…",
-          "published": "2026-08-18T11:00:00.000Z"
-        },
-        {
           "title": "Google buys crashed airline Spirit's data at auction, because AI",
           "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-18T10:13:28.000Z"
-        },
-        {
-          "title": "Apple s camera-equipped AirPods appear in leaked video",
-          "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up…",
-          "published": "2026-08-18T09:00:01.000Z"
-        },
-        {
-          "title": "Linux 7.3 improves performance when running out of vRAM",
-          "link": "https://pixelcluster.dev/VRAM-Overcommit/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T07:51:50.000Z"
-        },
-        {
-          "title": "Rethinking Database Programming",
-          "link": "https://acadia.engineering/blog/rethinking-database-programming",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T07:28:27.000Z"
-        },
-        {
-          "title": "Finger: Social network that never died",
-          "link": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T07:21:35.000Z"
-        },
-        {
-          "title": "Exercise intensity modulates interorgan communication and is associated with",
-          "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T04:51:33.000Z"
-        },
-        {
-          "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
-          "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
-          "published": "2026-08-18T04:00:40.000Z"
-        },
-        {
-          "title": "The Benchmarkpocalypse",
-          "link": "https://danluu.com/benchpocalypse/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T02:11:02.000Z"
-        },
-        {
-          "title": "Reddit’s AI is turning posts into podcasts and short videos",
-          "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main…",
-          "published": "2026-08-17T23:46:01.000Z"
-        },
-        {
-          "title": "Repair Cafe – Fix Your Broken Items",
-          "link": "https://www.repaircafe.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-17T23:28:28.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "What if one vote had changed in the birthright citizenship case?",
+          "link": "https://www.scotusblog.com/2026/08/what-if-one-vote-had-changed-in-the-birthright-citizenship-case/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "In Trump v. Barbara , the Supreme Court held that executive order 14160 , which attempted to end birthright citizenship for the children of undocumented immigrants and those temporarily residing in the United States, was unconstitutional…",
+          "published": "2026-08-18T13:30:00.000Z"
+        },
         {
           "title": "Trump v. Carroll and the Ten Commandments",
           "link": "https://www.scotusblog.com/2026/08/trump-v-carroll-and-the-ten-commandments/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Yale Law Cool Kids' Chat: JD and Usha Vance's law school classmates have kept a private Signal chat running for years to gossip about the couple's improbable turn from Yale liberals to MAGA royalty. Mangione Tries For Double Jeopardy…",
           "published": "2026-08-16T22:41:24.000Z"
-        },
-        {
-          "title": "Trump DOJ Uses Luigi Mangione Case To Spite Manhattan DA See Also",
-          "link": "https://abovethelaw.com/2026/08/trump-doj-uses-luigi-mangione-case-to-spite-manhattan-da-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Double Jeopardy Mushroom : The DOJ works out interstate stalking plea deal with Luigi Mangione so his lawyers can claim New York murder charges amount to double jeopardy . Nicole Kidman Is About To Play The Biglaw NDA Machine: A new…",
-          "published": "2026-08-14T22:43:00.000Z"
         }
       ]
     }
