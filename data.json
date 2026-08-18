@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T17:18:32.570Z",
+  "updated": "2026-08-18T17:50:55.811Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -81,7 +81,7 @@
           "link": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The state-owned yard on the Clyde will lose 70 of its 283 staff through a voluntary redundancy process.",
+          "snippet": "The state-owned yard on the Clyde will lose 70 of its 283 staff through a voluntary redundancy process as it awaits confirmation of promised new orders.",
           "published": "2026-08-18T12:56:34.000Z"
         },
         {
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+          "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T17:24:53.000Z"
+        },
+        {
+          "title": "PlayStation s wireless gaming speakers launch in November",
+          "link": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac,…",
+          "published": "2026-08-18T17:18:57.000Z"
+        },
+        {
+          "title": "Claude Code weekly limits reduce by a third tomorrow",
+          "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T17:02:15.000Z"
+        },
+        {
+          "title": "Why your Amazon order confirmation emails have become so unhelpful",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T16:54:42.000Z"
+        },
+        {
           "title": "Apple squashes EU beef with new App Store rules",
           "link": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
           "source": "The Verge",
@@ -210,7 +242,31 @@
           "published": "2026-08-18T16:48:26.000Z"
         },
         {
-          "title": "Claude: Degraded Performance for Multiple Models",
+          "title": "Peacock raises prices by 18 percent after becoming profitable",
+          "link": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Peacock's quarterly profitability isn't guaranteed.",
+          "published": "2026-08-18T16:42:30.000Z"
+        },
+        {
+          "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T16:40:07.000Z"
+        },
+        {
+          "title": "The United States is about to wake up to the threat from China's space program",
+          "link": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "One big question: Will China assert territorial rights where its rover explores?",
+          "published": "2026-08-18T16:30:07.000Z"
+        },
+        {
+          "title": "Degraded performance for multiple models",
           "link": "https://status.claude.com/incidents/q7txxvbsftgq",
           "source": "Hacker News",
           "category": "tech",
@@ -240,6 +296,22 @@
           "category": "tech",
           "snippet": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone…",
           "published": "2026-08-18T16:26:29.000Z"
+        },
+        {
+          "title": "Fairphone's latest repairable phone is finally available in the US for $650",
+          "link": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Fairphone sells components like the USB port and screen, all swappable with a single torx driver.",
+          "published": "2026-08-18T16:05:00.000Z"
+        },
+        {
+          "title": "Ford hopes this Hypercar will be its next Le Mans winner",
+          "link": "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The American automaker returns to the top category of endurance racing next year.",
+          "published": "2026-08-18T15:52:50.000Z"
         },
         {
           "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
@@ -272,14 +344,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-18T14:54:44.000Z"
-        },
-        {
-          "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
-          "link": "https://notactuallytreyanastasio.github.io/shoehorn/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T14:29:20.000Z"
         },
         {
           "title": "Peacock is raising prices by up to $3",
@@ -328,76 +392,28 @@
           "category": "tech",
           "snippet": "ABC is suing the Federal Communications Commission over claims the agency \"waged a retaliatory campaign\" against its networks over the content they broadcast. In a lawsuit filed in federal court on Tuesday, ABC and its parent company…",
           "published": "2026-08-18T13:27:43.000Z"
-        },
-        {
-          "title": "The Amazon Tax",
-          "link": "https://seths.blog/2026/08/the-amazon-tax/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T13:22:38.000Z"
-        },
-        {
-          "title": "Fixing a Bricked Framework Laptop",
-          "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T13:18:40.000Z"
-        },
-        {
-          "title": "Composable Tests",
-          "link": "https://newsletter.kentbeck.com/p/composable-tests",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T13:08:32.000Z"
-        },
-        {
-          "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-          "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-          "published": "2026-08-18T13:00:04.000Z"
-        },
-        {
-          "title": "Polaroid’s new Pokémon collection captures memories, not Pikachus",
-          "link": "https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Polaroid announced a new collection of cameras, instant film, and accessories all featuring limited-edition designs to help celebrate the 30th anniversary of Pok mon. The new collection goes a little harder than Fujifilm's Pok mon…",
-          "published": "2026-08-18T13:00:00.000Z"
-        },
-        {
-          "title": "Firefox s Smart Window promises a better AI browser",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show…",
-          "published": "2026-08-18T13:00:00.000Z"
-        },
-        {
-          "title": "Using the railway network as a flatbed scanner",
-          "link": "https://philo.gay/linecam/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T12:43:54.000Z"
-        },
-        {
-          "title": "Fairphone is now officially available in the United States",
-          "link": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T12:42:53.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Meet Me At ILTACON: Ajax, An Intelligent Timekeeper That Adapts To Your Existing Workflow",
+          "link": "https://abovethelaw.com/2026/08/meet-me-at-iltacon-ajax-an-intelligent-timekeeper-that-adapts-to-your-existing-workflow/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] Stop by booth 577 to see how Ajax can find your firm 12% more billable time. The post Meet Me At ILTACON: Ajax, An Intelligent Timekeeper That Adapts To Your Existing Workflow appeared first on Above the Law .",
+          "published": "2026-08-18T17:46:00.000Z"
+        },
+        {
+          "title": "Supreme Court urged to leave in place order blocking construction of White House ballroom",
+          "link": "https://www.scotusblog.com/2026/08/supreme-court-urged-to-leave-in-place-order-blocking-construction-of-white-house-ballroom/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Lawyers for the National Trust for Historic Preservation urged the Supreme Court on Tuesday afternoon to leave in place a ruling by a federal court in Washington, D.C., that would temporarily block construction of a new White House…",
+          "published": "2026-08-18T17:34:00.000Z"
+        },
         {
           "title": "In-House Lawyers: Who You Gonna Call?",
           "link": "https://abovethelaw.com/2026/08/in-house-lawyers-who-you-gonna-call/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "The massive legal tech conference is fast approaching. The post ILTACON Preview: What These Tech Leaders Expect To See appeared first on Above the Law .",
           "published": "2026-08-17T15:35:01.000Z"
-        },
-        {
-          "title": "The Temptation And Corruption Of Andrew Boutros",
-          "link": "https://abovethelaw.com/2026/08/the-temptation-and-corruption-of-andrew-boutros/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Shoulda stayed at Dechert, dude. The post The Temptation And Corruption Of Andrew Boutros appeared first on Above the Law .",
-          "published": "2026-08-17T14:48:00.000Z"
-        },
-        {
-          "title": "Court turns down Trump’s request to reconsider its refusal to hear Carroll suit against him",
-          "link": "https://www.scotusblog.com/2026/08/court-turns-down-trumps-request-to-reconsider-its-refusal-to-hear-carroll-suit-against-him/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Monday morning turned down President Donald Trump’s request to reconsider the justices’ denial of review in a civil suit brought by journalist E. Jean Carroll, which yielded a $5 million verdict against the president.…",
-          "published": "2026-08-17T14:46:00.000Z"
         }
       ]
     }
