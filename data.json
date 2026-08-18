@@ -1,15 +1,23 @@
 {
-  "updated": "2026-08-18T16:55:23.049Z",
+  "updated": "2026-08-18T17:18:32.570Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
+          "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
+          "link": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Disney's ABC has sued the FCC claiming its investigation and early broadcast licenses renewal are a \"retaliatory campaign\" due to its programming.",
+          "published": "2026-08-18T16:57:08.000Z"
+        },
+        {
           "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
           "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The network accuses the administration of retaliation against ABC, as it \"disapproves of what ABC broadcasts\".",
+          "snippet": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
           "published": "2026-08-18T16:22:54.000Z"
         },
         {
@@ -27,14 +35,6 @@
           "category": "markets",
           "snippet": "Brunswick Corp. CEO David Foulkes told CNBC premium boat sales are staying afloat, while value options are lagging.",
           "published": "2026-08-18T15:45:15.000Z"
-        },
-        {
-          "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
-          "link": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Disney's ABC has sued the FCC claiming its investigation and early broadcast licenses renewal are a 'retaliatory campaign' due to its programming.",
-          "published": "2026-08-18T15:28:10.000Z"
         },
         {
           "title": "Wetherspoons bans customers playing music from phones in pubs",
@@ -242,22 +242,6 @@
           "published": "2026-08-18T16:26:29.000Z"
         },
         {
-          "title": "A local ePub eBook server for my xteink",
-          "link": "https://solariz.de/posts/26/04-xteink-local-epub-server",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T16:22:00.000Z"
-        },
-        {
-          "title": "Apple announces changes for apps in the European Union",
-          "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T16:21:34.000Z"
-        },
-        {
           "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
           "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
           "source": "Ars Technica",
@@ -392,12 +376,36 @@
           "category": "tech",
           "snippet": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show…",
           "published": "2026-08-18T13:00:00.000Z"
+        },
+        {
+          "title": "Using the railway network as a flatbed scanner",
+          "link": "https://philo.gay/linecam/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T12:43:54.000Z"
+        },
+        {
+          "title": "Fairphone is now officially available in the United States",
+          "link": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T12:42:53.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "In-House Lawyers: Who You Gonna Call?",
+          "link": "https://abovethelaw.com/2026/08/in-house-lawyers-who-you-gonna-call/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "It’s time for our annual survey to determine the top outside counsel. The post In-House Lawyers: Who You Gonna Call? appeared first on Above the Law .",
+          "published": "2026-08-18T17:01:00.000Z"
+        },
         {
           "title": "Expert Asked ChatGPT Show How 3M Is 0% At Fault Making For Entertaining Deposition",
           "link": "https://abovethelaw.com/2026/08/expert-asked-chatgpt-show-how-3m-is-0-at-fault-making-for-entertaining-deposition/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "The Supreme Court on Monday morning turned down President Donald Trump’s request to reconsider the justices’ denial of review in a civil suit brought by journalist E. Jean Carroll, which yielded a $5 million verdict against the president.…",
           "published": "2026-08-17T14:46:00.000Z"
-        },
-        {
-          "title": "PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction For Sangamo Gene Therapy",
-          "link": "https://medcitynews.com/2026/08/ptc-sangamo-therapeutics-bankruptcy-auction-fabry-gene-therapybid-wins-bankruptcy-auction-for-sangamo-gene-therapy-ptct-sgmoq/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Sangamo Therapeutics filed for Chapter 11 bankruptcy in June after its search for strategic alternatives failed to find a path forward for the company. PTC Therapeutics’ auction win brings a Sangamo gene therapy candidate for Fabry…",
-          "published": "2026-08-17T14:03:00.000Z"
         }
       ]
     }
