@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T16:19:36.447Z",
+  "updated": "2026-08-19T16:53:29.392Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,15 +202,31 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "We reviewed the new Pixel lineup, ask us anything",
-          "link": "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama",
-          "source": "The Verge",
+          "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+          "link": "https://github.com/onecli/onecli",
+          "source": "Hacker News",
           "category": "tech",
-          "snippet": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your leisure. We're…",
-          "published": "2026-08-19T16:15:00.000Z"
+          "snippet": "Comments",
+          "published": "2026-08-19T16:29:02.000Z"
         },
         {
-          "title": "Civic Hygiene – avoid building technologies that could be used by a police state",
+          "title": "Extensible Software in the Age of LLMs",
+          "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T16:26:05.000Z"
+        },
+        {
+          "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+          "link": "https://arxiv.org/abs/2503.08679",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T16:18:57.000Z"
+        },
+        {
+          "title": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
           "link": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
           "source": "Hacker News",
           "category": "tech",
@@ -264,6 +280,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T15:28:01.000Z"
+        },
+        {
+          "title": "Mathematics in the Age of AI",
+          "link": "https://arxiv.org/abs/2608.16753",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T15:14:25.000Z"
         },
         {
           "title": "Amazon Fire TV devices are getting a free Alexa Plus upgrade",
@@ -338,6 +362,14 @@
           "published": "2026-08-19T12:00:00.000Z"
         },
         {
+          "title": "Amazon’s drones will soon deliver to nearly 500 US cities and towns",
+          "link": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Amazon says its drone delivery service will reach \"nearly 500 cities and towns in the United States\" by the end of this year, increasing its coverage by six times compared to the current footprint. Prime Air deliveries will soon be…",
+          "published": "2026-08-19T11:53:27.000Z"
+        },
+        {
           "title": "Devices with GrapheneOS support should be available in 2027",
           "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
           "source": "Hacker News",
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T10:15:00.000Z"
-        },
-        {
-          "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
-          "link": "https://www.modular.com/blog/modcon-announcements",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T07:47:19.000Z"
-        },
-        {
-          "title": "λλ: A Programming Language for Silicon Photonics",
-          "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T06:09:16.000Z"
-        },
-        {
-          "title": "Palomar: A registry of Lean verified mathematics",
-          "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T02:41:50.000Z"
-        },
-        {
-          "title": "OpenLogi",
-          "link": "https://openlogi.org/en",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T01:58:28.000Z"
         }
       ]
     },
