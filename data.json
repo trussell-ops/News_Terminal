@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-19T06:26:24.270Z",
+  "updated": "2026-08-19T07:13:14.943Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "UK inflation rises to 2.9%",
+          "title": "Jump in energy bills drives UK inflation to highest rate for four months",
           "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The cost of things is now rising at a faster pace compared with last month.",
-          "published": "2026-08-19T06:23:58.000Z"
+          "published": "2026-08-19T07:09:57.000Z"
         },
         {
           "title": "Minimum wage comments are 'madness', says business",
@@ -29,11 +29,11 @@
           "published": "2026-08-19T04:01:01.000Z"
         },
         {
-          "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+          "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
           "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+          "snippet": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
           "published": "2026-08-19T03:56:35.000Z"
         },
         {
@@ -201,14 +201,6 @@
     "tech": {
       "label": "Tech Developments",
       "items": [
-        {
-          "title": "Bun 1.4 Rust rewrite is not looking good",
-          "link": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T05:51:17.000Z"
-        },
         {
           "title": "Palomar: A registry of Lean verified mathematics",
           "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
           "published": "2026-08-18T18:11:26.000Z"
+        },
+        {
+          "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+          "link": "https://github.com/RyanCodrai/turbovec",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T18:07:21.000Z"
         }
       ]
     },
