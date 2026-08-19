@@ -1,15 +1,31 @@
 {
-  "updated": "2026-08-19T09:55:39.552Z",
+  "updated": "2026-08-19T10:19:59.765Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "States schools limited to 5 branded uniform items",
+          "title": "Target is set to report earnings before the bell. Here's what to expect",
+          "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Target is expected to report its fiscal second-quarter results Wednesday morning as the retailer offers a window into its turnaround progress.",
+          "published": "2026-08-19T10:06:56.000Z"
+        },
+        {
+          "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+          "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+          "published": "2026-08-19T09:58:24.000Z"
+        },
+        {
+          "title": "Limit reduced for branded school uniform items",
           "link": "https://www.bbc.co.uk/news/articles/c20j3zrgzv2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The States say the school uniform policy should be \"a welcome relief\" for household budgets.",
+          "snippet": "The States says the school uniform policy should be \"a welcome relief\" for families' budgets.",
           "published": "2026-08-19T09:44:06.000Z"
         },
         {
@@ -33,7 +49,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The 2.9% rise in inflation in July had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
+          "snippet": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
           "published": "2026-08-19T09:02:03.000Z"
         },
         {
@@ -51,14 +67,6 @@
           "category": "markets",
           "snippet": "Businesses, charities and politicans react to criticism of the minimum wage by a minister.",
           "published": "2026-08-19T05:13:07.000Z"
-        },
-        {
-          "title": "Target is set to report earnings before the bell. Here's what to expect",
-          "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Target is expected to report its fiscal second-quarter results Wednesday morning as the retailer offers a window into its turnaround progress.",
-          "published": "2026-08-19T04:01:01.000Z"
         },
         {
           "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
@@ -187,20 +195,20 @@
           "category": "markets",
           "snippet": "The state-owned yard on the Clyde will lose 70 of its 283 staff through a voluntary redundancy process as it awaits confirmation of promised new orders.",
           "published": "2026-08-18T12:56:34.000Z"
-        },
-        {
-          "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
-          "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Small firms cite labour and operating costs as reasons for scaling back hiring, the UK's statistics body says.",
-          "published": "2026-08-18T12:52:26.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Framework gave its 12-inch laptop some hardware upgrades",
+          "link": "https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The cheapest pre-built base configuration for the Framework…",
+          "published": "2026-08-19T10:14:26.000Z"
+        },
         {
           "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
           "link": "https://www.modular.com/blog/modcon-announcements",
@@ -216,14 +224,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T07:40:32.000Z"
-        },
-        {
-          "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
-          "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T07:35:59.000Z"
         },
         {
           "title": "λλ: A Programming Language for Silicon Photonics",
@@ -314,6 +314,14 @@
           "published": "2026-08-18T23:51:49.000Z"
         },
         {
+          "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+          "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "US healthcare is broken. Under RFK Jr., the research agency working to fix it is, too.",
+          "published": "2026-08-18T22:32:46.000Z"
+        },
+        {
           "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
           "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
           "source": "Ars Technica",
@@ -354,6 +362,14 @@
           "published": "2026-08-18T19:48:26.000Z"
         },
         {
+          "title": "Beware Management Consultants",
+          "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-18T19:29:51.000Z"
+        },
+        {
           "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
           "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
           "source": "The Verge",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-18T18:11:53.000Z"
-        },
-        {
-          "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
-          "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
-          "published": "2026-08-18T18:11:26.000Z"
-        },
-        {
-          "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-          "link": "https://github.com/RyanCodrai/turbovec",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T18:07:21.000Z"
         }
       ]
     },
