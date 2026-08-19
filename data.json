@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-19T18:19:20.788Z",
+  "updated": "2026-08-19T19:00:01.850Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "US long-term borrowing costs ease after government steps in",
+          "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+          "published": "2026-08-19T18:42:06.000Z"
+        },
+        {
+          "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+          "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+          "published": "2026-08-19T17:47:52.000Z"
+        },
         {
           "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
           "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
@@ -179,28 +195,28 @@
           "category": "markets",
           "snippet": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
           "published": "2026-08-18T20:39:36.000Z"
-        },
-        {
-          "title": "American Airlines to bring back TV screens on US flights",
-          "link": "https://www.bbc.co.uk/news/articles/c70glp55y95o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It is also adding more premium seats, with the changes aimed at improving the travel experience and boosting revenue.",
-          "published": "2026-08-18T20:17:33.000Z"
-        },
-        {
-          "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
-          "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
-          "published": "2026-08-18T18:20:08.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "The A.I. In Google's New Pixel 11 Is Not Helpful",
+          "link": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T18:32:20.000Z"
+        },
+        {
+          "title": "Introducing MicroLighter",
+          "link": "https://daverupert.com/2026/08/microlighter/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T18:28:48.000Z"
+        },
         {
           "title": "Watch Valve set up the Steam Frame in its own leaked videos",
           "link": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
@@ -226,15 +242,15 @@
           "published": "2026-08-19T17:56:15.000Z"
         },
         {
-          "title": "Opus 5.0 drives incoherence into the stratosphere",
-          "link": "https://github.com/anthropics/claude-code/issues/77136",
+          "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+          "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-19T17:40:06.000Z"
+          "published": "2026-08-19T17:45:41.000Z"
         },
         {
-          "title": "OpenRouter Is Joining Stripe",
+          "title": "Openrouter is joining Stripe",
           "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
           "source": "Hacker News",
           "category": "tech",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation.",
           "published": "2026-08-19T15:56:56.000Z"
-        },
-        {
-          "title": "Meta ran ads for an app promising to nudify female politicians",
-          "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
-          "published": "2026-08-19T15:45:29.000Z"
-        },
-        {
-          "title": "Remote workers report the highest well-being in study of 7,700 employees",
-          "link": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T15:32:08.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Meet Me At ILTACON: DocStyle, The Cutting Edge Of Advanced Document Tools",
+          "link": "https://abovethelaw.com/2026/08/meet-me-at-iltacon-docstyle-the-cutting-edge-of-advanced-document-tools/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] Stop by Booth 422 for a brand-new solution that allows for conversational access to repurpose, structure, and format firm documents. The post Meet Me At ILTACON: DocStyle, The Cutting Edge Of Advanced Document Tools appeared…",
+          "published": "2026-08-19T18:32:00.000Z"
+        },
         {
           "title": "The DOJ Insists There s No Serious Dispute About A Phrase Everyone Is Disputing",
           "link": "https://abovethelaw.com/2026/08/the-doj-insists-theres-no-serious-dispute-about-a-phrase-everyone-is-disputing/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "This had to be fun for the plaintiffs' attorney! The post Expert Asked ChatGPT Show How 3M Is 0% At Fault Making For Entertaining Deposition appeared first on Above the Law .",
           "published": "2026-08-18T16:12:00.000Z"
-        },
-        {
-          "title": "Avoiding The AI Efficiency Trap: What Biglaw Needs To Get Right",
-          "link": "https://abovethelaw.com/2026/08/avoiding-the-ai-efficiency-trap-what-biglaw-needs-to-get-right/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] Join our expert panel on Sept. 9 to hear key takeaways from ILTACON 2026 — and the implications for the law firm business model. The post Avoiding The AI Efficiency Trap: What Biglaw Needs To Get Right appeared first on Above…",
-          "published": "2026-08-18T15:33:00.000Z"
         }
       ]
     }
