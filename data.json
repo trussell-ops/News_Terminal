@@ -1,16 +1,24 @@
 {
-  "updated": "2026-08-19T19:49:48.654Z",
+  "updated": "2026-08-19T20:16:03.299Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "US long-term borrowing costs ease after government steps in",
-          "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
+          "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+          "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+          "source": "CNBC Business",
           "category": "markets",
-          "snippet": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
-          "published": "2026-08-19T19:26:06.000Z"
+          "snippet": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
+          "published": "2026-08-19T20:00:17.000Z"
+        },
+        {
+          "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
+          "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
+          "published": "2026-08-19T20:00:13.000Z"
         },
         {
           "title": "Canada and US say they are finalising a trade deal, but details remain murky",
@@ -18,15 +26,15 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-          "published": "2026-08-19T17:47:52.000Z"
+          "published": "2026-08-19T19:59:14.000Z"
         },
         {
-          "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-          "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-          "source": "CNBC Business",
+          "title": "US long-term borrowing costs ease after government steps in",
+          "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
           "category": "markets",
-          "snippet": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
-          "published": "2026-08-19T17:22:29.000Z"
+          "snippet": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+          "published": "2026-08-19T19:26:06.000Z"
         },
         {
           "title": "US retail giant receives $1bn boost from tariff refunds",
@@ -67,14 +75,6 @@
           "category": "markets",
           "snippet": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
           "published": "2026-08-19T15:47:31.000Z"
-        },
-        {
-          "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-          "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
-          "published": "2026-08-19T14:58:26.000Z"
         },
         {
           "title": "Track defect found near derailment site - report",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Nielsen is leaning more on wearables to hear what people are watching",
+          "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of…",
+          "published": "2026-08-19T19:53:09.000Z"
+        },
+        {
           "title": "Pixel 11 Pro Fold feels like the end of an era",
           "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
           "source": "Hacker News",
@@ -210,20 +218,20 @@
           "published": "2026-08-19T19:43:48.000Z"
         },
         {
+          "title": "You Probably Don't Get Why Stripe Bought OpenRouter",
+          "link": "https://www.amppublic.com/research/openrouter",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T19:39:36.000Z"
+        },
+        {
           "title": "From Quantum Relative Entropy to the Semiclassical Einstein Equations",
           "link": "https://arxiv.org/abs/2510.24491",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T19:31:02.000Z"
-        },
-        {
-          "title": "Daily Reminder to Not Listen to Google's AI Overview",
-          "link": "https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T19:26:46.000Z"
         },
         {
           "title": "Ramp Launches a Model Router",
@@ -384,20 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T16:29:02.000Z"
-        },
-        {
-          "title": "Extensible Software in the age of LLMs",
-          "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T16:26:05.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "IBM’s 2026 Data Breach Report: Houston, We Have A Problem",
+          "link": "https://abovethelaw.com/2026/08/ibms-2026-data-breach-report-houston-we-have-a-problem/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "'AI adoption is outpacing oversight.' The post IBM’s 2026 Data Breach Report: Houston, We Have A Problem appeared first on Above the Law .",
+          "published": "2026-08-19T20:01:00.000Z"
+        },
         {
           "title": "DOJ Civil Rights Attorneys Leaving To Save Their Law Licenses, Whistleblower Tells Congress",
           "link": "https://abovethelaw.com/2026/08/doj-civil-rights-attorneys-leaving-to-save-their-law-licenses-whistleblower-tells-congress/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Lawyers for the National Trust for Historic Preservation urged the Supreme Court on Tuesday afternoon to leave in place a ruling by a federal court in Washington, D.C., that would temporarily block construction of a new White House…",
           "published": "2026-08-18T17:34:00.000Z"
-        },
-        {
-          "title": "In-House Lawyers: Who You Gonna Call?",
-          "link": "https://abovethelaw.com/2026/08/in-house-lawyers-who-you-gonna-call/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "It’s time for our annual survey to determine the top outside counsel. The post In-House Lawyers: Who You Gonna Call? appeared first on Above the Law .",
-          "published": "2026-08-18T17:01:00.000Z"
         }
       ]
     }
