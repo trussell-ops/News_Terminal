@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-19T22:14:27.883Z",
+  "updated": "2026-08-19T22:47:55.886Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "US national debt passes $40tn after doubling in a decade",
+          "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+          "published": "2026-08-19T22:31:46.000Z"
+        },
         {
           "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
           "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
@@ -27,14 +35,6 @@
           "category": "markets",
           "snippet": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
           "published": "2026-08-19T19:59:14.000Z"
-        },
-        {
-          "title": "US long-term borrowing costs ease after government steps in",
-          "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
-          "published": "2026-08-19T19:26:06.000Z"
         },
         {
           "title": "US retail giant receives $1bn boost from tariff refunds",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Does giving a camera wings dodge the FCC’s drone ban?",
+          "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to…",
+          "published": "2026-08-19T22:35:20.000Z"
+        },
+        {
+          "title": "Collaborative Human Agent Protocol (CHAP)",
+          "link": "https://github.com/BrightbeamAI/chap",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T22:09:16.000Z"
+        },
+        {
+          "title": "Anthropic Refuses to Support Agents.md",
+          "link": "https://github.com/anthropics/claude-code/issues/6235",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T21:19:50.000Z"
+        },
+        {
+          "title": "Os8088.com: IBM XT OS now has a Browser, CP&#x2F;M 2.2 with Z80 core and MS Word 1.1a",
+          "link": "https://os8088.com/spotlight/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T21:11:31.000Z"
+        },
+        {
           "title": "DFlash 2: Keep Drafting Parallel",
           "link": "https://inco.ai/blog/dflash2/",
           "source": "Hacker News",
@@ -258,14 +290,6 @@
           "published": "2026-08-19T19:45:19.000Z"
         },
         {
-          "title": "From Quantum Relative Entropy to the Semiclassical Einstein Equations (2025)",
-          "link": "https://arxiv.org/abs/2510.24491",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T19:31:02.000Z"
-        },
-        {
           "title": "Unlocking a locked&#x2F;deactivated e-waste Cricut Maker",
           "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
           "source": "Hacker News",
@@ -312,14 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T18:33:49.000Z"
-        },
-        {
-          "title": "Introducing MicroLighter",
-          "link": "https://daverupert.com/2026/08/microlighter/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T18:28:48.000Z"
         },
         {
           "title": "Watch Valve set up the Steam Frame in its own leaked videos",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "\"I will tear apart this forest and bring back what it took from me.\"",
           "published": "2026-08-19T17:06:06.000Z"
-        },
-        {
-          "title": "GTA VI keeps leaking ahead of its gameplay premiere",
-          "link": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've seen three clips…",
-          "published": "2026-08-19T17:03:11.000Z"
-        },
-        {
-          "title": "Meta AI is getting a Mac app",
-          "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on…",
-          "published": "2026-08-19T17:00:00.000Z"
         }
       ]
     },
