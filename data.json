@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-19T16:53:29.392Z",
+  "updated": "2026-08-19T17:18:23.984Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "US retail giant receives $1bn boost from tariff refunds",
+          "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
+          "published": "2026-08-19T17:07:49.000Z"
+        },
         {
           "title": "Jump in energy bills drives UK inflation to highest rate for four months",
           "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
@@ -43,14 +51,6 @@
           "category": "markets",
           "snippet": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
           "published": "2026-08-19T14:58:26.000Z"
-        },
-        {
-          "title": "US retail giant receives $1bn boost from tariff refunds",
-          "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
-          "published": "2026-08-19T14:47:02.000Z"
         },
         {
           "title": "Track defect found near derailment site - report",
@@ -202,6 +202,46 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "OpenAI hit the brakes. Now what?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of…",
+          "published": "2026-08-19T17:10:09.000Z"
+        },
+        {
+          "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
+          "link": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"I will tear apart this forest and bring back what it took from me.\"",
+          "published": "2026-08-19T17:06:06.000Z"
+        },
+        {
+          "title": "GTA VI keeps leaking ahead of its gameplay premiere",
+          "link": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've seen three clips…",
+          "published": "2026-08-19T17:03:11.000Z"
+        },
+        {
+          "title": "Meta AI is getting a Mac app",
+          "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on…",
+          "published": "2026-08-19T17:00:00.000Z"
+        },
+        {
+          "title": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
+          "link": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The vaccine reportedly thwarted the cancer's return and spread.",
+          "published": "2026-08-19T16:53:56.000Z"
+        },
+        {
           "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
           "link": "https://github.com/onecli/onecli",
           "source": "Hacker News",
@@ -218,12 +258,36 @@
           "published": "2026-08-19T16:26:05.000Z"
         },
         {
+          "title": "How Kubernetes Probes Work",
+          "link": "https://ngrok.com/blog/probes",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T16:25:37.000Z"
+        },
+        {
           "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
           "link": "https://arxiv.org/abs/2503.08679",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T16:18:57.000Z"
+        },
+        {
+          "title": "We reviewed the new Pixel lineup, ask us anything",
+          "link": "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your leisure. We're…",
+          "published": "2026-08-19T16:15:00.000Z"
+        },
+        {
+          "title": "Google Pixel 11 series review: Is the magic fading?",
+          "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Google's new Pixels make some compromises but still manage to be good phones.",
+          "published": "2026-08-19T16:11:30.000Z"
         },
         {
           "title": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
@@ -264,6 +328,22 @@
           "category": "tech",
           "snippet": "It'd be easy to overlook the Pixel 11. Want the best cameras? The Pixel 11 Pro is your answer. Want the best bargain? The Pixel 10A is still a great deal. But the Pixel 11 might be the sweet spot in Google's lineup this year. With 12GB of…",
           "published": "2026-08-19T16:00:00.000Z"
+        },
+        {
+          "title": "Scientists find closest star to the Milky Way's central black hole",
+          "link": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation.",
+          "published": "2026-08-19T15:56:56.000Z"
+        },
+        {
+          "title": "Meta ran ads for an app promising to nudify female politicians",
+          "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
+          "published": "2026-08-19T15:45:29.000Z"
         },
         {
           "title": "Remote workers report the highest well-being in study of 7,700 employees",
@@ -312,92 +392,20 @@
           "category": "tech",
           "snippet": "Robot vacuums are great at keeping your floors clean, but there are a few areas they fall down on the job - stairs being one. Another is chairs and stools. You know the scenario: You have a row of stools at a kitchen table, or chairs…",
           "published": "2026-08-19T14:00:00.000Z"
-        },
-        {
-          "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
-          "link": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T13:33:35.000Z"
-        },
-        {
-          "title": "PostgreSQL for Everything",
-          "link": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T13:21:21.000Z"
-        },
-        {
-          "title": "Amazon seemingly leaked Jason Statham’s entire Mutiny movie",
-          "link": "https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Jason Statham's upcoming film Mutiny is set to hit theaters on August 21st, but for at least an hour today it was available to stream in full on the US version of Amazon Prime Video. My colleague Dominic Preston was able to verify that…",
-          "published": "2026-08-19T12:32:00.000Z"
-        },
-        {
-          "title": "Geolocating a random island using geometry and CUDA programming",
-          "link": "https://yassa9.github.io/osint/gralhix-004/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T12:19:52.000Z"
-        },
-        {
-          "title": "Nvidia’s new financial strategy does not compute",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR…",
-          "published": "2026-08-19T12:00:00.000Z"
-        },
-        {
-          "title": "The women’s soccer league trying to fix fantasy sports",
-          "link": "https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Most fantasy sports leagues suffer the same problem: retention. Leagues play out over monthslong seasons, require regular attention, and can punish players severely for missing even a single week. I've started Fantasy Premier League (FPL)…",
-          "published": "2026-08-19T12:00:00.000Z"
-        },
-        {
-          "title": "Amazon’s drones will soon deliver to nearly 500 US cities and towns",
-          "link": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Amazon says its drone delivery service will reach \"nearly 500 cities and towns in the United States\" by the end of this year, increasing its coverage by six times compared to the current footprint. Prime Air deliveries will soon be…",
-          "published": "2026-08-19T11:53:27.000Z"
-        },
-        {
-          "title": "Devices with GrapheneOS support should be available in 2027",
-          "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T11:46:58.000Z"
-        },
-        {
-          "title": "A joke domain purchase turned in geopolitical warfare",
-          "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T11:21:50.000Z"
-        },
-        {
-          "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-          "link": "https://theremin.bizibah.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T10:15:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Prominent Lawyer Charged In Penn State Frat Cocaine Ring",
+          "link": "https://abovethelaw.com/2026/08/prominent-lawyer-charged-in-penn-state-frat-cocaine-ring/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Father of one of the alleged ringleaders among those arrested. The post Prominent Lawyer Charged In Penn State Frat Cocaine Ring appeared first on Above the Law .",
+          "published": "2026-08-19T17:01:00.000Z"
+        },
         {
           "title": "The Legal Tech-To-English Dictionary (2.0): Working With AI In A Professional Environment",
           "link": "https://abovethelaw.com/2026/07/the-legal-tech-to-english-dictionary-2-0-the-ghosts-of-artificial-intelligence-past-3-2/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "A court ruling struck down key parts of how regulators calculate the No Surprises Act's qualifying payment amount, siding with the Texas Medical Association's argument that the formula has historically favored payers in arbitration. The…",
           "published": "2026-08-18T14:04:00.000Z"
-        },
-        {
-          "title": "The chief justice should share much of his power",
-          "link": "https://www.scotusblog.com/2026/08/the-chief-justice-should-share-much-of-his-power/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This is the fourth piece in a series on what I believe the court can, and should, do better. *** Under longstanding tradition, the chief justice presides over oral argument and the justices’ private conferences. I propose a change. The…",
-          "published": "2026-08-18T14:00:00.000Z"
         }
       ]
     }
