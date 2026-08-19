@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-19T00:40:07.646Z",
+  "updated": "2026-08-19T02:12:13.504Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Chinese robotics giant Unitree soars in stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
+          "published": "2026-08-19T02:09:46.000Z"
+        },
         {
           "title": "The critical tech staying safe by going underground",
           "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
@@ -187,20 +195,68 @@
           "category": "markets",
           "snippet": "The change, which has been welcomed by campaign groups, will come into effect in England from April.",
           "published": "2026-08-18T06:11:30.000Z"
-        },
-        {
-          "title": "Homeowner feared energy grant scheme was a scam",
-          "link": "https://www.bbc.co.uk/news/articles/cglj8nx56ewo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Councils in Cambridgeshire have asked the government for more money after the success of the scheme.",
-          "published": "2026-08-18T05:16:35.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "The Integer",
+          "link": "https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T01:23:45.000Z"
+        },
+        {
+          "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
+          "link": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T01:22:45.000Z"
+        },
+        {
+          "title": "Tiny satellite will use the dark side of the Moon as a shield",
+          "link": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T01:06:03.000Z"
+        },
+        {
+          "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+          "link": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T00:53:51.000Z"
+        },
+        {
+          "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+          "link": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T00:48:23.000Z"
+        },
+        {
+          "title": "Cerebras CS-4",
+          "link": "https://www.cerebras.ai/cs4",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T00:28:18.000Z"
+        },
+        {
+          "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
+          "link": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T00:11:35.000Z"
+        },
         {
           "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
           "link": "https://modelmap.cc",
@@ -234,14 +290,6 @@
           "published": "2026-08-18T22:32:46.000Z"
         },
         {
-          "title": "Programmable Property-Based Testing",
-          "link": "https://dl.acm.org/doi/10.1145/3828685",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T22:22:41.000Z"
-        },
-        {
           "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
           "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
           "source": "Ars Technica",
@@ -272,14 +320,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-18T21:50:33.000Z"
-        },
-        {
-          "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-          "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T21:14:21.000Z"
         },
         {
           "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
@@ -352,46 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-18T18:07:21.000Z"
-        },
-        {
-          "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-          "link": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original…",
-          "published": "2026-08-18T17:47:04.000Z"
-        },
-        {
-          "title": "PlayStation s wireless gaming speakers launch in November",
-          "link": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac,…",
-          "published": "2026-08-18T17:18:57.000Z"
-        },
-        {
-          "title": "And then the men with guns tell you to do it anyway",
-          "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T17:11:28.000Z"
-        },
-        {
-          "title": "Claude Code May–August 2026 weekly limits promotion",
-          "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T17:02:15.000Z"
-        },
-        {
-          "title": "Apple squashes EU beef with new App Store rules",
-          "link": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes, every developer…",
-          "published": "2026-08-18T16:48:26.000Z"
         }
       ]
     },
