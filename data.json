@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-19T07:13:14.943Z",
+  "updated": "2026-08-19T07:59:44.729Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Chinese robotics giant Unitree soars in stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
+          "published": "2026-08-19T07:19:30.000Z"
+        },
         {
           "title": "Jump in energy bills drives UK inflation to highest rate for four months",
           "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
@@ -17,7 +25,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cgk45ppm0lyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Businesses, charities and politicans have reacted to criticism of the minimum wage by a minister.",
+          "snippet": "Businesses, charities and politicans react to criticism of the minimum wage by a minister.",
           "published": "2026-08-19T05:13:07.000Z"
         },
         {
@@ -35,14 +43,6 @@
           "category": "markets",
           "snippet": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
           "published": "2026-08-19T03:56:35.000Z"
-        },
-        {
-          "title": "Chinese robotics giant Unitree soars in stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
-          "published": "2026-08-19T03:26:27.000Z"
         },
         {
           "title": "The critical tech staying safe by going underground",
@@ -201,6 +201,14 @@
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "λλ: A Programming Language for Silicon Photonics",
+          "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T06:09:16.000Z"
+        },
         {
           "title": "Palomar: A registry of Lean verified mathematics",
           "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
           "published": "2026-08-18T18:11:26.000Z"
-        },
-        {
-          "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-          "link": "https://github.com/RyanCodrai/turbovec",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T18:07:21.000Z"
         }
       ]
     },
