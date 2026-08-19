@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-19T23:14:17.431Z",
+  "updated": "2026-08-19T23:43:37.647Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+          "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+          "published": "2026-08-19T23:32:37.000Z"
+        },
         {
           "title": "I quit my £80,000 job to make ice cream - here's how",
           "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
@@ -35,14 +43,6 @@
           "category": "markets",
           "snippet": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
           "published": "2026-08-19T20:00:13.000Z"
-        },
-        {
-          "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-          "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-          "published": "2026-08-19T19:59:14.000Z"
         },
         {
           "title": "US retail giant receives $1bn boost from tariff refunds",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "The Future of CSS: Target Multiple Classes with the Class Prefix Selector",
+          "link": "https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T22:51:17.000Z"
+        },
+        {
           "title": "Does giving a camera wings dodge the FCC’s drone ban?",
           "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
           "source": "The Verge",
@@ -218,7 +226,15 @@
           "published": "2026-08-19T22:09:16.000Z"
         },
         {
-          "title": "Anthropic Refuses to Support Agents.md",
+          "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+          "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
+          "published": "2026-08-19T22:02:38.000Z"
+        },
+        {
+          "title": "Feature Request: Support AGENTS.md",
           "link": "https://github.com/anthropics/claude-code/issues/6235",
           "source": "Hacker News",
           "category": "tech",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T17:32:38.000Z"
-        },
-        {
-          "title": "OpenAI hit the brakes. Now what?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of…",
-          "published": "2026-08-19T17:10:09.000Z"
-        },
-        {
-          "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
-          "link": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"I will tear apart this forest and bring back what it took from me.\"",
-          "published": "2026-08-19T17:06:06.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Jim Comey Case Proves Words Are Hard For DOJ See Also",
+          "link": "https://abovethelaw.com/2026/08/jim-comey-case-proves-words-are-hard-for-doj-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "86 : DOJ says no one disputes the meaning of term that literally everyone disputes . Get Out While You Can : Meanwhile, DOJ whistleblower disclosure suggests government attorneys are starting to fear losing their licenses when this is all…",
+          "published": "2026-08-19T23:34:00.000Z"
+        },
         {
           "title": "Taft s Timely Legacy",
           "link": "https://abovethelaw.com/2026/08/tafts-timely-legacy/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "The industry’s strong first half looks poised to continue into the third quarter. The post Biglaw Revenue Jumps Double Digits As Demand Remains Strong appeared first on Above the Law .",
           "published": "2026-08-18T20:04:00.000Z"
-        },
-        {
-          "title": "The Trump Administration Says The Names Of The People Who Wrote The Biglaw Executive Orders Are A Secret",
-          "link": "https://abovethelaw.com/2026/08/the-trump-administration-says-the-names-of-the-people-who-wrote-the-biglaw-executive-orders-are-a-secret/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The DOJ is arguing a wildly expansive view of executive privilege. The post The Trump Administration Says The Names Of The People Who Wrote The Biglaw Executive Orders Are A Secret appeared first on Above the Law .",
-          "published": "2026-08-18T19:15:19.000Z"
         }
       ]
     }
