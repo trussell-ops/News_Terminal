@@ -1,16 +1,24 @@
 {
-  "updated": "2026-08-19T10:19:59.765Z",
+  "updated": "2026-08-19T10:52:03.036Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Target is set to report earnings before the bell. Here's what to expect",
+          "title": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
           "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
           "source": "CNBC Business",
           "category": "markets",
-          "snippet": "Target is expected to report its fiscal second-quarter results Wednesday morning as the retailer offers a window into its turnaround progress.",
-          "published": "2026-08-19T10:06:56.000Z"
+          "snippet": "Target posted better-than-expected second-quarter sales and raised its full-year outlook.",
+          "published": "2026-08-19T10:45:39.000Z"
+        },
+        {
+          "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+          "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Lowe's reported mixed results as the retailer said it continued to see pressure in home improvement spending.",
+          "published": "2026-08-19T10:45:20.000Z"
         },
         {
           "title": "What's happening to UK interest rates and what does it mean for mortgages?",
@@ -187,20 +195,20 @@
           "category": "markets",
           "snippet": "American is trying to add more premium seating and passenger perks after falling behind rivals Delta and United.",
           "published": "2026-08-18T13:00:01.000Z"
-        },
-        {
-          "title": "Ferguson shipyard to cut a quarter of its workforce",
-          "link": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The state-owned yard on the Clyde will lose 70 of its 283 staff through a voluntary redundancy process as it awaits confirmation of promised new orders.",
-          "published": "2026-08-18T12:56:34.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+          "link": "https://theremin.bizibah.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-19T10:15:00.000Z"
+        },
         {
           "title": "Framework gave its 12-inch laptop some hardware upgrades",
           "link": "https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability",
@@ -272,14 +280,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T01:36:40.000Z"
-        },
-        {
-          "title": "Tiny satellite will use the dark side of the Moon as a shield",
-          "link": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T01:06:03.000Z"
         },
         {
           "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
@@ -362,14 +362,6 @@
           "published": "2026-08-18T19:48:26.000Z"
         },
         {
-          "title": "Beware Management Consultants",
-          "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-18T19:29:51.000Z"
-        },
-        {
           "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
           "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
           "source": "The Verge",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-18T18:11:53.000Z"
+        },
+        {
+          "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+          "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
+          "published": "2026-08-18T18:11:26.000Z"
         }
       ]
     },
