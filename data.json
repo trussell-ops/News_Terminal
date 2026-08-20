@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-20T14:06:28.619Z",
+  "updated": "2026-08-20T15:02:21.297Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
-          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+          "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
+          "link": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
           "source": "CNBC Business",
           "category": "markets",
-          "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
-          "published": "2026-08-20T13:48:48.000Z"
+          "snippet": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
+          "published": "2026-08-20T14:59:55.000Z"
         },
         {
           "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
@@ -18,7 +18,23 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Suella Braverman also advised student's \"not to get ripped off by the great university scam\".",
-          "published": "2026-08-20T13:46:43.000Z"
+          "published": "2026-08-20T14:23:41.000Z"
+        },
+        {
+          "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
+          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
+          "published": "2026-08-20T14:21:29.000Z"
+        },
+        {
+          "title": "Where commercial real estate demand is the highest, according to new data",
+          "link": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The National Association of Realtors has released a new index that uses factors in local economies to indicate future demand.",
+          "published": "2026-08-20T14:21:00.000Z"
         },
         {
           "title": "How wealthy families can prepare for aging parents and avoid a succession crisis",
@@ -43,14 +59,6 @@
           "category": "markets",
           "snippet": "The GV90 features a new design direction for Genesis and expands the Hyundai brand's lineup to seven vehicles in the U.S.",
           "published": "2026-08-20T12:45:35.000Z"
-        },
-        {
-          "title": "Where commercial real estate demand is the highest, according to new data",
-          "link": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The National Association of Realtors has released a new index that uses factors in local economies to indicate future demand.",
-          "published": "2026-08-20T12:38:23.000Z"
         },
         {
           "title": "Thousands helped with back to school costs",
@@ -187,20 +195,92 @@
           "category": "markets",
           "snippet": "The digital bank said all of its services were now \"back up and running\"",
           "published": "2026-08-19T16:04:16.000Z"
-        },
-        {
-          "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-          "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
-          "published": "2026-08-19T15:47:31.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Amazon s drone deliveries are landing in pools and ponds",
+          "link": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Amazon's speedy drone delivery service will soon reach 500 cities across the US - but that might just mean there are more pools to drop packages into. On Wednesday, ABC7 News Bay Area shared a video showing an Amazon delivery drone…",
+          "published": "2026-08-20T14:59:21.000Z"
+        },
+        {
+          "title": "Genesis joins the giant electric SUV club with new GV90",
+          "link": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
+          "published": "2026-08-20T14:35:58.000Z"
+        },
+        {
+          "title": "Grok.bot – the epic domain lottery ticket",
+          "link": "https://grok.bot/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T14:34:16.000Z"
+        },
+        {
+          "title": "Slack Code",
+          "link": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T14:21:25.000Z"
+        },
+        {
+          "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
+          "link": "https://www.bbc.com/news/articles/clyq011414eo",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T14:18:16.000Z"
+        },
+        {
+          "title": "An elliptic curve of rank ≥ 30",
+          "link": "https://elliptic-rank.icarm.cloud/curve/273",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T14:14:39.000Z"
+        },
+        {
+          "title": "Bun 1.4",
+          "link": "https://bun.com/blog/bun-v1.4",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T14:10:12.000Z"
+        },
+        {
+          "title": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
+          "link": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all 170 Tesla Robotaxi…",
+          "published": "2026-08-20T14:09:31.000Z"
+        },
+        {
+          "title": "Hacking with Claude on a $27 Smart Watch",
+          "link": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T14:08:09.000Z"
+        },
+        {
+          "title": "Stwipe Acquires OpenWouter",
+          "link": "https://stwipe.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T14:04:46.000Z"
+        },
         {
           "title": "Here’s what data Comcast says its motion-detecting routers collect",
           "link": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
@@ -250,12 +330,44 @@
           "published": "2026-08-20T14:00:00.000Z"
         },
         {
+          "title": "SpaceX’s orbital data centers would create a new category of e-waste",
+          "link": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The yeetcycling math resembles asteroid mining in reverse.",
+          "published": "2026-08-20T13:59:50.000Z"
+        },
+        {
+          "title": "Every Model Cheats",
+          "link": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T13:56:59.000Z"
+        },
+        {
+          "title": "CI jobs artifacts should not be difficult",
+          "link": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T13:44:27.000Z"
+        },
+        {
           "title": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
           "link": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily review, manage, and wirelessly download your pocket camera's…",
           "published": "2026-08-20T13:30:00.000Z"
+        },
+        {
+          "title": "Reverse-lookup service exposed millions of photos of people’s faces",
+          "link": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
+          "published": "2026-08-20T13:29:54.000Z"
         },
         {
           "title": "DiffusionGemma Technical Report",
@@ -280,118 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-20T13:12:21.000Z"
-        },
-        {
-          "title": "NASA gives up on trying to rescue the Swift telescope",
-          "link": "https://www.theverge.com/science/982661/nasa-katalyst-swift-rescue-mission-failure-update",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Plans to rescue NASA's Swift Observatory satellite from falling into Earth's atmosphere are seemingly dead in the water. The agency and Katalyst Space announced yesterday that the Link spacecraft will no longer capture or boost the Swift…",
-          "published": "2026-08-20T13:04:37.000Z"
-        },
-        {
-          "title": "UK internet age checks have boosted rogue adult sites, says Pornhub",
-          "link": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T13:01:40.000Z"
-        },
-        {
-          "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-          "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-          "published": "2026-08-20T13:00:35.000Z"
-        },
-        {
-          "title": "I bought DJI’s banned camera — it was cheap and easy",
-          "link": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "As a kid, I always imagined the \"black market\" would be like the movies: Shady vendors hawking illicit goods along dusty streets. But if you want a banned DJI Osmo Pocket 4 or Pocket 4 Pro camera in the US, you can just reach for your…",
-          "published": "2026-08-20T13:00:00.000Z"
-        },
-        {
-          "title": "Browser De-Slop",
-          "link": "https://www.sacredheartsc.com/blog/browser-de-slop/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T12:19:37.000Z"
-        },
-        {
-          "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-          "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T12:04:38.000Z"
-        },
-        {
-          "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
-          "link": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T12:00:23.000Z"
-        },
-        {
-          "title": "Meta glasses are a workplace menace",
-          "link": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item - but even after Hinkle told them the item was $20, the…",
-          "published": "2026-08-20T12:00:00.000Z"
-        },
-        {
-          "title": "Australia passes law to levy tech giants that fail to pay for local news",
-          "link": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T11:23:43.000Z"
-        },
-        {
-          "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-          "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T11:03:29.000Z"
-        },
-        {
-          "title": "Risk Engineering",
-          "link": "https://risk-engineering.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T10:18:58.000Z"
-        },
-        {
-          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-          "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T10:08:52.000Z"
-        },
-        {
-          "title": "Don't Paste the AI, please",
-          "link": "https://dontpastetheai.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T08:20:44.000Z"
-        },
-        {
-          "title": "Windows brings out the Rorschach test in everyone (2003)",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T06:16:40.000Z"
         }
       ]
     },
@@ -399,12 +399,28 @@
       "label": "Legal Developments",
       "items": [
         {
+          "title": "Meet Me At ILTACON: Neostella, Case Management For How Firms Actually Work",
+          "link": "https://abovethelaw.com/2026/08/meet-me-at-iltacon-neostella-case-management-for-how-firms-actually-work/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] Stop by Booth 575 to see what an open approach to legal technology can look like. The post Meet Me At ILTACON: Neostella, Case Management For How Firms Actually Work appeared first on Above the Law .",
+          "published": "2026-08-20T14:45:04.000Z"
+        },
+        {
           "title": "Why Congress Will Be In A Hurry After August Recess",
           "link": "https://breakingdefense.com/2026/08/why-congress-will-be-in-a-hurry-after-august-recess/",
           "source": "Above the Law",
           "category": "legal",
           "snippet": "Can both chambers reach an agreement to fund the government before the start of the new fiscal year? The post Why Congress Will Be In A Hurry After August Recess appeared first on Above the Law .",
           "published": "2026-08-20T14:03:00.000Z"
+        },
+        {
+          "title": "Slaughter’s vice",
+          "link": "https://www.scotusblog.com/2026/08/slaughters-vice/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "As a new school year gets underway, law students might expect to soon be called upon to answer a seemingly simple question: What did the Supreme Court hold in Trump v. Slaughter ? A student who has dutifully done the reading might respond…",
+          "published": "2026-08-20T14:00:00.000Z"
         },
         {
           "title": "What the public thinks about the emergency docket",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "* Disney goes to war with Trump administration over Kimmel retaliation effort. [ NPR ] * Morgan Morgan goes to court over Florida ban on celebrities in lawyer ads. [ Florida Phoenix ] * Hugh Hefner repeatedly tried to get the FBI to act…",
           "published": "2026-08-19T12:58:00.000Z"
-        },
-        {
-          "title": "Expert Has ChatGPT Write Report. That Was A Poor Decision See Also",
-          "link": "https://abovethelaw.com/2026/08/expert-has-chatgpt-write-report-that-was-a-poor-decision-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Defense Calls ChatGPT : An expert used ChatGPT to draft \"90 to 85\" percent of his report. The plaintiffs' attorney had a deposition for the ages on that one . The Most Closely Guarded Secret In The Biglaw EO Case Is Who Wrote The…",
-          "published": "2026-08-18T23:32:00.000Z"
-        },
-        {
-          "title": "The Most Famous Line About Grand Juries Came Back To Bite Its Author",
-          "link": "https://abovethelaw.com/2026/08/the-most-famous-line-about-grand-juries-came-back-to-bite-its-author/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "He said prosecutors could indict a sandwich... then they came for him. The post The Most Famous Line About Grand Juries Came Back To Bite Its Author appeared first on Above the Law .",
-          "published": "2026-08-18T23:02:00.000Z"
         }
       ]
     }
