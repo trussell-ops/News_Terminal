@@ -1,16 +1,40 @@
 {
-  "updated": "2026-08-20T12:27:14.183Z",
+  "updated": "2026-08-20T13:26:12.900Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Danone €1bn takeover of Huel approved by watchdog",
+          "link": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "French firm says the acquisition of Huel will help it grow in the nutritional sector.",
+          "published": "2026-08-20T13:24:57.000Z"
+        },
+        {
+          "title": "How wealthy families can prepare for aging parents and avoid a succession crisis",
+          "link": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Relatively few wealthy families are addressing the question of when an aging parent should give up control, advisors and lawyers told CNBC.",
+          "published": "2026-08-20T13:18:38.000Z"
+        },
         {
           "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
           "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
-          "published": "2026-08-20T12:21:48.000Z"
+          "published": "2026-08-20T12:48:54.000Z"
+        },
+        {
+          "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
+          "link": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The GV90 features a new design direction for Genesis and expands the Hyundai brand's lineup to seven vehicles in the U.S.",
+          "published": "2026-08-20T12:45:35.000Z"
         },
         {
           "title": "Where commercial real estate demand is the highest, according to new data",
@@ -18,7 +42,7 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "The National Association of Realtors has released a new index that uses factors in local economies to indicate future demand.",
-          "published": "2026-08-20T12:15:01.000Z"
+          "published": "2026-08-20T12:38:23.000Z"
         },
         {
           "title": "Thousands helped with back to school costs",
@@ -27,14 +51,6 @@
           "category": "markets",
           "snippet": "More than £310,000 has been given to help families with back to school costs, the government says.",
           "published": "2026-08-20T12:05:34.000Z"
-        },
-        {
-          "title": "Danone €1bn takeover of Huel approved by watchdog",
-          "link": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "French firm says the acquisition of Huel will help it grow in the nutritional sector.",
-          "published": "2026-08-20T11:41:01.000Z"
         },
         {
           "title": "Illegal 'drip pricing' could add thousands to the cost of your holiday",
@@ -99,14 +115,6 @@
           "category": "markets",
           "snippet": "The mochi ice cream company co-founder shares her top tips, job highs and lows, and what a perfect Sunday looks like.",
           "published": "2026-08-20T05:17:15.000Z"
-        },
-        {
-          "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
-          "link": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The GV90 features a new design direction for Genesis and expands the Hyundai brand's lineup to seven vehicles in the U.S.",
-          "published": "2026-08-20T03:14:30.000Z"
         },
         {
           "title": "India's Gen Z are driving up a mega boom in its beauty market",
@@ -187,20 +195,36 @@
           "category": "markets",
           "snippet": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
           "published": "2026-08-19T14:06:42.000Z"
-        },
-        {
-          "title": "Overhaul for Belfast cranes ahead of major contract",
-          "link": "https://www.bbc.co.uk/news/articles/cedj7je0zlzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It is part of an investment of almost £100m as Harland & Wolff's Spanish owners prepare it for a major defence contract.",
-          "published": "2026-08-19T12:09:24.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+          "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+          "published": "2026-08-20T13:00:35.000Z"
+        },
+        {
+          "title": "I bought DJI’s banned camera — it was cheap and easy",
+          "link": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "As a kid, I always imagined the \"black market\" would be like the movies: Shady vendors hawking illicit goods along dusty streets. But if you want a banned DJI Osmo Pocket 4 or Pocket 4 Pro camera in the US, you can just reach for your…",
+          "published": "2026-08-20T13:00:00.000Z"
+        },
+        {
+          "title": "Browser De-Slop",
+          "link": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T12:19:37.000Z"
+        },
         {
           "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
           "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
@@ -234,20 +258,28 @@
           "published": "2026-08-20T12:00:00.000Z"
         },
         {
-          "title": "AI didn't erase the junior engineer's value, it increased it it",
-          "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T11:42:20.000Z"
-        },
-        {
           "title": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
           "link": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
           "source": "The Verge",
           "category": "tech",
           "snippet": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surround the rest of my…",
           "published": "2026-08-20T11:30:00.000Z"
+        },
+        {
+          "title": "Australia passes law to levy tech giants that fail to pay for local news",
+          "link": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T11:23:43.000Z"
+        },
+        {
+          "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+          "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T11:03:29.000Z"
         },
         {
           "title": "The piano that taught my cat to play for her supper",
@@ -264,6 +296,14 @@
           "category": "tech",
           "snippet": "Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among bigger automakers - especially those…",
           "published": "2026-08-20T11:00:00.000Z"
+        },
+        {
+          "title": "Risk Engineering",
+          "link": "https://risk-engineering.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T10:18:58.000Z"
         },
         {
           "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
@@ -352,52 +392,28 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T21:11:31.000Z"
-        },
-        {
-          "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
-          "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Framework says it's replacing some out-of-warranty AMD mainboards.",
-          "published": "2026-08-19T20:21:59.000Z"
-        },
-        {
-          "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-          "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
-          "published": "2026-08-19T20:04:41.000Z"
-        },
-        {
-          "title": "Nielsen is leaning more on wearables to hear what people are watching",
-          "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of…",
-          "published": "2026-08-19T19:53:09.000Z"
-        },
-        {
-          "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
-          "link": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\"",
-          "published": "2026-08-19T19:45:19.000Z"
-        },
-        {
-          "title": "Pixel 11 Pro Fold feels like the end of an era",
-          "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T19:43:48.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Ballroom dispute now fully briefed",
+          "link": "https://www.scotusblog.com/2026/08/ballroom-dispute-now-fully-briefed/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, a group of Florida Republicans brings their Census Bureau challenge to SCOTUS.",
+          "published": "2026-08-20T13:00:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 08.20.26",
+          "link": "https://abovethelaw.com/2026/08/morning-docket-08-20-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Biglaw facing backlash over super early 1L hiring. [ Financial Times ] * Judge's law license suspended for vulgar, racist language. [ Bloomberg Law News ] * Defense team hopes jurors won't believe their client in Tupac murder trial. […",
+          "published": "2026-08-20T12:56:00.000Z"
+        },
         {
           "title": "Jim Comey Case Proves Words Are Hard For DOJ See Also",
           "link": "https://abovethelaw.com/2026/08/jim-comey-case-proves-words-are-hard-for-doj-see-also/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Why law firms that ignore retention right now may pay for it for years. The post The War For Legal Talent Is Here appeared first on Above the Law .",
           "published": "2026-08-18T21:35:00.000Z"
-        },
-        {
-          "title": "Judicial Immunity Still Applies Even If The Judge Let AI Decide The Case",
-          "link": "https://abovethelaw.com/2026/08/judicial-immunity-still-applies-even-if-the-judge-let-ai-decide-the-case/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Asking AI to resolve your cases would still be a judicial act. The post Judicial Immunity Still Applies Even If The Judge Let AI Decide The Case appeared first on Above the Law .",
-          "published": "2026-08-18T20:48:00.000Z"
-        },
-        {
-          "title": "Biglaw Revenue Jumps Double Digits As Demand Remains Strong",
-          "link": "https://abovethelaw.com/2026/08/biglaw-revenue-jumps-double-digits-as-demand-remains-strong/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The industry’s strong first half looks poised to continue into the third quarter. The post Biglaw Revenue Jumps Double Digits As Demand Remains Strong appeared first on Above the Law .",
-          "published": "2026-08-18T20:04:00.000Z"
         }
       ]
     }
