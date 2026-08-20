@@ -1,9 +1,41 @@
 {
-  "updated": "2026-08-20T22:51:38.995Z",
+  "updated": "2026-08-20T23:16:44.420Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Why the US economy is ringing alarm bells",
+          "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+          "published": "2026-08-20T23:15:15.000Z"
+        },
+        {
+          "title": "How landscape gardening is being electrified",
+          "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The switch to quieter electric equipment is not going as fast as some would like.",
+          "published": "2026-08-20T23:12:38.000Z"
+        },
+        {
+          "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
+          "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner.",
+          "published": "2026-08-20T23:10:58.000Z"
+        },
+        {
+          "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+          "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
+          "published": "2026-08-20T22:59:35.000Z"
+        },
         {
           "title": "Trump vows tougher economic measures on Iran and supporting countries",
           "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
@@ -157,50 +189,26 @@
           "published": "2026-08-19T23:31:24.000Z"
         },
         {
-          "title": "I quit my £80,000 job to make ice cream - here's how",
-          "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
-          "published": "2026-08-19T23:08:03.000Z"
-        },
-        {
           "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
           "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
           "published": "2026-08-19T20:00:17.000Z"
-        },
-        {
-          "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-          "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
-          "published": "2026-08-19T20:00:13.000Z"
-        },
-        {
-          "title": "US retail giant receives $1bn boost from tariff refunds",
-          "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
-          "published": "2026-08-19T17:07:49.000Z"
-        },
-        {
-          "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
-          "link": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
-          "published": "2026-08-19T16:14:46.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Detecting scraper bots through scroll behaviour",
+          "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T22:47:52.000Z"
+        },
         {
           "title": "Google Discover is getting an AI chatbot-tuned feed",
           "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
@@ -218,20 +226,20 @@
           "published": "2026-08-20T21:42:51.000Z"
         },
         {
-          "title": "Citizen Devs: Everyone is an engineer now",
-          "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T21:25:48.000Z"
-        },
-        {
           "title": "Code as an Artifact",
           "link": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-20T21:24:57.000Z"
+        },
+        {
+          "title": "The Wonders of the Male Human Pelvis",
+          "link": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T21:01:24.000Z"
         },
         {
           "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
@@ -338,14 +346,6 @@
           "published": "2026-08-20T17:42:34.000Z"
         },
         {
-          "title": "Project Cybersyn (2022)",
-          "link": "https://bactra.org/notebooks/cybersyn.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T17:40:49.000Z"
-        },
-        {
           "title": "FCC officially decides gigabit speeds are too good for you",
           "link": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
           "source": "The Verge",
@@ -399,6 +399,134 @@
       "label": "Legal Developments",
       "items": [
         {
+          "title": "The Confirmation Speech That Doomed The SCOTUS Nominee It Was Meant To Save",
+          "link": "https://abovethelaw.com/2026/08/the-confirmation-speech-that-doomed-the-scotus-nominee-it-was-meant-to-save/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Sure, the guy's mediocre, but don't mediocrities deserve a seat on the Court? The post The Confirmation Speech That Doomed The SCOTUS Nominee It Was Meant To Save appeared first on Above the Law .",
+          "published": "2026-08-20T23:00:00.000Z"
+        },
+        {
+          "title": "Neuroscience For Lawyers, A Texas Two-Step, And Rinse And Repeat In DC",
+          "link": "https://abovethelaw.com/2026/08/neuroscience-for-lawyers-a-texas-two-step-and-rinse-and-repeat-in-dc/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Some lawyers don’t know how to spell collegial, let alone act that way. The post Neuroscience For Lawyers, A Texas Two-Step, And Rinse And Repeat In DC appeared first on Above the Law .",
+          "published": "2026-08-20T22:46:00.000Z"
+        },
+        {
+          "title": "Law Practice Management Company Smokeball Unveils New Global Brand Built Around ‘Powering People-Law’",
+          "link": "https://www.lawnext.com/2026/08/law-practice-management-company-smokeball-unveils-new-global-brand-built-around-powering-people-law.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Smokeball is unveiling a new global brand that focuses on both its duty to empower the lawyers who are its customers and their duty to do their best for the clients who are their customers. The post Law Practice Management Company…",
+          "published": "2026-08-20T22:16:00.000Z"
+        },
+        {
+          "title": "How To Get Your Nonfiction Book Published",
+          "link": "https://abovethelaw.com/2026/08/how-to-get-your-nonfiction-book-published/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "What to know about traditional publishing, self-publishing, literary agents, platforms, and why you are writing in the first place. The post How To Get Your Nonfiction Book Published appeared first on Above the Law .",
+          "published": "2026-08-20T21:45:00.000Z"
+        },
+        {
+          "title": "Hearing Adjourned After Lawyer Suffers Shock Bar Association Election Loss",
+          "link": "https://abovethelaw.com/2026/08/hearing-adjourned-after-lawyer-suffers-shock-bar-association-election-loss/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "That's a new one! The post Hearing Adjourned After Lawyer Suffers Shock Bar Association Election Loss appeared first on Above the Law .",
+          "published": "2026-08-20T21:33:00.000Z"
+        },
+        {
+          "title": "The Anti-Weaponization Fund Is Supposed To Be Gone. One Of Its Architects Wants To Be The Next Deputy Attorney General.",
+          "link": "https://abovethelaw.com/2026/08/the-anti-weaponization-fund-is-supposed-to-be-gone-one-of-its-architects-wants-to-be-the-next-deputy-attorney-general/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Acting DAG Trent McCotter wants Blanche's old job. He also helped build the thing that nearly sank Blanche's confirmation. Second verse, same as the first. The post The Anti-Weaponization Fund Is Supposed To Be Gone. One Of Its Architects…",
+          "published": "2026-08-20T21:00:00.000Z"
+        },
+        {
+          "title": "To Use AI Slop, Or Not To Use AI Slop",
+          "link": "https://abovethelaw.com/2026/08/to-use-ai-slop-or-not-to-use-ai-slop/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "We may already be at the point of no return. The post To Use AI Slop, Or Not To Use AI Slop appeared first on Above the Law .",
+          "published": "2026-08-20T20:32:00.000Z"
+        },
+        {
+          "title": "AI Prompt Injection Has Entered The Courtroom",
+          "link": "https://abovethelaw.com/2026/08/ai-prompt-injection-has-entered-the-courtroom/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The court did not take kindly to this. The post AI Prompt Injection Has Entered The Courtroom appeared first on Above the Law .",
+          "published": "2026-08-20T20:04:00.000Z"
+        },
+        {
+          "title": "Federal Judge Calls Arab Head Covering A Terror Scarf As Part Of Persistent Anti-Muslim Rhetoric",
+          "link": "https://abovethelaw.com/2026/08/federal-judge-calls-arab-head-covering-a-terror-scarf-as-part-of-persistent-anti-muslim-rhetoric/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "When a judge traffics in prejudice, it undermines the whole judiciary. The post Federal Judge Calls Arab Head Covering A Terror Scarf As Part Of Persistent Anti-Muslim Rhetoric appeared first on Above the Law .",
+          "published": "2026-08-20T19:15:34.000Z"
+        },
+        {
+          "title": "Antonin Scalia Would’ve Hated Today’s Supreme Court Security Restrictions",
+          "link": "https://abovethelaw.com/2026/08/antonin-scalia-wouldve-hated-todays-supreme-court-security-restrictions/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Today’s security restrictions would have put the brakes on one of Scalia’s favorite pastimes. The post Antonin Scalia Would’ve Hated Today’s Supreme Court Security Restrictions appeared first on Above the Law .",
+          "published": "2026-08-20T18:29:26.000Z"
+        },
+        {
+          "title": "TX Gov Opts Out Of Constitution, Thanks",
+          "link": "https://abovethelaw.com/2026/08/tx-gov-opts-out-of-constitution-thanks/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Try that in a small courtroom. The post TX Gov Opts Out Of Constitution, Thanks appeared first on Above the Law .",
+          "published": "2026-08-20T17:46:19.000Z"
+        },
+        {
+          "title": "Law Firms Are Getting Faster With AI. Are They Getting Better At Growth?",
+          "link": "https://abovethelaw.com/2026/08/law-firms-are-getting-faster-with-ai-are-they-getting-better-at-growth/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] This is the first article in a three-part series examining why connecting the practice of law and the business of law is becoming one of the defining strategic questions of the AI era. The post Law Firms Are Getting Faster…",
+          "published": "2026-08-20T17:00:49.000Z"
+        },
+        {
+          "title": "Lawyers Want To Figure Out AI, But Many Struggle To Know Where To Start",
+          "link": "https://abovethelaw.com/2026/08/lawyers-want-to-figure-out-ai-but-many-struggle-to-know-where-to-start/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Bells Up is a new AI offering that focuses on the lawyer who doesn't want to lock themselves into one technology... which is a lot of lawyers. The post Lawyers Want To Figure Out AI, But Many Struggle To Know Where To Start appeared first…",
+          "published": "2026-08-20T16:12:00.000Z"
+        },
+        {
+          "title": "Private Equity Found A Law Firm That Said Yes",
+          "link": "https://abovethelaw.com/2026/08/private-equity-found-a-law-firm-that-said-yes/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Wood Smith Henning Berman's reported $700 million deal with Charlesbank is the clearest sign yet of which way the wind is blowing. The post Private Equity Found A Law Firm That Said Yes appeared first on Above the Law .",
+          "published": "2026-08-20T15:31:00.000Z"
+        },
+        {
+          "title": "Meet Me At ILTACON: Neostella, Case Management For How Firms Actually Work",
+          "link": "https://abovethelaw.com/2026/08/meet-me-at-iltacon-neostella-case-management-for-how-firms-actually-work/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] Stop by Booth 575 to see what an open approach to legal technology can look like. The post Meet Me At ILTACON: Neostella, Case Management For How Firms Actually Work appeared first on Above the Law .",
+          "published": "2026-08-20T14:45:04.000Z"
+        },
+        {
+          "title": "Why Congress Will Be In A Hurry After August Recess",
+          "link": "https://breakingdefense.com/2026/08/why-congress-will-be-in-a-hurry-after-august-recess/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Can both chambers reach an agreement to fund the government before the start of the new fiscal year? The post Why Congress Will Be In A Hurry After August Recess appeared first on Above the Law .",
+          "published": "2026-08-20T14:03:00.000Z"
+        },
+        {
           "title": "Slaughter’s vice",
           "link": "https://www.scotusblog.com/2026/08/slaughters-vice/",
           "source": "SCOTUSblog",
@@ -423,172 +551,44 @@
           "published": "2026-08-20T13:00:00.000Z"
         },
         {
-          "title": "Florida Republicans bring Census Bureau challenge to the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/08/florida-republicans-bring-census-bureau-challenge-to-the-supreme-court/",
-          "source": "SCOTUSblog",
+          "title": "Morning Docket: 08.20.26",
+          "link": "https://abovethelaw.com/2026/08/morning-docket-08-20-26/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "A group of Florida Republicans has appealed a ruling by a federal court in that state throwing out a lawsuit seeking to require the U.S. Census Bureau to revise its data for the 2020 census. Arguing that the statistical methods the Census…",
-          "published": "2026-08-19T17:21:00.000Z"
+          "snippet": "* Biglaw facing backlash over super early 1L hiring. [ Financial Times ] * Judge's law license suspended for vulgar, racist language. [ Bloomberg Law News ] * Defense team hopes jurors won't believe their client in Tupac murder trial. […",
+          "published": "2026-08-20T12:56:00.000Z"
         },
         {
-          "title": "Trump detention policy nears SCOTUS",
-          "link": "https://www.scotusblog.com/2026/08/trump-detention-policy-nears-scotus/",
-          "source": "SCOTUSblog",
+          "title": "Jim Comey Case Proves Words Are Hard For DOJ See Also",
+          "link": "https://abovethelaw.com/2026/08/jim-comey-case-proves-words-are-hard-for-doj-see-also/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "As part of the Trump administration’s hardline approach to migrants, the Immigration and Customs Enforcement agency has ramped up the number of people it detains. Soon, the Supreme Court may decide whether one of the administration’s…",
-          "published": "2026-08-19T14:00:00.000Z"
+          "snippet": "86 : DOJ says no one disputes the meaning of term that literally everyone disputes . Get Out While You Can : Meanwhile, DOJ whistleblower disclosure suggests government attorneys are starting to fear losing their licenses when this is all…",
+          "published": "2026-08-19T23:34:00.000Z"
         },
         {
-          "title": "The scope of the Supreme Court’s emergency docket",
-          "link": "https://www.scotusblog.com/2026/08/the-scope-of-the-supreme-courts-emergency-docket/",
-          "source": "SCOTUSblog",
+          "title": "Taft s Timely Legacy",
+          "link": "https://abovethelaw.com/2026/08/tafts-timely-legacy/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "On Aug. 12, an unusual emergency docket application captured court watchers’ attention. It centered on a dog named Bruce who was scheduled to die. Bruce, a 3-year-old Great Pyrenees/German Shepherd mix who weighed about 120 pounds , was…",
-          "published": "2026-08-19T13:30:00.000Z"
+          "snippet": "He didn't author much, but this one seems relevant at the moment. The post Taft s Timely Legacy appeared first on Above the Law .",
+          "published": "2026-08-19T23:09:00.000Z"
         },
         {
-          "title": "Trump administration awaits emergency docket decisions",
-          "link": "https://www.scotusblog.com/2026/08/trump-administration-awaits-emergency-docket-decisions/",
-          "source": "SCOTUSblog",
+          "title": "Looks Like Another Strong Year For Biglaw",
+          "link": "https://abovethelaw.com/2026/08/looks-like-another-strong-year-for-biglaw/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, an update on the ripple effects of the Supreme Court’s TPS ruling.",
-          "published": "2026-08-19T13:00:00.000Z"
+          "snippet": "Sure, expenses are up, but things are looking good. The post Looks Like Another Strong Year For Biglaw appeared first on Above the Law .",
+          "published": "2026-08-19T21:33:00.000Z"
         },
         {
-          "title": "Supreme Court urged to leave in place order blocking construction of White House ballroom",
-          "link": "https://www.scotusblog.com/2026/08/supreme-court-urged-to-leave-in-place-order-blocking-construction-of-white-house-ballroom/",
-          "source": "SCOTUSblog",
+          "title": "Halfwit Republican Senate Candidate Running In Minnesota Says It’s Embarrassing To Be Minnesotan",
+          "link": "https://abovethelaw.com/2026/08/halfwit-republican-senate-candidate-running-in-minnesota-says-its-embarrassing-to-be-minnesotan/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Lawyers for the National Trust for Historic Preservation urged the Supreme Court on Tuesday afternoon to leave in place a ruling by a federal court in Washington, D.C., that would temporarily block construction of a new White House…",
-          "published": "2026-08-18T17:34:00.000Z"
-        },
-        {
-          "title": "The chief justice should share much of his power",
-          "link": "https://www.scotusblog.com/2026/08/the-chief-justice-should-share-much-of-his-power/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This is the fourth piece in a series on what I believe the court can, and should, do better. *** Under longstanding tradition, the chief justice presides over oral argument and the justices’ private conferences. I propose a change. The…",
-          "published": "2026-08-18T14:00:00.000Z"
-        },
-        {
-          "title": "What if one vote had changed in the birthright citizenship case?",
-          "link": "https://www.scotusblog.com/2026/08/what-if-one-vote-had-changed-in-the-birthright-citizenship-case/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In Trump v. Barbara , the Supreme Court held that executive order 14160 , which attempted to end birthright citizenship for the children of undocumented immigrants and those temporarily residing in the United States, was unconstitutional…",
-          "published": "2026-08-18T13:30:00.000Z"
-        },
-        {
-          "title": "Trump v. Carroll and the Ten Commandments",
-          "link": "https://www.scotusblog.com/2026/08/trump-v-carroll-and-the-ten-commandments/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, the role of national security in the White House ballroom battle",
-          "published": "2026-08-18T13:00:00.000Z"
-        },
-        {
-          "title": "Texas families ask Supreme Court to take up challenge to Ten Commandments in schools",
-          "link": "https://www.scotusblog.com/2026/08/texas-families-ask-supreme-court-to-take-up-challenge-to-ten-commandments-in-schools/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Lawyers for a group of Texas families with children in the state’s public schools came to the Supreme Court on Monday, asking the justices to weigh in on the constitutionality of a 2025 law that requires each classroom in that state to…",
-          "published": "2026-08-17T21:05:22.000Z"
-        },
-        {
-          "title": "Court turns down Trump’s request to reconsider its refusal to hear Carroll suit against him",
-          "link": "https://www.scotusblog.com/2026/08/court-turns-down-trumps-request-to-reconsider-its-refusal-to-hear-carroll-suit-against-him/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Monday morning turned down President Donald Trump’s request to reconsider the justices’ denial of review in a civil suit brought by journalist E. Jean Carroll, which yielded a $5 million verdict against the president.…",
-          "published": "2026-08-17T14:46:00.000Z"
-        },
-        {
-          "title": "SCOTUS litigator Floyd Abrams at 90",
-          "link": "https://www.scotusblog.com/2026/08/scotus-litigator-floyd-abrams-at-90/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Floyd Abrams’ initials signaled his destiny as a First Amendment lawyer. More than any others, Abrams’ name is synonymous with freedom of speech and the press. Now nine decades into his life journey, I thought it would be good to provide…",
-          "published": "2026-08-17T14:00:00.000Z"
-        },
-        {
-          "title": "Who is Justice Barrett?",
-          "link": "https://www.scotusblog.com/2026/08/who-is-justice-barrett/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In 2024, Justice Amy Coney Barrett ended the Supreme Court’s term with two dissents that complicated the usual descriptions of her as a textbook conservative. In Ohio v. EPA , decided on June 27, 2024, Barrett joined the court’s three…",
-          "published": "2026-08-17T13:30:00.000Z"
-        },
-        {
-          "title": "Emergency docket heats up",
-          "link": "https://www.scotusblog.com/2026/08/emergency-docket-heats-up/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a refresher on the Supreme Court’s lottery system for oral argument tickets.",
-          "published": "2026-08-17T13:00:00.000Z"
-        },
-        {
-          "title": "Trump brings ballroom dispute to the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/08/trump-brings-ballroom-dispute-to-the-supreme-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on Aug. 14 at 2:01 p.m. The Trump administration came to the Supreme Court on Friday, asking the justices to allow construction of the new White House ballroom to continue while a challenge to the project continues in the lower…",
-          "published": "2026-08-14T16:09:44.000Z"
-        },
-        {
-          "title": "Understanding the court’s next major case on asylum seekers: Wassily v. Blanche",
-          "link": "https://www.scotusblog.com/2026/08/understanding-the-courts-next-major-case-on-asylum-seekers-wassily-v-blanche/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This coming term, in Wassily v. Blanche , the Supreme Court will decide whether asylum beneficiaries are barred from obtaining lawful permanent residency if their asylum status has been terminated. Wassily is of considerable significance.…",
-          "published": "2026-08-14T14:00:00.000Z"
-        },
-        {
-          "title": "Who exactly are the “friends of the court”?",
-          "link": "https://www.scotusblog.com/2026/08/who-exactly-are-the-friends-of-the-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "On Oct. 13, the Supreme Court will hear argument in Beaird v. United States , a case brought by a Texas man challenging an increase to his sentence for having a gun after a prior felony conviction. Like most federal criminal cases at the…",
-          "published": "2026-08-14T13:30:00.000Z"
-        },
-        {
-          "title": "The transformation of Supreme Court arguments",
-          "link": "https://www.scotusblog.com/2026/08/the-transformation-of-supreme-court-arguments/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a top Democrat is calling for Supreme Court reform.",
-          "published": "2026-08-14T13:00:00.000Z"
-        },
-        {
-          "title": "Once upon a time: storytelling in Learning Resources v. Trump",
-          "link": "https://www.scotusblog.com/2026/08/once-upon-a-time-storytelling-in-learning-resources-v-trump/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Every fall, with each new class of 1Ls, we legal writing teachers undertake a strange job. We spend an entire year trying to get students to not write like lawyers, a notoriously dreadful category of writers. In pursuit of that goal, we…",
-          "published": "2026-08-13T14:00:00.000Z"
-        },
-        {
-          "title": "The Supreme Court expands protections for digital data – now what?",
-          "link": "https://www.scotusblog.com/2026/08/the-supreme-court-expands-protections-for-digital-data-now-what-/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. This term, in Chatrie v. United States , the Supreme Court recognized one’s…",
-          "published": "2026-08-13T13:30:00.000Z"
-        },
-        {
-          "title": "Trump administration asks SCOTUS to rule soon on mail-in voting",
-          "link": "https://www.scotusblog.com/2026/08/trump-administration-asks-scotus-to-rule-soon-on-mail-in-voting/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, are Republicans falling out of love with the Supreme Court?",
-          "published": "2026-08-13T13:00:00.000Z"
-        },
-        {
-          "title": "Trump administration urges Supreme Court to issue a decision in mail-in voting dispute",
-          "link": "https://www.scotusblog.com/2026/08/trump-administration-urges-supreme-court-to-issue-a-decision-in-mail-in-voting-dispute/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Trump administration on Wednesday reiterated its request for the Supreme Court to move quickly to block a ruling by a federal judge in Massachusetts that prohibits the government from implementing part of an executive order on mail-in…",
-          "published": "2026-08-12T18:49:00.000Z"
+          "snippet": "I think I speak for thousands of Minnesota voters when I say ... The post Halfwit Republican Senate Candidate Running In Minnesota Says It’s Embarrassing To Be Minnesotan appeared first on Above the Law .",
+          "published": "2026-08-19T20:44:00.000Z"
         }
       ]
     }
