@@ -1,16 +1,24 @@
 {
-  "updated": "2026-08-20T15:02:21.297Z",
+  "updated": "2026-08-20T15:55:45.580Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
+          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
+          "published": "2026-08-20T15:51:26.000Z"
+        },
         {
           "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
           "link": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
-          "published": "2026-08-20T14:59:55.000Z"
+          "published": "2026-08-20T15:32:04.000Z"
         },
         {
           "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
@@ -19,14 +27,6 @@
           "category": "markets",
           "snippet": "Suella Braverman also advised student's \"not to get ripped off by the great university scam\".",
           "published": "2026-08-20T14:23:41.000Z"
-        },
-        {
-          "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
-          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
-          "published": "2026-08-20T14:21:29.000Z"
         },
         {
           "title": "Where commercial real estate demand is the highest, according to new data",
@@ -202,6 +202,70 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "How to compromise your system with a job interview",
+          "link": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T15:50:57.000Z"
+        },
+        {
+          "title": "I Am Morally Opposed to Updating My Claude.md",
+          "link": "https://alex-jacobs.com/posts/claudemd/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T15:47:48.000Z"
+        },
+        {
+          "title": "It’s Greg Brockman’s OpenAI now",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased…",
+          "published": "2026-08-20T15:45:55.000Z"
+        },
+        {
+          "title": "This app makes the Pixel 11 s HiLight feature actually useful",
+          "link": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite…",
+          "published": "2026-08-20T15:30:34.000Z"
+        },
+        {
+          "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+          "link": "https://github.com/runvendo/vendo",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T15:29:52.000Z"
+        },
+        {
+          "title": "Clean up Claude 5's token vomit with a separate LLM",
+          "link": "https://github.com/zachahn/vomit",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T15:26:02.000Z"
+        },
+        {
+          "title": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
+          "link": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before.…",
+          "published": "2026-08-20T15:08:38.000Z"
+        },
+        {
+          "title": "Anti-AI fonts are useless and harmful",
+          "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T15:06:53.000Z"
+        },
+        {
           "title": "Amazon s drone deliveries are landing in pools and ponds",
           "link": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
           "source": "The Verge",
@@ -210,36 +274,28 @@
           "published": "2026-08-20T14:59:21.000Z"
         },
         {
+          "title": "Show HN: Open-source Stripe Connect alternative",
+          "link": "https://zoneless.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T14:38:45.000Z"
+        },
+        {
+          "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+          "link": "https://pub.doub.ly/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T14:38:28.000Z"
+        },
+        {
           "title": "Genesis joins the giant electric SUV club with new GV90",
           "link": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
           "published": "2026-08-20T14:35:58.000Z"
-        },
-        {
-          "title": "Grok.bot – the epic domain lottery ticket",
-          "link": "https://grok.bot/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T14:34:16.000Z"
-        },
-        {
-          "title": "Slack Code",
-          "link": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T14:21:25.000Z"
-        },
-        {
-          "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
-          "link": "https://www.bbc.com/news/articles/clyq011414eo",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T14:18:16.000Z"
         },
         {
           "title": "An elliptic curve of rank ≥ 30",
@@ -322,14 +378,6 @@
           "published": "2026-08-20T14:00:00.000Z"
         },
         {
-          "title": "Waymo lifts the lid on the ‘brain’ powering its robotaxis",
-          "link": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "What's in the trunk of your car? Shopping bags? A spare tire? Jumper cables? What about a high-powered computer capable of performing up to one quadrillion operations a second? Only if you're Waymo. For the first time, Waymo revealed key…",
-          "published": "2026-08-20T14:00:00.000Z"
-        },
-        {
           "title": "SpaceX’s orbital data centers would create a new category of e-waste",
           "link": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
           "source": "Ars Technica",
@@ -344,60 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-20T13:56:59.000Z"
-        },
-        {
-          "title": "CI jobs artifacts should not be difficult",
-          "link": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T13:44:27.000Z"
-        },
-        {
-          "title": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
-          "link": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily review, manage, and wirelessly download your pocket camera's…",
-          "published": "2026-08-20T13:30:00.000Z"
-        },
-        {
-          "title": "Reverse-lookup service exposed millions of photos of people’s faces",
-          "link": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
-          "published": "2026-08-20T13:29:54.000Z"
-        },
-        {
-          "title": "DiffusionGemma Technical Report",
-          "link": "https://arxiv.org/abs/2608.00146",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T13:24:32.000Z"
-        },
-        {
-          "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
-          "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T13:23:12.000Z"
-        },
-        {
-          "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
-          "link": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T13:12:21.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Private Equity Found A Law Firm That Said Yes",
+          "link": "https://abovethelaw.com/2026/08/private-equity-found-a-law-firm-that-said-yes/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Wood Smith Henning Berman's reported $700 million deal with Charlesbank is the clearest sign yet of which way the wind is blowing. The post Private Equity Found A Law Firm That Said Yes appeared first on Above the Law .",
+          "published": "2026-08-20T15:31:00.000Z"
+        },
         {
           "title": "Meet Me At ILTACON: Neostella, Case Management For How Firms Actually Work",
           "link": "https://abovethelaw.com/2026/08/meet-me-at-iltacon-neostella-case-management-for-how-firms-actually-work/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Plus, an update on the ripple effects of the Supreme Court’s TPS ruling.",
           "published": "2026-08-19T13:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 08.19.26",
-          "link": "https://abovethelaw.com/2026/08/morning-docket-08-19-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Disney goes to war with Trump administration over Kimmel retaliation effort. [ NPR ] * Morgan Morgan goes to court over Florida ban on celebrities in lawyer ads. [ Florida Phoenix ] * Hugh Hefner repeatedly tried to get the FBI to act…",
-          "published": "2026-08-19T12:58:00.000Z"
         }
       ]
     }
