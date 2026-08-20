@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T19:52:28.145Z",
+  "updated": "2026-08-20T20:18:03.889Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,15 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US wine and spirits.",
-          "published": "2026-08-20T19:04:26.000Z"
+          "published": "2026-08-20T20:15:45.000Z"
+        },
+        {
+          "title": "Walmart stock tumbles 9% after outlook disappoints Wall Street",
+          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
+          "published": "2026-08-20T20:01:49.000Z"
         },
         {
           "title": "Walmart sales under strain as US shoppers pull back",
@@ -43,14 +51,6 @@
           "category": "markets",
           "snippet": "Bernard Matthews Foods says its Shaftesbury Street factory will close by the end of 2026.",
           "published": "2026-08-20T16:27:26.000Z"
-        },
-        {
-          "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
-          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
-          "published": "2026-08-20T15:51:26.000Z"
         },
         {
           "title": "Where commercial real estate demand is the highest, according to new data",
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "The August 17 outage, and the work ahead",
-          "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+          "title": "Riot is ending development on its League of Legends fighting game",
+          "link": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the company hasn't \"seen…",
+          "published": "2026-08-20T19:59:09.000Z"
+        },
+        {
+          "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
+          "link": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Genesis, Hyundai's luxury brand, just revealed its first full-size, three-row electric SUV for the US market, the GV90. And arguably it has some of the wildest designs and features in the auto market today. Right off the bat, the…",
+          "published": "2026-08-20T19:52:57.000Z"
+        },
+        {
+          "title": "Stop Eating Lady Gaga's Oreos",
+          "link": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-20T19:22:24.000Z"
+          "published": "2026-08-20T19:46:06.000Z"
+        },
+        {
+          "title": "GitHub, autoscaling, and the component substitution fallacy",
+          "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T19:28:18.000Z"
+        },
+        {
+          "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
+          "link": "https://tidalcycles.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T19:21:45.000Z"
+        },
+        {
+          "title": "SpacetimeDB: A Short Technical Review",
+          "link": "https://strn.cat/posts/spacetime/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T19:19:53.000Z"
         },
         {
           "title": "Show HN: Huzzah – a novel approach to coding with AI",
@@ -232,6 +272,14 @@
           "category": "tech",
           "snippet": "Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland \"several weeks ago,\" according to The Irish Times. While the exact price of the…",
           "published": "2026-08-20T18:50:14.000Z"
+        },
+        {
+          "title": "Why Aren't Smart People Happier?",
+          "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T18:38:47.000Z"
         },
         {
           "title": "Consumer Rights Wiki",
@@ -290,14 +338,6 @@
           "published": "2026-08-20T17:33:32.000Z"
         },
         {
-          "title": "URL shortener links stored in your ATProto PDS",
-          "link": "https://atpr.to/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T17:23:22.000Z"
-        },
-        {
           "title": "Framework says it s addressing a BIOS update that bricked some of its older laptops",
           "link": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
           "source": "The Verge",
@@ -342,7 +382,7 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased…",
+          "snippet": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased…",
           "published": "2026-08-20T15:45:55.000Z"
         },
         {
@@ -352,52 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-20T15:41:48.000Z"
-        },
-        {
-          "title": "This app makes the Pixel 11 s HiLight feature actually useful",
-          "link": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite…",
-          "published": "2026-08-20T15:30:34.000Z"
-        },
-        {
-          "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-          "link": "https://github.com/runvendo/vendo",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T15:29:52.000Z"
-        },
-        {
-          "title": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
-          "link": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before.…",
-          "published": "2026-08-20T15:08:38.000Z"
-        },
-        {
-          "title": "Amazon s drone deliveries are landing in pools and ponds",
-          "link": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Amazon's speedy drone delivery service will soon reach 500 cities across the US - but that might just mean there are more pools to drop packages into. On Wednesday, ABC7 News Bay Area shared a video showing an Amazon delivery drone…",
-          "published": "2026-08-20T14:59:21.000Z"
-        },
-        {
-          "title": "Show HN: Open-source Stripe Connect alternative",
-          "link": "https://zoneless.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T14:38:45.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "AI Prompt Injection Has Entered The Courtroom",
+          "link": "https://abovethelaw.com/2026/08/ai-prompt-injection-has-entered-the-courtroom/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The court did not take kindly to this. The post AI Prompt Injection Has Entered The Courtroom appeared first on Above the Law .",
+          "published": "2026-08-20T20:04:00.000Z"
+        },
         {
           "title": "Federal Judge Calls Arab Head Covering A Terror Scarf As Part Of Persistent Anti-Muslim Rhetoric",
           "link": "https://abovethelaw.com/2026/08/federal-judge-calls-arab-head-covering-a-terror-scarf-as-part-of-persistent-anti-muslim-rhetoric/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "[Sponsored] In this series of definitions, we’ll explore what it looks like for AI to run unchecked in a business and how managers can establish control. The post The Legal Tech-To-English Dictionary (2.0): Working With AI In A…",
           "published": "2026-08-19T16:18:00.000Z"
-        },
-        {
-          "title": "Alan Dershowitz Continues To Fight Martha s Vineyard McCarthyites In His Own Mind",
-          "link": "https://abovethelaw.com/2026/08/alan-dershowitz-continues-to-fight-marthas-vineyard-mccarthyites-in-his-own-mind/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Atlantic sent a writer to find out why we haven't heard as many complaints from Dershowitz this season. The post Alan Dershowitz Continues To Fight Martha s Vineyard McCarthyites In His Own Mind appeared first on Above the Law .",
-          "published": "2026-08-19T15:51:36.000Z"
         }
       ]
     }
