@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-20T06:27:53.982Z",
+  "updated": "2026-08-20T07:22:43.776Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Travelodge boss steps down after security issues in rooms",
+          "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+          "published": "2026-08-20T07:17:13.000Z"
+        },
         {
           "title": "US national debt passes $40tn after doubling in a decade",
           "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
@@ -37,7 +45,7 @@
           "published": "2026-08-20T04:01:01.000Z"
         },
         {
-          "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+          "title": "Trump vows tougher economic measures on Iran and supporting countries",
           "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "The States says the school uniform policy should be \"a welcome relief\" for families' budgets.",
           "published": "2026-08-19T09:44:06.000Z"
-        },
-        {
-          "title": "What is happening to UK prices?",
-          "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "UK inflation dropped slightly in June 2026, but higher energy costs are expected to push it back up.",
-          "published": "2026-08-19T09:24:01.000Z"
         }
       ]
     },
@@ -202,12 +202,12 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "link": "https://openai.com/index/asana/",
+          "title": "Windows brings out the Rorschach test in everyone",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-20T05:54:20.000Z"
+          "published": "2026-08-20T06:16:40.000Z"
         },
         {
           "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
@@ -264,14 +264,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T21:11:31.000Z"
-        },
-        {
-          "title": "DFlash 2: Keep Drafting Parallel",
-          "link": "https://inco.ai/blog/dflash2/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T20:28:43.000Z"
         },
         {
           "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T17:32:38.000Z"
+        },
+        {
+          "title": "OpenAI hit the brakes. Now what?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of…",
+          "published": "2026-08-19T17:10:09.000Z"
         }
       ]
     },
