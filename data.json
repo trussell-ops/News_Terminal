@@ -1,16 +1,24 @@
 {
-  "updated": "2026-08-20T13:26:12.900Z",
+  "updated": "2026-08-20T14:06:28.619Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Danone €1bn takeover of Huel approved by watchdog",
-          "link": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
+          "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
+          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
+          "published": "2026-08-20T13:48:48.000Z"
+        },
+        {
+          "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
+          "link": "https://www.bbc.co.uk/news/articles/c86nz8n960go?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "French firm says the acquisition of Huel will help it grow in the nutritional sector.",
-          "published": "2026-08-20T13:24:57.000Z"
+          "snippet": "Suella Braverman also advised student's \"not to get ripped off by the great university scam\".",
+          "published": "2026-08-20T13:46:43.000Z"
         },
         {
           "title": "How wealthy families can prepare for aging parents and avoid a succession crisis",
@@ -18,15 +26,15 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Relatively few wealthy families are addressing the question of when an aging parent should give up control, advisors and lawyers told CNBC.",
-          "published": "2026-08-20T13:18:38.000Z"
+          "published": "2026-08-20T13:34:59.000Z"
         },
         {
-          "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
-          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-          "source": "CNBC Business",
+          "title": "Danone €1bn takeover of Huel approved by watchdog",
+          "link": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
           "category": "markets",
-          "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
-          "published": "2026-08-20T12:48:54.000Z"
+          "snippet": "French firm says the acquisition of Huel will help it grow in the nutritional sector.",
+          "published": "2026-08-20T13:24:57.000Z"
         },
         {
           "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
@@ -187,20 +195,108 @@
           "category": "markets",
           "snippet": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
           "published": "2026-08-19T15:47:31.000Z"
-        },
-        {
-          "title": "Track defect found near derailment site - report",
-          "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
-          "published": "2026-08-19T14:06:42.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Here’s what data Comcast says its motion-detecting routers collect",
+          "link": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Comcast announced a new platform this week called Xfinity Shield that includes the option to let customers turn their routers into motion sensors. Many people reacted with fear and anger. \"I am not enabling this. I am also seriously…",
+          "published": "2026-08-20T14:00:22.000Z"
+        },
+        {
+          "title": "FromSoftware can do anything",
+          "link": "https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "There's something just a little bit different about FromSoftware's office in Tokyo. Like with any other successful video game studio, there's extensive security to get in the door, a minimalist lobby with framed posters from the studio's…",
+          "published": "2026-08-20T14:00:00.000Z"
+        },
+        {
+          "title": "We played The Duskbloods, the Switch 2 s wildest new exclusive",
+          "link": "https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Duskbloods is a world away from the approachable games Nintendo is known for. But for its next Switch 2 exclusive, the company has partnered with Elden Ring developer FromSoftware on a hardcore multiplayer game about vampires. And…",
+          "published": "2026-08-20T14:00:00.000Z"
+        },
+        {
+          "title": "Welcome to the AI crisis in math",
+          "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set…",
+          "published": "2026-08-20T14:00:00.000Z"
+        },
+        {
+          "title": "This tiny guitar amp is the most unhinged distortion pedal I’ve ever used",
+          "link": "https://www.theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Is Amp Crash a guitar amp or a guitar pedal? Yes. Death By Audio's latest is, in fact, both. While it's in a guitar pedal enclosure, Amp Crash is actually a tiny 3-watt amp hooked up to a 2-inch speaker. You can even connect an external…",
+          "published": "2026-08-20T14:00:00.000Z"
+        },
+        {
+          "title": "Waymo lifts the lid on the ‘brain’ powering its robotaxis",
+          "link": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "What's in the trunk of your car? Shopping bags? A spare tire? Jumper cables? What about a high-powered computer capable of performing up to one quadrillion operations a second? Only if you're Waymo. For the first time, Waymo revealed key…",
+          "published": "2026-08-20T14:00:00.000Z"
+        },
+        {
+          "title": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
+          "link": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily review, manage, and wirelessly download your pocket camera's…",
+          "published": "2026-08-20T13:30:00.000Z"
+        },
+        {
+          "title": "DiffusionGemma Technical Report",
+          "link": "https://arxiv.org/abs/2608.00146",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T13:24:32.000Z"
+        },
+        {
+          "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+          "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T13:23:12.000Z"
+        },
+        {
+          "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
+          "link": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T13:12:21.000Z"
+        },
+        {
+          "title": "NASA gives up on trying to rescue the Swift telescope",
+          "link": "https://www.theverge.com/science/982661/nasa-katalyst-swift-rescue-mission-failure-update",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Plans to rescue NASA's Swift Observatory satellite from falling into Earth's atmosphere are seemingly dead in the water. The agency and Katalyst Space announced yesterday that the Link spacecraft will no longer capture or boost the Swift…",
+          "published": "2026-08-20T13:04:37.000Z"
+        },
+        {
+          "title": "UK internet age checks have boosted rogue adult sites, says Pornhub",
+          "link": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T13:01:40.000Z"
+        },
         {
           "title": "Grok exfiltrates user data when malicious instructions are encrypted",
           "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
@@ -250,22 +346,6 @@
           "published": "2026-08-20T12:00:00.000Z"
         },
         {
-          "title": "Slack is launching collaborative vibe-coding channels",
-          "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated…",
-          "published": "2026-08-20T12:00:00.000Z"
-        },
-        {
-          "title": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
-          "link": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surround the rest of my…",
-          "published": "2026-08-20T11:30:00.000Z"
-        },
-        {
           "title": "Australia passes law to levy tech giants that fail to pay for local news",
           "link": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
           "source": "Hacker News",
@@ -280,22 +360,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-20T11:03:29.000Z"
-        },
-        {
-          "title": "The piano that taught my cat to play for her supper",
-          "link": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The pianist sits before her instrument. She carefully extends a front paw, pressing gingerly on a key. She presses again, and again. She is composing some soul music, because something terrible has happened to her: The vacuum cleaner has…",
-          "published": "2026-08-20T11:00:00.000Z"
-        },
-        {
-          "title": "The Audi S6 Sportback E-tron proves that sedans still matter",
-          "link": "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among bigger automakers - especially those…",
-          "published": "2026-08-20T11:00:00.000Z"
         },
         {
           "title": "Risk Engineering",
@@ -314,22 +378,6 @@
           "published": "2026-08-20T10:08:52.000Z"
         },
         {
-          "title": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
-          "link": "https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Sennheiser announced the next version of its flagship wireless earbuds with a major redesign focusing on sustainability. The company claims the new design improves the Momentum True Wireless 5's \"comfort, stability, and portability,\" but…",
-          "published": "2026-08-20T10:00:00.000Z"
-        },
-        {
-          "title": "LG’s new OLED breakthrough can boost display lifespans",
-          "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size. This new technology is called FLiPP (FMM-Less…",
-          "published": "2026-08-20T09:11:26.000Z"
-        },
-        {
           "title": "Don't Paste the AI, please",
           "link": "https://dontpastetheai.com/",
           "source": "Hacker News",
@@ -344,60 +392,28 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-20T06:16:40.000Z"
-        },
-        {
-          "title": "Turns are Better than Radians (2022)",
-          "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T01:29:12.000Z"
-        },
-        {
-          "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
-          "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
-          "published": "2026-08-20T00:18:48.000Z"
-        },
-        {
-          "title": "Does giving a camera wings dodge the FCC’s drone ban?",
-          "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to…",
-          "published": "2026-08-19T22:35:20.000Z"
-        },
-        {
-          "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
-          "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
-          "published": "2026-08-19T22:02:38.000Z"
-        },
-        {
-          "title": "Feature Request: Support AGENTS.md",
-          "link": "https://github.com/anthropics/claude-code/issues/6235",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T21:19:50.000Z"
-        },
-        {
-          "title": "Os8088.com: IBM XT OS now has a Browser, CP&#x2F;M 2.2 with Z80 core and MS Word 1.1a",
-          "link": "https://os8088.com/spotlight/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T21:11:31.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Why Congress Will Be In A Hurry After August Recess",
+          "link": "https://breakingdefense.com/2026/08/why-congress-will-be-in-a-hurry-after-august-recess/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Can both chambers reach an agreement to fund the government before the start of the new fiscal year? The post Why Congress Will Be In A Hurry After August Recess appeared first on Above the Law .",
+          "published": "2026-08-20T14:03:00.000Z"
+        },
+        {
+          "title": "What the public thinks about the emergency docket",
+          "link": "https://www.scotusblog.com/2026/08/what-the-public-thinks-about-the-emergency-docket/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This column has generally been about what the emergency docket does: how fast the justices act, how often lower courts cite its orders, who dissents on it and in what form , and where denied litigants go when they refile. This month…",
+          "published": "2026-08-20T13:30:00.000Z"
+        },
         {
           "title": "Ballroom dispute now fully briefed",
           "link": "https://www.scotusblog.com/2026/08/ballroom-dispute-now-fully-briefed/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "He said prosecutors could indict a sandwich... then they came for him. The post The Most Famous Line About Grand Juries Came Back To Bite Its Author appeared first on Above the Law .",
           "published": "2026-08-18T23:02:00.000Z"
-        },
-        {
-          "title": "Having Already Launched A Claude Connector, Trellis Extends AI Access To Its Court Data With ChatGPT Plugin And Its Own Chat Tool",
-          "link": "https://www.lawnext.com/2026/08/having-already-launched-a-claude-connector-trellis-extends-ai-access-to-its-court-data-with-chatgpt-plugin-and-its-own-chat-tool.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Trellis claims to have the largest set of U.S. state trial court data, with more than 2.5 billion records. These integrations are intended to enable litigators to query that data from inside the AI tools they already use. The post Having…",
-          "published": "2026-08-18T22:15:00.000Z"
-        },
-        {
-          "title": "The War For Legal Talent Is Here",
-          "link": "https://abovethelaw.com/2026/08/the-war-for-legal-talent-is-here/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Why law firms that ignore retention right now may pay for it for years. The post The War For Legal Talent Is Here appeared first on Above the Law .",
-          "published": "2026-08-18T21:35:00.000Z"
         }
       ]
     }
