@@ -1,9 +1,41 @@
 {
-  "updated": "2026-08-20T11:49:40.463Z",
+  "updated": "2026-08-20T12:27:14.183Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
+          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
+          "published": "2026-08-20T12:21:48.000Z"
+        },
+        {
+          "title": "Where commercial real estate demand is the highest, according to new data",
+          "link": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The National Association of Realtors has released a new index that uses factors in local economies to indicate future demand.",
+          "published": "2026-08-20T12:15:01.000Z"
+        },
+        {
+          "title": "Thousands helped with back to school costs",
+          "link": "https://www.bbc.co.uk/news/articles/cqjxn547vgpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "More than £310,000 has been given to help families with back to school costs, the government says.",
+          "published": "2026-08-20T12:05:34.000Z"
+        },
+        {
+          "title": "Danone €1bn takeover of Huel approved by watchdog",
+          "link": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "French firm says the acquisition of Huel will help it grow in the nutritional sector.",
+          "published": "2026-08-20T11:41:01.000Z"
+        },
         {
           "title": "Illegal 'drip pricing' could add thousands to the cost of your holiday",
           "link": "https://www.bbc.co.uk/news/videos/cn8ndd8eklmo?at_medium=RSS&at_campaign=rss",
@@ -11,14 +43,6 @@
           "category": "markets",
           "snippet": "The UK's consumer watchdog has opened an investigation into Trainline, RED Driving School, and Virgin Holidays.",
           "published": "2026-08-20T11:17:57.000Z"
-        },
-        {
-          "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
-          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
-          "published": "2026-08-20T11:13:22.000Z"
         },
         {
           "title": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears",
@@ -171,36 +195,52 @@
           "category": "markets",
           "snippet": "It is part of an investment of almost £100m as Harland & Wolff's Spanish owners prepare it for a major defence contract.",
           "published": "2026-08-19T12:09:24.000Z"
-        },
-        {
-          "title": "Inflation is heating up but don't expect another crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
-          "published": "2026-08-19T11:27:39.000Z"
-        },
-        {
-          "title": "OpenAI slows down training after its AI carried out hack",
-          "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
-          "published": "2026-08-19T11:19:12.000Z"
-        },
-        {
-          "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-          "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers.",
-          "published": "2026-08-19T11:08:42.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+          "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T12:04:38.000Z"
+        },
+        {
+          "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+          "link": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T12:00:23.000Z"
+        },
+        {
+          "title": "Meta glasses are a workplace menace",
+          "link": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item - but even after Hinkle told them the item was $20, the…",
+          "published": "2026-08-20T12:00:00.000Z"
+        },
+        {
+          "title": "Slack is launching collaborative vibe-coding channels",
+          "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated…",
+          "published": "2026-08-20T12:00:00.000Z"
+        },
+        {
+          "title": "AI didn't erase the junior engineer's value, it increased it it",
+          "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T11:42:20.000Z"
+        },
         {
           "title": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
           "link": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
@@ -224,14 +264,6 @@
           "category": "tech",
           "snippet": "Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among bigger automakers - especially those…",
           "published": "2026-08-20T11:00:00.000Z"
-        },
-        {
-          "title": "If this is true, the hyperscalers are toast",
-          "link": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T10:38:06.000Z"
         },
         {
           "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
@@ -266,7 +298,7 @@
           "published": "2026-08-20T08:20:44.000Z"
         },
         {
-          "title": "Windows brings out the Rorschach test in everyone",
+          "title": "Windows brings out the Rorschach test in everyone (2003)",
           "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
           "source": "Hacker News",
           "category": "tech",
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-19T19:43:48.000Z"
-        },
-        {
-          "title": "Unlocking a locked&#x2F;deactivated e-waste Cricut Maker",
-          "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T19:06:16.000Z"
-        },
-        {
-          "title": "Google Gemini is getting a dedicated student hub",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more.…",
-          "published": "2026-08-19T19:00:00.000Z"
-        },
-        {
-          "title": "The floodgates are open after another Chinese company lands a reusable rocket",
-          "link": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"We will put the booster back into service for another flight as soon as possible.\"",
-          "published": "2026-08-19T18:41:02.000Z"
-        },
-        {
-          "title": "Unsloth Dynamic 3.0 GGUFs",
-          "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T18:36:45.000Z"
         }
       ]
     },
