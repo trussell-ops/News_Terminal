@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-20T10:25:08.543Z",
+  "updated": "2026-08-20T10:54:51.601Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Walmart will report second-quarter earnings before the bell. Here's what to expect",
+          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
+          "published": "2026-08-20T10:43:16.000Z"
+        },
         {
           "title": "Wirral families supported with cost of school uniforms",
           "link": "https://www.bbc.co.uk/news/videos/c0m7ee8nmz3o?at_medium=RSS&at_campaign=rss",
@@ -51,14 +59,6 @@
           "category": "markets",
           "snippet": "The mochi ice cream company co-founder shares her top tips, job highs and lows, and what a perfect Sunday looks like.",
           "published": "2026-08-20T05:17:15.000Z"
-        },
-        {
-          "title": "Walmart will report second-quarter earnings before the bell. Here's what to expect",
-          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
-          "published": "2026-08-20T04:01:01.000Z"
         },
         {
           "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
@@ -201,6 +201,22 @@
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+          "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T10:08:52.000Z"
+        },
+        {
+          "title": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
+          "link": "https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Sennheiser announced the next version of its flagship wireless earbuds with a major redesign focusing on sustainability. The company claims the new design improves the Momentum True Wireless 5's \"comfort, stability, and portability,\" but…",
+          "published": "2026-08-20T10:00:00.000Z"
+        },
         {
           "title": "LG’s new OLED breakthrough can boost display lifespans",
           "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale for $649. That’s…",
           "published": "2026-08-19T17:56:15.000Z"
-        },
-        {
-          "title": "Google has stopped pushing Git tags for some Android source code",
-          "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T17:47:29.000Z"
-        },
-        {
-          "title": "OpenRouter is joining Stripe",
-          "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-19T17:32:38.000Z"
         }
       ]
     },
