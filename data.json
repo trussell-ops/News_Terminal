@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T03:27:24.687Z",
+  "updated": "2026-08-21T04:08:40.557Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,20 +202,20 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Codex on AWS bedrock bug causing 10x charges",
+          "link": "https://github.com/openai/codex/issues/37674",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T03:17:43.000Z"
+        },
+        {
           "title": "AI companies destroy physical books – let's scan rare books before it's too late",
           "link": "https://annas-archive.gl/blog/physical-destruction.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T02:37:47.000Z"
-        },
-        {
-          "title": "Orbital Construction Pioneers",
-          "link": "https://orbitalconstructionpioneers.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T02:03:54.000Z"
         },
         {
           "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
@@ -240,30 +240,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T00:28:37.000Z"
-        },
-        {
-          "title": "Copyright does not protect AI-generated content in EU",
-          "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T00:15:12.000Z"
-        },
-        {
-          "title": "Stealth Model",
-          "link": "https://openrouter.ai/stealth/ox-alpha",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T23:56:35.000Z"
-        },
-        {
-          "title": "Detecting scraper bots through scroll behaviour",
-          "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T22:47:52.000Z"
         },
         {
           "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
@@ -392,6 +368,30 @@
           "category": "tech",
           "snippet": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden…",
           "published": "2026-08-20T17:38:30.000Z"
+        },
+        {
+          "title": "Framework says it s addressing a BIOS update that bricked some of its older laptops",
+          "link": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards,…",
+          "published": "2026-08-20T17:16:02.000Z"
+        },
+        {
+          "title": "Roblox must make changes after failing to block adults creeping on kids",
+          "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
+          "published": "2026-08-20T17:14:08.000Z"
+        },
+        {
+          "title": "Sixtyfour (YC P25) Is Hiring",
+          "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-20T17:01:05.000Z"
         }
       ]
     },
