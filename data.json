@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-21T18:25:54.127Z",
+  "updated": "2026-08-21T19:05:13.219Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Why some of America's biggest brands are losing ground in China",
+          "link": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Nike, Starbucks and GM have lost ground in China as domestic rivals, geopolitics and changing consumer preferences reshape the market.",
+          "published": "2026-08-21T18:31:41.000Z"
+        },
         {
           "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
           "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
@@ -19,14 +27,6 @@
           "category": "markets",
           "snippet": "The bigger issue at hand may be that many Americans fall into a large, uncertain middle ground – neither firmly pro-vaccine nor staunchly opposed.",
           "published": "2026-08-21T16:25:13.000Z"
-        },
-        {
-          "title": "Why some of America's biggest brands are losing ground in China",
-          "link": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Nike, Starbucks and GM have lost ground in China as domestic rivals, geopolitics and changing consumer preferences reshape the market.",
-          "published": "2026-08-21T16:08:01.000Z"
         },
         {
           "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Scientists release biggest 2D map of the universe",
+          "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T18:36:34.000Z"
+        },
+        {
           "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
           "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
           "source": "Ars Technica",
@@ -224,14 +232,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T17:33:26.000Z"
-        },
-        {
-          "title": "When the shortage is the strategy",
-          "link": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T17:31:15.000Z"
         },
         {
           "title": "Galactic Compass 2: now with new augmented reality mode",
@@ -354,22 +354,6 @@
           "published": "2026-08-21T15:51:10.000Z"
         },
         {
-          "title": "New York’s office market is home to the most tech workers: CBRE report",
-          "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T15:36:16.000Z"
-        },
-        {
-          "title": "Cancer-related mortality among US pilots and flight attendants",
-          "link": "https://www.cnn.com/2026/08/19/health/flight-attendants-pilots-radiation-cancer-deaths",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T15:23:32.000Z"
-        },
-        {
           "title": "I ran Photoshop on a £0.60 computer chip",
           "link": "https://pointinthecloud.com/2026-08-19-144600.html",
           "source": "Hacker News",
@@ -386,18 +370,58 @@
           "published": "2026-08-21T15:17:04.000Z"
         },
         {
-          "title": "Code Obfuscation via Local Mixing",
-          "link": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
+          "title": "Why does it seem like food recalls are out of control this year?",
+          "link": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a massive cyclospora outbreak, the Food and Drug Administration recalled more than one million eggs that may be contaminated with salmonella. The eggs, which come…",
+          "published": "2026-08-21T14:45:00.000Z"
+        },
+        {
+          "title": "Google’s Pixel 10A is a great deal at 15 percent off",
+          "link": "https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but with better cameras), and the $1,899 Pixel 11 Pro Fold.…",
+          "published": "2026-08-21T14:35:22.000Z"
+        },
+        {
+          "title": "Kagi added a setting for removing paywalled links from search results",
+          "link": "https://kagi.com/changelog#11296",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-21T15:11:10.000Z"
+          "published": "2026-08-21T13:56:37.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Associate Compensation Scorecard: More Associate Raises Coming In Hot In 2027",
+          "link": "https://abovethelaw.com/2026/08/associate-compensation-scorecard-more-associate-raises-coming-in-hot-in-2027/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Some associates can see their raises off in the distance. Others have no idea when they'll be getting more money. The post Associate Compensation Scorecard: More Associate Raises Coming In Hot In 2027 appeared first on Above the Law .",
+          "published": "2026-08-21T19:03:00.000Z"
+        },
+        {
+          "title": "Supreme Court allows White House ballroom construction to continue for now",
+          "link": "https://www.scotusblog.com/2026/08/supreme-court-allows-white-house-ballroom-construction-to-continue-for-now/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Friday afternoon allowed construction on a new 90,000-square-foot White House ballroom to continue – at least for now. Senior U.S. District Judge Richard Leon had issued an order, slated to go into effect at the end…",
+          "published": "2026-08-21T18:55:08.000Z"
+        },
+        {
+          "title": "ILTACON 2026: Separating Wheat From Chaff",
+          "link": "https://abovethelaw.com/2026/08/iltacon-2026-separating-wheat-from-chaff/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "There are no catchy, cutesy promotional themes as in years past. Instead, ILTA seems to be more focused on content. The post ILTACON 2026: Separating Wheat From Chaff appeared first on Above the Law .",
+          "published": "2026-08-21T18:32:00.000Z"
+        },
         {
           "title": "The Battle To Protect Ethical Prosecutors",
           "link": "https://abovethelaw.com/2026/08/the-battle-to-protect-ethical-prosecutors/",
@@ -423,11 +447,11 @@
           "published": "2026-08-21T17:02:37.000Z"
         },
         {
-          "title": "Trump Administration Moves To Kill ABA As Law School Accreditor On Same Day ABA Surrendering To Him",
+          "title": "ABA Going To Lose Law School Accreditor On Same Day It Surrenders To Trump Administration",
           "link": "https://abovethelaw.com/2026/08/trump-administration-moves-to-kill-aba-as-law-school-accreditor-on-same-day-aba-surrendering-to-him/",
           "source": "Above the Law",
           "category": "legal",
-          "snippet": "It's almost as if cowardice doesn't pay off... The post Trump Administration Moves To Kill ABA As Law School Accreditor On Same Day ABA Surrendering To Him appeared first on Above the Law .",
+          "snippet": "It's almost as if cowardice doesn't pay off... The post ABA Going To Lose Law School Accreditor On Same Day It Surrenders To Trump Administration appeared first on Above the Law .",
           "published": "2026-08-21T16:12:00.000Z"
         },
         {
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "We may already be at the point of no return. The post To Use AI Slop, Or Not To Use AI Slop appeared first on Above the Law .",
           "published": "2026-08-20T20:32:00.000Z"
-        },
-        {
-          "title": "AI Prompt Injection Has Entered The Courtroom",
-          "link": "https://abovethelaw.com/2026/08/ai-prompt-injection-has-entered-the-courtroom/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The court did not take kindly to this. The post AI Prompt Injection Has Entered The Courtroom appeared first on Above the Law .",
-          "published": "2026-08-20T20:04:00.000Z"
-        },
-        {
-          "title": "Federal Judge Calls Arab Head Covering A Terror Scarf As Part Of Persistent Anti-Muslim Rhetoric",
-          "link": "https://abovethelaw.com/2026/08/federal-judge-calls-arab-head-covering-a-terror-scarf-as-part-of-persistent-anti-muslim-rhetoric/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "When a judge traffics in prejudice, it undermines the whole judiciary. The post Federal Judge Calls Arab Head Covering A Terror Scarf As Part Of Persistent Anti-Muslim Rhetoric appeared first on Above the Law .",
-          "published": "2026-08-20T19:15:34.000Z"
-        },
-        {
-          "title": "Antonin Scalia Would’ve Hated Today’s Supreme Court Security Restrictions",
-          "link": "https://abovethelaw.com/2026/08/antonin-scalia-wouldve-hated-todays-supreme-court-security-restrictions/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Today’s security restrictions would have put the brakes on one of Scalia’s favorite pastimes. The post Antonin Scalia Would’ve Hated Today’s Supreme Court Security Restrictions appeared first on Above the Law .",
-          "published": "2026-08-20T18:29:26.000Z"
         }
       ]
     }
