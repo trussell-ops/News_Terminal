@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-21T19:05:13.219Z",
+  "updated": "2026-08-21T19:44:32.901Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
+          "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The bigger issue at hand may be that many Americans fall into a large, uncertain middle ground – neither firmly pro-vaccine nor staunchly opposed.",
+          "published": "2026-08-21T19:14:56.000Z"
+        },
         {
           "title": "Why some of America's biggest brands are losing ground in China",
           "link": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
@@ -19,14 +27,6 @@
           "category": "markets",
           "snippet": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
           "published": "2026-08-21T16:45:09.000Z"
-        },
-        {
-          "title": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
-          "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The bigger issue at hand may be that many Americans fall into a large, uncertain middle ground – neither firmly pro-vaccine nor staunchly opposed.",
-          "published": "2026-08-21T16:25:13.000Z"
         },
         {
           "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
@@ -338,14 +338,6 @@
           "published": "2026-08-21T16:09:50.000Z"
         },
         {
-          "title": "LLMs are proof that Unix won",
-          "link": "https://bastian.rieck.me/blog/2026/unix/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T15:59:16.000Z"
-        },
-        {
           "title": "How we made a text-to-speech model respond in sub-50 ms",
           "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
           "source": "Hacker News",
@@ -386,6 +378,14 @@
           "published": "2026-08-21T14:35:22.000Z"
         },
         {
+          "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+          "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T14:31:52.000Z"
+        },
+        {
           "title": "Kagi added a setting for removing paywalled links from search results",
           "link": "https://kagi.com/changelog#11296",
           "source": "Hacker News",
@@ -399,8 +399,16 @@
       "label": "Legal Developments",
       "items": [
         {
+          "title": "Former Federal Prosecutor Indicted For Allegedly Threatening To Murder Old Bosses And Their Kids",
+          "link": "https://abovethelaw.com/2026/08/former-federal-prosecutor-indicted-for-allegedly-threatening-to-murder-old-bosses-and-their-kids/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Criminal complaint also discusses AI-generated sexually exploitative material. The post Former Federal Prosecutor Indicted For Allegedly Threatening To Murder Old Bosses And Their Kids appeared first on Above the Law .",
+          "published": "2026-08-21T19:33:00.000Z"
+        },
+        {
           "title": "Associate Compensation Scorecard: More Associate Raises Coming In Hot In 2027",
-          "link": "https://abovethelaw.com/2026/08/associate-compensation-scorecard-more-associate-raises-coming-in-hot-in-2027/",
+          "link": "https://abovethelaw.com/2026/06/associate-compensation-scorecard-the-2026-summer-of-salary-increases/",
           "source": "Above the Law",
           "category": "legal",
           "snippet": "Some associates can see their raises off in the distance. Others have no idea when they'll be getting more money. The post Associate Compensation Scorecard: More Associate Raises Coming In Hot In 2027 appeared first on Above the Law .",
@@ -447,11 +455,11 @@
           "published": "2026-08-21T17:02:37.000Z"
         },
         {
-          "title": "ABA Going To Lose Law School Accreditor On Same Day It Surrenders To Trump Administration",
+          "title": "ABA Going To Lose Law School Accreditor Role On Same Day It Surrenders To Trump Administration",
           "link": "https://abovethelaw.com/2026/08/trump-administration-moves-to-kill-aba-as-law-school-accreditor-on-same-day-aba-surrendering-to-him/",
           "source": "Above the Law",
           "category": "legal",
-          "snippet": "It's almost as if cowardice doesn't pay off... The post ABA Going To Lose Law School Accreditor On Same Day It Surrenders To Trump Administration appeared first on Above the Law .",
+          "snippet": "It's almost as if cowardice doesn't pay off... The post ABA Going To Lose Law School Accreditor Role On Same Day It Surrenders To Trump Administration appeared first on Above the Law .",
           "published": "2026-08-21T16:12:00.000Z"
         },
         {
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Acting DAG Trent McCotter wants Blanche's old job. He also helped build the thing that nearly sank Blanche's confirmation. Second verse, same as the first. The post The Anti-Weaponization Fund Is Supposed To Be Gone. One Of Its Architects…",
           "published": "2026-08-20T21:00:00.000Z"
-        },
-        {
-          "title": "To Use AI Slop, Or Not To Use AI Slop",
-          "link": "https://abovethelaw.com/2026/08/to-use-ai-slop-or-not-to-use-ai-slop/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "We may already be at the point of no return. The post To Use AI Slop, Or Not To Use AI Slop appeared first on Above the Law .",
-          "published": "2026-08-20T20:32:00.000Z"
         }
       ]
     }
