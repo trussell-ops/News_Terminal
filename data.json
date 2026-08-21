@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T08:03:35.695Z",
+  "updated": "2026-08-21T09:05:29.290Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,15 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
-          "published": "2026-08-21T07:45:13.000Z"
+          "published": "2026-08-21T08:48:25.000Z"
+        },
+        {
+          "title": "Why the US economy is ringing alarm bells",
+          "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+          "published": "2026-08-21T08:38:18.000Z"
         },
         {
           "title": "Panama Canal to cut number of ships passing through due to El Niño",
@@ -35,14 +43,6 @@
           "category": "markets",
           "snippet": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
           "published": "2026-08-20T23:16:45.000Z"
-        },
-        {
-          "title": "Why the US economy is ringing alarm bells",
-          "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-          "published": "2026-08-20T23:15:15.000Z"
         },
         {
           "title": "How landscape gardening is being electrified",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Emacs 31.1 will release on 8&#x2F;24",
+          "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T08:19:48.000Z"
+        },
+        {
           "title": "The Lost Treasure of Sid Meier's Pirates",
           "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
           "source": "Hacker News",
@@ -248,6 +256,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T05:20:50.000Z"
+        },
+        {
+          "title": "Micron announces $10B research hub in Boise",
+          "link": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T03:51:58.000Z"
         },
         {
           "title": "Codex on AWS bedrock bug causing 10x charges",
@@ -338,14 +354,6 @@
           "published": "2026-08-20T19:22:24.000Z"
         },
         {
-          "title": "SpacetimeDB: a short technical review",
-          "link": "https://strn.cat/posts/spacetime/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T19:19:53.000Z"
-        },
-        {
           "title": "Show HN: Huzzah – a novel approach to coding with AI",
           "link": "https://www.danielvaughn.dev/posts/huzzah/",
           "source": "Hacker News",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online…",
           "published": "2026-08-20T17:42:34.000Z"
-        },
-        {
-          "title": "FCC officially decides gigabit speeds are too good for you",
-          "link": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden…",
-          "published": "2026-08-20T17:38:30.000Z"
         }
       ]
     },
