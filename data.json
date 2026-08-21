@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:22:45.135Z",
+  "updated": "2026-08-21T16:58:34.780Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,7 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "The bigger issue at hand may be that many Americans fall into a large, uncertain middle ground – neither firmly pro-vaccine nor staunchly opposed.",
-          "published": "2026-08-21T16:14:25.000Z"
+          "published": "2026-08-21T16:25:13.000Z"
         },
         {
           "title": "Why some of America's biggest brands are losing ground in China",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
+          "link": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that \"infringes copyrights\" held for the game, Kotaku reports. In the subpoenas, filed on Thursday,…",
+          "published": "2026-08-21T16:52:56.000Z"
+        },
+        {
+          "title": "A self hosted AI software factory",
+          "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T16:27:52.000Z"
+        },
+        {
+          "title": "Pixel 11 gets in on the digicam trend",
+          "link": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like I hadn't seen out of a phone in years.…",
+          "published": "2026-08-21T16:27:05.000Z"
+        },
+        {
+          "title": "What happens when a GPU reads memory",
+          "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T16:16:42.000Z"
+        },
+        {
           "title": "Omacom Foundation Launches with $8M",
           "link": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
           "source": "Hacker News",
@@ -210,20 +242,20 @@
           "published": "2026-08-21T16:03:47.000Z"
         },
         {
+          "title": "I Just Want to Search",
+          "link": "https://www.0xsid.com/blog/just-want-to-search",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T16:00:54.000Z"
+        },
+        {
           "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
           "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T15:51:10.000Z"
-        },
-        {
-          "title": "Every shape can be cut exactly in half with one straight line",
-          "link": "https://bisecto.com/every-shape-can-be-cut-in-half.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T15:45:44.000Z"
         },
         {
           "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
@@ -242,28 +274,12 @@
           "published": "2026-08-21T15:23:32.000Z"
         },
         {
-          "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
-          "link": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T15:21:10.000Z"
-        },
-        {
           "title": "The B-right&#x2F;V R2 Operating System",
           "link": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T15:20:59.000Z"
-        },
-        {
-          "title": "Show HN: A desktop fly drawn to the scent of vibecode",
-          "link": "https://github.com/kulikov0/desktop-vibe-fly",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T15:19:00.000Z"
         },
         {
           "title": "Felony Bench",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Good news for Blue Eye Samurai fans: Netflix has shared the first trailer and release timeline for the second season of the animated series, and confirmed the series' return for a third and final season. The second season's new teaser…",
           "published": "2026-08-21T13:20:29.000Z"
-        },
-        {
-          "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-          "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
-          "published": "2026-08-21T13:11:35.000Z"
-        },
-        {
-          "title": "I accidentally logged phone calls to military bases",
-          "link": "https://lina.sh/blog/hijacking-e164-arpa",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T13:11:28.000Z"
         }
       ]
     },
