@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-21T15:55:53.679Z",
+  "updated": "2026-08-21T16:22:45.135Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
+          "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The bigger issue at hand may be that many Americans fall into a large, uncertain middle ground – neither firmly pro-vaccine nor staunchly opposed.",
+          "published": "2026-08-21T16:14:25.000Z"
+        },
+        {
+          "title": "Why some of America's biggest brands are losing ground in China",
+          "link": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Nike, Starbucks and GM have lost ground in China as domestic rivals, geopolitics and changing consumer preferences reshape the market.",
+          "published": "2026-08-21T16:08:01.000Z"
+        },
         {
           "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
           "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
@@ -19,22 +35,6 @@
           "category": "markets",
           "snippet": "Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.",
           "published": "2026-08-21T15:10:31.000Z"
-        },
-        {
-          "title": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
-          "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The bigger issue at hand may be that many Americans fall into a large, uncertain middle ground – neither firmly pro-vaccine nor staunchly opposed.",
-          "published": "2026-08-21T13:45:26.000Z"
-        },
-        {
-          "title": "Why some of America's biggest brands are losing ground in China",
-          "link": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Nike, Starbucks and GM have lost ground in China as domestic rivals, geopolitics and changing consumer preferences reshape the market.",
-          "published": "2026-08-21T11:30:02.000Z"
         },
         {
           "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
@@ -202,6 +202,30 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Omacom Foundation Launches with $8M",
+          "link": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T16:03:47.000Z"
+        },
+        {
+          "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
+          "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T15:51:10.000Z"
+        },
+        {
+          "title": "Every shape can be cut exactly in half with one straight line",
+          "link": "https://bisecto.com/every-shape-can-be-cut-in-half.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T15:45:44.000Z"
+        },
+        {
           "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
           "link": "https://canews24.online/?p=71",
           "source": "Hacker News",
@@ -258,6 +282,22 @@
           "published": "2026-08-21T15:14:07.000Z"
         },
         {
+          "title": "Code Obfuscation via Local Mixing",
+          "link": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T15:11:10.000Z"
+        },
+        {
+          "title": "I came to write THAT paper with Leslie Lamport",
+          "link": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T14:46:01.000Z"
+        },
+        {
           "title": "Why does it seem like food recalls are out of control this year?",
           "link": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
           "source": "The Verge",
@@ -272,14 +312,6 @@
           "category": "tech",
           "snippet": "This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but with better cameras), and the $1,899 Pixel 11 Pro Fold.…",
           "published": "2026-08-21T14:35:22.000Z"
-        },
-        {
-          "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
-          "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T14:31:52.000Z"
         },
         {
           "title": "WPD won't replace stolen Flock cameras, citing public trust",
@@ -330,14 +362,6 @@
           "published": "2026-08-21T13:35:17.000Z"
         },
         {
-          "title": "Nvidia AVO scores 100% on the ARC-AGI-3 interactive reasoning benchmark",
-          "link": "https://twitter.com/NVIDIAAI/status/2090786258981466231",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T13:26:03.000Z"
-        },
-        {
           "title": "What Happens When the Cost of Intelligence Drops 100x",
           "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
           "source": "Hacker News",
@@ -368,36 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T13:11:28.000Z"
-        },
-        {
-          "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
-          "link": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T13:07:26.000Z"
-        },
-        {
-          "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-          "link": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T13:04:31.000Z"
-        },
-        {
-          "title": "Yes&#x2F;No&#x2F;Cancel causes Aspirin sales to soar",
-          "link": "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T12:58:46.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Trump Administration Moves To Kill ABA As Law School Accreditor On Same Day ABA Surrendering To Him",
+          "link": "https://abovethelaw.com/2026/08/trump-administration-moves-to-kill-aba-as-law-school-accreditor-on-same-day-aba-surrendering-to-him/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "It's almost as if cowardice doesn't pay off... The post Trump Administration Moves To Kill ABA As Law School Accreditor On Same Day ABA Surrendering To Him appeared first on Above the Law .",
+          "published": "2026-08-21T16:12:00.000Z"
+        },
         {
           "title": "It s Kool To Have Another Milbank Associate Salary Match",
           "link": "https://abovethelaw.com/2026/08/its-kool-to-have-another-milbank-associate-salary-match/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Bells Up is a new AI offering that focuses on the lawyer who doesn't want to lock themselves into one technology... which is a lot of lawyers. The post Lawyers Want To Figure Out AI, But Many Struggle To Know Where To Start appeared first…",
           "published": "2026-08-20T16:12:00.000Z"
-        },
-        {
-          "title": "Private Equity Found A Law Firm That Said Yes",
-          "link": "https://abovethelaw.com/2026/08/private-equity-found-a-law-firm-that-said-yes/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Wood Smith Henning Berman's reported $700 million deal with Charlesbank is the clearest sign yet of which way the wind is blowing. The post Private Equity Found A Law Firm That Said Yes appeared first on Above the Law .",
-          "published": "2026-08-20T15:31:00.000Z"
         }
       ]
     }
