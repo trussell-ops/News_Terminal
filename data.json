@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-21T07:23:56.267Z",
+  "updated": "2026-08-21T08:03:35.695Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "UK borrows more than expected in July as Healey prepares for first Budget",
+          "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
+          "published": "2026-08-21T07:45:13.000Z"
+        },
         {
           "title": "Panama Canal to cut number of ships passing through due to El Niño",
           "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
@@ -19,14 +27,6 @@
           "category": "markets",
           "snippet": "Candles, haircuts, a Tesla... this week we're asking couples in London: \"What's the biggest money disagreement in your relationship?\"",
           "published": "2026-08-21T05:18:04.000Z"
-        },
-        {
-          "title": "The town whose council wants migrants to move in",
-          "link": "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Greenock wants to attract immigrants to settle in the town and reverse its declining population.",
-          "published": "2026-08-21T05:00:02.000Z"
         },
         {
           "title": "How much could Trump's 'economic D-Day' hurt Iran?",
@@ -165,6 +165,14 @@
           "published": "2026-08-20T12:05:34.000Z"
         },
         {
+          "title": "Illegal 'drip pricing' could add thousands to the cost of your holiday",
+          "link": "https://www.bbc.co.uk/news/videos/cn8ndd8eklmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The UK's consumer watchdog has opened an investigation into Trainline, RED Driving School, and Virgin Holidays.",
+          "published": "2026-08-20T11:17:57.000Z"
+        },
+        {
           "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
           "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -187,20 +195,28 @@
           "category": "markets",
           "snippet": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
           "published": "2026-08-20T06:08:02.000Z"
-        },
-        {
-          "title": "Little Moons co-founder: Don't wait for your product to be perfect",
-          "link": "https://www.bbc.co.uk/news/videos/cgq5ky2ezl5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The mochi ice cream company co-founder shares her top tips, job highs and lows, and what a perfect Sunday looks like.",
-          "published": "2026-08-20T05:17:15.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "The Lost Treasure of Sid Meier's Pirates",
+          "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T07:23:27.000Z"
+        },
+        {
+          "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+          "link": "https://encore.dev/blog/firecracker-apple-silicon",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T06:59:40.000Z"
+        },
         {
           "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
           "link": "https://Argentic.network",
@@ -216,14 +232,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T05:39:39.000Z"
-        },
-        {
-          "title": "Stop Making TUIs",
-          "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T05:37:38.000Z"
         },
         {
           "title": "Japan tried to build an operating system for the world, the US intervened",
@@ -362,14 +370,6 @@
           "published": "2026-08-20T18:38:47.000Z"
         },
         {
-          "title": "Consumer Rights Wiki",
-          "link": "https://consumerrights.wiki/w/Main_Page",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T18:19:51.000Z"
-        },
-        {
           "title": "I should have loved biology (2020)",
           "link": "https://jsomers.net/i-should-have-loved-biology/",
           "source": "Hacker News",
@@ -386,12 +386,12 @@
           "published": "2026-08-20T17:42:34.000Z"
         },
         {
-          "title": "Project Cybersyn (2022)",
-          "link": "https://bactra.org/notebooks/cybersyn.html",
-          "source": "Hacker News",
+          "title": "FCC officially decides gigabit speeds are too good for you",
+          "link": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+          "source": "The Verge",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T17:40:49.000Z"
+          "snippet": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden…",
+          "published": "2026-08-20T17:38:30.000Z"
         }
       ]
     },
