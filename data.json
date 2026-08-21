@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T17:56:04.737Z",
+  "updated": "2026-08-21T18:25:54.127Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+          "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
+          "published": "2026-08-21T18:07:15.000Z"
+        },
+        {
+          "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
+          "link": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $60. The deal is…",
+          "published": "2026-08-21T18:00:00.000Z"
+        },
+        {
           "title": "Rebuilding our Electron meeting-recording engine in Swift",
           "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T17:33:26.000Z"
+        },
+        {
+          "title": "When the shortage is the strategy",
+          "link": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T17:31:15.000Z"
+        },
+        {
+          "title": "Galactic Compass 2: now with new augmented reality mode",
+          "link": "https://interconnected.org/home/2026/08/21/galactic",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T17:30:38.000Z"
         },
         {
           "title": "Walmart is finally adding Apple Pay and Google Pay",
@@ -234,12 +266,20 @@
           "published": "2026-08-21T16:52:56.000Z"
         },
         {
-          "title": "Another Better Lower Bound for N=17 Square Packing",
+          "title": "Another better lower bound for n=17 square packing",
           "link": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T16:50:15.000Z"
+        },
+        {
+          "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+          "link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Romania blew up drone boat to protect lives of several hundred rig workers.",
+          "published": "2026-08-21T16:48:59.000Z"
         },
         {
           "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
@@ -250,7 +290,15 @@
           "published": "2026-08-21T16:47:15.000Z"
         },
         {
-          "title": "A self hosted AI software factory",
+          "title": "Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say",
+          "link": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Some Americans fear the FTC may be thinking about personalized pricing all wrong.",
+          "published": "2026-08-21T16:38:25.000Z"
+        },
+        {
+          "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
           "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
           "source": "Hacker News",
           "category": "tech",
@@ -282,20 +330,28 @@
           "published": "2026-08-21T16:16:42.000Z"
         },
         {
-          "title": "Omacom Foundation Launches with $8M",
-          "link": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+          "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
+          "link": "https://github.com/aravpanwar/decayfmt",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-21T16:03:47.000Z"
+          "published": "2026-08-21T16:09:50.000Z"
         },
         {
-          "title": "I Just Want to Search",
-          "link": "https://www.0xsid.com/blog/just-want-to-search",
+          "title": "LLMs are proof that Unix won",
+          "link": "https://bastian.rieck.me/blog/2026/unix/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-21T16:00:54.000Z"
+          "published": "2026-08-21T15:59:16.000Z"
+        },
+        {
+          "title": "How we made a text-to-speech model respond in sub-50 ms",
+          "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T15:51:10.000Z"
         },
         {
           "title": "New York’s office market is home to the most tech workers: CBRE report",
@@ -306,20 +362,20 @@
           "published": "2026-08-21T15:36:16.000Z"
         },
         {
-          "title": "AI boosted homework scores, then exam scores dropped: Study",
-          "link": "https://canews24.online/?p=71",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T15:25:42.000Z"
-        },
-        {
-          "title": "Cancer-Related Mortality Among US Pilots and Flight Attendants",
-          "link": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504",
+          "title": "Cancer-related mortality among US pilots and flight attendants",
+          "link": "https://www.cnn.com/2026/08/19/health/flight-attendants-pilots-radiation-cancer-deaths",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T15:23:32.000Z"
+        },
+        {
+          "title": "I ran Photoshop on a £0.60 computer chip",
+          "link": "https://pointinthecloud.com/2026-08-19-144600.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T15:17:47.000Z"
         },
         {
           "title": "Felony Bench",
@@ -336,68 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T15:11:10.000Z"
-        },
-        {
-          "title": "I came to write THAT paper with Leslie Lamport",
-          "link": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T14:46:01.000Z"
-        },
-        {
-          "title": "Why does it seem like food recalls are out of control this year?",
-          "link": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a massive cyclospora outbreak, the Food and Drug Administration recalled more than one million eggs that may be contaminated with salmonella. The eggs, which come…",
-          "published": "2026-08-21T14:45:00.000Z"
-        },
-        {
-          "title": "Google’s Pixel 10A is a great deal at 15 percent off",
-          "link": "https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but with better cameras), and the $1,899 Pixel 11 Pro Fold.…",
-          "published": "2026-08-21T14:35:22.000Z"
-        },
-        {
-          "title": "Kagi added a setting for removing paywalled links from search results",
-          "link": "https://kagi.com/changelog#11296",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T13:56:37.000Z"
-        },
-        {
-          "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
-          "link": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T13:52:53.000Z"
-        },
-        {
-          "title": "Major YouTube creators are facing backlash for accepting AI money",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight…",
-          "published": "2026-08-21T13:37:52.000Z"
-        },
-        {
-          "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
-          "link": "https://arxiv.org/abs/2608.18214",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T13:35:17.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Battle To Protect Ethical Prosecutors",
+          "link": "https://abovethelaw.com/2026/08/the-battle-to-protect-ethical-prosecutors/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The reform campaign to end prosecutorial misconduct. The post The Battle To Protect Ethical Prosecutors appeared first on Above the Law .",
+          "published": "2026-08-21T18:02:00.000Z"
+        },
         {
           "title": "Are All Lawyers ‘Legal Technologists’ Now?",
           "link": "https://abovethelaw.com/2026/08/are-all-lawyers-legal-technologists-now/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Today’s security restrictions would have put the brakes on one of Scalia’s favorite pastimes. The post Antonin Scalia Would’ve Hated Today’s Supreme Court Security Restrictions appeared first on Above the Law .",
           "published": "2026-08-20T18:29:26.000Z"
-        },
-        {
-          "title": "TX Gov Opts Out Of Constitution, Thanks",
-          "link": "https://abovethelaw.com/2026/08/tx-gov-opts-out-of-constitution-thanks/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Try that in a small courtroom. The post TX Gov Opts Out Of Constitution, Thanks appeared first on Above the Law .",
-          "published": "2026-08-20T17:46:19.000Z"
         }
       ]
     }
