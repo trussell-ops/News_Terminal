@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T22:47:29.103Z",
+  "updated": "2026-08-21T23:14:16.506Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "I own 28,000 books – here's what I've learned",
+          "link": "https://www.shelvd.org/blog/28000-books",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T22:59:27.000Z"
+        },
+        {
+          "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
+          "link": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T22:15:46.000Z"
+        },
+        {
+          "title": "HoverAir’s transforming modular drone has already been halted in the US",
+          "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three…",
+          "published": "2026-08-21T22:14:11.000Z"
+        },
+        {
+          "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+          "link": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that…",
+          "published": "2026-08-21T22:13:34.000Z"
+        },
+        {
           "title": "Remotely Unlocking Electric Scooters",
           "link": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T21:32:07.000Z"
+        },
+        {
+          "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have…",
+          "published": "2026-08-21T21:25:50.000Z"
         },
         {
           "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
@@ -232,14 +272,6 @@
           "category": "tech",
           "snippet": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
           "published": "2026-08-21T20:10:50.000Z"
-        },
-        {
-          "title": "Quick impressions: A week of using Codex more than Claude",
-          "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T19:51:48.000Z"
         },
         {
           "title": "Apple is laying off staffers working on the Vision Pro and Siri",
@@ -272,14 +304,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T18:59:52.000Z"
-        },
-        {
-          "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T18:48:28.000Z"
         },
         {
           "title": "Scientists release biggest 2D map of the universe",
@@ -368,36 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T16:16:42.000Z"
-        },
-        {
-          "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
-          "link": "https://github.com/aravpanwar/decayfmt",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T16:09:50.000Z"
-        },
-        {
-          "title": "How we made a text-to-speech model respond in sub-50 ms",
-          "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T15:51:10.000Z"
-        },
-        {
-          "title": "I ran Photoshop on a £0.60 computer chip",
-          "link": "https://pointinthecloud.com/2026-08-19-144600.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T15:17:47.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Supreme Court Confirmation Isn t Always A Sure Thing Just Ask The First Man To Lose One",
+          "link": "https://abovethelaw.com/2026/08/supreme-court-confirmation-isnt-always-a-sure-thing-just-ask-the-first-man-to-lose-one/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "He was Borked before Borking was a thing. The post Supreme Court Confirmation Isn t Always A Sure Thing Just Ask The First Man To Lose One appeared first on Above the Law .",
+          "published": "2026-08-21T23:03:00.000Z"
+        },
         {
           "title": "How To Audit Your Law Firm Website For AI Readability",
           "link": "https://abovethelaw.com/2026/08/how-to-audit-your-law-firm-website-for-ai-readability/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "President Donald Trump has asked the Supreme Court to weigh in on his defamation case against cable news giant CNN. In a filing submitted on Aug. 14 but docketed on Thursday, Trump told the justices that “CNN falsely and maliciously…",
           "published": "2026-08-21T00:05:11.000Z"
-        },
-        {
-          "title": "The First Big Yes In Private Equity s Slow March Into Law See Also",
-          "link": "https://abovethelaw.com/2026/08/the-first-big-yes-in-private-equitys-slow-march-into-law-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Private Equity's Law Firm Takeover Isn't Here, But It Just Got A Lot Closer: The reported $700 million Charlesbank deal for Wood Smith Henning Berman gives PE a toehold in the industry. Todd Blanche's Potential Successor Has A Slush Fund…",
-          "published": "2026-08-20T23:32:00.000Z"
         }
       ]
     }
