@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-21T06:29:31.244Z",
+  "updated": "2026-08-21T07:23:56.267Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Panama Canal to cut number of ships passing through due to El Niño",
+          "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
+          "published": "2026-08-21T06:46:08.000Z"
+        },
         {
           "title": "Couples share their biggest money disagreements",
           "link": "https://www.bbc.co.uk/news/videos/cr49vr77gy7o?at_medium=RSS&at_campaign=rss",
@@ -187,20 +195,20 @@
           "category": "markets",
           "snippet": "The mochi ice cream company co-founder shares her top tips, job highs and lows, and what a perfect Sunday looks like.",
           "published": "2026-08-20T05:17:15.000Z"
-        },
-        {
-          "title": "India's Gen Z are driving up a mega boom in its beauty market",
-          "link": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom.",
-          "published": "2026-08-19T23:31:24.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+          "link": "https://Argentic.network",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T06:24:16.000Z"
+        },
         {
           "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
           "link": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
@@ -210,12 +218,28 @@
           "published": "2026-08-21T05:39:39.000Z"
         },
         {
+          "title": "Stop Making TUIs",
+          "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T05:37:38.000Z"
+        },
+        {
           "title": "Japan tried to build an operating system for the world, the US intervened",
           "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T05:31:34.000Z"
+        },
+        {
+          "title": "Seed: Minimal, self-modifying agent harness",
+          "link": "https://github.com/vivekhaldar/seed",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T05:20:50.000Z"
         },
         {
           "title": "Codex on AWS bedrock bug causing 10x charges",
@@ -240,14 +264,6 @@
           "category": "tech",
           "snippet": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a large 2.9-inch LCD…",
           "published": "2026-08-21T02:00:00.000Z"
-        },
-        {
-          "title": "There's no such thing as a small software team anymore",
-          "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T00:28:37.000Z"
         },
         {
           "title": "Ox Alpha",
@@ -290,14 +306,6 @@
           "published": "2026-08-20T21:25:25.000Z"
         },
         {
-          "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-          "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-20T20:07:26.000Z"
-        },
-        {
           "title": "Riot is ending development on its League of Legends fighting game",
           "link": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
           "source": "The Verge",
@@ -322,7 +330,7 @@
           "published": "2026-08-20T19:22:24.000Z"
         },
         {
-          "title": "SpacetimeDB: A Short Technical Review",
+          "title": "SpacetimeDB: a short technical review",
           "link": "https://strn.cat/posts/spacetime/",
           "source": "Hacker News",
           "category": "tech",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-20T17:40:49.000Z"
-        },
-        {
-          "title": "FCC officially decides gigabit speeds are too good for you",
-          "link": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden…",
-          "published": "2026-08-20T17:38:30.000Z"
         }
       ]
     },
