@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-21T10:57:08.312Z",
+  "updated": "2026-08-21T11:21:16.446Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
+          "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The bigger issue at hand may be that many Americans fall into a large, uncertain middle ground – neither firmly pro-vaccine nor staunchly opposed.",
+          "published": "2026-08-21T11:00:01.000Z"
+        },
         {
           "title": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
           "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
@@ -187,20 +195,28 @@
           "category": "markets",
           "snippet": "The UK's consumer watchdog has opened an investigation into Trainline, RED Driving School, and Virgin Holidays.",
           "published": "2026-08-20T11:17:57.000Z"
-        },
-        {
-          "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-          "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
-          "published": "2026-08-20T10:05:24.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "My big, fat, technophobic cat",
+          "link": "https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "My cat Pablo is a voluptuous boy. His primordial pouch, originally thought to protect cats' squishy insides, hangs low and wobbles to and fro. Once, when he was five or six, a vet sternly sat my spouse and me down, gravely stating, \"He's…",
+          "published": "2026-08-21T11:00:00.000Z"
+        },
+        {
+          "title": "DeepSeek-v4-flash-vision-exp",
+          "link": "https://api-docs.deepseek.com/guides/vision/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T10:33:56.000Z"
+        },
         {
           "title": "Small, native web tricks worth remembering",
           "link": "https://htmlcat.net/",
@@ -210,12 +226,12 @@
           "published": "2026-08-21T09:45:14.000Z"
         },
         {
-          "title": "Emacs 31.1 will release on 8&#x2F;24",
-          "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY",
+          "title": "Better Batteries",
+          "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-21T08:19:48.000Z"
+          "published": "2026-08-21T07:48:50.000Z"
         },
         {
           "title": "The Lost Treasure of Sid Meier's Pirates",
@@ -264,14 +280,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T03:51:58.000Z"
-        },
-        {
-          "title": "Codex on AWS bedrock bug causing 10x charges",
-          "link": "https://github.com/openai/codex/issues/37674",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T03:17:43.000Z"
         },
         {
           "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online…",
           "published": "2026-08-20T17:42:34.000Z"
-        },
-        {
-          "title": "FCC officially decides gigabit speeds are too good for you",
-          "link": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden…",
-          "published": "2026-08-20T17:38:30.000Z"
         }
       ]
     },
