@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T17:28:01.737Z",
+  "updated": "2026-08-21T17:56:04.737Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Rebuilding our Electron meeting-recording engine in Swift",
+          "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T17:33:26.000Z"
+        },
+        {
           "title": "Walmart is finally adding Apple Pay and Google Pay",
           "link": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
           "source": "The Verge",
@@ -232,6 +240,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T16:50:15.000Z"
+        },
+        {
+          "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+          "link": "https://github.com/proliferate-ai/proliferate",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T16:47:15.000Z"
         },
         {
           "title": "A self hosted AI software factory",
@@ -282,15 +298,15 @@
           "published": "2026-08-21T16:00:54.000Z"
         },
         {
-          "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
-          "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+          "title": "New York’s office market is home to the most tech workers: CBRE report",
+          "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-21T15:51:10.000Z"
+          "published": "2026-08-21T15:36:16.000Z"
         },
         {
-          "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "title": "AI boosted homework scores, then exam scores dropped: Study",
           "link": "https://canews24.online/?p=71",
           "source": "Hacker News",
           "category": "tech",
@@ -312,14 +328,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T15:17:04.000Z"
-        },
-        {
-          "title": "c100",
-          "link": "https://caligra.com/c100/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T15:14:07.000Z"
         },
         {
           "title": "Code Obfuscation via Local Mixing",
@@ -354,22 +362,6 @@
           "published": "2026-08-21T14:35:22.000Z"
         },
         {
-          "title": "WPD won't replace stolen Flock cameras, citing public trust",
-          "link": "https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T14:27:37.000Z"
-        },
-        {
-          "title": "What We Lost When Search Stopped Making Us Think",
-          "link": "https://blog.8ball.space/what-we-lost-when-search/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T14:16:17.000Z"
-        },
-        {
           "title": "Kagi added a setting for removing paywalled links from search results",
           "link": "https://kagi.com/changelog#11296",
           "source": "Hacker News",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight…",
           "published": "2026-08-21T13:37:52.000Z"
+        },
+        {
+          "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
+          "link": "https://arxiv.org/abs/2608.18214",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T13:35:17.000Z"
         }
       ]
     },
@@ -399,12 +399,60 @@
       "label": "Legal Developments",
       "items": [
         {
+          "title": "Are All Lawyers ‘Legal Technologists’ Now?",
+          "link": "https://abovethelaw.com/2026/08/are-all-lawyers-legal-technologists-now/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A pre-ILTACON check-in with CEO Joy Heath Rush. The post Are All Lawyers ‘Legal Technologists’ Now? appeared first on Above the Law .",
+          "published": "2026-08-21T17:34:00.000Z"
+        },
+        {
+          "title": "The Best Law Schools For Health Law (2026)",
+          "link": "https://abovethelaw.com/2026/08/the-best-law-schools-for-health-law-2026/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "If you're interested in health law, you need to see this list. The post The Best Law Schools For Health Law (2026) appeared first on Above the Law .",
+          "published": "2026-08-21T17:02:37.000Z"
+        },
+        {
+          "title": "Trump Administration Moves To Kill ABA As Law School Accreditor On Same Day ABA Surrendering To Him",
+          "link": "https://abovethelaw.com/2026/08/trump-administration-moves-to-kill-aba-as-law-school-accreditor-on-same-day-aba-surrendering-to-him/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "It's almost as if cowardice doesn't pay off... The post Trump Administration Moves To Kill ABA As Law School Accreditor On Same Day ABA Surrendering To Him appeared first on Above the Law .",
+          "published": "2026-08-21T16:12:00.000Z"
+        },
+        {
+          "title": "It s Kool To Have Another Milbank Associate Salary Match",
+          "link": "https://abovethelaw.com/2026/08/its-kool-to-have-another-milbank-associate-salary-match/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Come January, that is. The post It s Kool To Have Another Milbank Associate Salary Match appeared first on Above the Law .",
+          "published": "2026-08-21T15:25:43.000Z"
+        },
+        {
+          "title": "Alleged Penn State Cocaine Ring Figure Was Headed To Law School On A $188,000 Scholarship Emphasis On Was",
+          "link": "https://abovethelaw.com/2026/08/alleged-penn-state-cocaine-ring-figure-was-headed-to-law-school-on-a-188000-scholarship-emphasis-on-was/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "New England Law Boston pulled the admission this week. The post Alleged Penn State Cocaine Ring Figure Was Headed To Law School On A $188,000 Scholarship Emphasis On Was appeared first on Above the Law .",
+          "published": "2026-08-21T14:42:00.000Z"
+        },
+        {
           "title": "Realizing Scalia’s vision: state originalism centers as legal civics education",
           "link": "https://www.scotusblog.com/2026/08/realizing-scalias-vision-state-originalism-centers-as-legal-civics-education/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "It is no secret that, thanks to Justice Antonin Scalia, originalism is on the rise . This is true not only on the Supreme Court and the federal judiciary in general, but among state judiciaries as well.Yet, although there is more and more…",
           "published": "2026-08-21T14:30:00.000Z"
+        },
+        {
+          "title": "How Appealing Weekly Roundup",
+          "link": "https://abovethelaw.com/2026/08/how-appealing-weekly-roundup-182/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
+          "published": "2026-08-21T14:03:00.000Z"
         },
         {
           "title": "Six justices, five techniques: writing lessons from the 2025-26 term",
@@ -431,6 +479,14 @@
           "published": "2026-08-21T13:00:00.000Z"
         },
         {
+          "title": "Morning Docket: 08.21.26",
+          "link": "https://abovethelaw.com/2026/08/morning-docket-08-21-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Judge suspended for -- among other things -- not disclosing stepson's appearance in front of him. [ ABA Journal ] * \"Parking Company Apologizes to Formerly Dead Woman for $80 Ticket.\" [ Lowering the Bar ] * Administration brings places…",
+          "published": "2026-08-21T12:54:00.000Z"
+        },
+        {
           "title": "Trump asks Supreme Court to hear his defamation case against CNN",
           "link": "https://www.scotusblog.com/2026/08/trump-asks-supreme-court-to-hear-his-defamation-case-against-cnn/",
           "source": "SCOTUSblog",
@@ -439,156 +495,100 @@
           "published": "2026-08-21T00:05:11.000Z"
         },
         {
-          "title": "Slaughter’s vice",
-          "link": "https://www.scotusblog.com/2026/08/slaughters-vice/",
-          "source": "SCOTUSblog",
+          "title": "The First Big Yes In Private Equity s Slow March Into Law See Also",
+          "link": "https://abovethelaw.com/2026/08/the-first-big-yes-in-private-equitys-slow-march-into-law-see-also/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "As a new school year gets underway, law students might expect to soon be called upon to answer a seemingly simple question: What did the Supreme Court hold in Trump v. Slaughter ? A student who has dutifully done the reading might respond…",
-          "published": "2026-08-20T14:00:00.000Z"
+          "snippet": "Private Equity's Law Firm Takeover Isn't Here, But It Just Got A Lot Closer: The reported $700 million Charlesbank deal for Wood Smith Henning Berman gives PE a toehold in the industry. Todd Blanche's Potential Successor Has A Slush Fund…",
+          "published": "2026-08-20T23:32:00.000Z"
         },
         {
-          "title": "What the public thinks about the emergency docket",
-          "link": "https://www.scotusblog.com/2026/08/what-the-public-thinks-about-the-emergency-docket/",
-          "source": "SCOTUSblog",
+          "title": "The Confirmation Speech That Doomed The SCOTUS Nominee It Was Meant To Save",
+          "link": "https://abovethelaw.com/2026/08/the-confirmation-speech-that-doomed-the-scotus-nominee-it-was-meant-to-save/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "This column has generally been about what the emergency docket does: how fast the justices act, how often lower courts cite its orders, who dissents on it and in what form , and where denied litigants go when they refile. This month…",
-          "published": "2026-08-20T13:30:00.000Z"
+          "snippet": "Sure, the guy's mediocre, but don't mediocrities deserve a seat on the Court? The post The Confirmation Speech That Doomed The SCOTUS Nominee It Was Meant To Save appeared first on Above the Law .",
+          "published": "2026-08-20T23:00:00.000Z"
         },
         {
-          "title": "Ballroom dispute now fully briefed",
-          "link": "https://www.scotusblog.com/2026/08/ballroom-dispute-now-fully-briefed/",
-          "source": "SCOTUSblog",
+          "title": "Neuroscience For Lawyers, A Texas Two-Step, And Rinse And Repeat In DC",
+          "link": "https://abovethelaw.com/2026/08/neuroscience-for-lawyers-a-texas-two-step-and-rinse-and-repeat-in-dc/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, a group of Florida Republicans brings their Census Bureau challenge to SCOTUS.",
-          "published": "2026-08-20T13:00:00.000Z"
+          "snippet": "Some lawyers don’t know how to spell collegial, let alone act that way. The post Neuroscience For Lawyers, A Texas Two-Step, And Rinse And Repeat In DC appeared first on Above the Law .",
+          "published": "2026-08-20T22:46:00.000Z"
         },
         {
-          "title": "Florida Republicans bring Census Bureau challenge to the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/08/florida-republicans-bring-census-bureau-challenge-to-the-supreme-court/",
-          "source": "SCOTUSblog",
+          "title": "Law Practice Management Company Smokeball Unveils New Global Brand Built Around ‘Powering People-Law’",
+          "link": "https://www.lawnext.com/2026/08/law-practice-management-company-smokeball-unveils-new-global-brand-built-around-powering-people-law.html",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "A group of Florida Republicans has appealed a ruling by a federal court in that state throwing out a lawsuit seeking to require the U.S. Census Bureau to revise its data for the 2020 census. Arguing that the statistical methods the Census…",
-          "published": "2026-08-19T17:21:00.000Z"
+          "snippet": "Smokeball is unveiling a new global brand that focuses on both its duty to empower the lawyers who are its customers and their duty to do their best for the clients who are their customers. The post Law Practice Management Company…",
+          "published": "2026-08-20T22:16:00.000Z"
         },
         {
-          "title": "Trump detention policy nears SCOTUS",
-          "link": "https://www.scotusblog.com/2026/08/trump-detention-policy-nears-scotus/",
-          "source": "SCOTUSblog",
+          "title": "How To Get Your Nonfiction Book Published",
+          "link": "https://abovethelaw.com/2026/08/how-to-get-your-nonfiction-book-published/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "As part of the Trump administration’s hardline approach to migrants, the Immigration and Customs Enforcement agency has ramped up the number of people it detains. Soon, the Supreme Court may decide whether one of the administration’s…",
-          "published": "2026-08-19T14:00:00.000Z"
+          "snippet": "What to know about traditional publishing, self-publishing, literary agents, platforms, and why you are writing in the first place. The post How To Get Your Nonfiction Book Published appeared first on Above the Law .",
+          "published": "2026-08-20T21:45:00.000Z"
         },
         {
-          "title": "The scope of the Supreme Court’s emergency docket",
-          "link": "https://www.scotusblog.com/2026/08/the-scope-of-the-supreme-courts-emergency-docket/",
-          "source": "SCOTUSblog",
+          "title": "Hearing Adjourned After Lawyer Suffers Shock Bar Association Election Loss",
+          "link": "https://abovethelaw.com/2026/08/hearing-adjourned-after-lawyer-suffers-shock-bar-association-election-loss/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "On Aug. 12, an unusual emergency docket application captured court watchers’ attention. It centered on a dog named Bruce who was scheduled to die. Bruce, a 3-year-old Great Pyrenees/German Shepherd mix who weighed about 120 pounds , was…",
-          "published": "2026-08-19T13:30:00.000Z"
+          "snippet": "That's a new one! The post Hearing Adjourned After Lawyer Suffers Shock Bar Association Election Loss appeared first on Above the Law .",
+          "published": "2026-08-20T21:33:00.000Z"
         },
         {
-          "title": "Trump administration awaits emergency docket decisions",
-          "link": "https://www.scotusblog.com/2026/08/trump-administration-awaits-emergency-docket-decisions/",
-          "source": "SCOTUSblog",
+          "title": "The Anti-Weaponization Fund Is Supposed To Be Gone. One Of Its Architects Wants To Be The Next Deputy Attorney General.",
+          "link": "https://abovethelaw.com/2026/08/the-anti-weaponization-fund-is-supposed-to-be-gone-one-of-its-architects-wants-to-be-the-next-deputy-attorney-general/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, an update on the ripple effects of the Supreme Court’s TPS ruling.",
-          "published": "2026-08-19T13:00:00.000Z"
+          "snippet": "Acting DAG Trent McCotter wants Blanche's old job. He also helped build the thing that nearly sank Blanche's confirmation. Second verse, same as the first. The post The Anti-Weaponization Fund Is Supposed To Be Gone. One Of Its Architects…",
+          "published": "2026-08-20T21:00:00.000Z"
         },
         {
-          "title": "Supreme Court urged to leave in place order blocking construction of White House ballroom",
-          "link": "https://www.scotusblog.com/2026/08/supreme-court-urged-to-leave-in-place-order-blocking-construction-of-white-house-ballroom/",
-          "source": "SCOTUSblog",
+          "title": "To Use AI Slop, Or Not To Use AI Slop",
+          "link": "https://abovethelaw.com/2026/08/to-use-ai-slop-or-not-to-use-ai-slop/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Lawyers for the National Trust for Historic Preservation urged the Supreme Court on Tuesday afternoon to leave in place a ruling by a federal court in Washington, D.C., that would temporarily block construction of a new White House…",
-          "published": "2026-08-18T17:34:00.000Z"
+          "snippet": "We may already be at the point of no return. The post To Use AI Slop, Or Not To Use AI Slop appeared first on Above the Law .",
+          "published": "2026-08-20T20:32:00.000Z"
         },
         {
-          "title": "The chief justice should share much of his power",
-          "link": "https://www.scotusblog.com/2026/08/the-chief-justice-should-share-much-of-his-power/",
-          "source": "SCOTUSblog",
+          "title": "AI Prompt Injection Has Entered The Courtroom",
+          "link": "https://abovethelaw.com/2026/08/ai-prompt-injection-has-entered-the-courtroom/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "This is the fourth piece in a series on what I believe the court can, and should, do better. *** Under longstanding tradition, the chief justice presides over oral argument and the justices’ private conferences. I propose a change. The…",
-          "published": "2026-08-18T14:00:00.000Z"
+          "snippet": "The court did not take kindly to this. The post AI Prompt Injection Has Entered The Courtroom appeared first on Above the Law .",
+          "published": "2026-08-20T20:04:00.000Z"
         },
         {
-          "title": "What if one vote had changed in the birthright citizenship case?",
-          "link": "https://www.scotusblog.com/2026/08/what-if-one-vote-had-changed-in-the-birthright-citizenship-case/",
-          "source": "SCOTUSblog",
+          "title": "Federal Judge Calls Arab Head Covering A Terror Scarf As Part Of Persistent Anti-Muslim Rhetoric",
+          "link": "https://abovethelaw.com/2026/08/federal-judge-calls-arab-head-covering-a-terror-scarf-as-part-of-persistent-anti-muslim-rhetoric/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "In Trump v. Barbara , the Supreme Court held that executive order 14160 , which attempted to end birthright citizenship for the children of undocumented immigrants and those temporarily residing in the United States, was unconstitutional…",
-          "published": "2026-08-18T13:30:00.000Z"
+          "snippet": "When a judge traffics in prejudice, it undermines the whole judiciary. The post Federal Judge Calls Arab Head Covering A Terror Scarf As Part Of Persistent Anti-Muslim Rhetoric appeared first on Above the Law .",
+          "published": "2026-08-20T19:15:34.000Z"
         },
         {
-          "title": "Trump v. Carroll and the Ten Commandments",
-          "link": "https://www.scotusblog.com/2026/08/trump-v-carroll-and-the-ten-commandments/",
-          "source": "SCOTUSblog",
+          "title": "Antonin Scalia Would’ve Hated Today’s Supreme Court Security Restrictions",
+          "link": "https://abovethelaw.com/2026/08/antonin-scalia-wouldve-hated-todays-supreme-court-security-restrictions/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, the role of national security in the White House ballroom battle",
-          "published": "2026-08-18T13:00:00.000Z"
+          "snippet": "Today’s security restrictions would have put the brakes on one of Scalia’s favorite pastimes. The post Antonin Scalia Would’ve Hated Today’s Supreme Court Security Restrictions appeared first on Above the Law .",
+          "published": "2026-08-20T18:29:26.000Z"
         },
         {
-          "title": "Texas families ask Supreme Court to take up challenge to Ten Commandments in schools",
-          "link": "https://www.scotusblog.com/2026/08/texas-families-ask-supreme-court-to-take-up-challenge-to-ten-commandments-in-schools/",
-          "source": "SCOTUSblog",
+          "title": "TX Gov Opts Out Of Constitution, Thanks",
+          "link": "https://abovethelaw.com/2026/08/tx-gov-opts-out-of-constitution-thanks/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Lawyers for a group of Texas families with children in the state’s public schools came to the Supreme Court on Monday, asking the justices to weigh in on the constitutionality of a 2025 law that requires each classroom in that state to…",
-          "published": "2026-08-17T21:05:22.000Z"
-        },
-        {
-          "title": "Court turns down Trump’s request to reconsider its refusal to hear Carroll suit against him",
-          "link": "https://www.scotusblog.com/2026/08/court-turns-down-trumps-request-to-reconsider-its-refusal-to-hear-carroll-suit-against-him/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Monday morning turned down President Donald Trump’s request to reconsider the justices’ denial of review in a civil suit brought by journalist E. Jean Carroll, which yielded a $5 million verdict against the president.…",
-          "published": "2026-08-17T14:46:00.000Z"
-        },
-        {
-          "title": "SCOTUS litigator Floyd Abrams at 90",
-          "link": "https://www.scotusblog.com/2026/08/scotus-litigator-floyd-abrams-at-90/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Floyd Abrams’ initials signaled his destiny as a First Amendment lawyer. More than any others, Abrams’ name is synonymous with freedom of speech and the press. Now nine decades into his life journey, I thought it would be good to provide…",
-          "published": "2026-08-17T14:00:00.000Z"
-        },
-        {
-          "title": "Who is Justice Barrett?",
-          "link": "https://www.scotusblog.com/2026/08/who-is-justice-barrett/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In 2024, Justice Amy Coney Barrett ended the Supreme Court’s term with two dissents that complicated the usual descriptions of her as a textbook conservative. In Ohio v. EPA , decided on June 27, 2024, Barrett joined the court’s three…",
-          "published": "2026-08-17T13:30:00.000Z"
-        },
-        {
-          "title": "Emergency docket heats up",
-          "link": "https://www.scotusblog.com/2026/08/emergency-docket-heats-up/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a refresher on the Supreme Court’s lottery system for oral argument tickets.",
-          "published": "2026-08-17T13:00:00.000Z"
-        },
-        {
-          "title": "Trump brings ballroom dispute to the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/08/trump-brings-ballroom-dispute-to-the-supreme-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on Aug. 14 at 2:01 p.m. The Trump administration came to the Supreme Court on Friday, asking the justices to allow construction of the new White House ballroom to continue while a challenge to the project continues in the lower…",
-          "published": "2026-08-14T16:09:44.000Z"
-        },
-        {
-          "title": "Understanding the court’s next major case on asylum seekers: Wassily v. Blanche",
-          "link": "https://www.scotusblog.com/2026/08/understanding-the-courts-next-major-case-on-asylum-seekers-wassily-v-blanche/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This coming term, in Wassily v. Blanche , the Supreme Court will decide whether asylum beneficiaries are barred from obtaining lawful permanent residency if their asylum status has been terminated. Wassily is of considerable significance.…",
-          "published": "2026-08-14T14:00:00.000Z"
-        },
-        {
-          "title": "Who exactly are the “friends of the court”?",
-          "link": "https://www.scotusblog.com/2026/08/who-exactly-are-the-friends-of-the-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "On Oct. 13, the Supreme Court will hear argument in Beaird v. United States , a case brought by a Texas man challenging an increase to his sentence for having a gun after a prior felony conviction. Like most federal criminal cases at the…",
-          "published": "2026-08-14T13:30:00.000Z"
+          "snippet": "Try that in a small courtroom. The post TX Gov Opts Out Of Constitution, Thanks appeared first on Above the Law .",
+          "published": "2026-08-20T17:46:19.000Z"
         }
       ]
     }
