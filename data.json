@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T18:15:20.053Z",
+  "updated": "2026-08-22T18:54:45.358Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Scrap",
+          "link": "https://twitter.com/moxie/status/2091218652133732491",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-22T18:08:56.000Z"
+        },
+        {
           "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
           "link": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
           "source": "Hacker News",
@@ -216,22 +224,6 @@
           "category": "tech",
           "snippet": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical…",
           "published": "2026-08-22T17:00:00.000Z"
-        },
-        {
-          "title": "Anthropic appears to be A&#x2F;B testing reduced effort levels in Claude Code",
-          "link": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-22T16:58:49.000Z"
-        },
-        {
-          "title": "Learning about \"The Unix Time-Sharing System\"",
-          "link": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-22T16:11:16.000Z"
         },
         {
           "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
@@ -266,6 +258,14 @@
           "published": "2026-08-22T13:41:01.000Z"
         },
         {
+          "title": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "link": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-22T13:39:07.000Z"
+        },
+        {
           "title": "New MCP Roadmap",
           "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
           "source": "Hacker News",
@@ -274,28 +274,12 @@
           "published": "2026-08-22T13:31:34.000Z"
         },
         {
-          "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-          "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-22T13:24:06.000Z"
-        },
-        {
           "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
           "link": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in…",
           "published": "2026-08-22T13:00:00.000Z"
-        },
-        {
-          "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-          "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-22T12:07:06.000Z"
         },
         {
           "title": "Two great new repairable gadgets",
@@ -346,14 +330,6 @@
           "published": "2026-08-22T06:16:57.000Z"
         },
         {
-          "title": "There's no reason for software to be slow anymore",
-          "link": "https://danluu.com/perf-opt/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-22T01:06:17.000Z"
-        },
-        {
           "title": "Trump's space transportation policy calls for new spaceport on federal land",
           "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
           "source": "Ars Technica",
@@ -386,12 +362,36 @@
           "published": "2026-08-21T21:25:50.000Z"
         },
         {
+          "title": "The Creation of Abulafia",
+          "link": "https://blog.veitheller.de/abulafia.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T20:42:11.000Z"
+        },
+        {
           "title": "Thunder + fiber-optic cabling used for seismic imaging",
           "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
           "published": "2026-08-21T20:26:46.000Z"
+        },
+        {
+          "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+          "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
+          "published": "2026-08-21T20:10:50.000Z"
+        },
+        {
+          "title": "Rust Glancer: Rust LSP using 100x less RAM",
+          "link": "https://rust-glancer.github.io/blog/hello-world/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T19:51:54.000Z"
         }
       ]
     },
