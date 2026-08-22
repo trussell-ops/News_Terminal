@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T13:07:25.934Z",
+  "updated": "2026-08-22T13:49:32.485Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,30 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+          "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Citing \"significant increases in memory and storage component costs,\" in a statement given to Fortune, Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent. The cheapest products in Amazon's lineup were hit…",
+          "published": "2026-08-22T13:41:01.000Z"
+        },
+        {
+          "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+          "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-22T13:24:06.000Z"
+        },
+        {
+          "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+          "link": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in…",
+          "published": "2026-08-22T13:00:00.000Z"
+        },
+        {
           "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
           "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
           "source": "Hacker News",
@@ -210,20 +234,20 @@
           "published": "2026-08-22T12:07:06.000Z"
         },
         {
-          "title": "Putting mice into hibernation causes a major loss of synapses",
-          "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-          "source": "Ars Technica",
+          "title": "Two great new repairable gadgets",
+          "link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+          "source": "The Verge",
           "category": "tech",
-          "snippet": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
-          "published": "2026-08-22T11:22:32.000Z"
+          "snippet": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) This week, I've…",
+          "published": "2026-08-22T12:00:00.000Z"
         },
         {
-          "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-          "link": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
-          "source": "Ars Technica",
+          "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
+          "link": "https://zaksa.zip/blog/formal-education-is-the-answer/",
+          "source": "Hacker News",
           "category": "tech",
-          "snippet": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
-          "published": "2026-08-22T11:08:53.000Z"
+          "snippet": "Comments",
+          "published": "2026-08-22T11:39:12.000Z"
         },
         {
           "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
@@ -258,22 +282,6 @@
           "published": "2026-08-22T01:06:17.000Z"
         },
         {
-          "title": "HN: The Good Parts (2016)",
-          "link": "https://danluu.com/hn-comments/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T23:53:03.000Z"
-        },
-        {
-          "title": "Trump's space transportation policy calls for new spaceport on federal land",
-          "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
-          "published": "2026-08-21T23:32:17.000Z"
-        },
-        {
           "title": "Three important steps in my maturation process",
           "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
           "source": "Hacker News",
@@ -306,22 +314,6 @@
           "published": "2026-08-21T21:25:50.000Z"
         },
         {
-          "title": "Thunder + fiber-optic cabling used for seismic imaging",
-          "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
-          "published": "2026-08-21T20:26:46.000Z"
-        },
-        {
-          "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
-          "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
-          "published": "2026-08-21T20:10:50.000Z"
-        },
-        {
           "title": "Rust Glancer: Rust LSP using 100x less RAM",
           "link": "https://rust-glancer.github.io/blog/hello-world/",
           "source": "Hacker News",
@@ -336,22 +328,6 @@
           "category": "tech",
           "snippet": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the…",
           "published": "2026-08-21T19:44:55.000Z"
-        },
-        {
-          "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-          "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The private Android-based OS will expand beyond Pixels next year.",
-          "published": "2026-08-21T19:32:29.000Z"
-        },
-        {
-          "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
-          "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Logitech increased prices by up to 25 percent last year.",
-          "published": "2026-08-21T19:04:41.000Z"
         },
         {
           "title": "Scientists release biggest 2D map of the universe",
@@ -370,14 +346,6 @@
           "published": "2026-08-21T18:28:42.000Z"
         },
         {
-          "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
-          "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
-          "published": "2026-08-21T18:07:15.000Z"
-        },
-        {
           "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
           "link": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
           "source": "The Verge",
@@ -392,6 +360,38 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T17:54:06.000Z"
+        },
+        {
+          "title": "OTel isn’t going well",
+          "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T17:45:41.000Z"
+        },
+        {
+          "title": "Galactic Compass 2: now with new augmented reality mode",
+          "link": "https://interconnected.org/home/2026/08/21/galactic",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T17:30:38.000Z"
+        },
+        {
+          "title": "Walmart is finally adding Apple Pay and Google Pay",
+          "link": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Walmart will soon allow you to pay for your items with Google Pay or Apple Pay. In an announcement on Friday, Walmart says it's going to bring tap-to-pay capabilities to \"select\" Walmart and Sam's Club locations starting August 24th,…",
+          "published": "2026-08-21T17:01:59.000Z"
+        },
+        {
+          "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
+          "link": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that \"infringes copyrights\" held for the game, Kotaku reports. In the subpoenas, filed on Thursday,…",
+          "published": "2026-08-21T16:52:56.000Z"
         }
       ]
     },
