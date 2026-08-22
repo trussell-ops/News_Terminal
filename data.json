@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T18:54:45.358Z",
+  "updated": "2026-08-22T19:15:49.178Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+          "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-22T19:04:41.000Z"
+        },
+        {
           "title": "Scrap",
           "link": "https://twitter.com/moxie/status/2091218652133732491",
           "source": "Hacker News",
@@ -224,6 +232,14 @@
           "category": "tech",
           "snippet": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical…",
           "published": "2026-08-22T17:00:00.000Z"
+        },
+        {
+          "title": "Anthropic appears to be A&#x2F;B testing reduced effort levels in Claude Code",
+          "link": "https://twitter.com/argofowl/status/2091150597374537729",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-22T16:58:49.000Z"
         },
         {
           "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
           "published": "2026-08-21T20:26:46.000Z"
-        },
-        {
-          "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
-          "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
-          "published": "2026-08-21T20:10:50.000Z"
-        },
-        {
-          "title": "Rust Glancer: Rust LSP using 100x less RAM",
-          "link": "https://rust-glancer.github.io/blog/hello-world/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T19:51:54.000Z"
         }
       ]
     },
