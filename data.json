@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-22T00:39:55.218Z",
+  "updated": "2026-08-22T02:09:02.094Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
+          "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
           "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Premier Wab Kinew's comments signal a tough battle for Prime Minister Mark Carney to get buy-in from Canadians on a possible trade deal with the US.",
-          "published": "2026-08-21T21:27:14.000Z"
+          "snippet": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+          "published": "2026-08-22T00:40:47.000Z"
         },
         {
           "title": "Watch: How does the US national debt affect consumers around the world?",
@@ -202,20 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Paul Atkins Misreads Adam Smith and the American Founding",
-          "link": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
+          "title": "There's no reason for software to be slow anymore",
+          "link": "https://danluu.com/perf-opt/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-21T23:32:44.000Z"
+          "published": "2026-08-22T01:06:17.000Z"
         },
         {
-          "title": "Electric shock gloves in use by police departments in Bellevue, Omaha",
-          "link": "https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/",
+          "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+          "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-21T23:25:57.000Z"
+          "published": "2026-08-22T01:02:09.000Z"
+        },
+        {
+          "title": "HN: The Good Parts (2016)",
+          "link": "https://danluu.com/hn-comments/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T23:53:03.000Z"
+        },
+        {
+          "title": "Trump's space transportation policy calls for new spaceport on federal land",
+          "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
+          "published": "2026-08-21T23:32:17.000Z"
         },
         {
           "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
@@ -226,28 +242,12 @@
           "published": "2026-08-21T23:09:06.000Z"
         },
         {
-          "title": "Pentagon dismisses Stars and Stripes leadership after opposition to interference",
-          "link": "https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T23:03:18.000Z"
-        },
-        {
           "title": "Three important steps in my maturation process",
           "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-21T22:29:00.000Z"
-        },
-        {
-          "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
-          "link": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T22:15:46.000Z"
         },
         {
           "title": "HoverAir’s transforming modular drone has already been halted in the US",
@@ -264,14 +264,6 @@
           "category": "tech",
           "snippet": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that…",
           "published": "2026-08-21T22:13:34.000Z"
-        },
-        {
-          "title": "Remotely Unlocking Electric Scooters",
-          "link": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T21:32:07.000Z"
         },
         {
           "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
@@ -306,6 +298,14 @@
           "published": "2026-08-21T20:10:50.000Z"
         },
         {
+          "title": "Rust Glancer: Rust LSP using 100x less RAM",
+          "link": "https://rust-glancer.github.io/blog/hello-world/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T19:51:54.000Z"
+        },
+        {
           "title": "Apple is laying off staffers working on the Vision Pro and Siri",
           "link": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
           "source": "The Verge",
@@ -322,14 +322,6 @@
           "published": "2026-08-21T19:32:29.000Z"
         },
         {
-          "title": "Rust Glancer",
-          "link": "https://matklad.github.io/2026/08/21/rust-glancer.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-21T19:16:00.000Z"
-        },
-        {
           "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
           "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
           "source": "Ars Technica",
@@ -338,7 +330,7 @@
           "published": "2026-08-21T19:04:41.000Z"
         },
         {
-          "title": "Tumble Forth – from assembly to OS with C compiler",
+          "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
           "link": "https://tumbleforth.hardcoded.net/",
           "source": "Hacker News",
           "category": "tech",
@@ -368,6 +360,14 @@
           "category": "tech",
           "snippet": "The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $60. The deal is…",
           "published": "2026-08-21T18:00:00.000Z"
+        },
+        {
+          "title": "OTel isn't going well (and I made a spreadsheet about it)",
+          "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-21T17:45:41.000Z"
         },
         {
           "title": "Walmart is finally adding Apple Pay and Google Pay",
