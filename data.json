@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T22:44:21.343Z",
+  "updated": "2026-08-23T23:11:43.624Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,7 +202,15 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "The Planet Now Has More Trees Than It Did 35 Years Ago (2018)",
+          "title": "Everything I own, owned",
+          "link": "https://schlarp.com/posts/everything-i-own-owned/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T22:41:04.000Z"
+        },
+        {
+          "title": "The planet now has more trees than it did 35 years ago (2018)",
           "link": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
           "source": "Hacker News",
           "category": "tech",
@@ -216,6 +224,22 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-23T21:47:25.000Z"
+        },
+        {
+          "title": "Implementation of GPT-2 in pure CMake",
+          "link": "https://github.com/AlpinDale/gpt2.cmake",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T21:41:17.000Z"
+        },
+        {
+          "title": "Declarative WebGPU with S-Expressions",
+          "link": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T20:47:53.000Z"
         },
         {
           "title": "Decoding silent reading from non-invasive EEG",
@@ -234,7 +258,7 @@
           "published": "2026-08-23T19:39:29.000Z"
         },
         {
-          "title": "Google Workspace thinks my domain is an email provider",
+          "title": "Google Workspace thinks my domain is an email provider (2025)",
           "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
           "source": "Hacker News",
           "category": "tech",
@@ -258,7 +282,7 @@
           "published": "2026-08-23T19:14:37.000Z"
         },
         {
-          "title": "Fable and the End of the Free Lunch",
+          "title": "Fable and the end of the free lunch",
           "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
           "source": "Hacker News",
           "category": "tech",
@@ -282,12 +306,12 @@
           "published": "2026-08-23T18:31:02.000Z"
         },
         {
-          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-          "link": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-23T18:27:33.000Z"
+          "published": "2026-08-23T18:16:37.000Z"
         },
         {
           "title": "AI and Infrastructure Engineering",
@@ -306,14 +330,6 @@
           "published": "2026-08-23T18:08:13.000Z"
         },
         {
-          "title": "Predicting AI model release dates with stats",
-          "link": "https://releaseoracle.xyz/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T18:01:30.000Z"
-        },
-        {
           "title": "My agent.md to improve LLM-assisted code quality",
           "link": "https://fabiensanglard.net/agent.md/index.html",
           "source": "Hacker News",
@@ -328,14 +344,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-23T17:15:36.000Z"
-        },
-        {
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "link": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T17:07:04.000Z"
         },
         {
           "title": "A website for debloated open source alternatives",
@@ -362,7 +370,7 @@
           "published": "2026-08-23T15:59:08.000Z"
         },
         {
-          "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+          "title": "Coconut oil jet fuel matches kerosene's efficiency in engine tests",
           "link": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
           "source": "Hacker News",
           "category": "tech",
@@ -384,20 +392,20 @@
           "category": "tech",
           "snippet": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this…",
           "published": "2026-08-23T15:00:00.000Z"
-        },
-        {
-          "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-          "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T14:38:25.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "ChatGPT Experts, $700 Million Law Firms, And Frat House Felonies See Generally",
+          "link": "https://abovethelaw.com/2026/08/chatgpt-experts-700-million-law-firms-and-frat-house-felonies-see-generally/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Expertly Flawed: An expert witness collected $90,000 from 3M to ask ChatGPT, \"show how 3M is 0% at fault.\" Plaintiffs' counsel turned the resulting 350-page prompt log into the deposition of a lifetime. Barbarians Inside The Gate: Wood…",
+          "published": "2026-08-23T22:57:00.000Z"
+        },
         {
           "title": "Matching The Milbank Scale Before Most Of Biglaw See Also",
           "link": "https://abovethelaw.com/2026/08/its-kool-to-have-another-milbank-match-see-also/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Plus, President Trump brings CNN case to SCOTUS.",
           "published": "2026-08-21T13:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 08.21.26",
-          "link": "https://abovethelaw.com/2026/08/morning-docket-08-21-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Judge suspended for -- among other things -- not disclosing stepson's appearance in front of him. [ ABA Journal ] * \"Parking Company Apologizes to Formerly Dead Woman for $80 Ticket.\" [ Lowering the Bar ] * Administration brings places…",
-          "published": "2026-08-21T12:54:00.000Z"
         }
       ]
     }
