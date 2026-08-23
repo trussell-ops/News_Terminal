@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T15:12:56.063Z",
+  "updated": "2026-08-23T15:43:46.512Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,28 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Universal Housing",
+          "link": "https://twitter.com/christianreber/status/2091532545577849008",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T15:24:43.000Z"
+        },
+        {
           "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
           "link": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this…",
           "published": "2026-08-23T15:00:00.000Z"
+        },
+        {
+          "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
+          "link": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T14:39:35.000Z"
         },
         {
           "title": "Slovakia finds Russian backdoor in traffic speed cameras",
@@ -290,14 +306,6 @@
           "published": "2026-08-23T10:14:48.000Z"
         },
         {
-          "title": "Iranian hackers shut down UK power plant for 4 days",
-          "link": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T10:03:01.000Z"
-        },
-        {
           "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
           "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
           "source": "Hacker News",
@@ -312,6 +320,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-23T09:27:40.000Z"
+        },
+        {
+          "title": "Rust 1.98 got a P-critical miscompilation",
+          "link": "https://github.com/rust-lang/rust/issues/161441",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T09:12:08.000Z"
         },
         {
           "title": "Risk of transmission of amyloid β pathology via transfused blood products",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-22T22:14:27.000Z"
-        },
-        {
-          "title": "NetBSD and my life (2005)",
-          "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-22T19:07:46.000Z"
-        },
-        {
-          "title": "Things I want in a modern relational query language",
-          "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-22T18:38:41.000Z"
         }
       ]
     },
