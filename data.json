@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T19:42:28.349Z",
+  "updated": "2026-08-23T20:11:36.237Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,20 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Reaganomics Didn't Trickle Down – It Just Broke Unions",
-          "link": "https://comuniq.xyz/Politics/post?t=1612",
+          "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-23T19:31:24.000Z"
+          "published": "2026-08-23T19:35:35.000Z"
+        },
+        {
+          "title": "How I Find Problems to Solve as a Staff Engineer",
+          "link": "https://lalitm.com/post/find-problems-staff-engineer/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T19:23:29.000Z"
         },
         {
           "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
@@ -218,12 +226,44 @@
           "published": "2026-08-23T19:14:37.000Z"
         },
         {
+          "title": "Fable and the End of the Free Lunch",
+          "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T19:06:09.000Z"
+        },
+        {
           "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
           "link": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-23T18:55:54.000Z"
+        },
+        {
+          "title": "Say It Four Times (In Your System Prompt)",
+          "link": "https://www.khola.blog/p/say-it-four-times",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T18:40:47.000Z"
+        },
+        {
+          "title": "The Vibe Tax",
+          "link": "https://insufferable.dev/posts/vibe-tax/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T18:31:02.000Z"
+        },
+        {
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "link": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T18:27:33.000Z"
         },
         {
           "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
@@ -234,6 +274,14 @@
           "published": "2026-08-23T18:16:37.000Z"
         },
         {
+          "title": "AI and Infrastructure Engineering",
+          "link": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T18:09:01.000Z"
+        },
+        {
           "title": "Explain it to me like I'm ten",
           "link": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
           "source": "Hacker News",
@@ -242,12 +290,52 @@
           "published": "2026-08-23T18:08:13.000Z"
         },
         {
-          "title": "We must not grant AI agents legal personhood",
-          "link": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+          "title": "Predicting AI model release dates with stats",
+          "link": "https://releaseoracle.xyz/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-23T17:25:03.000Z"
+          "published": "2026-08-23T18:01:30.000Z"
+        },
+        {
+          "title": "I turned Unix talk from 1983 into the interface for my AI",
+          "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T18:00:20.000Z"
+        },
+        {
+          "title": "My agent.md to improve LLM-assisted code quality",
+          "link": "https://fabiensanglard.net/agent.md/index.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T17:59:52.000Z"
+        },
+        {
+          "title": "From Front Panel to Program: Thinking Like a PDP-8",
+          "link": "https://pikuma.com/blog/pdp-8-minicomputer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T17:59:23.000Z"
+        },
+        {
+          "title": "The Remote Work Challenge: Lessons from 5 Cities",
+          "link": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T17:15:36.000Z"
+        },
+        {
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "link": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T17:07:04.000Z"
         },
         {
           "title": "A website for debloated open source alternatives",
@@ -256,6 +344,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-23T16:54:10.000Z"
+        },
+        {
+          "title": "Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
+          "link": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T16:43:19.000Z"
         },
         {
           "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
@@ -290,108 +386,12 @@
           "published": "2026-08-23T15:00:00.000Z"
         },
         {
-          "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
-          "link": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T14:39:35.000Z"
-        },
-        {
           "title": "Slovakia finds Russian backdoor in traffic speed cameras",
           "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-23T14:38:25.000Z"
-        },
-        {
-          "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
-          "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
-          "published": "2026-08-23T14:30:16.000Z"
-        },
-        {
-          "title": "What Is a Harness?",
-          "link": "https://earendil.com/posts/what-is-a-harness/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T14:24:21.000Z"
-        },
-        {
-          "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "link": "https://ericpardee.github.io/fire-hd-ownership/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T14:23:09.000Z"
-        },
-        {
-          "title": "My favorite nonfiction books about cults, scams, and schemes",
-          "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T13:51:10.000Z"
-        },
-        {
-          "title": "Malware infects Android-based automotive head unit firmware",
-          "link": "https://securelist.com/android-head-unit-malware/121106/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T13:05:38.000Z"
-        },
-        {
-          "title": "Grand Theft Auto VI exists in its own universe",
-          "link": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM…",
-          "published": "2026-08-23T12:00:00.000Z"
-        },
-        {
-          "title": "Volcanoes that made history",
-          "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
-          "published": "2026-08-23T11:02:54.000Z"
-        },
-        {
-          "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-          "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T10:02:51.000Z"
-        },
-        {
-          "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-          "link": "https://skylens.yantraai.app/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T09:27:40.000Z"
-        },
-        {
-          "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-          "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T06:41:51.000Z"
-        },
-        {
-          "title": "JIT Compiling Code in 5μs",
-          "link": "https://malisper.me/jit-compiling-code-in-5-us/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T06:04:51.000Z"
         }
       ]
     },
