@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T03:28:48.893Z",
+  "updated": "2026-08-24T04:21:02.664Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,15 @@
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-          "published": "2026-08-24T02:05:04.000Z"
+          "published": "2026-08-24T04:06:54.000Z"
+        },
+        {
+          "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+          "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+          "published": "2026-08-24T03:27:11.000Z"
         },
         {
           "title": "Review launched into how pub and hotel business rates calculated",
@@ -187,20 +195,20 @@
           "category": "markets",
           "snippet": "Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.",
           "published": "2026-08-21T15:10:31.000Z"
-        },
-        {
-          "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-          "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
-          "published": "2026-08-21T11:20:57.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency",
+          "link": "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T02:17:26.000Z"
+        },
         {
           "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
           "link": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
@@ -218,6 +226,14 @@
           "published": "2026-08-24T00:52:21.000Z"
         },
         {
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "link": "https://pantel.is/projects/ai-gaming-companion/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T23:18:17.000Z"
+        },
+        {
           "title": "Everything I own, owned",
           "link": "https://schlarp.com/posts/everything-i-own-owned/",
           "source": "Hacker News",
@@ -232,14 +248,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-23T22:06:14.000Z"
-        },
-        {
-          "title": "The planet now has more trees than it did 35 years ago (2018)",
-          "link": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T21:55:55.000Z"
         },
         {
           "title": "Implementation of GPT-2 in pure CMake",
@@ -296,14 +304,6 @@
           "category": "tech",
           "snippet": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to…",
           "published": "2026-08-23T19:14:37.000Z"
-        },
-        {
-          "title": "Fable and the end of the free lunch",
-          "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T19:06:09.000Z"
         },
         {
           "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
