@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-24T22:49:56.333Z",
+  "updated": "2026-08-24T23:14:15.234Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+          "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Tips are central to US dining culture but some eateries think that they are unfair.",
+          "published": "2026-08-24T23:04:17.000Z"
+        },
+        {
+          "title": "New 10p coin enters circulation - will you spot one?",
+          "link": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
+          "published": "2026-08-24T23:03:42.000Z"
+        },
         {
           "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
           "link": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
           "published": "2026-08-23T23:25:44.000Z"
-        },
-        {
-          "title": "How to get £2,000 to play computer games at university",
-          "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Roehampton University offers students a year;y scholarship to play esports alongside their studies.",
-          "published": "2026-08-23T23:23:55.000Z"
-        },
-        {
-          "title": "Business Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8gg7?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "European governments and businesses are taking a tougher line on trade with China",
-          "published": "2026-08-23T20:30:00.000Z"
         }
       ]
     },
@@ -218,6 +218,30 @@
           "published": "2026-08-24T22:06:02.000Z"
         },
         {
+          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+          "published": "2026-08-24T21:45:53.000Z"
+        },
+        {
+          "title": "Data centers become \"killer application\" for new power transformer tech",
+          "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Solid-state transformers could also benefit EV charging and someday households.",
+          "published": "2026-08-24T21:32:16.000Z"
+        },
+        {
+          "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+          "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+          "published": "2026-08-24T21:04:48.000Z"
+        },
+        {
           "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
           "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
           "source": "Hacker News",
@@ -232,6 +256,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T21:01:38.000Z"
+        },
+        {
+          "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+          "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Monitor vendors are playing with fire.",
+          "published": "2026-08-24T20:17:41.000Z"
         },
         {
           "title": "The cat-and-mouse game over 3D-printed guns has begun",
@@ -360,44 +392,28 @@
           "category": "tech",
           "snippet": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while…",
           "published": "2026-08-24T17:01:05.000Z"
-        },
-        {
-          "title": "Buyer beware: Those mummified remains might carry toxic spores",
-          "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
-          "published": "2026-08-24T16:59:07.000Z"
-        },
-        {
-          "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-          "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T16:52:01.000Z"
-        },
-        {
-          "title": "Robotaxis are real now — so is the pushback",
-          "link": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers,…",
-          "published": "2026-08-24T16:42:37.000Z"
-        },
-        {
-          "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-          "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
-          "published": "2026-08-24T16:41:45.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Supreme Court allows Trump administration to move forward with order imposing restrictions on mail-in voting",
+          "link": "https://www.scotusblog.com/2026/08/supreme-court-allows-trump-administration-to-move-forward-with-order-imposing-restrictions-on-ma/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Monday afternoon cleared the way for the Trump administration to begin implementing an executive order , signed by President Donald Trump earlier this year, that imposes restrictions on mail-in voting. The court…",
+          "published": "2026-08-24T23:06:54.000Z"
+        },
+        {
+          "title": "The Abrego Garcia Appeal Is A Trojan Horse See Also",
+          "link": "https://abovethelaw.com/2026/08/the-abrego-garcia-appeal-is-a-trojan-horse-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The DOJ Is Using One Vindictive Prosecution To Help Kill The Doctrine Altogether: Funny timing, given how the vindictive prosecutions are piling up. Milbank Plants Its Flag In Chicago... Now About That Salary Match, Kirkland? A new…",
+          "published": "2026-08-24T23:01:00.000Z"
+        },
         {
           "title": "Nine Wins Out Of Ten At The Supreme Court, Before Heading To The Federal Judiciary",
           "link": "https://abovethelaw.com/2026/08/nine-wins-out-of-ten-at-the-supreme-court-before-heading-to-the-federal-judiciary/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "‘It is critically important for us in this time, a time of not living in peace time ... that both in words and deeds to not make any steps to create an image that would indicate to Moscow or Beijing that NATO is not united or focused on…",
           "published": "2026-08-21T22:06:00.000Z"
-        },
-        {
-          "title": "When Partners Go On Vacation, Associates Should Relax A Little Too",
-          "link": "https://abovethelaw.com/2026/08/when-partners-go-on-vacation-associates-should-relax-a-little-too/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Partners should probably just let this happen. The post When Partners Go On Vacation, Associates Should Relax A Little Too appeared first on Above the Law .",
-          "published": "2026-08-21T21:29:00.000Z"
-        },
-        {
-          "title": "Want To Go To Law School? Get Ready For ‘Hyper Competition’ To Earn Your Seat",
-          "link": "https://abovethelaw.com/2026/08/want-to-go-to-law-school-get-ready-for-hyper-competition-to-earn-your-seat/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The law school applicant boom isn't slowing down. The post Want To Go To Law School? Get Ready For ‘Hyper Competition’ To Earn Your Seat appeared first on Above the Law .",
-          "published": "2026-08-21T21:03:00.000Z"
         }
       ]
     }
