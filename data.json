@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-24T11:00:00.755Z",
+  "updated": "2026-08-24T11:32:01.865Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
+          "link": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Paramount's proposed merger with WBD is delayed while an antitrust lawsuit plays out. The holdup could mean a freeze across the media industry.",
+          "published": "2026-08-24T11:10:15.000Z"
+        },
+        {
+          "title": "UPS is investing $2 billion in international, healthcare and supply chain businesses",
+          "link": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "UPS told CNBC exclusively that the company is investing more than $2 billion into its international, healthcare and supply chain businesses.",
+          "published": "2026-08-24T11:00:01.000Z"
+        },
         {
           "title": "Graduate job vacancies drop by almost 50% in a year",
           "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
@@ -13,7 +29,7 @@
           "published": "2026-08-24T10:55:47.000Z"
         },
         {
-          "title": "Iran faces 'economic D-Day', US Treasury Secretary warns",
+          "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
           "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -21,7 +37,7 @@
           "published": "2026-08-24T10:39:23.000Z"
         },
         {
-          "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+          "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
           "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -179,28 +195,28 @@
           "category": "markets",
           "snippet": "The schemes are in place to help people who are struggling with the cost of living.",
           "published": "2026-08-22T06:59:33.000Z"
-        },
-        {
-          "title": "More students planning to live at home for university over 'insane' living costs",
-          "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
-          "published": "2026-08-21T23:01:58.000Z"
-        },
-        {
-          "title": "Watch: How does the US national debt affect consumers around the world?",
-          "link": "https://www.bbc.co.uk/news/videos/c4gjn4ezljno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The debt has more than doubled in a decade to reach a milestone $40tn (£29.4tn), Treasury figures show.",
-          "published": "2026-08-21T20:28:12.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
+          "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T10:52:24.000Z"
+        },
+        {
+          "title": "Ask HN: Those making $500&#x2F;month on side projects in 2026 – Show and tell",
+          "link": "https://news.ycombinator.com/item?id=49417766",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T10:28:56.000Z"
+        },
         {
           "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
           "link": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
@@ -250,14 +266,6 @@
           "published": "2026-08-24T06:57:01.000Z"
         },
         {
-          "title": "Anthropic Claude and API service outages",
-          "link": "https://status.claude.com/uptime",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T06:32:28.000Z"
-        },
-        {
           "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
           "link": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
           "source": "Hacker News",
@@ -298,20 +306,20 @@
           "published": "2026-08-24T04:48:20.000Z"
         },
         {
+          "title": "Mourning Steve French",
+          "link": "https://lwn.net/Articles/1090098/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T04:47:14.000Z"
+        },
+        {
           "title": "Why is Anthropic's public writing style so unlike Claude's?",
           "link": "https://cmart.blog/claude-writing/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T03:32:42.000Z"
-        },
-        {
-          "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
-          "link": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T01:33:14.000Z"
         },
         {
           "title": "I built a low-latency AI companion that plays Skyrim with me",
@@ -328,14 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-23T22:41:04.000Z"
-        },
-        {
-          "title": "Implementation of GPT-2 in pure CMake",
-          "link": "https://github.com/AlpinDale/gpt2.cmake",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T21:41:17.000Z"
         },
         {
           "title": "I were 17, I'd learn how to build LLMs from scratch",
@@ -398,6 +398,14 @@
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Welcome To ILTACON 2026! Today s Agenda, From Keynote To Exhibit Hall Reception",
+          "link": "https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "ILTACON attendees and legal tech watchers: Here's a rundown of what's set for today in Nashville. The post Welcome To ILTACON 2026! Today s Agenda, From Keynote To Exhibit Hall Reception appeared first on Above the Law .",
+          "published": "2026-08-24T11:00:00.000Z"
+        },
         {
           "title": "ChatGPT Experts, $700 Million Law Firms, And Frat House Felonies See Generally",
           "link": "https://abovethelaw.com/2026/08/chatgpt-experts-700-million-law-firms-and-frat-house-felonies-see-generally/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Analysis of the Supreme Court’s decisions most often focuses on the opinions and votes of the justices. Sometimes, though, strategic decisions by lawyers about how to argue a case may play a significant role in what the justices decide.…",
           "published": "2026-08-21T13:30:00.000Z"
-        },
-        {
-          "title": "Justices navigate rising security threats",
-          "link": "https://www.scotusblog.com/2026/08/justices-navigate-rising-security-threats/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, President Trump brings CNN case to SCOTUS.",
-          "published": "2026-08-21T13:00:00.000Z"
         }
       ]
     }
