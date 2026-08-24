@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T23:14:15.234Z",
+  "updated": "2026-08-24T23:42:59.200Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,22 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+          "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks…",
+          "published": "2026-08-24T23:38:10.000Z"
+        },
+        {
+          "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+          "link": "https://github.com/murerkinn/bookshelf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T23:00:37.000Z"
+        },
+        {
           "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
           "link": "https://developer.apple.com/news/?id=1ptvdtcm",
           "source": "Hacker News",
@@ -210,7 +226,7 @@
           "published": "2026-08-24T22:13:40.000Z"
         },
         {
-          "title": "Moon",
+          "title": "Moon (2024)",
           "link": "https://ciechanow.ski/moon/",
           "source": "Hacker News",
           "category": "tech",
@@ -322,14 +338,6 @@
           "published": "2026-08-24T18:37:24.000Z"
         },
         {
-          "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
-          "link": "https://github.com/getkern/kern",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T18:24:59.000Z"
-        },
-        {
           "title": "What Is a Syslog Server?",
           "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
           "source": "Hacker News",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T17:05:38.000Z"
-        },
-        {
-          "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
-          "link": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while…",
-          "published": "2026-08-24T17:01:05.000Z"
         }
       ]
     },
