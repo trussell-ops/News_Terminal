@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-24T17:54:41.244Z",
+  "updated": "2026-08-24T18:25:23.339Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+          "published": "2026-08-24T17:59:14.000Z"
+        },
         {
           "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
           "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
@@ -59,14 +67,6 @@
           "category": "markets",
           "snippet": "Doreen's repurposes old uniforms and gives them to families in Hull and East Yorkshire for free.",
           "published": "2026-08-24T13:46:48.000Z"
-        },
-        {
-          "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-          "published": "2026-08-24T13:35:07.000Z"
         },
         {
           "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
@@ -202,12 +202,28 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "What Is a Syslog Server?",
+          "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T18:15:50.000Z"
+        },
+        {
           "title": "Autostep (YC P26) Is Hiring AI&#x2F;Fullstack Engineers and a Chief of Staff",
           "link": "https://www.ycombinator.com/companies/autostep/jobs",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T17:53:14.000Z"
+        },
+        {
+          "title": "Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9",
+          "link": "https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T17:50:18.000Z"
         },
         {
           "title": "Where Did All the Public Bathrooms Go?",
@@ -256,14 +272,6 @@
           "category": "tech",
           "snippet": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers,…",
           "published": "2026-08-24T16:42:37.000Z"
-        },
-        {
-          "title": "Man Dressed as Darth Vader Defends Flock Cameras to San Diego City Council",
-          "link": "https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T16:41:54.000Z"
         },
         {
           "title": "Public services are increasingly strained by LLM-written appeals for benefits",
@@ -330,14 +338,6 @@
           "published": "2026-08-24T15:48:45.000Z"
         },
         {
-          "title": "Three Generations in E7",
-          "link": "https://johncarlosbaez.wordpress.com/2026/08/12/three-generations-in-e7/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T15:40:38.000Z"
-        },
-        {
           "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
           "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
           "source": "Hacker News",
@@ -352,14 +352,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T15:22:43.000Z"
-        },
-        {
-          "title": "NetBSD GSoC 2026 Improving RAIDframe",
-          "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T15:17:38.000Z"
         },
         {
           "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost…",
           "published": "2026-08-24T15:06:24.000Z"
+        },
+        {
+          "title": "Adafruit USB Type C CC Resistor Fixer",
+          "link": "https://www.adafruit.com/product/6323",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:05:22.000Z"
         }
       ]
     },
