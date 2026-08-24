@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T19:51:30.498Z",
+  "updated": "2026-08-24T20:18:46.915Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -210,12 +210,28 @@
           "published": "2026-08-24T19:50:00.000Z"
         },
         {
+          "title": "GM vehicles under federal scrutiny after hundreds of reports",
+          "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
+          "published": "2026-08-24T19:42:50.000Z"
+        },
+        {
           "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
           "link": "https://github.com/l3a0/claude-plugins",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T19:32:18.000Z"
+        },
+        {
+          "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+          "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
+          "published": "2026-08-24T19:19:21.000Z"
         },
         {
           "title": "Oceans hit highest temperature on record",
@@ -242,28 +258,12 @@
           "published": "2026-08-24T18:45:43.000Z"
         },
         {
-          "title": "Anger, Anxiety and Agency",
-          "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T18:37:24.000Z"
-        },
-        {
           "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
           "link": "https://github.com/getkern/kern",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T18:24:59.000Z"
-        },
-        {
-          "title": "Your \"File\" Menu Isn't About Files",
-          "link": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T18:21:48.000Z"
         },
         {
           "title": "What Is a Syslog Server?",
@@ -398,6 +398,14 @@
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Biglaw’s Three-Day Office Week Is Going Out Of Style",
+          "link": "https://abovethelaw.com/2026/08/biglaws-three-day-office-week-is-going-out-of-style/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "More firms are turning up the pressure on attorneys to show their faces. The post Biglaw’s Three-Day Office Week Is Going Out Of Style appeared first on Above the Law .",
+          "published": "2026-08-24T20:04:00.000Z"
+        },
         {
           "title": "Judges Can t Handcuff And Threaten Children For Falling Asleep On Field Trips, Court Rules",
           "link": "https://abovethelaw.com/2026/08/judges-cant-handcuff-and-threaten-children-for-falling-asleep-on-field-trips-court-rules/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Criminal complaint also discusses AI-generated sexually exploitative material. The post Former Federal Prosecutor Indicted For Allegedly Threatening To Murder Old Bosses And Their Kids appeared first on Above the Law .",
           "published": "2026-08-21T19:33:00.000Z"
-        },
-        {
-          "title": "Associate Compensation Scorecard: More Associate Raises Coming In Hot In 2027",
-          "link": "https://abovethelaw.com/2026/06/associate-compensation-scorecard-the-2026-summer-of-salary-increases/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Some associates can see their raises off in the distance. Others have no idea when they'll be getting more money. The post Associate Compensation Scorecard: More Associate Raises Coming In Hot In 2027 appeared first on Above the Law .",
-          "published": "2026-08-21T19:03:00.000Z"
         }
       ]
     }
