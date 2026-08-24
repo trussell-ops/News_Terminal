@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-24T05:59:53.862Z",
+  "updated": "2026-08-24T07:03:44.872Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Shein aims for almost $27bn valuation in stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+          "published": "2026-08-24T07:00:53.000Z"
+        },
+        {
+          "title": "CrossCountry train services resume after outage",
+          "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It follows major national rail disruption at the weekend.",
+          "published": "2026-08-24T06:41:05.000Z"
+        },
         {
           "title": "Kids food scheme set to grow after 'crazy' support",
           "link": "https://www.bbc.co.uk/news/articles/cgr7v78zqp5o?at_medium=RSS&at_campaign=rss",
@@ -11,14 +27,6 @@
           "category": "markets",
           "snippet": "The Grumpy Cook in Hastings is set to expand its scheme after receiving £30,000 in donations.",
           "published": "2026-08-24T05:15:20.000Z"
-        },
-        {
-          "title": "Shein aims for almost $27bn valuation in stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-          "published": "2026-08-24T05:09:22.000Z"
         },
         {
           "title": "Nearly three million Teslas recalled in China over hidden door handles",
@@ -29,7 +37,7 @@
           "published": "2026-08-24T05:01:17.000Z"
         },
         {
-          "title": "Review launched into how pub and hotel business rates calculated",
+          "title": "Pubs and hotels could see business rates reformed after review",
           "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -59,14 +67,6 @@
           "category": "markets",
           "snippet": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
           "published": "2026-08-23T19:11:30.000Z"
-        },
-        {
-          "title": "CrossCountry to provide full service on Monday",
-          "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "CrossCountry says its \"key priority\" is now restoring as close to a normal service as possible.",
-          "published": "2026-08-23T19:00:31.000Z"
         },
         {
           "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
@@ -202,20 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+          "link": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T06:30:07.000Z"
+        },
+        {
+          "title": "OCR It – pull text out of un-copyable documents for your LLM",
+          "link": "https://github.com/thiagotigaz/ocr-it",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T06:25:31.000Z"
+        },
+        {
+          "title": "New EU-wide product repair rules come into force",
+          "link": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T05:47:27.000Z"
+        },
+        {
+          "title": "Elevated Errors for Multiple Models",
+          "link": "https://status.claude.com/incidents/vgz5psbjmt1h",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T05:12:45.000Z"
+        },
+        {
           "title": "Nearly 3M Teslas recalled in China over hidden door handles",
           "link": "https://www.bbc.com/news/articles/c4g6ggdg030o",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T04:27:57.000Z"
-        },
-        {
-          "title": "This Fact About KPIs May Surprise You",
-          "link": "https://www.satisfice.com/blog/archives/488189",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T02:35:57.000Z"
         },
         {
           "title": "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency",
@@ -274,12 +298,12 @@
           "published": "2026-08-23T21:41:17.000Z"
         },
         {
-          "title": "Declarative WebGPU with S-Expressions",
-          "link": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+          "title": "I were 17, I'd learn how to build LLMs from scratch",
+          "link": "https://twitter.com/paulg/status/2091544343589060625",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-23T20:47:53.000Z"
+          "published": "2026-08-23T20:38:09.000Z"
         },
         {
           "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
@@ -322,6 +346,14 @@
           "published": "2026-08-23T19:14:37.000Z"
         },
         {
+          "title": "Fable and the end of the free lunch",
+          "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-23T19:06:09.000Z"
+        },
+        {
           "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
           "link": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
           "source": "Hacker News",
@@ -330,28 +362,12 @@
           "published": "2026-08-23T18:55:54.000Z"
         },
         {
-          "title": "The Vibe Tax",
-          "link": "https://insufferable.dev/posts/vibe-tax/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T18:31:02.000Z"
-        },
-        {
           "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-23T18:16:37.000Z"
-        },
-        {
-          "title": "AI and Infrastructure Engineering",
-          "link": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T18:09:01.000Z"
         },
         {
           "title": "Explain it to me like I'm ten",
@@ -370,28 +386,12 @@
           "published": "2026-08-23T17:59:52.000Z"
         },
         {
-          "title": "The Remote Work Challenge: Lessons from 5 Cities",
-          "link": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T17:15:36.000Z"
-        },
-        {
           "title": "A website for debloated open source alternatives",
           "link": "https://debloat.dev/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-23T16:54:10.000Z"
-        },
-        {
-          "title": "Kodak DC50 now usable on the Apple II",
-          "link": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T16:25:59.000Z"
         }
       ]
     },
