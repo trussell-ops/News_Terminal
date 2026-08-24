@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-24T17:02:52.462Z",
+  "updated": "2026-08-24T17:54:41.244Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
+          "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.",
+          "published": "2026-08-24T17:23:54.000Z"
+        },
         {
           "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
           "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
@@ -27,14 +35,6 @@
           "category": "markets",
           "snippet": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
           "published": "2026-08-24T15:50:50.000Z"
-        },
-        {
-          "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
-          "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.",
-          "published": "2026-08-24T15:41:29.000Z"
         },
         {
           "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Autostep (YC P26) Is Hiring AI&#x2F;Fullstack Engineers and a Chief of Staff",
+          "link": "https://www.ycombinator.com/companies/autostep/jobs",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T17:53:14.000Z"
+        },
+        {
+          "title": "Where Did All the Public Bathrooms Go?",
+          "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T17:07:01.000Z"
+        },
+        {
+          "title": "The entire city of San Francisco as a video game",
+          "link": "https://sf.thijs.gg/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T17:05:38.000Z"
+        },
+        {
           "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
           "link": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
           "source": "The Verge",
           "category": "tech",
           "snippet": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while…",
           "published": "2026-08-24T17:01:05.000Z"
+        },
+        {
+          "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+          "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T16:52:01.000Z"
+        },
+        {
+          "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
+          "link": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T16:46:56.000Z"
         },
         {
           "title": "Robotaxis are real now — so is the pushback",
@@ -218,12 +258,12 @@
           "published": "2026-08-24T16:42:37.000Z"
         },
         {
-          "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
-          "link": "https://github.com/ovenpasta/adi2",
+          "title": "Man Dressed as Darth Vader Defends Flock Cameras to San Diego City Council",
+          "link": "https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-24T16:30:51.000Z"
+          "published": "2026-08-24T16:41:54.000Z"
         },
         {
           "title": "Public services are increasingly strained by LLM-written appeals for benefits",
@@ -232,14 +272,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T16:30:21.000Z"
-        },
-        {
-          "title": "A Server Lost Power at 00:32. We Found Out at 08:18",
-          "link": "https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T16:29:57.000Z"
         },
         {
           "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
@@ -346,58 +378,42 @@
           "published": "2026-08-24T15:08:17.000Z"
         },
         {
+          "title": "Could We Dredge the Netherlands Without Fossil Fuels?",
+          "link": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:07:07.000Z"
+        },
+        {
           "title": "ESPN streaming plans are getting more expensive",
           "link": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
           "source": "The Verge",
           "category": "tech",
           "snippet": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost…",
           "published": "2026-08-24T15:06:24.000Z"
-        },
-        {
-          "title": "Adafruit USB Type C CC Resistor Fixer",
-          "link": "https://www.adafruit.com/product/6323",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T15:05:22.000Z"
-        },
-        {
-          "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
-          "link": "https://inferquest.org",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T15:02:01.000Z"
-        },
-        {
-          "title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
-          "link": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T15:01:51.000Z"
-        },
-        {
-          "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
-          "link": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses, jewelry boxes, and other…",
-          "published": "2026-08-24T14:49:44.000Z"
-        },
-        {
-          "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
-          "link": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T14:48:58.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Former Acting U.S. Attorney Found Dead Inside Federal Building",
+          "link": "https://abovethelaw.com/2026/08/former-acting-u-s-attorney-found-dead-inside-federal-building/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "He dedicated his career to public service. Our deepest condolences to his friends and family. The post Former Acting U.S. Attorney Found Dead Inside Federal Building appeared first on Above the Law .",
+          "published": "2026-08-24T17:43:00.000Z"
+        },
+        {
+          "title": "Luigi s Double Jeopardy Gamble And The DOJ s Complicity",
+          "link": "https://abovethelaw.com/2026/08/luigis-double-jeopardy-gamble-and-the-dojs-complicity/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Also, Yale Law School grads have a side chat to discuss their infamous classmates. The post Luigi s Double Jeopardy Gamble And The DOJ s Complicity appeared first on Above the Law .",
+          "published": "2026-08-24T16:59:30.000Z"
+        },
         {
           "title": "The Insourcing Revolution Is Here. And It’s Bigger Than Anyone Expected.",
           "link": "https://abovethelaw.com/2026/08/the-insourcing-revolution-is-here-and-its-bigger-than-anyone-expected/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "There are no catchy, cutesy promotional themes as in years past. Instead, ILTA seems to be more focused on content. The post ILTACON 2026: Separating Wheat From Chaff appeared first on Above the Law .",
           "published": "2026-08-21T18:32:00.000Z"
-        },
-        {
-          "title": "The Battle To Protect Ethical Prosecutors",
-          "link": "https://abovethelaw.com/2026/08/the-battle-to-protect-ethical-prosecutors/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The reform campaign to end prosecutorial misconduct. The post The Battle To Protect Ethical Prosecutors appeared first on Above the Law .",
-          "published": "2026-08-21T18:02:00.000Z"
-        },
-        {
-          "title": "Are All Lawyers ‘Legal Technologists’ Now?",
-          "link": "https://abovethelaw.com/2026/08/are-all-lawyers-legal-technologists-now/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A pre-ILTACON check-in with CEO Joy Heath Rush. The post Are All Lawyers ‘Legal Technologists’ Now? appeared first on Above the Law .",
-          "published": "2026-08-21T17:34:00.000Z"
         }
       ]
     }
