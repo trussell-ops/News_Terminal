@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-24T16:01:57.024Z",
+  "updated": "2026-08-24T17:02:52.462Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
+          "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
+          "published": "2026-08-24T16:50:47.000Z"
+        },
+        {
+          "title": "Rail companies sued for £5m over oil spill caused by derailment",
+          "link": "https://www.bbc.co.uk/news/articles/cwyz37zzp22o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "More than 400,000 litres of fuel spilled in the area causing an \"environmental disaster\".",
+          "published": "2026-08-24T16:30:40.000Z"
+        },
         {
           "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
           "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
@@ -27,14 +43,6 @@
           "category": "markets",
           "snippet": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
           "published": "2026-08-24T15:22:09.000Z"
-        },
-        {
-          "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
-          "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
-          "published": "2026-08-24T15:01:20.000Z"
         },
         {
           "title": "Coin hidden in 1971 earns finder free pint of beer",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
           "published": "2026-08-23T10:02:23.000Z"
-        },
-        {
-          "title": "Les used a QR code to download a parking app - but it was a scam",
-          "link": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Scammers set up a monthly subscription of £60 from Les Howard's account after he downloaded an app.",
-          "published": "2026-08-23T06:23:54.000Z"
         }
       ]
     },
@@ -202,12 +202,84 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+          "link": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while…",
+          "published": "2026-08-24T17:01:05.000Z"
+        },
+        {
+          "title": "Robotaxis are real now — so is the pushback",
+          "link": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers,…",
+          "published": "2026-08-24T16:42:37.000Z"
+        },
+        {
+          "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+          "link": "https://github.com/ovenpasta/adi2",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T16:30:51.000Z"
+        },
+        {
+          "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+          "link": "https://arxiv.org/abs/2608.16603",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T16:30:21.000Z"
+        },
+        {
+          "title": "A Server Lost Power at 00:32. We Found Out at 08:18",
+          "link": "https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T16:29:57.000Z"
+        },
+        {
+          "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+          "link": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T16:29:00.000Z"
+        },
+        {
+          "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+          "link": "https://glassbox.codecanary.org",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T16:15:10.000Z"
+        },
+        {
+          "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+          "link": "https://picomq.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T16:08:17.000Z"
+        },
+        {
           "title": "Coding expertise is going to collapse from AI reliance",
           "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T15:52:33.000Z"
+        },
+        {
+          "title": "Jabber&#x2F;XMPP: 25 Years of Digital Independence",
+          "link": "https://gultsch.de/posts/25-years-of-digital-independence/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:51:31.000Z"
         },
         {
           "title": "The Witcher 4 developers target a 2028 release",
@@ -218,12 +290,20 @@
           "published": "2026-08-24T15:48:53.000Z"
         },
         {
-          "title": "Majority of Britons say free speech has deteriorated under Labour",
-          "link": "https://www.gbnews.com/news/free-speech-worsened-under-labour-liberty-polling",
+          "title": "IPFS Maintainers Winding Down",
+          "link": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-24T15:45:06.000Z"
+          "published": "2026-08-24T15:48:45.000Z"
+        },
+        {
+          "title": "Three Generations in E7",
+          "link": "https://johncarlosbaez.wordpress.com/2026/08/12/three-generations-in-e7/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:40:38.000Z"
         },
         {
           "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
@@ -240,6 +320,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T15:22:43.000Z"
+        },
+        {
+          "title": "NetBSD GSoC 2026 Improving RAIDframe",
+          "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:17:38.000Z"
         },
         {
           "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
@@ -266,6 +354,30 @@
           "published": "2026-08-24T15:06:24.000Z"
         },
         {
+          "title": "Adafruit USB Type C CC Resistor Fixer",
+          "link": "https://www.adafruit.com/product/6323",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:05:22.000Z"
+        },
+        {
+          "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
+          "link": "https://inferquest.org",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:02:01.000Z"
+        },
+        {
+          "title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
+          "link": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:01:51.000Z"
+        },
+        {
           "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
           "link": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
           "source": "The Verge",
@@ -280,124 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T14:48:58.000Z"
-        },
-        {
-          "title": "Apple’s four-pack of second-gen AirTags is $20 off",
-          "link": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four together as a set is a way…",
-          "published": "2026-08-24T14:04:04.000Z"
-        },
-        {
-          "title": "How GoFundMe became America’s backup plan",
-          "link": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to little league uniforms to starting a…",
-          "published": "2026-08-24T14:00:00.000Z"
-        },
-        {
-          "title": "Netflix reportedly considers opening its app to other streamers",
-          "link": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and Fox One to Netflix,…",
-          "published": "2026-08-24T13:47:14.000Z"
-        },
-        {
-          "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
-          "link": "https://ssx360.github.io/rack-02/?src=hn",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T13:17:11.000Z"
-        },
-        {
-          "title": "How Europe is killing makers and micro-entrepreneurs",
-          "link": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T13:05:25.000Z"
-        },
-        {
-          "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
-          "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before…",
-          "published": "2026-08-24T11:37:53.000Z"
-        },
-        {
-          "title": "SeL4 security proofs now complete on AArch64",
-          "link": "https://proofcraft.systems/news-2026/#2026-08-21",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T11:32:51.000Z"
-        },
-        {
-          "title": "Why older tech is sometimes safer from hackers",
-          "link": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T11:23:39.000Z"
-        },
-        {
-          "title": "Agent Is Not the Model",
-          "link": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T11:20:40.000Z"
-        },
-        {
-          "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-          "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The Unibook is a weird entry-level laptop for people with patience.",
-          "published": "2026-08-24T11:00:01.000Z"
-        },
-        {
-          "title": "Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System",
-          "link": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T10:18:03.000Z"
-        },
-        {
-          "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-          "link": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T09:45:02.000Z"
-        },
-        {
-          "title": "Humanoid robots smash Usain Bolt s 100-meter record",
-          "link": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing…",
-          "published": "2026-08-24T09:10:40.000Z"
-        },
-        {
-          "title": "Fast drilldown dashboards from a single Parquet file",
-          "link": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T08:13:17.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Insourcing Revolution Is Here. And It’s Bigger Than Anyone Expected.",
+          "link": "https://abovethelaw.com/2026/08/the-insourcing-revolution-is-here-and-its-bigger-than-anyone-expected/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] In-house teams have more agency than they’ve had in a decade. Axiom’s 2027 budget study shows the work arriving faster than the budget to hold it. The post The Insourcing Revolution Is Here. And It’s Bigger Than Anyone…",
+          "published": "2026-08-24T16:17:00.000Z"
+        },
         {
           "title": "Agentic AI And The QWERTY Problem",
           "link": "https://abovethelaw.com/2026/08/agentic-ai-and-the-qwerty-problem/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "A pre-ILTACON check-in with CEO Joy Heath Rush. The post Are All Lawyers ‘Legal Technologists’ Now? appeared first on Above the Law .",
           "published": "2026-08-21T17:34:00.000Z"
-        },
-        {
-          "title": "The Best Law Schools For Health Law (2026)",
-          "link": "https://abovethelaw.com/2026/08/the-best-law-schools-for-health-law-2026/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "If you're interested in health law, you need to see this list. The post The Best Law Schools For Health Law (2026) appeared first on Above the Law .",
-          "published": "2026-08-21T17:02:37.000Z"
         }
       ]
     }
