@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-24T14:11:11.542Z",
+  "updated": "2026-08-24T15:07:30.957Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
+          "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
+          "published": "2026-08-24T15:01:20.000Z"
+        },
         {
           "title": "Coin hidden in 1971 earns finder free pint of beer",
           "link": "https://www.bbc.co.uk/news/videos/cx2zg9xzkzyo?at_medium=RSS&at_campaign=rss",
@@ -43,14 +51,6 @@
           "category": "markets",
           "snippet": "UPS told CNBC exclusively that the company is investing more than $2 billion into its international, healthcare and supply chain businesses.",
           "published": "2026-08-24T11:00:01.000Z"
-        },
-        {
-          "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
-          "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
-          "published": "2026-08-24T10:55:47.000Z"
         },
         {
           "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
@@ -202,6 +202,30 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "ESPN streaming plans are getting more expensive",
+          "link": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost…",
+          "published": "2026-08-24T15:06:24.000Z"
+        },
+        {
+          "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
+          "link": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses, jewelry boxes, and other…",
+          "published": "2026-08-24T14:49:44.000Z"
+        },
+        {
+          "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+          "link": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T14:48:58.000Z"
+        },
+        {
           "title": "Apple’s four-pack of second-gen AirTags is $20 off",
           "link": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
           "source": "The Verge",
@@ -224,6 +248,14 @@
           "category": "tech",
           "snippet": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and Fox One to Netflix,…",
           "published": "2026-08-24T13:47:14.000Z"
+        },
+        {
+          "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+          "link": "https://ssx360.github.io/rack-02/?src=hn",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T13:17:11.000Z"
         },
         {
           "title": "How Europe is killing makers and micro-entrepreneurs",
@@ -272,14 +304,6 @@
           "category": "tech",
           "snippet": "The Unibook is a weird entry-level laptop for people with patience.",
           "published": "2026-08-24T11:00:01.000Z"
-        },
-        {
-          "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
-          "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T10:52:24.000Z"
         },
         {
           "title": "Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System",
@@ -368,36 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T04:48:20.000Z"
-        },
-        {
-          "title": "Mourning Steve French",
-          "link": "https://lwn.net/Articles/1090098/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T04:47:14.000Z"
-        },
-        {
-          "title": "I built a low-latency AI companion that plays Skyrim with me",
-          "link": "https://pantel.is/projects/ai-gaming-companion/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T23:18:17.000Z"
-        },
-        {
-          "title": "Everything I own, owned",
-          "link": "https://schlarp.com/posts/everything-i-own-owned/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T22:41:04.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "An Administration Drowning In Vindictive Prosecution Motions Would Like To Abolish The Category",
+          "link": "https://abovethelaw.com/2026/08/an-administration-drowning-in-vindictive-prosecution-motions-would-like-to-abolish-the-category/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The Abrego Garcia appeal isn't just about Abrego Garcia. The post An Administration Drowning In Vindictive Prosecution Motions Would Like To Abolish The Category appeared first on Above the Law .",
+          "published": "2026-08-24T14:42:00.000Z"
+        },
         {
           "title": "This Week In Epic News: FTC Probe, AI Agents More",
           "link": "https://medcitynews.com/2026/08/epic-ftc-agentic-ai/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "It's almost as if cowardice doesn't pay off... The post ABA Going To Lose Law School Accreditor Role On Same Day It Surrenders To Trump Administration appeared first on Above the Law .",
           "published": "2026-08-21T16:12:00.000Z"
-        },
-        {
-          "title": "It s Kool To Have Another Milbank Associate Salary Match",
-          "link": "https://abovethelaw.com/2026/08/its-kool-to-have-another-milbank-associate-salary-match/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Come January, that is. The post It s Kool To Have Another Milbank Associate Salary Match appeared first on Above the Law .",
-          "published": "2026-08-21T15:25:43.000Z"
         }
       ]
     }
