@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T11:32:01.865Z",
+  "updated": "2026-08-24T12:27:34.609Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,7 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Paramount's proposed merger with WBD is delayed while an antitrust lawsuit plays out. The holdup could mean a freeze across the media industry.",
-          "published": "2026-08-24T11:10:15.000Z"
+          "published": "2026-08-24T12:07:27.000Z"
         },
         {
           "title": "UPS is investing $2 billion in international, healthcare and supply chain businesses",
@@ -21,7 +21,7 @@
           "published": "2026-08-24T11:00:01.000Z"
         },
         {
-          "title": "Graduate job vacancies drop by almost 50% in a year",
+          "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
           "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -99,6 +99,14 @@
           "category": "markets",
           "snippet": "Roehampton University offers students a year;y scholarship to play esports alongside their studies.",
           "published": "2026-08-23T23:23:55.000Z"
+        },
+        {
+          "title": "Business Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8gg7?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "European governments and businesses are taking a tougher line on trade with China",
+          "published": "2026-08-23T20:30:00.000Z"
         },
         {
           "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
           "published": "2026-08-22T08:37:16.000Z"
-        },
-        {
-          "title": "Not 'poor enough': Do people use London's pay-it-forward schemes?",
-          "link": "https://www.bbc.co.uk/news/articles/cewrv4wqvw2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The schemes are in place to help people who are struggling with the cost of living.",
-          "published": "2026-08-22T06:59:33.000Z"
         }
       ]
     },
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
-          "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
+          "title": "Anthropic candidates face blunt money question",
+          "link": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-24T10:52:24.000Z"
+          "published": "2026-08-24T11:55:46.000Z"
+        },
+        {
+          "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
+          "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before…",
+          "published": "2026-08-24T11:37:53.000Z"
+        },
+        {
+          "title": "SeL4 security proofs now complete on AArch64",
+          "link": "https://proofcraft.systems/news-2026/#2026-08-21",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T11:32:51.000Z"
+        },
+        {
+          "title": "Agent Is Not the Model",
+          "link": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T11:20:40.000Z"
+        },
+        {
+          "title": "Omakase Computing",
+          "link": "https://learn.omacom.io/3/omacom/76/omakase-computing",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T11:13:53.000Z"
+        },
+        {
+          "title": "Omacom Foundation funding hits $10M",
+          "link": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T11:04:42.000Z"
         },
         {
           "title": "Ask HN: Those making $500&#x2F;month on side projects in 2026 – Show and tell",
@@ -290,14 +330,6 @@
           "published": "2026-08-24T05:47:27.000Z"
         },
         {
-          "title": "Elevated Errors for Multiple Models",
-          "link": "https://status.claude.com/incidents/vgz5psbjmt1h",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T05:12:45.000Z"
-        },
-        {
           "title": "Executable Is a SQLite Database",
           "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
           "source": "Hacker News",
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-23T19:23:29.000Z"
-        },
-        {
-          "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-          "link": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to…",
-          "published": "2026-08-23T19:14:37.000Z"
-        },
-        {
-          "title": "Fable and the end of the free lunch",
-          "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T19:06:09.000Z"
-        },
-        {
-          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-          "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T18:16:37.000Z"
-        },
-        {
-          "title": "Explain it to me like I'm ten",
-          "link": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-23T18:08:13.000Z"
         }
       ]
     },
