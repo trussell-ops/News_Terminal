@@ -1,9 +1,33 @@
 {
-  "updated": "2026-08-24T15:07:30.957Z",
+  "updated": "2026-08-24T16:01:57.024Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+          "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
+          "published": "2026-08-24T15:50:50.000Z"
+        },
+        {
+          "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
+          "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.",
+          "published": "2026-08-24T15:41:29.000Z"
+        },
+        {
+          "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+          "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
+          "published": "2026-08-24T15:22:09.000Z"
+        },
         {
           "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
           "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
@@ -149,14 +173,6 @@
           "published": "2026-08-23T12:00:01.000Z"
         },
         {
-          "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-          "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
-          "published": "2026-08-23T12:00:01.000Z"
-        },
-        {
           "title": "Struggling households need more help with bills, energy industry says",
           "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -179,28 +195,68 @@
           "category": "markets",
           "snippet": "Scammers set up a monthly subscription of £60 from Les Howard's account after he downloaded an app.",
           "published": "2026-08-23T06:23:54.000Z"
-        },
-        {
-          "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
-          "published": "2026-08-23T02:48:41.000Z"
-        },
-        {
-          "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
-          "link": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.",
-          "published": "2026-08-22T12:00:01.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Coding expertise is going to collapse from AI reliance",
+          "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:52:33.000Z"
+        },
+        {
+          "title": "The Witcher 4 developers target a 2028 release",
+          "link": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Micha Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of it, but now the studio…",
+          "published": "2026-08-24T15:48:53.000Z"
+        },
+        {
+          "title": "Majority of Britons say free speech has deteriorated under Labour",
+          "link": "https://www.gbnews.com/news/free-speech-worsened-under-labour-liberty-polling",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:45:06.000Z"
+        },
+        {
+          "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+          "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:28:04.000Z"
+        },
+        {
+          "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+          "link": "https://developers.openai.com/api/docs/pricing",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:22:43.000Z"
+        },
+        {
+          "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+          "link": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:10:25.000Z"
+        },
+        {
+          "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+          "link": "https://twitter.com/lemire/status/2091894299289874926",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-24T15:08:17.000Z"
+        },
         {
           "title": "ESPN streaming plans are getting more expensive",
           "link": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
@@ -330,74 +386,26 @@
           "published": "2026-08-24T09:10:40.000Z"
         },
         {
-          "title": "The Future Belongs to the Weird",
-          "link": "https://essays.georgestrakhov.com/weird/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T08:46:19.000Z"
-        },
-        {
           "title": "Fast drilldown dashboards from a single Parquet file",
           "link": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T08:13:17.000Z"
-        },
-        {
-          "title": "Over 5,200 Ebola cases recorded in Congo",
-          "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T07:03:43.000Z"
-        },
-        {
-          "title": "Andreessen Horowitz is investing billions into a bleak future",
-          "link": "https://www.modelrepublic.org/articles/a16z-portfolio",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T06:57:01.000Z"
-        },
-        {
-          "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-          "link": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T06:30:07.000Z"
-        },
-        {
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "link": "https://github.com/thiagotigaz/ocr-it",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T06:25:31.000Z"
-        },
-        {
-          "title": "New EU-wide product repair rules come into force",
-          "link": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T05:47:27.000Z"
-        },
-        {
-          "title": "Executable Is a SQLite Database",
-          "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T04:48:20.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Agentic AI And The QWERTY Problem",
+          "link": "https://abovethelaw.com/2026/08/agentic-ai-and-the-qwerty-problem/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "AI is getting better. Human brains aren't. The post Agentic AI And The QWERTY Problem appeared first on Above the Law .",
+          "published": "2026-08-24T15:39:18.000Z"
+        },
         {
           "title": "An Administration Drowning In Vindictive Prosecution Motions Would Like To Abolish The Category",
           "link": "https://abovethelaw.com/2026/08/an-administration-drowning-in-vindictive-prosecution-motions-would-like-to-abolish-the-category/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "If you're interested in health law, you need to see this list. The post The Best Law Schools For Health Law (2026) appeared first on Above the Law .",
           "published": "2026-08-21T17:02:37.000Z"
-        },
-        {
-          "title": "ABA Going To Lose Law School Accreditor Role On Same Day It Surrenders To Trump Administration",
-          "link": "https://abovethelaw.com/2026/08/trump-administration-moves-to-kill-aba-as-law-school-accreditor-on-same-day-aba-surrendering-to-him/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "It's almost as if cowardice doesn't pay off... The post ABA Going To Lose Law School Accreditor Role On Same Day It Surrenders To Trump Administration appeared first on Above the Law .",
-          "published": "2026-08-21T16:12:00.000Z"
         }
       ]
     }
