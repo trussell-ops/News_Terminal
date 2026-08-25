@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T20:17:55.247Z",
+  "updated": "2026-08-25T20:52:42.028Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,15 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Even though macro uncertainty and volatility continue to show up in the broader economy, bidding keeps rising, according to JLL.",
-          "published": "2026-08-25T19:44:55.000Z"
+          "published": "2026-08-25T20:44:51.000Z"
+        },
+        {
+          "title": "Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market",
+          "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
+          "published": "2026-08-25T20:38:59.000Z"
         },
         {
           "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
@@ -35,14 +43,6 @@
           "category": "markets",
           "snippet": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
           "published": "2026-08-25T15:04:52.000Z"
-        },
-        {
-          "title": "Dick's Sporting Goods stock falls 25% as retailer misses expectations, cites 'challenging' footwear market",
-          "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
-          "published": "2026-08-25T14:47:30.000Z"
         },
         {
           "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
@@ -202,6 +202,22 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "At just $8, you owe it to yourself to grab Inscryption",
+          "link": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with a fantastic…",
+          "published": "2026-08-25T20:38:37.000Z"
+        },
+        {
+          "title": "The Witcher 3 is getting a remaster",
+          "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and…",
+          "published": "2026-08-25T20:24:24.000Z"
+        },
+        {
           "title": "Perplexity Portable Computer",
           "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
           "source": "Hacker News",
@@ -240,14 +256,6 @@
           "category": "tech",
           "snippet": "It's currently only appearing on Pixels running Android 17.",
           "published": "2026-08-25T18:32:30.000Z"
-        },
-        {
-          "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
-          "link": "https://pgbot.dev/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T18:30:57.000Z"
         },
         {
           "title": "Take a look at Microsoft s new 25th anniversary Halo accessories",
@@ -318,7 +326,7 @@
           "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is scheduled to kick off on Tuesday at 2PM ET, with a preshow starting 30 minutes before. Thanks to teases on social media, we…",
+          "snippet": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the…",
           "published": "2026-08-25T17:20:00.000Z"
         },
         {
@@ -384,20 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-25T16:52:05.000Z"
-        },
-        {
-          "title": "GeForce Now is getting support for the Steam Controller",
-          "link": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using…",
-          "published": "2026-08-25T16:47:15.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Pablo Arredondo, Casetext Cofounder And Legal AI Pioneer, Joins Clio To Lead Its Expansion Into The Judiciary",
+          "link": "https://www.lawnext.com/2026/08/pablo-arredondo-casetext-cofounder-and-legal-ai-pioneer-joins-clio-to-lead-its-expansion-into-the-judiciary.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The hiring marks Clio’s first dedicated move into the judiciary, an expansion the company describes as the next chapter in its ambition to build technology for the entire legal system. The post Pablo Arredondo, Casetext Cofounder And…",
+          "published": "2026-08-25T20:44:00.000Z"
+        },
         {
           "title": "Law Firms Are Buying AI: But Are They Really Using It?",
           "link": "https://abovethelaw.com/2026/08/law-firms-are-buying-ai-but-are-they-really-using-it/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Nothing motivates a stalled salary match like the scale-setter recruiting on your home turf. The post Milbank Is Opening A Chicago Office And Bringing Its Pay Scale With It appeared first on Above the Law .",
           "published": "2026-08-24T18:32:00.000Z"
-        },
-        {
-          "title": "Former Acting U.S. Attorney Found Dead Inside Federal Building",
-          "link": "https://abovethelaw.com/2026/08/former-acting-u-s-attorney-found-dead-inside-federal-building/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "He dedicated his career to public service. Our deepest condolences to his friends and family. The post Former Acting U.S. Attorney Found Dead Inside Federal Building appeared first on Above the Law .",
-          "published": "2026-08-24T17:43:00.000Z"
         }
       ]
     }
