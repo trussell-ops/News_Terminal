@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T21:18:03.606Z",
+  "updated": "2026-08-25T21:50:17.343Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,30 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Trump is upping the price of Big Tech’s favorite visa",
+          "link": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000…",
+          "published": "2026-08-25T21:45:00.000Z"
+        },
+        {
+          "title": "World humanoid robot games show runners breaking records, bursting into flames",
+          "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Record-breaking robot races are less substantial than household chore challenges.",
+          "published": "2026-08-25T20:59:03.000Z"
+        },
+        {
+          "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+          "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T20:49:03.000Z"
+        },
+        {
           "title": "At just $8, you owe it to yourself to grab Inscryption",
           "link": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
           "source": "The Verge",
@@ -216,14 +240,6 @@
           "category": "tech",
           "snippet": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and…",
           "published": "2026-08-25T20:24:24.000Z"
-        },
-        {
-          "title": "Perplexity Portable Computer",
-          "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T19:41:48.000Z"
         },
         {
           "title": "C2PA Cameras Do Not Survive Contact with Reality",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-25T16:59:31.000Z"
-        },
-        {
-          "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
-          "link": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says…",
-          "published": "2026-08-25T16:58:53.000Z"
-        },
-        {
-          "title": "My Friend Aaron",
-          "link": "https://rorz.io/writing/my-friend-aaron",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T16:53:33.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "3 More Questions For A Law School Admissions Expert (Part I)",
+          "link": "https://abovethelaw.com/2026/08/3-more-questions-for-a-law-school-admissions-expert-part-i/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Today’s applicants need as much help as they can get. The post 3 More Questions For A Law School Admissions Expert (Part I) appeared first on Above the Law .",
+          "published": "2026-08-25T21:34:00.000Z"
+        },
         {
           "title": "Pablo Arredondo, Casetext Cofounder And Legal AI Pioneer, Joins Clio To Lead Its Expansion Into The Judiciary",
           "link": "https://www.lawnext.com/2026/08/pablo-arredondo-casetext-cofounder-and-legal-ai-pioneer-joins-clio-to-lead-its-expansion-into-the-judiciary.html",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Judicial opinions that you didn't know still needed to be written. The post Judges Can t Handcuff And Threaten Children For Falling Asleep On Field Trips, Court Rules appeared first on Above the Law .",
           "published": "2026-08-24T19:13:00.000Z"
-        },
-        {
-          "title": "Milbank Is Opening A Chicago Office And Bringing Its Pay Scale With It",
-          "link": "https://abovethelaw.com/2026/08/milbank-is-opening-a-chicago-office-and-bringing-its-pay-scale-with-it/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Nothing motivates a stalled salary match like the scale-setter recruiting on your home turf. The post Milbank Is Opening A Chicago Office And Bringing Its Pay Scale With It appeared first on Above the Law .",
-          "published": "2026-08-24T18:32:00.000Z"
         }
       ]
     }
