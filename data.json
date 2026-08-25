@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-25T00:41:20.269Z",
+  "updated": "2026-08-25T02:12:34.808Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Burnham refuses to rule out tax rises in autumn Budget",
+          "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
+          "published": "2026-08-25T01:35:47.000Z"
+        },
+        {
+          "title": "How Canada could hit back to hurt the US economy - and Trump",
+          "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+          "published": "2026-08-25T00:40:06.000Z"
+        },
         {
           "title": "70,000 social and affordable homes to be built across England as part of £39bn plan",
           "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "It follows major national rail disruption at the weekend.",
           "published": "2026-08-24T06:41:05.000Z"
-        },
-        {
-          "title": "Kids food scheme set to grow after 'crazy' support",
-          "link": "https://www.bbc.co.uk/news/articles/cgr7v78zqp5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The Grumpy Cook in Hastings is set to expand its scheme after receiving £30,000 in donations.",
-          "published": "2026-08-24T05:15:20.000Z"
-        },
-        {
-          "title": "'I didn't speak the Queen's English': Why people worry about their accents",
-          "link": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
-          "published": "2026-08-23T23:25:44.000Z"
         }
       ]
     },
@@ -202,20 +202,28 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "How Universities Should Prepare Founders",
+          "link": "https://paulgraham.com/prepare.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T01:40:39.000Z"
+        },
+        {
+          "title": "What languages are agent skills written in?",
+          "link": "https://plicara.ai/research/agent-skill-languages/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T00:52:27.000Z"
+        },
+        {
           "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
           "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
           "source": "The Verge",
           "category": "tech",
           "snippet": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks…",
           "published": "2026-08-24T23:38:10.000Z"
-        },
-        {
-          "title": "Iran Is Using Foreign Criminals to Attack Its Critics Overseas",
-          "link": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T23:06:37.000Z"
         },
         {
           "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
@@ -346,14 +354,6 @@
           "published": "2026-08-24T18:37:24.000Z"
         },
         {
-          "title": "What Is a Syslog Server?",
-          "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T18:15:50.000Z"
-        },
-        {
           "title": "Octopus intelligence may be related to never-before-seen mutation",
           "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
           "source": "Hacker News",
@@ -370,14 +370,6 @@
           "published": "2026-08-24T17:53:14.000Z"
         },
         {
-          "title": "Agent Lightning v1.0",
-          "link": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T17:23:22.000Z"
-        },
-        {
           "title": "Where did all the public bathrooms go?",
           "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
           "source": "Hacker News",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-24T17:05:38.000Z"
+        },
+        {
+          "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+          "link": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while…",
+          "published": "2026-08-24T17:01:05.000Z"
         }
       ]
     },
