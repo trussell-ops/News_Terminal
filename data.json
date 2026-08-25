@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T22:16:35.327Z",
+  "updated": "2026-08-25T22:51:33.482Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,22 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+          "link": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the…",
+          "published": "2026-08-25T22:20:17.000Z"
+        },
+        {
+          "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+          "link": "https://github.com/swimmingbrain/texbrain",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T22:08:50.000Z"
+        },
+        {
           "title": "Trump is upping the price of Big Tech’s favorite visa",
           "link": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
           "source": "The Verge",
@@ -210,20 +226,20 @@
           "published": "2026-08-25T21:45:00.000Z"
         },
         {
-          "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
-          "link": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T21:43:37.000Z"
-        },
-        {
           "title": "Python's pre-declared constants are kinda weird",
           "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-25T21:39:02.000Z"
+        },
+        {
+          "title": "XCancel also down, at least for time being",
+          "link": "https://news.ycombinator.com/item?id=49440786",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T21:18:23.000Z"
         },
         {
           "title": "World humanoid robot games show runners breaking records, bursting into flames",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the…",
           "published": "2026-08-25T17:20:00.000Z"
-        },
-        {
-          "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
-          "link": "https://github.com/leodeim/vpsmon",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T17:13:59.000Z"
-        },
-        {
-          "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
-          "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you…",
-          "published": "2026-08-25T17:12:31.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "He Made A Political Enemy Of The Wrong Man And It Cost Him The Supreme Court",
+          "link": "https://abovethelaw.com/2026/08/he-made-a-political-enemy-of-the-wrong-man-and-it-cost-him-the-supreme-court/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The finest judge of his era, blackballed by someone he'd insulted. The post He Made A Political Enemy Of The Wrong Man And It Cost Him The Supreme Court appeared first on Above the Law .",
+          "published": "2026-08-25T22:16:00.000Z"
+        },
         {
           "title": "3 More Questions For A Law School Admissions Expert (Part I)",
           "link": "https://abovethelaw.com/2026/08/3-more-questions-for-a-law-school-admissions-expert-part-i/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "More firms are turning up the pressure on attorneys to show their faces. The post Biglaw’s Three-Day Office Week Is Going Out Of Style appeared first on Above the Law .",
           "published": "2026-08-24T20:04:00.000Z"
-        },
-        {
-          "title": "Judges Can t Handcuff And Threaten Children For Falling Asleep On Field Trips, Court Rules",
-          "link": "https://abovethelaw.com/2026/08/judges-cant-handcuff-and-threaten-children-for-falling-asleep-on-field-trips-court-rules/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Judicial opinions that you didn't know still needed to be written. The post Judges Can t Handcuff And Threaten Children For Falling Asleep On Field Trips, Court Rules appeared first on Above the Law .",
-          "published": "2026-08-24T19:13:00.000Z"
         }
       ]
     }
