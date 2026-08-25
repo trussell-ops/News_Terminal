@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-25T13:27:36.258Z",
+  "updated": "2026-08-25T14:12:26.640Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market",
+          "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Dick's Sporting Goods reported second fiscal quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
+          "published": "2026-08-25T13:35:12.000Z"
+        },
         {
           "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
           "link": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
@@ -27,14 +35,6 @@
           "category": "markets",
           "snippet": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
           "published": "2026-08-25T12:10:13.000Z"
-        },
-        {
-          "title": "Dick's Sporting Goods stock falls 15% as retailer misses expectations, cites 'challenging' footwear market",
-          "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Dick's Sporting Goods reported second fiscal quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
-          "published": "2026-08-25T11:41:49.000Z"
         },
         {
           "title": "Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI says its new AI chip, Jalape o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president…",
+          "published": "2026-08-25T14:00:00.000Z"
+        },
+        {
+          "title": "The state of AI in 2026: On the road to ROI",
+          "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T13:32:52.000Z"
+        },
+        {
+          "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+          "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T13:13:00.000Z"
+        },
+        {
+          "title": "US data centers tripled annual water consumption to 17B gallons",
+          "link": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T13:08:13.000Z"
+        },
+        {
           "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
           "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
           "source": "Hacker News",
@@ -210,12 +242,76 @@
           "published": "2026-08-25T13:03:17.000Z"
         },
         {
+          "title": "Where to preorder the updated Mac Mini and Mac Studio",
+          "link": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most…",
+          "published": "2026-08-25T13:02:18.000Z"
+        },
+        {
           "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
           "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-25T13:01:22.000Z"
+        },
+        {
+          "title": "Apple's new desktop computers are designed specifically for local AI development",
+          "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
+          "published": "2026-08-25T13:00:11.000Z"
+        },
+        {
+          "title": "The lens in Wyze’s new $40 indoor camera retracts for privacy",
+          "link": "https://www.theverge.com/tech/961785/wyze-indoor-cam-pan-tilt-2k-night-vision",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Wyze announced a new pan-and-tilt security camera today designed for indoor use. The entire Indoor Cam Pan can rotate 360 degrees, while the camera and lens on its front can tilt up and down 103 degrees. When you want privacy, the lens…",
+          "published": "2026-08-25T13:00:00.000Z"
+        },
+        {
+          "title": "GuliKit’s Switch 2 TV dock gives me one feature I’ve missed when traveling",
+          "link": "https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Nintendo didn’t design its Switch dock with travel in mind. Genki’s Covert Dock is a much smaller alternative my family has been using to connect our Switch to hotel TVs for years, but I’ve come to realize I much prefer having a stand for…",
+          "published": "2026-08-25T13:00:00.000Z"
+        },
+        {
+          "title": "Uber is letting parents check in on their teens through drivers’ selfie cameras",
+          "link": "https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Uber is updating its teen account feature to allow parents to use the selfie cameras on Uber drivers' phones to check in on their teenage children during ridehail trips. Since first launching teen accounts in 2023, Uber has touted the…",
+          "published": "2026-08-25T13:00:00.000Z"
+        },
+        {
+          "title": "Apple s new M6 chip gets more cores and more AI compute",
+          "link": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its \"most powerful chip ever,\" designed for tasks like 3D rendering and running frontier AI models. The M6 is Apple's first 2nm chip, which Apple says will…",
+          "published": "2026-08-25T13:00:00.000Z"
+        },
+        {
+          "title": "Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices",
+          "link": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple is announcing a new generation of the Mac Mini, once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year's MacBook Pro. The new Minis have the same tiny design and footprint as…",
+          "published": "2026-08-25T13:00:00.000Z"
+        },
+        {
+          "title": "Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
+          "link": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple is announcing new models of the Mac Studio, now using the existing M5 Max and a new M5 Ultra. This reunification under one chip generation comes over a year after Apple awkwardly split the Studio between M4 Max and M3 Ultra…",
+          "published": "2026-08-25T13:00:00.000Z"
         },
         {
           "title": "France's tax agency got hacked (in French)",
@@ -274,38 +370,6 @@
           "published": "2026-08-25T11:40:00.000Z"
         },
         {
-          "title": "Greenworks’ MaximusZ electric riding mower has five motors and a few compromises",
-          "link": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The current EV market is flush with variety. I've driven single-motor economy-minded machines, dual-motor EVs with all-wheel drive, tri-motor vehicles that dial up the performance stakes, and even wild quad-motor performance cars, like…",
-          "published": "2026-08-25T11:00:00.000Z"
-        },
-        {
-          "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The…",
-          "published": "2026-08-25T09:15:03.000Z"
-        },
-        {
-          "title": "Android is getting its own weird dots to cure car sickness",
-          "link": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very similar to Apple's Motion Cues, first…",
-          "published": "2026-08-25T08:36:27.000Z"
-        },
-        {
-          "title": "Headlong: A Microharness for Persistent Agents",
-          "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T03:54:19.000Z"
-        },
-        {
           "title": "SiFive's First Server Platform",
           "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
           "source": "Hacker News",
@@ -328,76 +392,36 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-25T01:35:00.000Z"
-        },
-        {
-          "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
-          "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks…",
-          "published": "2026-08-24T23:38:10.000Z"
-        },
-        {
-          "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-          "link": "https://github.com/murerkinn/bookshelf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T23:00:37.000Z"
-        },
-        {
-          "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-          "link": "https://developer.apple.com/news/?id=1ptvdtcm",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T22:13:40.000Z"
-        },
-        {
-          "title": "Moon (2024)",
-          "link": "https://ciechanow.ski/moon/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T22:06:02.000Z"
-        },
-        {
-          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
-          "published": "2026-08-24T21:45:53.000Z"
-        },
-        {
-          "title": "Data centers become \"killer application\" for new power transformer tech",
-          "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Solid-state transformers could also benefit EV charging and, someday, households.",
-          "published": "2026-08-24T21:32:16.000Z"
-        },
-        {
-          "title": "RFK Jr. may upend how vaccine recommendations are categorized",
-          "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
-          "published": "2026-08-24T21:04:48.000Z"
-        },
-        {
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-24T21:01:38.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "ShopMy Accused Of Manipulating Affiliate Commissions",
+          "link": "https://fashionista.com/2026/08/shopmy-accused-of-manipulating-affiliate-commissions",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "France’s consumer watchdog fined British retailer Boohoo for deceptive practices. The post ShopMy Accused Of Manipulating Affiliate Commissions appeared first on Above the Law .",
+          "published": "2026-08-25T14:02:00.000Z"
+        },
+        {
+          "title": "The justices should regularly sit on the lower courts",
+          "link": "https://www.scotusblog.com/2026/08/the-justices-should-regularly-sit-on-the-lower-courts-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This is the fifth piece in a series on what I believe the court can, and should, do better. *** Each term, the chief justice appoints a circuit justice for each of the twelve regional courts of appeals. These appointments are expressly…",
+          "published": "2026-08-25T14:00:00.000Z"
+        },
+        {
+          "title": "Gutting the Alien Tort Statute",
+          "link": "https://www.scotusblog.com/2026/08/gutting-the-alien-tort-statute/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court’s decision in Cisco Systems, Inc. v. Doe I , decided in June, is a lethal blow to suits under the federal Alien Tort Statute . Such litigation often is the only remedy available to victims of human rights abuses. Through…",
+          "published": "2026-08-25T13:30:00.000Z"
+        },
         {
           "title": "SCOTUS sides with Trump administration in mail-in voting dispute",
           "link": "https://www.scotusblog.com/2026/08/scotus-sides-with-trump-administration-in-mail-in-voting-dispute/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "* John Roberts lets Trump continue spending millions and destroying national monuments without oversight. [ NPR ] * Courts continue ping-pong game about college athletic eligibility. [ ESPN ] * Second Circuit rejects fake US Attorney…",
           "published": "2026-08-24T12:49:00.000Z"
-        },
-        {
-          "title": "Welcome To ILTACON 2026! Today s Agenda, From Keynote To Exhibit Hall Reception",
-          "link": "https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "ILTACON attendees and legal tech watchers: Here's a rundown of what's set for today in Nashville. The post Welcome To ILTACON 2026! Today s Agenda, From Keynote To Exhibit Hall Reception appeared first on Above the Law .",
-          "published": "2026-08-24T11:00:00.000Z"
-        },
-        {
-          "title": "ChatGPT Experts, $700 Million Law Firms, And Frat House Felonies See Generally",
-          "link": "https://abovethelaw.com/2026/08/chatgpt-experts-700-million-law-firms-and-frat-house-felonies-see-generally/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Expertly Flawed: An expert witness collected $90,000 from 3M to ask ChatGPT, \"show how 3M is 0% at fault.\" Plaintiffs' counsel turned the resulting 350-page prompt log into the deposition of a lifetime. Barbarians Inside The Gate: Wood…",
-          "published": "2026-08-23T22:57:00.000Z"
-        },
-        {
-          "title": "Matching The Milbank Scale Before Most Of Biglaw See Also",
-          "link": "https://abovethelaw.com/2026/08/its-kool-to-have-another-milbank-match-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "While The Rest Of Biglaw Waits On Cravath, McKool Smith Just Matched Milbank: The Texas trial powerhouse is raising associate salaries $10K to $20K — effective January 1. The 'Kool' kids always come through eventually. Crim Law Lessons…",
-          "published": "2026-08-21T23:33:00.000Z"
         }
       ]
     }
