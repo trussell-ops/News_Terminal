@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-25T17:03:15.494Z",
+  "updated": "2026-08-25T17:52:13.256Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+          "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
+          "published": "2026-08-25T17:48:55.000Z"
+        },
+        {
+          "title": "Investor competition for commercial real estate sees strongest growth in a year",
+          "link": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Even though macro uncertainty and volatility continue to show up in the broader economy, bidding keeps rising, according to JLL.",
+          "published": "2026-08-25T17:04:54.000Z"
+        },
         {
           "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
           "link": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
@@ -141,14 +157,6 @@
           "published": "2026-08-25T02:49:22.000Z"
         },
         {
-          "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
-          "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
-          "published": "2026-08-25T00:05:29.000Z"
-        },
-        {
           "title": "Nearly three million Teslas recalled in China over hidden door handles",
           "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Paramount's proposed merger with WBD is delayed while an antitrust lawsuit plays out. The holdup could mean a freeze across the media industry.",
           "published": "2026-08-24T22:16:51.000Z"
-        },
-        {
-          "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
-          "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.",
-          "published": "2026-08-24T22:16:18.000Z"
         }
       ]
     },
@@ -202,12 +202,108 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
+          "link": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro — its most compact Bluetooth speaker —…",
+          "published": "2026-08-25T17:39:20.000Z"
+        },
+        {
+          "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+          "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T17:28:52.000Z"
+        },
+        {
+          "title": "Run OpenBSD on DigitalOcean for $4&#x2F;month",
+          "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T17:23:07.000Z"
+        },
+        {
+          "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+          "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is scheduled to kick off on Tuesday at 2PM ET, with a preshow starting 30 minutes before. Thanks to teases on social media, we…",
+          "published": "2026-08-25T17:20:00.000Z"
+        },
+        {
+          "title": "Lightweight system monitor for Linux VPS written in Go",
+          "link": "https://github.com/leodeim/vpsmon",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T17:13:59.000Z"
+        },
+        {
+          "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
+          "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you…",
+          "published": "2026-08-25T17:12:31.000Z"
+        },
+        {
+          "title": "Nitter project received cease and desist",
+          "link": "https://github.com/zedeus/nitter/issues/1442",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T17:08:21.000Z"
+        },
+        {
+          "title": "Black hole singularity is a surface not a point",
+          "link": "https://arxiv.org/abs/2608.21590",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T17:02:49.000Z"
+        },
+        {
+          "title": "A new ceiling for Λ: the de Bruijn–Newman constant is at most 0.1787854",
+          "link": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T16:59:31.000Z"
+        },
+        {
           "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
           "link": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
           "source": "The Verge",
           "category": "tech",
           "snippet": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says…",
           "published": "2026-08-25T16:58:53.000Z"
+        },
+        {
+          "title": "Water Behind the Watts: The Hidden Risk of Powering Data Centers",
+          "link": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T16:58:31.000Z"
+        },
+        {
+          "title": "My Friend Aaron",
+          "link": "https://rorz.io/writing/my-friend-aaron",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T16:53:33.000Z"
+        },
+        {
+          "title": "LatticeDB – Like SQLite but for graph databases",
+          "link": "https://github.com/jeffhajewski/latticedb",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T16:52:05.000Z"
         },
         {
           "title": "GeForce Now is getting support for the Steam Controller",
@@ -218,12 +314,44 @@
           "published": "2026-08-25T16:47:15.000Z"
         },
         {
+          "title": "SpaceX – Starbase, LA",
+          "link": "https://www.spacex.com/sites/starbase-la",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T16:37:52.000Z"
+        },
+        {
+          "title": "Tooltips Need a Delay, and Then They Need to Skip It",
+          "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T16:35:36.000Z"
+        },
+        {
+          "title": "Fuzzing the Gleam Compiler",
+          "link": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T16:30:55.000Z"
+        },
+        {
           "title": "Polestar claims it was blindsided by sales ban",
           "link": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Polestar said the Trump administration strung it along for months before finally rejecting its request to continue selling its electric vehicles in the US under a rule outlawing vehicles with connected software from China. In an August…",
           "published": "2026-08-25T16:14:45.000Z"
+        },
+        {
+          "title": "Run Minecraft in a Windows Sandbox for Computer Use Agents",
+          "link": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T16:09:48.000Z"
         },
         {
           "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
@@ -242,14 +370,6 @@
           "published": "2026-08-25T15:26:45.000Z"
         },
         {
-          "title": "How much of HN is AI?",
-          "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T15:23:41.000Z"
-        },
-        {
           "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
           "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
           "source": "Ars Technica",
@@ -258,7 +378,7 @@
           "published": "2026-08-25T15:10:03.000Z"
         },
         {
-          "title": "Beyond Good and Evil: Nietzsche and the Great War",
+          "title": "Beyond Good and Evil: Nietzsche and the Great War (2019)",
           "link": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
           "source": "Hacker News",
           "category": "tech",
@@ -272,132 +392,60 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-25T14:48:58.000Z"
-        },
-        {
-          "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-          "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T14:29:32.000Z"
-        },
-        {
-          "title": "Apple s ‘new’ polishing cloth is the same except $10 cheaper",
-          "link": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made with soft, nonabrasive material\" but costs $9 instead of…",
-          "published": "2026-08-25T14:25:52.000Z"
-        },
-        {
-          "title": "Building a backyard office, the build and cost breakdown",
-          "link": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T14:20:36.000Z"
-        },
-        {
-          "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
-          "link": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T14:18:29.000Z"
-        },
-        {
-          "title": "Anthropic tells staff to work from home due to possible security team strike",
-          "link": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T14:00:27.000Z"
-        },
-        {
-          "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "OpenAI says its new AI chip, Jalape o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president…",
-          "published": "2026-08-25T14:00:00.000Z"
-        },
-        {
-          "title": "New Mac mini, featuring M6 and M5 Pro",
-          "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T13:13:00.000Z"
-        },
-        {
-          "title": "New Mac Studio with M5 Max and M5 Ultra",
-          "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T13:03:17.000Z"
-        },
-        {
-          "title": "Where to preorder the updated Mac Mini and Mac Studio",
-          "link": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most…",
-          "published": "2026-08-25T13:02:18.000Z"
-        },
-        {
-          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T13:01:22.000Z"
-        },
-        {
-          "title": "Apple's new desktop computers are designed specifically for local AI development",
-          "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
-          "published": "2026-08-25T13:00:11.000Z"
-        },
-        {
-          "title": "The lens in Wyze’s new $40 indoor camera retracts for privacy",
-          "link": "https://www.theverge.com/tech/961785/wyze-indoor-cam-pan-tilt-2k-night-vision",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Wyze announced a new pan-and-tilt security camera today designed for indoor use. The entire Indoor Cam Pan can rotate 360 degrees, while the camera and lens on its front can tilt up and down 103 degrees. When you want privacy, the lens…",
-          "published": "2026-08-25T13:00:00.000Z"
-        },
-        {
-          "title": "GuliKit’s Switch 2 TV dock gives me one feature I’ve missed when traveling",
-          "link": "https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Nintendo didn’t design its Switch dock with travel in mind. Genki’s Covert Dock is a much smaller alternative my family has been using to connect our Switch to hotel TVs for years, but I’ve come to realize I much prefer having a stand for…",
-          "published": "2026-08-25T13:00:00.000Z"
-        },
-        {
-          "title": "Uber is letting parents check in on their teens through drivers’ selfie cameras",
-          "link": "https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Uber is updating its teen account feature to allow parents to use the selfie cameras on Uber drivers' phones to check in on their teenage children during ridehail trips. Since first launching teen accounts in 2023, Uber has touted the…",
-          "published": "2026-08-25T13:00:00.000Z"
-        },
-        {
-          "title": "Apple s new M6 chip gets more cores and more AI compute",
-          "link": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its \"most powerful chip ever,\" designed for tasks like 3D rendering and running frontier AI models. The M6 is Apple's first 2nm chip, which Apple says will…",
-          "published": "2026-08-25T13:00:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "NetDocuments Asks How Much Are Lawyers Paying To Get The Right Answer From AI",
+          "link": "https://abovethelaw.com/2026/08/netdocuments-asks-how-much-are-lawyers-paying-to-get-the-right-answer-from-ai/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "AI costs aren't just about the model. The post NetDocuments Asks How Much Are Lawyers Paying To Get The Right Answer From AI appeared first on Above the Law .",
+          "published": "2026-08-25T17:47:00.000Z"
+        },
+        {
+          "title": "Clarence Thomas Turns Up On Ted Cruz s Podcast, Still Sore About Getting Caught With All Those Undisclosed Gifts",
+          "link": "https://abovethelaw.com/2026/08/clarence-thomas-turns-up-on-ted-cruzs-podcast-still-sore-about-getting-caught-with-all-those-undisclosed-gifts/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Ethics question are a grave injustice, I guess. The post Clarence Thomas Turns Up On Ted Cruz s Podcast, Still Sore About Getting Caught With All Those Undisclosed Gifts appeared first on Above the Law .",
+          "published": "2026-08-25T17:04:00.000Z"
+        },
+        {
+          "title": "On The Most Complex Matters, Probably Right Is Not Good Enough",
+          "link": "https://abovethelaw.com/2026/08/on-the-most-complex-matters-probably-right-is-not-good-enough/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] This is the second article in a three-part series, exploring why accuracy on the most complex legal matters is the foundation trusted Legal AI depends on to earn client trust. The post On The Most Complex Matters, Probably…",
+          "published": "2026-08-25T16:19:00.000Z"
+        },
+        {
+          "title": "This Ruth Bader Ginsburg Holiday Card May Be The Most Charming SCOTUS Collectible Ever",
+          "link": "https://abovethelaw.com/2026/08/this-ruth-bader-ginsburg-holiday-card-may-be-the-most-charming-scotus-collectible-ever/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "RBG and Sandra Day O’Connor star as ‘The Supremes’ -- and bidding starts at $2,000. The post This Ruth Bader Ginsburg Holiday Card May Be The Most Charming SCOTUS Collectible Ever appeared first on Above the Law .",
+          "published": "2026-08-25T15:32:00.000Z"
+        },
+        {
+          "title": "SCOTUS Shadow Docket Hands Trump His Mail-In Ballot Wish, And Justice Jackson Is Having None Of It",
+          "link": "https://abovethelaw.com/2026/08/scotus-shadow-docket-hands-trump-his-mail-in-ballot-wish-and-justice-jackson-is-having-none-of-it/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "'Catch-me-if-you-can,' the Court's newest addition to election law. The post SCOTUS Shadow Docket Hands Trump His Mail-In Ballot Wish, And Justice Jackson Is Having None Of It appeared first on Above the Law .",
+          "published": "2026-08-25T14:42:00.000Z"
+        },
+        {
+          "title": "ShopMy Accused Of Manipulating Affiliate Commissions",
+          "link": "https://fashionista.com/2026/08/shopmy-accused-of-manipulating-affiliate-commissions",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "France’s consumer watchdog fined British retailer Boohoo for deceptive practices. The post ShopMy Accused Of Manipulating Affiliate Commissions appeared first on Above the Law .",
+          "published": "2026-08-25T14:02:00.000Z"
+        },
         {
           "title": "The justices should regularly sit on the lower courts",
           "link": "https://www.scotusblog.com/2026/08/the-justices-should-regularly-sit-on-the-lower-courts-/",
@@ -423,6 +471,22 @@
           "published": "2026-08-25T13:00:00.000Z"
         },
         {
+          "title": "Morning Docket: 08.25.26",
+          "link": "https://abovethelaw.com/2026/08/morning-docket-08-25-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Supreme Court uses shadow docket to lift injunction against Trump proposal to use Post Office to block votes from states that Trump doesn't approve. The majority ruled the injunction premature because the Post Office hadn't issued a…",
+          "published": "2026-08-25T12:57:00.000Z"
+        },
+        {
+          "title": "Today At ILTACON: ILTA Swag, Lessons In Leadership, Game Night",
+          "link": "https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception-2/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "ILTACON attendees and legal tech watchers: Here's a rundown of what's set for today in Nashville. The post Today At ILTACON: ILTA Swag, Lessons In Leadership, Game Night appeared first on Above the Law .",
+          "published": "2026-08-25T11:00:00.000Z"
+        },
+        {
           "title": "Supreme Court allows Trump administration to move forward with order imposing restrictions on mail-in voting",
           "link": "https://www.scotusblog.com/2026/08/supreme-court-allows-trump-administration-to-move-forward-with-order-imposing-restrictions-on-ma/",
           "source": "SCOTUSblog",
@@ -431,164 +495,100 @@
           "published": "2026-08-24T23:06:54.000Z"
         },
         {
-          "title": "There is no constitutional “right to privacy”",
-          "link": "https://www.scotusblog.com/2026/08/there-is-no-constitutional-right-to-privacy/",
-          "source": "SCOTUSblog",
+          "title": "The Abrego Garcia Appeal Is A Trojan Horse See Also",
+          "link": "https://abovethelaw.com/2026/08/the-abrego-garcia-appeal-is-a-trojan-horse-see-also/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "This is the second of five introductory articles on the relevance for U.S. constitutional law of the “born free and equal” clauses, which appeared in the Declaration of Independence and six out of 12 state constitutions when the federal…",
-          "published": "2026-08-24T14:00:00.000Z"
+          "snippet": "The DOJ Is Using One Vindictive Prosecution To Help Kill The Doctrine Altogether: Funny timing, given how the vindictive prosecutions are piling up. Milbank Plants Its Flag In Chicago... Now About That Salary Match, Kirkland? A new…",
+          "published": "2026-08-24T23:01:00.000Z"
         },
         {
-          "title": "The court’s clearly established problem",
-          "link": "https://www.scotusblog.com/2026/08/the-courts-clearly-established-problem/",
-          "source": "SCOTUSblog",
+          "title": "Nine Wins Out Of Ten At The Supreme Court, Before Heading To The Federal Judiciary",
+          "link": "https://abovethelaw.com/2026/08/nine-wins-out-of-ten-at-the-supreme-court-before-heading-to-the-federal-judiciary/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "If a person is convicted of a crime in state court, they can petition a federal court for relief by claiming that their conviction violates the federal constitution. However, the federal court does not get to consider that claim afresh.…",
-          "published": "2026-08-24T13:30:00.000Z"
+          "snippet": "Few advocates ever posted a record like hers. Fewer became judges. The post Nine Wins Out Of Ten At The Supreme Court, Before Heading To The Federal Judiciary appeared first on Above the Law .",
+          "published": "2026-08-24T22:16:00.000Z"
         },
         {
-          "title": "The latest on the mail-in voting and ballroom battles",
-          "link": "https://www.scotusblog.com/2026/08/the-latest-on-the-mail-in-voting-and-ballroom-battles/",
-          "source": "SCOTUSblog",
+          "title": "AI Contracts Are Quietly Becoming The Best Product Documentation",
+          "link": "https://abovethelaw.com/2026/08/ai-contracts-are-quietly-becoming-the-best-product-documentation/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, the kidney stones that made John Marshall the chief justice.",
-          "published": "2026-08-24T13:00:00.000Z"
+          "snippet": "Increasingly, the clearest answers aren't found in marketing materials or product manuals. The post AI Contracts Are Quietly Becoming The Best Product Documentation appeared first on Above the Law .",
+          "published": "2026-08-24T21:33:00.000Z"
         },
         {
-          "title": "Supreme Court allows White House ballroom construction to continue for now",
-          "link": "https://www.scotusblog.com/2026/08/supreme-court-allows-white-house-ballroom-construction-to-continue-for-now/",
-          "source": "SCOTUSblog",
+          "title": "Is Trump Only The Worst President Or Is He The Worst American Ever?",
+          "link": "https://abovethelaw.com/2026/08/is-trump-only-the-worst-president-or-is-he-the-worst-american-ever/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "The Supreme Court on Friday afternoon allowed construction on a new 90,000-square-foot White House ballroom to continue – at least for now. Senior U.S. District Judge Richard Leon had issued an order, slated to go into effect at the end…",
-          "published": "2026-08-21T18:55:08.000Z"
+          "snippet": "We have a winner! The post Is Trump Only The Worst President Or Is He The Worst American Ever? appeared first on Above the Law .",
+          "published": "2026-08-24T20:44:00.000Z"
         },
         {
-          "title": "Realizing Scalia’s vision: state originalism centers as legal civics education",
-          "link": "https://www.scotusblog.com/2026/08/realizing-scalias-vision-state-originalism-centers-as-legal-civics-education/",
-          "source": "SCOTUSblog",
+          "title": "Biglaw’s Three-Day Office Week Is Going Out Of Style",
+          "link": "https://abovethelaw.com/2026/08/biglaws-three-day-office-week-is-going-out-of-style/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "It is no secret that, thanks to Justice Antonin Scalia, originalism is on the rise . This is true not only on the Supreme Court and the federal judiciary in general, but among state judiciaries as well.Yet, although there is more and more…",
-          "published": "2026-08-21T14:30:00.000Z"
+          "snippet": "More firms are turning up the pressure on attorneys to show their faces. The post Biglaw’s Three-Day Office Week Is Going Out Of Style appeared first on Above the Law .",
+          "published": "2026-08-24T20:04:00.000Z"
         },
         {
-          "title": "Six justices, five techniques: writing lessons from the 2025-26 term",
-          "link": "https://www.scotusblog.com/2026/08/six-justices-five-techniques-writing-lessons-from-the-2025-26-term/",
-          "source": "SCOTUSblog",
+          "title": "Judges Can t Handcuff And Threaten Children For Falling Asleep On Field Trips, Court Rules",
+          "link": "https://abovethelaw.com/2026/08/judges-cant-handcuff-and-threaten-children-for-falling-asleep-on-field-trips-court-rules/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "I’ve spent two decades mining Supreme Court opinions for writing techniques that can inspire advocates, too. The best examples rarely feature the snarky or witty lines made for social media. Instead, they model how to navigate the…",
-          "published": "2026-08-21T14:00:00.000Z"
+          "snippet": "Judicial opinions that you didn't know still needed to be written. The post Judges Can t Handcuff And Threaten Children For Falling Asleep On Field Trips, Court Rules appeared first on Above the Law .",
+          "published": "2026-08-24T19:13:00.000Z"
         },
         {
-          "title": "The tenth justice’s strategy",
-          "link": "https://www.scotusblog.com/2026/08/the-tenth-justices-strategy/",
-          "source": "SCOTUSblog",
+          "title": "Milbank Is Opening A Chicago Office And Bringing Its Pay Scale With It",
+          "link": "https://abovethelaw.com/2026/08/milbank-is-opening-a-chicago-office-and-bringing-its-pay-scale-with-it/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Analysis of the Supreme Court’s decisions most often focuses on the opinions and votes of the justices. Sometimes, though, strategic decisions by lawyers about how to argue a case may play a significant role in what the justices decide.…",
-          "published": "2026-08-21T13:30:00.000Z"
+          "snippet": "Nothing motivates a stalled salary match like the scale-setter recruiting on your home turf. The post Milbank Is Opening A Chicago Office And Bringing Its Pay Scale With It appeared first on Above the Law .",
+          "published": "2026-08-24T18:32:00.000Z"
         },
         {
-          "title": "Justices navigate rising security threats",
-          "link": "https://www.scotusblog.com/2026/08/justices-navigate-rising-security-threats/",
-          "source": "SCOTUSblog",
+          "title": "Former Acting U.S. Attorney Found Dead Inside Federal Building",
+          "link": "https://abovethelaw.com/2026/08/former-acting-u-s-attorney-found-dead-inside-federal-building/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, President Trump brings CNN case to SCOTUS.",
-          "published": "2026-08-21T13:00:00.000Z"
+          "snippet": "He dedicated his career to public service. Our deepest condolences to his friends and family. The post Former Acting U.S. Attorney Found Dead Inside Federal Building appeared first on Above the Law .",
+          "published": "2026-08-24T17:43:00.000Z"
         },
         {
-          "title": "Trump asks Supreme Court to hear his defamation case against CNN",
-          "link": "https://www.scotusblog.com/2026/08/trump-asks-supreme-court-to-hear-his-defamation-case-against-cnn/",
-          "source": "SCOTUSblog",
+          "title": "Luigi s Double Jeopardy Gamble And The DOJ s Complicity",
+          "link": "https://abovethelaw.com/2026/08/luigis-double-jeopardy-gamble-and-the-dojs-complicity/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "President Donald Trump has asked the Supreme Court to weigh in on his defamation case against cable news giant CNN. In a filing submitted on Aug. 14 but docketed on Thursday, Trump told the justices that “CNN falsely and maliciously…",
-          "published": "2026-08-21T00:05:11.000Z"
+          "snippet": "Also, Yale Law School grads have a side chat to discuss their infamous classmates. The post Luigi s Double Jeopardy Gamble And The DOJ s Complicity appeared first on Above the Law .",
+          "published": "2026-08-24T16:59:30.000Z"
         },
         {
-          "title": "Slaughter’s vice",
-          "link": "https://www.scotusblog.com/2026/08/slaughters-vice/",
-          "source": "SCOTUSblog",
+          "title": "The Insourcing Revolution Is Here. And It’s Bigger Than Anyone Expected.",
+          "link": "https://abovethelaw.com/2026/08/the-insourcing-revolution-is-here-and-its-bigger-than-anyone-expected/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "As a new school year gets underway, law students might expect to soon be called upon to answer a seemingly simple question: What did the Supreme Court hold in Trump v. Slaughter ? A student who has dutifully done the reading might respond…",
-          "published": "2026-08-20T14:00:00.000Z"
+          "snippet": "[Sponsored] In-house teams have more agency than they’ve had in a decade. Axiom’s 2027 budget study shows the work arriving faster than the budget to hold it. The post The Insourcing Revolution Is Here. And It’s Bigger Than Anyone…",
+          "published": "2026-08-24T16:17:00.000Z"
         },
         {
-          "title": "What the public thinks about the emergency docket",
-          "link": "https://www.scotusblog.com/2026/08/what-the-public-thinks-about-the-emergency-docket/",
-          "source": "SCOTUSblog",
+          "title": "Agentic AI And The QWERTY Problem",
+          "link": "https://abovethelaw.com/2026/08/agentic-ai-and-the-qwerty-problem/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "This column has generally been about what the emergency docket does: how fast the justices act, how often lower courts cite its orders, who dissents on it and in what form , and where denied litigants go when they refile. This month…",
-          "published": "2026-08-20T13:30:00.000Z"
+          "snippet": "AI is getting better. Human brains aren't. The post Agentic AI And The QWERTY Problem appeared first on Above the Law .",
+          "published": "2026-08-24T15:39:18.000Z"
         },
         {
-          "title": "Ballroom dispute now fully briefed",
-          "link": "https://www.scotusblog.com/2026/08/ballroom-dispute-now-fully-briefed/",
-          "source": "SCOTUSblog",
+          "title": "An Administration Drowning In Vindictive Prosecution Motions Would Like To Abolish The Category",
+          "link": "https://abovethelaw.com/2026/08/an-administration-drowning-in-vindictive-prosecution-motions-would-like-to-abolish-the-category/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, a group of Florida Republicans brings their Census Bureau challenge to SCOTUS.",
-          "published": "2026-08-20T13:00:00.000Z"
-        },
-        {
-          "title": "Florida Republicans bring Census Bureau challenge to the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/08/florida-republicans-bring-census-bureau-challenge-to-the-supreme-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "A group of Florida Republicans has appealed a ruling by a federal court in that state throwing out a lawsuit seeking to require the U.S. Census Bureau to revise its data for the 2020 census. Arguing that the statistical methods the Census…",
-          "published": "2026-08-19T17:21:00.000Z"
-        },
-        {
-          "title": "Trump detention policy nears SCOTUS",
-          "link": "https://www.scotusblog.com/2026/08/trump-detention-policy-nears-scotus/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "As part of the Trump administration’s hardline approach to migrants, the Immigration and Customs Enforcement agency has ramped up the number of people it detains. Soon, the Supreme Court may decide whether one of the administration’s…",
-          "published": "2026-08-19T14:00:00.000Z"
-        },
-        {
-          "title": "The scope of the Supreme Court’s emergency docket",
-          "link": "https://www.scotusblog.com/2026/08/the-scope-of-the-supreme-courts-emergency-docket/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "On Aug. 12, an unusual emergency docket application captured court watchers’ attention. It centered on a dog named Bruce who was scheduled to die. Bruce, a 3-year-old Great Pyrenees/German Shepherd mix who weighed about 120 pounds , was…",
-          "published": "2026-08-19T13:30:00.000Z"
-        },
-        {
-          "title": "Trump administration awaits emergency docket decisions",
-          "link": "https://www.scotusblog.com/2026/08/trump-administration-awaits-emergency-docket-decisions/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, an update on the ripple effects of the Supreme Court’s TPS ruling.",
-          "published": "2026-08-19T13:00:00.000Z"
-        },
-        {
-          "title": "Supreme Court urged to leave in place order blocking construction of White House ballroom",
-          "link": "https://www.scotusblog.com/2026/08/supreme-court-urged-to-leave-in-place-order-blocking-construction-of-white-house-ballroom/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Lawyers for the National Trust for Historic Preservation urged the Supreme Court on Tuesday afternoon to leave in place a ruling by a federal court in Washington, D.C., that would temporarily block construction of a new White House…",
-          "published": "2026-08-18T17:34:00.000Z"
-        },
-        {
-          "title": "The chief justice should share much of his power",
-          "link": "https://www.scotusblog.com/2026/08/the-chief-justice-should-share-much-of-his-power/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This is the fourth piece in a series on what I believe the court can, and should, do better. *** Under longstanding tradition, the chief justice presides over oral argument and the justices’ private conferences. I propose a change. The…",
-          "published": "2026-08-18T14:00:00.000Z"
-        },
-        {
-          "title": "What if one vote had changed in the birthright citizenship case?",
-          "link": "https://www.scotusblog.com/2026/08/what-if-one-vote-had-changed-in-the-birthright-citizenship-case/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In Trump v. Barbara , the Supreme Court held that executive order 14160 , which attempted to end birthright citizenship for the children of undocumented immigrants and those temporarily residing in the United States, was unconstitutional…",
-          "published": "2026-08-18T13:30:00.000Z"
-        },
-        {
-          "title": "Trump v. Carroll and the Ten Commandments",
-          "link": "https://www.scotusblog.com/2026/08/trump-v-carroll-and-the-ten-commandments/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, the role of national security in the White House ballroom battle",
-          "published": "2026-08-18T13:00:00.000Z"
+          "snippet": "The Abrego Garcia appeal isn't just about Abrego Garcia. The post An Administration Drowning In Vindictive Prosecution Motions Would Like To Abolish The Category appeared first on Above the Law .",
+          "published": "2026-08-24T14:42:00.000Z"
         }
       ]
     }
