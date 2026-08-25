@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:24:18.391Z",
+  "updated": "2026-08-25T19:06:36.484Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,20 +202,28 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Dreame’s dream of a rocket-powered car is dead",
+          "link": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsChina, the company's automotive division…",
+          "published": "2026-08-25T18:52:53.000Z"
+        },
+        {
+          "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+          "link": "https://pgbot.dev/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T18:30:57.000Z"
+        },
+        {
           "title": "Take a look at Microsoft s new 25th anniversary Halo accessories",
           "link": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
           "source": "The Verge",
           "category": "tech",
           "snippet": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is…",
           "published": "2026-08-25T18:16:29.000Z"
-        },
-        {
-          "title": "Dolly Parton, queen of country music and humanitarian hero, dead at 80",
-          "link": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-death",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T18:11:52.000Z"
         },
         {
           "title": "Dolly Parton has died",
@@ -282,7 +290,7 @@
           "published": "2026-08-25T17:20:00.000Z"
         },
         {
-          "title": "Lightweight system monitor for Linux VPS written in Go",
+          "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
           "link": "https://github.com/leodeim/vpsmon",
           "source": "Hacker News",
           "category": "tech",
@@ -384,20 +392,20 @@
           "category": "tech",
           "snippet": "Image changes that would get a paper retracted are widespread among suppliers.",
           "published": "2026-08-25T16:16:57.000Z"
-        },
-        {
-          "title": "Polestar claims it was blindsided by sales ban",
-          "link": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Polestar said the Trump administration strung it along for months before finally rejecting its request to continue selling its electric vehicles in the US under a rule outlawing vehicles with connected software from China. In an August…",
-          "published": "2026-08-25T16:14:45.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Live Nation’s Ticket Out Of Its Antitrust Case Apparently Came Courtesy Of Some ‘Bizarre’ White House Intervention",
+          "link": "https://abovethelaw.com/2026/08/live-nations-ticket-out-of-its-antitrust-case-apparently-came-courtesy-of-some-bizarre-white-house-intervention/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Live Nation says the government got everything it could have expected in court, despite some highly unusual presidential intervention. The post Live Nation’s Ticket Out Of Its Antitrust Case Apparently Came Courtesy Of Some ‘Bizarre’…",
+          "published": "2026-08-25T18:32:00.000Z"
+        },
         {
           "title": "NetDocuments Asks How Much Are Lawyers Paying To Get The Right Answer From AI",
           "link": "https://abovethelaw.com/2026/08/netdocuments-asks-how-much-are-lawyers-paying-to-get-the-right-answer-from-ai/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "AI is getting better. Human brains aren't. The post Agentic AI And The QWERTY Problem appeared first on Above the Law .",
           "published": "2026-08-24T15:39:18.000Z"
-        },
-        {
-          "title": "An Administration Drowning In Vindictive Prosecution Motions Would Like To Abolish The Category",
-          "link": "https://abovethelaw.com/2026/08/an-administration-drowning-in-vindictive-prosecution-motions-would-like-to-abolish-the-category/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Abrego Garcia appeal isn't just about Abrego Garcia. The post An Administration Drowning In Vindictive Prosecution Motions Would Like To Abolish The Category appeared first on Above the Law .",
-          "published": "2026-08-24T14:42:00.000Z"
         }
       ]
     }
