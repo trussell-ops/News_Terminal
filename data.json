@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T15:11:42.657Z",
+  "updated": "2026-08-25T16:06:02.549Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Apple Releases New Polishing Cloth",
-          "link": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
+          "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
+          "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
+          "published": "2026-08-25T16:04:37.000Z"
+        },
+        {
+          "title": "How much of HN is AI?",
+          "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-25T14:30:10.000Z"
+          "published": "2026-08-25T15:23:41.000Z"
+        },
+        {
+          "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+          "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+          "published": "2026-08-25T15:10:03.000Z"
+        },
+        {
+          "title": "Beyond Good and Evil: Nietzsche and the Great War",
+          "link": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T15:09:20.000Z"
+        },
+        {
+          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T14:48:58.000Z"
         },
         {
           "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
@@ -242,14 +274,6 @@
           "published": "2026-08-25T14:18:29.000Z"
         },
         {
-          "title": "Anthropic tells staff to work from home due to possible security team strike",
-          "link": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T14:00:27.000Z"
-        },
-        {
           "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
           "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
           "source": "The Verge",
@@ -258,7 +282,7 @@
           "published": "2026-08-25T14:00:00.000Z"
         },
         {
-          "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+          "title": "New Mac mini, featuring M6 and M5 Pro",
           "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
           "source": "Hacker News",
           "category": "tech",
@@ -266,7 +290,7 @@
           "published": "2026-08-25T13:13:00.000Z"
         },
         {
-          "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+          "title": "New Mac Studio with M5 Max and M5 Ultra",
           "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
           "source": "Hacker News",
           "category": "tech",
@@ -354,14 +378,6 @@
           "published": "2026-08-25T12:44:35.000Z"
         },
         {
-          "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "link": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T12:33:00.000Z"
-        },
-        {
           "title": "The OLED Xbox Ally X20 officially starts at $1,300",
           "link": "https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300",
           "source": "The Verge",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-25T11:49:48.000Z"
-        },
-        {
-          "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-          "link": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T11:49:43.000Z"
-        },
-        {
-          "title": "HelloAssembly The smallest possible complete Windows application",
-          "link": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T11:40:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "This Ruth Bader Ginsburg Holiday Card May Be The Most Charming SCOTUS Collectible Ever",
+          "link": "https://abovethelaw.com/2026/08/this-ruth-bader-ginsburg-holiday-card-may-be-the-most-charming-scotus-collectible-ever/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "RBG and Sandra Day O’Connor star as ‘The Supremes’ -- and bidding starts at $2,000. The post This Ruth Bader Ginsburg Holiday Card May Be The Most Charming SCOTUS Collectible Ever appeared first on Above the Law .",
+          "published": "2026-08-25T15:32:00.000Z"
+        },
         {
           "title": "SCOTUS Shadow Docket Hands Trump His Mail-In Ballot Wish, And Justice Jackson Is Having None Of It",
           "link": "https://abovethelaw.com/2026/08/scotus-shadow-docket-hands-trump-his-mail-in-ballot-wish-and-justice-jackson-is-having-none-of-it/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "If a person is convicted of a crime in state court, they can petition a federal court for relief by claiming that their conviction violates the federal constitution. However, the federal court does not get to consider that claim afresh.…",
           "published": "2026-08-24T13:30:00.000Z"
-        },
-        {
-          "title": "The latest on the mail-in voting and ballroom battles",
-          "link": "https://www.scotusblog.com/2026/08/the-latest-on-the-mail-in-voting-and-ballroom-battles/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, the kidney stones that made John Marshall the chief justice.",
-          "published": "2026-08-24T13:00:00.000Z"
         }
       ]
     }
