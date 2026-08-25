@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-25T19:06:36.484Z",
+  "updated": "2026-08-25T19:52:58.837Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Investor competition for commercial real estate sees strongest growth in a year",
+          "link": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Even though macro uncertainty and volatility continue to show up in the broader economy, bidding keeps rising, according to JLL.",
+          "published": "2026-08-25T19:44:55.000Z"
+        },
         {
           "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
           "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
@@ -11,14 +19,6 @@
           "category": "markets",
           "snippet": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
           "published": "2026-08-25T17:48:55.000Z"
-        },
-        {
-          "title": "Investor competition for commercial real estate sees strongest growth in a year",
-          "link": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Even though macro uncertainty and volatility continue to show up in the broader economy, bidding keeps rising, according to JLL.",
-          "published": "2026-08-25T17:04:54.000Z"
         },
         {
           "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
@@ -202,12 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+          "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T19:07:01.000Z"
+        },
+        {
+          "title": "Preserving glow-in-the-dark art and fashion for future generations",
+          "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
+          "published": "2026-08-25T18:59:12.000Z"
+        },
+        {
           "title": "Dreame’s dream of a rocket-powered car is dead",
           "link": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsChina, the company's automotive division…",
           "published": "2026-08-25T18:52:53.000Z"
+        },
+        {
+          "title": "Dolly Parton Has Died",
+          "link": "https://en.wikipedia.org/wiki/Dolly_Parton",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T18:43:22.000Z"
+        },
+        {
+          "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+          "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "It's currently only appearing on Pixels running Android 17.",
+          "published": "2026-08-25T18:32:30.000Z"
         },
         {
           "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
@@ -360,44 +392,28 @@
           "category": "tech",
           "snippet": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using…",
           "published": "2026-08-25T16:47:15.000Z"
-        },
-        {
-          "title": "Starbase, LA",
-          "link": "https://www.spacex.com/sites/starbase-la",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T16:37:52.000Z"
-        },
-        {
-          "title": "Tooltips need a delay, and then they need to skip it",
-          "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T16:35:36.000Z"
-        },
-        {
-          "title": "Fuzzing the Gleam Compiler",
-          "link": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T16:30:55.000Z"
-        },
-        {
-          "title": "Lab supply companies have been selling antibodies using manipulated images",
-          "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Image changes that would get a paper retracted are widespread among suppliers.",
-          "published": "2026-08-25T16:16:57.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Trump administration asks justices to consider key border policy",
+          "link": "https://www.scotusblog.com/2026/08/trump-administration-asks-justices-to-consider-key-border-policy/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Trump administration on Monday asked the Supreme Court to review a ruling by a federal appeals court in Washington, D.C., that bars the federal government from removing immigrants who crossed the U.S.-Mexico border illegally without…",
+          "published": "2026-08-25T19:39:00.000Z"
+        },
+        {
+          "title": "The Evidence That Disappears Before You Ever Get It",
+          "link": "https://abovethelaw.com/2026/08/the-evidence-that-disappears-before-you-ever-get-it/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "In modern personal injury cases, the first race isn't always to the courthouse. Sometimes it's a race to make sure the evidence is still there. The post The Evidence That Disappears Before You Ever Get It appeared first on Above the Law .",
+          "published": "2026-08-25T19:16:00.000Z"
+        },
         {
           "title": "Live Nation’s Ticket Out Of Its Antitrust Case Apparently Came Courtesy Of Some ‘Bizarre’ White House Intervention",
           "link": "https://abovethelaw.com/2026/08/live-nations-ticket-out-of-its-antitrust-case-apparently-came-courtesy-of-some-bizarre-white-house-intervention/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Also, Yale Law School grads have a side chat to discuss their infamous classmates. The post Luigi s Double Jeopardy Gamble And The DOJ s Complicity appeared first on Above the Law .",
           "published": "2026-08-24T16:59:30.000Z"
-        },
-        {
-          "title": "The Insourcing Revolution Is Here. And It’s Bigger Than Anyone Expected.",
-          "link": "https://abovethelaw.com/2026/08/the-insourcing-revolution-is-here-and-its-bigger-than-anyone-expected/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] In-house teams have more agency than they’ve had in a decade. Axiom’s 2027 budget study shows the work arriving faster than the budget to hold it. The post The Insourcing Revolution Is Here. And It’s Bigger Than Anyone…",
-          "published": "2026-08-24T16:17:00.000Z"
-        },
-        {
-          "title": "Agentic AI And The QWERTY Problem",
-          "link": "https://abovethelaw.com/2026/08/agentic-ai-and-the-qwerty-problem/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "AI is getting better. Human brains aren't. The post Agentic AI And The QWERTY Problem appeared first on Above the Law .",
-          "published": "2026-08-24T15:39:18.000Z"
         }
       ]
     }
