@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-26T10:24:39.975Z",
+  "updated": "2026-08-26T10:58:55.132Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "What will the energy cap changes mean for my bills?",
+          "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The regulator Ofgem says the price cap will increase by 4% in October for millions of households.",
+          "published": "2026-08-26T10:52:02.000Z"
+        },
+        {
+          "title": "'Ironing board' seats to be replaced on Thameslink",
+          "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Greater Thameslink Railway says these upgrades are part of the wider renationalisation plans.",
+          "published": "2026-08-26T10:30:53.000Z"
+        },
         {
           "title": "Why we should all get used to high household energy bills",
           "link": "https://www.bbc.co.uk/news/articles/c046peqrg9xo?at_medium=RSS&at_campaign=rss",
@@ -11,14 +27,6 @@
           "category": "markets",
           "snippet": "The government is under pressure to support billpayers when domestic energy prices predicted to rise further.",
           "published": "2026-08-26T10:10:33.000Z"
-        },
-        {
-          "title": "What will the energy cap changes mean for my bills?",
-          "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The regulator Ofgem says the price cap will increase by 4% in October for millions of households.",
-          "published": "2026-08-26T10:07:31.000Z"
         },
         {
           "title": "Energy prices to rise to three-year high",
@@ -35,14 +43,6 @@
           "category": "markets",
           "snippet": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
           "published": "2026-08-26T09:31:51.000Z"
-        },
-        {
-          "title": "'Ironing board' seats to be replaced on Thameslink",
-          "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Greater Thameslink Railway says these upgrades are part of the wider renationalisation plans.",
-          "published": "2026-08-26T08:47:49.000Z"
         },
         {
           "title": "'Social supermarket' to take over vacant shop",
@@ -67,6 +67,14 @@
           "category": "markets",
           "snippet": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
           "published": "2026-08-26T01:32:07.000Z"
+        },
+        {
+          "title": "The Interview",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct98hb?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Maura Fogarty speaks to Joe Ngai from McKinsey China about business in the region",
+          "published": "2026-08-25T23:30:00.000Z"
         },
         {
           "title": "AI gold rush draws crypto firms away from Bitcoin",
@@ -187,20 +195,124 @@
           "category": "markets",
           "snippet": "Lego CEO Niels Christiansen told CNBC the company is seeing strong sales at both ends of the pricing spectrum.",
           "published": "2026-08-25T07:00:01.000Z"
-        },
-        {
-          "title": "Burnham refuses to rule out tax rises in autumn Budget",
-          "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
-          "published": "2026-08-25T06:40:33.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "U.S. gov't moves to suppress pushback on data centers",
+          "link": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T10:44:40.000Z"
+        },
+        {
+          "title": "The Feeling of Power (Asimov, 1958)",
+          "link": "https://archive.org/details/1958-02_IF",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T10:26:03.000Z"
+        },
+        {
+          "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T10:04:55.000Z"
+        },
+        {
+          "title": "Social media use on the rise among Australian under-16s after ban: data",
+          "link": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T09:35:58.000Z"
+        },
+        {
+          "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
+          "link": "https://www.globalsolo.global/data/banking-access-index",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T09:01:49.000Z"
+        },
+        {
+          "title": "Value Classes Still Need Compiler Sympathy",
+          "link": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T08:59:15.000Z"
+        },
+        {
+          "title": "Oldinsurancemaps.net is now a Charter Project",
+          "link": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T08:57:46.000Z"
+        },
+        {
+          "title": "RAG Is Simpler Than You Think",
+          "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T08:39:17.000Z"
+        },
+        {
+          "title": "Show HN: Buslens – where can I get to by bus? (UK)",
+          "link": "https://rupertlinacre.com/buslens/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T07:36:52.000Z"
+        },
+        {
+          "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+          "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T05:49:20.000Z"
+        },
+        {
+          "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+          "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T05:09:07.000Z"
+        },
+        {
+          "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+          "link": "https://arxiv.org/abs/2607.21503",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T02:35:25.000Z"
+        },
+        {
+          "title": "Queryable Executables",
+          "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T00:20:49.000Z"
+        },
+        {
+          "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+          "link": "https://github.com/runetes/maiao",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T22:40:07.000Z"
+        },
         {
           "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
           "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
@@ -234,6 +346,14 @@
           "published": "2026-08-25T20:59:03.000Z"
         },
         {
+          "title": "When str.lower() is a security vulnerability in Python",
+          "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T20:49:03.000Z"
+        },
+        {
           "title": "At just $8, you owe it to yourself to grab Inscryption",
           "link": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
           "source": "The Verge",
@@ -250,148 +370,28 @@
           "published": "2026-08-25T20:24:24.000Z"
         },
         {
+          "title": "C2PA Cameras Do Not Survive Contact with Reality",
+          "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T19:38:24.000Z"
+        },
+        {
+          "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+          "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T19:07:01.000Z"
+        },
+        {
           "title": "Preserving glow-in-the-dark art and fashion for future generations",
           "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
           "published": "2026-08-25T18:59:12.000Z"
-        },
-        {
-          "title": "Dreame’s dream of a rocket-powered car is dead",
-          "link": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsChina, the company's automotive division…",
-          "published": "2026-08-25T18:52:53.000Z"
-        },
-        {
-          "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
-          "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "It's currently only appearing on Pixels running Android 17.",
-          "published": "2026-08-25T18:32:30.000Z"
-        },
-        {
-          "title": "Take a look at Microsoft s new 25th anniversary Halo accessories",
-          "link": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is…",
-          "published": "2026-08-25T18:16:29.000Z"
-        },
-        {
-          "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
-          "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\"",
-          "published": "2026-08-25T17:39:38.000Z"
-        },
-        {
-          "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
-          "link": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro — its most compact Bluetooth speaker —…",
-          "published": "2026-08-25T17:39:20.000Z"
-        },
-        {
-          "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
-          "link": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"This will be a project like no other.\"",
-          "published": "2026-08-25T17:26:15.000Z"
-        },
-        {
-          "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-          "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the…",
-          "published": "2026-08-25T17:20:00.000Z"
-        },
-        {
-          "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
-          "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you…",
-          "published": "2026-08-25T17:12:31.000Z"
-        },
-        {
-          "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
-          "link": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says…",
-          "published": "2026-08-25T16:58:53.000Z"
-        },
-        {
-          "title": "Lab supply companies have been selling antibodies using manipulated images",
-          "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Image changes that would get a paper retracted are widespread among suppliers.",
-          "published": "2026-08-25T16:16:57.000Z"
-        },
-        {
-          "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
-          "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
-          "published": "2026-08-25T16:04:37.000Z"
-        },
-        {
-          "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-          "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
-          "published": "2026-08-25T15:10:03.000Z"
-        },
-        {
-          "title": "Apple's new desktop computers are designed specifically for local AI development",
-          "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
-          "published": "2026-08-25T13:00:11.000Z"
-        },
-        {
-          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
-          "published": "2026-08-24T21:45:53.000Z"
-        },
-        {
-          "title": "Data centers become \"killer application\" for new power transformer tech",
-          "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Solid-state transformers could also benefit EV charging and, someday, households.",
-          "published": "2026-08-24T21:32:16.000Z"
-        },
-        {
-          "title": "RFK Jr. may upend how vaccine recommendations are categorized",
-          "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
-          "published": "2026-08-24T21:04:48.000Z"
-        },
-        {
-          "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
-          "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Monitor vendors are playing with fire.",
-          "published": "2026-08-24T20:17:41.000Z"
         }
       ]
     },
