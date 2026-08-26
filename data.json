@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-26T03:30:29.679Z",
+  "updated": "2026-08-26T04:30:33.271Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Why Tesla has been caught up in a massive car recall in China",
+          "link": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
+          "published": "2026-08-26T03:33:59.000Z"
+        },
         {
           "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
           "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
@@ -187,52 +195,12 @@
           "category": "markets",
           "snippet": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
           "published": "2026-08-25T02:51:53.000Z"
-        },
-        {
-          "title": "How Canada could hit back to hurt the US economy - and Trump",
-          "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
-          "published": "2026-08-25T02:49:22.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
-        {
-          "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
-          "link": "https://news.ycombinator.com/item?id=49443820",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T03:17:51.000Z"
-        },
-        {
-          "title": "The brain may be about to have its Ozempic moment",
-          "link": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T00:40:41.000Z"
-        },
-        {
-          "title": "Queryable Executables",
-          "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T00:20:49.000Z"
-        },
-        {
-          "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-          "link": "https://github.com/runetes/maiao",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T22:40:07.000Z"
-        },
         {
           "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
           "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
@@ -248,14 +216,6 @@
           "category": "tech",
           "snippet": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the…",
           "published": "2026-08-25T22:20:17.000Z"
-        },
-        {
-          "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-          "link": "https://github.com/swimmingbrain/texbrain",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T22:08:50.000Z"
         },
         {
           "title": "Trump is upping the price of Big Tech’s favorite visa",
@@ -274,14 +234,6 @@
           "published": "2026-08-25T20:59:03.000Z"
         },
         {
-          "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-          "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T20:49:03.000Z"
-        },
-        {
           "title": "At just $8, you owe it to yourself to grab Inscryption",
           "link": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
           "source": "The Verge",
@@ -296,30 +248,6 @@
           "category": "tech",
           "snippet": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and…",
           "published": "2026-08-25T20:24:24.000Z"
-        },
-        {
-          "title": "C2PA Cameras Do Not Survive Contact with Reality",
-          "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T19:38:24.000Z"
-        },
-        {
-          "title": "A brief history of federal lift ticket regulation",
-          "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T19:25:43.000Z"
-        },
-        {
-          "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-          "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T19:07:01.000Z"
         },
         {
           "title": "Preserving glow-in-the-dark art and fashion for future generations",
@@ -354,22 +282,6 @@
           "published": "2026-08-25T18:16:29.000Z"
         },
         {
-          "title": "Dolly Parton has died",
-          "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T18:02:22.000Z"
-        },
-        {
-          "title": "Firefox 157 will include JPEG XL by default on all platforms",
-          "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T17:55:23.000Z"
-        },
-        {
           "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
           "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
           "source": "Ars Technica",
@@ -386,12 +298,100 @@
           "published": "2026-08-25T17:39:20.000Z"
         },
         {
-          "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-          "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-          "source": "Hacker News",
+          "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+          "link": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T17:28:52.000Z"
+          "snippet": "\"This will be a project like no other.\"",
+          "published": "2026-08-25T17:26:15.000Z"
+        },
+        {
+          "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+          "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the…",
+          "published": "2026-08-25T17:20:00.000Z"
+        },
+        {
+          "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
+          "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you…",
+          "published": "2026-08-25T17:12:31.000Z"
+        },
+        {
+          "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
+          "link": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says…",
+          "published": "2026-08-25T16:58:53.000Z"
+        },
+        {
+          "title": "Lab supply companies have been selling antibodies using manipulated images",
+          "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Image changes that would get a paper retracted are widespread among suppliers.",
+          "published": "2026-08-25T16:16:57.000Z"
+        },
+        {
+          "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
+          "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
+          "published": "2026-08-25T16:04:37.000Z"
+        },
+        {
+          "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+          "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+          "published": "2026-08-25T15:10:03.000Z"
+        },
+        {
+          "title": "Apple's new desktop computers are designed specifically for local AI development",
+          "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
+          "published": "2026-08-25T13:00:11.000Z"
+        },
+        {
+          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+          "published": "2026-08-24T21:45:53.000Z"
+        },
+        {
+          "title": "Data centers become \"killer application\" for new power transformer tech",
+          "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Solid-state transformers could also benefit EV charging and, someday, households.",
+          "published": "2026-08-24T21:32:16.000Z"
+        },
+        {
+          "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+          "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+          "published": "2026-08-24T21:04:48.000Z"
+        },
+        {
+          "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+          "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Monitor vendors are playing with fire.",
+          "published": "2026-08-24T20:17:41.000Z"
         }
       ]
     },
