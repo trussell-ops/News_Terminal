@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-26T10:58:55.132Z",
+  "updated": "2026-08-26T11:30:10.307Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+          "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+          "published": "2026-08-26T11:03:50.000Z"
+        },
         {
           "title": "What will the energy cap changes mean for my bills?",
           "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
@@ -35,14 +43,6 @@
           "category": "markets",
           "snippet": "Energy bills for millions of households are expected to rise this winter to the highest level for three years",
           "published": "2026-08-26T09:45:46.000Z"
-        },
-        {
-          "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-          "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
-          "published": "2026-08-26T09:31:51.000Z"
         },
         {
           "title": "'Social supermarket' to take over vacant shop",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been…",
+          "published": "2026-08-26T11:07:40.000Z"
+        },
+        {
           "title": "U.S. gov't moves to suppress pushback on data centers",
           "link": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
           "source": "Hacker News",
@@ -218,12 +226,36 @@
           "published": "2026-08-26T10:26:03.000Z"
         },
         {
+          "title": "It's Not the End of Programming",
+          "link": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T10:25:33.000Z"
+        },
+        {
+          "title": "Beyond Recall and the Illusion of Competence",
+          "link": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T10:07:02.000Z"
+        },
+        {
           "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
           "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-26T10:04:55.000Z"
+        },
+        {
+          "title": "Ikea’s Xbox collection includes a giant thumbstick stool",
+          "link": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that)…",
+          "published": "2026-08-26T10:00:00.000Z"
         },
         {
           "title": "Social media use on the rise among Australian under-16s after ban: data",
@@ -234,12 +266,12 @@
           "published": "2026-08-26T09:35:58.000Z"
         },
         {
-          "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
-          "link": "https://www.globalsolo.global/data/banking-access-index",
+          "title": "XCancel and Nitter are receiving C&D letters from XCorp",
+          "link": "https://news.ycombinator.com/item?id=49446210",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-26T09:01:49.000Z"
+          "published": "2026-08-26T09:34:38.000Z"
         },
         {
           "title": "Value Classes Still Need Compiler Sympathy",
@@ -272,14 +304,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-26T07:36:52.000Z"
-        },
-        {
-          "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-          "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T05:49:20.000Z"
         },
         {
           "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
@@ -368,36 +392,20 @@
           "category": "tech",
           "snippet": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and…",
           "published": "2026-08-25T20:24:24.000Z"
-        },
-        {
-          "title": "C2PA Cameras Do Not Survive Contact with Reality",
-          "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T19:38:24.000Z"
-        },
-        {
-          "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-          "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T19:07:01.000Z"
-        },
-        {
-          "title": "Preserving glow-in-the-dark art and fashion for future generations",
-          "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
-          "published": "2026-08-25T18:59:12.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Today At ILTACON: Kevin Fong Keynote, ILTA Authors Corner, Women Who Lead Reception",
+          "link": "https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception-2-2/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "ILTACON attendees and legal tech watchers: Here's a rundown of what's set for today in Nashville. The post Today At ILTACON: Kevin Fong Keynote, ILTA Authors Corner, Women Who Lead Reception appeared first on Above the Law .",
+          "published": "2026-08-26T11:00:00.000Z"
+        },
         {
           "title": "Ketanji Brown Jackson Has Had Enough Of The Shadow Docket See Also",
           "link": "https://abovethelaw.com/2026/08/ketanji-brown-jackson-has-had-enough-of-the-shadow-docket-see-also/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Increasingly, the clearest answers aren't found in marketing materials or product manuals. The post AI Contracts Are Quietly Becoming The Best Product Documentation appeared first on Above the Law .",
           "published": "2026-08-24T21:33:00.000Z"
-        },
-        {
-          "title": "Is Trump Only The Worst President Or Is He The Worst American Ever?",
-          "link": "https://abovethelaw.com/2026/08/is-trump-only-the-worst-president-or-is-he-the-worst-american-ever/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "We have a winner! The post Is Trump Only The Worst President Or Is He The Worst American Ever? appeared first on Above the Law .",
-          "published": "2026-08-24T20:44:00.000Z"
         }
       ]
     }
