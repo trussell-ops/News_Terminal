@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T23:16:45.380Z",
+  "updated": "2026-08-26T00:42:21.889Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,14 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+          "link": "https://github.com/runetes/maiao",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-25T22:40:07.000Z"
+        },
+        {
           "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
           "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
           "source": "Ars Technica",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "\"This will be a project like no other.\"",
           "published": "2026-08-25T17:26:15.000Z"
-        },
-        {
-          "title": "Run OpenBSD on DigitalOcean for $4&#x2F;month",
-          "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T17:23:07.000Z"
         }
       ]
     },
