@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-26T11:57:08.933Z",
+  "updated": "2026-08-26T12:42:31.645Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
+          "link": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The South Korean automaker wants to keep going by ramping up production at a new $7.6 billion plant in Georgia to capture more sales and market share.",
+          "published": "2026-08-26T12:00:01.000Z"
+        },
         {
           "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
           "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
@@ -187,20 +195,44 @@
           "category": "markets",
           "snippet": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
           "published": "2026-08-25T08:08:26.000Z"
-        },
-        {
-          "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing",
-          "link": "https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Lego CEO Niels Christiansen told CNBC the company is seeing strong sales at both ends of the pricing spectrum.",
-          "published": "2026-08-25T07:00:01.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Omarchy is full of security holes",
+          "link": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T12:17:43.000Z"
+        },
+        {
+          "title": "Rockstar finally responds to heartbreaking GTA 6 leaks",
+          "link": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.\" \"It would be an understatement to say that having videos of…",
+          "published": "2026-08-26T12:04:15.000Z"
+        },
+        {
+          "title": "Proliferate (YC S25) Is Hiring",
+          "link": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T12:00:07.000Z"
+        },
+        {
+          "title": "The second-generation Bose QuietComfort Headphones are good, but don’t stand out",
+          "link": "https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Bose QuietComfort headphones used to be innovative. Bose's noise-canceling research is the reason the technology is where it is today, and its headphones set the standard. They were the ubiquitous traveler's accessory. But over the past…",
+          "published": "2026-08-26T12:00:00.000Z"
+        },
         {
           "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
           "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
@@ -240,14 +272,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-26T10:31:37.000Z"
-        },
-        {
-          "title": "It's Not the End of Programming",
-          "link": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T10:25:33.000Z"
         },
         {
           "title": "Beyond Recall and the Illusion of Competence",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000…",
           "published": "2026-08-25T21:45:00.000Z"
-        },
-        {
-          "title": "World humanoid robot games show runners breaking records, bursting into flames",
-          "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Record-breaking robot races are less substantial than household chore challenges.",
-          "published": "2026-08-25T20:59:03.000Z"
-        },
-        {
-          "title": "When str.lower() is a security vulnerability in Python",
-          "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T20:49:03.000Z"
-        },
-        {
-          "title": "At just $8, you owe it to yourself to grab Inscryption",
-          "link": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with a fantastic…",
-          "published": "2026-08-25T20:38:37.000Z"
         }
       ]
     },
