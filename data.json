@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-26T13:45:10.195Z",
+  "updated": "2026-08-26T14:34:52.079Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Meta agrees to pay up to $17.1bn to settle social media case",
+          "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The deal has been reached during a California federal court trial over claims brought by 29 states.",
+          "published": "2026-08-26T14:10:17.000Z"
+        },
         {
           "title": "Jersey earnings rise by 1.2% after inflation",
           "link": "https://www.bbc.co.uk/news/articles/c70ljwz9ddxo?at_medium=RSS&at_campaign=rss",
@@ -109,7 +117,7 @@
           "published": "2026-08-25T23:09:31.000Z"
         },
         {
-          "title": "How parents can save on costs as the new school year starts",
+          "title": "Back to school: How parents can save on uniform costs",
           "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Bugatti CEO Mate Rimac told CNBC he thinks high-end sports cars will continue to have combustion engines \"for a very long time\" even with the rise of EVs.",
           "published": "2026-08-25T11:30:01.000Z"
-        },
-        {
-          "title": "OnlyFans owner was paid over $700m before his death",
-          "link": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The site hosts a range of subscription-based content from cooking to fitness videos, but it is best known for pornography.",
-          "published": "2026-08-25T10:09:00.000Z"
         }
       ]
     },
@@ -202,11 +202,67 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
+          "link": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"We're living in this world of scarcity with the Moon.\"",
+          "published": "2026-08-26T14:14:52.000Z"
+        },
+        {
+          "title": "GLM-5.3-Flash",
+          "link": "https://z.ai/blog/glm-5.3-flash",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T14:08:50.000Z"
+        },
+        {
+          "title": "Microsoft’s 25th anniversary Xbox will cost $899",
+          "link": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" will receive early access preorder…",
+          "published": "2026-08-26T14:05:38.000Z"
+        },
+        {
+          "title": "Elden Ring on the Switch 2 isn t tarnished",
+          "link": "https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "FromSoftware is hoping to make a splash on the Switch 2 later this year when it launches The Duskbloods, a gothic competitive multiplayer game that's unlike anything the studio has made before. But before that, Switch 2 owners have a…",
+          "published": "2026-08-26T14:00:00.000Z"
+        },
+        {
+          "title": "You can now buy music on SoundCloud",
+          "link": "https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "SoundCloud has launched a new beta feature that allows artists on the audio streaming platform to sell music directly from their profiles, instead of diverting fans to purchase from third-party services like Bandcamp and Beatport. The…",
+          "published": "2026-08-26T14:00:00.000Z"
+        },
+        {
+          "title": "Your Oura Ring can t measure what s going on in your skull",
+          "link": "https://www.theverge.com/column/984991/optimizer-oura-ring-lawsuit-sleep-tracking-wearables",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Oura's getting sued. A…",
+          "published": "2026-08-26T14:00:00.000Z"
+        },
+        {
+          "title": "Psychiatry’s diagnostic bible is finally getting a biological upgrade",
+          "link": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Biology is coming to psychiatry’s diagnostic manual, even as reliable biomarkers remain rare.",
+          "published": "2026-08-26T13:53:32.000Z"
+        },
+        {
           "title": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
           "link": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Meta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars. Under the terms of the settlement, Meta agreed…",
+          "snippet": "Meta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars. Under the terms of the settlement, which…",
           "published": "2026-08-26T13:31:32.000Z"
         },
         {
@@ -216,6 +272,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-26T13:28:32.000Z"
+        },
+        {
+          "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+          "link": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T13:13:55.000Z"
         },
         {
           "title": "AWS Acquires DuckDB",
@@ -250,35 +314,19 @@
           "published": "2026-08-26T12:48:37.000Z"
         },
         {
-          "title": "Bill Gates: The turbulent AI era is here",
-          "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+          "title": "LibreOffice 26.8 Released with Many Nice Improvements",
+          "link": "https://wiki.documentfoundation.org/ReleaseNotes/26.8",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-26T12:47:47.000Z"
-        },
-        {
-          "title": "Omarchy development practices lead to predictable security issues",
-          "link": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T12:17:43.000Z"
-        },
-        {
-          "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T12:11:19.000Z"
+          "published": "2026-08-26T12:21:24.000Z"
         },
         {
           "title": "Rockstar finally responds to heartbreaking GTA 6 leaks",
           "link": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.\" Not long after Rockstar posted, the source of the leaks…",
+          "snippet": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.\" Not long after Rockstar posted, another leaked video…",
           "published": "2026-08-26T12:04:15.000Z"
         },
         {
@@ -344,60 +392,28 @@
           "category": "tech",
           "snippet": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that)…",
           "published": "2026-08-26T10:00:00.000Z"
-        },
-        {
-          "title": "XCancel and Nitter are receiving C&D letters from XCorp",
-          "link": "https://news.ycombinator.com/item?id=49446210",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T09:34:38.000Z"
-        },
-        {
-          "title": "Value Classes Still Need Compiler Sympathy",
-          "link": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T08:59:15.000Z"
-        },
-        {
-          "title": "Oldinsurancemaps.net is now a Charter Project",
-          "link": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T08:57:46.000Z"
-        },
-        {
-          "title": "RAG Is Simpler Than You Think",
-          "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T08:39:17.000Z"
-        },
-        {
-          "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-          "link": "https://rupertlinacre.com/buslens/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T07:36:52.000Z"
-        },
-        {
-          "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
-          "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T05:09:07.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "How A New Pentagon Memo ‘Resets’ Industry Requirements, Plus Highlights From TechNet",
+          "link": "https://breakingdefense.com/2026/08/how-a-new-pentagon-memo-resets-industry-requirements-plus-highlights-from-technet/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A new DoD memo affecting Pentagon contractors, plus tech news out of Georgia. The post How A New Pentagon Memo ‘Resets’ Industry Requirements, Plus Highlights From TechNet appeared first on Above the Law .",
+          "published": "2026-08-26T14:03:00.000Z"
+        },
+        {
+          "title": "The many layers of Landor",
+          "link": "https://www.scotusblog.com/2026/08/the-many-layers-of-landor/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "In recent years, the Supreme Court’s late June grand finale, headline-grabbing, crash-the-SCOTUSblog-live-feed decision-dumps have generally included salient church-state or religious-liberty cases. In 2021, for example, a unanimous court…",
+          "published": "2026-08-26T14:00:00.000Z"
+        },
         {
           "title": "Alcohol at the Supreme Court",
           "link": "https://www.scotusblog.com/2026/08/alcohol-at-the-supreme-court/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "* Supreme Court uses shadow docket to lift injunction against Trump proposal to use Post Office to block votes from states that Trump doesn't approve. The majority ruled the injunction premature because the Post Office hadn't issued a…",
           "published": "2026-08-25T12:57:00.000Z"
-        },
-        {
-          "title": "Today At ILTACON: ILTA Swag, Lessons In Leadership, Game Night",
-          "link": "https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception-2/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "ILTACON attendees and legal tech watchers: Here's a rundown of what's set for today in Nashville. The post Today At ILTACON: ILTA Swag, Lessons In Leadership, Game Night appeared first on Above the Law .",
-          "published": "2026-08-25T11:00:00.000Z"
-        },
-        {
-          "title": "Supreme Court allows Trump administration to move forward with order imposing restrictions on mail-in voting",
-          "link": "https://www.scotusblog.com/2026/08/supreme-court-allows-trump-administration-to-move-forward-with-order-imposing-restrictions-on-ma/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Monday afternoon cleared the way for the Trump administration to begin implementing an executive order , signed by President Donald Trump earlier this year, that imposes restrictions on mail-in voting. The court…",
-          "published": "2026-08-24T23:06:54.000Z"
         }
       ]
     }
