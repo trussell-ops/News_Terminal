@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-26T12:42:31.645Z",
+  "updated": "2026-08-26T13:45:10.195Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Jersey earnings rise by 1.2% after inflation",
+          "link": "https://www.bbc.co.uk/news/articles/c70ljwz9ddxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Statistics Jersey says the increase is \"slightly lower\" than the long-term annual average.",
+          "published": "2026-08-26T13:07:55.000Z"
+        },
+        {
+          "title": "Reform proposes £30 tax rebate for HMRC phone delays",
+          "link": "https://www.bbc.co.uk/news/articles/c804rd7leppo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "People on hold to HMRC for more than 30 minutes would get a tax credit under plans announced by Robert Jenrick.",
+          "published": "2026-08-26T12:39:37.000Z"
+        },
         {
           "title": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
           "link": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html",
@@ -51,14 +67,6 @@
           "category": "markets",
           "snippet": "Energy bills for millions of households are expected to rise this winter to the highest level for three years",
           "published": "2026-08-26T09:45:46.000Z"
-        },
-        {
-          "title": "'Social supermarket' to take over vacant shop",
-          "link": "https://www.bbc.co.uk/news/articles/c5ymk1jjd4xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "SE Kitchen will open a third shop, adding to the social enterprise's units in Ashford and Ramsgate.",
-          "published": "2026-08-26T05:04:56.000Z"
         },
         {
           "title": "Why Tesla has been caught up in a massive car recall in China",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "The site hosts a range of subscription-based content from cooking to fitness videos, but it is best known for pornography.",
           "published": "2026-08-25T10:09:00.000Z"
-        },
-        {
-          "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
-          "published": "2026-08-25T08:08:26.000Z"
         }
       ]
     },
@@ -202,7 +202,63 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Omarchy is full of security holes",
+          "title": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
+          "link": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Meta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars. Under the terms of the settlement, Meta agreed…",
+          "published": "2026-08-26T13:31:32.000Z"
+        },
+        {
+          "title": "Meta reaches $16.68B settlement over social media harms to children",
+          "link": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T13:28:32.000Z"
+        },
+        {
+          "title": "AWS Acquires DuckDB",
+          "link": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T12:59:26.000Z"
+        },
+        {
+          "title": "Ring says its new encryption limits what it can give police",
+          "link": "https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Ring has a new way to protect your videos. It's developed an encryption method called TAKE, short for Throw Away the Key Encryption, that the Amazon-owned company says will protect your videos without traditional end-to-end encryption.…",
+          "published": "2026-08-26T12:55:45.000Z"
+        },
+        {
+          "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "link": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T12:52:12.000Z"
+        },
+        {
+          "title": "A curmudgeon tries a language server",
+          "link": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T12:48:37.000Z"
+        },
+        {
+          "title": "Bill Gates: The turbulent AI era is here",
+          "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T12:47:47.000Z"
+        },
+        {
+          "title": "Omarchy development practices lead to predictable security issues",
           "link": "https://blog.happyfellow.dev/merchants-of-insecurity/",
           "source": "Hacker News",
           "category": "tech",
@@ -210,11 +266,19 @@
           "published": "2026-08-26T12:17:43.000Z"
         },
         {
+          "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T12:11:19.000Z"
+        },
+        {
           "title": "Rockstar finally responds to heartbreaking GTA 6 leaks",
           "link": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.\" \"It would be an understatement to say that having videos of…",
+          "snippet": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.\" Not long after Rockstar posted, the source of the leaks…",
           "published": "2026-08-26T12:04:15.000Z"
         },
         {
@@ -256,22 +320,6 @@
           "category": "tech",
           "snippet": "A steel frame cargo bike with a unique twist: You can let it choose your gear.",
           "published": "2026-08-26T11:00:12.000Z"
-        },
-        {
-          "title": "U.S. gov't moves to suppress pushback on data centers",
-          "link": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T10:44:40.000Z"
-        },
-        {
-          "title": "Debian polls its developers on AI: permit or ban?",
-          "link": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T10:31:37.000Z"
         },
         {
           "title": "Beyond Recall and the Illusion of Competence",
@@ -344,60 +392,36 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-26T05:09:07.000Z"
-        },
-        {
-          "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-          "link": "https://arxiv.org/abs/2607.21503",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T02:35:25.000Z"
-        },
-        {
-          "title": "Queryable Executables",
-          "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T00:20:49.000Z"
-        },
-        {
-          "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-          "link": "https://github.com/runetes/maiao",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-25T22:40:07.000Z"
-        },
-        {
-          "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
-          "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
-          "published": "2026-08-25T22:21:06.000Z"
-        },
-        {
-          "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
-          "link": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the…",
-          "published": "2026-08-25T22:20:17.000Z"
-        },
-        {
-          "title": "Trump is upping the price of Big Tech’s favorite visa",
-          "link": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000…",
-          "published": "2026-08-25T21:45:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Alcohol at the Supreme Court",
+          "link": "https://www.scotusblog.com/2026/08/alcohol-at-the-supreme-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "During the 2025-26 term, the justices pondered the Founding Fathers’ drinking habits as they considered a law barring habitual drug users from possessing guns. In the term ahead, they may return to the topic of alcohol in early America if…",
+          "published": "2026-08-26T13:30:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 08.26.26",
+          "link": "https://abovethelaw.com/2026/08/morning-docket-08-26-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Elon Musk won't be charged for offering $1 million dollars for people to vote in Wisconsin supreme court election. [ Politico ] * Lawyer's office turned into the coolest part of a Chuck E. Cheese. [ Legal Cheek ] * Man arrested for…",
+          "published": "2026-08-26T13:11:00.000Z"
+        },
+        {
+          "title": "SCOTUS again asked to address Ten Commandments in schools",
+          "link": "https://www.scotusblog.com/2026/08/scotus-again-asked-to-address-ten-commandments-in-schools/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, a Colorado man has been accused of impersonating Chief Justice Roberts.",
+          "published": "2026-08-26T13:00:00.000Z"
+        },
         {
           "title": "Today At ILTACON: Kevin Fong Keynote, ILTA Authors Corner, Women Who Lead Reception",
           "link": "https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception-2-2/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "The Supreme Court on Monday afternoon cleared the way for the Trump administration to begin implementing an executive order , signed by President Donald Trump earlier this year, that imposes restrictions on mail-in voting. The court…",
           "published": "2026-08-24T23:06:54.000Z"
-        },
-        {
-          "title": "The Abrego Garcia Appeal Is A Trojan Horse See Also",
-          "link": "https://abovethelaw.com/2026/08/the-abrego-garcia-appeal-is-a-trojan-horse-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The DOJ Is Using One Vindictive Prosecution To Help Kill The Doctrine Altogether: Funny timing, given how the vindictive prosecutions are piling up. Milbank Plants Its Flag In Chicago... Now About That Salary Match, Kirkland? A new…",
-          "published": "2026-08-24T23:01:00.000Z"
-        },
-        {
-          "title": "Nine Wins Out Of Ten At The Supreme Court, Before Heading To The Federal Judiciary",
-          "link": "https://abovethelaw.com/2026/08/nine-wins-out-of-ten-at-the-supreme-court-before-heading-to-the-federal-judiciary/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Few advocates ever posted a record like hers. Fewer became judges. The post Nine Wins Out Of Ten At The Supreme Court, Before Heading To The Federal Judiciary appeared first on Above the Law .",
-          "published": "2026-08-24T22:16:00.000Z"
-        },
-        {
-          "title": "AI Contracts Are Quietly Becoming The Best Product Documentation",
-          "link": "https://abovethelaw.com/2026/08/ai-contracts-are-quietly-becoming-the-best-product-documentation/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Increasingly, the clearest answers aren't found in marketing materials or product manuals. The post AI Contracts Are Quietly Becoming The Best Product Documentation appeared first on Above the Law .",
-          "published": "2026-08-24T21:33:00.000Z"
         }
       ]
     }
