@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-26T16:09:43.307Z",
+  "updated": "2026-08-26T18:09:50.119Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Meta's $18bn settlement a landmark victory for US states",
+          "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The deal has been reached during a California federal court trial over claims brought by US states.",
+          "published": "2026-08-26T17:44:39.000Z"
+        },
+        {
+          "title": "'Ironing board' seats to be replaced on Thameslink",
+          "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Greater Thameslink Railway says these upgrades are part of the wider renationalisation plans.",
+          "published": "2026-08-26T16:56:34.000Z"
+        },
         {
           "title": "Reform proposes £30 tax rebate for HMRC phone delays",
           "link": "https://www.bbc.co.uk/news/articles/c804rd7leppo?at_medium=RSS&at_campaign=rss",
@@ -19,14 +35,6 @@
           "category": "markets",
           "snippet": "Paramount Skydance's acquisition of Warner Bros. Discovery is stalled due to an antitrust lawsuit, leaving WBD in limbo during a pivotal moment for media.",
           "published": "2026-08-26T14:31:47.000Z"
-        },
-        {
-          "title": "Meta agrees to pay up to $18bn to settle social media case",
-          "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The deal has been reached during a California federal court trial over claims brought by US states.",
-          "published": "2026-08-26T14:10:17.000Z"
         },
         {
           "title": "Jersey earnings rise by 1.2% after inflation",
@@ -59,14 +67,6 @@
           "category": "markets",
           "snippet": "The regulator Ofgem says the price cap will increase by 4% in October for millions of households.",
           "published": "2026-08-26T10:52:02.000Z"
-        },
-        {
-          "title": "'Ironing board' seats to be replaced on Thameslink",
-          "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Greater Thameslink Railway says these upgrades are part of the wider renationalisation plans.",
-          "published": "2026-08-26T10:30:53.000Z"
         },
         {
           "title": "Why high energy bills look like they are here to stay",
@@ -202,12 +202,116 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "The Switch 2’s $50 price increase is happening next week",
+          "link": "https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That’s next Tuesday! The company gave plenty of notice, but the time has finally come. The base 256GB model that ships without a…",
+          "published": "2026-08-26T18:00:00.000Z"
+        },
+        {
+          "title": "Tailcat: Secure Tunnels in Seconds (Tailscale)",
+          "link": "https://github.com/tailscale/tailcat",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T17:42:22.000Z"
+        },
+        {
+          "title": "An ongoing 3D-printer AGPL violation",
+          "link": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T17:41:40.000Z"
+        },
+        {
+          "title": "Show HN: I made a retirement simulator: 125 years of data, 25 countries",
+          "link": "https://foresightplanner.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T17:41:19.000Z"
+        },
+        {
+          "title": "Apple Maps has ads now",
+          "link": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the \"suggested places\" section in search, but Apple…",
+          "published": "2026-08-26T17:34:32.000Z"
+        },
+        {
+          "title": "CDs vs. NIMBY",
+          "link": "https://www.betonit.ai/p/cds-vs-nimby",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T17:31:08.000Z"
+        },
+        {
+          "title": "YouTube Format IDs",
+          "link": "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T17:28:21.000Z"
+        },
+        {
+          "title": "Graze Joins Flipboard",
+          "link": "https://graze.leaflet.pub/3mtypcuxxc22p",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T17:24:15.000Z"
+        },
+        {
+          "title": "Google’s new AI transcription edits out your ums and ahs",
+          "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live…",
+          "published": "2026-08-26T17:00:00.000Z"
+        },
+        {
+          "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
+          "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T16:19:03.000Z"
+        },
+        {
+          "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+          "link": "https://www.risklytics.ai/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T16:06:01.000Z"
+        },
+        {
           "title": "Apple announces September iPhone launch event",
           "link": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in Apple Park, but there…",
           "published": "2026-08-26T16:03:49.000Z"
+        },
+        {
+          "title": "Tim Curry has died",
+          "link": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T16:03:37.000Z"
+        },
+        {
+          "title": "The turbulent AI era is here",
+          "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T15:55:15.000Z"
         },
         {
           "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
@@ -218,7 +322,7 @@
           "published": "2026-08-26T15:45:07.000Z"
         },
         {
-          "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+          "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
           "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
           "source": "Hacker News",
           "category": "tech",
@@ -242,36 +346,12 @@
           "published": "2026-08-26T15:19:40.000Z"
         },
         {
-          "title": "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
-          "link": "https://github.com/SWUFE-DB-Group/TexLite",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T15:07:44.000Z"
-        },
-        {
           "title": "Nebula Sans",
           "link": "https://www.nebulasans.com",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-26T15:03:52.000Z"
-        },
-        {
-          "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-          "link": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T15:02:15.000Z"
-        },
-        {
-          "title": "AurionMail: E2EE suite (CryptPad&#x2F;Stalwart) with single-password UX",
-          "link": "https://github.com/AurionMail/docs",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T15:01:11.000Z"
         },
         {
           "title": "Researchers get two genetic codes to work at the same time",
@@ -282,12 +362,12 @@
           "published": "2026-08-26T15:00:34.000Z"
         },
         {
-          "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
-          "link": "https://artificialanalysis.ai/models/glm-5-3-flash",
+          "title": "VMs won't contain cyber-capable agents",
+          "link": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-26T14:58:54.000Z"
+          "published": "2026-08-26T14:49:30.000Z"
         },
         {
           "title": "Xbox announces disc-to-digital feature that digitizes your physical games",
@@ -306,98 +386,42 @@
           "published": "2026-08-26T14:29:05.000Z"
         },
         {
-          "title": "Take a Tour of SLAC",
-          "link": "https://www6.slac.stanford.edu/public-tours",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T14:21:56.000Z"
-        },
-        {
           "title": "Taylor Farms: How One Company's Reach Became a National Risk",
           "link": "https://farmaction.us/taylorfarmsreport/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-26T14:21:44.000Z"
-        },
-        {
-          "title": "Show HN: How much of Hacker News is AI?",
-          "link": "https://hnstats.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T14:16:05.000Z"
-        },
-        {
-          "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
-          "link": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"We're living in this world of scarcity with the Moon.\"",
-          "published": "2026-08-26T14:14:52.000Z"
-        },
-        {
-          "title": "Twitter Viewer – View Twitter Without Account",
-          "link": "https://twitterwebviewer.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T14:11:39.000Z"
-        },
-        {
-          "title": "GLM-5.3-Flash",
-          "link": "https://z.ai/blog/glm-5.3-flash",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T14:08:50.000Z"
-        },
-        {
-          "title": "A Citation to Asimov",
-          "link": "https://www.bookandsword.com/2026/08/25/a-citation-to-asimov/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T14:06:16.000Z"
-        },
-        {
-          "title": "Microsoft’s 25th anniversary Xbox will cost $899",
-          "link": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" will receive early access preorder…",
-          "published": "2026-08-26T14:05:38.000Z"
-        },
-        {
-          "title": "How HN: Qisutu – an open-source, self-hosted ticketing and service desk",
-          "link": "https://github.com/qisutu/qisutu",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T14:05:31.000Z"
-        },
-        {
-          "title": "Elden Ring on the Switch 2 isn t tarnished",
-          "link": "https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "FromSoftware is hoping to make a splash on the Switch 2 later this year when it launches The Duskbloods, a gothic competitive multiplayer game that's unlike anything the studio has made before. But before that, Switch 2 owners have a…",
-          "published": "2026-08-26T14:00:00.000Z"
-        },
-        {
-          "title": "You can now buy music on SoundCloud",
-          "link": "https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "SoundCloud has launched a new beta feature that allows artists on the audio streaming platform to sell music directly from their profiles, instead of diverting fans to purchase from third-party services like Bandcamp and Beatport. The…",
-          "published": "2026-08-26T14:00:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "$6 A Gallon Gas, A Huge Recession, Or AI Taking Your Job: Pick 2",
+          "link": "https://abovethelaw.com/2026/08/6-a-gallon-gas-a-huge-recession-or-ai-taking-your-job-pick-2/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Well, not so much 'pick' as 'have forced upon you by economic forces beyond your control.' The post $6 A Gallon Gas, A Huge Recession, Or AI Taking Your Job: Pick 2 appeared first on Above the Law .",
+          "published": "2026-08-26T17:49:00.000Z"
+        },
+        {
+          "title": "Cravath May Be Waiting Until Year-End Bonus Season To Make Its Biglaw Pay Move",
+          "link": "https://abovethelaw.com/2026/08/cravath-may-be-waiting-until-year-end-bonus-season-to-make-its-biglaw-pay-move/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The raises arrived in June. The bonuses followed in July. Cravath’s answer remains nowhere to be found. The post Cravath May Be Waiting Until Year-End Bonus Season To Make Its Biglaw Pay Move appeared first on Above the Law .",
+          "published": "2026-08-26T17:01:00.000Z"
+        },
+        {
+          "title": "LexisNexis And Thomson Reuters ILTA Announcements: Closing The Conference Room Door",
+          "link": "https://abovethelaw.com/2026/08/lexisnexis-and-thomson-reuters-ilta-announcements-closing-the-conference-room-door/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "When all is replaced by agentic AI, what are the long-term consequences? The post LexisNexis And Thomson Reuters ILTA Announcements: Closing The Conference Room Door appeared first on Above the Law .",
+          "published": "2026-08-26T16:19:51.000Z"
+        },
         {
           "title": "Jeanine Pirro Joins The Growing List Of Trump Prosecutors With A Grievance File",
           "link": "https://abovethelaw.com/2026/08/jeanine-pirro-joins-the-growing-list-of-trump-prosecutors-with-a-grievance-file/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "RBG and Sandra Day O’Connor star as ‘The Supremes’ -- and bidding starts at $2,000. The post This Ruth Bader Ginsburg Holiday Card May Be The Most Charming SCOTUS Collectible Ever appeared first on Above the Law .",
           "published": "2026-08-25T15:32:00.000Z"
-        },
-        {
-          "title": "SCOTUS Shadow Docket Hands Trump His Mail-In Ballot Wish, And Justice Jackson Is Having None Of It",
-          "link": "https://abovethelaw.com/2026/08/scotus-shadow-docket-hands-trump-his-mail-in-ballot-wish-and-justice-jackson-is-having-none-of-it/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "'Catch-me-if-you-can,' the Court's newest addition to election law. The post SCOTUS Shadow Docket Hands Trump His Mail-In Ballot Wish, And Justice Jackson Is Having None Of It appeared first on Above the Law .",
-          "published": "2026-08-25T14:42:00.000Z"
-        },
-        {
-          "title": "ShopMy Accused Of Manipulating Affiliate Commissions",
-          "link": "https://fashionista.com/2026/08/shopmy-accused-of-manipulating-affiliate-commissions",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "France’s consumer watchdog fined British retailer Boohoo for deceptive practices. The post ShopMy Accused Of Manipulating Affiliate Commissions appeared first on Above the Law .",
-          "published": "2026-08-25T14:02:00.000Z"
-        },
-        {
-          "title": "The justices should regularly sit on the lower courts",
-          "link": "https://www.scotusblog.com/2026/08/the-justices-should-regularly-sit-on-the-lower-courts-/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This is the fifth piece in a series on what I believe the court can, and should, do better. *** Each term, the chief justice appoints a circuit justice for each of the twelve regional courts of appeals. These appointments are expressly…",
-          "published": "2026-08-25T14:00:00.000Z"
         }
       ]
     }
