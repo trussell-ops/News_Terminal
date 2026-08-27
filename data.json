@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T23:51:39.309Z",
+  "updated": "2026-08-27T05:48:38.502Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -11,6 +11,14 @@
           "category": "markets",
           "snippet": "Experts share tips on how to make a flat or house feel like your own without annoying the landlord.",
           "published": "2026-08-26T23:08:42.000Z"
+        },
+        {
+          "title": "Want your job application to stand out? Employers say they look for these skills",
+          "link": "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Experts have identified six key skills that will count as much as qualifications in getting and keeping a job in the coming decade.",
+          "published": "2026-08-26T23:08:34.000Z"
         },
         {
           "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Even though macro uncertainty and volatility continue to show up in the broader economy, bidding keeps rising, according to JLL.",
           "published": "2026-08-25T20:44:51.000Z"
-        },
-        {
-          "title": "Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market",
-          "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
-          "published": "2026-08-25T20:38:59.000Z"
         }
       ]
     },
@@ -202,12 +202,92 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Pnpm 12.0",
+          "link": "https://pnpm.io/blog/releases/12.0",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-27T05:12:39.000Z"
+        },
+        {
+          "title": "Humanity has the debate about AI consciousness backwards",
+          "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-27T02:37:07.000Z"
+        },
+        {
+          "title": "Kusama Yayoi Dies at 97",
+          "link": "https://news.jp/i/1465528042000662661",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-27T02:21:18.000Z"
+        },
+        {
+          "title": "Getting video models to learn better, faster",
+          "link": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-27T01:53:34.000Z"
+        },
+        {
+          "title": "Laion Big Video Dataset",
+          "link": "https://projects.laion.ai/bvd/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-27T01:50:26.000Z"
+        },
+        {
+          "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+          "link": "https://github.com/SenteLabsAI/OpenExecutive",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-27T01:46:22.000Z"
+        },
+        {
+          "title": "Nvidia agrees to acquire Hugging Face for $13B",
+          "link": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-27T01:12:55.000Z"
+        },
+        {
+          "title": "Mechanical Turk shutting down September 30",
+          "link": "https://www.mturk.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T23:55:44.000Z"
+        },
+        {
+          "title": "Zohran and the Short Link",
+          "link": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T23:50:15.000Z"
+        },
+        {
           "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
           "link": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-26T22:44:03.000Z"
+        },
+        {
+          "title": "Asahi Linux Progress Report: Linux 7.2",
+          "link": "https://asahilinux.org/2026/08/progress-report-7-2/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-26T22:35:02.000Z"
         },
         {
           "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
@@ -242,7 +322,7 @@
           "published": "2026-08-26T21:25:27.000Z"
         },
         {
-          "title": "Clerky Is Joining Stripe",
+          "title": "Stripe acquires Clerky",
           "link": "https://www.clerky.com/blog/clerky-is-joining-stripe",
           "source": "Hacker News",
           "category": "tech",
@@ -258,7 +338,7 @@
           "published": "2026-08-26T20:49:04.000Z"
         },
         {
-          "title": "mold: A Parallel Linker",
+          "title": "Mold: A Massively Parallel Linker",
           "link": "https://arxiv.org/abs/2608.23228",
           "source": "Hacker News",
           "category": "tech",
@@ -312,86 +392,6 @@
           "category": "tech",
           "snippet": "The bishops' snub comes as the state continues to attack vaccines.",
           "published": "2026-08-26T19:39:24.000Z"
-        },
-        {
-          "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-          "link": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T19:23:01.000Z"
-        },
-        {
-          "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-          "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
-          "published": "2026-08-26T19:19:22.000Z"
-        },
-        {
-          "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
-          "link": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you’ve been on the fence about Google’s latest Pixel phones, this might be your best chance to save some cash. Amazon is offering an extra $150 off the Pixel 11, Pixel 11 Pro, and Pixel 11 Pro XL when you use the coupon code PIXEL11 at…",
-          "published": "2026-08-26T19:18:23.000Z"
-        },
-        {
-          "title": "The Hugging Face incident and the road ahead",
-          "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T19:15:23.000Z"
-        },
-        {
-          "title": "Being a mom is hard — the heat is making it harder",
-          "link": "https://www.theverge.com/news/985225/heat-stress-children-climate-change-study",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "It's 8:52 AM and 86 degrees Fahrenheit (30 Celsius) where I live in Southern California. My husband just came back from a morning outing with our four-month-old. \"How was the botanic garden?\" I ask him. \"It was okay. It was just too hot,\"…",
-          "published": "2026-08-26T18:14:08.000Z"
-        },
-        {
-          "title": "The Switch 2’s $50 price increase is happening next week",
-          "link": "https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That’s next Tuesday! The company gave plenty of notice, but the time has finally come. The base 256GB model that ships without a…",
-          "published": "2026-08-26T18:00:00.000Z"
-        },
-        {
-          "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
-          "link": "https://thetariffcost.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T17:54:51.000Z"
-        },
-        {
-          "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-          "link": "https://github.com/tailscale/tailcat",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T17:42:22.000Z"
-        },
-        {
-          "title": "An ongoing 3D-printer AGPL violation",
-          "link": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-26T17:41:40.000Z"
-        },
-        {
-          "title": "Apple Maps has ads now",
-          "link": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the \"suggested places\" section in search, but Apple…",
-          "published": "2026-08-26T17:34:32.000Z"
         }
       ]
     },
