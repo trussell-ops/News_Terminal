@@ -1,9 +1,41 @@
 {
-  "updated": "2026-08-28T13:33:26.031Z",
+  "updated": "2026-08-28T23:17:40.998Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Gatwick Airport faced water outage after main burst",
+          "link": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "SES Water says it has repaired a burst main which was affecting supply to the airport.",
+          "published": "2026-08-28T17:38:37.000Z"
+        },
+        {
+          "title": "'A lot of pressure' - SSE Airtricity to increase gas prices by 19%",
+          "link": "https://www.bbc.co.uk/news/articles/cvgyxky1m4wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The annual gas bill of a typical household in the greater Belfast and west gas network areas will increase by almost £172.",
+          "published": "2026-08-28T16:15:11.000Z"
+        },
+        {
+          "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+          "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+          "published": "2026-08-28T15:15:26.000Z"
+        },
+        {
+          "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients",
+          "link": "https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The new pill is also aimed at people who are doing well on a single-tablet regimen, including Biktarvy, and want to switch to a new treatment.",
+          "published": "2026-08-28T14:26:53.000Z"
+        },
         {
           "title": "How Taylor Farms became integral to America's food supply system",
           "link": "https://www.cnbc.com/2026/08/28/how-taylor-farms-became-integral-to-americas-food-supply-system.html",
@@ -13,28 +45,12 @@
           "published": "2026-08-28T13:17:52.000Z"
         },
         {
-          "title": "Gatwick Airport facing water outage after main burst",
-          "link": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "SES Water says it is working to repair a burst main which is affecting supply to the airport.",
-          "published": "2026-08-28T13:13:10.000Z"
-        },
-        {
           "title": "Imax says it's open to a sale. Why is no one buying?",
           "link": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Imax's stock and box office are breaking records, but studio conflicts and a soaring valuation complicate the list of who could bid for the company.",
           "published": "2026-08-28T11:54:53.000Z"
-        },
-        {
-          "title": "SSE Airtricity to increase gas prices by 19% from October",
-          "link": "https://www.bbc.co.uk/news/articles/cvgyxky1m4wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The annual gas bill of a typical household in the greater Belfast and west gas network areas will increase by almost £172.",
-          "published": "2026-08-28T11:44:47.000Z"
         },
         {
           "title": "'Cowboy builders' targeted in new government clampdown",
@@ -149,14 +165,6 @@
           "published": "2026-08-27T21:54:18.000Z"
         },
         {
-          "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients",
-          "link": "https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The new pill is also aimed at people who are doing well on a single-tablet regimen, including Biktarvy, and want to switch to a new treatment.",
-          "published": "2026-08-27T21:49:18.000Z"
-        },
-        {
           "title": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
           "link": "https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html",
           "source": "CNBC Business",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "The family-run shop has been a fixture in Brislington, Bristol since the 1920s.",
           "published": "2026-08-27T11:16:40.000Z"
-        },
-        {
-          "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
-          "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
-          "published": "2026-08-27T09:41:14.000Z"
         }
       ]
     },
@@ -202,202 +202,330 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "EPA says power for data centers can sidestep pollution laws",
-          "link": "https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T13:21:47.000Z"
-        },
-        {
-          "title": "Bugatti CEO Mate Rimac: The future of supercars is combustion engines",
-          "link": "https://www.cnbc.com/2026/08/25/bugatti-ceo-mate-rimac-supercars-gas-engines.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T13:09:25.000Z"
-        },
-        {
-          "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
-          "link": "https://www.nature.com/articles/d41586-026-02506-4",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T12:28:41.000Z"
-        },
-        {
-          "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
-          "link": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
+          "title": "Google further buries search results under AI mode",
+          "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Confusion is a generally accepted side effect of mystery box shows. They slather on secrets with the promise of a satisfying payoff in the end, and sometimes the cast and crew even have a hard time following what's going on. But even by…",
-          "published": "2026-08-28T12:00:00.000Z"
+          "snippet": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much…",
+          "published": "2026-08-28T22:48:11.000Z"
         },
         {
-          "title": "OpenAI: Migrating to HTTPX2",
-          "link": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+          "title": "Identifying fake cosmetics using AI",
+          "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-28T11:51:20.000Z"
+          "published": "2026-08-28T22:18:27.000Z"
         },
         {
-          "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-          "link": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T11:25:30.000Z"
-        },
-        {
-          "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-          "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+          "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+          "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
-          "published": "2026-08-28T11:15:05.000Z"
+          "snippet": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
+          "published": "2026-08-28T22:14:52.000Z"
         },
         {
-          "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
-          "link": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
+          "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+          "link": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've…",
+          "published": "2026-08-28T22:03:13.000Z"
+        },
+        {
+          "title": "Cities terminate Flock contracts at record pace in August",
+          "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
-          "published": "2026-08-28T11:00:39.000Z"
+          "snippet": "Cancellations have accelerated.",
+          "published": "2026-08-28T21:33:54.000Z"
         },
         {
-          "title": "Show HN: SubSmith – Turn your own videos into language-learning material",
-          "link": "https://subsmith.app",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T10:59:04.000Z"
-        },
-        {
-          "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
-          "link": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T09:00:46.000Z"
-        },
-        {
-          "title": "Interactive Warhammer 40k Galaxy Map – Cartographia Imperialis",
-          "link": "https://cartographia40k.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T08:35:07.000Z"
-        },
-        {
-          "title": "Climate change is strengthening El Niño, coral records suggest",
-          "link": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T07:19:16.000Z"
-        },
-        {
-          "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-          "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T06:33:57.000Z"
-        },
-        {
-          "title": "Sovereign Tech Agency invests €500k in Flatpak",
-          "link": "https://modal.cx/blog/announcing-flatpak-sta/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T05:42:47.000Z"
-        },
-        {
-          "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
-          "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T03:35:15.000Z"
-        },
-        {
-          "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in…",
-          "published": "2026-08-28T03:14:06.000Z"
-        },
-        {
-          "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
-          "link": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially…",
-          "published": "2026-08-28T01:05:18.000Z"
-        },
-        {
-          "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "link": "https://www.terminal-bench-science.ai/announcement",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T00:06:51.000Z"
-        },
-        {
-          "title": "The biggest video game of all time looks like a movie",
-          "link": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA VI felt more like…",
-          "published": "2026-08-27T23:20:00.000Z"
-        },
-        {
-          "title": "Select * from Internet.blogposts",
-          "link": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-27T22:34:32.000Z"
-        },
-        {
-          "title": "Doctors are finally learning to manage antidepressant withdrawal",
-          "link": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-27T22:26:04.000Z"
-        },
-        {
-          "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-          "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+          "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+          "link": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Standardized driver interface aims to let devices talk to AI and each other.",
-          "published": "2026-08-27T22:15:43.000Z"
+          "snippet": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
+          "published": "2026-08-28T21:17:38.000Z"
         },
         {
-          "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-          "link": "https://github.com/elyosh/OpenTIE/",
+          "title": "Stopping the smart TV from being used against you",
+          "link": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-27T22:10:47.000Z"
+          "published": "2026-08-28T20:27:57.000Z"
         },
         {
-          "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
-          "link": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+          "title": "Aspirational Clownmaxxing and Joey's cadillac todo list",
+          "link": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T19:18:22.000Z"
+        },
+        {
+          "title": "Show HN: Sesame - a local-first, open-source password manager",
+          "link": "https://usesesame.app/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T19:14:14.000Z"
+        },
+        {
+          "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+          "published": "2026-08-28T18:07:55.000Z"
+        },
+        {
+          "title": "Here's what we know about the \"space academy\" Trump just announced",
+          "link": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"It's called the US Space Academy. That's a big deal.\"",
+          "published": "2026-08-28T17:36:30.000Z"
+        },
+        {
+          "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
+          "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Annual Apple TV subscriptions get the biggest bump.",
+          "published": "2026-08-28T17:23:53.000Z"
+        },
+        {
+          "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+          "link": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Threads that \"the…",
-          "published": "2026-08-27T21:37:45.000Z"
+          "snippet": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on…",
+          "published": "2026-08-28T17:03:07.000Z"
+        },
+        {
+          "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+          "link": "https://arxiv.org/abs/2608.23691",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T17:01:12.000Z"
+        },
+        {
+          "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
+          "link": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T17:00:06.000Z"
+        },
+        {
+          "title": "Our 10 favorite scenes from T2: Judgment Day",
+          "link": "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "James Cameron's 1991 sci-fi blockbuster returns to theaters this weekend for its 35th anniversary.",
+          "published": "2026-08-28T16:44:47.000Z"
+        },
+        {
+          "title": "Trump’s EPA wants to let data centers hide their air pollution",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a…",
+          "published": "2026-08-28T16:28:40.000Z"
+        },
+        {
+          "title": "DLSS 5 leaked and modders are putting Nvidia s AI effects on everything",
+          "link": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding…",
+          "published": "2026-08-28T16:22:16.000Z"
+        },
+        {
+          "title": "Just the rumour of a bug is enough to find an exploit these days",
+          "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T15:58:46.000Z"
+        },
+        {
+          "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+          "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+          "published": "2026-08-28T15:42:24.000Z"
+        },
+        {
+          "title": "The iPhone Fold could make concerts even worse",
+          "link": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we dive right into the big week of Apple…",
+          "published": "2026-08-28T15:26:19.000Z"
+        },
+        {
+          "title": "EasyEffects can massively improve laptop speaker sound quality",
+          "link": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T15:23:10.000Z"
+        },
+        {
+          "title": "GLM-5.3 is now open-weight",
+          "link": "https://huggingface.co/zai-org/GLM-5.3",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T15:20:13.000Z"
+        },
+        {
+          "title": "GUIs should be fully keyboard-driven",
+          "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T15:17:09.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Nominated To The Supreme Court On Monday, Gone By The Next Weekend",
+          "link": "https://abovethelaw.com/2026/08/nominated-to-the-supreme-court-on-monday-gone-by-the-next-weekend/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "What sank him wasn't his rulings. It was his years as a law professor. The post Nominated To The Supreme Court On Monday, Gone By The Next Weekend appeared first on Above the Law .",
+          "published": "2026-08-28T23:02:00.000Z"
+        },
+        {
+          "title": "How Appealing Weekly Roundup",
+          "link": "https://abovethelaw.com/2026/08/how-appealing-weekly-roundup-183/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
+          "published": "2026-08-28T22:17:00.000Z"
+        },
+        {
+          "title": "Turning Client Intake Calls Into Marketing Insights",
+          "link": "https://abovethelaw.com/2026/08/turning-client-intake-calls-into-marketing-insights/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Law firms need a strategic approach to data collection that distinguishes between first-time prospects, current clients, and returning cases to glean high-value marketing and operational insights. The post Turning Client Intake Calls Into…",
+          "published": "2026-08-28T21:35:00.000Z"
+        },
+        {
+          "title": "Oracle Helped Kneecap Section 230, Then Bought 15% Of A Company That Needs It.",
+          "link": "https://abovethelaw.com/2026/08/oracle-helped-kneecap-section-230-then-bought-15-of-a-company-that-needs-it/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "From the policy-by-spite dept The post Oracle Helped Kneecap Section 230, Then Bought 15% Of A Company That Needs It. appeared first on Above the Law .",
+          "published": "2026-08-28T20:44:00.000Z"
+        },
+        {
+          "title": "Trump Trollsuit Against New York Times Damages Trollsuit Against IRS",
+          "link": "https://abovethelaw.com/2026/08/trump-trollsuit-against-new-york-times-damages-trollsuit-against-irs/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Don't you hate it when you file so many trollsuits that you wind up contradicting yourself in court? The post Trump Trollsuit Against New York Times Damages Trollsuit Against IRS appeared first on Above the Law .",
+          "published": "2026-08-28T20:04:00.000Z"
+        },
+        {
+          "title": "Trump administration asks Supreme Court to consider ban on transgender persons in the military",
+          "link": "https://www.scotusblog.com/2026/08/trump-administration-asks-supreme-court-to-consider-ban-on-transgender-persons-in-the-military/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Trump administration on Friday asked the Supreme Court to weigh in on whether a ban on transgender service members in the military violates the Constitution. U.S. Solicitor General D. John Sauer called a decision by a federal appeals…",
+          "published": "2026-08-28T19:15:55.000Z"
+        },
+        {
+          "title": "Teenage Law Grad Thinks Getting A Tax LLM Will Be A ‘Little Vacation’",
+          "link": "https://abovethelaw.com/2026/08/teenage-law-grad-thinks-getting-a-tax-llm-will-be-a-little-vacation/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "His idea of rest and relaxation involves the Internal Revenue Code. The post Teenage Law Grad Thinks Getting A Tax LLM Will Be A ‘Little Vacation’ appeared first on Above the Law .",
+          "published": "2026-08-28T19:12:00.000Z"
+        },
+        {
+          "title": "Law Department 2.0",
+          "link": "https://abovethelaw.com/2026/08/law-department-2-0/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Reimagining the law department. The post Law Department 2.0 appeared first on Above the Law .",
+          "published": "2026-08-28T18:32:00.000Z"
+        },
+        {
+          "title": "The Mail-In Ballot Fight Is Right Back Where It Started, With The Trump Administration Taking Another L",
+          "link": "https://abovethelaw.com/2026/08/the-mail-in-ballot-fight-is-right-back-where-it-started-with-the-trump-administration-taking-another-l/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Judge Talwani reviewed the final rule, just like the shadow docket ordered — and found it just as unconstitutional as before. The post The Mail-In Ballot Fight Is Right Back Where It Started, With The Trump Administration Taking Another L…",
+          "published": "2026-08-28T17:46:00.000Z"
+        },
+        {
+          "title": "Lawyers Don t Need To Dress Up For Every Video Call",
+          "link": "https://abovethelaw.com/2026/08/lawyers-dont-need-to-dress-up-for-every-video-call/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Casual clothing can make lawyer-lawyer interactions less stressful. The post Lawyers Don t Need To Dress Up For Every Video Call appeared first on Above the Law .",
+          "published": "2026-08-28T17:01:00.000Z"
+        },
+        {
+          "title": "Building A Legal Practice That Fits Your Life",
+          "link": "https://abovethelaw.com/2026/08/building-a-legal-practice-that-fits-your-life/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Boutique law firms offer something Biglaw just can't. The post Building A Legal Practice That Fits Your Life appeared first on Above the Law .",
+          "published": "2026-08-28T16:17:00.000Z"
+        },
+        {
+          "title": "Samuel Alito Thought Clarence Thomas Was ‘Scary’ In Law School",
+          "link": "https://abovethelaw.com/2026/08/samuel-alito-thought-clarence-thomas-was-scary-in-law-school/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Clarence Thomas’s law-school wardrobe was intimidating, but his legal thinking may be even scarier. The post Samuel Alito Thought Clarence Thomas Was ‘Scary’ In Law School appeared first on Above the Law .",
+          "published": "2026-08-28T15:32:00.000Z"
+        },
+        {
+          "title": "ILTACON Confirms: Gradually, Then Suddenly Legal Tech Became A Big Business",
+          "link": "https://abovethelaw.com/2026/08/iltacon-confirms-gradually-then-suddenly-legal-tech-became-a-big-business/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "AI made investors and vendors take notice of an industry that could be completely disrupted by a revolutionary tool. The post ILTACON Confirms: Gradually, Then Suddenly Legal Tech Became A Big Business appeared first on Above the Law .",
+          "published": "2026-08-28T14:47:00.000Z"
+        },
+        {
+          "title": "Meta To Pay Up To $18 Billion In Settlements",
+          "link": "https://fashionista.com/2026/08/nyakio-grieco-reacquires-thirteen-lune",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Key parts of the deal require Meta to restrict how much time youths can scroll and prevent them from switching off certain safety settings without parental consent. The post Meta To Pay Up To $18 Billion In Settlements appeared first on…",
+          "published": "2026-08-28T14:05:01.000Z"
+        },
+        {
+          "title": "The Supreme Court of Israel",
+          "link": "https://www.scotusblog.com/2026/08/the-supreme-court-of-israel/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Welcome to SCOTUSblog’s recurring series in which we interview experts on different supreme courts around the world and how they compare with our own. Today’s column focuses on the Supreme Court of Israel. To help me comprehend this…",
+          "published": "2026-08-28T14:00:00.000Z"
+        },
+        {
+          "title": "The Supreme Court’s realignment roundup: October Term 2025",
+          "link": "https://www.scotusblog.com/2026/08/the-supreme-courts-realignment-roundup-october-term-2025/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "A legal realignment has been underway for some years now, in that legal views once associated with the right are now being espoused by the left, and vice versa. This post explores that point as to the Supreme Court’s October Term 2025,…",
+          "published": "2026-08-28T13:30:00.000Z"
+        },
         {
           "title": "Government urges SCOTUS to deny 9/11 petitions",
           "link": "https://www.scotusblog.com/2026/08/government-urges-scotus-to-deny-Sept-11-petitions/",
@@ -461,134 +589,6 @@
           "category": "legal",
           "snippet": "When it comes to AI, what does a litigator need to know — and know how to do — right now? The post AI Is Coming To Litigation. Get Up To Speed With Bellwether AI Litigator Early Bird Special. appeared first on Above the Law .",
           "published": "2026-08-27T18:34:00.000Z"
-        },
-        {
-          "title": "Associate Says His Firm Moved The Goalposts To Partner After His Heart Attack",
-          "link": "https://abovethelaw.com/2026/08/associate-says-his-firm-moved-the-goalposts-to-partner-after-his-heart-attack/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Associate's suit against Troutman Pepper pairs FMLA and disability claims with allegations of fraudulent billing — and a 'bizarre' $3,000 Zelle payment 'for the cabinets.' The post Associate Says His Firm Moved The Goalposts To Partner…",
-          "published": "2026-08-27T17:48:00.000Z"
-        },
-        {
-          "title": "Harvey And PacerPro Announce Partnership To Connect Docket Data With AI Litigation Workflows",
-          "link": "https://www.lawnext.com/2026/08/harvey-and-pacerpro-announce-partnership-to-connect-docket-data-with-ai-litigation-workflows.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The companies say that their partnership is designed to support the ways litigation teams already use docket data on a daily basis. The post Harvey And PacerPro Announce Partnership To Connect Docket Data With AI Litigation Workflows…",
-          "published": "2026-08-27T17:01:00.000Z"
-        },
-        {
-          "title": "The Best Law Schools For Family Law (2026)",
-          "link": "https://abovethelaw.com/2026/08/the-best-law-schools-for-family-law-2026/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "If you're interested in family law, you need to see this list. The post The Best Law Schools For Family Law (2026) appeared first on Above the Law .",
-          "published": "2026-08-27T16:14:48.000Z"
-        },
-        {
-          "title": "The Cost of AI Usage: Time To Throw In The Unrestrained Towel",
-          "link": "https://abovethelaw.com/2026/08/the-cost-of-ai-usage-time-to-throw-in-the-unrestrained-towel/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "What NetDocuments has done is important because virtually no one has gone to the trouble of looking hard at the relationship between AI cost and accuracy. The post The Cost of AI Usage: Time To Throw In The Unrestrained Towel appeared…",
-          "published": "2026-08-27T15:28:05.000Z"
-        },
-        {
-          "title": "The Title Comes Last: Going From Bar Member To Bar President",
-          "link": "https://abovethelaw.com/2026/08/the-title-comes-last-going-from-bar-member-to-bar-president/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A voluntary bar association teaches leadership in its purest form: No one has to follow you. The post The Title Comes Last: Going From Bar Member To Bar President appeared first on Above the Law .",
-          "published": "2026-08-27T14:46:08.000Z"
-        },
-        {
-          "title": "Fed Governor Lisa Cook responds to Trump administration’s letter stating that it is “considering” her removal",
-          "link": "https://www.scotusblog.com/2026/08/fed-governor-lisa-cook-responds-to-trump-administrations-letter-stating-that-it-is-considering-h/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "A lawyer for Federal Reserve Governor Lisa Cook told the White House on Wednesday that allegations Cook committed mortgage fraud before joining the Fed are “unfounded and untrue.” As a result, attorney Abbe Lowell wrote, any effort to…",
-          "published": "2026-08-27T14:10:00.000Z"
-        },
-        {
-          "title": "Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust",
-          "link": "https://medcitynews.com/2026/08/oura-wearable-ring-lawsuit/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The case is reigniting questions about how much precision consumers should expect from AI-powered health wearables. The post Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust appeared first on Above the Law .",
-          "published": "2026-08-27T14:02:00.000Z"
-        },
-        {
-          "title": "Has the Supreme Court rendered the First Amendment’s press clause invisible?",
-          "link": "https://www.scotusblog.com/2026/08/has-the-supreme-court-rendered-the-first-amendments-press-clause-invisible/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In 2021, the legal scholars RonNell Andersen Jones and Sonja West published a study tracking the Supreme Court’s references to the press in its opinions over time. The data they uncovered tells a striking story. While, in a five-year…",
-          "published": "2026-08-27T14:00:00.000Z"
-        },
-        {
-          "title": "What the public thinks of the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/08/what-the-public-thinks-of-the-supreme-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Marquette Law School Poll, which I direct, conducts six polls each year that track approval of the court and ask for the public’s view on the outcome of cases. Our latest poll, conducted from July 22-29, yielded some fascinating…",
-          "published": "2026-08-27T13:30:00.000Z"
-        },
-        {
-          "title": "The ripple effects of SCOTUS’ mail-in voting decision",
-          "link": "https://www.scotusblog.com/2026/08/the-ripple-effects-of-scotus-mail-in-voting-decision/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a man was arrested after a guillotine was parked next to the Supreme Court.",
-          "published": "2026-08-27T13:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 08.27.26",
-          "link": "https://abovethelaw.com/2026/08/morning-docket-08-27-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* ABA votes to continue allowing law schools to seek variances to admit students without standardized test scores. A big deal if law schools need to care ABA accreditation anymore. [ ABA Journal ] * Court refuses DOJ bid to scrub Steve…",
-          "published": "2026-08-27T12:56:00.000Z"
-        },
-        {
-          "title": "Today At ILTACON: Finishing Strong!",
-          "link": "https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception-2-2-2/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "ILTACON attendees and legal tech watchers: Here's a rundown of what's set for today in Nashville. The post Today At ILTACON: Finishing Strong! appeared first on Above the Law .",
-          "published": "2026-08-27T11:00:00.000Z"
-        },
-        {
-          "title": "Let s Just Say This Biglaw Firm s Feelings About Jan. 6 Have Evolved See Also",
-          "link": "https://abovethelaw.com/2026/08/lets-just-say-this-biglaw-firms-feelings-about-jan-6-have-evolved-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "DLA Piper Once Told Pence To Invoke The 25th Amendment. Now It's On Trump's Jan. 6 Legal Team: The firm called the Capitol attack a 'reckless and wanton threat to the Constitution.' Then it signed up to defend the guy accused of causing…",
-          "published": "2026-08-26T23:03:00.000Z"
-        },
-        {
-          "title": "His Political Career Was Only A Warm-Up",
-          "link": "https://abovethelaw.com/2026/08/his-political-career-was-only-a-warm-up/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Governor, presidential candidate, and finally something that eclipsed it all. The post His Political Career Was Only A Warm-Up appeared first on Above the Law .",
-          "published": "2026-08-26T22:14:00.000Z"
-        },
-        {
-          "title": "A Tribute, A Tactic, Or An Appellate Issue?",
-          "link": "https://abovethelaw.com/2026/08/a-tribute-a-tactic-or-an-appellate-issue/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "While one prosecutor accessorizes, PE lands its biggest law firm deal yet, and a Pittsburgh lawyer allegedly cleans up after a frat drug ring. The post A Tribute, A Tactic, Or An Appellate Issue? appeared first on Above the Law .",
-          "published": "2026-08-26T21:33:00.000Z"
-        },
-        {
-          "title": "Paying For Clout Isn’t A Business Expense: Tax Court Lessons For Social Media Creators",
-          "link": "https://abovethelaw.com/2026/08/paying-for-clout-isnt-a-business-expense-tax-court-lessons-for-social-media-creators/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Do not rely solely on social media posts for tax advice, even those from tax professionals. The post Paying For Clout Isn’t A Business Expense: Tax Court Lessons For Social Media Creators appeared first on Above the Law .",
-          "published": "2026-08-26T20:45:00.000Z"
         }
       ]
     }
