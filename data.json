@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-28T23:17:40.998Z",
+  "updated": "2026-08-29T04:13:28.410Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+          "published": "2026-08-29T02:42:27.000Z"
+        },
+        {
+          "title": "Wife of man who died after turbulence sues airline",
+          "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+          "published": "2026-08-28T17:47:00.000Z"
+        },
         {
           "title": "Gatwick Airport faced water outage after main burst",
           "link": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
@@ -179,28 +195,84 @@
           "category": "markets",
           "snippet": "Jeanie Buss, governor of the Lakers, is contesting her siblings' decision to sell the family's remaining stake in the NBA team.",
           "published": "2026-08-27T12:25:09.000Z"
-        },
-        {
-          "title": "American Airlines adds batch of new international routes on its XLR planes",
-          "link": "https://www.cnbc.com/2026/08/27/american-airlines-routes-xlr.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "American is adding seven routes to its 2027 schedule, with the majority heading to smaller European cities from its Philadelphia hub or from New York City.",
-          "published": "2026-08-27T12:00:01.000Z"
-        },
-        {
-          "title": "Much-loved ice cream shop to close after 106 years",
-          "link": "https://www.bbc.co.uk/news/videos/c93ep37jq8wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The family-run shop has been a fixture in Brislington, Bristol since the 1920s.",
-          "published": "2026-08-27T11:16:40.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "TurboKV: Insanely fast Rust key-value store",
+          "link": "https://github.com/kingroryg/turbokv",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-29T02:23:37.000Z"
+        },
+        {
+          "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+          "link": "https://www.kumander.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-29T01:48:15.000Z"
+        },
+        {
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-29T01:47:53.000Z"
+        },
+        {
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "link": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-29T01:24:13.000Z"
+        },
+        {
+          "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+          "link": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T23:46:10.000Z"
+        },
+        {
+          "title": "PPWR lands another blow to an precarious tabletop industry",
+          "link": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T23:41:05.000Z"
+        },
+        {
+          "title": "9th Circuit sides with states in Kalshi gambling fight",
+          "link": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T23:32:22.000Z"
+        },
+        {
+          "title": "I accidentally turned LLM memory into program analysis",
+          "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T23:27:45.000Z"
+        },
+        {
+          "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+          "link": "https://github.com/Lakr233/vphone-cli",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-28T23:02:21.000Z"
+        },
         {
           "title": "Google further buries search results under AI mode",
           "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
@@ -250,28 +322,12 @@
           "published": "2026-08-28T21:17:38.000Z"
         },
         {
-          "title": "Stopping the smart TV from being used against you",
-          "link": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T20:27:57.000Z"
-        },
-        {
           "title": "Aspirational Clownmaxxing and Joey's cadillac todo list",
           "link": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-28T19:18:22.000Z"
-        },
-        {
-          "title": "Show HN: Sesame - a local-first, open-source password manager",
-          "link": "https://usesesame.app/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T19:14:14.000Z"
         },
         {
           "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
@@ -336,68 +392,20 @@
           "category": "tech",
           "snippet": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a…",
           "published": "2026-08-28T16:28:40.000Z"
-        },
-        {
-          "title": "DLSS 5 leaked and modders are putting Nvidia s AI effects on everything",
-          "link": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding…",
-          "published": "2026-08-28T16:22:16.000Z"
-        },
-        {
-          "title": "Just the rumour of a bug is enough to find an exploit these days",
-          "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T15:58:46.000Z"
-        },
-        {
-          "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-          "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
-          "published": "2026-08-28T15:42:24.000Z"
-        },
-        {
-          "title": "The iPhone Fold could make concerts even worse",
-          "link": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we dive right into the big week of Apple…",
-          "published": "2026-08-28T15:26:19.000Z"
-        },
-        {
-          "title": "EasyEffects can massively improve laptop speaker sound quality",
-          "link": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T15:23:10.000Z"
-        },
-        {
-          "title": "GLM-5.3 is now open-weight",
-          "link": "https://huggingface.co/zai-org/GLM-5.3",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T15:20:13.000Z"
-        },
-        {
-          "title": "GUIs should be fully keyboard-driven",
-          "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-28T15:17:09.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "When Samuel Alito Is The One Calling You ‘Scary,’ You Know There’s A Problem See Also",
+          "link": "https://abovethelaw.com/2026/08/when-samuel-alito-is-the-one-calling-you-scary-you-know-theres-a-problem-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Clarence Thomas Was \"Scary\" In Law School : At least according to Samuel Alito. Court watchers still think he's plenty scary now, too. SCOTUS Said Come Back With A Final Rule. The States Did. They Won Again (At The District Court): The…",
+          "published": "2026-08-28T23:32:00.000Z"
+        },
         {
           "title": "Nominated To The Supreme Court On Monday, Gone By The Next Weekend",
           "link": "https://abovethelaw.com/2026/08/nominated-to-the-supreme-court-on-monday-gone-by-the-next-weekend/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Biglaw firms are once again paying a premium to secure top talent. The post Biglaw’s Talent Wars Bring Signing Bonuses Back Into Style appeared first on Above the Law .",
           "published": "2026-08-27T19:11:00.000Z"
-        },
-        {
-          "title": "AI Is Coming To Litigation. Get Up To Speed With Bellwether AI Litigator Early Bird Special.",
-          "link": "https://www.myshingle.com/2026/08/ai-is-coming-to-litigation-get-up-to-speed-with-bellwether-ai-litigator-early-bird-special/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "When it comes to AI, what does a litigator need to know — and know how to do — right now? The post AI Is Coming To Litigation. Get Up To Speed With Bellwether AI Litigator Early Bird Special. appeared first on Above the Law .",
-          "published": "2026-08-27T18:34:00.000Z"
         }
       ]
     }
