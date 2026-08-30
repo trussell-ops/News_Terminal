@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T23:43:05.917Z",
+  "updated": "2026-08-30T02:29:26.916Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "FreeCORE TrueNAS Core – Continued",
+          "link": "https://freecore.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T01:31:32.000Z"
+        },
+        {
+          "title": "Bug Blindness",
+          "link": "https://danluu.com/bug-blind/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T00:21:40.000Z"
+        },
+        {
           "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
           "link": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-29T23:26:44.000Z"
+        },
+        {
+          "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+          "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-29T23:17:17.000Z"
         },
         {
           "title": "I co-founded Burning Man. The festival has lost its soul",
@@ -242,7 +266,7 @@
           "published": "2026-08-29T19:49:59.000Z"
         },
         {
-          "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "title": "Hy4 preview",
           "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
           "source": "Hacker News",
           "category": "tech",
@@ -256,14 +280,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-29T19:28:28.000Z"
-        },
-        {
-          "title": "A safe MySQL upgrade that wasn't so safe",
-          "link": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T19:15:51.000Z"
         },
         {
           "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
@@ -280,14 +296,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-29T18:44:37.000Z"
-        },
-        {
-          "title": "vLLM v0.28.0",
-          "link": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T18:22:00.000Z"
         },
         {
           "title": "Sony Music and Warner Chappell are suing Anthropic",
@@ -330,20 +338,20 @@
           "published": "2026-08-29T16:01:13.000Z"
         },
         {
+          "title": "Nancy Grace Roman Space Telescope",
+          "link": "https://science.nasa.gov/mission/roman-space-telescope/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-29T15:48:02.000Z"
+        },
+        {
           "title": "Quantifying Colour",
           "link": "https://ekunazanu.foo/lab/quantifying-colour/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-29T15:43:53.000Z"
-        },
-        {
-          "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-          "link": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T15:26:28.000Z"
         },
         {
           "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
           "published": "2026-08-29T10:50:31.000Z"
-        },
-        {
-          "title": "Samsung's Processing-in-Memory (PIM)",
-          "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T06:06:51.000Z"
         }
       ]
     },
