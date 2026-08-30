@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-30T13:54:24.699Z",
+  "updated": "2026-08-30T17:50:36.284Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "School uniform swap shop 'saves money and tackles second hand clothes stigma'",
+          "link": "https://www.bbc.co.uk/news/articles/crr452d45nyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A free initiative which started with one school four years ago now has more than 200 involved.",
+          "published": "2026-08-30T17:16:18.000Z"
+        },
         {
           "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
           "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
@@ -187,20 +195,92 @@
           "category": "markets",
           "snippet": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
           "published": "2026-08-27T23:16:02.000Z"
-        },
-        {
-          "title": "Military veterans told they owe thousands of pounds over clerical error",
-          "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
-          "published": "2026-08-27T23:06:22.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Artie (YC S23) Is Hiring Technical AES",
+          "link": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T17:01:56.000Z"
+        },
+        {
+          "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+          "link": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the…",
+          "published": "2026-08-30T16:36:39.000Z"
+        },
+        {
+          "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+          "link": "https://komoroske.com/slime-mold/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T16:03:17.000Z"
+        },
+        {
+          "title": "Haiku R1&#x2F;beta6 has been released",
+          "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T16:01:10.000Z"
+        },
+        {
+          "title": "Omarchy: Any User Process Can Escalate to Root",
+          "link": "https://0xcc.io/posts/omarchy-root-creds/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T15:59:49.000Z"
+        },
+        {
+          "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30…",
+          "published": "2026-08-30T15:35:10.000Z"
+        },
+        {
+          "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+          "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T15:12:40.000Z"
+        },
+        {
+          "title": "Zig: Pointer Stability for ArrayLists",
+          "link": "https://ziglang.org/devlog/2026/#2026-08-27",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T14:41:53.000Z"
+        },
+        {
+          "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+          "link": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T14:29:25.000Z"
+        },
+        {
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "link": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T14:06:54.000Z"
+        },
         {
           "title": "Chess.com launched a poker site and is planning even more classic games",
           "link": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
@@ -266,6 +346,14 @@
           "published": "2026-08-30T11:39:43.000Z"
         },
         {
+          "title": "One Nix flake to rule them all",
+          "link": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T11:22:04.000Z"
+        },
+        {
           "title": "Inside Meta’s push to put robots to work in data centers",
           "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
           "source": "Ars Technica",
@@ -274,28 +362,12 @@
           "published": "2026-08-30T11:03:47.000Z"
         },
         {
-          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-          "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+          "title": "Building my own network stack",
+          "link": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-08-30T10:20:11.000Z"
-        },
-        {
-          "title": "Spark: Sparklines in your shell",
-          "link": "https://git.zx2c4.com/spark/about/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T10:02:16.000Z"
-        },
-        {
-          "title": "Brits would quite like their private messages to stay private",
-          "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T09:26:08.000Z"
+          "published": "2026-08-30T09:52:15.000Z"
         },
         {
           "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
@@ -314,84 +386,12 @@
           "published": "2026-08-30T08:23:26.000Z"
         },
         {
-          "title": "Xcena and Samsung's Near Memory Compute CXL Device",
-          "link": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T07:35:41.000Z"
-        },
-        {
           "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
           "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-30T03:15:36.000Z"
-        },
-        {
-          "title": "FreeCORE TrueNAS Core – Continued",
-          "link": "https://freecore.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T01:31:32.000Z"
-        },
-        {
-          "title": "Bug Blindness",
-          "link": "https://danluu.com/bug-blind/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T00:21:40.000Z"
-        },
-        {
-          "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-          "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T23:17:17.000Z"
-        },
-        {
-          "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-          "link": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of…",
-          "published": "2026-08-29T20:59:26.000Z"
-        },
-        {
-          "title": "Alt-right troll Milo Yiannopoulos has been deported",
-          "link": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in…",
-          "published": "2026-08-29T19:49:59.000Z"
-        },
-        {
-          "title": "Hy4 preview",
-          "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T19:33:23.000Z"
-        },
-        {
-          "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-          "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T19:01:09.000Z"
-        },
-        {
-          "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to…",
-          "published": "2026-08-29T18:19:53.000Z"
         }
       ]
     },
