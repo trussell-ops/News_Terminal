@@ -1,9 +1,17 @@
 {
-  "updated": "2026-08-30T08:28:42.027Z",
+  "updated": "2026-08-30T13:54:24.699Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
+          "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins.",
+          "published": "2026-08-30T12:00:02.000Z"
+        },
         {
           "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
           "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
           "published": "2026-08-27T23:06:22.000Z"
-        },
-        {
-          "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
-          "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
-          "published": "2026-08-27T23:04:21.000Z"
         }
       ]
     },
@@ -202,20 +202,132 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Chess.com launched a poker site and is planning even more classic games",
+          "link": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit, a free online…",
+          "published": "2026-08-30T13:00:00.000Z"
+        },
+        {
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "link": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T12:50:54.000Z"
+        },
+        {
+          "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+          "link": "https://github.com/fugue-labs/monty-go",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T12:02:09.000Z"
+        },
+        {
+          "title": "China’s robots race ahead",
+          "link": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM…",
+          "published": "2026-08-30T12:00:00.000Z"
+        },
+        {
+          "title": "Two new small, powerful Macs",
+          "link": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Hi, friends! Welcome to Installer No. 142, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, how is it almost September already, and also you can read all the old editions at the Installer homepage.)…",
+          "published": "2026-08-30T12:00:00.000Z"
+        },
+        {
+          "title": "Automating Immersive Reading",
+          "link": "https://smoores.dev/post/automating_immersive_reading/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T11:46:23.000Z"
+        },
+        {
+          "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+          "link": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T11:41:40.000Z"
+        },
+        {
+          "title": "Hacking IKEA Furniture",
+          "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T11:39:43.000Z"
+        },
+        {
+          "title": "Inside Meta’s push to put robots to work in data centers",
+          "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The company is testing robots on tasks that can performed by technicians.",
+          "published": "2026-08-30T11:03:47.000Z"
+        },
+        {
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T10:20:11.000Z"
+        },
+        {
+          "title": "Spark: Sparklines in your shell",
+          "link": "https://git.zx2c4.com/spark/about/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T10:02:16.000Z"
+        },
+        {
+          "title": "Brits would quite like their private messages to stay private",
+          "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T09:26:08.000Z"
+        },
+        {
+          "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+          "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T08:51:39.000Z"
+        },
+        {
+          "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+          "link": "https://arxiv.org/abs/1804.07389",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T08:23:26.000Z"
+        },
+        {
+          "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+          "link": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T07:35:41.000Z"
+        },
+        {
           "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
           "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-30T03:15:36.000Z"
-        },
-        {
-          "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
-          "link": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T02:25:32.000Z"
         },
         {
           "title": "FreeCORE TrueNAS Core – Continued",
@@ -226,36 +338,12 @@
           "published": "2026-08-30T01:31:32.000Z"
         },
         {
-          "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
-          "link": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T01:09:15.000Z"
-        },
-        {
-          "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-          "link": "https://github.com/mk6i/open-oscar-server",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T00:33:35.000Z"
-        },
-        {
           "title": "Bug Blindness",
           "link": "https://danluu.com/bug-blind/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-30T00:21:40.000Z"
-        },
-        {
-          "title": "The Rise and Fall of Agent Civilizations",
-          "link": "https://www.dwarkesh.com/p/openai-huggingface",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T23:43:24.000Z"
         },
         {
           "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
@@ -290,14 +378,6 @@
           "published": "2026-08-29T19:33:23.000Z"
         },
         {
-          "title": "Domain-Driven Agents",
-          "link": "https://coldtake.dev/blog/domain-driven-agents",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T19:28:28.000Z"
-        },
-        {
           "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
           "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
           "source": "Hacker News",
@@ -306,92 +386,12 @@
           "published": "2026-08-29T19:01:09.000Z"
         },
         {
-          "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-          "link": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T18:44:37.000Z"
-        },
-        {
-          "title": "Sony Music and Warner Chappell are suing Anthropic",
+          "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
           "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per…",
+          "snippet": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to…",
           "published": "2026-08-29T18:19:53.000Z"
-        },
-        {
-          "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-          "link": "https://tucker.wales/writing/bias-towards-action/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T17:39:18.000Z"
-        },
-        {
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T17:19:47.000Z"
-        },
-        {
-          "title": "Distraction-free writing gadget BYOK is adding custom extensions",
-          "link": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I…",
-          "published": "2026-08-29T16:01:13.000Z"
-        },
-        {
-          "title": "Nancy Grace Roman Space Telescope",
-          "link": "https://science.nasa.gov/mission/roman-space-telescope/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T15:48:02.000Z"
-        },
-        {
-          "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
-          "link": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic…",
-          "published": "2026-08-29T15:00:00.000Z"
-        },
-        {
-          "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
-          "link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung…",
-          "published": "2026-08-29T13:00:00.000Z"
-        },
-        {
-          "title": "Musicians-turned-detectives are hunting for AI grifters",
-          "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists.…",
-          "published": "2026-08-29T12:00:00.000Z"
-        },
-        {
-          "title": "I asked 100 companies for my data. Some deleted it instead.",
-          "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
-          "published": "2026-08-29T10:50:31.000Z"
-        },
-        {
-          "title": "Samsung's Processing-in-Memory (PIM)",
-          "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-29T06:06:51.000Z"
         }
       ]
     },
