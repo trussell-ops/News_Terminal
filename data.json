@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T17:50:36.284Z",
+  "updated": "2026-08-30T20:17:59.773Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,62 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+          "link": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T20:00:25.000Z"
+        },
+        {
+          "title": "1kB Website as Status Symbol",
+          "link": "https://async.cat/blog",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T19:26:10.000Z"
+        },
+        {
+          "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+          "link": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related…",
+          "published": "2026-08-30T19:14:08.000Z"
+        },
+        {
+          "title": "The world may have less time than it thinks on climate change",
+          "link": "https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T19:08:25.000Z"
+        },
+        {
+          "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+          "link": "https://github.com/KodeMunkie/sm750hdmifb",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T18:49:08.000Z"
+        },
+        {
+          "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
+          "link": "https://openrun.dev/blog/litestream/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T18:05:06.000Z"
+        },
+        {
+          "title": "Why it matters that President Trump just dialed into a NASA news conference",
+          "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "With just one more major mission upcoming, NASA's science programs need a boost.",
+          "published": "2026-08-30T17:40:30.000Z"
+        },
+        {
           "title": "Artie (YC S23) Is Hiring Technical AES",
           "link": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
           "source": "Hacker News",
@@ -290,22 +346,6 @@
           "published": "2026-08-30T13:00:00.000Z"
         },
         {
-          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "link": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T12:50:54.000Z"
-        },
-        {
-          "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
-          "link": "https://github.com/fugue-labs/monty-go",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T12:02:09.000Z"
-        },
-        {
           "title": "China’s robots race ahead",
           "link": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
           "source": "The Verge",
@@ -346,52 +386,12 @@
           "published": "2026-08-30T11:39:43.000Z"
         },
         {
-          "title": "One Nix flake to rule them all",
-          "link": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T11:22:04.000Z"
-        },
-        {
           "title": "Inside Meta’s push to put robots to work in data centers",
           "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "The company is testing robots on tasks that can performed by technicians.",
           "published": "2026-08-30T11:03:47.000Z"
-        },
-        {
-          "title": "Building my own network stack",
-          "link": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T09:52:15.000Z"
-        },
-        {
-          "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-          "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T08:51:39.000Z"
-        },
-        {
-          "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-          "link": "https://arxiv.org/abs/1804.07389",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T08:23:26.000Z"
-        },
-        {
-          "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-          "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T03:15:36.000Z"
         }
       ]
     },
