@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-30T22:51:40.789Z",
+  "updated": "2026-08-31T00:59:54.178Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "How the US-Canada trade war is being felt on both sides of the border",
+          "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US-Canada trade war is being felt on both sides of the border.",
+          "published": "2026-08-31T00:05:22.000Z"
+        },
+        {
+          "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+          "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+          "published": "2026-08-30T23:22:24.000Z"
+        },
         {
           "title": "School uniform swap shop 'saves money and tackles second hand clothes stigma'",
           "link": "https://www.bbc.co.uk/news/articles/crr452d45nyo?at_medium=RSS&at_campaign=rss",
@@ -179,28 +195,36 @@
           "category": "markets",
           "snippet": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
           "published": "2026-08-28T03:41:59.000Z"
-        },
-        {
-          "title": "The Interview",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct98kl?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Kristina Wilfore on how a ‘Male Grievance Industry’ is defrauding men on social media",
-          "published": "2026-08-27T23:30:00.000Z"
-        },
-        {
-          "title": "Overcooked? Why robotic pizza makers are failing",
-          "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
-          "published": "2026-08-27T23:16:02.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Yen weakens past ¥160 per dollar, eroding intervention gains",
+          "link": "https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-31T00:37:47.000Z"
+        },
+        {
+          "title": "“I just chose words carefully”",
+          "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-08-30T22:49:48.000Z"
+        },
+        {
+          "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+          "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Cut content from Portal 2 , hints of Half Life 2: Episode 3 , and so much more.",
+          "published": "2026-08-30T21:40:56.000Z"
+        },
         {
           "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
           "link": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
@@ -330,14 +354,6 @@
           "published": "2026-08-30T14:29:25.000Z"
         },
         {
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "link": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T14:06:54.000Z"
-        },
-        {
           "title": "Chess.com launched a poker site and is planning even more classic games",
           "link": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
           "source": "The Verge",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-08-30T11:41:40.000Z"
-        },
-        {
-          "title": "Hacking IKEA Furniture",
-          "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-08-30T11:39:43.000Z"
-        },
-        {
-          "title": "Inside Meta’s push to put robots to work in data centers",
-          "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The company is testing robots on tasks that can performed by technicians.",
-          "published": "2026-08-30T11:03:47.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "As If It s Not Hard Enough To Make Partner See Generally",
+          "link": "https://abovethelaw.com/2026/08/as-if-its-not-hard-enough-to-make-partner-see-generally/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A Change Of Heart: Matthew Cali says Troutman Pepper Locke told him \"the goalposts to make Partner\" had moved after he survived a devastating heart attack. Emergency Contact: The conservative majority reached for the emergency docket to…",
+          "published": "2026-08-30T23:03:47.000Z"
+        },
         {
           "title": "When Samuel Alito Is The One Calling You ‘Scary,’ You Know There’s A Problem See Also",
           "link": "https://abovethelaw.com/2026/08/when-samuel-alito-is-the-one-calling-you-scary-you-know-theres-a-problem-see-also/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Revenue and profits are booming. So is the pile of work firms have done and haven't collected a dime for. The post Biglaw Is Riding The AI Boom To A Record First Half If Only They Can Collect On It appeared first on Above the Law .",
           "published": "2026-08-27T20:04:00.000Z"
-        },
-        {
-          "title": "Biglaw’s Talent Wars Bring Signing Bonuses Back Into Style",
-          "link": "https://abovethelaw.com/2026/08/biglaws-talent-wars-bring-signing-bonuses-back-into-style/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Biglaw firms are once again paying a premium to secure top talent. The post Biglaw’s Talent Wars Bring Signing Bonuses Back Into Style appeared first on Above the Law .",
-          "published": "2026-08-27T19:11:00.000Z"
         }
       ]
     }
