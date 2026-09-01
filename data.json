@@ -1,16 +1,24 @@
 {
-  "updated": "2026-09-01T21:29:59.791Z",
+  "updated": "2026-09-01T23:28:48.268Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Soft launches and late sittings - six ways to get cheaper meals out",
+          "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The cost of dining out is getting increasingly hard to swallow - but clever planning can net you cheaper deals.",
+          "published": "2026-09-01T23:26:38.000Z"
+        },
         {
           "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
           "link": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Kroenke Sports and Entertainment was valued at more than $26 billion in CNBC's most recent list of the world's most valuable sports empires.",
-          "published": "2026-09-01T21:03:31.000Z"
+          "published": "2026-09-01T21:40:30.000Z"
         },
         {
           "title": "How one of the largest investors in student housing is playing this school year",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "The string of deals builds on the Trump administration's push to link the nation's drug prices to cheaper ones abroad.",
           "published": "2026-08-31T20:20:24.000Z"
-        },
-        {
-          "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
-          "link": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The expectation had been for falling rates this year, but the war with Iran and its resulting rise in oil prices upended that.",
-          "published": "2026-08-31T18:53:36.000Z"
         }
       ]
     },
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Google needs Hollywood more than the studios need AI",
+          "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory,…",
+          "published": "2026-09-01T22:50:29.000Z"
+        },
+        {
+          "title": "My local model setup on an M4 Pro Mac Mini",
+          "link": "https://lws.io/blog/my-local-model-setup/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-01T22:30:52.000Z"
+        },
+        {
+          "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+          "link": "https://masteranza.github.io/weedout/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-01T22:06:57.000Z"
+        },
+        {
+          "title": "Anthropic launches Claude Fable 5.1 and says it s up to 45 percent cheaper for agentic work",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but…",
+          "published": "2026-09-01T22:01:36.000Z"
+        },
+        {
           "title": "Apple Maps follows Google in renaming Lake Ontario",
           "link": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the…",
           "published": "2026-09-01T21:22:56.000Z"
+        },
+        {
+          "title": "Fluorescent lamps (don't) have ears",
+          "link": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-01T21:19:10.000Z"
         },
         {
           "title": "Lenovo s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
@@ -234,15 +274,15 @@
           "published": "2026-09-01T20:45:49.000Z"
         },
         {
-          "title": "Dyson Launches Toothbrush",
-          "link": "https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue",
+          "title": "Hang on to Your Firefox",
+          "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-01T20:39:19.000Z"
+          "published": "2026-09-01T20:30:51.000Z"
         },
         {
-          "title": "OpenAI: Path to Astra: critical capabilities and frontier safeguards",
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
           "link": "https://openai.com/index/path-to-astra/",
           "source": "Hacker News",
           "category": "tech",
@@ -298,12 +338,12 @@
           "published": "2026-09-01T19:02:54.000Z"
         },
         {
-          "title": "I used Fable to rewrite 65kLoC of Go in Rust. It cost $400",
-          "link": "https://iurii.net/en/blog/posts/software-engineering/i-used-fable-to-rewrite-65kloc-to-rust/",
+          "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+          "link": "https://danluu.com/zitron/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-01T18:39:04.000Z"
+          "published": "2026-09-01T18:35:15.000Z"
         },
         {
           "title": "John Ternus sends first memo as Apple CEO teasing a huge launch next week",
@@ -338,14 +378,6 @@
           "published": "2026-09-01T18:00:02.000Z"
         },
         {
-          "title": "Google Find Hub will soon help you locate things without a tracker",
-          "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce…",
-          "published": "2026-09-01T18:00:00.000Z"
-        },
-        {
           "title": "Claude Fable 5.1 and Claude Mythos 5.1",
           "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
           "source": "Hacker News",
@@ -360,132 +392,12 @@
           "category": "tech",
           "snippet": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\"",
           "published": "2026-09-01T17:51:17.000Z"
-        },
-        {
-          "title": "The creator of Jujutsu has joined ERSC",
-          "link": "https://ersc.io/blog/martin-joins-ersc",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-01T17:46:21.000Z"
-        },
-        {
-          "title": "Atlas: A World Model for Spatial Intelligence",
-          "link": "https://www.worldlabs.ai/blog/atlas",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-01T17:36:02.000Z"
-        },
-        {
-          "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-          "link": "https://www.norirobotics.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-01T17:35:10.000Z"
-        },
-        {
-          "title": "This is what a supercar was like a century ago",
-          "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "When the average car could only do 40 mph, this Bentley could break 100.",
-          "published": "2026-09-01T17:34:16.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
-        {
-          "title": "The White House Is In Its Whorehouse Era",
-          "link": "https://abovethelaw.com/2026/09/the-white-house-is-in-its-whorehouse-era/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The former Trump White House lawyer went on CNN to mourn the aesthetic direction of the People's House. The post The White House Is In Its Whorehouse Era appeared first on Above the Law .",
-          "published": "2026-09-01T21:14:00.000Z"
-        },
-        {
-          "title": "Wall Street Banks Demand Law Firms Slash Rates And Just Trust AI No Way This Could Backfire!",
-          "link": "https://abovethelaw.com/2026/09/wall-street-banks-demand-law-firms-slash-rates-and-just-trust-ai-no-way-this-could-backfire/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Banks want more AI legal work. It's all fun and games until they come asking for a bailout. The post Wall Street Banks Demand Law Firms Slash Rates And Just Trust AI No Way This Could Backfire! appeared first on Above the Law .",
-          "published": "2026-09-01T20:33:00.000Z"
-        },
-        {
-          "title": "Welcome To The Legal Tech Polycule ILTACON 2026",
-          "link": "https://abovethelaw.com/2026/09/welcome-to-the-legal-tech-polycule-iltacon-2026/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "ILTACON was all about vendors partnering up in new and exciting ways. The post Welcome To The Legal Tech Polycule ILTACON 2026 appeared first on Above the Law .",
-          "published": "2026-09-01T19:44:50.000Z"
-        },
-        {
-          "title": "Biglaw Firm’s Coaching Program Supports Lawyers Returning From Parental Leave",
-          "link": "https://abovethelaw.com/2026/09/biglaw-firms-coaching-program-supports-lawyers-returning-from-parental-leave/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Mentorship, resources, and work-life balance support await lawyers returning from leave. The post Biglaw Firm’s Coaching Program Supports Lawyers Returning From Parental Leave appeared first on Above the Law .",
-          "published": "2026-09-01T19:03:00.000Z"
-        },
-        {
-          "title": "It s Time To Tear Down The Supreme Court Building To Build A Bigger Ballroom For, Um, National Security",
-          "link": "https://abovethelaw.com/2026/09/its-time-to-tear-down-the-supreme-court-building-to-build-a-bigger-ballroom-for-um-national-security/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Supreme Court ruled it functionally impossible to bar a president who wants to tear down federal buildings. I know which one should be next. The post It s Time To Tear Down The Supreme Court Building To Build A Bigger Ballroom For,…",
-          "published": "2026-09-01T18:12:00.000Z"
-        },
-        {
-          "title": "Law Reviews And AI Detection, A Letter To Law Review Editors",
-          "link": "https://abovethelaw.com/2026/09/law-reviews-and-ai-detection-a-letter-to-law-review-editors/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Law reviews potentially rejecting submissions because the journals detect AI is problematic for a variety of reasons. The post Law Reviews And AI Detection, A Letter To Law Review Editors appeared first on Above the Law .",
-          "published": "2026-09-01T17:37:00.000Z"
-        },
-        {
-          "title": "Fordham Law Grad Killed In Times Square Knife Attack",
-          "link": "https://abovethelaw.com/2026/09/fordham-law-grad-killed-in-times-square-knife-attack/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Erin Piacenti, 32, a vice president at Bank of America, was one of two people stabbed in what police call an unprovoked assault. The post Fordham Law Grad Killed In Times Square Knife Attack appeared first on Above the Law .",
-          "published": "2026-09-01T16:48:00.000Z"
-        },
-        {
-          "title": "Saving Time Is Not The Win. Turning It Into Growth Is.",
-          "link": "https://abovethelaw.com/2026/09/saving-time-is-not-the-win-turning-it-into-growth-is/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] In the age of AI, the firms that win are the ones that unify how they practice law and how they grow their business. Speed alone is not the strategy. Earned intelligence is. The post Saving Time Is Not The Win. Turning It Into…",
-          "published": "2026-09-01T16:16:00.000Z"
-        },
-        {
-          "title": "Have We Reached ‘Peak Legal Tech?’ Sure Felt That Way At ILTACON",
-          "link": "https://www.lawnext.com/2026/08/have-we-reached-peak-legal-tech-sure-felt-that-way-at-iltacon-this-week.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The excitement around legal tech right now is almost palpable – and that excitement seems to span everyone in the industry, from newcomers to veterans. The post Have We Reached ‘Peak Legal Tech?’ Sure Felt That Way At ILTACON appeared…",
-          "published": "2026-09-01T15:34:00.000Z"
-        },
-        {
-          "title": "Boutique Law Firm Steps Up With Milbank Raises As Biglaw Stays Put",
-          "link": "https://abovethelaw.com/2026/09/boutique-law-firm-steps-up-with-milbank-raises-as-biglaw-stays-put/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Biglaw’s salary silence is getting harder to justify with every boutique match. The post Boutique Law Firm Steps Up With Milbank Raises As Biglaw Stays Put appeared first on Above the Law .",
-          "published": "2026-09-01T14:46:00.000Z"
-        },
-        {
-          "title": "Army Secretary Dan Driscoll Resigns",
-          "link": "https://breakingdefense.com/2026/08/army-secretary-dan-driscoll-resigns-reports/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Dan Driscoll, a former soldier who came into the role from the finance world, reportedly had a strained relationship with Defense Secretary Pete Hegseth. The post Army Secretary Dan Driscoll Resigns appeared first on Above the Law .",
-          "published": "2026-09-01T14:04:00.000Z"
-        },
         {
           "title": "Enhance the Supreme Court minority’s procedural powers",
           "link": "https://www.scotusblog.com/2026/09/enhance-the-supreme-court-minoritys-procedural-powers/",
@@ -503,36 +415,12 @@
           "published": "2026-09-01T13:30:00.000Z"
         },
         {
-          "title": "Morning Docket: 09.01.26",
-          "link": "https://abovethelaw.com/2026/09/morning-docket-09-01-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Supreme Court decides no one has standing to stop a president who wants to tear down a national monument and build on top of it all without congressional approval. [ Balls and Strikes ] * HSF Kramer named in billion-dollar malpractice…",
-          "published": "2026-09-01T13:01:23.000Z"
-        },
-        {
           "title": "New election disputes on the interim docket",
           "link": "https://www.scotusblog.com/2026/09/new-election-disputes-on-the-interim-docket/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "Plus, Justice Alito’s financial disclosure for 2025 was released.",
           "published": "2026-09-01T13:00:00.000Z"
-        },
-        {
-          "title": "Samuel Alito Has Absolutely No (Direct) Financial Interest In The Upcoming Global Warming Case See Also",
-          "link": "https://abovethelaw.com/2026/08/samuel-alito-has-absolutely-no-direct-financial-interest-in-the-upcoming-global-warming-case-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Alito Is Still Loaded Up On Oil And Gas Stock Ahead Of The Big Climate Case: His long-withheld financials, posted this morning, confirm the holdings watchdogs say should have forced a recusal. Jim Clyburn's Clarence Thomas Endorsement Has…",
-          "published": "2026-08-31T22:57:00.000Z"
-        },
-        {
-          "title": "The Justice That Beat An Impeachment Effort Led By A Future President",
-          "link": "https://abovethelaw.com/2026/08/the-justice-that-beat-an-impeachment-effort-led-by-a-future-president/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Payback for two blocked nominees, and it failed spectacularly. The post The Justice That Beat An Impeachment Effort Led By A Future President appeared first on Above the Law .",
-          "published": "2026-08-31T22:02:00.000Z"
         },
         {
           "title": "Republican groups file emergency application to court on broadcasting rates for political ads",
@@ -551,44 +439,156 @@
           "published": "2026-08-31T21:19:41.000Z"
         },
         {
-          "title": "Biglaw s WFH Glory Days Aren t Coming Back, Reading The Real Estate Deal Tea Leaves",
-          "link": "https://abovethelaw.com/2026/08/biglaws-wfh-glory-days-arent-coming-back-reading-the-real-estate-deal-tea-leaves/",
-          "source": "Above the Law",
+          "title": "Justice Alito’s financial disclosure for 2025 is released",
+          "link": "https://www.scotusblog.com/2026/08/justice-alitos-financial-disclosure-for-2025-is-released/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The industry just leased nearly 12.2 million square feet in six months. Anyone still holding out for a work-from-home revival should read the fine print. The post Biglaw s WFH Glory Days Aren t Coming Back, Reading The Real Estate Deal…",
-          "published": "2026-08-31T21:14:00.000Z"
+          "snippet": "Justice Samuel Alito reported travel to the United Kingdom, Italy, and Arizona in 2025, as well as $33,333 in income from the publication of a book. The news came as part of Alito’s annual financial disclosure , which was filed on Aug. 11…",
+          "published": "2026-08-31T17:32:08.000Z"
         },
         {
-          "title": "Sam Alito Delayed Financials Reveal Still Betting Big On Oil Companies As He Hears Climate Change Case",
-          "link": "https://abovethelaw.com/2026/08/sam-alito-delayed-financials-reveal-still-betting-big-on-oil-companies-as-he-hears-climate-change-case/",
-          "source": "Above the Law",
+          "title": "The “born free and equal” clauses and Lawrence v. Texas",
+          "link": "https://www.scotusblog.com/2026/08/the-born-free-and-equal-clauses-and-lawrence-v-texas/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The justice who recused from this exact case in 2023 voted to grant cert in 2026 with the same portfolio. The post Sam Alito Delayed Financials Reveal Still Betting Big On Oil Companies As He Hears Climate Change Case appeared first on…",
-          "published": "2026-08-31T20:44:00.000Z"
+          "snippet": "This is the third of seven introductory articles on the relevance for constitutional law of the “born free and equal” clauses, which appeared in the Declaration of Independence and in six out of 12 state constitutions when the federal…",
+          "published": "2026-08-31T14:00:00.000Z"
         },
         {
-          "title": "These Law Schools Are Crushing It When It Comes To Graduate Employment",
-          "link": "https://abovethelaw.com/2026/08/these-law-schools-are-crushing-it-when-it-comes-to-graduate-employment/",
-          "source": "Above the Law",
+          "title": "The 3-3-2-1 court?",
+          "link": "https://www.scotusblog.com/2026/08/the-3-3-2-1-court/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "For prospective students worried about finding jobs, these numbers are worth a closer look. The post These Law Schools Are Crushing It When It Comes To Graduate Employment appeared first on Above the Law .",
-          "published": "2026-08-31T20:01:00.000Z"
+          "snippet": "In an earlier article I looked at all of the merits decisions since the Supreme Court’s newest member, Justice Ketanji Brown Jackson, joined the court four years ago, to see who is its most “ideological” justice. I found a court with…",
+          "published": "2026-08-31T13:30:00.000Z"
         },
         {
-          "title": "Biglaw Firm s Emails Casually Insult Dumb Judge And Poop Man",
-          "link": "https://abovethelaw.com/2026/08/biglaw-firms-emails-casually-insult-dumb-judge-and-poop-man/",
-          "source": "Above the Law",
+          "title": "Updates on the new birthright citizenship executive order and mail-in ballots",
+          "link": "https://www.scotusblog.com/2026/08/updates-on-the-new-birthright-citizenship-executive-order-and-mail-in-ballots/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "NCAA lawyers seem to have strong opinions. The post Biglaw Firm s Emails Casually Insult Dumb Judge And Poop Man appeared first on Above the Law .",
-          "published": "2026-08-31T19:11:00.000Z"
+          "snippet": "Plus, a dispute over President Trump’s ban on transgender troops is back at SCOTUS.",
+          "published": "2026-08-31T13:00:00.000Z"
         },
         {
-          "title": "The Iranian October Surprise",
-          "link": "https://abovethelaw.com/2026/08/the-iranian-october-surprise/",
-          "source": "Above the Law",
+          "title": "Trump administration asks Supreme Court to consider ban on transgender persons in the military",
+          "link": "https://www.scotusblog.com/2026/08/trump-administration-asks-supreme-court-to-consider-ban-on-transgender-persons-in-the-military/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "I sure hope someone's thinking about what the Iranians might do to exact revenge on Donald Trump, the guy who started it all. The post The Iranian October Surprise appeared first on Above the Law .",
-          "published": "2026-08-31T18:33:00.000Z"
+          "snippet": "The Trump administration on Friday asked the Supreme Court to weigh in on whether a ban on transgender service members in the military violates the Constitution. U.S. Solicitor General D. John Sauer called a decision by a federal appeals…",
+          "published": "2026-08-28T19:15:55.000Z"
+        },
+        {
+          "title": "The Supreme Court of Israel",
+          "link": "https://www.scotusblog.com/2026/08/the-supreme-court-of-israel/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Welcome to SCOTUSblog’s recurring series in which we interview experts on different supreme courts around the world and how they compare with our own. Today’s column focuses on the Supreme Court of Israel. To help me comprehend this…",
+          "published": "2026-08-28T14:00:00.000Z"
+        },
+        {
+          "title": "The Supreme Court’s realignment roundup: October Term 2025",
+          "link": "https://www.scotusblog.com/2026/08/the-supreme-courts-realignment-roundup-october-term-2025/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "A legal realignment has been underway for some years now, in that legal views once associated with the right are now being espoused by the left, and vice versa. This post explores that point as to the Supreme Court’s October Term 2025,…",
+          "published": "2026-08-28T13:30:00.000Z"
+        },
+        {
+          "title": "Government urges SCOTUS to deny 9/11 petitions",
+          "link": "https://www.scotusblog.com/2026/08/government-urges-scotus-to-deny-Sept-11-petitions/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, would cameras in the courtroom boost public trust?",
+          "published": "2026-08-28T13:00:00.000Z"
+        },
+        {
+          "title": "Fed Governor Lisa Cook responds to Trump administration’s letter stating that it is “considering” her removal",
+          "link": "https://www.scotusblog.com/2026/08/fed-governor-lisa-cook-responds-to-trump-administrations-letter-stating-that-it-is-considering-h/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "A lawyer for Federal Reserve Governor Lisa Cook told the White House on Wednesday that allegations Cook committed mortgage fraud before joining the Fed are “unfounded and untrue.” As a result, attorney Abbe Lowell wrote, any effort to…",
+          "published": "2026-08-27T14:10:00.000Z"
+        },
+        {
+          "title": "Has the Supreme Court rendered the First Amendment’s press clause invisible?",
+          "link": "https://www.scotusblog.com/2026/08/has-the-supreme-court-rendered-the-first-amendments-press-clause-invisible/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "In 2021, the legal scholars RonNell Andersen Jones and Sonja West published a study tracking the Supreme Court’s references to the press in its opinions over time. The data they uncovered tells a striking story. While, in a five-year…",
+          "published": "2026-08-27T14:00:00.000Z"
+        },
+        {
+          "title": "What the public thinks of the Supreme Court",
+          "link": "https://www.scotusblog.com/2026/08/what-the-public-thinks-of-the-supreme-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Marquette Law School Poll, which I direct, conducts six polls each year that track approval of the court and ask for the public’s view on the outcome of cases. Our latest poll, conducted from July 22-29, yielded some fascinating…",
+          "published": "2026-08-27T13:30:00.000Z"
+        },
+        {
+          "title": "The ripple effects of SCOTUS’ mail-in voting decision",
+          "link": "https://www.scotusblog.com/2026/08/the-ripple-effects-of-scotus-mail-in-voting-decision/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, a man was arrested after a guillotine was parked next to the Supreme Court.",
+          "published": "2026-08-27T13:00:00.000Z"
+        },
+        {
+          "title": "The orders docket, why it matters, and this term’s criminal law orders",
+          "link": "https://www.scotusblog.com/2026/08/the-orders-docket-why-it-matters-and-this-terms-criminal-law-orders/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court divides its website for official writings by the justices into two main parts: “ Opinions of the Court ” and “ Opinions Relating to Orders .” (The court also maintains another website location that is seldom used today,…",
+          "published": "2026-08-26T14:30:00.000Z"
+        },
+        {
+          "title": "The many layers of Landor",
+          "link": "https://www.scotusblog.com/2026/08/the-many-layers-of-landor/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "In recent years, the Supreme Court’s late June grand finale, headline-grabbing, crash-the-SCOTUSblog-live-feed decision-dumps have generally included salient church-state or religious-liberty cases. In 2021, for example, a unanimous court…",
+          "published": "2026-08-26T14:00:00.000Z"
+        },
+        {
+          "title": "Alcohol at the Supreme Court",
+          "link": "https://www.scotusblog.com/2026/08/alcohol-at-the-supreme-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "During the 2025-26 term, the justices pondered the Founding Fathers’ drinking habits as they considered a law barring habitual drug users from possessing guns. In the term ahead, they may return to the topic of alcohol in early America if…",
+          "published": "2026-08-26T13:30:00.000Z"
+        },
+        {
+          "title": "SCOTUS again asked to address Ten Commandments in schools",
+          "link": "https://www.scotusblog.com/2026/08/scotus-again-asked-to-address-ten-commandments-in-schools/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, a Colorado man has been accused of impersonating Chief Justice Roberts.",
+          "published": "2026-08-26T13:00:00.000Z"
+        },
+        {
+          "title": "Trump administration asks justices to consider key border policy",
+          "link": "https://www.scotusblog.com/2026/08/trump-administration-asks-justices-to-consider-key-border-policy/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Trump administration on Monday asked the Supreme Court to review a ruling by a federal appeals court in Washington, D.C., that bars the federal government from removing immigrants who crossed the U.S.-Mexico border illegally without…",
+          "published": "2026-08-25T19:39:00.000Z"
+        },
+        {
+          "title": "The justices should regularly sit on the lower courts",
+          "link": "https://www.scotusblog.com/2026/08/the-justices-should-regularly-sit-on-the-lower-courts-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This is the fifth piece in a series on what I believe the court can, and should, do better. *** Each term, the chief justice appoints a circuit justice for each of the twelve regional courts of appeals. These appointments are expressly…",
+          "published": "2026-08-25T14:00:00.000Z"
+        },
+        {
+          "title": "Gutting the Alien Tort Statute",
+          "link": "https://www.scotusblog.com/2026/08/gutting-the-alien-tort-statute/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court’s decision in Cisco Systems, Inc. v. Doe I , decided in June, is a lethal blow to suits under the federal Alien Tort Statute . Such litigation often is the only remedy available to victims of human rights abuses. Through…",
+          "published": "2026-08-25T13:30:00.000Z"
         }
       ]
     }
