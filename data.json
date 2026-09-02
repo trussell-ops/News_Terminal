@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-02T19:05:58.416Z",
+  "updated": "2026-09-02T21:54:10.436Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
+          "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.",
+          "published": "2026-09-02T21:52:51.000Z"
+        },
+        {
+          "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+          "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
+          "published": "2026-09-02T17:21:00.000Z"
+        },
+        {
+          "title": "Southwest to debut airport lounges in four cities, with more to come",
+          "link": "https://www.cnbc.com/2026/09/02/southwest-airport-lounges.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The airline is partnering with Chase on the effort, saying it wants to build on that company's Sapphire Reserve Lounge Network.",
+          "published": "2026-09-02T17:14:33.000Z"
+        },
         {
           "title": "Uber to cut over 3,000 jobs in major global restructuring",
           "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
@@ -171,36 +195,100 @@
           "category": "markets",
           "snippet": "Poppi founder Allison Ellsworth: Cider vinegar, Shark Tank and riding the 'wellness wave'",
           "published": "2026-09-01T20:30:00.000Z"
-        },
-        {
-          "title": "How one of the largest investors in student housing is playing this school year",
-          "link": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Mike Gordon of Harrison Street Asset Management said funding cuts and enrollment trends are making specialization more vital than ever.",
-          "published": "2026-09-01T16:36:55.000Z"
-        },
-        {
-          "title": "US borrowing costs hit fresh highs over inflation fears",
-          "link": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The effective interest rate on 10 years rose to 4.79%, its highest level since January 2025, as oil prices surged.",
-          "published": "2026-09-01T15:51:51.000Z"
-        },
-        {
-          "title": "How to get a refund when using your credit card",
-          "link": "https://www.bbc.co.uk/news/videos/cp84ynl2j05o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Consumer expert Harry Kind explains how you can get your money back.",
-          "published": "2026-09-01T15:31:42.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+          "link": "https://nango.dev/careers",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-02T21:00:04.000Z"
+        },
+        {
+          "title": "Mamdani Bans AI in NYC Schools",
+          "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-02T20:57:04.000Z"
+        },
+        {
+          "title": "Vidact – a compiler that turns React into direct DOM operations",
+          "link": "https://www.vidact.dev/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-02T20:34:24.000Z"
+        },
+        {
+          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\"…",
+          "published": "2026-09-02T20:11:40.000Z"
+        },
+        {
+          "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+          "link": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-02T20:08:22.000Z"
+        },
+        {
+          "title": "I wanna live an NPC life",
+          "link": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-02T19:52:53.000Z"
+        },
+        {
+          "title": "Fable 5.1 World Modeling",
+          "link": "https://github.com/PhiloLabs/fable51-worlds",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-02T19:49:01.000Z"
+        },
+        {
+          "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+          "link": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
+          "published": "2026-09-02T19:37:08.000Z"
+        },
+        {
+          "title": "Muse Spark 1.3",
+          "link": "https://developer.meta.com/ai/models/muse-spark/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-02T19:35:04.000Z"
+        },
+        {
+          "title": "Introducing Muse Spark 1.3",
+          "link": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-02T19:25:47.000Z"
+        },
+        {
+          "title": "Here are some of REI’s best Labor Day sale deals",
+          "link": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s clothing and REI…",
+          "published": "2026-09-02T18:56:59.000Z"
+        },
         {
           "title": "1Password wades into a right-wing mess after funding a Linux project",
           "link": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
@@ -210,20 +298,44 @@
           "published": "2026-09-02T18:48:14.000Z"
         },
         {
-          "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
-          "link": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
+          "title": "Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
+          "link": "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-02T18:30:49.000Z"
+          "published": "2026-09-02T18:43:30.000Z"
         },
         {
-          "title": "Why do so many tools have JSON config files?",
-          "link": "https://textlog.cc/post/895",
+          "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+          "link": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-02T18:23:01.000Z"
+          "published": "2026-09-02T18:42:41.000Z"
+        },
+        {
+          "title": "Embedded Rust RTOS vs. C RTOS",
+          "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-02T18:32:24.000Z"
+        },
+        {
+          "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+          "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+          "published": "2026-09-02T18:13:54.000Z"
+        },
+        {
+          "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
+          "published": "2026-09-02T17:58:33.000Z"
         },
         {
           "title": "Amazon’s AI assistant can now spot fake emails from the company",
@@ -234,12 +346,12 @@
           "published": "2026-09-02T17:52:56.000Z"
         },
         {
-          "title": "I Don't Have a Smartphone",
-          "link": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+          "title": "Earth's organisms developed via evolution. What if the cosmos did, too?",
+          "link": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-02T17:51:29.000Z"
+          "published": "2026-09-02T17:46:42.000Z"
         },
         {
           "title": "Paint.net 5.2 alpha now runs on Linux",
@@ -258,22 +370,6 @@
           "published": "2026-09-02T17:01:08.000Z"
         },
         {
-          "title": "How Railroad Crossings Work",
-          "link": "https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-02T16:52:20.000Z"
-        },
-        {
-          "title": "Tangle – Visual ML Pipeline Editor",
-          "link": "https://tangleml.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-02T16:49:29.000Z"
-        },
-        {
           "title": "The best tech and gadgets announced at IFA so far",
           "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
           "source": "The Verge",
@@ -290,114 +386,106 @@
           "published": "2026-09-02T16:40:50.000Z"
         },
         {
-          "title": "How to debloat your Xiaomi 15 Ultra without root access",
-          "link": "https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-02T16:33:07.000Z"
-        },
-        {
           "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
           "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
           "published": "2026-09-02T16:30:11.000Z"
-        },
-        {
-          "title": "The race to engineer new knobs for the human brain",
-          "link": "https://www.neuroai.science/p/the-race-to-engineer-new-knobs-for",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-02T16:25:28.000Z"
-        },
-        {
-          "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
-          "link": "https://frontierharness.org",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-02T16:14:52.000Z"
-        },
-        {
-          "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI…",
-          "published": "2026-09-02T16:12:25.000Z"
-        },
-        {
-          "title": "Google is sending MrBeast into the wilderness, armed with AI",
-          "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness…",
-          "published": "2026-09-02T15:47:03.000Z"
-        },
-        {
-          "title": "Google dodges another breakup attempt",
-          "link": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years.…",
-          "published": "2026-09-02T15:42:17.000Z"
-        },
-        {
-          "title": "Continuous glucose monitors are about to get more complicated",
-          "link": "https://www.theverge.com/column/988242/optimizer-abbott-libre-duo-ketones-diabetic-ketoacidosis",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. My mom was a dramatic…",
-          "published": "2026-09-02T15:30:00.000Z"
-        },
-        {
-          "title": "SteamdDB Joins Nexus Mods",
-          "link": "https://www.nexusmods.com/news/15597",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-02T15:25:55.000Z"
-        },
-        {
-          "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-02T15:12:40.000Z"
-        },
-        {
-          "title": "Belkin’s kid-friendly wireless headphones are 25 percent off",
-          "link": "https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Verge readers can get a discount on Belkin’s SoundForm Mini 2 wireless headphones. The kid-focused on-ear headphones feature an 85-decibel volume limit and easy controls, and a mode that lets them beam audio (wired or wirelessly) to a…",
-          "published": "2026-09-02T14:58:15.000Z"
-        },
-        {
-          "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
-          "link": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "He reported from space that only \"fat\" Japanese tree frogs enjoyed weightlessness.",
-          "published": "2026-09-02T14:47:42.000Z"
-        },
-        {
-          "title": "Exit the Cave",
-          "link": "https://turtlespace.blog/p/exit-the-cave",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-02T14:16:45.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "DOGE s Cost-Cutting Measures At The IRS Resulted In A Greater Loss Of Tax Enforcement Income",
+          "link": "https://abovethelaw.com/2026/09/doges-cost-cutting-measures-at-the-irs-resulted-in-a-greater-loss-of-tax-enforcement-income/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Collection and enforcement revenue is down due to staff reductions. The post DOGE s Cost-Cutting Measures At The IRS Resulted In A Greater Loss Of Tax Enforcement Income appeared first on Above the Law .",
+          "published": "2026-09-02T21:35:00.000Z"
+        },
+        {
+          "title": "Sean Duffy s Wife Just Told Everyone Where He Sits In The MAGA Pecking Order",
+          "link": "https://abovethelaw.com/2026/09/sean-duffys-wife-just-told-everyone-where-he-sits-in-the-maga-pecking-order/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Spoiler: the reality-star-turned-prosecutor got Transportation because it was 'all that's left.' The post Sean Duffy s Wife Just Told Everyone Where He Sits In The MAGA Pecking Order appeared first on Above the Law .",
+          "published": "2026-09-02T20:44:00.000Z"
+        },
+        {
+          "title": "When Clients Ask About AI, How Should Firms Respond?",
+          "link": "https://abovethelaw.com/2026/09/when-clients-ask-about-ai-how-should-firms-respond/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] Lessons from elementary school. The post When Clients Ask About AI, How Should Firms Respond? appeared first on Above the Law .",
+          "published": "2026-09-02T20:01:00.000Z"
+        },
+        {
+          "title": "Patent Litigation’s Most Famous Judge Makes His Biglaw Move",
+          "link": "https://abovethelaw.com/2026/09/patent-litigations-most-famous-judge-makes-his-biglaw-move/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "After years overseeing blockbuster patent cases, he’s heading back to Biglaw. The post Patent Litigation’s Most Famous Judge Makes His Biglaw Move appeared first on Above the Law .",
+          "published": "2026-09-02T19:13:00.000Z"
+        },
+        {
+          "title": "AI ROI For Law Firms: There’s Not Any",
+          "link": "https://abovethelaw.com/2026/09/ai-roi-for-law-firms-theres-not-any/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Clients need some ownership in how their firms use the technology. Firms and clients need to design workflows together. The post AI ROI For Law Firms: There’s Not Any appeared first on Above the Law .",
+          "published": "2026-09-02T18:32:00.000Z"
+        },
+        {
+          "title": "Florida Bar Hides From Ethical Responsibilities, Shrugs As DHS Lawyer Compares Federal Judges To Murderers And Rapists",
+          "link": "https://abovethelaw.com/2026/09/florida-bar-hides-from-ethical-responsibilities-shrugs-as-dhs-lawyer-compares-federal-judges-to-murderers-and-rapists/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Ah, the Florida Bar. Truly the 'Florida Man' of state bars. The post Florida Bar Hides From Ethical Responsibilities, Shrugs As DHS Lawyer Compares Federal Judges To Murderers And Rapists appeared first on Above the Law .",
+          "published": "2026-09-02T17:42:00.000Z"
+        },
+        {
+          "title": "Want To Become A Law Professor? These Law Schools Offer The Best Odds",
+          "link": "https://abovethelaw.com/2026/09/want-to-become-a-law-professor-these-law-schools-offer-the-best-odds/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "One school leaves the rest of the legal academy in the dust. The post Want To Become A Law Professor? These Law Schools Offer The Best Odds appeared first on Above the Law .",
+          "published": "2026-09-02T17:01:00.000Z"
+        },
+        {
+          "title": "PI Firms Don’t Need More Tools. They Need Fewer.",
+          "link": "https://abovethelaw.com/2026/09/pi-firms-dont-need-more-tools-they-need-fewer/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] Every new tool a PI firm buys solves one problem and connects nothing. The real fix isn't another purchase — it's keeping the whole case in one place, from accident to resolution. Here's how. The post PI Firms Don’t Need More…",
+          "published": "2026-09-02T16:18:00.000Z"
+        },
+        {
+          "title": "The Cybersecurity Control Money Can t Buy",
+          "link": "https://abovethelaw.com/2026/09/the-cybersecurity-control-money-cant-buy/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "You can spend a fortune making the locks on your doors stronger. But if someone can convince an employee to hand over the key, those locks suddenly matter a lot less. The post The Cybersecurity Control Money Can t Buy appeared first on…",
+          "published": "2026-09-02T15:32:00.000Z"
+        },
+        {
+          "title": "Bankruptcy Lawyer Out After Firm Accused Of Working For The Wrong Client",
+          "link": "https://abovethelaw.com/2026/09/bankruptcy-lawyer-out-after-firm-accused-of-working-for-the-wrong-client/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Practice group leader disappears from website in midst of alleged duty breaches. The post Bankruptcy Lawyer Out After Firm Accused Of Working For The Wrong Client appeared first on Above the Law .",
+          "published": "2026-09-02T14:45:56.000Z"
+        },
+        {
+          "title": "House Passes Funding Stopgap, Averting Government Shutdown In October",
+          "link": "https://breakingdefense.com/2026/09/house-passes-funding-stopgap-averting-government-shutdown-in-october/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The bill, which now heads to the president's desk, gives Congress until Dec. 11 to pass full-year appropriations. The post House Passes Funding Stopgap, Averting Government Shutdown In October appeared first on Above the Law .",
+          "published": "2026-09-02T14:04:00.000Z"
+        },
         {
           "title": "How William Howard Taft transformed from a portly president to a svelte chief justice",
           "link": "https://www.scotusblog.com/2026/09/how-william-howard-taft-transformed-from-a-portly-president-to-a-svelte-chief-justice/",
@@ -423,172 +511,84 @@
           "published": "2026-09-02T13:00:00.000Z"
         },
         {
-          "title": "Enhance the Supreme Court minority’s procedural powers",
-          "link": "https://www.scotusblog.com/2026/09/enhance-the-supreme-court-minoritys-procedural-powers/",
-          "source": "SCOTUSblog",
+          "title": "Morning Docket: 09.02.26",
+          "link": "https://abovethelaw.com/2026/09/morning-docket-09-02-26/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "This is the sixth piece in a series on what I believe the court can, and should, do better. *** On the Supreme Court, there are two primary numerical voting rules. Under the “Rule of Four,” it takes four votes to grant a petition for a…",
-          "published": "2026-09-01T14:00:00.000Z"
+          "snippet": "* When Scalia died, John Roberts decided to change the rules to keep the justices' papers locked away for decades after they die. [ NY Times ] * House Republicans begin inquiry into the Eleventh Circuit's probe of Judge Eleanor Ross. […",
+          "published": "2026-09-02T12:47:00.000Z"
         },
         {
-          "title": "Solicitor General Sauer’s SCOTUS tightrope",
-          "link": "https://www.scotusblog.com/2026/09/solicitor-general-sauers-scotus-tightrope/",
-          "source": "SCOTUSblog",
+          "title": "It s Not Illegal If Nobody Has Standing To Say So See Also",
+          "link": "https://abovethelaw.com/2026/09/its-not-illegal-if-nobody-has-standing-to-say-so-see-also/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Three weeks after D. John Sauer was confirmed as the 49th solicitor general, law professor and podcast co-host William Baude speculated that Sauer might be “either fired or disbarred by the time his term is up.” Baude’s co-host, Dan Epps,…",
-          "published": "2026-09-01T13:30:00.000Z"
+          "snippet": "Nice Office You Got There : Let's tear down the Supreme Court building! After all, the Court says no one can stop a president from unilaterally destroying a historic building . 'A Whorehouse And Las Vegas': Ty Cobb reviews Trump's…",
+          "published": "2026-09-01T23:01:00.000Z"
         },
         {
-          "title": "New election disputes on the interim docket",
-          "link": "https://www.scotusblog.com/2026/09/new-election-disputes-on-the-interim-docket/",
-          "source": "SCOTUSblog",
+          "title": "The Star Witness Swore He Saw It In The Moonlight Big Mistake",
+          "link": "https://abovethelaw.com/2026/09/the-star-witness-swore-he-saw-it-in-the-moonlight-big-mistake/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, Justice Alito’s financial disclosure for 2025 was released.",
-          "published": "2026-09-01T13:00:00.000Z"
+          "snippet": "The case was won with the help of an almanac. The post The Star Witness Swore He Saw It In The Moonlight Big Mistake appeared first on Above the Law .",
+          "published": "2026-09-01T22:02:00.000Z"
         },
         {
-          "title": "Republican groups file emergency application to court on broadcasting rates for political ads",
-          "link": "https://www.scotusblog.com/2026/08/republican-groups-file-emergency-application-to-court-on-broadcasting-rates-for-political-ads/",
-          "source": "SCOTUSblog",
+          "title": "The White House Is In Its Whorehouse Era",
+          "link": "https://abovethelaw.com/2026/09/the-white-house-is-in-its-whorehouse-era/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Two Republican groups on Monday asked the Supreme Court to temporarily pause a ruling by a federal appeals court that, they told the justices, “rewrote longstanding rules about preferential broadcast rates for political ads.” With the…",
-          "published": "2026-08-31T21:26:13.000Z"
+          "snippet": "The former Trump White House lawyer went on CNN to mourn the aesthetic direction of the People's House. The post The White House Is In Its Whorehouse Era appeared first on Above the Law .",
+          "published": "2026-09-01T21:14:00.000Z"
         },
         {
-          "title": "Supreme Court allows construction on White House ballroom to continue",
-          "link": "https://www.scotusblog.com/2026/08/supreme-court-allows-construction-on-white-house-ballroom-to-continue/",
-          "source": "SCOTUSblog",
+          "title": "Wall Street Banks Demand Law Firms Slash Rates And Just Trust AI No Way This Could Backfire!",
+          "link": "https://abovethelaw.com/2026/09/wall-street-banks-demand-law-firms-slash-rates-and-just-trust-ai-no-way-this-could-backfire/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "The Supreme Court on Monday granted the Trump administration’s request to allow construction on a new White House ballroom to continue. By a vote of 5-4, the court paused a ruling by a federal judge in Washington, D.C., that would have…",
-          "published": "2026-08-31T21:19:41.000Z"
+          "snippet": "Banks want more AI legal work. It's all fun and games until they come asking for a bailout. The post Wall Street Banks Demand Law Firms Slash Rates And Just Trust AI No Way This Could Backfire! appeared first on Above the Law .",
+          "published": "2026-09-01T20:33:00.000Z"
         },
         {
-          "title": "Justice Alito’s financial disclosure for 2025 is released",
-          "link": "https://www.scotusblog.com/2026/08/justice-alitos-financial-disclosure-for-2025-is-released/",
-          "source": "SCOTUSblog",
+          "title": "Welcome To The Legal Tech Polycule ILTACON 2026",
+          "link": "https://abovethelaw.com/2026/09/welcome-to-the-legal-tech-polycule-iltacon-2026/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Justice Samuel Alito reported travel to the United Kingdom, Italy, and Arizona in 2025, as well as $33,333 in income from the publication of a book. The news came as part of Alito’s annual financial disclosure , which was filed on Aug. 11…",
-          "published": "2026-08-31T17:32:08.000Z"
+          "snippet": "ILTACON was all about vendors partnering up in new and exciting ways. The post Welcome To The Legal Tech Polycule ILTACON 2026 appeared first on Above the Law .",
+          "published": "2026-09-01T19:44:50.000Z"
         },
         {
-          "title": "The “born free and equal” clauses and Lawrence v. Texas",
-          "link": "https://www.scotusblog.com/2026/08/the-born-free-and-equal-clauses-and-lawrence-v-texas/",
-          "source": "SCOTUSblog",
+          "title": "Biglaw Firm’s Coaching Program Supports Lawyers Returning From Parental Leave",
+          "link": "https://abovethelaw.com/2026/09/biglaw-firms-coaching-program-supports-lawyers-returning-from-parental-leave/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "This is the third of seven introductory articles on the relevance for constitutional law of the “born free and equal” clauses, which appeared in the Declaration of Independence and in six out of 12 state constitutions when the federal…",
-          "published": "2026-08-31T14:00:00.000Z"
+          "snippet": "Mentorship, resources, and work-life balance support await lawyers returning from leave. The post Biglaw Firm’s Coaching Program Supports Lawyers Returning From Parental Leave appeared first on Above the Law .",
+          "published": "2026-09-01T19:03:00.000Z"
         },
         {
-          "title": "The 3-3-2-1 court?",
-          "link": "https://www.scotusblog.com/2026/08/the-3-3-2-1-court/",
-          "source": "SCOTUSblog",
+          "title": "It s Time To Tear Down The Supreme Court Building To Build A Bigger Ballroom For, Um, National Security",
+          "link": "https://abovethelaw.com/2026/09/its-time-to-tear-down-the-supreme-court-building-to-build-a-bigger-ballroom-for-um-national-security/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "In an earlier article I looked at all of the merits decisions since the Supreme Court’s newest member, Justice Ketanji Brown Jackson, joined the court four years ago, to see who is its most “ideological” justice. I found a court with…",
-          "published": "2026-08-31T13:30:00.000Z"
+          "snippet": "The Supreme Court ruled it functionally impossible to bar a president who wants to tear down federal buildings. I know which one should be next. The post It s Time To Tear Down The Supreme Court Building To Build A Bigger Ballroom For,…",
+          "published": "2026-09-01T18:12:00.000Z"
         },
         {
-          "title": "Updates on the new birthright citizenship executive order and mail-in ballots",
-          "link": "https://www.scotusblog.com/2026/08/updates-on-the-new-birthright-citizenship-executive-order-and-mail-in-ballots/",
-          "source": "SCOTUSblog",
+          "title": "Law Reviews And AI Detection, A Letter To Law Review Editors",
+          "link": "https://abovethelaw.com/2026/09/law-reviews-and-ai-detection-a-letter-to-law-review-editors/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, a dispute over President Trump’s ban on transgender troops is back at SCOTUS.",
-          "published": "2026-08-31T13:00:00.000Z"
+          "snippet": "Law reviews potentially rejecting submissions because the journals detect AI is problematic for a variety of reasons. The post Law Reviews And AI Detection, A Letter To Law Review Editors appeared first on Above the Law .",
+          "published": "2026-09-01T17:37:00.000Z"
         },
         {
-          "title": "Trump administration asks Supreme Court to consider ban on transgender persons in the military",
-          "link": "https://www.scotusblog.com/2026/08/trump-administration-asks-supreme-court-to-consider-ban-on-transgender-persons-in-the-military/",
-          "source": "SCOTUSblog",
+          "title": "Fordham Law Grad Killed In Times Square Knife Attack",
+          "link": "https://abovethelaw.com/2026/09/fordham-law-grad-killed-in-times-square-knife-attack/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "The Trump administration on Friday asked the Supreme Court to weigh in on whether a ban on transgender service members in the military violates the Constitution. U.S. Solicitor General D. John Sauer called a decision by a federal appeals…",
-          "published": "2026-08-28T19:15:55.000Z"
-        },
-        {
-          "title": "The Supreme Court of Israel",
-          "link": "https://www.scotusblog.com/2026/08/the-supreme-court-of-israel/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Welcome to SCOTUSblog’s recurring series in which we interview experts on different supreme courts around the world and how they compare with our own. Today’s column focuses on the Supreme Court of Israel. To help me comprehend this…",
-          "published": "2026-08-28T14:00:00.000Z"
-        },
-        {
-          "title": "The Supreme Court’s realignment roundup: October Term 2025",
-          "link": "https://www.scotusblog.com/2026/08/the-supreme-courts-realignment-roundup-october-term-2025/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "A legal realignment has been underway for some years now, in that legal views once associated with the right are now being espoused by the left, and vice versa. This post explores that point as to the Supreme Court’s October Term 2025,…",
-          "published": "2026-08-28T13:30:00.000Z"
-        },
-        {
-          "title": "Government urges SCOTUS to deny 9/11 petitions",
-          "link": "https://www.scotusblog.com/2026/08/government-urges-scotus-to-deny-Sept-11-petitions/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, would cameras in the courtroom boost public trust?",
-          "published": "2026-08-28T13:00:00.000Z"
-        },
-        {
-          "title": "Fed Governor Lisa Cook responds to Trump administration’s letter stating that it is “considering” her removal",
-          "link": "https://www.scotusblog.com/2026/08/fed-governor-lisa-cook-responds-to-trump-administrations-letter-stating-that-it-is-considering-h/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "A lawyer for Federal Reserve Governor Lisa Cook told the White House on Wednesday that allegations Cook committed mortgage fraud before joining the Fed are “unfounded and untrue.” As a result, attorney Abbe Lowell wrote, any effort to…",
-          "published": "2026-08-27T14:10:00.000Z"
-        },
-        {
-          "title": "Has the Supreme Court rendered the First Amendment’s press clause invisible?",
-          "link": "https://www.scotusblog.com/2026/08/has-the-supreme-court-rendered-the-first-amendments-press-clause-invisible/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In 2021, the legal scholars RonNell Andersen Jones and Sonja West published a study tracking the Supreme Court’s references to the press in its opinions over time. The data they uncovered tells a striking story. While, in a five-year…",
-          "published": "2026-08-27T14:00:00.000Z"
-        },
-        {
-          "title": "What the public thinks of the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/08/what-the-public-thinks-of-the-supreme-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Marquette Law School Poll, which I direct, conducts six polls each year that track approval of the court and ask for the public’s view on the outcome of cases. Our latest poll, conducted from July 22-29, yielded some fascinating…",
-          "published": "2026-08-27T13:30:00.000Z"
-        },
-        {
-          "title": "The ripple effects of SCOTUS’ mail-in voting decision",
-          "link": "https://www.scotusblog.com/2026/08/the-ripple-effects-of-scotus-mail-in-voting-decision/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a man was arrested after a guillotine was parked next to the Supreme Court.",
-          "published": "2026-08-27T13:00:00.000Z"
-        },
-        {
-          "title": "The orders docket, why it matters, and this term’s criminal law orders",
-          "link": "https://www.scotusblog.com/2026/08/the-orders-docket-why-it-matters-and-this-terms-criminal-law-orders/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court divides its website for official writings by the justices into two main parts: “ Opinions of the Court ” and “ Opinions Relating to Orders .” (The court also maintains another website location that is seldom used today,…",
-          "published": "2026-08-26T14:30:00.000Z"
-        },
-        {
-          "title": "The many layers of Landor",
-          "link": "https://www.scotusblog.com/2026/08/the-many-layers-of-landor/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In recent years, the Supreme Court’s late June grand finale, headline-grabbing, crash-the-SCOTUSblog-live-feed decision-dumps have generally included salient church-state or religious-liberty cases. In 2021, for example, a unanimous court…",
-          "published": "2026-08-26T14:00:00.000Z"
-        },
-        {
-          "title": "Alcohol at the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/08/alcohol-at-the-supreme-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "During the 2025-26 term, the justices pondered the Founding Fathers’ drinking habits as they considered a law barring habitual drug users from possessing guns. In the term ahead, they may return to the topic of alcohol in early America if…",
-          "published": "2026-08-26T13:30:00.000Z"
-        },
-        {
-          "title": "SCOTUS again asked to address Ten Commandments in schools",
-          "link": "https://www.scotusblog.com/2026/08/scotus-again-asked-to-address-ten-commandments-in-schools/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a Colorado man has been accused of impersonating Chief Justice Roberts.",
-          "published": "2026-08-26T13:00:00.000Z"
+          "snippet": "Erin Piacenti, 32, a vice president at Bank of America, was one of two people stabbed in what police call an unprovoked assault. The post Fordham Law Grad Killed In Times Square Knife Attack appeared first on Above the Law .",
+          "published": "2026-09-01T16:48:00.000Z"
         }
       ]
     }
