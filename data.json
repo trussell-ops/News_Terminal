@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-03T16:34:22.984Z",
+  "updated": "2026-09-03T19:29:56.597Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'",
+          "link": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The infrastructure company is toward the end of a three-year business plan that has boosted revenue and significantly cut the company's losses.",
+          "published": "2026-09-03T17:05:08.000Z"
+        },
+        {
+          "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
+          "link": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Major automakers in the U.S. are urging Congress to ban the domestic sale, import and manufacturing of Chinese connected vehicles, hardware and software.",
+          "published": "2026-09-03T16:51:13.000Z"
+        },
         {
           "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
           "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
@@ -11,14 +27,6 @@
           "category": "markets",
           "snippet": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
           "published": "2026-09-03T16:32:05.000Z"
-        },
-        {
-          "title": "ChargePoint CEO says 50% stock surge 'is the beginning of the momentum'",
-          "link": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The infrastructure company is toward the end of a three-year business plan that has boosted revenue and significantly cut the company's losses.",
-          "published": "2026-09-03T16:08:18.000Z"
         },
         {
           "title": "NFL set for first-ever game in Melbourne, Australia, in international expansion",
@@ -187,20 +195,116 @@
           "category": "markets",
           "snippet": "The company says cutting roles would make its operations \"simpler and faster\".",
           "published": "2026-09-02T16:51:49.000Z"
-        },
-        {
-          "title": "Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires",
-          "link": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Ford reported its eighth consecutive month of year-over-year U.S. new vehicle sales declines in August.",
-          "published": "2026-09-02T16:25:19.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
+          "link": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "TikTok backed out of a congressional committee's \"public roundtable\" set for this month over concerns it would be asked about child safety practices, the chair of the committee said. After negotiating \"in good faith\" to bring TikTok's…",
+          "published": "2026-09-03T18:37:57.000Z"
+        },
+        {
+          "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens&#x2F;s",
+          "link": "https://inference-docs.cerebras.ai/models/overview",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-03T18:32:13.000Z"
+        },
+        {
+          "title": "OpenAI begins rolling out GPT-6 Astra",
+          "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-03T18:18:22.000Z"
+        },
+        {
+          "title": "Samsung s beloved Q Series sound system is hundreds off for Labor Day",
+          "link": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar…",
+          "published": "2026-09-03T18:14:07.000Z"
+        },
+        {
+          "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this…",
+          "published": "2026-09-03T18:00:00.000Z"
+        },
+        {
+          "title": "How concerned should we be about Astra's recurrent architecture?",
+          "link": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-03T17:10:06.000Z"
+        },
+        {
+          "title": "Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB",
+          "link": "https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-03T17:09:04.000Z"
+        },
+        {
+          "title": "Meet the 2026 Ig Nobel Prize winners",
+          "link": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The annual award ceremony features miniature operas, scientific demos, and \"24/7\" lectures.",
+          "published": "2026-09-03T17:00:37.000Z"
+        },
+        {
+          "title": "Gooseworks (YC W23) Is Hiring – Founding Creative Engineer",
+          "link": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-03T17:00:16.000Z"
+        },
+        {
+          "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+          "link": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over…",
+          "published": "2026-09-03T17:00:00.000Z"
+        },
+        {
+          "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
+          "link": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for…",
+          "published": "2026-09-03T17:00:00.000Z"
+        },
+        {
+          "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+          "link": "https://news.ycombinator.com/item?id=49552616",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-03T16:24:13.000Z"
+        },
+        {
+          "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+          "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-03T16:21:33.000Z"
+        },
         {
           "title": "I held the first truly bezel-free phone",
           "link": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
@@ -242,55 +346,7 @@
           "published": "2026-09-03T16:00:00.000Z"
         },
         {
-          "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
-          "link": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark…",
-          "published": "2026-09-03T16:00:00.000Z"
-        },
-        {
-          "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its…",
-          "published": "2026-09-03T16:00:00.000Z"
-        },
-        {
-          "title": "This 14-inch laptop has a screen that unrolls to 17 inches",
-          "link": "https://www.theverge.com/tech/989477/lenovo-thinkbook-project-swan-concept-laptop-14-17-rollable-ifa-announcement",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Lenovo's latest rollable concept, announced at IFA 2026, is the ThinkBook Project Swan: a business laptop with a screen that expands horizontally from 14 to 17 inches. Rollable screens are nothing new for Lenovo. The company has shown off…",
-          "published": "2026-09-03T16:00:00.000Z"
-        },
-        {
-          "title": "Google now lets you chat with Gmail, Docs, and Keep",
-          "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the…",
-          "published": "2026-09-03T16:00:00.000Z"
-        },
-        {
-          "title": "Sony makes bold claim about game ownership",
-          "link": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T15:44:54.000Z"
-        },
-        {
-          "title": "The best tech and gadgets announced at IFA so far",
-          "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here…",
-          "published": "2026-09-03T15:37:59.000Z"
-        },
-        {
-          "title": "K2 Horizon: Frontier Performance, Radically Open",
+          "title": "K2 Horizon: A connected fleet of six open models",
           "link": "https://ifm.ai/blog/k2/",
           "source": "Hacker News",
           "category": "tech",
@@ -298,23 +354,7 @@
           "published": "2026-09-03T15:36:43.000Z"
         },
         {
-          "title": "ChatGPT, Claude, and Grok Are Down",
-          "link": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T15:30:10.000Z"
-        },
-        {
-          "title": "Grok Outage",
-          "link": "https://status.x.ai/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T15:26:01.000Z"
-        },
-        {
-          "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+          "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
           "link": "https://news.ycombinator.com/item?id=49551096",
           "source": "Hacker News",
           "category": "tech",
@@ -330,14 +370,6 @@
           "published": "2026-09-03T14:54:39.000Z"
         },
         {
-          "title": "Codex is down",
-          "link": "https://github.com/openai/codex/issues/28756",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T14:54:31.000Z"
-        },
-        {
           "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
           "link": "https://anyhumanever.com/",
           "source": "Hacker News",
@@ -346,20 +378,12 @@
           "published": "2026-09-03T14:51:10.000Z"
         },
         {
-          "title": "ChatGPT Is Throwing 404",
-          "link": "https://chatgpt.com/",
+          "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-03T14:46:47.000Z"
-        },
-        {
-          "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
-          "link": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T13:51:44.000Z"
+          "published": "2026-09-03T14:28:18.000Z"
         },
         {
           "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
@@ -368,36 +392,52 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-03T13:47:38.000Z"
-        },
-        {
-          "title": "Elevated Errors for Multiple Models",
-          "link": "https://status.claude.com/incidents/461yvfrzpwtt",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T13:29:12.000Z"
-        },
-        {
-          "title": "Nvidia to Acquire Hugging Face",
-          "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T12:10:33.000Z"
-        },
-        {
-          "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-          "link": "https://9mothers.com/careers",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T12:00:52.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Willkie Elevates Legal Work With Lexis+ With Protégé",
+          "link": "https://abovethelaw.com/2026/09/willkie-elevates-legal-work-with-lexis-with-protege/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] Willkie AI and Innovation leader Todd Friedlich spoke to LexisNexis about firm’s thoughtful approach to legal AI The post Willkie Elevates Legal Work With Lexis+ With Protégé appeared first on Above the Law .",
+          "published": "2026-09-03T19:09:00.000Z"
+        },
+        {
+          "title": "What World Cup Coaches Can Teach Lawyers About Building A Book Of Business",
+          "link": "https://abovethelaw.com/2026/09/what-world-cup-coaches-can-teach-lawyers-about-building-a-book-of-business/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Five ways legal business development coaching helps lawyers identify their gaps, create a strategic plan, improve performance, and build a stronger book of business. The post What World Cup Coaches Can Teach Lawyers About Building A Book…",
+          "published": "2026-09-03T18:16:00.000Z"
+        },
+        {
+          "title": "Sen. Jon Ossoff and other Democratic candidates urge justices to leave court ruling in place on political broadcasting rates",
+          "link": "https://www.scotusblog.com/2026/09/sen-jon-ossoff-and-other-democratic-candidates-urge-justices-to-leave-court-ruling-in-place-on-p/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Four Democratic candidates for the U.S. House of Representatives and the U.S. Senate on Thursday urged the justices to leave in place a ruling by a federal appeals court that limited the availability of preferential advertising rates to…",
+          "published": "2026-09-03T17:34:39.000Z"
+        },
+        {
+          "title": "The Temperature In The Room Is Your Responsibility",
+          "link": "https://abovethelaw.com/2026/09/the-temperature-in-the-room-is-your-responsibility/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Well-structured meetings rarely spiral into personal attacks. The post The Temperature In The Room Is Your Responsibility appeared first on Above the Law .",
+          "published": "2026-09-03T17:18:00.000Z"
+        },
+        {
+          "title": "California Is Coming For Lawyers Who File AI-Generated Nonsense",
+          "link": "https://abovethelaw.com/2026/09/california-is-coming-for-lawyers-who-file-ai-generated-nonsense/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Lawyers may soon face additional consequences for failing to check for AI hallucinations in their filings. The post California Is Coming For Lawyers Who File AI-Generated Nonsense appeared first on Above the Law .",
+          "published": "2026-09-03T16:44:00.000Z"
+        },
         {
           "title": "Federal Judges Just Went On The Record About Life Under Siege",
           "link": "https://abovethelaw.com/2026/09/federal-judges-just-went-on-the-record-about-life-under-siege/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "One school leaves the rest of the legal academy in the dust. The post Want To Become A Law Professor? These Law Schools Offer The Best Odds appeared first on Above the Law .",
           "published": "2026-09-02T17:01:00.000Z"
-        },
-        {
-          "title": "PI Firms Don’t Need More Tools. They Need Fewer.",
-          "link": "https://abovethelaw.com/2026/09/pi-firms-dont-need-more-tools-they-need-fewer/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] Every new tool a PI firm buys solves one problem and connects nothing. The real fix isn't another purchase — it's keeping the whole case in one place, from accident to resolution. Here's how. The post PI Firms Don’t Need More…",
-          "published": "2026-09-02T16:18:00.000Z"
-        },
-        {
-          "title": "The Cybersecurity Control Money Can t Buy",
-          "link": "https://abovethelaw.com/2026/09/the-cybersecurity-control-money-cant-buy/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "You can spend a fortune making the locks on your doors stronger. But if someone can convince an employee to hand over the key, those locks suddenly matter a lot less. The post The Cybersecurity Control Money Can t Buy appeared first on…",
-          "published": "2026-09-02T15:32:00.000Z"
-        },
-        {
-          "title": "Bankruptcy Lawyer Out After Firm Accused Of Working For The Wrong Client",
-          "link": "https://abovethelaw.com/2026/09/bankruptcy-lawyer-out-after-firm-accused-of-working-for-the-wrong-client/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Practice group leader disappears from website in midst of alleged duty breaches. The post Bankruptcy Lawyer Out After Firm Accused Of Working For The Wrong Client appeared first on Above the Law .",
-          "published": "2026-09-02T14:45:56.000Z"
-        },
-        {
-          "title": "House Passes Funding Stopgap, Averting Government Shutdown In October",
-          "link": "https://breakingdefense.com/2026/09/house-passes-funding-stopgap-averting-government-shutdown-in-october/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The bill, which now heads to the president's desk, gives Congress until Dec. 11 to pass full-year appropriations. The post House Passes Funding Stopgap, Averting Government Shutdown In October appeared first on Above the Law .",
-          "published": "2026-09-02T14:04:00.000Z"
-        },
-        {
-          "title": "How William Howard Taft transformed from a portly president to a svelte chief justice",
-          "link": "https://www.scotusblog.com/2026/09/how-william-howard-taft-transformed-from-a-portly-president-to-a-svelte-chief-justice/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "As summer comes to a close, I thought SCOTUSblog readers might appreciate a brief escape from the day’s dreary headlines to something a bit different: the little-known physical transformation of President and later Chief Justice William…",
-          "published": "2026-09-02T14:00:00.000Z"
         }
       ]
     }
