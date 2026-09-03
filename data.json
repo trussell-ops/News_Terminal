@@ -1,24 +1,32 @@
 {
-  "updated": "2026-09-03T19:29:56.597Z",
+  "updated": "2026-09-03T21:50:22.645Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
-        {
-          "title": "ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'",
-          "link": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The infrastructure company is toward the end of a three-year business plan that has boosted revenue and significantly cut the company's losses.",
-          "published": "2026-09-03T17:05:08.000Z"
-        },
         {
           "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
           "link": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Major automakers in the U.S. are urging Congress to ban the domestic sale, import and manufacturing of Chinese connected vehicles, hardware and software.",
-          "published": "2026-09-03T16:51:13.000Z"
+          "published": "2026-09-03T20:56:19.000Z"
+        },
+        {
+          "title": "Watch: Trump $1 commemorative coin goes on sale",
+          "link": "https://www.bbc.co.uk/news/videos/cx2z0jn7450o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US Mint began selling gold-coloured $1(£0.74) coins featuring President Donald Trump's likeness to mark the country's 250th anniversary.",
+          "published": "2026-09-03T20:32:21.000Z"
+        },
+        {
+          "title": "ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'",
+          "link": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The infrastructure company is toward the end of a three-year business plan that has boosted revenue and significantly cut the company's losses.",
+          "published": "2026-09-03T20:09:22.000Z"
         },
         {
           "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
@@ -187,20 +195,84 @@
           "category": "markets",
           "snippet": "The airline is partnering with Chase on the effort, saying it wants to build on that company's Sapphire Reserve Lounge Network.",
           "published": "2026-09-02T17:14:33.000Z"
-        },
-        {
-          "title": "Uber to cut over 3,000 jobs in major global restructuring",
-          "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The company says cutting roles would make its operations \"simpler and faster\".",
-          "published": "2026-09-02T16:51:49.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+          "link": "https://armature.tech/blog/which-tools-coding-agents-install",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-03T21:20:34.000Z"
+        },
+        {
+          "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+          "link": "https://tasklet.ai/careers/customer-success-engineer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-03T21:01:10.000Z"
+        },
+        {
+          "title": "Dungeons Dragons is getting a Ravenloft live-action Netflix series",
+          "link": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "A Ravenloft series is currently in development from executive producer Alfonso Cuar n, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons Dragons' most iconic…",
+          "published": "2026-09-03T20:48:05.000Z"
+        },
+        {
+          "title": "US senator calls on the NSA to give guidance for use of VPNs",
+          "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+          "published": "2026-09-03T19:52:06.000Z"
+        },
+        {
+          "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "link": "https://arcprize.org/blog/astra",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-03T19:45:00.000Z"
+        },
+        {
+          "title": "NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not \"swaps\"",
+          "link": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Circuit split raised the odds that SCOTUS will rule on Kalshi fight against states.",
+          "published": "2026-09-03T19:42:02.000Z"
+        },
+        {
+          "title": "The asteroid currently hitting front end web development",
+          "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-03T19:17:24.000Z"
+        },
+        {
+          "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+          "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Pro soccer team's CTO points to \"issues with the Broadcom takeover.\"",
+          "published": "2026-09-03T18:58:31.000Z"
+        },
+        {
+          "title": "GPT-6 Astra",
+          "link": "https://openai.com/index/gpt-6-astra/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-03T18:41:05.000Z"
+        },
         {
           "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
           "link": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
@@ -218,12 +290,12 @@
           "published": "2026-09-03T18:32:13.000Z"
         },
         {
-          "title": "OpenAI begins rolling out GPT-6 Astra",
-          "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-          "source": "Hacker News",
+          "title": "Just like a fruit fly, a new algorithm never forgets old scents",
+          "link": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T18:18:22.000Z"
+          "snippet": "Insect-inspired \"sparse coding\" does fast learning, avoids catastrophic forgetting.",
+          "published": "2026-09-03T18:22:52.000Z"
         },
         {
           "title": "Samsung s beloved Q Series sound system is hundreds off for Labor Day",
@@ -232,6 +304,14 @@
           "category": "tech",
           "snippet": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar…",
           "published": "2026-09-03T18:14:07.000Z"
+        },
+        {
+          "title": "Four major AI models suffer rare overlapping downtime",
+          "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
+          "published": "2026-09-03T18:10:19.000Z"
         },
         {
           "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
@@ -250,12 +330,12 @@
           "published": "2026-09-03T17:10:06.000Z"
         },
         {
-          "title": "Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB",
-          "link": "https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb",
-          "source": "Hacker News",
+          "title": "Trump’s 100% tariff on drones will be disaster for the US, critics warn",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T17:09:04.000Z"
+          "snippet": "Americans fear there are no cheap alternatives as tariffs suddenly hit drones.",
+          "published": "2026-09-03T17:08:09.000Z"
         },
         {
           "title": "Meet the 2026 Ig Nobel Prize winners",
@@ -264,14 +344,6 @@
           "category": "tech",
           "snippet": "The annual award ceremony features miniature operas, scientific demos, and \"24/7\" lectures.",
           "published": "2026-09-03T17:00:37.000Z"
-        },
-        {
-          "title": "Gooseworks (YC W23) Is Hiring – Founding Creative Engineer",
-          "link": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T17:00:16.000Z"
         },
         {
           "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
@@ -320,84 +392,52 @@
           "category": "tech",
           "snippet": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries…",
           "published": "2026-09-03T16:00:00.000Z"
-        },
-        {
-          "title": "The Moto Watch Ultra is a return to Wear OS",
-          "link": "https://www.theverge.com/gadgets/988734/moto-watch-ultra-release-date-price-specs-wear-os-ifa",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Just a few months after getting back into the smartwatch game, Motorola is targeting the premium end of the market with the first Moto Watch Ultra. It comes with some upgrades from the recent Moto Watch - most obviously the jump to Wear…",
-          "published": "2026-09-03T16:00:00.000Z"
-        },
-        {
-          "title": "Lenovo’s new MacBook Neo competitor comes in two sizes and seven colors",
-          "link": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Lenovo is announcing the IdeaPad Vibe, a productivity laptop aimed at taking on the MacBook Neo with a similar starting price and a wider range of colors. The Vibe comes in 14- and 15-inch sizes, with AMD and Qualcomm chip options due out…",
-          "published": "2026-09-03T16:00:00.000Z"
-        },
-        {
-          "title": "This ultra-thin Lenovo laptop concept uses solid-state cooling",
-          "link": "https://www.theverge.com/tech/988882/lenovo-project-aeroblade-concept-frore-airjet-silent-cooling",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Lenovo is announcing a new concept laptop for IFA 2026 that uses solid-state cooling instead of traditional fans, making it incredibly thin and super light. The 14-inch Project AeroBlade concept laptop is less than 10mm thick and weighs…",
-          "published": "2026-09-03T16:00:00.000Z"
-        },
-        {
-          "title": "K2 Horizon: A connected fleet of six open models",
-          "link": "https://ifm.ai/blog/k2/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T15:36:43.000Z"
-        },
-        {
-          "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-          "link": "https://news.ycombinator.com/item?id=49551096",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T15:07:01.000Z"
-        },
-        {
-          "title": ".name Termination",
-          "link": "https://neil.fraser.name/news/2026/09/03/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T14:54:39.000Z"
-        },
-        {
-          "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-          "link": "https://anyhumanever.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T14:51:10.000Z"
-        },
-        {
-          "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-          "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T14:28:18.000Z"
-        },
-        {
-          "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
-          "link": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-03T13:47:38.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "How Young Lawyers Can Build A Book Of Business Before It’s Too Late",
+          "link": "https://abovethelaw.com/2026/09/how-young-lawyers-can-build-a-book-of-business-before-its-too-late/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The old way of building your book of business is over. The time to start working on business development is now. The post How Young Lawyers Can Build A Book Of Business Before It’s Too Late appeared first on Above the Law .",
+          "published": "2026-09-03T21:43:00.000Z"
+        },
+        {
+          "title": "Finding Our Way By Paying Our Dues",
+          "link": "https://abovethelaw.com/2026/09/finding-our-way-by-paying-our-dues/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "If AI takes all the scut work, then how will lawyers pay their dues? The post Finding Our Way By Paying Our Dues appeared first on Above the Law .",
+          "published": "2026-09-03T21:14:00.000Z"
+        },
+        {
+          "title": "Your Transcript Is Not Your Destiny: A Guerrilla Job Search For New Law Graduates",
+          "link": "https://abovethelaw.com/2026/09/your-transcript-is-not-your-destiny-a-guerrilla-job-search-for-new-law-graduates/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Your first job matters, but it does not decide your entire career. You do not need every employer to choose you. You need one. The post Your Transcript Is Not Your Destiny: A Guerrilla Job Search For New Law Graduates appeared first on…",
+          "published": "2026-09-03T20:47:00.000Z"
+        },
+        {
+          "title": "NCAA Swaps Law Firms After Its Biglaw Lawyers Called Rhode Island Judge Dumb In Email CC Disaster",
+          "link": "https://abovethelaw.com/2026/09/ncaa-swaps-law-firms-after-its-biglaw-lawyers-called-rhode-island-judge-dumb-in-email-cc-disaster/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Calling the plaintiff 'poop man' probably didn't help either. The post NCAA Swaps Law Firms After Its Biglaw Lawyers Called Rhode Island Judge Dumb In Email CC Disaster appeared first on Above the Law .",
+          "published": "2026-09-03T20:16:00.000Z"
+        },
+        {
+          "title": "Private Equity Investment In Law Firms Floated As *One Neat Trick* To Get Around Ethical Obligations",
+          "link": "https://abovethelaw.com/2026/09/private-equity-investment-in-law-firms-floated-as-one-neat-trick-to-get-around-ethical-obligations/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Non-competes for lawyers violate ethical rules. What this presupposes is... what if they didn't? The post Private Equity Investment In Law Firms Floated As *One Neat Trick* To Get Around Ethical Obligations appeared first on Above the Law .",
+          "published": "2026-09-03T19:44:00.000Z"
+        },
         {
           "title": "Willkie Elevates Legal Work With Lexis+ With Protégé",
           "link": "https://abovethelaw.com/2026/09/willkie-elevates-legal-work-with-lexis-with-protege/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "Spoiler: the reality-star-turned-prosecutor got Transportation because it was 'all that's left.' The post Sean Duffy s Wife Just Told Everyone Where He Sits In The MAGA Pecking Order appeared first on Above the Law .",
           "published": "2026-09-02T20:44:00.000Z"
-        },
-        {
-          "title": "When Clients Ask About AI, How Should Firms Respond?",
-          "link": "https://abovethelaw.com/2026/09/when-clients-ask-about-ai-how-should-firms-respond/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] Lessons from elementary school. The post When Clients Ask About AI, How Should Firms Respond? appeared first on Above the Law .",
-          "published": "2026-09-02T20:01:00.000Z"
-        },
-        {
-          "title": "Patent Litigation’s Most Famous Judge Makes His Biglaw Move",
-          "link": "https://abovethelaw.com/2026/09/patent-litigations-most-famous-judge-makes-his-biglaw-move/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "After years overseeing blockbuster patent cases, he’s heading back to Biglaw. The post Patent Litigation’s Most Famous Judge Makes His Biglaw Move appeared first on Above the Law .",
-          "published": "2026-09-02T19:13:00.000Z"
-        },
-        {
-          "title": "AI ROI For Law Firms: There’s Not Any",
-          "link": "https://abovethelaw.com/2026/09/ai-roi-for-law-firms-theres-not-any/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Clients need some ownership in how their firms use the technology. Firms and clients need to design workflows together. The post AI ROI For Law Firms: There’s Not Any appeared first on Above the Law .",
-          "published": "2026-09-02T18:32:00.000Z"
-        },
-        {
-          "title": "Florida Bar Hides From Ethical Responsibilities, Shrugs As DHS Lawyer Compares Federal Judges To Murderers And Rapists",
-          "link": "https://abovethelaw.com/2026/09/florida-bar-hides-from-ethical-responsibilities-shrugs-as-dhs-lawyer-compares-federal-judges-to-murderers-and-rapists/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Ah, the Florida Bar. Truly the 'Florida Man' of state bars. The post Florida Bar Hides From Ethical Responsibilities, Shrugs As DHS Lawyer Compares Federal Judges To Murderers And Rapists appeared first on Above the Law .",
-          "published": "2026-09-02T17:42:00.000Z"
-        },
-        {
-          "title": "Want To Become A Law Professor? These Law Schools Offer The Best Odds",
-          "link": "https://abovethelaw.com/2026/09/want-to-become-a-law-professor-these-law-schools-offer-the-best-odds/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "One school leaves the rest of the legal academy in the dust. The post Want To Become A Law Professor? These Law Schools Offer The Best Odds appeared first on Above the Law .",
-          "published": "2026-09-02T17:01:00.000Z"
         }
       ]
     }
