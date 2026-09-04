@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T19:03:11.286Z",
+  "updated": "2026-09-04T21:36:22.836Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,7 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.",
-          "published": "2026-09-04T18:37:56.000Z"
+          "published": "2026-09-04T20:17:13.000Z"
         },
         {
           "title": "WNBA Commissioner Cathy Engelbert to retire at the end of 2026",
@@ -18,7 +18,7 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Engelbert oversaw a period of unprecedented growth for the WNBA, but has faced criticism from players over her leadership.",
-          "published": "2026-09-04T18:32:55.000Z"
+          "published": "2026-09-04T19:29:31.000Z"
         },
         {
           "title": "Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds",
@@ -202,7 +202,95 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Mullvad – Shutting down our public encrypted DNS",
+          "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+          "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that…",
+          "published": "2026-09-04T21:23:50.000Z"
+        },
+        {
+          "title": "Statichost.eu – 100% European static site hosting",
+          "link": "https://www.statichost.eu/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-04T20:34:49.000Z"
+        },
+        {
+          "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+          "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
+          "published": "2026-09-04T20:22:41.000Z"
+        },
+        {
+          "title": "How to Create a Tor Exit Node",
+          "link": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-04T20:16:22.000Z"
+        },
+        {
+          "title": "An open DNS recursive service for free security and high privacy",
+          "link": "https://quad9.net/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-04T20:13:08.000Z"
+        },
+        {
+          "title": "Can AI design circuit boards yet?",
+          "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-04T19:48:29.000Z"
+        },
+        {
+          "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
+          "published": "2026-09-04T19:46:34.000Z"
+        },
+        {
+          "title": "The White House is making arcade games racist",
+          "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda.…",
+          "published": "2026-09-04T19:42:54.000Z"
+        },
+        {
+          "title": "Government Rails Site Hit Hours After CVE Patch",
+          "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-04T19:06:39.000Z"
+        },
+        {
+          "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
+          "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
+          "published": "2026-09-04T19:01:02.000Z"
+        },
+        {
+          "title": "Fermat's Last Theorem in Lean 4",
+          "link": "https://github.com/anthropics/fermats-last-theorem",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-04T18:57:32.000Z"
+        },
+        {
+          "title": "Shutting down our public encrypted DNS",
           "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
           "source": "Hacker News",
           "category": "tech",
@@ -226,14 +314,6 @@
           "published": "2026-09-04T18:00:45.000Z"
         },
         {
-          "title": "Hayes AT command set",
-          "link": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T17:56:14.000Z"
-        },
-        {
           "title": "Roland is getting into generative AI music with Melody Flip",
           "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
           "source": "The Verge",
@@ -250,12 +330,20 @@
           "published": "2026-09-04T17:49:09.000Z"
         },
         {
-          "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-          "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-          "source": "Hacker News",
+          "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+          "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T17:29:22.000Z"
+          "snippet": "Broadcom admits it put “too big a focus on VCF.”",
+          "published": "2026-09-04T17:35:02.000Z"
+        },
+        {
+          "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+          "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+          "published": "2026-09-04T17:18:12.000Z"
         },
         {
           "title": "Show HN: Open-Source eInk Bike Computer",
@@ -274,20 +362,20 @@
           "published": "2026-09-04T17:16:49.000Z"
         },
         {
-          "title": "Georgi Gerganov on llama.cpp&#x2F;ggml future after Nvidia acquisition of HuggingFace",
-          "link": "https://twitter.com/ggerganov/status/2095897173376618881",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T17:12:22.000Z"
-        },
-        {
-          "title": "Stop Thinking of LLMs as Next-Token Predictors",
+          "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
           "link": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-04T17:09:24.000Z"
+        },
+        {
+          "title": "Pentagon rescinds new testosterone screening policy without explanation",
+          "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The Pentagon says the guidance is being updated after being online for one day.",
+          "published": "2026-09-04T16:57:24.000Z"
         },
         {
           "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
@@ -298,106 +386,74 @@
           "published": "2026-09-04T16:46:59.000Z"
         },
         {
-          "title": "Valve secretly leaked a Left 4 Dead 2 trailer to dodge the ESRB",
+          "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
           "link": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "\"I think we can't get in trouble for that now. It's like 20 years ago.\"",
           "published": "2026-09-04T16:42:53.000Z"
-        },
-        {
-          "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T16:24:50.000Z"
-        },
-        {
-          "title": "Second complete map of a fruit fly brain completed",
-          "link": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Every neuron and connection in the brain of a fly has been mapped—twice.",
-          "published": "2026-09-04T16:24:24.000Z"
-        },
-        {
-          "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-          "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-          "published": "2026-09-04T16:22:18.000Z"
-        },
-        {
-          "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-          "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from…",
-          "published": "2026-09-04T16:05:57.000Z"
-        },
-        {
-          "title": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
-          "link": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Saying X is “formerly Twitter” in App Store lets Musk block use of Twitter name.",
-          "published": "2026-09-04T15:59:47.000Z"
-        },
-        {
-          "title": "Trump White House just tossed a grenade into international space relations",
-          "link": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"Let me be clear: America is not only welcome—we want you there.\"",
-          "published": "2026-09-04T15:46:33.000Z"
-        },
-        {
-          "title": "The best tech and gadgets announced at IFA so far",
-          "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what has been announced, here are some of the…",
-          "published": "2026-09-04T15:41:17.000Z"
-        },
-        {
-          "title": "deSEC – Free Secure DNS",
-          "link": "https://desec.io/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T15:38:58.000Z"
-        },
-        {
-          "title": "Corporate America is getting hooked on open-source AI",
-          "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T15:33:45.000Z"
-        },
-        {
-          "title": "Alienware’s refurbished 16 Aurora is almost $200 off at Woot",
-          "link": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a pretty good deal at $927 for new Woot…",
-          "published": "2026-09-04T14:55:40.000Z"
-        },
-        {
-          "title": "What to expect at Apple’s September 9th launch event",
-          "link": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple's…",
-          "published": "2026-09-04T14:52:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "How Appealing Weekly Roundup",
+          "link": "https://abovethelaw.com/2026/09/how-appealing-weekly-roundup-184/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
+          "published": "2026-09-04T21:12:00.000Z"
+        },
+        {
+          "title": "Court grants request from Republican groups to pause ruling, for now, on political broadcasting rates",
+          "link": "https://www.scotusblog.com/2026/09/court-grants-request-from-republican-groups-to-pause-ruling-for-now-on-political-broadcasting-ra/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Friday cleared the way for political parties and joint fundraising committees, at least for now, to receive favorable advertising rates in the upcoming midterm elections. In a four-page, unsigned opinion , the…",
+          "published": "2026-09-04T20:56:52.000Z"
+        },
+        {
+          "title": "Chief Judge Pryor Tosses Judge Altman Terror Scarf Complaint, Showing Off Bipartisan Leniency Toward Misconduct Claims",
+          "link": "https://abovethelaw.com/2026/09/chief-judge-pryor-tosses-judge-altman-terror-scarf-complaint-showing-off-bipartisan-leniency-toward-misconduct-claims/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "After downplaying misconduct claims against Judge Eleanor Ross, complaint against Judge Roy Altman gets thrown out. The post Chief Judge Pryor Tosses Judge Altman Terror Scarf Complaint, Showing Off Bipartisan Leniency Toward Misconduct…",
+          "published": "2026-09-04T20:33:00.000Z"
+        },
+        {
+          "title": "What It s Really Like To Be General Counsel",
+          "link": "https://abovethelaw.com/2026/09/what-its-really-like-to-be-general-counsel/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Legal expertise is table stakes, not a differentiator. Here's what you need to set yourself apart. The post What It s Really Like To Be General Counsel appeared first on Above the Law .",
+          "published": "2026-09-04T20:01:00.000Z"
+        },
+        {
+          "title": "Lindsay Clancy s Lawyer Tells Us How He Really Feels About His Case",
+          "link": "https://abovethelaw.com/2026/09/lindsay-clancys-lawyer-tells-us-how-he-really-feels-about-his-case/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The importance of candor. The post Lindsay Clancy s Lawyer Tells Us How He Really Feels About His Case appeared first on Above the Law .",
+          "published": "2026-09-04T19:40:06.000Z"
+        },
+        {
+          "title": "7 Hospital Mergers From Summer 2026",
+          "link": "https://medcitynews.com/2026/09/hospital-mergers-summer-2026/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A roundup of the seven most notable hospital mergers and acquisitions announced or completed this summer, including Prisma Health’s acquisition of Erlanger Health and Sanford Health’s purchase of North Memorial Health. The post 7 Hospital…",
+          "published": "2026-09-04T19:33:00.000Z"
+        },
+        {
+          "title": "Google Business Profile Tactics That Actually Move Rankings",
+          "link": "https://abovethelaw.com/2026/09/google-business-profile-tactics-that-actually-move-rankings/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Everything you need to know to make Google work for you. The post Google Business Profile Tactics That Actually Move Rankings appeared first on Above the Law .",
+          "published": "2026-09-04T19:01:00.000Z"
+        },
         {
           "title": "Trump s Manic Plot To Seize Mail In Ballots Is Back At SCOTUS",
           "link": "https://abovethelaw.com/2026/09/trumps-manic-plot-to-seize-mail-in-ballots-is-back-at-scotus/",
@@ -533,62 +589,6 @@
           "category": "legal",
           "snippet": "Arredondo explains why he is turning his attention to the judiciary — and why he believes the challenge starts with the sheer torrent of material flooding into the courts. The post On LawNext: Why Legal AI Pioneer Pablo Arredondo Is…",
           "published": "2026-09-03T22:16:00.000Z"
-        },
-        {
-          "title": "How Young Lawyers Can Build A Book Of Business Before It’s Too Late",
-          "link": "https://abovethelaw.com/2026/09/how-young-lawyers-can-build-a-book-of-business-before-its-too-late/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The old way of building your book of business is over. The time to start working on business development is now. The post How Young Lawyers Can Build A Book Of Business Before It’s Too Late appeared first on Above the Law .",
-          "published": "2026-09-03T21:43:00.000Z"
-        },
-        {
-          "title": "Finding Our Way By Paying Our Dues",
-          "link": "https://abovethelaw.com/2026/09/finding-our-way-by-paying-our-dues/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "If AI takes all the scut work, then how will lawyers pay their dues? The post Finding Our Way By Paying Our Dues appeared first on Above the Law .",
-          "published": "2026-09-03T21:14:00.000Z"
-        },
-        {
-          "title": "Your Transcript Is Not Your Destiny: A Guerrilla Job Search For New Law Graduates",
-          "link": "https://abovethelaw.com/2026/09/your-transcript-is-not-your-destiny-a-guerrilla-job-search-for-new-law-graduates/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Your first job matters, but it does not decide your entire career. You do not need every employer to choose you. You need one. The post Your Transcript Is Not Your Destiny: A Guerrilla Job Search For New Law Graduates appeared first on…",
-          "published": "2026-09-03T20:47:00.000Z"
-        },
-        {
-          "title": "NCAA Swaps Law Firms After Its Biglaw Lawyers Called Rhode Island Judge Dumb In Email CC Disaster",
-          "link": "https://abovethelaw.com/2026/09/ncaa-swaps-law-firms-after-its-biglaw-lawyers-called-rhode-island-judge-dumb-in-email-cc-disaster/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Calling the plaintiff 'poop man' probably didn't help either. The post NCAA Swaps Law Firms After Its Biglaw Lawyers Called Rhode Island Judge Dumb In Email CC Disaster appeared first on Above the Law .",
-          "published": "2026-09-03T20:16:00.000Z"
-        },
-        {
-          "title": "Private Equity Investment In Law Firms Floated As *One Neat Trick* To Get Around Ethical Obligations",
-          "link": "https://abovethelaw.com/2026/09/private-equity-investment-in-law-firms-floated-as-one-neat-trick-to-get-around-ethical-obligations/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Non-competes for lawyers violate ethical rules. What this presupposes is... what if they didn't? The post Private Equity Investment In Law Firms Floated As *One Neat Trick* To Get Around Ethical Obligations appeared first on Above the Law .",
-          "published": "2026-09-03T19:44:00.000Z"
-        },
-        {
-          "title": "Willkie Elevates Legal Work With Lexis+ With Protégé",
-          "link": "https://abovethelaw.com/2026/09/willkie-elevates-legal-work-with-lexis-with-protege/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] Willkie AI and Innovation leader Todd Friedlich spoke to LexisNexis about firm’s thoughtful approach to legal AI The post Willkie Elevates Legal Work With Lexis+ With Protégé appeared first on Above the Law .",
-          "published": "2026-09-03T19:09:00.000Z"
-        },
-        {
-          "title": "What World Cup Coaches Can Teach Lawyers About Building A Book Of Business",
-          "link": "https://abovethelaw.com/2026/09/what-world-cup-coaches-can-teach-lawyers-about-building-a-book-of-business/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Five ways legal business development coaching helps lawyers identify their gaps, create a strategic plan, improve performance, and build a stronger book of business. The post What World Cup Coaches Can Teach Lawyers About Building A Book…",
-          "published": "2026-09-03T18:16:00.000Z"
         }
       ]
     }
