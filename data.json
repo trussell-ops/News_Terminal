@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-05T02:02:51.673Z",
+  "updated": "2026-09-05T07:00:01.369Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Live music to raise cash for Christmas dinners",
+          "link": "https://www.bbc.co.uk/news/articles/crl6dw4pzexo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Proceeds from the event help fund Christmas for families struggling financially in the South East.",
+          "published": "2026-09-05T06:03:29.000Z"
+        },
+        {
+          "title": "How much can Canada fight back in its trade war with the US?",
+          "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
+          "published": "2026-09-05T02:13:21.000Z"
+        },
         {
           "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
           "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
@@ -117,14 +133,6 @@
           "published": "2026-09-04T10:40:23.000Z"
         },
         {
-          "title": "Mum says 'no fat left to trim' on household costs amid 42% rise in water bills",
-          "link": "https://www.bbc.co.uk/news/articles/c62qyzdv721o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Water companies were given the green light to increase bills for customers earlier this month.",
-          "published": "2026-09-04T09:01:16.000Z"
-        },
-        {
           "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
           "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -187,20 +195,28 @@
           "category": "markets",
           "snippet": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
           "published": "2026-09-03T23:40:08.000Z"
-        },
-        {
-          "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
-          "link": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Major automakers in the U.S. are urging Congress to ban the domestic sale, import and manufacturing of Chinese connected vehicles, hardware and software.",
-          "published": "2026-09-03T20:56:19.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Why are European countries moving their gold out of North America?",
+          "link": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-05T05:52:09.000Z"
+        },
+        {
+          "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+          "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-05T03:38:56.000Z"
+        },
         {
           "title": "Nitter has more working instances than before the takedowns",
           "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
@@ -216,22 +232,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-05T00:04:14.000Z"
-        },
-        {
-          "title": "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
-          "link": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-05T00:03:08.000Z"
-        },
-        {
-          "title": "Show HN: Moadim.io – A scheduler for agents",
-          "link": "https://moadim.io/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T23:50:29.000Z"
         },
         {
           "title": "Portal by Spotify cut my Claude Code token usage by 90%",
@@ -314,14 +314,6 @@
           "published": "2026-09-04T21:23:50.000Z"
         },
         {
-          "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
-          "link": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T21:16:16.000Z"
-        },
-        {
           "title": "Statichost.eu – European static site hosting",
           "link": "https://www.statichost.eu/",
           "source": "Hacker News",
@@ -336,14 +328,6 @@
           "category": "tech",
           "snippet": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
           "published": "2026-09-04T20:22:41.000Z"
-        },
-        {
-          "title": "How to Create a Tor Exit Node (2015)",
-          "link": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T20:16:22.000Z"
         },
         {
           "title": "An open DNS recursive service for free security and high privacy",
@@ -392,6 +376,22 @@
           "category": "tech",
           "snippet": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
           "published": "2026-09-04T19:01:02.000Z"
+        },
+        {
+          "title": "Fermat's Last Theorem in Lean 4",
+          "link": "https://github.com/anthropics/fermats-last-theorem",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-04T18:57:32.000Z"
+        },
+        {
+          "title": "Shutting down our public encrypted DNS",
+          "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-04T18:50:28.000Z"
         }
       ]
     },
