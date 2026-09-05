@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T20:34:31.186Z",
+  "updated": "2026-09-05T22:28:56.171Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,60 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-05T21:43:22.000Z"
+        },
+        {
+          "title": "Explore the globe in field recordings",
+          "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances…",
+          "published": "2026-09-05T21:31:34.000Z"
+        },
+        {
+          "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
+          "link": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-05T21:17:00.000Z"
+        },
+        {
+          "title": "Lazygit",
+          "link": "https://lazygit.dev/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-05T21:08:09.000Z"
+        },
+        {
+          "title": "iPhone Handoff will seamlessly share one number between two phones",
+          "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at…",
+          "published": "2026-09-05T20:53:58.000Z"
+        },
+        {
           "title": "Private German rocket makes history, reaches orbit from European soil",
           "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-05T20:31:38.000Z"
+        },
+        {
+          "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+          "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-05T20:25:59.000Z"
         },
         {
           "title": "Isar Aerospace launch into orbit [video]",
@@ -218,15 +266,15 @@
           "published": "2026-09-05T20:25:30.000Z"
         },
         {
-          "title": "Space industry lacks workers needed to rebuild satellites lost in war: report",
-          "link": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
+          "title": "LLMs as a Cognitive Virus",
+          "link": "https://arxiv.org/abs/2609.03344",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-05T20:14:25.000Z"
+          "published": "2026-09-05T20:02:35.000Z"
         },
         {
-          "title": "The Luxuries in Life",
+          "title": "The Real Luxuries In Life",
           "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
           "source": "Hacker News",
           "category": "tech",
@@ -272,14 +320,6 @@
           "category": "tech",
           "snippet": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best…",
           "published": "2026-09-05T15:00:00.000Z"
-        },
-        {
-          "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
-          "link": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-05T14:40:52.000Z"
         },
         {
           "title": "Content creators drop the ball",
@@ -352,46 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-05T10:33:01.000Z"
-        },
-        {
-          "title": "AI handles incidents, engineers lose touch with their systems",
-          "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-05T07:52:50.000Z"
-        },
-        {
-          "title": "Git hosting that never leaves Europe",
-          "link": "https://pushin.eu",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-05T06:31:49.000Z"
-        },
-        {
-          "title": "Nitter has more working instances than before the takedowns",
-          "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-05T00:04:16.000Z"
-        },
-        {
-          "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-          "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
-          "published": "2026-09-04T22:49:17.000Z"
-        },
-        {
-          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-          "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-          "published": "2026-09-04T22:17:36.000Z"
         }
       ]
     },
@@ -407,84 +407,12 @@
           "published": "2026-09-05T15:47:06.000Z"
         },
         {
-          "title": "You Can Bill $2,000 An Hour And Still Flunk The Discovery Rules See Also",
-          "link": "https://abovethelaw.com/2026/09/you-can-bill-2000-an-hour-and-still-flunk-the-discovery-rules-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Turns Out 'I Forgot' Isn't A Great Discovery Strategy: Just ask Skadden and Kirkland. She Don't Lie/She Don't Lie/Cocaine : Missouri legislative candidate arrested for trying to plant cocaine on primary opponent . The Most Forgiving Judge…",
-          "published": "2026-09-04T22:33:00.000Z"
-        },
-        {
-          "title": "A Former President Returned To The Supreme Court To Argue A Case",
-          "link": "https://abovethelaw.com/2026/09/a-former-president-returned-to-the-supreme-court-to-argue-a-case/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "One of the last great services of his life. The post A Former President Returned To The Supreme Court To Argue A Case appeared first on Above the Law .",
-          "published": "2026-09-04T21:44:00.000Z"
-        },
-        {
-          "title": "How Appealing Weekly Roundup",
-          "link": "https://abovethelaw.com/2026/09/how-appealing-weekly-roundup-184/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
-          "published": "2026-09-04T21:12:00.000Z"
-        },
-        {
           "title": "Court grants request from Republican groups to pause ruling, for now, on political broadcasting rates",
           "link": "https://www.scotusblog.com/2026/09/court-grants-request-from-republican-groups-to-pause-ruling-for-now-on-political-broadcasting-ra/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "The Supreme Court on Friday cleared the way for political parties and joint fundraising committees, at least for now, to receive favorable advertising rates in the upcoming midterm elections. In a four-page, unsigned opinion , the…",
           "published": "2026-09-04T20:56:52.000Z"
-        },
-        {
-          "title": "Chief Judge Pryor Tosses Judge Altman Terror Scarf Complaint, Showing Off Bipartisan Leniency Toward Misconduct Claims",
-          "link": "https://abovethelaw.com/2026/09/chief-judge-pryor-tosses-judge-altman-terror-scarf-complaint-showing-off-bipartisan-leniency-toward-misconduct-claims/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "After downplaying misconduct claims against Judge Eleanor Ross, complaint against Judge Roy Altman gets thrown out. The post Chief Judge Pryor Tosses Judge Altman Terror Scarf Complaint, Showing Off Bipartisan Leniency Toward Misconduct…",
-          "published": "2026-09-04T20:33:00.000Z"
-        },
-        {
-          "title": "What It s Really Like To Be General Counsel",
-          "link": "https://abovethelaw.com/2026/09/what-its-really-like-to-be-general-counsel/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Legal expertise is table stakes, not a differentiator. Here's what you need to set yourself apart. The post What It s Really Like To Be General Counsel appeared first on Above the Law .",
-          "published": "2026-09-04T20:01:00.000Z"
-        },
-        {
-          "title": "Lindsay Clancy s Lawyer Tells Us How He Really Feels About His Case",
-          "link": "https://abovethelaw.com/2026/09/lindsay-clancys-lawyer-tells-us-how-he-really-feels-about-his-case/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The importance of candor. The post Lindsay Clancy s Lawyer Tells Us How He Really Feels About His Case appeared first on Above the Law .",
-          "published": "2026-09-04T19:40:06.000Z"
-        },
-        {
-          "title": "7 Hospital Mergers From Summer 2026",
-          "link": "https://medcitynews.com/2026/09/hospital-mergers-summer-2026/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A roundup of the seven most notable hospital mergers and acquisitions announced or completed this summer, including Prisma Health’s acquisition of Erlanger Health and Sanford Health’s purchase of North Memorial Health. The post 7 Hospital…",
-          "published": "2026-09-04T19:33:00.000Z"
-        },
-        {
-          "title": "Google Business Profile Tactics That Actually Move Rankings",
-          "link": "https://abovethelaw.com/2026/09/google-business-profile-tactics-that-actually-move-rankings/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Everything you need to know to make Google work for you. The post Google Business Profile Tactics That Actually Move Rankings appeared first on Above the Law .",
-          "published": "2026-09-04T19:01:00.000Z"
-        },
-        {
-          "title": "Trump s Manic Plot To Seize Mail In Ballots Is Back At SCOTUS",
-          "link": "https://abovethelaw.com/2026/09/trumps-manic-plot-to-seize-mail-in-ballots-is-back-at-scotus/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "How much chaos do you wanna sign your name to, Mister Chief Justice? The post Trump s Manic Plot To Seize Mail In Ballots Is Back At SCOTUS appeared first on Above the Law .",
-          "published": "2026-09-04T18:22:00.000Z"
         },
         {
           "title": "Court announces cases it will hear in December, including challenges to the constitutionality of bans on AR-15s",
@@ -495,68 +423,12 @@
           "published": "2026-09-04T18:14:14.000Z"
         },
         {
-          "title": "Skadden And Kirkland Earn A $2 Million Benchslap For Hiding Evidence",
-          "link": "https://abovethelaw.com/2026/09/skadden-and-kirkland-earn-a-2-million-benchslap-for-hiding-evidence/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "'I forgot' is not actually a discovery strategy. The post Skadden And Kirkland Earn A $2 Million Benchslap For Hiding Evidence appeared first on Above the Law .",
-          "published": "2026-09-04T17:44:00.000Z"
-        },
-        {
-          "title": "Associate Compensation Scorecard: Biglaw Firms Will Eventually Get Around To Matching Milbank Right?",
-          "link": "https://abovethelaw.com/2026/06/associate-compensation-scorecard-the-2026-summer-of-salary-increases/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The 2026 summer of salary increases -- for boutique firms. The post Associate Compensation Scorecard: Biglaw Firms Will Eventually Get Around To Matching Milbank Right? appeared first on Above the Law .",
-          "published": "2026-09-04T17:11:15.000Z"
-        },
-        {
-          "title": "Can Your Firm Compete With Litera’s ‘Trailblazers’?",
-          "link": "https://abovethelaw.com/2026/09/can-your-firm-compete-with-literas-trailblazers/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] Takeaways from an ILTACON panel featuring the firms set to ‘keep winning.’ The post Can Your Firm Compete With Litera’s ‘Trailblazers’? appeared first on Above the Law .",
-          "published": "2026-09-04T16:31:19.000Z"
-        },
-        {
-          "title": "Why Do Many Law Firms Still Waste Money On Big Offices?",
-          "link": "https://abovethelaw.com/2026/09/why-do-many-law-firms-still-waste-money-on-big-offices/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A long-term commitment to expensive real estate can make adapting more difficult. The post Why Do Many Law Firms Still Waste Money On Big Offices? appeared first on Above the Law .",
-          "published": "2026-09-04T15:50:18.000Z"
-        },
-        {
-          "title": "AI And The End Of The Law Firm: We May Wind Up Being Wrong?",
-          "link": "https://abovethelaw.com/2026/09/ai-and-the-end-of-the-law-firm-we-may-wind-up-being-wrong/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Remember that law firms have a pretty damn good track record when it comes to adapting. The post AI And The End Of The Law Firm: We May Wind Up Being Wrong? appeared first on Above the Law .",
-          "published": "2026-09-04T15:13:00.000Z"
-        },
-        {
-          "title": "Nominee Charged With Plotting To Plant Cocaine On His Primary Opponent",
-          "link": "https://abovethelaw.com/2026/09/nominee-charged-with-plotting-to-plant-cocaine-on-his-primary-opponent/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "20-year federal drug conspiracy charge, a campaign manager wearing a wire, and a ballot deadline that expires the day before the detention hearing. The post Nominee Charged With Plotting To Plant Cocaine On His Primary Opponent appeared…",
-          "published": "2026-09-04T14:40:00.000Z"
-        },
-        {
           "title": "In final scheduled summer order list, Supreme Court again declines to weigh in on COVID-19 vaccine mandate case",
           "link": "https://www.scotusblog.com/2026/09/in-final-scheduled-summer-order-list-supreme-court-again-declines-to-weigh-in-on-covid-19-vaccin/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "The Supreme Court on Friday morning once again declined to weigh in on a case brought by New York healthcare workers who were denied a religious accommodation from the state’s COVID-19 vaccine mandate for healthcare workers and lost their…",
           "published": "2026-09-04T14:25:59.000Z"
-        },
-        {
-          "title": "Court Tells HHS To Stop Using AI To Cite Fake Studies, Or Willfully Misinterpret Others In Grant Solicitations",
-          "link": "https://abovethelaw.com/2026/09/court-tells-hhs-to-stop-using-ai-to-cite-fake-studies-or-willfully-misinterpret-others-in-grant-solicitations/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "From the lies,-damned-lies,-and-AI dept The post Court Tells HHS To Stop Using AI To Cite Fake Studies, Or Willfully Misinterpret Others In Grant Solicitations appeared first on Above the Law .",
-          "published": "2026-09-04T13:58:00.000Z"
         },
         {
           "title": "Laboratories of (un)democracy",
@@ -575,20 +447,148 @@
           "published": "2026-09-04T13:00:00.000Z"
         },
         {
-          "title": "Morning Docket: 09.03.26",
-          "link": "https://abovethelaw.com/2026/09/morning-docket-09-03-26-2/",
-          "source": "Above the Law",
+          "title": "Trump administration asks Supreme Court to clear the way for it to implement new mail-in voting rule",
+          "link": "https://www.scotusblog.com/2026/09/trump-administration-asks-supreme-court-to-clear-the-way-for-it-to-implement-new-mail-in-voting-/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "* Skadden and Kirkland fined $2 million after judge deemed firms engaged in “a widespread, long-running cover-up.” [ Atlanta Journal-Constitution ] * Clients of Pogust Goodhead and Quinn Emanuel say they're dropping their firms, but the…",
-          "published": "2026-09-04T12:53:00.000Z"
+          "snippet": "Updated on Sept. 4 at 8 p.m. EDT with the latest developments The Trump administration returned to the Supreme Court on Thursday afternoon, asking the justices to temporarily pause an order by a federal judge in Boston that blocks the…",
+          "published": "2026-09-03T22:16:07.000Z"
         },
         {
-          "title": "It s Time To Stand Up For Judges See Also",
-          "link": "https://abovethelaw.com/2026/09/its-time-to-stand-up-for-judges-see-also/",
-          "source": "Above the Law",
+          "title": "Sen. Jon Ossoff and other Democratic candidates urge justices to leave court ruling in place on political broadcasting rates",
+          "link": "https://www.scotusblog.com/2026/09/sen-jon-ossoff-and-other-democratic-candidates-urge-justices-to-leave-court-ruling-in-place-on-p/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "New Report Begs Lawyers To Defend Judges -- Ask The Florida Bar How That's Going: A new study wants the profession to step up for a judiciary under siege, a nice idea, if the bar could be bothered. You Want To Do What Now? : There are a…",
-          "published": "2026-09-03T23:33:00.000Z"
+          "snippet": "Four Democratic candidates for the U.S. House of Representatives and the U.S. Senate on Thursday urged the justices to leave in place a ruling by a federal appeals court that limited the availability of preferential advertising rates to…",
+          "published": "2026-09-03T17:34:39.000Z"
+        },
+        {
+          "title": "Judge temporarily halts Trump’s latest birthright citizenship order",
+          "link": "https://www.scotusblog.com/2026/09/judge-temporarily-halts-trumps-latest-birthright-citizenship-order/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "It has been just under a month since President Donald Trump issued a new executive order seeking to narrow the availability of birthright citizenship, the current guarantee of citizenship to almost everyone born in the United States. On…",
+          "published": "2026-09-03T14:35:38.000Z"
+        },
+        {
+          "title": "Court reform is liberal-coded nowadays. But it shouldn’t be.",
+          "link": "https://www.scotusblog.com/2026/09/court-reform-is-liberal-coded-nowadays-but-it-shouldnt-be/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. In Jan. 2023, a PDF attachment appeared in my inbox: draft legislation requiring…",
+          "published": "2026-09-03T14:00:00.000Z"
+        },
+        {
+          "title": "Will the court consider due process rights for detained migrants?",
+          "link": "https://www.scotusblog.com/2026/09/will-the-court-consider-due-process-rights-for-detained-migrants/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Constitution’s due process clause famously limits the government’s power to detain people. Next month the Supreme Court is scheduled to hear arguments in a case about the clause’s relevance to long-time migrants. If it sides with the…",
+          "published": "2026-09-03T13:30:00.000Z"
+        },
+        {
+          "title": "Judge blocks Trump's second birthright citizenship order",
+          "link": "https://www.scotusblog.com/2026/09/judge-blocks-trump-second-birthright-citizenship-order/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, the benefits of Taft-maxxing.",
+          "published": "2026-09-03T13:00:00.000Z"
+        },
+        {
+          "title": "How William Howard Taft transformed from a portly president to a svelte chief justice",
+          "link": "https://www.scotusblog.com/2026/09/how-william-howard-taft-transformed-from-a-portly-president-to-a-svelte-chief-justice/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "As summer comes to a close, I thought SCOTUSblog readers might appreciate a brief escape from the day’s dreary headlines to something a bit different: the little-known physical transformation of President and later Chief Justice William…",
+          "published": "2026-09-02T14:00:00.000Z"
+        },
+        {
+          "title": "Why religion and education will be in the spotlight next term",
+          "link": "https://www.scotusblog.com/2026/09/why-religion-and-education-will-be-in-the-spotlight-next-term/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "As the back-to-school spirit sweeps across the nation, education is likely on the minds of the Supreme Court justices ( especially those with kids still at home or in college). The court is preparing for a term that will involve at least…",
+          "published": "2026-09-02T13:30:00.000Z"
+        },
+        {
+          "title": "House to vote on number of justices",
+          "link": "https://www.scotusblog.com/2026/09/house-to-vote-on-number-of-justices/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, don’t forget to register your interest in attending the upcoming SCOTUSblog Summit.",
+          "published": "2026-09-02T13:00:00.000Z"
+        },
+        {
+          "title": "Enhance the Supreme Court minority’s procedural powers",
+          "link": "https://www.scotusblog.com/2026/09/enhance-the-supreme-court-minoritys-procedural-powers/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This is the sixth piece in a series on what I believe the court can, and should, do better. *** On the Supreme Court, there are two primary numerical voting rules. Under the “Rule of Four,” it takes four votes to grant a petition for a…",
+          "published": "2026-09-01T14:00:00.000Z"
+        },
+        {
+          "title": "Solicitor General Sauer’s SCOTUS tightrope",
+          "link": "https://www.scotusblog.com/2026/09/solicitor-general-sauers-scotus-tightrope/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Three weeks after D. John Sauer was confirmed as the 49th solicitor general, law professor and podcast co-host William Baude speculated that Sauer might be “either fired or disbarred by the time his term is up.” Baude’s co-host, Dan Epps,…",
+          "published": "2026-09-01T13:30:00.000Z"
+        },
+        {
+          "title": "New election disputes on the interim docket",
+          "link": "https://www.scotusblog.com/2026/09/new-election-disputes-on-the-interim-docket/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, Justice Alito’s financial disclosure for 2025 was released.",
+          "published": "2026-09-01T13:00:00.000Z"
+        },
+        {
+          "title": "Republican groups file emergency application to court on broadcasting rates for political ads",
+          "link": "https://www.scotusblog.com/2026/08/republican-groups-file-emergency-application-to-court-on-broadcasting-rates-for-political-ads/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Two Republican groups on Monday asked the Supreme Court to temporarily pause a ruling by a federal appeals court that, they told the justices, “rewrote longstanding rules about preferential broadcast rates for political ads.” With the…",
+          "published": "2026-08-31T21:26:13.000Z"
+        },
+        {
+          "title": "Supreme Court allows construction on White House ballroom to continue",
+          "link": "https://www.scotusblog.com/2026/08/supreme-court-allows-construction-on-white-house-ballroom-to-continue/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Monday granted the Trump administration’s request to allow construction on a new White House ballroom to continue. By a vote of 5-4, the court paused a ruling by a federal judge in Washington, D.C., that would have…",
+          "published": "2026-08-31T21:19:41.000Z"
+        },
+        {
+          "title": "Justice Alito’s financial disclosure for 2025 is released",
+          "link": "https://www.scotusblog.com/2026/08/justice-alitos-financial-disclosure-for-2025-is-released/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Justice Samuel Alito reported travel to the United Kingdom, Italy, and Arizona in 2025, as well as $33,333 in income from the publication of a book. The news came as part of Alito’s annual financial disclosure , which was filed on Aug. 11…",
+          "published": "2026-08-31T17:32:08.000Z"
+        },
+        {
+          "title": "The “born free and equal” clauses and Lawrence v. Texas",
+          "link": "https://www.scotusblog.com/2026/08/the-born-free-and-equal-clauses-and-lawrence-v-texas/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This is the third of seven introductory articles on the relevance for constitutional law of the “born free and equal” clauses, which appeared in the Declaration of Independence and in six out of 12 state constitutions when the federal…",
+          "published": "2026-08-31T14:00:00.000Z"
+        },
+        {
+          "title": "The 3-3-2-1 court?",
+          "link": "https://www.scotusblog.com/2026/08/the-3-3-2-1-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "In an earlier article I looked at all of the merits decisions since the Supreme Court’s newest member, Justice Ketanji Brown Jackson, joined the court four years ago, to see who is its most “ideological” justice. I found a court with…",
+          "published": "2026-08-31T13:30:00.000Z"
+        },
+        {
+          "title": "Updates on the new birthright citizenship executive order and mail-in ballots",
+          "link": "https://www.scotusblog.com/2026/08/updates-on-the-new-birthright-citizenship-executive-order-and-mail-in-ballots/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, a dispute over President Trump’s ban on transgender troops is back at SCOTUS.",
+          "published": "2026-08-31T13:00:00.000Z"
         }
       ]
     }
