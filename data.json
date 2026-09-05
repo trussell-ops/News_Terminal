@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-05T11:11:10.252Z",
+  "updated": "2026-09-05T13:55:30.326Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
+          "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses.",
+          "published": "2026-09-05T12:00:01.000Z"
+        },
         {
           "title": "Live music to raise cash for Christmas dinners",
           "link": "https://www.bbc.co.uk/news/articles/crl6dw4pzexo?at_medium=RSS&at_campaign=rss",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
           "published": "2026-09-03T23:41:49.000Z"
-        },
-        {
-          "title": "Is India's internet boom running into an undersea problem?",
-          "link": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
-          "published": "2026-09-03T23:40:08.000Z"
         }
       ]
     },
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+          "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-05T13:36:38.000Z"
+        },
+        {
+          "title": "Pentagon rescinds new testosterone screening policy without explanation",
+          "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-05T13:11:14.000Z"
+        },
+        {
+          "title": "The weird and wonderful headphones of CanJam 2026",
+          "link": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are…",
+          "published": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "OpenAI admits to German wiki ‘incident’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a…",
+          "published": "2026-09-05T11:15:55.000Z"
+        },
+        {
           "title": "Robotaxis enter their villain era",
           "link": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
           "source": "The Verge",
           "category": "tech",
           "snippet": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no…",
           "published": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Terpstra Keyboard",
+          "link": "http://terpstrakeyboard.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-05T10:33:01.000Z"
         },
         {
           "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
@@ -226,12 +266,12 @@
           "published": "2026-09-05T07:52:50.000Z"
         },
         {
-          "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+          "title": "Git hosting that never leaves Europe",
+          "link": "https://pushin.eu",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-05T03:38:56.000Z"
+          "published": "2026-09-05T06:31:49.000Z"
         },
         {
           "title": "Nitter has more working instances than before the takedowns",
@@ -280,14 +320,6 @@
           "category": "tech",
           "snippet": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
           "published": "2026-09-04T22:17:36.000Z"
-        },
-        {
-          "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
-          "link": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T22:03:16.000Z"
         },
         {
           "title": "Actively exploited sandbox RCE in all Chromium versions",
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda.…",
           "published": "2026-09-04T19:42:54.000Z"
-        },
-        {
-          "title": "Government Rails Site Hit Hours After CVE Patch",
-          "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T19:06:39.000Z"
-        },
-        {
-          "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-          "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
-          "published": "2026-09-04T19:01:02.000Z"
-        },
-        {
-          "title": "Fermat's Last Theorem in Lean 4",
-          "link": "https://github.com/anthropics/fermats-last-theorem",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T18:57:32.000Z"
-        },
-        {
-          "title": "Shutting down our public encrypted DNS",
-          "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-04T18:50:28.000Z"
         }
       ]
     },
