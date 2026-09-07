@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-07T20:03:02.127Z",
+  "updated": "2026-09-07T22:54:40.986Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Food price cap plans giving farmer 'sleepless nights'",
+          "link": "https://www.bbc.co.uk/news/articles/c9w41xw74p8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "East Lothian farmer Jamie Wyllie says he's worried costs will get passed down the line to the food producers.",
+          "published": "2026-09-07T22:22:58.000Z"
+        },
         {
           "title": "Investigators begin work on why cargo plane overran Miami runway",
           "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
@@ -109,14 +117,6 @@
           "published": "2026-09-07T02:26:12.000Z"
         },
         {
-          "title": "Fuel duty proposal withdrawn after discussions",
-          "link": "https://www.bbc.co.uk/news/articles/cy8znkkn5rvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Deputy Lucy Stephenson had wanted to cut the tax by 10p a litre for three months.",
-          "published": "2026-09-06T12:01:41.000Z"
-        },
-        {
           "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
           "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -202,12 +202,60 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Tesla killing Solar Roof is leaving installers with six-figure losses",
-          "link": "https://electrek.co/2026/09/01/tesla-solar-roof-exit-installers-losses/",
+          "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+          "link": "https://github.com/Sadpainy/Stuxnet",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-07T19:08:47.000Z"
+          "published": "2026-09-07T22:12:38.000Z"
+        },
+        {
+          "title": "The Education of a Doomer",
+          "link": "https://borretti.me/article/the-education-of-a-doomer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-07T21:19:12.000Z"
+        },
+        {
+          "title": "Working on Economics with Fable 5",
+          "link": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-07T21:18:15.000Z"
+        },
+        {
+          "title": "Macbeth and His Problems",
+          "link": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-07T20:34:32.000Z"
+        },
+        {
+          "title": "Leaving VMware Just Got Harder After Broadcom Pulled VDDK Downloads",
+          "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-07T20:32:55.000Z"
+        },
+        {
+          "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+          "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a…",
+          "published": "2026-09-07T20:03:41.000Z"
+        },
+        {
+          "title": "Replaceable but Employed: Automation and the Meaning of Work",
+          "link": "https://www.nber.org/papers/w35559",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-07T19:06:01.000Z"
         },
         {
           "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
@@ -218,44 +266,12 @@
           "published": "2026-09-07T18:52:06.000Z"
         },
         {
-          "title": "Show HN: HomeCat – Design your backyard office",
-          "link": "https://myhomecat.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-07T18:23:35.000Z"
-        },
-        {
-          "title": "PostgreSQL 19 Interactive Tour",
-          "link": "https://victoriametrics.com/blog/postgres-19/index.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-07T16:58:35.000Z"
-        },
-        {
           "title": "Six years later, Sony revisits its legendary XM4 headphones",
           "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best…",
           "published": "2026-09-07T16:00:00.000Z"
-        },
-        {
-          "title": "C Is Not a Low-Level Language (2018)",
-          "link": "https://queue.acm.org/doi/10.1145/3212477.3212479",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-07T15:39:20.000Z"
-        },
-        {
-          "title": "Bill Gates tries to install MovieMaker (2003)",
-          "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-07T15:27:03.000Z"
         },
         {
           "title": "EcoFlow makes the miniature power station even smaller",
@@ -274,36 +290,12 @@
           "published": "2026-09-07T13:35:13.000Z"
         },
         {
-          "title": "De-Brainrot Vacations",
-          "link": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-07T13:00:48.000Z"
-        },
-        {
-          "title": "Splash-free urinals (2025)",
-          "link": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-07T12:58:57.000Z"
-        },
-        {
           "title": "The real reason your phone is getting more expensive",
           "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
           "source": "The Verge",
           "category": "tech",
           "snippet": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have…",
           "published": "2026-09-07T12:00:00.000Z"
-        },
-        {
-          "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-          "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-07T11:46:37.000Z"
         },
         {
           "title": "The complex corporate web behind a $3.2 billion AI data center",
@@ -322,14 +314,6 @@
           "published": "2026-09-07T11:00:00.000Z"
         },
         {
-          "title": "Initial effects of AI technology on employment look positive",
-          "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-07T10:38:32.000Z"
-        },
-        {
           "title": "Huawei copies Samsung’s privacy display in its latest trifold",
           "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
           "source": "The Verge",
@@ -338,28 +322,12 @@
           "published": "2026-09-07T10:09:42.000Z"
         },
         {
-          "title": "Impedance Matching (2017)",
-          "link": "https://www.edge.org/response-detail/27238",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-07T09:52:26.000Z"
-        },
-        {
           "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
           "link": "https://mathathonchallenge.com/index.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-07T09:26:53.000Z"
-        },
-        {
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
-          "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-07T09:26:41.000Z"
         },
         {
           "title": "Live map of public transport in Belgium",
@@ -392,6 +360,38 @@
           "category": "tech",
           "snippet": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often…",
           "published": "2026-09-06T23:36:04.000Z"
+        },
+        {
+          "title": "An Amazon cargo plane crashed at Miami International Airport",
+          "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not…",
+          "published": "2026-09-06T20:56:38.000Z"
+        },
+        {
+          "title": "Europe has its first commercial orbital rocket",
+          "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and…",
+          "published": "2026-09-06T19:04:22.000Z"
+        },
+        {
+          "title": "The Dataflow Model Revisited",
+          "link": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-06T18:10:53.000Z"
+        },
+        {
+          "title": "Boox’s tiny Picco e-reader should land in November",
+          "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices,…",
+          "published": "2026-09-06T16:28:58.000Z"
         }
       ]
     },
