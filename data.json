@@ -1,11 +1,35 @@
 {
-  "updated": "2026-09-07T00:29:47.097Z",
+  "updated": "2026-09-07T05:05:09.921Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
+          "title": "How long could you manage on £3 of food a day?",
+          "link": "https://www.bbc.co.uk/news/articles/c07lz5d5z34o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It wants people to experience what it is like for people facing food insecurity.",
+          "published": "2026-09-07T04:57:53.000Z"
+        },
+        {
+          "title": "China to pump $54bn into state banks and insurers to boost economy",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+          "published": "2026-09-07T02:26:12.000Z"
+        },
+        {
+          "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+          "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+          "published": "2026-09-07T00:57:38.000Z"
+        },
+        {
+          "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
           "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -25,7 +49,7 @@
           "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+          "snippet": "Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out a bailout for the company.",
           "published": "2026-09-06T16:32:59.000Z"
         },
         {
@@ -141,14 +165,6 @@
           "published": "2026-09-04T14:38:55.000Z"
         },
         {
-          "title": "Firmus Energy customers face price increase",
-          "link": "https://www.bbc.co.uk/news/articles/cqlw6g2x1lko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Customers in the Ten Towns area will see a 8.98% increase and 12.5% for Greater Belfast.",
-          "published": "2026-09-04T14:27:02.000Z"
-        },
-        {
           "title": "UK petrol prices hit highest level since Iran war began",
           "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -179,28 +195,36 @@
           "category": "markets",
           "snippet": "THC drinks are booming as an alcohol alternative, but a looming federal crackdown is squeezing makers, distributors and consumers.",
           "published": "2026-09-04T11:00:01.000Z"
-        },
-        {
-          "title": "US diesel prices hit an all-time-high",
-          "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
-          "published": "2026-09-04T10:52:56.000Z"
-        },
-        {
-          "title": "Stock up on food to prepare for extreme weather, minister says",
-          "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
-          "published": "2026-09-04T10:40:23.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+          "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-07T03:29:51.000Z"
+        },
+        {
+          "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+          "link": "https://gettogether.dev",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-07T01:41:11.000Z"
+        },
+        {
+          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "link": "https://github.com/Staatsgeheim/MathKernel",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-07T00:21:01.000Z"
+        },
         {
           "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
           "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
@@ -218,28 +242,12 @@
           "published": "2026-09-06T23:14:08.000Z"
         },
         {
-          "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-          "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+          "title": "Signing TLS handshakes inside a TPM",
+          "link": "https://bschaatsbergen.com/posts/go-tpm-tls/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-06T22:43:25.000Z"
-        },
-        {
-          "title": "Political meddling at the Census Bureau damages the US statistical system",
-          "link": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-06T22:36:07.000Z"
-        },
-        {
-          "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
-          "link": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-06T21:16:10.000Z"
+          "published": "2026-09-06T21:05:21.000Z"
         },
         {
           "title": "An Amazon cargo plane crashed at Miami International Airport",
@@ -274,14 +282,6 @@
           "published": "2026-09-06T20:31:20.000Z"
         },
         {
-          "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
-          "link": "https://github.com/FulltimeFeline/Sol",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-06T20:24:56.000Z"
-        },
-        {
           "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
           "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
           "source": "Hacker News",
@@ -290,12 +290,12 @@
           "published": "2026-09-06T20:24:00.000Z"
         },
         {
-          "title": "D2 Is Non-Profit",
-          "link": "https://d2lang.com/blog/d2-non-profit/",
+          "title": "Ask HN: How do you manage skills files?",
+          "link": "https://news.ycombinator.com/item?id=49589914",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-06T19:11:05.000Z"
+          "published": "2026-09-06T19:27:10.000Z"
         },
         {
           "title": "Europe has its first commercial orbital rocket",
@@ -312,6 +312,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-06T17:49:47.000Z"
+        },
+        {
+          "title": "YouTube had a bug – I used ChatGPT to investigate",
+          "link": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-06T17:01:39.000Z"
         },
         {
           "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
@@ -362,7 +370,7 @@
           "published": "2026-09-06T15:08:44.000Z"
         },
         {
-          "title": "A&#x2F;I shuts down – Stay human",
+          "title": "A&#x2F;I shuts down",
           "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
           "source": "Hacker News",
           "category": "tech",
@@ -376,14 +384,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-06T14:08:59.000Z"
-        },
-        {
-          "title": "Icy Moons Are Ocean Worlds",
-          "link": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-06T13:07:52.000Z"
         },
         {
           "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
