@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-07T22:54:40.986Z",
+  "updated": "2026-09-08T00:48:30.422Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+          "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+          "published": "2026-09-07T23:29:12.000Z"
+        },
+        {
+          "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+          "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+          "published": "2026-09-07T23:06:14.000Z"
+        },
+        {
+          "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+          "published": "2026-09-07T23:05:12.000Z"
+        },
         {
           "title": "Food price cap plans giving farmer 'sleepless nights'",
           "link": "https://www.bbc.co.uk/news/articles/c9w41xw74p8o?at_medium=RSS&at_campaign=rss",
@@ -171,30 +195,6 @@
           "category": "markets",
           "snippet": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
           "published": "2026-09-05T02:13:21.000Z"
-        },
-        {
-          "title": "Why are European countries moving their gold out of North America?",
-          "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
-          "published": "2026-09-05T01:42:09.000Z"
-        },
-        {
-          "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
-          "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels.",
-          "published": "2026-09-05T01:03:35.000Z"
-        },
-        {
-          "title": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
-          "link": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.",
-          "published": "2026-09-04T20:17:13.000Z"
         }
       ]
     },
@@ -202,20 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Secure temporary file sharing for AI agents and humans",
+          "link": "https://github.com/aispace-sh/aispace-client",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-07T23:59:58.000Z"
+        },
+        {
+          "title": "WeatherNext 3: Our most advanced global weather AI model",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-07T23:56:41.000Z"
+        },
+        {
+          "title": "TALA Is Open-Source",
+          "link": "https://d2lang.com/blog/tala-is-open-source/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-07T23:37:42.000Z"
+        },
+        {
           "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
           "link": "https://github.com/Sadpainy/Stuxnet",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-07T22:12:38.000Z"
-        },
-        {
-          "title": "The Education of a Doomer",
-          "link": "https://borretti.me/article/the-education-of-a-doomer",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-07T21:19:12.000Z"
         },
         {
           "title": "Working on Economics with Fable 5",
@@ -234,7 +250,7 @@
           "published": "2026-09-07T20:34:32.000Z"
         },
         {
-          "title": "Leaving VMware Just Got Harder After Broadcom Pulled VDDK Downloads",
+          "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
           "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
           "source": "Hacker News",
           "category": "tech",
@@ -376,28 +392,20 @@
           "category": "tech",
           "snippet": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and…",
           "published": "2026-09-06T19:04:22.000Z"
-        },
-        {
-          "title": "The Dataflow Model Revisited",
-          "link": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-06T18:10:53.000Z"
-        },
-        {
-          "title": "Boox’s tiny Picco e-reader should land in November",
-          "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices,…",
-          "published": "2026-09-06T16:28:58.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Check That Email Address Field Before Hitting Send On Those Judge Insults See Generally",
+          "link": "https://abovethelaw.com/2026/09/check-that-email-address-field-before-hitting-send-on-those-judge-insults-see-generally/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Can't Blame AI For This Email Disaster: The NCAA handed its Rhode Island case over to Foley Lardner after its Holland Knight lawyers were caught suggesting the judge was \"dumb\" and referring to the plaintiff as “poop man.” It came out…",
+          "published": "2026-09-07T23:01:50.000Z"
+        },
         {
           "title": "Missouri organizer urges Supreme Court to leave ruling in place preventing use of congressional map expected to benefit Republicans",
           "link": "https://www.scotusblog.com/2026/09/missouri-organizer-urges-supreme-court-to-leave-ruling-in-place-preventing-use-of-congressional-/",
@@ -581,14 +589,6 @@
           "category": "legal",
           "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. Moments after the Supreme Court reaffirmed its expansive understanding of…",
           "published": "2026-09-04T13:30:00.000Z"
-        },
-        {
-          "title": "Mail-in voting returns to the interim docket",
-          "link": "https://www.scotusblog.com/2026/09/mail-in-voting-returns-to-the-interim-docket/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, this morning, the court will release its third and final summer order list.",
-          "published": "2026-09-04T13:00:00.000Z"
         }
       ]
     }
