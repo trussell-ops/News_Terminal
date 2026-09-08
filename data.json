@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-08T17:49:24.841Z",
+  "updated": "2026-09-08T20:29:22.208Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
+          "link": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies.",
+          "published": "2026-09-08T20:15:28.000Z"
+        },
+        {
+          "title": "Major UK airports hit by air traffic control problems",
+          "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+          "published": "2026-09-08T17:56:46.000Z"
+        },
         {
           "title": "Sapporo to move some beer production from Canada to US after tariffs",
           "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
@@ -11,14 +27,6 @@
           "category": "markets",
           "snippet": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
           "published": "2026-09-08T17:41:42.000Z"
-        },
-        {
-          "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
-          "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
-          "published": "2026-09-08T16:02:38.000Z"
         },
         {
           "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
           "published": "2026-09-07T14:36:37.000Z"
-        },
-        {
-          "title": "Pre-loved uniforms save families £69, says charity",
-          "link": "https://www.bbc.co.uk/news/articles/c23x054g889o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Clothing Coventry has helped provide thousands of children with second-hand school uniform.",
-          "published": "2026-09-07T08:54:15.000Z"
         }
       ]
     },
@@ -202,7 +202,111 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+          "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then…",
+          "published": "2026-09-08T20:16:09.000Z"
+        },
+        {
+          "title": "Animation in Bevy: The Big Picture",
+          "link": "https://glocq.com/en/blog/20260827/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-08T20:08:44.000Z"
+        },
+        {
+          "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+          "link": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Republican victory means stations must offer lowest ad prices to political parties.",
+          "published": "2026-09-08T19:50:00.000Z"
+        },
+        {
+          "title": "OpenAI fought dirty on career-making math problem",
+          "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-08T19:47:13.000Z"
+        },
+        {
+          "title": "Muse: Meta's personal AI agent, features and capabilities",
+          "link": "https://ai.meta.com/muse/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-08T19:25:00.000Z"
+        },
+        {
+          "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+          "link": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
+          "published": "2026-09-08T19:12:53.000Z"
+        },
+        {
+          "title": "Function Arguments Are Not Function Colors",
+          "link": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-08T19:04:26.000Z"
+        },
+        {
+          "title": "Meta bets on AI agent Muse to catch up in AI race",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul…",
+          "published": "2026-09-08T19:00:00.000Z"
+        },
+        {
+          "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+          "link": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
+          "published": "2026-09-08T18:53:23.000Z"
+        },
+        {
+          "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+          "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+          "published": "2026-09-08T18:43:09.000Z"
+        },
+        {
+          "title": "ChatGPT Images 2.5",
+          "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-08T18:37:51.000Z"
+        },
+        {
+          "title": "100s of flights cancelled at UK airports due to ATC issue",
+          "link": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-08T18:26:27.000Z"
+        },
+        {
+          "title": "Update to Google’s AI weather model improves forecast accuracy",
+          "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Like traditional weather models, it benefits from an expanded set of inputs.",
+          "published": "2026-09-08T18:00:56.000Z"
+        },
+        {
+          "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
           "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
           "source": "The Verge",
           "category": "tech",
@@ -224,22 +328,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-08T17:13:21.000Z"
-        },
-        {
-          "title": "OUI-1: world's first model for Generative UI",
-          "link": "https://www.openui.com/blog/oui-1",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T17:07:54.000Z"
-        },
-        {
-          "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
-          "link": "https://cepr.org/publications/dp21706",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T17:00:45.000Z"
         },
         {
           "title": "Show HN: LLM Attention Visualization",
@@ -290,22 +378,6 @@
           "published": "2026-09-08T16:20:58.000Z"
         },
         {
-          "title": "LG TVs caught spying even when offline or on standby",
-          "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T16:07:08.000Z"
-        },
-        {
-          "title": "Why I'm Not Excited About the Graphene OS and Motorola Partnership",
-          "link": "https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T16:07:04.000Z"
-        },
-        {
           "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
           "link": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
           "source": "The Verge",
@@ -320,84 +392,44 @@
           "category": "tech",
           "snippet": "Blast your opponents in 1v1 arcade space battles like it's 1992 all over again.",
           "published": "2026-09-08T16:05:32.000Z"
-        },
-        {
-          "title": "The White House pulls its racist Tetris clone",
-          "link": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The White House has taken down its racist Tetris ripoff days after launching a website dedicated to \"arcade\" games, as spotted earlier by Kotaku. The Tetris clone, called \"Build the Wall,\" involved stacking different-sized blocks to…",
-          "published": "2026-09-08T16:00:51.000Z"
-        },
-        {
-          "title": "C*: Unifying Programming and Verification in C",
-          "link": "https://arxiv.org/abs/2504.02246",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T15:56:56.000Z"
-        },
-        {
-          "title": "Disappointed Optimists",
-          "link": "https://cwodtke.com/disappointed-optimists/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T15:13:56.000Z"
-        },
-        {
-          "title": "Pusheen’s first game is coming to Apple Arcade",
-          "link": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn,…",
-          "published": "2026-09-08T15:07:13.000Z"
-        },
-        {
-          "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
-          "link": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique options available,…",
-          "published": "2026-09-08T15:03:07.000Z"
-        },
-        {
-          "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
-          "link": "https://logicola.org/blog/the-new-logicola",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T15:00:43.000Z"
-        },
-        {
-          "title": "Google DeepMind Releases AlphaGenome Atlas",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T14:55:45.000Z"
-        },
-        {
-          "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
-          "link": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T14:54:29.000Z"
-        },
-        {
-          "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-          "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T14:49:19.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "B2B Agents Will Need Their Own Contracting Playbooks",
+          "link": "https://abovethelaw.com/2026/09/b2b-agents-will-need-their-own-contracting-playbooks/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Preparing playbooks for agents may finally force companies to improve playbooks for everyone. The post B2B Agents Will Need Their Own Contracting Playbooks appeared first on Above the Law .",
+          "published": "2026-09-08T20:04:00.000Z"
+        },
+        {
+          "title": "Lindsay Clancy s Lawyer Asks Trump To Pardon His Client",
+          "link": "https://abovethelaw.com/2026/09/lindsay-clancys-lawyer-asks-trump-to-pardon-his-client/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "There's just one huge problem... The post Lindsay Clancy s Lawyer Asks Trump To Pardon His Client appeared first on Above the Law .",
+          "published": "2026-09-08T19:13:00.000Z"
+        },
+        {
+          "title": "Willy Wonka’s In-House Counsel Is Back And Handling Jurassic Park s Legal Problems",
+          "link": "https://abovethelaw.com/2026/09/willy-wonkas-in-house-counsel-is-back-and-handling-jurassic-parks-legal-problems/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Life... and legal disasters... find a way. The post Willy Wonka’s In-House Counsel Is Back And Handling Jurassic Park s Legal Problems appeared first on Above the Law .",
+          "published": "2026-09-08T18:29:00.000Z"
+        },
+        {
+          "title": "Citing election-fraud concerns, Trump administration brings dispute over voter database to the Supreme Court",
+          "link": "https://www.scotusblog.com/2026/09/citing-election-fraud-concerns-trump-administration-brings-dispute-over-voter-database-to-the-su/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "For the second time in three days, the Trump administration on Tuesday came to the Supreme Court, asking the justices to clear the way for it to implement a program that it says is intended to combat election fraud. U.S. Solicitor General…",
+          "published": "2026-09-08T17:52:34.000Z"
+        },
         {
           "title": "The ILTACON Wrap-Up",
           "link": "https://abovethelaw.com/2026/09/the-iltacon-wrap-up/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "After downplaying misconduct claims against Judge Eleanor Ross, complaint against Judge Roy Altman gets thrown out. The post Chief Judge Pryor Tosses Judge Altman Terror Scarf Complaint, Showing Off Bipartisan Leniency Toward Misconduct…",
           "published": "2026-09-04T20:33:00.000Z"
-        },
-        {
-          "title": "What It s Really Like To Be General Counsel",
-          "link": "https://abovethelaw.com/2026/09/what-its-really-like-to-be-general-counsel/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Legal expertise is table stakes, not a differentiator. Here's what you need to set yourself apart. The post What It s Really Like To Be General Counsel appeared first on Above the Law .",
-          "published": "2026-09-04T20:01:00.000Z"
-        },
-        {
-          "title": "Lindsay Clancy s Lawyer Tells Us How He Really Feels About His Case",
-          "link": "https://abovethelaw.com/2026/09/lindsay-clancys-lawyer-tells-us-how-he-really-feels-about-his-case/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The importance of candor. The post Lindsay Clancy s Lawyer Tells Us How He Really Feels About His Case appeared first on Above the Law .",
-          "published": "2026-09-04T19:40:06.000Z"
-        },
-        {
-          "title": "7 Hospital Mergers From Summer 2026",
-          "link": "https://medcitynews.com/2026/09/hospital-mergers-summer-2026/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A roundup of the seven most notable hospital mergers and acquisitions announced or completed this summer, including Prisma Health’s acquisition of Erlanger Health and Sanford Health’s purchase of North Memorial Health. The post 7 Hospital…",
-          "published": "2026-09-04T19:33:00.000Z"
-        },
-        {
-          "title": "Google Business Profile Tactics That Actually Move Rankings",
-          "link": "https://abovethelaw.com/2026/09/google-business-profile-tactics-that-actually-move-rankings/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Everything you need to know to make Google work for you. The post Google Business Profile Tactics That Actually Move Rankings appeared first on Above the Law .",
-          "published": "2026-09-04T19:01:00.000Z"
         }
       ]
     }
