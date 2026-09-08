@@ -1,24 +1,48 @@
 {
-  "updated": "2026-09-08T20:29:22.208Z",
+  "updated": "2026-09-08T22:53:50.126Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
+          "link": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
+          "published": "2026-09-08T21:59:13.000Z"
+        },
+        {
+          "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+          "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+          "published": "2026-09-08T21:46:21.000Z"
+        },
+        {
+          "title": "LIV Golf files for Chapter 11 bankruptcy protection",
+          "link": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "As part of the proposed bankruptcy deal, the upstart golf venture is expected to be majority owned by its players.",
+          "published": "2026-09-08T21:45:55.000Z"
+        },
         {
           "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
           "link": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies.",
-          "published": "2026-09-08T20:15:28.000Z"
+          "published": "2026-09-08T21:37:12.000Z"
         },
         {
-          "title": "Major UK airports hit by air traffic control problems",
-          "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+          "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+          "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
-          "published": "2026-09-08T17:56:46.000Z"
+          "snippet": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+          "published": "2026-09-08T20:57:09.000Z"
         },
         {
           "title": "Sapporo to move some beer production from Canada to US after tariffs",
@@ -171,30 +195,6 @@
           "category": "markets",
           "snippet": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
           "published": "2026-09-07T16:05:37.000Z"
-        },
-        {
-          "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-          "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
-          "published": "2026-09-07T15:41:52.000Z"
-        },
-        {
-          "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-          "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
-          "published": "2026-09-07T14:57:30.000Z"
-        },
-        {
-          "title": "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
-          "link": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
-          "published": "2026-09-07T14:36:37.000Z"
         }
       ]
     },
@@ -202,12 +202,76 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Sony isn’t phasing out discs quite as quickly as we thought",
+          "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being…",
+          "published": "2026-09-08T21:52:13.000Z"
+        },
+        {
+          "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+          "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-08T21:47:38.000Z"
+        },
+        {
+          "title": "How to Build a Printer",
+          "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-08T21:22:11.000Z"
+        },
+        {
+          "title": "Tao: Open math problems being non-renewably mined by AI",
+          "link": "https://mathstodon.xyz/@tao/117237320796901560",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-08T21:00:52.000Z"
+        },
+        {
+          "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the…",
+          "published": "2026-09-08T20:53:52.000Z"
+        },
+        {
+          "title": "Rivian’s Also apologizes for delays in shipping futuristic e-bikes",
+          "link": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C…",
+          "published": "2026-09-08T20:46:56.000Z"
+        },
+        {
+          "title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+          "link": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation,…",
+          "published": "2026-09-08T20:39:49.000Z"
+        },
+        {
           "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
           "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
           "source": "The Verge",
           "category": "tech",
           "snippet": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then…",
           "published": "2026-09-08T20:16:09.000Z"
+        },
+        {
+          "title": "Mercury 2.5",
+          "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-08T20:14:52.000Z"
         },
         {
           "title": "Animation in Bevy: The Big Picture",
@@ -218,20 +282,28 @@
           "published": "2026-09-08T20:08:44.000Z"
         },
         {
+          "title": "Kimi K3 (2.8T) at 1 token&#x2F;s on a MacBook Pro, streamed from four SSDs",
+          "link": "https://github.com/argonautlabsai/deltafin",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-08T20:07:55.000Z"
+        },
+        {
+          "title": "Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
+          "link": "https://twitter.com/SouthPark/status/2097364141237539116",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-08T20:06:33.000Z"
+        },
+        {
           "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
           "link": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Republican victory means stations must offer lowest ad prices to political parties.",
           "published": "2026-09-08T19:50:00.000Z"
-        },
-        {
-          "title": "OpenAI fought dirty on career-making math problem",
-          "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T19:47:13.000Z"
         },
         {
           "title": "Muse: Meta's personal AI agent, features and capabilities",
@@ -282,22 +354,6 @@
           "published": "2026-09-08T18:43:09.000Z"
         },
         {
-          "title": "ChatGPT Images 2.5",
-          "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T18:37:51.000Z"
-        },
-        {
-          "title": "100s of flights cancelled at UK airports due to ATC issue",
-          "link": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T18:26:27.000Z"
-        },
-        {
           "title": "Update to Google’s AI weather model improves forecast accuracy",
           "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
           "source": "Ars Technica",
@@ -336,68 +392,44 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-08T16:59:41.000Z"
-        },
-        {
-          "title": "Google complies with EU rules for travel searches, says the new results stink",
-          "link": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The EU continues to go after Google search practices it sees as anticompetitive.",
-          "published": "2026-09-08T16:49:55.000Z"
-        },
-        {
-          "title": "Connecting the Machines",
-          "link": "https://herdr.dev/blog/connecting-the-machines/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T16:43:55.000Z"
-        },
-        {
-          "title": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-          "link": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Trump admin's propaganda \"arcade\" hits some apparent legal limits.",
-          "published": "2026-09-08T16:31:21.000Z"
-        },
-        {
-          "title": "Y Combinator Early Access Network",
-          "link": "https://events.ycombinator.com/yc-early-access-fall-26",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-08T16:31:01.000Z"
-        },
-        {
-          "title": "The secret to protecting next-gen spacecraft might be eggshells",
-          "link": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "3D-printed aluminum eggshell arrays filled with water proved more effective at impact resistance.",
-          "published": "2026-09-08T16:20:58.000Z"
-        },
-        {
-          "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
-          "link": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was officially launched in…",
-          "published": "2026-09-08T16:06:56.000Z"
-        },
-        {
-          "title": "The combat demo for Free Stars: Children of Infinity is out, and it's free",
-          "link": "https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Blast your opponents in 1v1 arcade space battles like it's 1992 all over again.",
-          "published": "2026-09-08T16:05:32.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Biglaw Attorney Who Gave Corporate America Its Deadliest Defense",
+          "link": "https://abovethelaw.com/2026/09/the-biglaw-attorney-who-gave-corporate-america-its-deadliest-defense/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A single defensive tactic reshaped the takeover wars. The post The Biglaw Attorney Who Gave Corporate America Its Deadliest Defense appeared first on Above the Law .",
+          "published": "2026-09-08T22:16:00.000Z"
+        },
+        {
+          "title": "Justice Kavanaugh turns down request from Missouri to use congressional map expected to aid Republicans",
+          "link": "https://www.scotusblog.com/2026/09/justice-kavanaugh-turns-down-request-from-missouri-to-use-congressional-map-expected-to-aid-repu/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Justice Brett Kavanaugh on Tuesday blocked Missouri from using a new congressional map, intended to give Republicans an additional seat in the U.S. House of Representatives, in the November elections. In a brief order sent to reporters on…",
+          "published": "2026-09-08T22:14:43.000Z"
+        },
+        {
+          "title": "Pangram Loving Law Professors Have Reached Peak AI Slop Brain",
+          "link": "https://abovethelaw.com/2026/09/pangram-loving-law-professors-have-reached-peak-ai-slop-brain/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Pangram-mania is everywhere and all it proves is how little its fans care about critical thinking. The post Pangram Loving Law Professors Have Reached Peak AI Slop Brain appeared first on Above the Law .",
+          "published": "2026-09-08T21:33:48.000Z"
+        },
+        {
+          "title": "ILTACON News Round-Up Part 4, The Business Of Law: Litera, Aderant, Oddr, TRĒ AI, Intapp",
+          "link": "https://www.lawnext.com/2026/09/iltacon-news-round-up-part-4-the-business-of-law-litera-aderant-oddr-tre-ai-intapp.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Last week’s ILTACON brought what may have been the busiest news cycle for this conference, with a torrent of product announcements. The post ILTACON News Round-Up Part 4, The Business Of Law: Litera, Aderant, Oddr, TRĒ AI, Intapp appeared…",
+          "published": "2026-09-08T20:49:01.000Z"
+        },
         {
           "title": "B2B Agents Will Need Their Own Contracting Playbooks",
           "link": "https://abovethelaw.com/2026/09/b2b-agents-will-need-their-own-contracting-playbooks/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "Turns Out 'I Forgot' Isn't A Great Discovery Strategy: Just ask Skadden and Kirkland. She Don't Lie/She Don't Lie/Cocaine : Missouri legislative candidate arrested for trying to plant cocaine on primary opponent . The Most Forgiving Judge…",
           "published": "2026-09-04T22:33:00.000Z"
-        },
-        {
-          "title": "A Former President Returned To The Supreme Court To Argue A Case",
-          "link": "https://abovethelaw.com/2026/09/a-former-president-returned-to-the-supreme-court-to-argue-a-case/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "One of the last great services of his life. The post A Former President Returned To The Supreme Court To Argue A Case appeared first on Above the Law .",
-          "published": "2026-09-04T21:44:00.000Z"
-        },
-        {
-          "title": "How Appealing Weekly Roundup",
-          "link": "https://abovethelaw.com/2026/09/how-appealing-weekly-roundup-184/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
-          "published": "2026-09-04T21:12:00.000Z"
-        },
-        {
-          "title": "Court grants request from Republican groups to pause ruling, for now, on political broadcasting rates",
-          "link": "https://www.scotusblog.com/2026/09/court-grants-request-from-republican-groups-to-pause-ruling-for-now-on-political-broadcasting-ra/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Friday cleared the way for political parties and joint fundraising committees, at least for now, to receive favorable advertising rates in the upcoming midterm elections. In a four-page, unsigned opinion , the…",
-          "published": "2026-09-04T20:56:52.000Z"
-        },
-        {
-          "title": "Chief Judge Pryor Tosses Judge Altman Terror Scarf Complaint, Showing Off Bipartisan Leniency Toward Misconduct Claims",
-          "link": "https://abovethelaw.com/2026/09/chief-judge-pryor-tosses-judge-altman-terror-scarf-complaint-showing-off-bipartisan-leniency-toward-misconduct-claims/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "After downplaying misconduct claims against Judge Eleanor Ross, complaint against Judge Roy Altman gets thrown out. The post Chief Judge Pryor Tosses Judge Altman Terror Scarf Complaint, Showing Off Bipartisan Leniency Toward Misconduct…",
-          "published": "2026-09-04T20:33:00.000Z"
         }
       ]
     }
