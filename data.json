@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-09T21:02:55.276Z",
+  "updated": "2026-09-09T23:23:24.001Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "The one thing you need to do to succeed - according to top bosses",
+          "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+          "published": "2026-09-09T23:02:20.000Z"
+        },
         {
           "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
           "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
@@ -187,20 +195,84 @@
           "category": "markets",
           "snippet": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
           "published": "2026-09-08T20:57:09.000Z"
-        },
-        {
-          "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
-          "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
-          "published": "2026-09-08T15:19:43.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+          "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation…",
+          "published": "2026-09-09T23:00:04.000Z"
+        },
+        {
+          "title": "The black iPhone Pro returns",
+          "link": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice.…",
+          "published": "2026-09-09T22:37:51.000Z"
+        },
+        {
+          "title": "The incomplete history of Duo devices",
+          "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google, but it's…",
+          "published": "2026-09-09T22:23:35.000Z"
+        },
+        {
+          "title": "Automattic CEO Matt Mullenweg placed on leave",
+          "link": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial officer Mark Davies…",
+          "published": "2026-09-09T22:15:52.000Z"
+        },
+        {
+          "title": "South Park creators rename show 'South America'",
+          "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-09T21:53:43.000Z"
+        },
+        {
+          "title": "It’s the year of smartphone price hikes",
+          "link": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the price hike by…",
+          "published": "2026-09-09T21:52:43.000Z"
+        },
+        {
+          "title": "Suno releases its first AI music model made with record industry help",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous…",
+          "published": "2026-09-09T21:42:19.000Z"
+        },
+        {
+          "title": "Matt Mullenweg put on 'leave of absence'",
+          "link": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-09T21:28:56.000Z"
+        },
+        {
+          "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly…",
+          "published": "2026-09-09T21:16:34.000Z"
+        },
         {
           "title": "Read the Apple document explaining how new listening features still protect your privacy",
           "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
@@ -250,22 +322,6 @@
           "published": "2026-09-09T19:31:55.000Z"
         },
         {
-          "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-          "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera…",
-          "published": "2026-09-09T19:30:12.000Z"
-        },
-        {
-          "title": "iPhone 18 Pro and Pro Max: Our first hands-on impressions",
-          "link": "https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "We've just gotten our hands on the iPhone 18 Pro and Pro Max at Apple Park following the company's \"Surprise and shine\" presentation. The new phones look quite similar to the previous iPhone 17 Pro lineup, keeping the same general design,…",
-          "published": "2026-09-09T19:26:36.000Z"
-        },
-        {
           "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
           "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
           "source": "Ars Technica",
@@ -280,22 +336,6 @@
           "category": "tech",
           "snippet": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
           "published": "2026-09-09T18:58:24.000Z"
-        },
-        {
-          "title": "Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4",
-          "link": "https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "After Apple wrapped up its \"Surprise and shine\" event today, we were able to get a look at the new Apple Watch Series 12 and Ultra 4. Both of the new watches launch September 18th, with preorders available starting today. The Apple Watch…",
-          "published": "2026-09-09T18:53:48.000Z"
-        },
-        {
-          "title": "Here’s how the new iPhone 18 Pro stacks up to the last-gen models",
-          "link": "https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple's release cadence for the latest iPhones is unusual. It'll start with the 18 Pro models, then with the foldable iPhone Duo releasing in October for $1,999. It hasn't confirmed when its base iPhone 18 model will launch. So this post…",
-          "published": "2026-09-09T18:53:43.000Z"
         },
         {
           "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
@@ -314,30 +354,6 @@
           "published": "2026-09-09T18:39:36.000Z"
         },
         {
-          "title": "Hands-on with the foldable iPhone Duo",
-          "link": "https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The first foldable iPhone is finally here, and following its announcement, we got the chance to try the phone for ourselves. We've long been told that Apple would make a foldable iPhone once the tech was good enough - has it been worth…",
-          "published": "2026-09-09T18:38:40.000Z"
-        },
-        {
-          "title": "Apple is raising iPhone prices by $100 on all of its old models",
-          "link": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Following Apple's \"Surprise and shine\" event that saw the announcement of the iPhone Duo and the iPhone 18 Pro, the company increased the price on all of its last-gen iPhones that are still available for purchase. The iPhone 16 sold for…",
-          "published": "2026-09-09T18:30:24.000Z"
-        },
-        {
-          "title": "Apple iPhone Duo launch event: The 5 biggest announcements",
-          "link": "https://www.theverge.com/tech/991965/apple-iphone-duo-launch-event-biggest-announcements",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple just wrapped up its first iPhone launch event with CEO John Ternus at the helm, and it did not disappoint. We got a look at Apple's long-rumored foldable iPhone Duo, along with the next generation of AirPods and the Apple Watch.…",
-          "published": "2026-09-09T18:24:59.000Z"
-        },
-        {
           "title": "iPhone Duo",
           "link": "https://www.apple.com/iphone-duo/",
           "source": "Hacker News",
@@ -352,14 +368,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-09T17:57:55.000Z"
-        },
-        {
-          "title": "Apple Watch Ultra 4",
-          "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-09T17:56:57.000Z"
         },
         {
           "title": "Apple Watch Series 12",
@@ -384,20 +392,44 @@
           "category": "tech",
           "snippet": "There's also a new thermal management system, reducing overheating.",
           "published": "2026-09-09T17:38:53.000Z"
-        },
-        {
-          "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-          "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-09T17:33:20.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Missouri Gerrymander Case Flunks Remedial Law School",
+          "link": "https://abovethelaw.com/2026/09/missouri-gerrymander-case-flunks-remedial-law-school/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Do you remember CivPro better than this federal judge? The post Missouri Gerrymander Case Flunks Remedial Law School appeared first on Above the Law .",
+          "published": "2026-09-09T23:00:00.000Z"
+        },
+        {
+          "title": "Missouri congressional redistricting dispute returns to the Supreme Court",
+          "link": "https://www.scotusblog.com/2026/09/missouri-congressional-redistricting-dispute-returns-to-the-supreme-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Just one day after Justice Brett Kavanaugh left in place a ruling by the Missouri Supreme Court that barred Missouri from using a new congressional map, intended to give Republicans an additional seat in the U.S. House of Representatives,…",
+          "published": "2026-09-09T22:48:02.000Z"
+        },
+        {
+          "title": "From The Port to License Plates: How To Register An Imported Car In Your State",
+          "link": "https://abovethelaw.com/2026/09/from-the-port-to-license-plates-how-to-register-an-imported-car-in-your-state/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Importing an overseas car is not for everyone. The post From The Port to License Plates: How To Register An Imported Car In Your State appeared first on Above the Law .",
+          "published": "2026-09-09T22:15:00.000Z"
+        },
+        {
+          "title": "Law Department 2.0: When Clients Take Control (Part II)",
+          "link": "https://abovethelaw.com/2026/09/law-department-2-0-when-clients-take-control-part-ii/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Here are three likely power shifts that tilt the seesaw toward clients. The post Law Department 2.0: When Clients Take Control (Part II) appeared first on Above the Law .",
+          "published": "2026-09-09T21:35:00.000Z"
+        },
         {
           "title": "‘Enough Is Enough’: Patrick Clancy s Lawyer Puts Conspiracy Theorists On Notice",
           "link": "https://abovethelaw.com/2026/09/enough-is-enough-patrick-clancys-lawyer-puts-conspiracy-theorists-on-notice/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "Pangram-mania is everywhere and all it proves is how little its fans care about critical thinking. The post Pangram Loving Law Professors Have Reached Peak AI Slop Brain appeared first on Above the Law .",
           "published": "2026-09-08T21:33:48.000Z"
-        },
-        {
-          "title": "ILTACON News Round-Up Part 4, The Business Of Law: Litera, Aderant, Oddr, TRĒ AI, Intapp",
-          "link": "https://www.lawnext.com/2026/09/iltacon-news-round-up-part-4-the-business-of-law-litera-aderant-oddr-tre-ai-intapp.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Last week’s ILTACON brought what may have been the busiest news cycle for this conference, with a torrent of product announcements. The post ILTACON News Round-Up Part 4, The Business Of Law: Litera, Aderant, Oddr, TRĒ AI, Intapp appeared…",
-          "published": "2026-09-08T20:49:01.000Z"
-        },
-        {
-          "title": "B2B Agents Will Need Their Own Contracting Playbooks",
-          "link": "https://abovethelaw.com/2026/09/b2b-agents-will-need-their-own-contracting-playbooks/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Preparing playbooks for agents may finally force companies to improve playbooks for everyone. The post B2B Agents Will Need Their Own Contracting Playbooks appeared first on Above the Law .",
-          "published": "2026-09-08T20:04:00.000Z"
-        },
-        {
-          "title": "Lindsay Clancy s Lawyer Asks Trump To Pardon His Client",
-          "link": "https://abovethelaw.com/2026/09/lindsay-clancys-lawyer-asks-trump-to-pardon-his-client/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "There's just one huge problem... The post Lindsay Clancy s Lawyer Asks Trump To Pardon His Client appeared first on Above the Law .",
-          "published": "2026-09-08T19:13:00.000Z"
-        },
-        {
-          "title": "Willy Wonka’s In-House Counsel Is Back And Handling Jurassic Park s Legal Problems",
-          "link": "https://abovethelaw.com/2026/09/willy-wonkas-in-house-counsel-is-back-and-handling-jurassic-parks-legal-problems/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Life... and legal disasters... find a way. The post Willy Wonka’s In-House Counsel Is Back And Handling Jurassic Park s Legal Problems appeared first on Above the Law .",
-          "published": "2026-09-08T18:29:00.000Z"
         }
       ]
     }
