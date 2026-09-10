@@ -1,9 +1,41 @@
 {
-  "updated": "2026-09-10T06:11:06.842Z",
+  "updated": "2026-09-10T11:34:51.662Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
+          "link": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Macy's posted strong second fiscal quarter results on Thursday and raised its full-year guidance.",
+          "published": "2026-09-10T11:29:46.000Z"
+        },
+        {
+          "title": "England's mayors to be given power to introduce tourist tax",
+          "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+          "published": "2026-09-10T11:02:47.000Z"
+        },
+        {
+          "title": "Primark finally set to launch home deliveries",
+          "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The retailer launches the service four years after making its first foray into internet shopping.",
+          "published": "2026-09-10T10:02:26.000Z"
+        },
+        {
+          "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+          "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+          "published": "2026-09-10T09:32:34.000Z"
+        },
         {
           "title": "Buy now or wait and hope? Families face gamble on heating oil",
           "link": "https://www.bbc.co.uk/news/articles/crk36z3rmnzo?at_medium=RSS&at_campaign=rss",
@@ -21,7 +53,7 @@
           "published": "2026-09-10T05:00:25.000Z"
         },
         {
-          "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+          "title": "Tax banks to cut energy bills, unions tell Burnham",
           "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -29,7 +61,7 @@
           "published": "2026-09-10T00:06:33.000Z"
         },
         {
-          "title": "AI is becoming harder to control – can humans stay in charge?",
+          "title": "Why some experts increasingly fear AI will take over",
           "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -43,14 +75,6 @@
           "category": "markets",
           "snippet": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
           "published": "2026-09-09T23:02:20.000Z"
-        },
-        {
-          "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-          "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-          "published": "2026-09-09T20:00:33.000Z"
         },
         {
           "title": "What a historic summer box office reveals about massive shifts in the theatrical industry",
@@ -171,30 +195,6 @@
           "category": "markets",
           "snippet": "More companies are tying career progression to AI use: is that fair?",
           "published": "2026-09-08T23:05:23.000Z"
-        },
-        {
-          "title": "I'm 27 and I've already written my will - here's why",
-          "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
-          "published": "2026-09-08T23:04:17.000Z"
-        },
-        {
-          "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
-          "link": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
-          "published": "2026-09-08T21:59:13.000Z"
-        },
-        {
-          "title": "LIV Golf files for Chapter 11 bankruptcy protection",
-          "link": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "As part of the proposed bankruptcy deal, the upstart golf venture is expected to be majority owned by its players.",
-          "published": "2026-09-08T21:45:55.000Z"
         }
       ]
     },
@@ -202,23 +202,103 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "OpenAI have no mathematicians capable of understanding what they put out",
-          "link": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
+          "title": "Mathematicians want proof OpenAI didn't use their work",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-10T05:01:50.000Z"
+          "published": "2026-09-10T11:18:58.000Z"
         },
         {
-          "title": "OpenAI might have stolen another major proof",
-          "link": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+          "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
+          "link": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-10T04:19:48.000Z"
+          "published": "2026-09-10T10:36:00.000Z"
         },
         {
-          "title": "All grown-ups were once children… but only few of them remember it",
+          "title": "PlayStation cancels Kojima's PHYSINT, Xbox steps in",
+          "link": "https://twitter.com/hideo_kojima_en/status/2097877506401681753",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-10T10:35:09.000Z"
+        },
+        {
+          "title": "Show HN: The same nine streaming subscriptions cost $702&#x2F;year more than in 2021",
+          "link": "https://honestlyranked.com/guides/streaming-price-increases/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-10T10:13:59.000Z"
+        },
+        {
+          "title": "The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera",
+          "link": "https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple always makes a big show of the latest cameras in its phones, and the major talking point of the iPhone 18 Pro is about the new variable aperture. Both the iPhone 18 Pro and Pro Max have an adjustable mechanical iris in their main…",
+          "published": "2026-09-10T10:00:00.000Z"
+        },
+        {
+          "title": "The Trump phone just got a $250 price hike",
+          "link": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead quietly changing its website…",
+          "published": "2026-09-10T09:13:04.000Z"
+        },
+        {
+          "title": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
+          "link": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when it's docked and in…",
+          "published": "2026-09-10T09:07:00.000Z"
+        },
+        {
+          "title": "What algorithm did Windows XP use to choose your initial user picture?",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-10T09:04:14.000Z"
+        },
+        {
+          "title": "Xbox picks up Kojima s Physint after PlayStation dropped it",
+          "link": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productions, and Kojima…",
+          "published": "2026-09-10T08:22:40.000Z"
+        },
+        {
+          "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+          "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and…",
+          "published": "2026-09-10T07:00:00.000Z"
+        },
+        {
+          "title": "I think I hate the internet",
+          "link": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-10T06:12:23.000Z"
+        },
+        {
+          "title": "DeepSeek v4.1 Flash",
+          "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-10T06:11:05.000Z"
+        },
+        {
+          "title": "All grown-ups were once children, but only few of them remember it",
           "link": "https://mathstodon.xyz/@tao/117244102901892965",
           "source": "Hacker News",
           "category": "tech",
@@ -226,20 +306,12 @@
           "published": "2026-09-10T04:04:38.000Z"
         },
         {
-          "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+          "title": "Training a 3.8B LLM to 0.384 CORE for $998",
           "link": "https://hugovergnes.github.io/little-lm-3-8b/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-10T02:04:11.000Z"
-        },
-        {
-          "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-          "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-10T01:59:51.000Z"
         },
         {
           "title": "Show HN: What if the speed of light was 5 km&#x2F;h?",
@@ -290,52 +362,12 @@
           "published": "2026-09-09T22:15:52.000Z"
         },
         {
-          "title": "It’s the year of smartphone price hikes",
-          "link": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the price hike by…",
-          "published": "2026-09-09T21:52:43.000Z"
-        },
-        {
-          "title": "Suno releases its first AI music model made with record industry help",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous…",
-          "published": "2026-09-09T21:42:19.000Z"
-        },
-        {
-          "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly…",
-          "published": "2026-09-09T21:16:34.000Z"
-        },
-        {
           "title": "4 groups caught using the same Chrome and Windows exploit kit",
           "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
           "published": "2026-09-09T20:55:02.000Z"
-        },
-        {
-          "title": "Read the Apple document explaining how new listening features still protect your privacy",
-          "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a…",
-          "published": "2026-09-09T20:44:43.000Z"
-        },
-        {
-          "title": "How the new Apple Watches compare to the last-gen models",
-          "link": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at its \"Surprise and shine\" event. The new watches feature sizable improvements to their health sensors and tracking, plus the ability to create brief audio transcriptions…",
-          "published": "2026-09-09T20:42:51.000Z"
         },
         {
           "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
           "published": "2026-09-09T20:06:28.000Z"
-        },
-        {
-          "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
-          "link": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen, two back cameras, Touch ID for authentication, an IP68 rating, and all sorts of slick software…",
-          "published": "2026-09-09T19:45:00.000Z"
-        },
-        {
-          "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-          "link": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Apple's first foldable can be yours next month.",
-          "published": "2026-09-09T19:42:00.000Z"
-        },
-        {
-          "title": "When it comes to Beatles references, scientists can't let it be",
-          "link": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers.",
-          "published": "2026-09-09T19:31:55.000Z"
-        },
-        {
-          "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
-          "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Four women sue Amazon, say company denied basic accommodations and fired them.",
-          "published": "2026-09-09T19:09:20.000Z"
         }
       ]
     },
