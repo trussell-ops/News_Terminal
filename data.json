@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-10T01:13:40.262Z",
+  "updated": "2026-09-10T06:11:06.842Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Buy now or wait and hope? Families face gamble on heating oil",
+          "link": "https://www.bbc.co.uk/news/articles/crk36z3rmnzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The price of heating oil has almost doubled in 12 months following the conflict in the Middle East.",
+          "published": "2026-09-10T05:03:02.000Z"
+        },
+        {
+          "title": "Social supermarket reports hundreds of sign-ups",
+          "link": "https://www.bbc.co.uk/news/articles/cgjqywqz1w3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Dartford Larder members pay £4.50 each week for items including unlimited fruit and vegetables.",
+          "published": "2026-09-10T05:00:25.000Z"
+        },
         {
           "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
           "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
@@ -109,14 +125,6 @@
           "published": "2026-09-09T12:20:40.000Z"
         },
         {
-          "title": "Why are petrol and diesel prices rising again?",
-          "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The price of unleaded hits 167p a litre, according to motoring group the RAC, as oil prices remain elevated.",
-          "published": "2026-09-09T12:03:59.000Z"
-        },
-        {
           "title": "Learner drivers still forced to wait months to book tests",
           "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "As part of the proposed bankruptcy deal, the upstart golf venture is expected to be majority owned by its players.",
           "published": "2026-09-08T21:45:55.000Z"
-        },
-        {
-          "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
-          "link": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies.",
-          "published": "2026-09-08T21:37:12.000Z"
         }
       ]
     },
@@ -202,12 +202,60 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-          "link": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+          "title": "OpenAI have no mathematicians capable of understanding what they put out",
+          "link": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-09T23:57:29.000Z"
+          "published": "2026-09-10T05:01:50.000Z"
+        },
+        {
+          "title": "OpenAI might have stolen another major proof",
+          "link": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-10T04:19:48.000Z"
+        },
+        {
+          "title": "All grown-ups were once children… but only few of them remember it",
+          "link": "https://mathstodon.xyz/@tao/117244102901892965",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-10T04:04:38.000Z"
+        },
+        {
+          "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+          "link": "https://hugovergnes.github.io/little-lm-3-8b/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-10T02:04:11.000Z"
+        },
+        {
+          "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+          "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-10T01:59:51.000Z"
+        },
+        {
+          "title": "Show HN: What if the speed of light was 5 km&#x2F;h?",
+          "link": "https://rivendell.dmitrybrant.com/relativity/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-10T01:58:00.000Z"
+        },
+        {
+          "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+          "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-09T23:49:29.000Z"
         },
         {
           "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
@@ -232,14 +280,6 @@
           "category": "tech",
           "snippet": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google, but it's…",
           "published": "2026-09-09T22:23:35.000Z"
-        },
-        {
-          "title": "Blizzard Workers Win Historic Union Contract",
-          "link": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-09T22:22:53.000Z"
         },
         {
           "title": "Automattic CEO Matt Mullenweg placed on leave",
@@ -352,46 +392,6 @@
           "category": "tech",
           "snippet": "Four women sue Amazon, say company denied basic accommodations and fired them.",
           "published": "2026-09-09T19:09:20.000Z"
-        },
-        {
-          "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-          "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
-          "published": "2026-09-09T18:58:24.000Z"
-        },
-        {
-          "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
-          "link": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "New Apple Intelligence features, too.",
-          "published": "2026-09-09T18:47:07.000Z"
-        },
-        {
-          "title": "The quick guide to fall vaccines and when you should get them",
-          "link": "https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Here are the evidence-based recommendations and this year's vaccine rollout.",
-          "published": "2026-09-09T18:39:36.000Z"
-        },
-        {
-          "title": "iPhone Duo",
-          "link": "https://www.apple.com/iphone-duo/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-09T18:15:43.000Z"
-        },
-        {
-          "title": "Apple Watch Series 12",
-          "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-09T17:56:17.000Z"
         }
       ]
     },
@@ -403,7 +403,7 @@
           "link": "https://abovethelaw.com/2026/09/missouri-map-madness-see-also/",
           "source": "Above the Law",
           "category": "legal",
-          "snippet": "Trump Judges Blow Off Justices : The U.S. Supreme Court refused to impose Missouri's illegal gerrymander. Trump appointed district judge decided to go ahead and do it anyway . The Top LL.M. Programs : Did your school’s specialty law…",
+          "snippet": "Trump Judges Blow Off Justices : The U.S. Supreme Court refused to impose Missouri's illegal gerrymander. Trump-appointed district judge decided to go ahead and do it anyway . The Top LL.M. Programs : Did your school’s specialty law…",
           "published": "2026-09-09T23:32:00.000Z"
         },
         {
@@ -419,7 +419,7 @@
           "link": "https://www.scotusblog.com/2026/09/missouri-congressional-redistricting-dispute-returns-to-the-supreme-court/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Updated on Sept. 9 at 8:55 p.m. Just one day after Justice Brett Kavanaugh left in place a ruling by the Missouri Supreme Court that barred Missouri from using a new congressional map intended to give Republicans an additional seat in the…",
+          "snippet": "Just one day after Justice Brett Kavanaugh left in place a ruling by the Missouri Supreme Court that barred Missouri from using a new congressional map intended to give Republicans an additional seat in the U.S. House of Representatives…",
           "published": "2026-09-09T22:48:02.000Z"
         },
         {
