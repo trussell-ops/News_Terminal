@@ -1,16 +1,40 @@
 {
-  "updated": "2026-09-11T15:32:14.503Z",
+  "updated": "2026-09-11T18:52:17.875Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+          "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
+          "published": "2026-09-11T16:06:31.000Z"
+        },
+        {
+          "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
+          "link": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Total assets invested in so-called tax-aware long-short strategies — or TALS — have surged to more than $170 billion, according to Tax Alpha Insider.",
+          "published": "2026-09-11T15:54:22.000Z"
+        },
+        {
+          "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+          "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+          "published": "2026-09-11T15:37:25.000Z"
+        },
         {
           "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
           "link": "https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "The largest outbreak, linked to shredded iceberg lettuce from Taylor Farms, sickened more than 12,000 people.",
-          "published": "2026-09-11T15:31:02.000Z"
+          "published": "2026-09-11T15:36:45.000Z"
         },
         {
           "title": "Alstom to build new battery-electric train fleet",
@@ -21,11 +45,11 @@
           "published": "2026-09-11T14:43:33.000Z"
         },
         {
-          "title": "US inflation holds steady as diesel prices pass $6 a gallon",
+          "title": "US prices remain high as fuel costs squeeze household budgets",
           "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official figures.",
+          "snippet": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
           "published": "2026-09-11T14:22:42.000Z"
         },
         {
@@ -43,14 +67,6 @@
           "category": "markets",
           "snippet": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
           "published": "2026-09-11T13:35:29.000Z"
-        },
-        {
-          "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
-          "link": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Total assets invested in so-called tax-aware long-short strategies — or TALS — have surged to more than $170 billion, according to Tax Alpha Insider.",
-          "published": "2026-09-11T12:21:22.000Z"
         },
         {
           "title": "I moved my shop 20 miles because I couldn't afford £300 a week on fuel",
@@ -133,14 +149,6 @@
           "published": "2026-09-10T20:44:33.000Z"
         },
         {
-          "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-          "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
-          "published": "2026-09-10T19:02:58.000Z"
-        },
-        {
           "title": "Home sales fall in August despite the highest supply in over a decade",
           "link": "https://www.cnbc.com/2026/09/10/home-sales-august-supply.html",
           "source": "CNBC Business",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Primark has said it plans to launch a home delivery service in Britain, four years after it made its first foray into e-commerce.",
           "published": "2026-09-10T14:07:54.000Z"
-        },
-        {
-          "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-          "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
-          "published": "2026-09-10T13:34:17.000Z"
         }
       ]
     },
@@ -202,202 +202,242 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Declassified 9&#x2F;11 related President's Daily Brief products",
+          "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T18:30:07.000Z"
+        },
+        {
+          "title": "Litelm: LiteLLM Without the Bloat",
+          "link": "https://github.com/kennethwolters/litelm",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T18:10:20.000Z"
+        },
+        {
+          "title": "Top mathematicians are outraged by OpenAI's methods",
+          "link": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T18:07:08.000Z"
+        },
+        {
+          "title": "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution",
+          "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T18:05:21.000Z"
+        },
+        {
+          "title": "Show HN: Toast, a beautiful by default in terminal IDE",
+          "link": "https://github.com/paradise-runner/toast",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T17:54:53.000Z"
+        },
+        {
+          "title": "A Severe Misalignment of AI in Mathematics - Terence Tao et al",
+          "link": "https://mathandai.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T17:45:12.000Z"
+        },
+        {
+          "title": "Room 641A",
+          "link": "https://en.wikipedia.org/wiki/Room_641A",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T17:45:03.000Z"
+        },
+        {
+          "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+          "link": "https://snap.berkeley.edu/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T17:36:11.000Z"
+        },
+        {
+          "title": "A Misalignment of AI in Mathematics",
+          "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T17:30:26.000Z"
+        },
+        {
+          "title": "Major Life Announcement",
+          "link": "https://ma.tt/2026/09/mirene/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T17:23:47.000Z"
+        },
+        {
+          "title": "Matt Mullenweg reportedly returns as Automattic CEO two days after getting booted",
+          "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. As 404 Media reported on Wednesday, Mullenweg had told staff in…",
+          "published": "2026-09-11T17:16:59.000Z"
+        },
+        {
+          "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+          "link": "https://www.getzep.com/careers/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T17:00:17.000Z"
+        },
+        {
+          "title": "We unfolded the iPhone Duo",
+          "link": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's launch event: how…",
+          "published": "2026-09-11T16:22:24.000Z"
+        },
+        {
+          "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
+          "link": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the…",
+          "published": "2026-09-11T16:21:19.000Z"
+        },
+        {
+          "title": "NASA moving at warp speed to set up US Space Academy",
+          "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "NASA asks US states to show them the money.",
+          "published": "2026-09-11T16:20:43.000Z"
+        },
+        {
+          "title": "Anthropic spent this week in hot water over cybersecurity",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what…",
+          "published": "2026-09-11T16:09:14.000Z"
+        },
+        {
+          "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+          "link": "https://github.com/godot-pty/gpty",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T16:03:05.000Z"
+        },
+        {
+          "title": "Microsoft’s head of comms is leaving after almost 20 years",
+          "link": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's \"decided it is time for me to move on and try new things,\" after supporting Microsoft's communications for 29…",
+          "published": "2026-09-11T16:01:34.000Z"
+        },
+        {
+          "title": "Global Glacier Extinction Explorer",
+          "link": "https://glacierextinction.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T15:58:06.000Z"
+        },
+        {
+          "title": "118M Queries per Second on Neki",
+          "link": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T15:56:37.000Z"
+        },
+        {
+          "title": "Meta may have leaked the first look at its slim Project Phoenix headset",
+          "link": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's \"Project Phoenix\" headset. The images, which UploadVR says were \"found in the HorizonOS Prescription…",
+          "published": "2026-09-11T15:38:31.000Z"
+        },
+        {
+          "title": "Rune is now open source",
+          "link": "https://rune.build/blog/rune-is-now-open-source",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T15:31:47.000Z"
+        },
+        {
+          "title": "Where to preorder the Apple AirPods 5",
+          "link": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Apple AirPods 5 are bringing active noise cancellation to the masses, and they're now available for preorder at a variety of retailers. They'll officially launch on September 18th, the same day as the Apple Watch Series 12 and Ultra…",
+          "published": "2026-09-11T15:31:00.000Z"
+        },
+        {
           "title": "Anime reaction YouTubers are at war with copyright enforcers",
           "link": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media",
           "source": "The Verge",
           "category": "tech",
           "snippet": "On September 6th, YouTuber Nicholas Light posted a video to one of his channels that made it seem like all of his content was about to be removed from the platform. In the video - ominously titled \"My Channel will be Deleted Today\" -…",
           "published": "2026-09-11T15:12:58.000Z"
-        },
-        {
-          "title": "Show HN: Hacker News, without AI",
-          "link": "https://hcker.news/?ai=exclude",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T15:01:19.000Z"
-        },
-        {
-          "title": "The wireless earbuds with unbeatable call quality got their first discount",
-          "link": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgins’ rotation of earbuds for more than just…",
-          "published": "2026-09-11T14:43:26.000Z"
-        },
-        {
-          "title": "HuggingFace: Security.txt",
-          "link": "https://huggingface.co/security.txt",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T14:38:13.000Z"
-        },
-        {
-          "title": "Meta says it s changing AI suggestions after posing invasive personal questions",
-          "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta…",
-          "published": "2026-09-11T14:25:21.000Z"
-        },
-        {
-          "title": "New York City’s last pickpocket doesn’t need a smartphone",
-          "link": "https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Hello once again from Toronto, where for a week every year I watch far too many movies and tell you all about them. The festival, better known as TIFF, is always a great preview of the months ahead in film, with a nice mix of mainstream…",
-          "published": "2026-09-11T14:15:00.000Z"
-        },
-        {
-          "title": "New York thoracic surgeon: \"For many patients 9&#x2F;11 is not over\"",
-          "link": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T14:14:56.000Z"
-        },
-        {
-          "title": "Why Apple’s next computer should be for the smart home",
-          "link": "https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "John Ternus didn't mention Apple Home once during his first keynote as Apple CEO. But he did open by describing an \"intelligent personal hub\" that prioritizes local processing, protects your privacy, and integrates with all your other…",
-          "published": "2026-09-11T14:01:55.000Z"
-        },
-        {
-          "title": "Samsung says Tim Cook bought a Galaxy Fold",
-          "link": "https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "That isn't Apple's former CEO promoting the Galaxy Z Fold 8 in a new Samsung ad - \"Tim Cook from Palmerston North\" just happens to have the same name and look a lot like him. Released right as Apple announced its iPhone Duo, the ad mimics…",
-          "published": "2026-09-11T13:59:16.000Z"
-        },
-        {
-          "title": "Ikea supersized its cheap Bluetooth speaker and added an optical input",
-          "link": "https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Ikea's new Badkruka wireless Bluetooth speaker is now available in the US for $59.99. It's reminiscent of the colorful and tiny $10 Kallsup speaker that Ikea debuted earlier this year at CES 2026, but at almost seven inches tall, the boxy…",
-          "published": "2026-09-11T13:42:35.000Z"
-        },
-        {
-          "title": "If coding is solved, what now?: Measuring the sloppiness of code",
-          "link": "https://earendil.com/posts/measuring-code-sloppiness/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T13:42:28.000Z"
-        },
-        {
-          "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
-          "link": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T13:41:58.000Z"
-        },
-        {
-          "title": "Houthis 'take control' of key island in global shipping route",
-          "link": "https://www.bbc.com/news/live/cmd683p01eljt",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T13:41:38.000Z"
-        },
-        {
-          "title": "Ask HN: Can we please limit the AI news flood?",
-          "link": "https://news.ycombinator.com/item?id=49657850",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T13:11:04.000Z"
-        },
-        {
-          "title": "Claude users found ways around safeguards for bioweapons research",
-          "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-          "published": "2026-09-11T13:02:35.000Z"
-        },
-        {
-          "title": "Arizona’s lifeline for chip manufacturing is drying up",
-          "link": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Arizona, an epicenter for the bipartisan push to revive American chip manufacturing, is about to lose more than a quarter of the water it typically pulls each year from the Colorado River. The 1,400-mile waterway is a crucial lifeline for…",
-          "published": "2026-09-11T12:00:00.000Z"
-        },
-        {
-          "title": "ClickFix attacks infecting PCs and Macs are going viral",
-          "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-          "published": "2026-09-11T11:30:58.000Z"
-        },
-        {
-          "title": "What happens when quantum mechanics and relativity meet?",
-          "link": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Experiment put atoms in a superposition of trajectories to find out.",
-          "published": "2026-09-11T11:20:02.000Z"
-        },
-        {
-          "title": "The Waymo effect: how AI is quietly making research less collaborative",
-          "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T11:17:50.000Z"
-        },
-        {
-          "title": "RTK reports token savings, but our cost benchmarks disagree",
-          "link": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T11:15:13.000Z"
-        },
-        {
-          "title": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
-          "link": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Insta360's first compact steadycam, the Luna Ultra, made a splash this year by beating DJI to launch with two lenses. Now it's followed the Ultra with a slightly stripped back Pro model, which drops to one lens but has a unique advantage:…",
-          "published": "2026-09-11T11:07:24.000Z"
-        },
-        {
-          "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
-          "link": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
-          "published": "2026-09-11T11:00:44.000Z"
-        },
-        {
-          "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
-          "link": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"We felt like now is the time to pour gas on that fire.\"",
-          "published": "2026-09-11T11:00:30.000Z"
-        },
-        {
-          "title": "Claude is no longer available for minors",
-          "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T10:48:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "First Circuit Opinion Goes Informal: We ll Fill In The Deets Shortly, But The SparkNotes Is This",
+          "link": "https://abovethelaw.com/2026/09/first-circuit-opinion-goes-informal-well-fill-in-the-deets-shortly-but-the-sparknotes-is-this/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Federal judge casually lays out 40-page bankruptcy opinion. The post First Circuit Opinion Goes Informal: We ll Fill In The Deets Shortly, But The SparkNotes Is This appeared first on Above the Law .",
+          "published": "2026-09-11T18:32:00.000Z"
+        },
+        {
+          "title": "Weil s Corporate Chair Decamps For Cravath, Which Weil Would Like You To Know Is A Smaller Platform",
+          "link": "https://abovethelaw.com/2026/09/weils-corporate-chair-decamps-for-cravath-which-weil-would-like-you-to-know-is-a-smaller-platform/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "That's not how I'd describe Cravath, but sure. The post Weil s Corporate Chair Decamps For Cravath, Which Weil Would Like You To Know Is A Smaller Platform appeared first on Above the Law .",
+          "published": "2026-09-11T17:42:00.000Z"
+        },
+        {
+          "title": "Biglaw’s First-Year Associate Hiring Plunge May Be Just The Beginning",
+          "link": "https://abovethelaw.com/2026/09/biglaws-first-year-associate-hiring-plunge-may-be-just-the-beginning/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Firms are preparing to welcome even smaller classes in the years ahead. The post Biglaw’s First-Year Associate Hiring Plunge May Be Just The Beginning appeared first on Above the Law .",
+          "published": "2026-09-11T17:01:00.000Z"
+        },
+        {
+          "title": "When Clients Ask About AI, How Should Firms Respond?",
+          "link": "https://abovethelaw.com/2026/09/when-clients-ask-about-ai-how-should-firms-respond/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] Lessons from elementary school. The post When Clients Ask About AI, How Should Firms Respond? appeared first on Above the Law .",
+          "published": "2026-09-11T16:18:00.000Z"
+        },
+        {
+          "title": "This Law Professor s Mission Is Giving Voice To The Voiceless",
+          "link": "https://abovethelaw.com/2026/09/this-law-professors-mission-is-giving-voice-to-the-voiceless/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Closing the legal accountability gap. The post This Law Professor s Mission Is Giving Voice To The Voiceless appeared first on Above the Law .",
+          "published": "2026-09-11T15:32:00.000Z"
+        },
         {
           "title": "Judge Demands Answers From DOJ For Refusing To Dismiss Reflecting Pool Case With Prejudice",
           "link": "https://abovethelaw.com/2026/09/judge-demands-answers-from-doj-for-refusing-to-dismiss-reflecting-pool-case-with-prejudice/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "Updated on Sept. 10 at 3:44 p.m. EDT The Supreme Court on Thursday morning paused a ruling by a federal judge in Missouri that would have allowed the state to use a new congressional map intended to give Republicans an additional seat in…",
           "published": "2026-09-10T15:57:17.000Z"
-        },
-        {
-          "title": "How Young Lawyers Can Build A Career That Outlasts The Next AI Update",
-          "link": "https://abovethelaw.com/2026/09/how-young-lawyers-can-build-a-career-that-outlasts-the-next-ai-update/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Use AI where it helps, recognize where it fails, and help your colleagues understand the difference. The post How Young Lawyers Can Build A Career That Outlasts The Next AI Update appeared first on Above the Law .",
-          "published": "2026-09-10T15:32:00.000Z"
-        },
-        {
-          "title": "Harvey Raises Another $550M At A $15.5B Valuation",
-          "link": "https://www.lawnext.com/2026/09/harvey-raises-another-550m-at-a-15-5b-valuation.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Cofounder Winston Weinberg said the capital from this round is being invested ‘into our two most important resources: people and compute.’ The post Harvey Raises Another $550M At A $15.5B Valuation appeared first on Above the Law .",
-          "published": "2026-09-10T14:47:00.000Z"
-        },
-        {
-          "title": "Shein’s Hong Kong Listing Falters Amid Profitability Concerns",
-          "link": "https://fashionista.com/2026/09/wyouth-releases-first-issue-2026",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Shein has lost about $5 billion in market value since its Hong Kong IPO. The post Shein’s Hong Kong Listing Falters Amid Profitability Concerns appeared first on Above the Law .",
-          "published": "2026-09-10T14:02:00.000Z"
-        },
-        {
-          "title": "The architecture of persuasion: United States v. Hemani",
-          "link": "https://www.scotusblog.com/2026/09/the-architecture-of-persuasion-united-states-v-hemani/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Although some law professors make a living hiding the ball, I will repeat my thesis right up front: Good legal writers are simply good writers – strong English stylists. As my first example, I offered Chief Justice John Roberts , who…",
-          "published": "2026-09-10T14:00:00.000Z"
-        },
-        {
-          "title": "The minoritarian difficulty",
-          "link": "https://www.scotusblog.com/2026/09/the-minoritarian-difficulty/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Court reform is a hot topic these days. Scholars , commentators , and politicians argue that the Supreme Court is aggrandizing its powers at the expense of Congress, undermining American democracy, and facilitating the Trump…",
-          "published": "2026-09-10T13:30:00.000Z"
         }
       ]
     }
