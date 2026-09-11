@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T21:26:03.612Z",
+  "updated": "2026-09-11T23:25:04.338Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "ElevenLabs Music v2.5",
-          "link": "https://elevenmusic.io/blog/introducing-music-v2-5",
+          "title": "DeCloudflare",
+          "link": "https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-11T20:53:16.000Z"
+          "published": "2026-09-11T22:59:09.000Z"
+        },
+        {
+          "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+          "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T22:16:15.000Z"
+        },
+        {
+          "title": "Project Blinkenlights",
+          "link": "https://blinkenlights.de/en/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T22:15:00.000Z"
+        },
+        {
+          "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+          "link": "https://github.com/mirza-rizvi/ResolveHQ",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T21:48:00.000Z"
+        },
+        {
+          "title": "Random rewards enrich classic game-theory contests",
+          "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Simple games gain rich strategies in the face of noise.",
+          "published": "2026-09-11T21:41:16.000Z"
+        },
+        {
+          "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+          "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The strain lurking in the inflatable structure was hypervirulent.",
+          "published": "2026-09-11T21:14:26.000Z"
         },
         {
           "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
@@ -216,6 +256,22 @@
           "category": "tech",
           "snippet": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court…",
           "published": "2026-09-11T20:44:02.000Z"
+        },
+        {
+          "title": "Trump's forced coal plant extensions thrown out by judge",
+          "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The Department of Energy declared an \"emergency\" when none existed.",
+          "published": "2026-09-11T20:32:59.000Z"
+        },
+        {
+          "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+          "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+          "published": "2026-09-11T19:34:09.000Z"
         },
         {
           "title": "GrapheneOS' rewritten Messages app is released",
@@ -242,7 +298,7 @@
           "published": "2026-09-11T18:30:07.000Z"
         },
         {
-          "title": "I spent $220 on Google app ads. 60% of the installs were robots",
+          "title": "I spent $220 on Google app ads and 60% of the installs were robots",
           "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
           "source": "Hacker News",
           "category": "tech",
@@ -280,14 +336,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-11T17:45:12.000Z"
-        },
-        {
-          "title": "Room 641A",
-          "link": "https://en.wikipedia.org/wiki/Room_641A",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T17:45:03.000Z"
         },
         {
           "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
@@ -344,60 +392,36 @@
           "category": "tech",
           "snippet": "NASA asks US states to show them the money.",
           "published": "2026-09-11T16:20:43.000Z"
-        },
-        {
-          "title": "Anthropic spent this week in hot water over cybersecurity",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what…",
-          "published": "2026-09-11T16:09:14.000Z"
-        },
-        {
-          "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-          "link": "https://github.com/godot-pty/gpty",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T16:03:05.000Z"
-        },
-        {
-          "title": "Microsoft’s head of comms is leaving after almost 20 years",
-          "link": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's \"decided it is time for me to move on and try new things,\" after supporting Microsoft's communications for 29…",
-          "published": "2026-09-11T16:01:34.000Z"
-        },
-        {
-          "title": "Global Glacier Extinction Explorer",
-          "link": "https://glacierextinction.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T15:58:06.000Z"
-        },
-        {
-          "title": "118M Queries per Second on Neki",
-          "link": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T15:56:37.000Z"
-        },
-        {
-          "title": "Meta may have leaked the first look at its slim Project Phoenix headset",
-          "link": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's \"Project Phoenix\" headset. The images, which UploadVR says were \"found in the HorizonOS Prescription…",
-          "published": "2026-09-11T15:38:31.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "She Earned The First Law Degree Ever Given To An American Woman And She Wasn t Allowed To Use It",
+          "link": "https://abovethelaw.com/2026/09/she-earned-the-first-law-degree-ever-given-to-an-american-woman-and-she-wasnt-allowed-to-use-it/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Barred from practicing law because she was a woman. The post She Earned The First Law Degree Ever Given To An American Woman And She Wasn t Allowed To Use It appeared first on Above the Law .",
+          "published": "2026-09-11T23:01:00.000Z"
+        },
+        {
+          "title": "How To Create Authority Pages That Beat Competitors On Google And ChatGPT",
+          "link": "https://abovethelaw.com/2026/09/how-to-create-authority-pages-that-beat-competitors-on-google-and-chatgpt/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Your law firm’s ‘authority’ pages are there to showcase your expertise and establish your practice as a source of reliable information. The post How To Create Authority Pages That Beat Competitors On Google And ChatGPT appeared first on…",
+          "published": "2026-09-11T22:15:00.000Z"
+        },
+        {
+          "title": "Lawyers Should Abandon Some Outdated Practices",
+          "link": "https://abovethelaw.com/2026/09/lawyers-should-abandon-some-outdated-practices/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Meaningless traditions can consume a surprising amount of resources. The post Lawyers Should Abandon Some Outdated Practices appeared first on Above the Law .",
+          "published": "2026-09-11T21:33:00.000Z"
+        },
         {
           "title": "The Future Of Legal AI Isn t About AI",
           "link": "https://abovethelaw.com/2026/09/the-future-of-legal-ai-isnt-about-ai/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "[Sponsored] Takeaways from an ILTACON panel featuring the firms set to ‘keep winning.’ The post Can Your Firm Compete With Litera’s ‘Trailblazers’? appeared first on Above the Law .",
           "published": "2026-09-10T18:32:00.000Z"
-        },
-        {
-          "title": "Trump administration asks justices to decide on its appointments of acting U.S. attorneys",
-          "link": "https://www.scotusblog.com/2026/09/trump-administration-asks-justices-to-decide-on-its-appointments-of-acting-us-attorneys/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Arguing that a ruling by the U.S. Court of Appeals for the 9th Circuit “threatens to inject mass confusion into five U.S. Attorney’s Offices in the Ninth Circuit that collectively handle over 8000 civil and criminal cases annually,” the…",
-          "published": "2026-09-10T18:05:52.000Z"
-        },
-        {
-          "title": "Todd Blanche s Latest Disgraceful Act? Speaking At A Political Convention",
-          "link": "https://abovethelaw.com/2026/09/todd-blanches-latest-disgraceful-act-speaking-at-a-political-convention/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "No sitting Attorney General has ever done this... until now. The post Todd Blanche s Latest Disgraceful Act? Speaking At A Political Convention appeared first on Above the Law .",
-          "published": "2026-09-10T17:44:00.000Z"
-        },
-        {
-          "title": "Everything’s Bigger In Texas, Including Kirkland’s Biglaw Empire",
-          "link": "https://abovethelaw.com/2026/09/everythings-bigger-in-texas-including-kirklands-biglaw-empire/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Biglaw giant’s headcount has soared past 500 attorneys in the Lone Star State. The post Everything’s Bigger In Texas, Including Kirkland’s Biglaw Empire appeared first on Above the Law .",
-          "published": "2026-09-10T17:01:00.000Z"
         }
       ]
     }
