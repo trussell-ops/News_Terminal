@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T01:15:24.339Z",
+  "updated": "2026-09-11T06:14:19.849Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,7 +202,39 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Google will buy half the electricity of a nuclear power plant",
+          "title": "The Gemini app is now available for Windows",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T04:52:20.000Z"
+        },
+        {
+          "title": "Exercise intensity is associated with cardiometabolic health",
+          "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T03:48:10.000Z"
+        },
+        {
+          "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+          "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T01:00:56.000Z"
+        },
+        {
+          "title": "Herdr Studio",
+          "link": "https://powerfooI.github.io/herdr-studio/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-11T00:54:36.000Z"
+        },
+        {
+          "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
           "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
           "source": "Hacker News",
           "category": "tech",
@@ -224,6 +256,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-10T23:10:06.000Z"
+        },
+        {
+          "title": "Nine coding harnesses vs. your laptop",
+          "link": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-10T22:54:01.000Z"
         },
         {
           "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
@@ -248,14 +288,6 @@
           "category": "tech",
           "snippet": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it…",
           "published": "2026-09-10T21:25:21.000Z"
-        },
-        {
-          "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
-          "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-10T21:22:59.000Z"
         },
         {
           "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-10T17:14:12.000Z"
-        },
-        {
-          "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
-          "link": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Looking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupon code…",
-          "published": "2026-09-10T16:58:44.000Z"
-        },
-        {
-          "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
-          "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
-          "published": "2026-09-10T16:53:52.000Z"
-        },
-        {
-          "title": "Electric air taxis get the green light for test flights in Texas",
-          "link": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, the Federal…",
-          "published": "2026-09-10T16:00:00.000Z"
-        },
-        {
-          "title": "Forgejo <=16.0.3 Critical RCE",
-          "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-10T15:57:40.000Z"
         }
       ]
     },
@@ -399,84 +399,12 @@
       "label": "Legal Developments",
       "items": [
         {
-          "title": "Even This Supreme Court Wouldn t Bail Out The Missouri GOP See Also",
-          "link": "https://abovethelaw.com/2026/09/even-this-supreme-court-wouldnt-bail-out-the-missouri-gop-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Show Me State Got Shown : The U.S. Supreme Court yet again told Missouri Republicans that they need to stop trying to make their illegal map happen . Say Howdy To The New Biggest Firm In Texas : The richest firm in America takes the crown…",
-          "published": "2026-09-10T23:02:00.000Z"
-        },
-        {
-          "title": "Once The Second-Biggest Firm In America, Then The First To Blow Up",
-          "link": "https://abovethelaw.com/2026/09/once-the-second-biggest-firm-in-america-then-the-first-to-blow-up/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "It rewrote the rules of Biglaw, got rich, and became a cautionary tale for the ages. The post Once The Second-Biggest Firm In America, Then The First To Blow Up appeared first on Above the Law .",
-          "published": "2026-09-10T22:15:00.000Z"
-        },
-        {
-          "title": "Trump Is Considering A Pardon For Michael Cohen, The Lawyer Who Helped Convict Him",
-          "link": "https://abovethelaw.com/2026/09/trump-is-considering-a-pardon-for-michael-cohen-the-lawyer-who-helped-convict-him/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The president appreciates his former attorney’s very late change of tune. The post Trump Is Considering A Pardon For Michael Cohen, The Lawyer Who Helped Convict Him appeared first on Above the Law .",
-          "published": "2026-09-10T21:32:00.000Z"
-        },
-        {
-          "title": "Supreme Court To Missouri Republicans: Shut Up",
-          "link": "https://abovethelaw.com/2026/09/supreme-court-to-missouri-republicans-shut-up/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Missouri Republicans tried to gerrymander their maps in violation of state law. The U.S. Supreme Court refused to be a party to it. The post Supreme Court To Missouri Republicans: Shut Up appeared first on Above the Law .",
-          "published": "2026-09-10T20:44:00.000Z"
-        },
-        {
-          "title": "DOJ Says Berkeley Law Rigged Its Admissions To Favor Black Students. There Are 51 Of Them.",
-          "link": "https://abovethelaw.com/2026/09/doj-says-berkeley-law-rigged-its-admissions-to-favor-black-students-there-are-51-of-them/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "If the school is putting a thumb on the scale for Black applicants, it's doing a remarkably bad job of it. The post DOJ Says Berkeley Law Rigged Its Admissions To Favor Black Students. There Are 51 Of Them. appeared first on Above the Law .",
-          "published": "2026-09-10T20:00:00.000Z"
-        },
-        {
-          "title": "AI Has Entered The Courthouse…Are You Ready For It?",
-          "link": "https://www.myshingle.com/2026/09/ai-has-entered-the-courthouse-are-you-ready-for-it/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "How should we read and evaluate opinions that may have been AI-assisted? The post AI Has Entered The Courthouse…Are You Ready For It? appeared first on Above the Law .",
-          "published": "2026-09-10T19:13:00.000Z"
-        },
-        {
-          "title": "Can Your Firm Compete With Litera’s ‘Trailblazers’?",
-          "link": "https://abovethelaw.com/2026/09/can-your-firm-compete-with-literas-trailblazers/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] Takeaways from an ILTACON panel featuring the firms set to ‘keep winning.’ The post Can Your Firm Compete With Litera’s ‘Trailblazers’? appeared first on Above the Law .",
-          "published": "2026-09-10T18:32:00.000Z"
-        },
-        {
           "title": "Trump administration asks justices to decide on its appointments of acting U.S. attorneys",
           "link": "https://www.scotusblog.com/2026/09/trump-administration-asks-justices-to-decide-on-its-appointments-of-acting-us-attorneys/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "Arguing that a ruling by the U.S. Court of Appeals for the 9th Circuit “threatens to inject mass confusion into five U.S. Attorney’s Offices in the Ninth Circuit that collectively handle over 8000 civil and criminal cases annually,” the…",
           "published": "2026-09-10T18:05:52.000Z"
-        },
-        {
-          "title": "Todd Blanche s Latest Disgraceful Act? Speaking At A Political Convention",
-          "link": "https://abovethelaw.com/2026/09/todd-blanches-latest-disgraceful-act-speaking-at-a-political-convention/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "No sitting Attorney General has ever done this... until now. The post Todd Blanche s Latest Disgraceful Act? Speaking At A Political Convention appeared first on Above the Law .",
-          "published": "2026-09-10T17:44:00.000Z"
-        },
-        {
-          "title": "Everything’s Bigger In Texas, Including Kirkland’s Biglaw Empire",
-          "link": "https://abovethelaw.com/2026/09/everythings-bigger-in-texas-including-kirklands-biglaw-empire/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Biglaw giant’s headcount has soared past 500 attorneys in the Lone Star State. The post Everything’s Bigger In Texas, Including Kirkland’s Biglaw Empire appeared first on Above the Law .",
-          "published": "2026-09-10T17:01:00.000Z"
         },
         {
           "title": "A quick update on the Missouri congressional districting case",
@@ -487,44 +415,12 @@
           "published": "2026-09-10T16:40:49.000Z"
         },
         {
-          "title": "The Lateral Market Runs On Recruiters. goLateral Wants To Cut Them Out.",
-          "link": "https://abovethelaw.com/2026/09/the-lateral-market-runs-on-recruiters-golateral-wants-to-cut-them-out/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] goLateral is a quiet window into what's actually out there. Joining takes two minutes, costs nothing, pays you $100, and stays completely confidential. The post The Lateral Market Runs On Recruiters. goLateral Wants To Cut…",
-          "published": "2026-09-10T16:18:00.000Z"
-        },
-        {
           "title": "Supreme Court grants request to prevent Missouri from using congressional map expected to aid Republicans",
           "link": "https://www.scotusblog.com/2026/09/supreme-court-grants-request-to-prevent-missouri-from-using-congressional-map-expected-to-aid-re/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "Updated on Sept. 10 at 3:44 p.m. EDT The Supreme Court on Thursday morning paused a ruling by a federal judge in Missouri that would have allowed the state to use a new congressional map intended to give Republicans an additional seat in…",
           "published": "2026-09-10T15:57:17.000Z"
-        },
-        {
-          "title": "How Young Lawyers Can Build A Career That Outlasts The Next AI Update",
-          "link": "https://abovethelaw.com/2026/09/how-young-lawyers-can-build-a-career-that-outlasts-the-next-ai-update/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Use AI where it helps, recognize where it fails, and help your colleagues understand the difference. The post How Young Lawyers Can Build A Career That Outlasts The Next AI Update appeared first on Above the Law .",
-          "published": "2026-09-10T15:32:00.000Z"
-        },
-        {
-          "title": "Harvey Raises Another $550M At A $15.5B Valuation",
-          "link": "https://www.lawnext.com/2026/09/harvey-raises-another-550m-at-a-15-5b-valuation.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Cofounder Winston Weinberg said the capital from this round is being invested ‘into our two most important resources: people and compute.’ The post Harvey Raises Another $550M At A $15.5B Valuation appeared first on Above the Law .",
-          "published": "2026-09-10T14:47:00.000Z"
-        },
-        {
-          "title": "Shein’s Hong Kong Listing Falters Amid Profitability Concerns",
-          "link": "https://fashionista.com/2026/09/wyouth-releases-first-issue-2026",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Shein has lost about $5 billion in market value since its Hong Kong IPO. The post Shein’s Hong Kong Listing Falters Amid Profitability Concerns appeared first on Above the Law .",
-          "published": "2026-09-10T14:02:00.000Z"
         },
         {
           "title": "The architecture of persuasion: United States v. Hemani",
@@ -551,30 +447,6 @@
           "published": "2026-09-10T13:00:00.000Z"
         },
         {
-          "title": "Morning Docket: 09.10.26",
-          "link": "https://abovethelaw.com/2026/09/morning-docket-09-10-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Missouri lawmakers threaten to impeach state supreme court if they hold secretary of state in contempt for using redrawn maps that violate state constitution. [ KCTV ] Meanwhile, the whole thing is back at the U.S. Supreme Court --…",
-          "published": "2026-09-10T12:55:00.000Z"
-        },
-        {
-          "title": "Missouri Map Madness See Also",
-          "link": "https://abovethelaw.com/2026/09/missouri-map-madness-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Trump Judges Blow Off Justices : The U.S. Supreme Court refused to impose Missouri's illegal gerrymander. Trump-appointed district judge decided to go ahead and do it anyway . The Top LL.M. Programs : Did your school’s specialty law…",
-          "published": "2026-09-09T23:32:00.000Z"
-        },
-        {
-          "title": "Missouri Gerrymander Case Flunks Remedial Law School",
-          "link": "https://abovethelaw.com/2026/09/missouri-gerrymander-case-flunks-remedial-law-school/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Do you remember CivPro better than this federal judge? The post Missouri Gerrymander Case Flunks Remedial Law School appeared first on Above the Law .",
-          "published": "2026-09-09T23:00:00.000Z"
-        },
-        {
           "title": "Missouri congressional redistricting dispute returns to the Supreme Court",
           "link": "https://www.scotusblog.com/2026/09/missouri-congressional-redistricting-dispute-returns-to-the-supreme-court/",
           "source": "SCOTUSblog",
@@ -583,12 +455,140 @@
           "published": "2026-09-09T22:48:02.000Z"
         },
         {
-          "title": "From The Port to License Plates: How To Register An Imported Car In Your State",
-          "link": "https://abovethelaw.com/2026/09/from-the-port-to-license-plates-how-to-register-an-imported-car-in-your-state/",
-          "source": "Above the Law",
+          "title": "States, civic groups urge Supreme Court to leave order in place prohibiting Trump administration from implementing parts of mail-in ballot rule",
+          "link": "https://www.scotusblog.com/2026/09/states-civic-groups-urge-supreme-court-to-leave-order-in-place-prohibiting-trump-administration-/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Importing an overseas car is not for everyone. The post From The Port to License Plates: How To Register An Imported Car In Your State appeared first on Above the Law .",
-          "published": "2026-09-09T22:15:00.000Z"
+          "snippet": "California, joined by a group of 22 states and the District of Columbia, urged the Supreme Court on Wednesday to leave in place a ruling by a federal judge in Boston that prohibits the Trump administration from implementing parts of a…",
+          "published": "2026-09-09T20:43:12.000Z"
+        },
+        {
+          "title": "Introducing SCOTUSblog Plus",
+          "link": "https://www.scotusblog.com/2026/09/introducing-scotusblog-plus/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "It’s hard to believe, but SCOTUSblog has now been around for nearly a quarter-century – old enough to run for Congress! SCOTUSblog was originally launched to help promote a then-three-person law firm. As a business-development strategy,…",
+          "published": "2026-09-09T15:00:00.000Z"
+        },
+        {
+          "title": "Aesthetic injuries, standing, and the White House ballroom",
+          "link": "https://www.scotusblog.com/2026/09/aesthetic-injuries-standing-and-the-white-house-ballroom/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court’s decision to allow President Donald Trump to demolish the East Wing of the White House and build a huge ballroom is troubling enough. But it could also have long-term consequences by making it much harder for plaintiffs…",
+          "published": "2026-09-09T13:30:00.000Z"
+        },
+        {
+          "title": "Justice Kavanaugh stands up for state constitutional law in the Missouri congressional case",
+          "link": "https://www.scotusblog.com/2026/09/justice-kavanaugh-stands-up-for-state-constitutional-law-in-the-missouri-congressional-case/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "A crucial case decided yesterday on the Supreme Court’s emergency docket will likely mean that in the upcoming November election Republicans will win only 6 of 8 Missouri congressional seats in the new House of Representatives, rather…",
+          "published": "2026-09-09T13:03:54.000Z"
+        },
+        {
+          "title": "More election-related action on the interim docket",
+          "link": "https://www.scotusblog.com/2026/09/more-election-related-action-on-the-interim-docket/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, should the Supreme Court try to shorten oral arguments?",
+          "published": "2026-09-09T13:00:00.000Z"
+        },
+        {
+          "title": "Elections dispute continues after Justice Kavanaugh turns down request from Missouri to use congressional map expected to aid Republicans",
+          "link": "https://www.scotusblog.com/2026/09/justice-kavanaugh-turns-down-request-from-missouri-to-use-congressional-map-expected-to-aid-repu/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on Sept. 9 at 10:50 a.m. Justice Brett Kavanaugh on Tuesday blocked Missouri from using a new congressional map, intended to give Republicans an additional seat in the U.S. House of Representatives, in the November elections. In a…",
+          "published": "2026-09-08T22:14:43.000Z"
+        },
+        {
+          "title": "Citing election-fraud concerns, Trump administration brings dispute over voter database to the Supreme Court",
+          "link": "https://www.scotusblog.com/2026/09/citing-election-fraud-concerns-trump-administration-brings-dispute-over-voter-database-to-the-su/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "For the second time in three days, the Trump administration on Tuesday came to the Supreme Court, asking the justices to clear the way for it to implement a program that it says is intended to combat election fraud. U.S. Solicitor General…",
+          "published": "2026-09-08T17:52:34.000Z"
+        },
+        {
+          "title": "The “born free and equal” clauses and same-sex marriage",
+          "link": "https://www.scotusblog.com/2026/09/the-born-free-and-equal-clauses-and-same-sex-marriage/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This is the fourth of seven introductory articles on the relevance for constitutional law and the Supreme Court of the “born free and equal” clauses, which appeared in the Declaration of Independence and in six out of 12 state…",
+          "published": "2026-09-08T14:30:00.000Z"
+        },
+        {
+          "title": "Empower the Supreme Court’s supermajority on substantive matters",
+          "link": "https://www.scotusblog.com/2026/09/empower-the-supreme-courts-supermajority-on-substantive-matters/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This is the seventh piece in a series on what I believe the court can, and should, do better. *** In my last column , I suggested several ways in which the Supreme Court could provide more procedural protections for the court’s minority.…",
+          "published": "2026-09-08T14:00:00.000Z"
+        },
+        {
+          "title": "The century-old fight to test birthright citizenship",
+          "link": "https://www.scotusblog.com/2026/09/the-century-old-fight-to-test-birthright-citizenship/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "As SCOTUSblog readers are well aware, on June 30, a majority of justices struck down President Donald Trump’s executive order seeking to end birthright citizenship. Much of this decision relied on the 1898 case of United States v. Wong…",
+          "published": "2026-09-08T13:30:00.000Z"
+        },
+        {
+          "title": "One very busy weekend",
+          "link": "https://www.scotusblog.com/2026/09/one-very-busy-weekend/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, how two men without lawyers got their cases to the Supreme Court.",
+          "published": "2026-09-08T13:00:00.000Z"
+        },
+        {
+          "title": "Missouri organizer urges Supreme Court to leave ruling in place preventing use of congressional map expected to benefit Republicans",
+          "link": "https://www.scotusblog.com/2026/09/missouri-organizer-urges-supreme-court-to-leave-ruling-in-place-preventing-use-of-congressional-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "A Missouri man on Monday urged the Supreme Court to leave in place a ruling by the Missouri Supreme Court that bars the state from using a new congressional map that could give Republicans an additional seat in the upcoming November…",
+          "published": "2026-09-07T17:24:03.000Z"
+        },
+        {
+          "title": "Trump administration again appeals mail-in ballot dispute to the Supreme Court",
+          "link": "https://www.scotusblog.com/2026/09/trump-administration-again-appeals-mail-in-ballot-dispute-to-the-supreme-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Trump administration came to the Supreme Court on Sunday morning, asking the justices to pause a ruling by a federal judge in Massachusetts that bars the government from implementing parts of a U.S. Postal Service rule on mail-in…",
+          "published": "2026-09-06T17:35:23.000Z"
+        },
+        {
+          "title": "Missouri urges Supreme Court to allow for use of congressional map expected to aid Republicans",
+          "link": "https://www.scotusblog.com/2026/09/missouri-urges-supreme-court-to-allow-for-use-of-congressional-map-expected-to-aid-republicans/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Telling the justices that “[a] federal-election-administration disaster is unfolding in Missouri,” Missouri Secretary of State Denny Hoskins came to the Supreme Court on Friday night , asking the justices to intervene in a battle over the…",
+          "published": "2026-09-05T15:47:06.000Z"
+        },
+        {
+          "title": "Court grants request from Republican groups to pause ruling, for now, on political broadcasting rates",
+          "link": "https://www.scotusblog.com/2026/09/court-grants-request-from-republican-groups-to-pause-ruling-for-now-on-political-broadcasting-ra/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Friday cleared the way for political parties and joint fundraising committees, at least for now, to receive favorable advertising rates in the upcoming midterm elections. In a four-page, unsigned opinion , the…",
+          "published": "2026-09-04T20:56:52.000Z"
+        },
+        {
+          "title": "Court announces cases it will hear in December, including challenges to the constitutionality of bans on AR-15s",
+          "link": "https://www.scotusblog.com/2026/09/court-announces-cases-it-will-hear-in-december-including-challenges-to-the-constitutionality-of-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court will hear a pair of challenges to the constitutionality of bans on AR-15s and other semiautomatic rifles on Dec. 2. The oral arguments in Viramontes v. Cook County , which has been consolidated with Grant v. Higgins ,…",
+          "published": "2026-09-04T18:14:14.000Z"
+        },
+        {
+          "title": "In final scheduled summer order list, Supreme Court again declines to weigh in on COVID-19 vaccine mandate case",
+          "link": "https://www.scotusblog.com/2026/09/in-final-scheduled-summer-order-list-supreme-court-again-declines-to-weigh-in-on-covid-19-vaccin/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Friday morning once again declined to weigh in on a case brought by New York healthcare workers who were denied a religious accommodation from the state’s COVID-19 vaccine mandate for healthcare workers and lost their…",
+          "published": "2026-09-04T14:25:59.000Z"
         }
       ]
     }
