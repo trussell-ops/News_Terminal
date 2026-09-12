@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T06:00:58.701Z",
+  "updated": "2026-09-12T11:00:13.540Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "OpenAI agents attacked RubyGems back in May",
-          "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+          "title": "OpenAI just wants to win",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances,…",
+          "published": "2026-09-12T11:00:00.000Z"
+        },
+        {
+          "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+          "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-12T04:46:43.000Z"
+          "published": "2026-09-12T10:39:03.000Z"
+        },
+        {
+          "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-12T09:08:54.000Z"
+        },
+        {
+          "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+          "link": "https://eiln.github.io/posts/ane.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-12T07:54:03.000Z"
+        },
+        {
+          "title": "WeWorm: Zero-Click WeChat Worm",
+          "link": "https://calif.io/research/weworm",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-12T05:49:10.000Z"
         },
         {
           "title": "Usenet rewind archive search engine",
@@ -218,7 +250,7 @@
           "published": "2026-09-12T04:19:52.000Z"
         },
         {
-          "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
+          "title": "Navier-Stokes Announcement",
           "link": "https://www.claymath.org/news/navier-stokes-announcement/",
           "source": "Hacker News",
           "category": "tech",
@@ -226,36 +258,12 @@
           "published": "2026-09-12T04:09:43.000Z"
         },
         {
-          "title": "Google no longer provides direct URLs in search results",
+          "title": "google.com&#x2F;goto: Google's anti-scraping update",
           "link": "https://www.autom.dev/blog/google-search-goto-links",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-12T03:14:20.000Z"
-        },
-        {
-          "title": "Pandas Should Go Extinct",
-          "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-12T02:42:08.000Z"
-        },
-        {
-          "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
-          "link": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-12T00:40:32.000Z"
-        },
-        {
-          "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-          "link": "https://github.com/zachsaw/graphify-csharp",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-12T00:16:10.000Z"
         },
         {
           "title": "Some satellite companies still have an appetite for boutique launch services",
@@ -298,12 +306,12 @@
           "published": "2026-09-11T21:41:16.000Z"
         },
         {
-          "title": "AI researchers debate how close we are to recursive self-improvement",
-          "link": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "title": "Another way to leak traffic on Android has been discovered",
+          "link": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-11T21:35:29.000Z"
+          "published": "2026-09-11T21:16:48.000Z"
         },
         {
           "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
@@ -376,14 +384,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-11T18:10:20.000Z"
-        },
-        {
-          "title": "The EPA is planning to scrap public review rules for data center pollution",
-          "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-11T18:05:21.000Z"
         },
         {
           "title": "A misalignment of AI in mathematics",
