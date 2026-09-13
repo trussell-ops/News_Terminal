@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T19:29:37.892Z",
+  "updated": "2026-09-13T21:30:59.285Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -51,6 +51,14 @@
           "category": "markets",
           "snippet": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
           "published": "2026-09-12T21:16:47.000Z"
+        },
+        {
+          "title": "Iceland to open first store in the Falklands",
+          "link": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Boss Lord Richard Walker says it would be the the first UK high street brand to operate there.",
+          "published": "2026-09-12T20:50:54.000Z"
         },
         {
           "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Macy's posted strong fiscal second-quarter results on Thursday and raised its full-year guidance.",
           "published": "2026-09-10T20:49:05.000Z"
-        },
-        {
-          "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
-          "link": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial truck plant in Kentucky.",
-          "published": "2026-09-10T20:48:14.000Z"
         }
       ]
     },
@@ -202,20 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+          "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-13T20:33:18.000Z"
+        },
+        {
+          "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+          "link": "https://twitter.com/TechEmails/status/2099214399840059428",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-13T20:08:45.000Z"
+        },
+        {
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even…",
+          "published": "2026-09-13T19:41:48.000Z"
+        },
+        {
+          "title": "There Is No AI (It's Just People) with Jaron Lanier",
+          "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-13T19:41:06.000Z"
+        },
+        {
           "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
           "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-13T18:49:44.000Z"
-        },
-        {
-          "title": "Flock cameras used to arrest a child for playing on a swing",
-          "link": "https://www.youtube.com/watch?v=koclOnlde0E",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T18:47:26.000Z"
         },
         {
           "title": "Apple is reportedly working on iPhone game controllers",
@@ -282,14 +306,6 @@
           "published": "2026-09-13T16:52:33.000Z"
         },
         {
-          "title": "Making Startups Powerful",
-          "link": "https://www.paulgraham.com/powerful.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T15:51:47.000Z"
-        },
-        {
           "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
           "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
           "source": "Hacker News",
@@ -346,14 +362,6 @@
           "published": "2026-09-13T14:09:53.000Z"
         },
         {
-          "title": "Key symbols we lost to time, pt. 1: The PC side",
-          "link": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T14:00:44.000Z"
-        },
-        {
           "title": "Data collected by cars and sold to third parties",
           "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
           "source": "Hacker News",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-13T12:01:52.000Z"
-        },
-        {
-          "title": "Apple’s new phones are here",
-          "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week,…",
-          "published": "2026-09-13T12:00:00.000Z"
         }
       ]
     },
