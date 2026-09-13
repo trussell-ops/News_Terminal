@@ -1,9 +1,41 @@
 {
-  "updated": "2026-09-13T21:30:59.285Z",
+  "updated": "2026-09-13T23:47:05.121Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "How to protect your laptop, phone and bike from thieves at uni",
+          "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "What should new students consider to keep your belongings safe and covered by insurance?",
+          "published": "2026-09-13T23:39:32.000Z"
+        },
+        {
+          "title": "Gloomy forecast for tenants as rent rises set to speed up",
+          "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
+          "published": "2026-09-13T23:05:45.000Z"
+        },
+        {
+          "title": "'Culture shift' needed in how UK does business, PM urges",
+          "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+          "published": "2026-09-13T21:30:21.000Z"
+        },
+        {
+          "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+          "published": "2026-09-13T19:34:36.000Z"
+        },
         {
           "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
@@ -125,22 +157,6 @@
           "published": "2026-09-11T14:22:42.000Z"
         },
         {
-          "title": "Can you really juggle a job and study for a degree?",
-          "link": "https://www.bbc.co.uk/news/videos/cvgyrdyw32lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Students in Glasgow say the cost of living is making part-time work increasingly important.",
-          "published": "2026-09-11T14:04:57.000Z"
-        },
-        {
-          "title": "Interest rates could rise again across the world – here's why",
-          "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-          "published": "2026-09-11T13:35:29.000Z"
-        },
-        {
           "title": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
           "link": "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
           "source": "CNBC Business",
@@ -179,28 +195,60 @@
           "category": "markets",
           "snippet": "The BBC's Samira Hussain looks at the president's past claims after he announced he would pay American adults $5,000 if Republicans win in the midterm elections.",
           "published": "2026-09-10T22:53:00.000Z"
-        },
-        {
-          "title": "Labour mayors in England vow to cap tourist tax at 5%",
-          "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
-          "published": "2026-09-10T21:22:06.000Z"
-        },
-        {
-          "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
-          "link": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Macy's posted strong fiscal second-quarter results on Thursday and raised its full-year guidance.",
-          "published": "2026-09-10T20:49:05.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+          "link": "https://openai.com/index/better-language-models/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-13T23:11:17.000Z"
+        },
+        {
+          "title": "The Contagion of Fear",
+          "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-13T22:38:18.000Z"
+        },
+        {
+          "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+          "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+          "published": "2026-09-13T21:56:52.000Z"
+        },
+        {
+          "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+          "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-13T21:47:04.000Z"
+        },
+        {
+          "title": "Why is privacy so hard?",
+          "link": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-13T21:13:43.000Z"
+        },
+        {
+          "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-13T21:06:13.000Z"
+        },
         {
           "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
           "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
@@ -234,14 +282,6 @@
           "published": "2026-09-13T19:41:06.000Z"
         },
         {
-          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-          "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T18:49:44.000Z"
-        },
-        {
           "title": "Apple is reportedly working on iPhone game controllers",
           "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
           "source": "The Verge",
@@ -256,14 +296,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-13T18:03:09.000Z"
-        },
-        {
-          "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
-          "link": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T17:57:59.000Z"
         },
         {
           "title": "Device Drivers lab exercise – COSC562",
@@ -288,22 +320,6 @@
           "category": "tech",
           "snippet": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to…",
           "published": "2026-09-13T17:36:10.000Z"
-        },
-        {
-          "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
-          "link": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T17:08:16.000Z"
-        },
-        {
-          "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-          "link": "https://twitter.com/DavidSacks/status/2098973625252708460",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T16:52:33.000Z"
         },
         {
           "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins…",
           "published": "2026-09-13T13:00:00.000Z"
-        },
-        {
-          "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T12:30:15.000Z"
-        },
-        {
-          "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-          "link": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T12:01:52.000Z"
         }
       ]
     },
