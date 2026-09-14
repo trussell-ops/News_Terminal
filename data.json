@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-13T23:47:05.121Z",
+  "updated": "2026-09-14T02:25:20.817Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Amazon pauses operations with cargo carrier after fatal Miami crash",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+          "published": "2026-09-14T02:11:53.000Z"
+        },
+        {
+          "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+          "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
+          "published": "2026-09-14T01:05:56.000Z"
+        },
         {
           "title": "How to protect your laptop, phone and bike from thieves at uni",
           "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
@@ -35,6 +51,14 @@
           "category": "markets",
           "snippet": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
           "published": "2026-09-13T19:34:36.000Z"
+        },
+        {
+          "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+          "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+          "published": "2026-09-13T18:49:37.000Z"
         },
         {
           "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
@@ -99,14 +123,6 @@
           "category": "markets",
           "snippet": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
           "published": "2026-09-12T20:37:29.000Z"
-        },
-        {
-          "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
-          "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
-          "published": "2026-09-12T12:00:01.000Z"
         },
         {
           "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
           "published": "2026-09-10T23:05:47.000Z"
-        },
-        {
-          "title": "I asked my husband to pay into my pension when we had a child - here's why",
-          "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
-          "published": "2026-09-10T23:04:30.000Z"
-        },
-        {
-          "title": "Watch: Three times Trump has promised money to Americans",
-          "link": "https://www.bbc.co.uk/news/videos/cgk5nn338peo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The BBC's Samira Hussain looks at the president's past claims after he announced he would pay American adults $5,000 if Republicans win in the midterm elections.",
-          "published": "2026-09-10T22:53:00.000Z"
         }
       ]
     },
@@ -202,15 +202,71 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
-          "link": "https://openai.com/index/better-language-models/",
+          "title": "Show HN: Is It Greg?",
+          "link": "https://github.com/antoineleclair/is-it-greg",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-13T23:11:17.000Z"
+          "published": "2026-09-14T01:58:41.000Z"
         },
         {
-          "title": "The Contagion of Fear",
+          "title": "The case against JPEG XL",
+          "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-14T01:02:37.000Z"
+        },
+        {
+          "title": "AI is not a normal technology",
+          "link": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-14T01:00:09.000Z"
+        },
+        {
+          "title": "Writing a better reality: The case for optimistic sci-fi",
+          "link": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-14T00:27:11.000Z"
+        },
+        {
+          "title": "Open-Source AI and Open Models Reading List",
+          "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-14T00:22:51.000Z"
+        },
+        {
+          "title": "Apple's Dimensional Drawings",
+          "link": "https://developer.apple.com/accessories/dimensional-drawings/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-14T00:11:21.000Z"
+        },
+        {
+          "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+          "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-14T00:07:09.000Z"
+        },
+        {
+          "title": "The Coming War on General Computation (2011)",
+          "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-13T23:54:55.000Z"
+        },
+        {
+          "title": "The contagion of fear",
           "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
           "source": "Hacker News",
           "category": "tech",
@@ -250,7 +306,7 @@
           "published": "2026-09-13T21:06:13.000Z"
         },
         {
-          "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+          "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
           "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
           "source": "Hacker News",
           "category": "tech",
@@ -258,12 +314,12 @@
           "published": "2026-09-13T20:33:18.000Z"
         },
         {
-          "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-          "link": "https://twitter.com/TechEmails/status/2099214399840059428",
+          "title": "Mullenweg has returned as CEO after attempted board ouster",
+          "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-13T20:08:45.000Z"
+          "published": "2026-09-13T20:19:06.000Z"
         },
         {
           "title": "Trump and Mike Johnson think the AI industry is overreacting",
@@ -274,36 +330,12 @@
           "published": "2026-09-13T19:41:48.000Z"
         },
         {
-          "title": "There Is No AI (It's Just People) with Jaron Lanier",
-          "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T19:41:06.000Z"
-        },
-        {
           "title": "Apple is reportedly working on iPhone game controllers",
           "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week,…",
           "published": "2026-09-13T18:30:16.000Z"
-        },
-        {
-          "title": "I'm being cyberattacked by Tesla, Inc",
-          "link": "https://dreamstation.systems/personal/tesla.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T18:03:09.000Z"
-        },
-        {
-          "title": "Device Drivers lab exercise – COSC562",
-          "link": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T17:41:50.000Z"
         },
         {
           "title": "Why is Google still serving dodgy ads?",
@@ -322,28 +354,12 @@
           "published": "2026-09-13T17:36:10.000Z"
         },
         {
-          "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-          "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "title": "Ask HN: What are you working on? (September 2026)",
+          "link": "https://news.ycombinator.com/item?id=49686380",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-13T15:44:38.000Z"
-        },
-        {
-          "title": "Libraries Run Rust Inside Python (With PyO3)",
-          "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T15:24:05.000Z"
-        },
-        {
-          "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
-          "link": "https://cpak.it/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T15:02:56.000Z"
+          "published": "2026-09-13T17:31:38.000Z"
         },
         {
           "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-13T14:09:53.000Z"
-        },
-        {
-          "title": "Data collected by cars and sold to third parties",
-          "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-13T13:45:08.000Z"
-        },
-        {
-          "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
-          "link": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins…",
-          "published": "2026-09-13T13:00:00.000Z"
         }
       ]
     },
@@ -405,118 +405,6 @@
           "category": "legal",
           "snippet": "The Supreme Court on Friday dismissed a case that had been scheduled for argument in October after U.S. Solicitor General D. John Sauer notified the court that the case is now moot and the challenger agreed that it should be removed from…",
           "published": "2026-09-12T00:10:46.000Z"
-        },
-        {
-          "title": "That s Some Epic Biglaw Shade See Also",
-          "link": "https://abovethelaw.com/2026/09/thats-some-epic-biglaw-shade-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The One Thing Nobody Has Ever Called Cravath... 'A Smaller Platform': Until Weil, which just lost its corporate chair to the firm, gave it a shot. Hear Me Out : Should we really care that a federal court opinion reads like Gen Z slang? We…",
-          "published": "2026-09-11T23:33:00.000Z"
-        },
-        {
-          "title": "She Earned The First Law Degree Ever Given To An American Woman And She Wasn t Allowed To Use It",
-          "link": "https://abovethelaw.com/2026/09/she-earned-the-first-law-degree-ever-given-to-an-american-woman-and-she-wasnt-allowed-to-use-it/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Barred from practicing law because she was a woman. The post She Earned The First Law Degree Ever Given To An American Woman And She Wasn t Allowed To Use It appeared first on Above the Law .",
-          "published": "2026-09-11T23:01:00.000Z"
-        },
-        {
-          "title": "How To Create Authority Pages That Beat Competitors On Google And ChatGPT",
-          "link": "https://abovethelaw.com/2026/09/how-to-create-authority-pages-that-beat-competitors-on-google-and-chatgpt/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Your law firm’s ‘authority’ pages are there to showcase your expertise and establish your practice as a source of reliable information. The post How To Create Authority Pages That Beat Competitors On Google And ChatGPT appeared first on…",
-          "published": "2026-09-11T22:15:00.000Z"
-        },
-        {
-          "title": "Lawyers Should Abandon Some Outdated Practices",
-          "link": "https://abovethelaw.com/2026/09/lawyers-should-abandon-some-outdated-practices/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Meaningless traditions can consume a surprising amount of resources. The post Lawyers Should Abandon Some Outdated Practices appeared first on Above the Law .",
-          "published": "2026-09-11T21:33:00.000Z"
-        },
-        {
-          "title": "The Future Of Legal AI Isn t About AI",
-          "link": "https://abovethelaw.com/2026/09/the-future-of-legal-ai-isnt-about-ai/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "It's about understanding how legal work actually gets done. The post The Future Of Legal AI Isn t About AI appeared first on Above the Law .",
-          "published": "2026-09-11T20:44:00.000Z"
-        },
-        {
-          "title": "Trump Ally Stomps Off After Discovering Grand Conspiracy Is Actually Mid At Best",
-          "link": "https://abovethelaw.com/2026/09/trump-ally-stomps-off-after-discovering-grand-conspiracy-is-actually-mid-at-best/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Never get high on your own supply. The post Trump Ally Stomps Off After Discovering Grand Conspiracy Is Actually Mid At Best appeared first on Above the Law .",
-          "published": "2026-09-11T20:04:00.000Z"
-        },
-        {
-          "title": "The Best Law Schools For Human Rights Law (2026)",
-          "link": "https://abovethelaw.com/2026/09/the-best-law-schools-for-human-rights-law-2026/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "If you're interested in human rights law, you need to see this list. The post The Best Law Schools For Human Rights Law (2026) appeared first on Above the Law .",
-          "published": "2026-09-11T19:15:00.000Z"
-        },
-        {
-          "title": "Is This Federal Appellate Opinion Too Informal?",
-          "link": "https://abovethelaw.com/2026/09/first-circuit-opinion-goes-informal-well-fill-in-the-deets-shortly-but-the-sparknotes-is-this/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Federal judge describes facts as 'deets.' The post Is This Federal Appellate Opinion Too Informal? appeared first on Above the Law .",
-          "published": "2026-09-11T18:32:00.000Z"
-        },
-        {
-          "title": "Weil s Corporate Chair Decamps For Cravath, Which Weil Would Like You To Know Is A Smaller Platform",
-          "link": "https://abovethelaw.com/2026/09/weils-corporate-chair-decamps-for-cravath-which-weil-would-like-you-to-know-is-a-smaller-platform/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "That's not how I'd describe Cravath, but sure. The post Weil s Corporate Chair Decamps For Cravath, Which Weil Would Like You To Know Is A Smaller Platform appeared first on Above the Law .",
-          "published": "2026-09-11T17:42:00.000Z"
-        },
-        {
-          "title": "Biglaw’s First-Year Associate Hiring Plunge May Be Just The Beginning",
-          "link": "https://abovethelaw.com/2026/09/biglaws-first-year-associate-hiring-plunge-may-be-just-the-beginning/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Firms are preparing to welcome even smaller classes in the years ahead. The post Biglaw’s First-Year Associate Hiring Plunge May Be Just The Beginning appeared first on Above the Law .",
-          "published": "2026-09-11T17:01:00.000Z"
-        },
-        {
-          "title": "When Clients Ask About AI, How Should Firms Respond?",
-          "link": "https://abovethelaw.com/2026/09/when-clients-ask-about-ai-how-should-firms-respond/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] Lessons from elementary school. The post When Clients Ask About AI, How Should Firms Respond? appeared first on Above the Law .",
-          "published": "2026-09-11T16:18:00.000Z"
-        },
-        {
-          "title": "This Law Professor s Mission Is Giving Voice To The Voiceless",
-          "link": "https://abovethelaw.com/2026/09/this-law-professors-mission-is-giving-voice-to-the-voiceless/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Closing the legal accountability gap. The post This Law Professor s Mission Is Giving Voice To The Voiceless appeared first on Above the Law .",
-          "published": "2026-09-11T15:32:00.000Z"
-        },
-        {
-          "title": "Judge Demands Answers From DOJ For Refusing To Dismiss Reflecting Pool Case With Prejudice",
-          "link": "https://abovethelaw.com/2026/09/judge-demands-answers-from-doj-for-refusing-to-dismiss-reflecting-pool-case-with-prejudice/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "From the hi-we're-from-the-'how-high'-department dept The post Judge Demands Answers From DOJ For Refusing To Dismiss Reflecting Pool Case With Prejudice appeared first on Above the Law .",
-          "published": "2026-09-11T14:47:00.000Z"
-        },
-        {
-          "title": "How Appealing Weekly Roundup",
-          "link": "https://abovethelaw.com/2026/09/how-appealing-weekly-roundup-185/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
-          "published": "2026-09-11T14:05:42.000Z"
         },
         {
           "title": "Germany’s Federal Constitutional Court",
@@ -543,52 +431,164 @@
           "published": "2026-09-11T13:00:00.000Z"
         },
         {
-          "title": "Morning Docket: 09.11.26",
-          "link": "https://abovethelaw.com/2026/09/morning-docket-09-11-26/",
-          "source": "Above the Law",
+          "title": "Trump administration asks justices to decide on its appointments of acting U.S. attorneys",
+          "link": "https://www.scotusblog.com/2026/09/trump-administration-asks-justices-to-decide-on-its-appointments-of-acting-us-attorneys/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "* Weil corporate chair bolts for Cravath. [ Bloomberg Law News ] * Sam Bankman-Fried asks Supreme Court for help getting out of jail. [ Law360 ] * Harvard moves up recruiting timeline to allow interviewing in 1L September. [ Harvard…",
-          "published": "2026-09-11T12:55:00.000Z"
+          "snippet": "Arguing that a ruling by the U.S. Court of Appeals for the 9th Circuit “threatens to inject mass confusion into five U.S. Attorney’s Offices in the Ninth Circuit that collectively handle over 8000 civil and criminal cases annually,” the…",
+          "published": "2026-09-10T18:05:52.000Z"
         },
         {
-          "title": "Even This Supreme Court Wouldn t Bail Out The Missouri GOP See Also",
-          "link": "https://abovethelaw.com/2026/09/even-this-supreme-court-wouldnt-bail-out-the-missouri-gop-see-also/",
-          "source": "Above the Law",
+          "title": "A quick update on the Missouri congressional districting case",
+          "link": "https://www.scotusblog.com/2026/09/a-quick-update-on-the-missouri-congressional-districting-case/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Show Me State Got Shown : The U.S. Supreme Court yet again told Missouri Republicans that they need to stop trying to make their illegal map happen . Say Howdy To The New Biggest Firm In Texas : The richest firm in America takes the crown…",
-          "published": "2026-09-10T23:02:00.000Z"
+          "snippet": "Hurray once again for Justice Brett Kavanaugh and his colleagues, who just hours ago benchslapped four lower federal court judges – one district judge and three appellate judges on the U.S. Court of Appeals for the 8th Circuit – in the…",
+          "published": "2026-09-10T16:40:49.000Z"
         },
         {
-          "title": "Once The Second-Biggest Firm In America, Then The First To Blow Up",
-          "link": "https://abovethelaw.com/2026/09/once-the-second-biggest-firm-in-america-then-the-first-to-blow-up/",
-          "source": "Above the Law",
+          "title": "Supreme Court grants request to prevent Missouri from using congressional map expected to aid Republicans",
+          "link": "https://www.scotusblog.com/2026/09/supreme-court-grants-request-to-prevent-missouri-from-using-congressional-map-expected-to-aid-re/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "It rewrote the rules of Biglaw, got rich, and became a cautionary tale for the ages. The post Once The Second-Biggest Firm In America, Then The First To Blow Up appeared first on Above the Law .",
-          "published": "2026-09-10T22:15:00.000Z"
+          "snippet": "Updated on Sept. 10 at 3:44 p.m. EDT The Supreme Court on Thursday morning paused a ruling by a federal judge in Missouri that would have allowed the state to use a new congressional map intended to give Republicans an additional seat in…",
+          "published": "2026-09-10T15:57:17.000Z"
         },
         {
-          "title": "Trump Is Considering A Pardon For Michael Cohen, The Lawyer Who Helped Convict Him",
-          "link": "https://abovethelaw.com/2026/09/trump-is-considering-a-pardon-for-michael-cohen-the-lawyer-who-helped-convict-him/",
-          "source": "Above the Law",
+          "title": "The architecture of persuasion: United States v. Hemani",
+          "link": "https://www.scotusblog.com/2026/09/the-architecture-of-persuasion-united-states-v-hemani/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The president appreciates his former attorney’s very late change of tune. The post Trump Is Considering A Pardon For Michael Cohen, The Lawyer Who Helped Convict Him appeared first on Above the Law .",
-          "published": "2026-09-10T21:32:00.000Z"
+          "snippet": "Although some law professors make a living hiding the ball, I will repeat my thesis right up front: Good legal writers are simply good writers – strong English stylists. As my first example, I offered Chief Justice John Roberts , who…",
+          "published": "2026-09-10T14:00:00.000Z"
         },
         {
-          "title": "Supreme Court To Missouri Republicans: Shut Up",
-          "link": "https://abovethelaw.com/2026/09/supreme-court-to-missouri-republicans-shut-up/",
-          "source": "Above the Law",
+          "title": "The minoritarian difficulty",
+          "link": "https://www.scotusblog.com/2026/09/the-minoritarian-difficulty/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Missouri Republicans tried to gerrymander their maps in violation of state law. The U.S. Supreme Court refused to be a party to it. The post Supreme Court To Missouri Republicans: Shut Up appeared first on Above the Law .",
-          "published": "2026-09-10T20:44:00.000Z"
+          "snippet": "Court reform is a hot topic these days. Scholars , commentators , and politicians argue that the Supreme Court is aggrandizing its powers at the expense of Congress, undermining American democracy, and facilitating the Trump…",
+          "published": "2026-09-10T13:30:00.000Z"
         },
         {
-          "title": "DOJ Says Berkeley Law Rigged Its Admissions To Favor Black Students. There Are 51 Of Them.",
-          "link": "https://abovethelaw.com/2026/09/doj-says-berkeley-law-rigged-its-admissions-to-favor-black-students-there-are-51-of-them/",
-          "source": "Above the Law",
+          "title": "A new era of SCOTUSblog",
+          "link": "https://www.scotusblog.com/2026/09/a-new-era-of-scotusblog/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "If the school is putting a thumb on the scale for Black applicants, it's doing a remarkably bad job of it. The post DOJ Says Berkeley Law Rigged Its Admissions To Favor Black Students. There Are 51 Of Them. appeared first on Above the Law .",
-          "published": "2026-09-10T20:00:00.000Z"
+          "snippet": "Plus, the dispute over Missouri’s congressional redistricting is back at the Supreme Court.",
+          "published": "2026-09-10T13:00:00.000Z"
+        },
+        {
+          "title": "Missouri congressional redistricting dispute returns to the Supreme Court",
+          "link": "https://www.scotusblog.com/2026/09/missouri-congressional-redistricting-dispute-returns-to-the-supreme-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Just one day after Justice Brett Kavanaugh left in place a ruling by the Missouri Supreme Court that barred Missouri from using a new congressional map intended to give Republicans an additional seat in the U.S. House of Representatives…",
+          "published": "2026-09-09T22:48:02.000Z"
+        },
+        {
+          "title": "States, civic groups urge Supreme Court to leave order in place prohibiting Trump administration from implementing parts of mail-in ballot rule",
+          "link": "https://www.scotusblog.com/2026/09/states-civic-groups-urge-supreme-court-to-leave-order-in-place-prohibiting-trump-administration-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "California, joined by a group of 22 states and the District of Columbia, urged the Supreme Court on Wednesday to leave in place a ruling by a federal judge in Boston that prohibits the Trump administration from implementing parts of a…",
+          "published": "2026-09-09T20:43:12.000Z"
+        },
+        {
+          "title": "Introducing SCOTUSblog Plus",
+          "link": "https://www.scotusblog.com/2026/09/introducing-scotusblog-plus/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "It’s hard to believe, but SCOTUSblog has now been around for nearly a quarter-century – old enough to run for Congress! SCOTUSblog was originally launched to help promote a then-three-person law firm. As a business-development strategy,…",
+          "published": "2026-09-09T15:00:00.000Z"
+        },
+        {
+          "title": "Aesthetic injuries, standing, and the White House ballroom",
+          "link": "https://www.scotusblog.com/2026/09/aesthetic-injuries-standing-and-the-white-house-ballroom/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court’s decision to allow President Donald Trump to demolish the East Wing of the White House and build a huge ballroom is troubling enough. But it could also have long-term consequences by making it much harder for plaintiffs…",
+          "published": "2026-09-09T13:30:00.000Z"
+        },
+        {
+          "title": "Justice Kavanaugh stands up for state constitutional law in the Missouri congressional case",
+          "link": "https://www.scotusblog.com/2026/09/justice-kavanaugh-stands-up-for-state-constitutional-law-in-the-missouri-congressional-case/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "A crucial case decided yesterday on the Supreme Court’s emergency docket will likely mean that in the upcoming November election Republicans will win only 6 of 8 Missouri congressional seats in the new House of Representatives, rather…",
+          "published": "2026-09-09T13:03:54.000Z"
+        },
+        {
+          "title": "More election-related action on the interim docket",
+          "link": "https://www.scotusblog.com/2026/09/more-election-related-action-on-the-interim-docket/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, should the Supreme Court try to shorten oral arguments?",
+          "published": "2026-09-09T13:00:00.000Z"
+        },
+        {
+          "title": "Elections dispute continues after Justice Kavanaugh turns down request from Missouri to use congressional map expected to aid Republicans",
+          "link": "https://www.scotusblog.com/2026/09/justice-kavanaugh-turns-down-request-from-missouri-to-use-congressional-map-expected-to-aid-repu/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Updated on Sept. 9 at 10:50 a.m. Justice Brett Kavanaugh on Tuesday blocked Missouri from using a new congressional map, intended to give Republicans an additional seat in the U.S. House of Representatives, in the November elections. In a…",
+          "published": "2026-09-08T22:14:43.000Z"
+        },
+        {
+          "title": "Citing election-fraud concerns, Trump administration brings dispute over voter database to the Supreme Court",
+          "link": "https://www.scotusblog.com/2026/09/citing-election-fraud-concerns-trump-administration-brings-dispute-over-voter-database-to-the-su/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "For the second time in three days, the Trump administration on Tuesday came to the Supreme Court, asking the justices to clear the way for it to implement a program that it says is intended to combat election fraud. U.S. Solicitor General…",
+          "published": "2026-09-08T17:52:34.000Z"
+        },
+        {
+          "title": "The “born free and equal” clauses and same-sex marriage",
+          "link": "https://www.scotusblog.com/2026/09/the-born-free-and-equal-clauses-and-same-sex-marriage/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This is the fourth of seven introductory articles on the relevance for constitutional law and the Supreme Court of the “born free and equal” clauses, which appeared in the Declaration of Independence and in six out of 12 state…",
+          "published": "2026-09-08T14:30:00.000Z"
+        },
+        {
+          "title": "Empower the Supreme Court’s supermajority on substantive matters",
+          "link": "https://www.scotusblog.com/2026/09/empower-the-supreme-courts-supermajority-on-substantive-matters/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This is the seventh piece in a series on what I believe the court can, and should, do better. *** In my last column , I suggested several ways in which the Supreme Court could provide more procedural protections for the court’s minority.…",
+          "published": "2026-09-08T14:00:00.000Z"
+        },
+        {
+          "title": "The century-old fight to test birthright citizenship",
+          "link": "https://www.scotusblog.com/2026/09/the-century-old-fight-to-test-birthright-citizenship/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "As SCOTUSblog readers are well aware, on June 30, a majority of justices struck down President Donald Trump’s executive order seeking to end birthright citizenship. Much of this decision relied on the 1898 case of United States v. Wong…",
+          "published": "2026-09-08T13:30:00.000Z"
+        },
+        {
+          "title": "One very busy weekend",
+          "link": "https://www.scotusblog.com/2026/09/one-very-busy-weekend/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, how two men without lawyers got their cases to the Supreme Court.",
+          "published": "2026-09-08T13:00:00.000Z"
+        },
+        {
+          "title": "Missouri organizer urges Supreme Court to leave ruling in place preventing use of congressional map expected to benefit Republicans",
+          "link": "https://www.scotusblog.com/2026/09/missouri-organizer-urges-supreme-court-to-leave-ruling-in-place-preventing-use-of-congressional-/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "A Missouri man on Monday urged the Supreme Court to leave in place a ruling by the Missouri Supreme Court that bars the state from using a new congressional map that could give Republicans an additional seat in the upcoming November…",
+          "published": "2026-09-07T17:24:03.000Z"
+        },
+        {
+          "title": "Trump administration again appeals mail-in ballot dispute to the Supreme Court",
+          "link": "https://www.scotusblog.com/2026/09/trump-administration-again-appeals-mail-in-ballot-dispute-to-the-supreme-court/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Trump administration came to the Supreme Court on Sunday morning, asking the justices to pause a ruling by a federal judge in Massachusetts that bars the government from implementing parts of a U.S. Postal Service rule on mail-in…",
+          "published": "2026-09-06T17:35:23.000Z"
         }
       ]
     }
