@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-14T19:41:09.777Z",
+  "updated": "2026-09-14T22:51:27.564Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+          "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+          "published": "2026-09-14T22:10:10.000Z"
+        },
+        {
+          "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.",
+          "published": "2026-09-14T22:01:39.000Z"
+        },
+        {
+          "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+          "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
+          "published": "2026-09-14T20:34:23.000Z"
+        },
         {
           "title": "Carney gambles on the world's biggest investors betting on Canada",
           "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
@@ -19,22 +43,6 @@
           "category": "markets",
           "snippet": "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
           "published": "2026-09-14T19:06:46.000Z"
-        },
-        {
-          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
-          "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
-          "published": "2026-09-14T18:54:16.000Z"
-        },
-        {
-          "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-          "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
-          "published": "2026-09-14T18:39:08.000Z"
         },
         {
           "title": "Novo CEO tells CNBC why drugmaker is rebranding, needs to 'rethink' obesity strategy",
@@ -187,20 +195,92 @@
           "category": "markets",
           "snippet": "Total assets invested in so-called tax-aware long-short strategies — or TALS — have surged to more than $170 billion, according to Tax Alpha Insider.",
           "published": "2026-09-11T15:54:22.000Z"
-        },
-        {
-          "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-          "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
-          "published": "2026-09-11T15:37:25.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Apple Home’s new security camera features cost up to $60 a month",
+          "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you…",
+          "published": "2026-09-14T22:28:52.000Z"
+        },
+        {
+          "title": "Charts built for Chat",
+          "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-14T21:22:54.000Z"
+        },
+        {
+          "title": "What execs and politicians are saying about slowing down AI development",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are…",
+          "published": "2026-09-14T21:21:42.000Z"
+        },
+        {
+          "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+          "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-14T21:05:22.000Z"
+        },
+        {
+          "title": "Trump throws out power plant climate pollution rules",
+          "link": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric…",
+          "published": "2026-09-14T20:45:00.000Z"
+        },
+        {
+          "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+          "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on…",
+          "published": "2026-09-14T20:03:37.000Z"
+        },
+        {
+          "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-14T19:56:20.000Z"
+        },
+        {
+          "title": "Valve s virtual reality plans hit actual reality",
+          "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market…",
+          "published": "2026-09-14T19:48:06.000Z"
+        },
+        {
+          "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+          "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+          "published": "2026-09-14T19:45:13.000Z"
+        },
+        {
+          "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+          "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+          "published": "2026-09-14T19:38:46.000Z"
+        },
         {
           "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
           "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
@@ -210,12 +290,44 @@
           "published": "2026-09-14T19:30:58.000Z"
         },
         {
-          "title": "iOS 27, iPadOS 27, and macOS 27",
-          "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+          "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+          "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "This is also the last version of macOS to support Rosetta for Intel apps.",
+          "published": "2026-09-14T19:28:42.000Z"
+        },
+        {
+          "title": "AI leaders want to hit the brakes after years of reckless speed",
+          "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+          "published": "2026-09-14T19:06:13.000Z"
+        },
+        {
+          "title": "Online hate researcher keeps hammering X despite deportation threat",
+          "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "US won’t back down from fight to deport technology researchers.",
+          "published": "2026-09-14T18:24:09.000Z"
+        },
+        {
+          "title": "A new solar cell could generate electricity underwater",
+          "link": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The trick isn't using perovskites—the trick is making them last.",
+          "published": "2026-09-14T18:03:16.000Z"
+        },
+        {
+          "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+          "link": "https://pub.sakana.ai/pc-alm/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-14T17:50:29.000Z"
+          "published": "2026-09-14T18:03:12.000Z"
         },
         {
           "title": "TIFF 2026: The latest movie reviews from Toronto",
@@ -246,7 +358,7 @@
           "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Isotropic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
+          "snippet": "Isotopic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
           "published": "2026-09-14T17:10:54.000Z"
         },
         {
@@ -280,124 +392,44 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-14T17:00:53.000Z"
-        },
-        {
-          "title": "Steam Frame: The Ars Technica review",
-          "link": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Valve's new $1,049 VR hardware tries to revive an abandoned VR \"revolution.\"",
-          "published": "2026-09-14T17:00:07.000Z"
-        },
-        {
-          "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-          "link": "https://www.theverge.com/tech/994267/steam-frame-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299…",
-          "published": "2026-09-14T17:00:00.000Z"
-        },
-        {
-          "title": "Valve’s Steam Frame costs $1,059",
-          "link": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299.…",
-          "published": "2026-09-14T17:00:00.000Z"
-        },
-        {
-          "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
-          "link": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow,…",
-          "published": "2026-09-14T17:00:00.000Z"
-        },
-        {
-          "title": "I reviewed Valve’s Steam Frame, ask me anything",
-          "link": "https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an early glimpse at the…",
-          "published": "2026-09-14T17:00:00.000Z"
-        },
-        {
-          "title": "The Dell XPS 13 is the first real competitor to the MacBook Neo",
-          "link": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Dell's last XPS 13 was meant to be a farewell before the company sunset the entire XPS brand. But it was a bitter ending, and an overpriced one as well. Earlier this year, Dell resurrected the XPS name with the excellent (and very…",
-          "published": "2026-09-14T17:00:00.000Z"
-        },
-        {
-          "title": "Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’",
-          "link": "https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Netflix has announced three new adaptations of Sega games: a Crazy Taxi film, a Sonic animated series \"built for kids who want to feel a little edge,\" and a live-action movie based on the upcoming Stranger Than Heaven from Yakuza…",
-          "published": "2026-09-14T16:48:46.000Z"
-        },
-        {
-          "title": "Why don't machine learning research agents overfit?",
-          "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T16:32:23.000Z"
-        },
-        {
-          "title": "When LLM judges agree, should we believe them?",
-          "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T16:29:30.000Z"
-        },
-        {
-          "title": "\"Offensively cheap\": Solar power is looking up",
-          "link": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities.",
-          "published": "2026-09-14T16:29:18.000Z"
-        },
-        {
-          "title": "How my e-reader lost its stripes",
-          "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T16:23:16.000Z"
-        },
-        {
-          "title": "Claude is a Contrarian",
-          "link": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T16:14:24.000Z"
-        },
-        {
-          "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
-          "link": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T16:09:45.000Z"
-        },
-        {
-          "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
-          "link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T16:07:58.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "For Most Of Its History, The Supreme Court Was Just A Tenant",
+          "link": "https://abovethelaw.com/2026/09/for-most-of-its-history-the-supreme-court-was-just-a-tenant/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "No building, no problem: the Court's long wait for a home. The post For Most Of Its History, The Supreme Court Was Just A Tenant appeared first on Above the Law .",
+          "published": "2026-09-14T22:14:00.000Z"
+        },
+        {
+          "title": "People I Never Care To Hear About Again",
+          "link": "https://abovethelaw.com/2026/09/people-i-never-care-to-hear-about-again/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Enough already! The post People I Never Care To Hear About Again appeared first on Above the Law .",
+          "published": "2026-09-14T21:33:00.000Z"
+        },
+        {
+          "title": "Legal Ethics Roundup: Welcome Back! Headlines, Ethics Reforms, Reading Recommendations, Trivia, Events, Jobs More",
+          "link": "https://abovethelaw.com/2026/09/legal-ethics-roundup-welcome-back-headlines-ethics-reforms-reading-recommendations-trivia-events-jobs-more/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson. The post Legal Ethics Roundup: Welcome Back! Headlines, Ethics Reforms, Reading Recommendations, Trivia,…",
+          "published": "2026-09-14T20:44:00.000Z"
+        },
+        {
+          "title": "Lawyers Are Even More Miserable Than We Knew",
+          "link": "https://abovethelaw.com/2026/09/lawyers-are-even-more-miserable-than-we-knew/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The largest-ever study of lawyer wellness paints a deeply troubling picture. The post Lawyers Are Even More Miserable Than We Knew appeared first on Above the Law .",
+          "published": "2026-09-14T20:04:00.000Z"
+        },
         {
           "title": "The AI Workplace Gender Gap In The Legal Profession",
           "link": "https://abovethelaw.com/2026/09/the-ai-workplace-gender-gap-in-the-legal-profession/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "Never get high on your own supply. The post Trump Ally Stomps Off After Discovering Grand Conspiracy Is Actually Mid At Best appeared first on Above the Law .",
           "published": "2026-09-11T20:04:00.000Z"
-        },
-        {
-          "title": "The Best Law Schools For Human Rights Law (2026)",
-          "link": "https://abovethelaw.com/2026/09/the-best-law-schools-for-human-rights-law-2026/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "If you're interested in human rights law, you need to see this list. The post The Best Law Schools For Human Rights Law (2026) appeared first on Above the Law .",
-          "published": "2026-09-11T19:15:00.000Z"
-        },
-        {
-          "title": "Is This Federal Appellate Opinion Too Informal?",
-          "link": "https://abovethelaw.com/2026/09/first-circuit-opinion-goes-informal-well-fill-in-the-deets-shortly-but-the-sparknotes-is-this/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Federal judge describes facts as 'deets.' The post Is This Federal Appellate Opinion Too Informal? appeared first on Above the Law .",
-          "published": "2026-09-11T18:32:00.000Z"
-        },
-        {
-          "title": "Weil s Corporate Chair Decamps For Cravath, Which Weil Would Like You To Know Is A Smaller Platform",
-          "link": "https://abovethelaw.com/2026/09/weils-corporate-chair-decamps-for-cravath-which-weil-would-like-you-to-know-is-a-smaller-platform/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "That's not how I'd describe Cravath, but sure. The post Weil s Corporate Chair Decamps For Cravath, Which Weil Would Like You To Know Is A Smaller Platform appeared first on Above the Law .",
-          "published": "2026-09-11T17:42:00.000Z"
-        },
-        {
-          "title": "Biglaw’s First-Year Associate Hiring Plunge May Be Just The Beginning",
-          "link": "https://abovethelaw.com/2026/09/biglaws-first-year-associate-hiring-plunge-may-be-just-the-beginning/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Firms are preparing to welcome even smaller classes in the years ahead. The post Biglaw’s First-Year Associate Hiring Plunge May Be Just The Beginning appeared first on Above the Law .",
-          "published": "2026-09-11T17:01:00.000Z"
         }
       ]
     }
