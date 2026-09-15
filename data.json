@@ -1,9 +1,49 @@
 {
-  "updated": "2026-09-15T01:04:17.860Z",
+  "updated": "2026-09-15T06:17:57.506Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "State pension likely to rise by 3.9% next April",
+          "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The state pension rises by the highest of wage growth, inflation or 2.5%.",
+          "published": "2026-09-15T06:12:49.000Z"
+        },
+        {
+          "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.",
+          "published": "2026-09-15T05:13:08.000Z"
+        },
+        {
+          "title": "Charities praise will gifts despite cost of living",
+          "link": "https://www.bbc.co.uk/news/articles/cj9xerk9v2po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Jersey charities say leaving donations in wills can be \"transformational\", regardless of how much.",
+          "published": "2026-09-15T05:03:47.000Z"
+        },
+        {
+          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+          "published": "2026-09-15T03:47:27.000Z"
+        },
+        {
+          "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+          "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+          "published": "2026-09-15T02:50:36.000Z"
+        },
         {
           "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
@@ -27,14 +67,6 @@
           "category": "markets",
           "snippet": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
           "published": "2026-09-14T23:07:56.000Z"
-        },
-        {
-          "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.",
-          "published": "2026-09-14T22:01:39.000Z"
         },
         {
           "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
@@ -163,44 +195,36 @@
           "category": "markets",
           "snippet": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
           "published": "2026-09-13T09:05:10.000Z"
-        },
-        {
-          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-          "published": "2026-09-12T21:16:47.000Z"
-        },
-        {
-          "title": "Iceland to open first store in the Falklands",
-          "link": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Boss Lord Richard Walker says it would be the the first UK high street brand to operate there.",
-          "published": "2026-09-12T20:50:54.000Z"
-        },
-        {
-          "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-          "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
-          "published": "2026-09-12T20:37:29.000Z"
-        },
-        {
-          "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-          "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
-          "published": "2026-09-11T16:06:31.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Linux from Scratch",
+          "link": "https://www.linuxfromscratch.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T04:15:23.000Z"
+        },
+        {
+          "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+          "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
+          "published": "2026-09-15T03:47:36.000Z"
+        },
+        {
+          "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+          "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T00:40:14.000Z"
+        },
         {
           "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
           "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
@@ -298,14 +322,6 @@
           "published": "2026-09-14T20:03:37.000Z"
         },
         {
-          "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-          "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T19:56:20.000Z"
-        },
-        {
           "title": "Valve s virtual reality plans hit actual reality",
           "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
           "source": "The Verge",
@@ -376,22 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-14T18:03:12.000Z"
-        },
-        {
-          "title": "iOS 27, iPadOS 27, and macOS 27",
-          "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T17:50:29.000Z"
-        },
-        {
-          "title": "TIFF 2026: The latest movie reviews from Toronto",
-          "link": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you want an idea of what s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be huge hits or awards…",
-          "published": "2026-09-14T17:30:00.000Z"
         }
       ]
     },
