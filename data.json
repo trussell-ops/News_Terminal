@@ -1,16 +1,64 @@
 {
-  "updated": "2026-09-15T06:17:57.506Z",
+  "updated": "2026-09-15T11:55:52.611Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "State pension likely to rise by 3.9% next April",
+          "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
           "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The state pension rises by the highest of wage growth, inflation or 2.5%.",
-          "published": "2026-09-15T06:12:49.000Z"
+          "snippet": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+          "published": "2026-09-15T11:05:42.000Z"
+        },
+        {
+          "title": "GM launching new customer software experience with redesigned Chevy, GMC pickups",
+          "link": "https://www.cnbc.com/2026/09/15/2027-chevy-silverado-gmc-sierra-to-debut-gms-new-software-experience.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The new system comes as vehicles are becoming more digital, leading GM to also redesign its organizational processes.",
+          "published": "2026-09-15T11:00:01.000Z"
+        },
+        {
+          "title": "Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
+          "link": "https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Children's clothing brand Carter's is announcing a rebrand as it tries to keep up with the modern parent and its core customer base.",
+          "published": "2026-09-15T10:00:01.000Z"
+        },
+        {
+          "title": "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
+          "link": "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Philadelphia will release more cream cheese flavors as part of Kraft Heinz's turnaround.",
+          "published": "2026-09-15T10:00:01.000Z"
+        },
+        {
+          "title": "U.S. auto market predictions for 2030: More hybrids, no Chinese entrants",
+          "link": "https://www.cnbc.com/2026/09/15/us-auto-market-predictions-2030-john-murphy.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Despite growing speculation that it won't be long until Chinese autos are sold in the U.S., John Murphy doesn't expect that to happen by 2030.",
+          "published": "2026-09-15T10:00:01.000Z"
+        },
+        {
+          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+          "published": "2026-09-15T08:49:31.000Z"
+        },
+        {
+          "title": "What is the triple lock and how much is the state pension worth?",
+          "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
+          "published": "2026-09-15T07:20:55.000Z"
         },
         {
           "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
@@ -27,14 +75,6 @@
           "category": "markets",
           "snippet": "Jersey charities say leaving donations in wills can be \"transformational\", regardless of how much.",
           "published": "2026-09-15T05:03:47.000Z"
-        },
-        {
-          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-          "published": "2026-09-15T03:47:27.000Z"
         },
         {
           "title": "AI regulation faces political deadlock as calls grow for Congress to act",
@@ -133,14 +173,6 @@
           "published": "2026-09-14T08:07:08.000Z"
         },
         {
-          "title": "Food redistribution warehouse opens in east London",
-          "link": "https://www.bbc.co.uk/news/articles/c87vywld028o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The Big Heart Food Hub in Barking aims to deliver 10 tonnes of food to charities each week.",
-          "published": "2026-09-14T04:56:54.000Z"
-        },
-        {
           "title": "Amazon pauses work with cargo firm after fatal crash",
           "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -163,44 +195,108 @@
           "category": "markets",
           "snippet": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
           "published": "2026-09-13T23:05:45.000Z"
-        },
-        {
-          "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-          "published": "2026-09-13T19:34:36.000Z"
-        },
-        {
-          "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-          "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-          "published": "2026-09-13T18:49:37.000Z"
-        },
-        {
-          "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-          "published": "2026-09-13T14:53:40.000Z"
-        },
-        {
-          "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-          "published": "2026-09-13T09:05:10.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "GM updates its trucks’ native software to coexist with CarPlay",
+          "link": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple CarPlay and…",
+          "published": "2026-09-15T11:00:00.000Z"
+        },
+        {
+          "title": "Suspected sabotage causes major Netherlands rail disruption",
+          "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T10:22:46.000Z"
+        },
+        {
+          "title": "Let's make quality the norm again",
+          "link": "https://www.forbrukerradet.no/short-life/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T10:00:16.000Z"
+        },
+        {
+          "title": "How much of F-Droid is LLM generated?",
+          "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T09:47:48.000Z"
+        },
+        {
+          "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+          "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also…",
+          "published": "2026-09-15T08:54:48.000Z"
+        },
+        {
+          "title": "Alternatives to MinIO for single-node local S3",
+          "link": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T08:21:27.000Z"
+        },
+        {
+          "title": "The k-server conjecture is true",
+          "link": "https://arxiv.org/abs/2609.15979",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T07:45:31.000Z"
+        },
+        {
+          "title": "CSS-Tricks in Limbo",
+          "link": "https://vale.rocks/micros/20260915-0135",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T07:27:46.000Z"
+        },
+        {
+          "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+          "link": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T07:00:30.000Z"
+        },
+        {
+          "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+          "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
+          "published": "2026-09-15T07:00:30.000Z"
+        },
+        {
+          "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+          "link": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the…",
+          "published": "2026-09-15T07:00:00.000Z"
+        },
+        {
+          "title": "I can't stop thinking about Papua New Guinea",
+          "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T06:16:24.000Z"
+        },
         {
           "title": "Linux from Scratch",
           "link": "https://www.linuxfromscratch.org/",
@@ -216,14 +312,6 @@
           "category": "tech",
           "snippet": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
           "published": "2026-09-15T03:47:36.000Z"
-        },
-        {
-          "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-          "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T00:40:14.000Z"
         },
         {
           "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
@@ -290,14 +378,6 @@
           "published": "2026-09-14T21:21:42.000Z"
         },
         {
-          "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-          "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T21:05:22.000Z"
-        },
-        {
           "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
           "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
           "source": "Ars Technica",
@@ -312,86 +392,6 @@
           "category": "tech",
           "snippet": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric…",
           "published": "2026-09-14T20:45:00.000Z"
-        },
-        {
-          "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-          "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on…",
-          "published": "2026-09-14T20:03:37.000Z"
-        },
-        {
-          "title": "Valve s virtual reality plans hit actual reality",
-          "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market…",
-          "published": "2026-09-14T19:48:06.000Z"
-        },
-        {
-          "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-          "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
-          "published": "2026-09-14T19:45:13.000Z"
-        },
-        {
-          "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-          "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
-          "published": "2026-09-14T19:38:46.000Z"
-        },
-        {
-          "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
-          "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds…",
-          "published": "2026-09-14T19:30:58.000Z"
-        },
-        {
-          "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-          "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "This is also the last version of macOS to support Rosetta for Intel apps.",
-          "published": "2026-09-14T19:28:42.000Z"
-        },
-        {
-          "title": "AI leaders want to hit the brakes after years of reckless speed",
-          "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-          "published": "2026-09-14T19:06:13.000Z"
-        },
-        {
-          "title": "Online hate researcher keeps hammering X despite deportation threat",
-          "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "US won’t back down from fight to deport technology researchers.",
-          "published": "2026-09-14T18:24:09.000Z"
-        },
-        {
-          "title": "A new solar cell could generate electricity underwater",
-          "link": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The trick isn't using perovskites—the trick is making them last.",
-          "published": "2026-09-14T18:03:16.000Z"
-        },
-        {
-          "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
-          "link": "https://pub.sakana.ai/pc-alm/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T18:03:12.000Z"
         }
       ]
     },
