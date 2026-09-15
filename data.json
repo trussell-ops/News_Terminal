@@ -1,16 +1,24 @@
 {
-  "updated": "2026-09-15T19:32:58.975Z",
+  "updated": "2026-09-15T22:32:39.212Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+          "published": "2026-09-15T22:13:10.000Z"
+        },
         {
           "title": "US borrowing costs hit highest level since 2007",
           "link": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
-          "published": "2026-09-15T18:51:43.000Z"
+          "published": "2026-09-15T19:35:10.000Z"
         },
         {
           "title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
           "published": "2026-09-14T11:42:52.000Z"
-        },
-        {
-          "title": "Heading off to uni? Here's what to insure against theft",
-          "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "What should new students consider to keep your belongings safe and covered by insurance?",
-          "published": "2026-09-14T08:13:56.000Z"
         }
       ]
     },
@@ -202,7 +202,87 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Chop Up Your Books",
+          "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+          "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T21:07:47.000Z"
+        },
+        {
+          "title": "Jean-Pierre Serre is 100 years old today",
+          "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T20:57:18.000Z"
+        },
+        {
+          "title": "Microsoft announces Windows and Surface event for October 7th",
+          "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a…",
+          "published": "2026-09-15T20:36:59.000Z"
+        },
+        {
+          "title": "What if social media isn’t hurting kids?",
+          "link": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental…",
+          "published": "2026-09-15T20:13:30.000Z"
+        },
+        {
+          "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+          "link": "https://codyho.dev/blog/gpu-driver/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T19:30:03.000Z"
+        },
+        {
+          "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+          "link": "https://github.com/GraafHenk/numberwang",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T19:27:35.000Z"
+        },
+        {
+          "title": "Introducing System One Models and Jev",
+          "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T19:25:03.000Z"
+        },
+        {
+          "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+          "link": "https://mnoukhov.github.io/posts/ngu/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T19:07:38.000Z"
+        },
+        {
+          "title": "18-year-old dies of measles in PA from severe neurological complication",
+          "link": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
+          "published": "2026-09-15T18:58:09.000Z"
+        },
+        {
+          "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
+          "link": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Reaching orbit would mark a significant milestone.",
+          "published": "2026-09-15T18:48:08.000Z"
+        },
+        {
+          "title": "Chopping up books when they're physically too big",
           "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
           "source": "Hacker News",
           "category": "tech",
@@ -216,6 +296,14 @@
           "category": "tech",
           "snippet": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is shaking off its…",
           "published": "2026-09-15T18:39:44.000Z"
+        },
+        {
+          "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+          "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Robots can start working outside physical cages and without safety barriers.",
+          "published": "2026-09-15T18:33:02.000Z"
         },
         {
           "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
@@ -250,22 +338,6 @@
           "published": "2026-09-15T17:58:09.000Z"
         },
         {
-          "title": "Google copied our open-source code, removed engineers' names without credit",
-          "link": "https://www.reddit.com/r/reinforcementlearning/comments/1wg1unx/google_copied_our_opensource_code_removed_our/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T17:57:39.000Z"
-        },
-        {
-          "title": "Hugging Face is billing OpenAI $100M for hacking it",
-          "link": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T17:56:10.000Z"
-        },
-        {
           "title": "An Update on Wayback Machine Access",
           "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
           "source": "Hacker News",
@@ -280,6 +352,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-15T17:38:18.000Z"
+        },
+        {
+          "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+          "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T17:37:12.000Z"
         },
         {
           "title": "GEFS on OpenBSD: A Early Preview",
@@ -312,92 +392,52 @@
           "category": "tech",
           "snippet": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-style horror flick…",
           "published": "2026-09-15T16:00:00.000Z"
-        },
-        {
-          "title": "America's Driver's License Breach Is a National Security Disaster",
-          "link": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T15:58:48.000Z"
-        },
-        {
-          "title": "Cartesian – AI 3D Modeling for Design",
-          "link": "https://www.formas.ai/cartesian",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T15:26:45.000Z"
-        },
-        {
-          "title": "Now Light’s minimalist phone can easily call an Uber",
-          "link": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "More than a decade after its Kickstarter proposed a \"cell phone designed to be used as little as possible,\" Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owners of either the Light Phone III or the…",
-          "published": "2026-09-15T15:00:00.000Z"
-        },
-        {
-          "title": "Meta s new One subscriptions put a price on social media and AI",
-          "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but…",
-          "published": "2026-09-15T15:00:00.000Z"
-        },
-        {
-          "title": "The CSS Zen Garden dream, finally shipped",
-          "link": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T14:40:08.000Z"
-        },
-        {
-          "title": "The Inference Hardware Revolution of 2026",
-          "link": "https://spectrum.ieee.org/inference-hardware-revolution",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T14:24:08.000Z"
-        },
-        {
-          "title": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
-          "link": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera with a round design that lacked a screen or viewfinder,…",
-          "published": "2026-09-15T14:03:18.000Z"
-        },
-        {
-          "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-          "link": "https://github.com/greentfrapp/panel",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T13:58:37.000Z"
-        },
-        {
-          "title": "Trump EPA moves to wipe out climate rules for power plants",
-          "link": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "EPA says power plant emissions have no material impact on climate change.",
-          "published": "2026-09-15T13:43:51.000Z"
-        },
-        {
-          "title": "This doorbell camera lets a human security guard watch your front door",
-          "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor…",
-          "published": "2026-09-15T13:36:45.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Oldest Law Firm In The World",
+          "link": "https://abovethelaw.com/2026/09/the-oldest-law-firm-in-the-world/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Over 450 years and going strong. The post The Oldest Law Firm In The World appeared first on Above the Law .",
+          "published": "2026-09-15T22:14:00.000Z"
+        },
+        {
+          "title": "Trump s Own Justices Are A Shell Of Their Original Selves For Not Handing Him The Midterm Election",
+          "link": "https://abovethelaw.com/2026/09/trumps-own-justices-are-a-shell-of-their-original-selves-for-not-handing-him-the-midterm-election/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Even a stacked bench has its limits. The post Trump s Own Justices Are A Shell Of Their Original Selves For Not Handing Him The Midterm Election appeared first on Above the Law .",
+          "published": "2026-09-15T21:34:00.000Z"
+        },
+        {
+          "title": "The AI Indemnity Arms Race Is Distracting Us From The Bigger Story",
+          "link": "https://abovethelaw.com/2026/09/the-ai-indemnity-arms-race-is-distracting-us-from-the-bigger-story/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Indemnities matter, but they represent only one clause in a much larger governance framework. The post The AI Indemnity Arms Race Is Distracting Us From The Bigger Story appeared first on Above the Law .",
+          "published": "2026-09-15T20:44:00.000Z"
+        },
+        {
+          "title": "Groups urge justices to leave in place ruling barring Trump administration’s use of voter database",
+          "link": "https://www.scotusblog.com/2026/09/groups-urge-justices-to-leave-in-place-ruling-barring-trump-administrations-use-of-voter-databas/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Lawyers for the League of Women Voters and the Electronic Privacy Information Center on Tuesday urged the Supreme Court to leave in place a ruling by a federal judge in Washington, D.C., that bars the federal government from using a…",
+          "published": "2026-09-15T20:39:01.000Z"
+        },
+        {
+          "title": "Biglaw’s $20 Million Partner Paydays Are Getting Out Of Control",
+          "link": "https://abovethelaw.com/2026/09/biglaws-20-million-partner-paydays-are-getting-out-of-control/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The lateral hiring frenzy is producing some truly astonishing compensation packages, but not every rainmaker lives up to the hype. The post Biglaw’s $20 Million Partner Paydays Are Getting Out Of Control appeared first on Above the Law .",
+          "published": "2026-09-15T20:02:05.000Z"
+        },
         {
           "title": "The Ninth Circuit Confirms What Should Have Been Self-Evident: A Wager Is A Wager",
           "link": "https://abovethelaw.com/2026/09/the-ninth-circuit-confirms-what-should-have-been-self-evident-a-wager-is-a-wager/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "Women’s reluctance to use AI may also impact career advancement. The post The AI Workplace Gender Gap In The Legal Profession appeared first on Above the Law .",
           "published": "2026-09-14T19:13:00.000Z"
-        },
-        {
-          "title": "AI For New Jersey Public Defenders: Solving The A2J Problem One Bite At A Time",
-          "link": "https://abovethelaw.com/2026/09/ai-for-new-jersey-public-defenders-solving-the-a2j-problem-one-bite-at-a-time/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The NJ Office of the Public Defender partnered with a think tank and a prestigious university to get the AI program it needed. The post AI For New Jersey Public Defenders: Solving The A2J Problem One Bite At A Time appeared first on Above…",
-          "published": "2026-09-14T18:32:00.000Z"
-        },
-        {
-          "title": "Trump’s DOJ Lawyers Leap In To Save Trump’s Personal Lawyers",
-          "link": "https://abovethelaw.com/2026/09/trumps-doj-lawyers-leap-in-to-save-trumps-personal-lawyers/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Because these two things are the same. The post Trump’s DOJ Lawyers Leap In To Save Trump’s Personal Lawyers appeared first on Above the Law .",
-          "published": "2026-09-14T17:43:00.000Z"
-        },
-        {
-          "title": "‘Counsel, Do You Watch The News?’: Lawyer Gets Benchslapped Over AI Hallucinations In Murder Appeal",
-          "link": "https://abovethelaw.com/2026/09/counsel-do-you-watch-the-news-lawyer-gets-benchslapped-over-ai-hallucinations-in-murder-appeal/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The New Mexico Supreme Court imposed a fine and referred the attorney for disciplinary investigation. The post ‘Counsel, Do You Watch The News?’: Lawyer Gets Benchslapped Over AI Hallucinations In Murder Appeal appeared first on Above the…",
-          "published": "2026-09-14T17:01:00.000Z"
-        },
-        {
-          "title": "The Cravath Shade Wasn t A One-Off: Weil Insiders Line Up To Say Good Riddance",
-          "link": "https://abovethelaw.com/2026/09/the-cravath-shade-wasnt-a-one-off-weil-insiders-line-up-to-say-good-riddance/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Biglaw usually manages a gentler goodbye than this. The post The Cravath Shade Wasn t A One-Off: Weil Insiders Line Up To Say Good Riddance appeared first on Above the Law .",
-          "published": "2026-09-14T16:14:00.000Z"
-        },
-        {
-          "title": "Legal AI Needs An Escalation Layer",
-          "link": "https://abovethelaw.com/2026/09/legal-ai-needs-an-escalation-layer/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The legal profession has spent considerable energy teaching AI to answer. The next phase requires teaching it when an answer is not enough. The post Legal AI Needs An Escalation Layer appeared first on Above the Law .",
-          "published": "2026-09-14T15:33:00.000Z"
         }
       ]
     }
