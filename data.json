@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-15T15:59:11.444Z",
+  "updated": "2026-09-15T19:32:58.975Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "US borrowing costs hit highest level since 2007",
+          "link": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
+          "published": "2026-09-15T18:51:43.000Z"
+        },
+        {
+          "title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
+          "link": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Ford said the changes are meant to provide customers with more choice and help expand sales of key models, a strategy CEO Jim Farley has touted.",
+          "published": "2026-09-15T18:08:12.000Z"
+        },
         {
           "title": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center",
           "link": "https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "What should new students consider to keep your belongings safe and covered by insurance?",
           "published": "2026-09-14T08:13:56.000Z"
-        },
-        {
-          "title": "MPs and Lords call for new law to address AI threat to human rights",
-          "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
-          "published": "2026-09-14T08:07:08.000Z"
-        },
-        {
-          "title": "Amazon pauses work with cargo firm after fatal crash",
-          "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
-          "published": "2026-09-14T02:40:06.000Z"
         }
       ]
     },
@@ -202,12 +202,124 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Swift 6.4 Released",
-          "link": "https://www.swift.org/blog/swift-6.4-released/",
+          "title": "Chop Up Your Books",
+          "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-15T15:40:14.000Z"
+          "published": "2026-09-15T18:45:31.000Z"
+        },
+        {
+          "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
+          "link": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is shaking off its…",
+          "published": "2026-09-15T18:39:44.000Z"
+        },
+        {
+          "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
+          "link": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled.",
+          "published": "2026-09-15T18:14:11.000Z"
+        },
+        {
+          "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+          "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T18:11:24.000Z"
+        },
+        {
+          "title": "One of the best 3D printers for beginners is almost $100 off",
+          "link": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "If the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual price of $449. This capable 3D…",
+          "published": "2026-09-15T18:02:30.000Z"
+        },
+        {
+          "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
+          "link": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "EV growth is happening, even in the US, and those EVs will need plugs to charge.",
+          "published": "2026-09-15T17:58:09.000Z"
+        },
+        {
+          "title": "Google copied our open-source code, removed engineers' names without credit",
+          "link": "https://www.reddit.com/r/reinforcementlearning/comments/1wg1unx/google_copied_our_opensource_code_removed_our/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T17:57:39.000Z"
+        },
+        {
+          "title": "Hugging Face is billing OpenAI $100M for hacking it",
+          "link": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T17:56:10.000Z"
+        },
+        {
+          "title": "An Update on Wayback Machine Access",
+          "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T17:52:18.000Z"
+        },
+        {
+          "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T17:38:18.000Z"
+        },
+        {
+          "title": "GEFS on OpenBSD: A Early Preview",
+          "link": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T17:12:19.000Z"
+        },
+        {
+          "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote&#x2F;US)",
+          "link": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T17:00:31.000Z"
+        },
+        {
+          "title": "How The Oregon Trail became a generational icon",
+          "link": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail. On the season 5 premiere of Version History, our fearless wagon…",
+          "published": "2026-09-15T16:18:10.000Z"
+        },
+        {
+          "title": "Vintage Violence is an absurdist crime thriller for phone addicts",
+          "link": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-style horror flick…",
+          "published": "2026-09-15T16:00:00.000Z"
+        },
+        {
+          "title": "America's Driver's License Breach Is a National Security Disaster",
+          "link": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T15:58:48.000Z"
         },
         {
           "title": "Cartesian – AI 3D Modeling for Design",
@@ -234,12 +346,20 @@
           "published": "2026-09-15T15:00:00.000Z"
         },
         {
-          "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
-          "link": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
+          "title": "The CSS Zen Garden dream, finally shipped",
+          "link": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-15T14:07:01.000Z"
+          "published": "2026-09-15T14:40:08.000Z"
+        },
+        {
+          "title": "The Inference Hardware Revolution of 2026",
+          "link": "https://spectrum.ieee.org/inference-hardware-revolution",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T14:24:08.000Z"
         },
         {
           "title": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
@@ -258,12 +378,12 @@
           "published": "2026-09-15T13:58:37.000Z"
         },
         {
-          "title": "AI is breaking our proxies for expertise",
-          "link": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
-          "source": "Hacker News",
+          "title": "Trump EPA moves to wipe out climate rules for power plants",
+          "link": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T13:41:55.000Z"
+          "snippet": "EPA says power plant emissions have no material impact on climate change.",
+          "published": "2026-09-15T13:43:51.000Z"
         },
         {
           "title": "This doorbell camera lets a human security guard watch your front door",
@@ -272,132 +392,52 @@
           "category": "tech",
           "snippet": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor…",
           "published": "2026-09-15T13:36:45.000Z"
-        },
-        {
-          "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-          "link": "https://withcapsule.app/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T13:31:40.000Z"
-        },
-        {
-          "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
-          "link": "https://github.com/ordewell/ordewell",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T13:31:37.000Z"
-        },
-        {
-          "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-          "link": "https://bkovac.github.io/modem-thing/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T13:20:24.000Z"
-        },
-        {
-          "title": "Java 27 Released",
-          "link": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T13:13:43.000Z"
-        },
-        {
-          "title": "Voicemod’s new pocket-friendly device brings real-time voice changing to your phone",
-          "link": "https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Voicemod announced a new mobile device that expands the capabilities of the Voicemod Key dongle it launched in late 2024 as a way to bring the company's real-time voice changing tech to consoles. While the older Voicemod Key only used a…",
-          "published": "2026-09-15T13:00:00.000Z"
-        },
-        {
-          "title": "The premium AirPods 5 are the best open-ear earbuds Apple has made",
-          "link": "https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "It's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and often (especially in the past couple years) more expensive. But that's not what Apple did with the AirPods 5. The $149 AirPods…",
-          "published": "2026-09-15T13:00:00.000Z"
-        },
-        {
-          "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
-          "link": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "But there may be a price to pay for a quiet Atlantic hurricane season.",
-          "published": "2026-09-15T12:36:11.000Z"
-        },
-        {
-          "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-          "link": "https://github.com/arnegiacomo/fugleramme",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T12:31:10.000Z"
-        },
-        {
-          "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
-          "link": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T12:08:26.000Z"
-        },
-        {
-          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-          "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T12:01:31.000Z"
-        },
-        {
-          "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-          "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
-          "published": "2026-09-15T12:00:41.000Z"
-        },
-        {
-          "title": "25 Years of Mass Surveillance Is Enough",
-          "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T11:26:48.000Z"
-        },
-        {
-          "title": "GM updates its trucks’ native software to coexist with CarPlay",
-          "link": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple CarPlay and…",
-          "published": "2026-09-15T11:00:00.000Z"
-        },
-        {
-          "title": "Suspected sabotage causes major Netherlands rail disruption",
-          "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T10:22:46.000Z"
-        },
-        {
-          "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
-          "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also…",
-          "published": "2026-09-15T08:54:48.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The Ninth Circuit Confirms What Should Have Been Self-Evident: A Wager Is A Wager",
+          "link": "https://abovethelaw.com/2026/09/the-ninth-circuit-confirms-what-should-have-been-self-evident-a-wager-is-a-wager/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The terminology associated with prediction markets may change the perception of gambling, but it does not change the risk associated with it. The post The Ninth Circuit Confirms What Should Have Been Self-Evident: A Wager Is A Wager…",
+          "published": "2026-09-15T19:18:00.000Z"
+        },
+        {
+          "title": "Job Of The Month: Elite Litigation Boutique Partner Opportunity",
+          "link": "https://abovethelaw.com/2026/09/job-of-the-month-senior-title-insurance-underwriting-counsel-2/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] A 'hands-on' role, with depositions, motion practice, court appearances, and brief writing. The post Job Of The Month: Elite Litigation Boutique Partner Opportunity appeared first on Above the Law .",
+          "published": "2026-09-15T18:32:00.000Z"
+        },
+        {
+          "title": "Amy Wax Adds Disbarred Coup Lawyer John Eastman For That Accountability Is Persecution Energy",
+          "link": "https://abovethelaw.com/2026/09/amy-wax-adds-disbarred-coup-lawyer-john-eastman-for-that-accountability-is-persecution-energy/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A marriage made in loony lawyer hell. The post Amy Wax Adds Disbarred Coup Lawyer John Eastman For That Accountability Is Persecution Energy appeared first on Above the Law .",
+          "published": "2026-09-15T17:48:58.000Z"
+        },
+        {
+          "title": "Former Managing Partner Accused Of Paying For Disney Trips On The Firm s Dime",
+          "link": "https://abovethelaw.com/2026/09/former-managing-partner-accused-of-paying-for-disney-trips-on-the-firms-dime/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Because Disney is even more magical when the money being spent allegedly isn't yours. The post Former Managing Partner Accused Of Paying For Disney Trips On The Firm s Dime appeared first on Above the Law .",
+          "published": "2026-09-15T17:03:52.000Z"
+        },
+        {
+          "title": "The Remote Work Conundrum Redux",
+          "link": "https://abovethelaw.com/2026/09/the-remote-work-conundrum-redux/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "When older lawyers demand people come to the office, they need to make it meaningful and ensure that people aren’t there just for the sake of being there. The post The Remote Work Conundrum Redux appeared first on Above the Law .",
+          "published": "2026-09-15T16:19:47.000Z"
+        },
         {
           "title": "Why Bigger Legal Budgets Buy Less Relief Than Ever",
           "link": "https://abovethelaw.com/2026/09/why-bigger-legal-budgets-buy-less-relief-than-ever/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "The legal profession has spent considerable energy teaching AI to answer. The next phase requires teaching it when an answer is not enough. The post Legal AI Needs An Escalation Layer appeared first on Above the Law .",
           "published": "2026-09-14T15:33:00.000Z"
-        },
-        {
-          "title": "Trump s Civil Service Loyalty Test Just Hit A Constitutional Road Bump",
-          "link": "https://abovethelaw.com/2026/09/trumps-civil-service-loyalty-test-just-hit-a-constitutional-road-bump/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Turns out you can't make career applicants write an essay praising the president's executive orders. The post Trump s Civil Service Loyalty Test Just Hit A Constitutional Road Bump appeared first on Above the Law .",
-          "published": "2026-09-14T14:42:00.000Z"
-        },
-        {
-          "title": "With Reconciliation Uncertain, Pentagon Eyeing Plan To Retool FY27 Priorities With Congress",
-          "link": "https://breakingdefense.com/2026/09/with-reconciliation-uncertain-pentagon-eyeing-plan-to-retool-fy27-priorities-with-congress/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "In exclusive comments to Breaking Defense, the Pentagon's comptroller acknowledged that some efforts may need to be pushed from FY27 into FY28 with help from lawmakers. The post With Reconciliation Uncertain, Pentagon Eyeing Plan To…",
-          "published": "2026-09-14T14:03:00.000Z"
-        },
-        {
-          "title": "The “born free and equal” clauses and the noxious Buck v. Bell",
-          "link": "https://www.scotusblog.com/2026/09/the-born-free-and-equal-clauses-and-the-noxious-buck-v-bell/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This is the fifth of seven introductory articles on the relevance for constitutional law and the Supreme Court of the “born free and equal” clauses, which appeared in the Declaration of Independence and in six out of 12 state…",
-          "published": "2026-09-14T14:00:00.000Z"
-        },
-        {
-          "title": "When justices drift",
-          "link": "https://www.scotusblog.com/2026/09/when-justices-drift/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Upon introducing Amy Coney Barrett as his nominee to the Supreme Court in September 2020, President Donald Trump praised her as “ a woman of unparalleled achievement, towering intellect, sterling credentials, and unyielding loyalty to the…",
-          "published": "2026-09-14T13:30:00.000Z"
-        },
-        {
-          "title": "Justices dismiss immigration case",
-          "link": "https://www.scotusblog.com/2026/09/justices-dismiss-immigration-case/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, former crypto mogul Sam Bankman-Fried wants SCOTUS to take up his case.",
-          "published": "2026-09-14T13:00:00.000Z"
         }
       ]
     }
