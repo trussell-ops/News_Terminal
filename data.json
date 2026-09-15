@@ -1,16 +1,32 @@
 {
-  "updated": "2026-09-14T22:51:27.564Z",
+  "updated": "2026-09-15T01:04:17.860Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
-          "published": "2026-09-14T22:10:10.000Z"
+          "snippet": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
+          "published": "2026-09-15T00:32:21.000Z"
+        },
+        {
+          "title": "I got paid $5,000 to move to a place I'd never heard of",
+          "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
+          "published": "2026-09-14T23:08:28.000Z"
+        },
+        {
+          "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
+          "published": "2026-09-14T23:07:56.000Z"
         },
         {
           "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
@@ -149,14 +165,6 @@
           "published": "2026-09-13T09:05:10.000Z"
         },
         {
-          "title": "'It's cost upon cost for working families - they get no help'",
-          "link": "https://www.bbc.co.uk/news/articles/c158l7zz5n5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The government needs to do more to support working families, a charity in Rotherham says.",
-          "published": "2026-09-13T06:09:16.000Z"
-        },
-        {
           "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
           "published": "2026-09-11T16:06:31.000Z"
-        },
-        {
-          "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
-          "link": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Total assets invested in so-called tax-aware long-short strategies — or TALS — have surged to more than $170 billion, according to Tax Alpha Insider.",
-          "published": "2026-09-11T15:54:22.000Z"
         }
       ]
     },
@@ -202,12 +202,52 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Apple Home’s new security camera features cost up to $60 a month",
+          "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+          "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is…",
+          "published": "2026-09-15T00:13:47.000Z"
+        },
+        {
+          "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+          "link": "https://github.com/JamesRyanATX/fcbnerd",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-14T23:01:36.000Z"
+        },
+        {
+          "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The…",
+          "published": "2026-09-14T22:59:41.000Z"
+        },
+        {
+          "title": "Apple Home’s new security camera features cost as much as $60 a month",
           "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
           "source": "The Verge",
           "category": "tech",
           "snippet": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you…",
           "published": "2026-09-14T22:28:52.000Z"
+        },
+        {
+          "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+          "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
+          "published": "2026-09-14T22:06:24.000Z"
+        },
+        {
+          "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+          "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+          "published": "2026-09-14T21:32:22.000Z"
         },
         {
           "title": "Charts built for Chat",
@@ -232,6 +272,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-14T21:05:22.000Z"
+        },
+        {
+          "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+          "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+          "published": "2026-09-14T21:04:32.000Z"
         },
         {
           "title": "Trump throws out power plant climate pollution rules",
@@ -330,74 +378,42 @@
           "published": "2026-09-14T18:03:12.000Z"
         },
         {
+          "title": "iOS 27, iPadOS 27, and macOS 27",
+          "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-14T17:50:29.000Z"
+        },
+        {
           "title": "TIFF 2026: The latest movie reviews from Toronto",
           "link": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
           "source": "The Verge",
           "category": "tech",
           "snippet": "If you want an idea of what s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be huge hits or awards…",
           "published": "2026-09-14T17:30:00.000Z"
-        },
-        {
-          "title": "Steam Frame starts at $1059",
-          "link": "https://store.steampowered.com/hardware/steamframe",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T17:27:55.000Z"
-        },
-        {
-          "title": "Pion, an agent designed to run any company autonomously",
-          "link": "https://andonlabs.com/blog/why-we-built-pion",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T17:16:06.000Z"
-        },
-        {
-          "title": "Prehistoric builders transported Devil's Arrows 11 miles",
-          "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Isotopic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
-          "published": "2026-09-14T17:10:54.000Z"
-        },
-        {
-          "title": "macOS 27 is available now",
-          "link": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple released macOS 27 Golden Gate on Monday, which brings the new Siri AI assistant, Liquid Glass improvements, improved performance, and more. The update is compatible with all Macs with Apple Silicon, but not Intel Macs - Apple…",
-          "published": "2026-09-14T17:10:13.000Z"
-        },
-        {
-          "title": "Apple releases iOS 27 with Siri AI overhaul",
-          "link": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates, the delayed AI-powered overhaul of the Siri…",
-          "published": "2026-09-14T17:08:49.000Z"
-        },
-        {
-          "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-          "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T17:02:34.000Z"
-        },
-        {
-          "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
-          "link": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T17:00:53.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Supreme Court denies Trump administration’s request to implement parts of rule on mail-in voting",
+          "link": "https://www.scotusblog.com/2026/09/supreme-court-denies-trump-administrations-request-to-implement-parts-of-usps-rule-on-mail-in-vo/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Monday declined to allow the U.S. Postal Service to carry out parts of a new rule on mail-in voting. In a brief, unsigned order , the justices left in place a ruling by a federal judge in Boston that bars the USPS…",
+          "published": "2026-09-15T00:38:21.000Z"
+        },
+        {
+          "title": "Weil Isn t Even Pretending To Be Sad About Losing Its Most Powerful Partner See Also",
+          "link": "https://abovethelaw.com/2026/09/weil-isnt-even-pretending-to-be-sad-about-losing-its-most-powerful-partner-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Weil Insiders To Mike Aiello: Don't let the door hit you on the way out! AI Is Now Making Up Witness Testimony : It's not just fake cites anymore, but fake humans, too! Watch your filings, lest you face a benchslap like this lawyer. A…",
+          "published": "2026-09-14T23:02:00.000Z"
+        },
         {
           "title": "For Most Of Its History, The Supreme Court Was Just A Tenant",
           "link": "https://abovethelaw.com/2026/09/for-most-of-its-history-the-supreme-court-was-just-a-tenant/",
@@ -573,22 +589,6 @@
           "category": "legal",
           "snippet": "Meaningless traditions can consume a surprising amount of resources. The post Lawyers Should Abandon Some Outdated Practices appeared first on Above the Law .",
           "published": "2026-09-11T21:33:00.000Z"
-        },
-        {
-          "title": "The Future Of Legal AI Isn t About AI",
-          "link": "https://abovethelaw.com/2026/09/the-future-of-legal-ai-isnt-about-ai/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "It's about understanding how legal work actually gets done. The post The Future Of Legal AI Isn t About AI appeared first on Above the Law .",
-          "published": "2026-09-11T20:44:00.000Z"
-        },
-        {
-          "title": "Trump Ally Stomps Off After Discovering Grand Conspiracy Is Actually Mid At Best",
-          "link": "https://abovethelaw.com/2026/09/trump-ally-stomps-off-after-discovering-grand-conspiracy-is-actually-mid-at-best/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Never get high on your own supply. The post Trump Ally Stomps Off After Discovering Grand Conspiracy Is Actually Mid At Best appeared first on Above the Law .",
-          "published": "2026-09-11T20:04:00.000Z"
         }
       ]
     }
