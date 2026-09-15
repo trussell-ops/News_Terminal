@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-15T11:55:52.611Z",
+  "updated": "2026-09-15T15:59:11.444Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center",
+          "link": "https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The gift to Providence St. Vincent Medical Center will support the creation of an all-women’s hospital as well as advance cardiovascular care across Oregon.",
+          "published": "2026-09-15T15:00:01.000Z"
+        },
+        {
+          "title": "Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
+          "link": "https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Children's clothing brand Carter's is announcing a rebrand as it tries to keep up with the modern parent and its core customer base.",
+          "published": "2026-09-15T13:19:31.000Z"
+        },
+        {
+          "title": "Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO",
+          "link": "https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Digital Realty and Equinix, two of the largest data center REITs, saw their stocks slump after warnings over AI advancements.",
+          "published": "2026-09-15T12:28:15.000Z"
+        },
         {
           "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
           "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
@@ -19,14 +43,6 @@
           "category": "markets",
           "snippet": "The new system comes as vehicles are becoming more digital, leading GM to also redesign its organizational processes.",
           "published": "2026-09-15T11:00:01.000Z"
-        },
-        {
-          "title": "Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
-          "link": "https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Children's clothing brand Carter's is announcing a rebrand as it tries to keep up with the modern parent and its core customer base.",
-          "published": "2026-09-15T10:00:01.000Z"
         },
         {
           "title": "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
@@ -179,28 +195,180 @@
           "category": "markets",
           "snippet": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
           "published": "2026-09-14T02:40:06.000Z"
-        },
-        {
-          "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
-          "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
-          "published": "2026-09-14T01:05:56.000Z"
-        },
-        {
-          "title": "Rent rises set to speed up in gloomy forecast for tenants",
-          "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
-          "published": "2026-09-13T23:05:45.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Swift 6.4 Released",
+          "link": "https://www.swift.org/blog/swift-6.4-released/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T15:40:14.000Z"
+        },
+        {
+          "title": "Cartesian – AI 3D Modeling for Design",
+          "link": "https://www.formas.ai/cartesian",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T15:26:45.000Z"
+        },
+        {
+          "title": "Now Light’s minimalist phone can easily call an Uber",
+          "link": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "More than a decade after its Kickstarter proposed a \"cell phone designed to be used as little as possible,\" Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owners of either the Light Phone III or the…",
+          "published": "2026-09-15T15:00:00.000Z"
+        },
+        {
+          "title": "Meta s new One subscriptions put a price on social media and AI",
+          "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but…",
+          "published": "2026-09-15T15:00:00.000Z"
+        },
+        {
+          "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
+          "link": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T14:07:01.000Z"
+        },
+        {
+          "title": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
+          "link": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera with a round design that lacked a screen or viewfinder,…",
+          "published": "2026-09-15T14:03:18.000Z"
+        },
+        {
+          "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+          "link": "https://github.com/greentfrapp/panel",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T13:58:37.000Z"
+        },
+        {
+          "title": "AI is breaking our proxies for expertise",
+          "link": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T13:41:55.000Z"
+        },
+        {
+          "title": "This doorbell camera lets a human security guard watch your front door",
+          "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor…",
+          "published": "2026-09-15T13:36:45.000Z"
+        },
+        {
+          "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+          "link": "https://withcapsule.app/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T13:31:40.000Z"
+        },
+        {
+          "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+          "link": "https://github.com/ordewell/ordewell",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T13:31:37.000Z"
+        },
+        {
+          "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+          "link": "https://bkovac.github.io/modem-thing/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T13:20:24.000Z"
+        },
+        {
+          "title": "Java 27 Released",
+          "link": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T13:13:43.000Z"
+        },
+        {
+          "title": "Voicemod’s new pocket-friendly device brings real-time voice changing to your phone",
+          "link": "https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Voicemod announced a new mobile device that expands the capabilities of the Voicemod Key dongle it launched in late 2024 as a way to bring the company's real-time voice changing tech to consoles. While the older Voicemod Key only used a…",
+          "published": "2026-09-15T13:00:00.000Z"
+        },
+        {
+          "title": "The premium AirPods 5 are the best open-ear earbuds Apple has made",
+          "link": "https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "It's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and often (especially in the past couple years) more expensive. But that's not what Apple did with the AirPods 5. The $149 AirPods…",
+          "published": "2026-09-15T13:00:00.000Z"
+        },
+        {
+          "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
+          "link": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "But there may be a price to pay for a quiet Atlantic hurricane season.",
+          "published": "2026-09-15T12:36:11.000Z"
+        },
+        {
+          "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+          "link": "https://github.com/arnegiacomo/fugleramme",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T12:31:10.000Z"
+        },
+        {
+          "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+          "link": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T12:08:26.000Z"
+        },
+        {
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+          "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T12:01:31.000Z"
+        },
+        {
+          "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+          "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
+          "published": "2026-09-15T12:00:41.000Z"
+        },
+        {
+          "title": "25 Years of Mass Surveillance Is Enough",
+          "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-15T11:26:48.000Z"
+        },
         {
           "title": "GM updates its trucks’ native software to coexist with CarPlay",
           "link": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
@@ -218,186 +386,74 @@
           "published": "2026-09-15T10:22:46.000Z"
         },
         {
-          "title": "Let's make quality the norm again",
-          "link": "https://www.forbrukerradet.no/short-life/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T10:00:16.000Z"
-        },
-        {
-          "title": "How much of F-Droid is LLM generated?",
-          "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T09:47:48.000Z"
-        },
-        {
           "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
           "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also…",
           "published": "2026-09-15T08:54:48.000Z"
-        },
-        {
-          "title": "Alternatives to MinIO for single-node local S3",
-          "link": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T08:21:27.000Z"
-        },
-        {
-          "title": "The k-server conjecture is true",
-          "link": "https://arxiv.org/abs/2609.15979",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T07:45:31.000Z"
-        },
-        {
-          "title": "CSS-Tricks in Limbo",
-          "link": "https://vale.rocks/micros/20260915-0135",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T07:27:46.000Z"
-        },
-        {
-          "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
-          "link": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T07:00:30.000Z"
-        },
-        {
-          "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-          "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
-          "published": "2026-09-15T07:00:30.000Z"
-        },
-        {
-          "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
-          "link": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the…",
-          "published": "2026-09-15T07:00:00.000Z"
-        },
-        {
-          "title": "I can't stop thinking about Papua New Guinea",
-          "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T06:16:24.000Z"
-        },
-        {
-          "title": "Linux from Scratch",
-          "link": "https://www.linuxfromscratch.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-15T04:15:23.000Z"
-        },
-        {
-          "title": "For the first time, the US military confirms it has deployed weapons in orbit",
-          "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
-          "published": "2026-09-15T03:47:36.000Z"
-        },
-        {
-          "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-          "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is…",
-          "published": "2026-09-15T00:13:47.000Z"
-        },
-        {
-          "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-          "link": "https://github.com/JamesRyanATX/fcbnerd",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T23:01:36.000Z"
-        },
-        {
-          "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The…",
-          "published": "2026-09-14T22:59:41.000Z"
-        },
-        {
-          "title": "Apple Home’s new security camera features cost as much as $60 a month",
-          "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you…",
-          "published": "2026-09-14T22:28:52.000Z"
-        },
-        {
-          "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
-          "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
-          "published": "2026-09-14T22:06:24.000Z"
-        },
-        {
-          "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-          "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
-          "published": "2026-09-14T21:32:22.000Z"
-        },
-        {
-          "title": "Charts built for Chat",
-          "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-14T21:22:54.000Z"
-        },
-        {
-          "title": "What execs and politicians are saying about slowing down AI development",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are…",
-          "published": "2026-09-14T21:21:42.000Z"
-        },
-        {
-          "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-          "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-          "published": "2026-09-14T21:04:32.000Z"
-        },
-        {
-          "title": "Trump throws out power plant climate pollution rules",
-          "link": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric…",
-          "published": "2026-09-14T20:45:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Why Bigger Legal Budgets Buy Less Relief Than Ever",
+          "link": "https://abovethelaw.com/2026/09/why-bigger-legal-budgets-buy-less-relief-than-ever/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] Introducing Axiom’s 2027 In-House Legal Budget Report. Read on to see the details. The post Why Bigger Legal Budgets Buy Less Relief Than Ever appeared first on Above the Law .",
+          "published": "2026-09-15T15:35:57.000Z"
+        },
+        {
+          "title": "Which AI Product Is Most Popular Among Law Firms? Findings Of ILTA’s Tech Survey May Surprise You",
+          "link": "https://www.lawnext.com/2026/09/which-ai-product-is-most-popular-among-law-firms-findings-of-iltas-tech-survey-may-surprise-you.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The survey spanned over 500 law firms — all ILTA members — from small boutiques to global giants, representing a dozen countries and 140,000 lawyers. The post Which AI Product Is Most Popular Among Law Firms? Findings Of ILTA’s Tech…",
+          "published": "2026-09-15T14:47:46.000Z"
+        },
+        {
+          "title": "Space Force Has ‘Space Control Weapons’ On Orbit, Air Force Secretary Reveals",
+          "link": "https://breakingdefense.com/2026/09/space-force-has-space-control-weapons-on-orbit-air-force-secretary-says/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Troy Meink didn't elaborate on what ‘weapons’ the US deployed, but revealed new info on other space and unmanned Air Force programs. The post Space Force Has ‘Space Control Weapons’ On Orbit, Air Force Secretary Reveals appeared first on…",
+          "published": "2026-09-15T14:03:00.000Z"
+        },
+        {
+          "title": "Break the Supreme Court law clerk cartel",
+          "link": "https://www.scotusblog.com/2026/09/break-the-supreme-court-law-clerk-cartel/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "This is the eighth and final piece in a series on what I believe the court can, and should, do better. *** Every year, each justice hires four law clerks. Under the current practice, the justices will hire young lawyers with sterling…",
+          "published": "2026-09-15T14:00:00.000Z"
+        },
+        {
+          "title": "Criminal cases coming in the new term – and why the court could and should do more",
+          "link": "https://www.scotusblog.com/2026/09/criminal-cases-coming-in-the-new-term-and-why-the-court-could-and-should-do-more/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "As many SCOTUSblog readers are likely aware, there are some blockbuster criminal law cases set for the Supreme Court’s upcoming term. Bans on AR-15 and similar semi-automatic rifles. Whether juries in criminal cases must always be 12…",
+          "published": "2026-09-15T13:30:00.000Z"
+        },
+        {
+          "title": "Voting disputes take center stage",
+          "link": "https://www.scotusblog.com/2026/09/voting-disputes-take-center-stage/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, a closer look at Clarence Gideon from Gideon v. Wainwright.",
+          "published": "2026-09-15T13:00:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 09.15.26",
+          "link": "https://abovethelaw.com/2026/09/morning-docket-09-15-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Supreme Court majority opts against playing Calvinball and decides that presidents can't unilaterally throw out mail-in ballots they don't like. Alito and Thomas dissent, naturally. [ NPR ] * Election law expert Professor Rick Hasen…",
+          "published": "2026-09-15T12:49:57.000Z"
+        },
         {
           "title": "Supreme Court denies Trump administration’s request to implement parts of rule on mail-in voting",
           "link": "https://www.scotusblog.com/2026/09/supreme-court-denies-trump-administrations-request-to-implement-parts-of-usps-rule-on-mail-in-vo/",
@@ -533,62 +589,6 @@
           "category": "legal",
           "snippet": "Plus, former crypto mogul Sam Bankman-Fried wants SCOTUS to take up his case.",
           "published": "2026-09-14T13:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 09.14.26",
-          "link": "https://abovethelaw.com/2026/09/morning-docket-09-14-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* Looks imminent? Anyone want odds? [ Law360 ] * Deep dive into how the federalist society got us here. [ The Atlantic ] * How Legora aims to take on legal industry giants. [ Business Insider ] * ACC going after another in house counsel…",
-          "published": "2026-09-14T12:53:00.000Z"
-        },
-        {
-          "title": "Missouri Keeps Beating Dead Horse Of A Map See Generally",
-          "link": "https://abovethelaw.com/2026/09/missouri-keeps-beating-dead-horse-of-a-map-see-generally/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Beating A Dead Horse Alert: Missouri Republicans keep sending its gerrymander to the Supreme Court. Try, Try Again : And the Supreme Court keeps telling them to pound sand. Fifty-One Shades Of 'Rigged': DOJ and Education Department say…",
-          "published": "2026-09-14T02:42:28.000Z"
-        },
-        {
-          "title": "Supreme Court dismisses immigration case that was scheduled for argument in October",
-          "link": "https://www.scotusblog.com/2026/09/supreme-court-dismisses-immigration-case-that-was-scheduled-for-argument-in-october/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Friday dismissed a case that had been scheduled for argument in October after U.S. Solicitor General D. John Sauer notified the court that the case is now moot and the challenger agreed that it should be removed from…",
-          "published": "2026-09-12T00:10:46.000Z"
-        },
-        {
-          "title": "That s Some Epic Biglaw Shade See Also",
-          "link": "https://abovethelaw.com/2026/09/thats-some-epic-biglaw-shade-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The One Thing Nobody Has Ever Called Cravath... 'A Smaller Platform': Until Weil, which just lost its corporate chair to the firm, gave it a shot. Hear Me Out : Should we really care that a federal court opinion reads like Gen Z slang? We…",
-          "published": "2026-09-11T23:33:00.000Z"
-        },
-        {
-          "title": "She Earned The First Law Degree Ever Given To An American Woman And She Wasn t Allowed To Use It",
-          "link": "https://abovethelaw.com/2026/09/she-earned-the-first-law-degree-ever-given-to-an-american-woman-and-she-wasnt-allowed-to-use-it/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Barred from practicing law because she was a woman. The post She Earned The First Law Degree Ever Given To An American Woman And She Wasn t Allowed To Use It appeared first on Above the Law .",
-          "published": "2026-09-11T23:01:00.000Z"
-        },
-        {
-          "title": "How To Create Authority Pages That Beat Competitors On Google And ChatGPT",
-          "link": "https://abovethelaw.com/2026/09/how-to-create-authority-pages-that-beat-competitors-on-google-and-chatgpt/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Your law firm’s ‘authority’ pages are there to showcase your expertise and establish your practice as a source of reliable information. The post How To Create Authority Pages That Beat Competitors On Google And ChatGPT appeared first on…",
-          "published": "2026-09-11T22:15:00.000Z"
-        },
-        {
-          "title": "Lawyers Should Abandon Some Outdated Practices",
-          "link": "https://abovethelaw.com/2026/09/lawyers-should-abandon-some-outdated-practices/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Meaningless traditions can consume a surprising amount of resources. The post Lawyers Should Abandon Some Outdated Practices appeared first on Above the Law .",
-          "published": "2026-09-11T21:33:00.000Z"
         }
       ]
     }
