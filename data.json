@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-16T18:58:11.388Z",
+  "updated": "2026-09-16T21:52:57.558Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "US interest rates raised for first time in three years",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday.",
+          "published": "2026-09-16T21:02:11.000Z"
+        },
+        {
+          "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
+          "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Shares of J.B. Hunt plunged 13% Wednesday after the company warned of an earnings drop between 5% and 10%.",
+          "published": "2026-09-16T20:00:36.000Z"
+        },
+        {
+          "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
+          "link": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Boeing CEO Kelly Ortberg said wing production at its Renton, Washington, factory is a hold up, adding the company has plans to address it.",
+          "published": "2026-09-16T19:36:24.000Z"
+        },
         {
           "title": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
           "link": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
@@ -11,14 +35,6 @@
           "category": "markets",
           "snippet": "American says a minority of its seats now accounts for half of its revenue.",
           "published": "2026-09-16T18:33:51.000Z"
-        },
-        {
-          "title": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
-          "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Shares of J.B. Hunt plunged more than 10% Wednesday after the company warned of an earnings drop between 5% and 10%.",
-          "published": "2026-09-16T16:48:13.000Z"
         },
         {
           "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
@@ -117,14 +133,6 @@
           "published": "2026-09-16T05:21:28.000Z"
         },
         {
-          "title": "Traffic, tourism and economy among election concerns",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx5494q6ggo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Residents and business owners in Onchan discuss key concerns ahead of the House of Keys election.",
-          "published": "2026-09-16T05:09:29.000Z"
-        },
-        {
           "title": "How rising bond yields impact American consumers",
           "link": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -187,20 +195,124 @@
           "category": "markets",
           "snippet": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
           "published": "2026-09-15T19:35:10.000Z"
-        },
-        {
-          "title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
-          "link": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Ford said the changes are meant to provide customers with more choice and help expand sales of key models, a strategy CEO Jim Farley has touted.",
-          "published": "2026-09-15T18:08:12.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+          "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Group plans to be largely out of commission for several weeks.",
+          "published": "2026-09-16T21:08:14.000Z"
+        },
+        {
+          "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "link": "https://arxiv.org/abs/2609.16338",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T20:59:24.000Z"
+        },
+        {
+          "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+          "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make…",
+          "published": "2026-09-16T20:59:13.000Z"
+        },
+        {
+          "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+          "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood .",
+          "published": "2026-09-16T20:44:41.000Z"
+        },
+        {
+          "title": "The AI data center e-waste problem is huge — and getting bigger",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a…",
+          "published": "2026-09-16T20:40:46.000Z"
+        },
+        {
+          "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
+          "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem.",
+          "published": "2026-09-16T20:23:16.000Z"
+        },
+        {
+          "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+          "link": "https://mimo.xiaomi.com/rl/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T20:09:18.000Z"
+        },
+        {
+          "title": "macOS 27 Golden Gate – Review",
+          "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T19:53:36.000Z"
+        },
+        {
+          "title": "California may gut state net neutrality law to comply with Trump admin demand",
+          "link": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Trump admin broadband grants forbid states from enforcing net neutrality laws.",
+          "published": "2026-09-16T19:36:44.000Z"
+        },
+        {
+          "title": "How good are frontier models at physics?",
+          "link": "https://arxiv.org/abs/2609.13009",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T19:19:08.000Z"
+        },
+        {
+          "title": "Researchers swap in human brain cells for a mouse's cortex",
+          "link": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The results are only a slight improvement over missing the entire brain structure.",
+          "published": "2026-09-16T19:08:34.000Z"
+        },
+        {
+          "title": "Accurate Models of AMD Matrix Cores",
+          "link": "https://arxiv.org/abs/2609.14845",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T18:56:05.000Z"
+        },
+        {
+          "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+          "link": "https://rohanbansal.com/qorl",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T18:50:00.000Z"
+        },
+        {
+          "title": "Reverse-engineered Jev-like model",
+          "link": "https://github.com/vinnylarouge/jevlike",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T18:49:57.000Z"
+        },
         {
           "title": "Resident Evil is a comedy first and a thrilling nightmare second",
           "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
@@ -210,7 +322,15 @@
           "published": "2026-09-16T18:45:35.000Z"
         },
         {
-          "title": "We've created the first vectorized Quicksort",
+          "title": "Scientists develop new method for deciphering ancient scrolls",
+          "link": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Even a handheld XRF scanner is sufficient to determine most promising scrolls for further analysis.",
+          "published": "2026-09-16T18:43:23.000Z"
+        },
+        {
+          "title": "Vectorized and performance-portable Quicksort (2022)",
           "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
           "source": "Hacker News",
           "category": "tech",
@@ -226,20 +346,12 @@
           "published": "2026-09-16T18:20:38.000Z"
         },
         {
-          "title": "GitHub Is Having Trouble Counting Things",
-          "link": "https://chuckgreenman.com/2026/09/16/counting-at-github",
-          "source": "Hacker News",
+          "title": "The Specialized Diverge Pro 4 makes rough gravel your playground",
+          "link": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T17:31:19.000Z"
-        },
-        {
-          "title": "ER visits for gambling disorders doubled after expanded online gambling market",
-          "link": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T17:27:37.000Z"
+          "snippet": "The Diverge Pro 4 is happiest when the road gets ugly.",
+          "published": "2026-09-16T18:11:53.000Z"
         },
         {
           "title": "Apple might make servers again to cash in on the AI rush",
@@ -274,130 +386,42 @@
           "published": "2026-09-16T17:00:00.000Z"
         },
         {
-          "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-          "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "War damage to data centers exceeded what AWS services are designed to withstand.",
-          "published": "2026-09-16T16:40:11.000Z"
-        },
-        {
-          "title": "Claude comes for Gemini with its own take on Docs and Slides",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also…",
-          "published": "2026-09-16T16:30:00.000Z"
-        },
-        {
-          "title": "Claude Cowork and chat are now one Claude",
-          "link": "https://claude.com/blog/cowork-is-now-claude",
+          "title": "Training Text-to-Image Models 3.6× Faster",
+          "link": "https://www.linum.ai/field-notes/jit-ddt",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-16T16:26:25.000Z"
-        },
-        {
-          "title": "This Code Is CRAP (2011)",
-          "link": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T16:13:55.000Z"
-        },
-        {
-          "title": "Small Programming Tricks",
-          "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T15:56:47.000Z"
-        },
-        {
-          "title": "Can we stop with the uptime percentages?",
-          "link": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T15:40:04.000Z"
-        },
-        {
-          "title": "What happens when neutrinos swap identities inside a supernova?",
-          "link": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
-          "published": "2026-09-16T15:17:43.000Z"
-        },
-        {
-          "title": "macOS 27 Golden Gate: The Ars Technica review",
-          "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
-          "published": "2026-09-16T14:50:06.000Z"
-        },
-        {
-          "title": "The sexy AI-powered dating app scams are here",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red…",
-          "published": "2026-09-16T14:45:00.000Z"
-        },
-        {
-          "title": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
-          "link": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, Xreal’s 1S, has returned to their…",
-          "published": "2026-09-16T14:44:48.000Z"
-        },
-        {
-          "title": "The DeepMind Institute",
-          "link": "https://institute.deepmind.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T14:32:11.000Z"
-        },
-        {
-          "title": "Anatomy of a Texture",
-          "link": "https://agentlien.github.io/texture/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T14:28:28.000Z"
-        },
-        {
-          "title": "A warning about 'model welfare'",
-          "link": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T14:27:47.000Z"
-        },
-        {
-          "title": "The world’s best racing driver is about to race 100 karts at once",
-          "link": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Red Bull, Disney+, and ESPN are streaming the race at noon Eastern today.",
-          "published": "2026-09-16T14:19:01.000Z"
-        },
-        {
-          "title": "Lawmakers target Flock cameras with a threat to highway funding",
-          "link": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses.",
-          "published": "2026-09-16T14:03:39.000Z"
+          "published": "2026-09-16T16:58:13.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "I’m Going To AI-Proof My Writing By Becoming Increasingly Unhinged In A Way No Machine Would Ever Replicate",
+          "link": "https://abovethelaw.com/2026/09/im-going-to-ai-proof-my-writing-by-becoming-increasingly-unhinged-in-a-way-no-machine-would-ever-replicate/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "It just might be my most powerful tool in resisting the influence of the coming AI overlords. The post I’m Going To AI-Proof My Writing By Becoming Increasingly Unhinged In A Way No Machine Would Ever Replicate appeared first on Above the…",
+          "published": "2026-09-16T21:00:00.000Z"
+        },
+        {
+          "title": "Trump’s DOJ Hired A ‘Demolition Crew’ For Civil Rights Enforcement",
+          "link": "https://abovethelaw.com/2026/09/trumps-doj-hired-a-demolition-crew-for-civil-rights-enforcement/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "More than 300 lawyers have reportedly left the division as its mission takes a hard-right turn. The post Trump’s DOJ Hired A ‘Demolition Crew’ For Civil Rights Enforcement appeared first on Above the Law .",
+          "published": "2026-09-16T20:02:00.000Z"
+        },
+        {
+          "title": "Lindsey Halligan s Comeback Tour Hits A Skeptical Fourth Circuit Panel",
+          "link": "https://abovethelaw.com/2026/09/lindsey-halligans-comeback-tour-hits-a-skeptical-fourth-circuit-panel/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The DOJ is trying to get back the Comey and James prosecutions it lost when her appointment was ruled illegal. The panel seemed less than eager. The post Lindsey Halligan s Comeback Tour Hits A Skeptical Fourth Circuit Panel appeared…",
+          "published": "2026-09-16T19:13:00.000Z"
+        },
         {
           "title": "New Bill Might Finally Put A Stop To Judge Pauline Newman s Stealth Impeachment",
           "link": "https://abovethelaw.com/2026/09/new-bill-might-finally-put-a-stop-to-judge-pauline-newmans-stealth-impeachment/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "Because Disney is even more magical when the money being spent allegedly isn't yours. The post Former Managing Partner Accused Of Paying For Disney Trips On The Firm s Dime appeared first on Above the Law .",
           "published": "2026-09-15T17:03:52.000Z"
-        },
-        {
-          "title": "The Remote Work Conundrum Redux",
-          "link": "https://abovethelaw.com/2026/09/the-remote-work-conundrum-redux/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "When older lawyers demand people come to the office, they need to make it meaningful and ensure that people aren’t there just for the sake of being there. The post The Remote Work Conundrum Redux appeared first on Above the Law .",
-          "published": "2026-09-15T16:19:47.000Z"
-        },
-        {
-          "title": "Why Bigger Legal Budgets Buy Less Relief Than Ever",
-          "link": "https://abovethelaw.com/2026/09/why-bigger-legal-budgets-buy-less-relief-than-ever/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] Introducing Axiom’s 2027 In-House Legal Budget Report. Read on to see the details. The post Why Bigger Legal Budgets Buy Less Relief Than Ever appeared first on Above the Law .",
-          "published": "2026-09-15T15:35:57.000Z"
-        },
-        {
-          "title": "Which AI Product Is Most Popular Among Law Firms? Findings Of ILTA’s Tech Survey May Surprise You",
-          "link": "https://www.lawnext.com/2026/09/which-ai-product-is-most-popular-among-law-firms-findings-of-iltas-tech-survey-may-surprise-you.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The survey spanned over 500 law firms — all ILTA members — from small boutiques to global giants, representing a dozen countries and 140,000 lawyers. The post Which AI Product Is Most Popular Among Law Firms? Findings Of ILTA’s Tech…",
-          "published": "2026-09-15T14:47:46.000Z"
         }
       ]
     }
