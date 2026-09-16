@@ -1,11 +1,27 @@
 {
-  "updated": "2026-09-16T15:05:01.336Z",
+  "updated": "2026-09-16T18:58:11.388Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands",
+          "title": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
+          "link": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "American says a minority of its seats now accounts for half of its revenue.",
+          "published": "2026-09-16T18:33:51.000Z"
+        },
+        {
+          "title": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
+          "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Shares of J.B. Hunt plunged more than 10% Wednesday after the company warned of an earnings drop between 5% and 10%.",
+          "published": "2026-09-16T16:48:13.000Z"
+        },
+        {
+          "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
           "link": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -35,14 +51,6 @@
           "category": "markets",
           "snippet": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
           "published": "2026-09-16T13:50:59.000Z"
-        },
-        {
-          "title": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
-          "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Shares of J.B. Hunt plunged more than 10% Wednesday after the company warned of an earnings drop between 5% and 10%.",
-          "published": "2026-09-16T13:17:09.000Z"
         },
         {
           "title": "Tropical Smoothie Cafe is getting a makeover as it prepares for its 'next 3,000' locations",
@@ -187,20 +195,148 @@
           "category": "markets",
           "snippet": "Ford said the changes are meant to provide customers with more choice and help expand sales of key models, a strategy CEO Jim Farley has touted.",
           "published": "2026-09-15T18:08:12.000Z"
-        },
-        {
-          "title": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center",
-          "link": "https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The gift to Providence St. Vincent Medical Center will support the creation of an all-women’s hospital as well as advance cardiovascular care across Oregon.",
-          "published": "2026-09-15T15:00:01.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Resident Evil is a comedy first and a thrilling nightmare second",
+          "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and…",
+          "published": "2026-09-16T18:45:35.000Z"
+        },
+        {
+          "title": "We've created the first vectorized Quicksort",
+          "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T18:31:35.000Z"
+        },
+        {
+          "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
+          "link": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to…",
+          "published": "2026-09-16T18:20:38.000Z"
+        },
+        {
+          "title": "GitHub Is Having Trouble Counting Things",
+          "link": "https://chuckgreenman.com/2026/09/16/counting-at-github",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T17:31:19.000Z"
+        },
+        {
+          "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+          "link": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T17:27:37.000Z"
+        },
+        {
+          "title": "Apple might make servers again to cash in on the AI rush",
+          "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers…",
+          "published": "2026-09-16T17:20:29.000Z"
+        },
+        {
+          "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
+          "link": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Man wins fight to block ICE threat over off-the-cuff angry email.",
+          "published": "2026-09-16T17:06:06.000Z"
+        },
+        {
+          "title": "Your ‘health age’ is fake",
+          "link": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. During last week's…",
+          "published": "2026-09-16T17:00:00.000Z"
+        },
+        {
+          "title": "Google will now let any AI agent run your smart home",
+          "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new…",
+          "published": "2026-09-16T17:00:00.000Z"
+        },
+        {
+          "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+          "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "War damage to data centers exceeded what AWS services are designed to withstand.",
+          "published": "2026-09-16T16:40:11.000Z"
+        },
+        {
+          "title": "Claude comes for Gemini with its own take on Docs and Slides",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also…",
+          "published": "2026-09-16T16:30:00.000Z"
+        },
+        {
+          "title": "Claude Cowork and chat are now one Claude",
+          "link": "https://claude.com/blog/cowork-is-now-claude",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T16:26:25.000Z"
+        },
+        {
+          "title": "This Code Is CRAP (2011)",
+          "link": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T16:13:55.000Z"
+        },
+        {
+          "title": "Small Programming Tricks",
+          "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T15:56:47.000Z"
+        },
+        {
+          "title": "Can we stop with the uptime percentages?",
+          "link": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T15:40:04.000Z"
+        },
+        {
+          "title": "What happens when neutrinos swap identities inside a supernova?",
+          "link": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
+          "published": "2026-09-16T15:17:43.000Z"
+        },
+        {
+          "title": "macOS 27 Golden Gate: The Ars Technica review",
+          "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
+          "published": "2026-09-16T14:50:06.000Z"
+        },
         {
           "title": "The sexy AI-powered dating app scams are here",
           "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
@@ -218,12 +354,20 @@
           "published": "2026-09-16T14:44:48.000Z"
         },
         {
-          "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "link": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
+          "title": "The DeepMind Institute",
+          "link": "https://institute.deepmind.com/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-16T14:30:36.000Z"
+          "published": "2026-09-16T14:32:11.000Z"
+        },
+        {
+          "title": "Anatomy of a Texture",
+          "link": "https://agentlien.github.io/texture/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-16T14:28:28.000Z"
         },
         {
           "title": "A warning about 'model welfare'",
@@ -234,170 +378,82 @@
           "published": "2026-09-16T14:27:47.000Z"
         },
         {
-          "title": "We know what a world without work looks like",
-          "link": "https://asteriskmag.substack.com/p/we-already-know-what-a-world-without",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T14:20:06.000Z"
-        },
-        {
-          "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
-          "link": "https://openai.com/index/reimagining-advertising-with-ai/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T13:51:15.000Z"
-        },
-        {
-          "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-          "link": "https://arxiv.org/abs/2609.14858",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T13:44:40.000Z"
-        },
-        {
-          "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
-          "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T13:18:47.000Z"
-        },
-        {
-          "title": "Scaling Golang CI by Replacing actions&#x2F;setup-go",
-          "link": "https://www.cloudx.ai/posts/setup-go",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T13:02:14.000Z"
-        },
-        {
-          "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-          "link": "https://stale.jock.pl/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T13:01:52.000Z"
-        },
-        {
-          "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-          "link": "https://github.com/officefloor/ImpactGate",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T13:01:09.000Z"
-        },
-        {
-          "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "link": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T12:19:55.000Z"
-        },
-        {
-          "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
-          "link": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T12:01:09.000Z"
-        },
-        {
-          "title": "A brief history of AI executives calling for regulation",
-          "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google…",
-          "published": "2026-09-16T12:00:00.000Z"
-        },
-        {
-          "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
-          "link": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy iterated upon…",
-          "published": "2026-09-16T12:00:00.000Z"
-        },
-        {
-          "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
-          "link": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products. A remarkably distinct…",
-          "published": "2026-09-16T12:00:00.000Z"
-        },
-        {
-          "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-          "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T11:49:40.000Z"
-        },
-        {
-          "title": "The Google Play app review process now regularly takes longer than a week",
-          "link": "https://gultsch.social/@daniel/117280438824908947",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T11:19:11.000Z"
-        },
-        {
-          "title": "Salesforce Global Outage",
-          "link": "https://status.salesforce.com/products/all",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T10:37:08.000Z"
-        },
-        {
-          "title": "Learning Programming in an Age of LLMs",
-          "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T09:12:34.000Z"
-        },
-        {
-          "title": "Meta is reportedly ready to launch less pervy smart glasses",
-          "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the…",
-          "published": "2026-09-16T08:54:46.000Z"
-        },
-        {
-          "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-          "link": "https://mistral.ai/news/mistral-x-mozilla/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T08:08:57.000Z"
-        },
-        {
-          "title": "A software thing I built: GPS on a 25MHz 486-SX",
-          "link": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-16T05:43:44.000Z"
-        },
-        {
-          "title": "How chimps teach their kids tool tricks",
-          "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+          "title": "The world’s best racing driver is about to race 100 karts at once",
+          "link": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
-          "published": "2026-09-16T04:00:39.000Z"
+          "snippet": "Red Bull, Disney+, and ESPN are streaming the race at noon Eastern today.",
+          "published": "2026-09-16T14:19:01.000Z"
+        },
+        {
+          "title": "Lawmakers target Flock cameras with a threat to highway funding",
+          "link": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses.",
+          "published": "2026-09-16T14:03:39.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "New Bill Might Finally Put A Stop To Judge Pauline Newman s Stealth Impeachment",
+          "link": "https://abovethelaw.com/2026/09/new-bill-might-finally-put-a-stop-to-judge-pauline-newmans-stealth-impeachment/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Rep. Scott Fitzgerald's Judicial Conduct and Disability Reform Act caps the workaround the Federal Circuit found for a removal power Congress never gave it. The post New Bill Might Finally Put A Stop To Judge Pauline Newman s Stealth…",
+          "published": "2026-09-16T18:32:00.000Z"
+        },
+        {
+          "title": "Man Accused Of Sending Horrifying Death Threats To Federal Judge Will Face Trial",
+          "link": "https://abovethelaw.com/2026/09/man-accused-of-sending-horrifying-death-threats-to-federal-judge-will-face-trial/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The emails reportedly included plans to assault, kidnap, and kill Judge Charles Breyer. The post Man Accused Of Sending Horrifying Death Threats To Federal Judge Will Face Trial appeared first on Above the Law .",
+          "published": "2026-09-16T17:42:00.000Z"
+        },
+        {
+          "title": "New Hampshire Chief Justice Resigns After Admitting Ethics Violations Over $50,000 Payout To Longtime Ally",
+          "link": "https://abovethelaw.com/2026/09/new-hampshire-chief-justice-resigns-after-admitting-ethics-violations-over-50000-payout-to-longtime-ally/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "At the heart of the controversy? The most expensive layoff in state history. The post New Hampshire Chief Justice Resigns After Admitting Ethics Violations Over $50,000 Payout To Longtime Ally appeared first on Above the Law .",
+          "published": "2026-09-16T17:01:00.000Z"
+        },
+        {
+          "title": "Law Firm Passive Aggressiveness On Parade",
+          "link": "https://abovethelaw.com/2026/09/law-firm-passive-aggressiveness-on-parade/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "When you think of this firm, do you think 'smaller platform'? The post Law Firm Passive Aggressiveness On Parade appeared first on Above the Law .",
+          "published": "2026-09-16T16:18:14.000Z"
+        },
+        {
+          "title": "Beyond CLM: The Road To An Agentic Future",
+          "link": "https://abovethelaw.com/2026/09/beyond-clm-the-road-to-an-agentic-future/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] Join this CLE-eligible webinar to see where law departments stand — and where they’re headed — when it comes to agentic AI. The post Beyond CLM: The Road To An Agentic Future appeared first on Above the Law .",
+          "published": "2026-09-16T15:35:26.000Z"
+        },
+        {
+          "title": "Creativity In The Age Of AI: A Lost Art?",
+          "link": "https://abovethelaw.com/2026/09/creativity-in-the-age-of-ai-a-lost-art/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Lawyers are in the business of persuading people. That takes human skill and originality. It can’t be replicated by a bot. The post Creativity In The Age Of AI: A Lost Art? appeared first on Above the Law .",
+          "published": "2026-09-16T14:45:00.000Z"
+        },
+        {
+          "title": "Why The US Is Talking About Space Weapons Now",
+          "link": "https://breakingdefense.com/2026/09/why-the-us-is-talking-about-space-weapons-now/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "We recap leading headlines from day one of this year's Air and Space Forces Association Air, Space Cyber Conference. The post Why The US Is Talking About Space Weapons Now appeared first on Above the Law .",
+          "published": "2026-09-16T14:04:00.000Z"
+        },
         {
           "title": "The foreign affairs origins of domestic executive supremacy",
           "link": "https://www.scotusblog.com/2026/09/the-foreign-affairs-origins-of-domestic-executive-supremacy/",
@@ -423,6 +479,46 @@
           "published": "2026-09-16T13:00:00.000Z"
         },
         {
+          "title": "Morning Docket: 09.16.26",
+          "link": "https://abovethelaw.com/2026/09/morning-docket-09-16-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Is Biglaw paying too much for lateral partners? [ Reuters ] * Trump administration attempting to reinstall Lindsey Halligan. [ Politico ] * Morgan Morgan laying out $1 billion to build internal AI system. System will automate takeover…",
+          "published": "2026-09-16T12:45:33.000Z"
+        },
+        {
+          "title": "Even A Stacked Supreme Court Couldn t Save Trump s Mail-In Ballot Rule See Also",
+          "link": "https://abovethelaw.com/2026/09/even-a-stacked-supreme-court-couldnt-save-trumps-mail-in-ballot-rule-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Tweedle Dee, Meet Tweedle Dumb : Disbarred John Eastman joining Professor Amy Wax's legal team as she fights to get out of the sanctions she earned from the University of Pennsylvania . Third Time's Not The Charm. SCOTUS Won't Let Trump…",
+          "published": "2026-09-15T23:04:00.000Z"
+        },
+        {
+          "title": "The Oldest Law Firm In The World",
+          "link": "https://abovethelaw.com/2026/09/the-oldest-law-firm-in-the-world/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Over 450 years and going strong. The post The Oldest Law Firm In The World appeared first on Above the Law .",
+          "published": "2026-09-15T22:14:00.000Z"
+        },
+        {
+          "title": "Trump s Own Justices Are A Shell Of Their Original Selves For Not Handing Him The Midterm Election",
+          "link": "https://abovethelaw.com/2026/09/trumps-own-justices-are-a-shell-of-their-original-selves-for-not-handing-him-the-midterm-election/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Even a stacked bench has its limits. The post Trump s Own Justices Are A Shell Of Their Original Selves For Not Handing Him The Midterm Election appeared first on Above the Law .",
+          "published": "2026-09-15T21:34:00.000Z"
+        },
+        {
+          "title": "The AI Indemnity Arms Race Is Distracting Us From The Bigger Story",
+          "link": "https://abovethelaw.com/2026/09/the-ai-indemnity-arms-race-is-distracting-us-from-the-bigger-story/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Indemnities matter, but they represent only one clause in a much larger governance framework. The post The AI Indemnity Arms Race Is Distracting Us From The Bigger Story appeared first on Above the Law .",
+          "published": "2026-09-15T20:44:00.000Z"
+        },
+        {
           "title": "Groups urge justices to leave in place ruling barring Trump administration’s use of voter database",
           "link": "https://www.scotusblog.com/2026/09/groups-urge-justices-to-leave-in-place-ruling-barring-trump-administrations-use-of-voter-databas/",
           "source": "SCOTUSblog",
@@ -431,164 +527,68 @@
           "published": "2026-09-15T20:39:01.000Z"
         },
         {
-          "title": "Break the Supreme Court law clerk cartel",
-          "link": "https://www.scotusblog.com/2026/09/break-the-supreme-court-law-clerk-cartel/",
-          "source": "SCOTUSblog",
+          "title": "Biglaw’s $20 Million Partner Paydays Are Getting Out Of Control",
+          "link": "https://abovethelaw.com/2026/09/biglaws-20-million-partner-paydays-are-getting-out-of-control/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "This is the eighth and final piece in a series on what I believe the court can, and should, do better. *** Every year, each justice hires four law clerks. Under the current practice, the justices will hire young lawyers with sterling…",
-          "published": "2026-09-15T14:00:00.000Z"
+          "snippet": "The lateral hiring frenzy is producing some truly astonishing compensation packages, but not every rainmaker lives up to the hype. The post Biglaw’s $20 Million Partner Paydays Are Getting Out Of Control appeared first on Above the Law .",
+          "published": "2026-09-15T20:02:05.000Z"
         },
         {
-          "title": "Criminal cases coming in the new term – and why the court could and should do more",
-          "link": "https://www.scotusblog.com/2026/09/criminal-cases-coming-in-the-new-term-and-why-the-court-could-and-should-do-more/",
-          "source": "SCOTUSblog",
+          "title": "The Ninth Circuit Confirms What Should Have Been Self-Evident: A Wager Is A Wager",
+          "link": "https://abovethelaw.com/2026/09/the-ninth-circuit-confirms-what-should-have-been-self-evident-a-wager-is-a-wager/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "As many SCOTUSblog readers are likely aware, there are some blockbuster criminal law cases set for the Supreme Court’s upcoming term. Bans on AR-15 and similar semi-automatic rifles. Whether juries in criminal cases must always be 12…",
-          "published": "2026-09-15T13:30:00.000Z"
+          "snippet": "The terminology associated with prediction markets may change the perception of gambling, but it does not change the risk associated with it. The post The Ninth Circuit Confirms What Should Have Been Self-Evident: A Wager Is A Wager…",
+          "published": "2026-09-15T19:18:00.000Z"
         },
         {
-          "title": "Voting disputes take center stage",
-          "link": "https://www.scotusblog.com/2026/09/voting-disputes-take-center-stage/",
-          "source": "SCOTUSblog",
+          "title": "Job Of The Month: Elite Litigation Boutique Partner Opportunity",
+          "link": "https://abovethelaw.com/2026/09/job-of-the-month-senior-title-insurance-underwriting-counsel-2/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, a closer look at Clarence Gideon from Gideon v. Wainwright.",
-          "published": "2026-09-15T13:00:00.000Z"
+          "snippet": "[Sponsored] A 'hands-on' role, with depositions, motion practice, court appearances, and brief writing. The post Job Of The Month: Elite Litigation Boutique Partner Opportunity appeared first on Above the Law .",
+          "published": "2026-09-15T18:32:00.000Z"
         },
         {
-          "title": "Supreme Court denies Trump administration’s request to implement parts of rule on mail-in voting",
-          "link": "https://www.scotusblog.com/2026/09/supreme-court-denies-trump-administrations-request-to-implement-parts-of-usps-rule-on-mail-in-vo/",
-          "source": "SCOTUSblog",
+          "title": "Amy Wax Adds Disbarred Coup Lawyer John Eastman For That Accountability Is Persecution Energy",
+          "link": "https://abovethelaw.com/2026/09/amy-wax-adds-disbarred-coup-lawyer-john-eastman-for-that-accountability-is-persecution-energy/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "The Supreme Court on Monday declined to allow the U.S. Postal Service to carry out parts of a new rule on mail-in voting. In a brief, unsigned order , the justices left in place a ruling by a federal judge in Boston that bars the USPS…",
-          "published": "2026-09-15T00:38:21.000Z"
+          "snippet": "A marriage made in loony lawyer hell. The post Amy Wax Adds Disbarred Coup Lawyer John Eastman For That Accountability Is Persecution Energy appeared first on Above the Law .",
+          "published": "2026-09-15T17:48:58.000Z"
         },
         {
-          "title": "The “born free and equal” clauses and the noxious Buck v. Bell",
-          "link": "https://www.scotusblog.com/2026/09/the-born-free-and-equal-clauses-and-the-noxious-buck-v-bell/",
-          "source": "SCOTUSblog",
+          "title": "Former Managing Partner Accused Of Paying For Disney Trips On The Firm s Dime",
+          "link": "https://abovethelaw.com/2026/09/former-managing-partner-accused-of-paying-for-disney-trips-on-the-firms-dime/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "This is the fifth of seven introductory articles on the relevance for constitutional law and the Supreme Court of the “born free and equal” clauses, which appeared in the Declaration of Independence and in six out of 12 state…",
-          "published": "2026-09-14T14:00:00.000Z"
+          "snippet": "Because Disney is even more magical when the money being spent allegedly isn't yours. The post Former Managing Partner Accused Of Paying For Disney Trips On The Firm s Dime appeared first on Above the Law .",
+          "published": "2026-09-15T17:03:52.000Z"
         },
         {
-          "title": "When justices drift",
-          "link": "https://www.scotusblog.com/2026/09/when-justices-drift/",
-          "source": "SCOTUSblog",
+          "title": "The Remote Work Conundrum Redux",
+          "link": "https://abovethelaw.com/2026/09/the-remote-work-conundrum-redux/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Upon introducing Amy Coney Barrett as his nominee to the Supreme Court in September 2020, President Donald Trump praised her as “ a woman of unparalleled achievement, towering intellect, sterling credentials, and unyielding loyalty to the…",
-          "published": "2026-09-14T13:30:00.000Z"
+          "snippet": "When older lawyers demand people come to the office, they need to make it meaningful and ensure that people aren’t there just for the sake of being there. The post The Remote Work Conundrum Redux appeared first on Above the Law .",
+          "published": "2026-09-15T16:19:47.000Z"
         },
         {
-          "title": "Justices dismiss immigration case",
-          "link": "https://www.scotusblog.com/2026/09/justices-dismiss-immigration-case/",
-          "source": "SCOTUSblog",
+          "title": "Why Bigger Legal Budgets Buy Less Relief Than Ever",
+          "link": "https://abovethelaw.com/2026/09/why-bigger-legal-budgets-buy-less-relief-than-ever/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, former crypto mogul Sam Bankman-Fried wants SCOTUS to take up his case.",
-          "published": "2026-09-14T13:00:00.000Z"
+          "snippet": "[Sponsored] Introducing Axiom’s 2027 In-House Legal Budget Report. Read on to see the details. The post Why Bigger Legal Budgets Buy Less Relief Than Ever appeared first on Above the Law .",
+          "published": "2026-09-15T15:35:57.000Z"
         },
         {
-          "title": "Supreme Court dismisses immigration case that was scheduled for argument in October",
-          "link": "https://www.scotusblog.com/2026/09/supreme-court-dismisses-immigration-case-that-was-scheduled-for-argument-in-october/",
-          "source": "SCOTUSblog",
+          "title": "Which AI Product Is Most Popular Among Law Firms? Findings Of ILTA’s Tech Survey May Surprise You",
+          "link": "https://www.lawnext.com/2026/09/which-ai-product-is-most-popular-among-law-firms-findings-of-iltas-tech-survey-may-surprise-you.html",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "The Supreme Court on Friday dismissed a case that had been scheduled for argument in October after U.S. Solicitor General D. John Sauer notified the court that the case is now moot and the challenger agreed that it should be removed from…",
-          "published": "2026-09-12T00:10:46.000Z"
-        },
-        {
-          "title": "Germany’s Federal Constitutional Court",
-          "link": "https://www.scotusblog.com/2026/09/germanys-federal-constitutional-court-/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Welcome to SCOTUSblog’s recurring series in which we interview experts on different supreme courts around the world and how they compare with our own. Today’s column focuses on Germany’s Federal Constitutional Court. To help me understand…",
-          "published": "2026-09-11T14:00:00.000Z"
-        },
-        {
-          "title": "9/11 and the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/09/911-and-the-supreme-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Friday marks the 25th anniversary of the Sept. 11, 2001, terrorist attacks. At the Supreme Court, the justices will soon consider whether to again wade into the legal fallout from that terrible event. Since May, the court has received…",
-          "published": "2026-09-11T13:30:00.000Z"
-        },
-        {
-          "title": "More on Missouri’s congressional map and mail-in voting",
-          "link": "https://www.scotusblog.com/2026/09/more-on-missouris-congressional-map-and-mail-in-voting/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, Justice Kavanaugh will speak today at an event on 9/11.",
-          "published": "2026-09-11T13:00:00.000Z"
-        },
-        {
-          "title": "Trump administration asks justices to decide on its appointments of acting U.S. attorneys",
-          "link": "https://www.scotusblog.com/2026/09/trump-administration-asks-justices-to-decide-on-its-appointments-of-acting-us-attorneys/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Arguing that a ruling by the U.S. Court of Appeals for the 9th Circuit “threatens to inject mass confusion into five U.S. Attorney’s Offices in the Ninth Circuit that collectively handle over 8000 civil and criminal cases annually,” the…",
-          "published": "2026-09-10T18:05:52.000Z"
-        },
-        {
-          "title": "A quick update on the Missouri congressional districting case",
-          "link": "https://www.scotusblog.com/2026/09/a-quick-update-on-the-missouri-congressional-districting-case/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Hurray once again for Justice Brett Kavanaugh and his colleagues, who just hours ago benchslapped four lower federal court judges – one district judge and three appellate judges on the U.S. Court of Appeals for the 8th Circuit – in the…",
-          "published": "2026-09-10T16:40:49.000Z"
-        },
-        {
-          "title": "Supreme Court grants request to prevent Missouri from using congressional map expected to aid Republicans",
-          "link": "https://www.scotusblog.com/2026/09/supreme-court-grants-request-to-prevent-missouri-from-using-congressional-map-expected-to-aid-re/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on Sept. 10 at 3:44 p.m. EDT The Supreme Court on Thursday morning paused a ruling by a federal judge in Missouri that would have allowed the state to use a new congressional map intended to give Republicans an additional seat in…",
-          "published": "2026-09-10T15:57:17.000Z"
-        },
-        {
-          "title": "The architecture of persuasion: United States v. Hemani",
-          "link": "https://www.scotusblog.com/2026/09/the-architecture-of-persuasion-united-states-v-hemani/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Although some law professors make a living hiding the ball, I will repeat my thesis right up front: Good legal writers are simply good writers – strong English stylists. As my first example, I offered Chief Justice John Roberts , who…",
-          "published": "2026-09-10T14:00:00.000Z"
-        },
-        {
-          "title": "The minoritarian difficulty",
-          "link": "https://www.scotusblog.com/2026/09/the-minoritarian-difficulty/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Court reform is a hot topic these days. Scholars , commentators , and politicians argue that the Supreme Court is aggrandizing its powers at the expense of Congress, undermining American democracy, and facilitating the Trump…",
-          "published": "2026-09-10T13:30:00.000Z"
-        },
-        {
-          "title": "A new era of SCOTUSblog",
-          "link": "https://www.scotusblog.com/2026/09/a-new-era-of-scotusblog/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, the dispute over Missouri’s congressional redistricting is back at the Supreme Court.",
-          "published": "2026-09-10T13:00:00.000Z"
-        },
-        {
-          "title": "Missouri congressional redistricting dispute returns to the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/09/missouri-congressional-redistricting-dispute-returns-to-the-supreme-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Just one day after Justice Brett Kavanaugh left in place a ruling by the Missouri Supreme Court that barred Missouri from using a new congressional map intended to give Republicans an additional seat in the U.S. House of Representatives…",
-          "published": "2026-09-09T22:48:02.000Z"
-        },
-        {
-          "title": "States, civic groups urge Supreme Court to leave order in place prohibiting Trump administration from implementing parts of mail-in ballot rule",
-          "link": "https://www.scotusblog.com/2026/09/states-civic-groups-urge-supreme-court-to-leave-order-in-place-prohibiting-trump-administration-/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "California, joined by a group of 22 states and the District of Columbia, urged the Supreme Court on Wednesday to leave in place a ruling by a federal judge in Boston that prohibits the Trump administration from implementing parts of a…",
-          "published": "2026-09-09T20:43:12.000Z"
-        },
-        {
-          "title": "Introducing SCOTUSblog Plus",
-          "link": "https://www.scotusblog.com/2026/09/introducing-scotusblog-plus/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "It’s hard to believe, but SCOTUSblog has now been around for nearly a quarter-century – old enough to run for Congress! SCOTUSblog was originally launched to help promote a then-three-person law firm. As a business-development strategy,…",
-          "published": "2026-09-09T15:00:00.000Z"
+          "snippet": "The survey spanned over 500 law firms — all ILTA members — from small boutiques to global giants, representing a dozen countries and 140,000 lawyers. The post Which AI Product Is Most Popular Among Law Firms? Findings Of ILTA’s Tech…",
+          "published": "2026-09-15T14:47:46.000Z"
         }
       ]
     }
