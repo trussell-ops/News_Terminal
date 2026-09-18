@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T21:45:22.388Z",
+  "updated": "2026-09-18T23:45:10.775Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,22 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "link": "https://spectrum.ieee.org/llms-for-chip-design",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T23:04:17.000Z"
+        },
+        {
+          "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
+          "link": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T22:35:10.000Z"
+        },
+        {
           "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
           "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
           "source": "The Verge",
@@ -216,6 +232,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-18T21:00:32.000Z"
+        },
+        {
+          "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+          "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "But the military's overall use of AI seems to be accelerating.",
+          "published": "2026-09-18T20:26:33.000Z"
         },
         {
           "title": "Korea raises data breach fines to 10% of revenue",
@@ -288,14 +312,6 @@
           "category": "tech",
           "snippet": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that…",
           "published": "2026-09-18T18:27:04.000Z"
-        },
-        {
-          "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
-          "link": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-18T18:08:32.000Z"
         },
         {
           "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
@@ -376,28 +392,44 @@
           "category": "tech",
           "snippet": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, and Abu Dhabi to…",
           "published": "2026-09-18T15:12:41.000Z"
-        },
-        {
-          "title": "Our brain evolved from two primitive nervous systems that merged: Study",
-          "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-18T15:12:07.000Z"
-        },
-        {
-          "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
-          "link": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED…",
-          "published": "2026-09-18T14:51:26.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Cravath s Latest Hire Comes With A Les Moonves-Shaped Asterisk See Also",
+          "link": "https://abovethelaw.com/2026/09/cravaths-latest-hire-comes-with-a-les-moonves-shaped-asterisk-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Cravath Says Mike Aiello Shares Its 'Values.' About That: Not where I would have gone with the press release, but OK. The G In GPT Stands For Geaux : LSU's football coach used ChatGPT for legal advice and somehow this explains AI,…",
+          "published": "2026-09-18T23:33:00.000Z"
+        },
+        {
+          "title": "He Took Zealous Advocacy A Fatal Step Too Far",
+          "link": "https://abovethelaw.com/2026/09/he-took-zealous-advocacy-a-fatal-step-too-far/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "He got his client acquitted from beyond the grave. The post He Took Zealous Advocacy A Fatal Step Too Far appeared first on Above the Law .",
+          "published": "2026-09-18T23:01:00.000Z"
+        },
+        {
+          "title": "The 3 Things Every Healthy Organization Needs",
+          "link": "https://abovethelaw.com/2026/09/the-3-things-every-healthy-organization-needs/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "What actually makes people stay, thrive, and grow inside an organization — and what quietly drives them away. The post The 3 Things Every Healthy Organization Needs appeared first on Above the Law .",
+          "published": "2026-09-18T22:32:00.000Z"
+        },
+        {
+          "title": "Niche Down To Blow Up: Micro-Specialization Marketing For Law Firms",
+          "link": "https://abovethelaw.com/2026/09/niche-down-to-blow-up-micro-specialization-marketing-for-law-firms/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "If you are ready to ‘niche down’ and offer a highly specialized set of services to a narrow-but-active client base, micro-specialization marketing may be your ticket to making ‘less is more’ work for you. The post Niche Down To Blow Up:…",
+          "published": "2026-09-18T21:45:00.000Z"
+        },
         {
           "title": "How Appealing Weekly Roundup",
           "link": "https://abovethelaw.com/2026/09/how-appealing-weekly-roundup-186/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "Wake up babe, new bottom feeder law school plans just dropped. The post Federalist Society & Bari Weiss University Planning New Law School Move Over ASSLaw! appeared first on Above the Law .",
           "published": "2026-09-17T21:47:53.000Z"
-        },
-        {
-          "title": "Remembrance Of Events Past (With Apologies To Marcel Proust)",
-          "link": "https://abovethelaw.com/2026/09/remembrance-of-events-past-with-apologies-to-marcel-proust/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The past couple of weeks have been difficult. The post Remembrance Of Events Past (With Apologies To Marcel Proust) appeared first on Above the Law .",
-          "published": "2026-09-17T21:34:00.000Z"
-        },
-        {
-          "title": "At annual SCOTUSblog Summit, Sen. Durbin and Rep. Issa express differing views on Supreme Court",
-          "link": "https://www.scotusblog.com/2026/09/at-annual-scotusblog-summit-sen-durbin-and-rep-issa-express-differing-views-on-supreme-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The annual SCOTUSblog Summit, held on Wednesday at the Johns Hopkins University Bloomberg Center, featured a variety of panels on several different topics concerning the Supreme Court. The first session was with Elizabeth Prelogar, who…",
-          "published": "2026-09-17T21:18:00.000Z"
-        },
-        {
-          "title": "AI Native Law Firms Aren’t Just For Biglaw Lawyers",
-          "link": "https://www.myshingle.com/2026/09/ai-native-law-firms-arent-just-for-biglaw-lawyers/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "AI native firms are finally attracting Biglaw attorneys’ attention but the underlying philosophy remains relevant to more traditional solos and smalls. The post AI Native Law Firms Aren’t Just For Biglaw Lawyers appeared first on Above…",
-          "published": "2026-09-17T20:44:00.000Z"
-        },
-        {
-          "title": "Biglaw ‘Lioness’ Admitted All Lawyers Are A-Holes, And Got A Job On The Spot",
-          "link": "https://abovethelaw.com/2026/09/biglaw-lioness-admitted-all-lawyers-are-a-holes-and-got-a-job-on-the-spot/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Sometimes brutal honesty really is the best interview strategy. The post Biglaw ‘Lioness’ Admitted All Lawyers Are A-Holes, And Got A Job On The Spot appeared first on Above the Law .",
-          "published": "2026-09-17T20:04:00.000Z"
         }
       ]
     }
