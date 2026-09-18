@@ -1,9 +1,41 @@
 {
-  "updated": "2026-09-18T02:14:08.259Z",
+  "updated": "2026-09-18T07:30:11.925Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+          "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+          "published": "2026-09-18T07:14:57.000Z"
+        },
+        {
+          "title": "Healey to ask EU finance ministers to let UK into Made in Europe scheme",
+          "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
+          "published": "2026-09-18T06:52:47.000Z"
+        },
+        {
+          "title": "'I would tip up to 30% at a restaurant'",
+          "link": "https://www.bbc.co.uk/news/videos/ckgjqzl755j0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "New Yorkers and Londoners share what they usually tip in a restaurant - and whether tipping culture has gotten out of hand.",
+          "published": "2026-09-18T05:13:49.000Z"
+        },
+        {
+          "title": "Councils to share £5m in 'emergency food aid' as living costs rise",
+          "link": "https://www.bbc.co.uk/news/articles/c8dx5gvyle49o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The money from the Welsh government will amount to around £200,000 to every council.",
+          "published": "2026-09-18T05:02:56.000Z"
+        },
         {
           "title": "Early Bowie music available to stream for first time",
           "link": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
@@ -13,7 +45,7 @@
           "published": "2026-09-17T23:01:03.000Z"
         },
         {
-          "title": "Why we bought our first home with a 100% mortgage - despite the risks",
+          "title": "We bought our £242,000 home without a deposit - here's how",
           "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -27,22 +59,6 @@
           "category": "markets",
           "snippet": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
           "published": "2026-09-17T23:00:47.000Z"
-        },
-        {
-          "title": "Healey to ask EU finance ministers to let UK into industry scheme",
-          "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
-          "published": "2026-09-17T22:07:01.000Z"
-        },
-        {
-          "title": "Councils to share £5m in 'emergency food aid' as living costs rise",
-          "link": "https://www.bbc.co.uk/news/articles/c8dx5gvyle49o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The money from the Welsh government will amount to around £200,000 to every council.",
-          "published": "2026-09-17T21:55:12.000Z"
         },
         {
           "title": "Stephen Curry says his Li-Ning signature shoe will debut early next year",
@@ -65,7 +81,7 @@
           "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
+          "snippet": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
           "published": "2026-09-17T16:59:43.000Z"
         },
         {
@@ -125,14 +141,6 @@
           "published": "2026-09-17T10:37:43.000Z"
         },
         {
-          "title": "Shop closures among concerns in ancient capital",
-          "link": "https://www.bbc.co.uk/news/articles/c6n8m7588mxko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Declining trade, parking and the cost of living are among concerns in Arbory, Castletown and Malew.",
-          "published": "2026-09-17T10:13:41.000Z"
-        },
-        {
           "title": "NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion",
           "link": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html",
           "source": "CNBC Business",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
           "published": "2026-09-17T00:32:05.000Z"
-        },
-        {
-          "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
-          "published": "2026-09-16T23:41:57.000Z"
         }
       ]
     },
@@ -202,12 +202,76 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Jemalloc 5.4.0",
+          "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T04:20:24.000Z"
+        },
+        {
+          "title": "The scourge of x86 emulation",
+          "link": "https://fex-emu.com/Scourge-of-emulation/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T04:09:48.000Z"
+        },
+        {
+          "title": "Waymo in Singapore",
+          "link": "https://waymo.com/waymo-in-singapore/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T03:49:24.000Z"
+        },
+        {
+          "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+          "link": "https://linguisticdiscovery.com/posts/pre-greek/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T03:04:38.000Z"
+        },
+        {
+          "title": "Hacking OpenAI",
+          "link": "https://www.hacktron.ai/blog/hacking-openai",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T02:47:24.000Z"
+        },
+        {
+          "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+          "link": "https://byteshape.com/blogs/Qwen3.8-27B/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T02:04:19.000Z"
+        },
+        {
+          "title": "Minimal Phone 2",
+          "link": "https://minimalcompany.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T02:00:25.000Z"
+        },
+        {
           "title": "Waymo says Singapore will be its next international robotaxi city",
           "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says,…",
           "published": "2026-09-18T02:00:00.000Z"
+        },
+        {
+          "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+          "link": "https://askamonk.online",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T01:34:08.000Z"
         },
         {
           "title": "Telstra outage: The night a network decided the year was 2006",
@@ -218,20 +282,36 @@
           "published": "2026-09-18T01:05:03.000Z"
         },
         {
-          "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
-          "link": "https://github.com/aardappel/goose/tree/master",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-18T01:04:54.000Z"
-        },
-        {
-          "title": "Alibaba releases Qwen 3.8 Omni Flash",
+          "title": "Qwen 3.8 Omni Flash",
           "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-17T23:05:48.000Z"
+        },
+        {
+          "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+          "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+          "published": "2026-09-17T22:31:28.000Z"
+        },
+        {
+          "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+          "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+          "published": "2026-09-17T22:12:58.000Z"
+        },
+        {
+          "title": "How to Write with an LLM",
+          "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-17T21:48:38.000Z"
         },
         {
           "title": "How Uber Protects Against Retry Storms",
@@ -258,14 +338,6 @@
           "published": "2026-09-17T20:52:36.000Z"
         },
         {
-          "title": "Computer Reset, Dallas",
-          "link": "https://dfarq.homeip.net/computer-reset-dallas/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-17T20:50:03.000Z"
-        },
-        {
           "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
           "link": "https://snapdrop.me",
           "source": "Hacker News",
@@ -290,12 +362,12 @@
           "published": "2026-09-17T20:36:13.000Z"
         },
         {
-          "title": "More than 100k people in Japan are now aged 100 or older",
-          "link": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
-          "source": "Hacker News",
+          "title": "Google announces new experimental \"CC\" AI agent for families",
+          "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-17T20:33:00.000Z"
+          "snippet": "Multiple family members can share data to help the agent make plans and complete tasks.",
+          "published": "2026-09-17T20:24:34.000Z"
         },
         {
           "title": "Astra for Law",
@@ -306,92 +378,20 @@
           "published": "2026-09-17T20:17:48.000Z"
         },
         {
+          "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+          "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+          "published": "2026-09-17T20:10:41.000Z"
+        },
+        {
           "title": "The AI Superintelligence Slowdown",
           "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a…",
           "published": "2026-09-17T19:28:24.000Z"
-        },
-        {
-          "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents,…",
-          "published": "2026-09-17T18:58:05.000Z"
-        },
-        {
-          "title": "Save $30 or more on a refurbished Apple TV 4K",
-          "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company.…",
-          "published": "2026-09-17T17:14:07.000Z"
-        },
-        {
-          "title": "Zettascale (YC S24) Is Hiring ASIC&#x2F;FPGA Engineers to Build Chips for ASI",
-          "link": "https://zscc.ai/careers?job_id=109821",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-17T17:00:59.000Z"
-        },
-        {
-          "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-          "link": "https://arxiv.org/abs/2609.18842",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-17T16:55:14.000Z"
-        },
-        {
-          "title": "Hister: A private search engine for the pages you visit and the files you keep",
-          "link": "https://github.com/asciimoo/hister",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-17T16:25:37.000Z"
-        },
-        {
-          "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-          "link": "https://news.ycombinator.com/item?id=49743049",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-17T16:22:15.000Z"
-        },
-        {
-          "title": "Xbox’s clever disc-to-digital feature was 15 years in the making",
-          "link": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as a response to Sony…",
-          "published": "2026-09-17T16:00:00.000Z"
-        },
-        {
-          "title": "CrowdSec Source Code Leak",
-          "link": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-17T15:34:01.000Z"
-        },
-        {
-          "title": "Rate limits on GitLab.com are changing",
-          "link": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-17T15:33:54.000Z"
-        },
-        {
-          "title": "Camp Snap’s 110D gives slim retro film cameras a digital upgrade",
-          "link": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film cameras in the 1970s. The Camp Snap 110D is…",
-          "published": "2026-09-17T15:00:00.000Z"
         }
       ]
     },
