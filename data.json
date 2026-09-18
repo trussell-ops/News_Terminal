@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T19:18:42.087Z",
+  "updated": "2026-09-18T21:45:22.388Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -10,7 +10,7 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Mbappe had been signed with Nike for roughly two decades, and his agreement with On is the first it has made with a soccer player.",
-          "published": "2026-09-18T18:56:13.000Z"
+          "published": "2026-09-18T19:30:55.000Z"
         },
         {
           "title": "Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal",
@@ -202,12 +202,76 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its…",
+          "published": "2026-09-18T21:07:24.000Z"
+        },
+        {
+          "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "link": "https://code.claude.com/docs/en/changelog",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T21:00:32.000Z"
+        },
+        {
+          "title": "Korea raises data breach fines to 10% of revenue",
+          "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T20:02:54.000Z"
+        },
+        {
+          "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+          "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+          "published": "2026-09-18T19:20:50.000Z"
+        },
+        {
+          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T19:03:09.000Z"
+        },
+        {
           "title": "The Implications of Linguistic Illegibility for LLM Security",
           "link": "https://arxiv.org/abs/2609.02852",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-18T19:00:06.000Z"
+        },
+        {
+          "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+          "link": "https://arxiv.org/abs/2510.03215",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T18:55:35.000Z"
+        },
+        {
+          "title": "Saving another 100TB of RAM",
+          "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T18:51:46.000Z"
+        },
+        {
+          "title": "Xcode 27.1 Beta Release Notes",
+          "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-18T18:39:31.000Z"
         },
         {
           "title": "Virginia governor creates an AI task force and moves to restrain data centers",
@@ -232,6 +296,30 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-18T18:08:32.000Z"
+        },
+        {
+          "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+          "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
+          "published": "2026-09-18T17:57:41.000Z"
+        },
+        {
+          "title": "Finding the cells that put our brain to sleep",
+          "link": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
+          "published": "2026-09-18T17:49:50.000Z"
+        },
+        {
+          "title": "US government website used Chinese model the FBI called \"malicious\"",
+          "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The Federal Register website briefly used an open source Chinese AI search tool.",
+          "published": "2026-09-18T17:28:50.000Z"
         },
         {
           "title": "US Military had close call after using AI for hallucinated intelligence report",
@@ -274,14 +362,6 @@
           "published": "2026-09-18T16:35:19.000Z"
         },
         {
-          "title": "Systemd is a suite of basic building blocks",
-          "link": "https://brand.systemd.io/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-18T16:31:43.000Z"
-        },
-        {
           "title": "Security researchers used Claude to help them hack into OpenAI",
           "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
           "source": "The Verge",
@@ -298,12 +378,12 @@
           "published": "2026-09-18T15:12:41.000Z"
         },
         {
-          "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-          "link": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+          "title": "Our brain evolved from two primitive nervous systems that merged: Study",
+          "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-18T15:04:54.000Z"
+          "published": "2026-09-18T15:12:07.000Z"
         },
         {
           "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
@@ -312,92 +392,44 @@
           "category": "tech",
           "snippet": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED…",
           "published": "2026-09-18T14:51:26.000Z"
-        },
-        {
-          "title": "North Korean nuclear test sets off years of earthquakes",
-          "link": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-18T14:45:32.000Z"
-        },
-        {
-          "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
-          "link": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and Game Boy Color so…",
-          "published": "2026-09-18T14:41:18.000Z"
-        },
-        {
-          "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-          "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-18T14:41:02.000Z"
-        },
-        {
-          "title": "I vibed a proof of Conway's conjecture",
-          "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-18T14:36:10.000Z"
-        },
-        {
-          "title": "BeanShell3 in Development",
-          "link": "https://beanshell.github.io/home.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-18T14:21:24.000Z"
-        },
-        {
-          "title": "Cloudflare Quick Tunnels",
-          "link": "https://try.cloudflare.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-18T14:18:41.000Z"
-        },
-        {
-          "title": "Meet the winner of Nikon's Small World in Motion video contest",
-          "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
-          "published": "2026-09-18T13:56:57.000Z"
-        },
-        {
-          "title": "AI chatbots are becoming experts at changing people's minds",
-          "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-18T13:39:27.000Z"
-        },
-        {
-          "title": "Researchers used Claude to hack OpenAI",
-          "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-          "published": "2026-09-18T13:30:12.000Z"
-        },
-        {
-          "title": "NATS publishes preliminary report on technical incident of 8 September",
-          "link": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-18T13:24:35.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "How Appealing Weekly Roundup",
+          "link": "https://abovethelaw.com/2026/09/how-appealing-weekly-roundup-186/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
+          "published": "2026-09-18T21:15:00.000Z"
+        },
+        {
+          "title": "‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing",
+          "link": "https://abovethelaw.com/2026/09/adventures-in-legal-tech-the-risks-of-ai-generated-legal-marketing/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The compliance issue almost nobody in legal marketing is talking about. The post ‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing appeared first on Above the Law .",
+          "published": "2026-09-18T20:44:00.000Z"
+        },
+        {
+          "title": "Eighth Circuit Gives Dead Horse Mouth To Mouth",
+          "link": "https://abovethelaw.com/2026/09/eighth-circuit-gives-dead-horse-mouth-to-mouth/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "U up Brett? The post Eighth Circuit Gives Dead Horse Mouth To Mouth appeared first on Above the Law .",
+          "published": "2026-09-18T20:04:00.000Z"
+        },
+        {
+          "title": "Coddling Young Lawyers? One Law School Says Not On Our Watch",
+          "link": "https://abovethelaw.com/2026/09/coddling-young-lawyers-one-law-school-says-not-on-our-watch/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "In today’s brave new AI world, the younger lawyers who can hit the ground running with practical skills and the ability to think through problems are going to succeed. The post Coddling Young Lawyers? One Law School Says Not On Our Watch…",
+          "published": "2026-09-18T19:16:00.000Z"
+        },
         {
           "title": "Sonia Sotomayor Thinks Her Colleagues Need A Civics Lesson To Save The Republic",
           "link": "https://abovethelaw.com/2026/09/sonia-sotomayor-thinks-her-colleagues-need-a-civics-lesson-to-save-the-republic/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "Sometimes brutal honesty really is the best interview strategy. The post Biglaw ‘Lioness’ Admitted All Lawyers Are A-Holes, And Got A Job On The Spot appeared first on Above the Law .",
           "published": "2026-09-17T20:04:00.000Z"
-        },
-        {
-          "title": "How To Better Serve Your Firm And Partners As An Associate",
-          "link": "https://abovethelaw.com/2026/09/how-to-better-serve-your-firm-and-partners-as-an-associate/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Associates sometimes spend so much time trying to impress partners that they overlook what partners actually need. The post How To Better Serve Your Firm And Partners As An Associate appeared first on Above the Law .",
-          "published": "2026-09-17T19:15:00.000Z"
-        },
-        {
-          "title": "Jeff Clark Announces New Law Firm To Fight Barfare While He Waits On Disbarment",
-          "link": "https://abovethelaw.com/2026/09/jeff-clark-announces-new-law-firm-to-fight-barfare-while-he-waits-on-disbarment/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Coup curious lawyer announces new firm in the dumbest way possible. The post Jeff Clark Announces New Law Firm To Fight Barfare While He Waits On Disbarment appeared first on Above the Law .",
-          "published": "2026-09-17T18:32:00.000Z"
-        },
-        {
-          "title": "One Plus One Equals More Than Two: Clio Lands McCormack To Join Arredondo In Judiciary Expansion",
-          "link": "https://www.lawnext.com/2026/09/one-plus-one-equals-more-than-two-clio-lands-mccormack-to-join-arredondo-in-judiciary-expansion.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The mystery of Bridget M. McCormack’s destination has been solved. The post One Plus One Equals More Than Two: Clio Lands McCormack To Join Arredondo In Judiciary Expansion appeared first on Above the Law .",
-          "published": "2026-09-17T17:48:00.000Z"
-        },
-        {
-          "title": "Biglaw Firm Takes A Bite Out Of The Big Apple With Latest Merger",
-          "link": "https://abovethelaw.com/2026/09/biglaw-firm-takes-a-bite-out-of-the-big-apple-with-latest-merger/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The combination brings the firm to nearly 400 attorneys across 19 offices. The post Biglaw Firm Takes A Bite Out Of The Big Apple With Latest Merger appeared first on Above the Law .",
-          "published": "2026-09-17T17:01:00.000Z"
         }
       ]
     }
