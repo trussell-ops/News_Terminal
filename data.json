@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T20:52:06.148Z",
+  "updated": "2026-09-19T22:34:09.454Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,46 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Mayday Mysteries",
+          "link": "http://www.maydaymystery.org/mayday/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-19T21:43:09.000Z"
+        },
+        {
+          "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+          "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-19T21:30:59.000Z"
+        },
+        {
+          "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+          "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-19T21:25:29.000Z"
+        },
+        {
+          "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to…",
+          "published": "2026-09-19T20:44:40.000Z"
+        },
+        {
+          "title": "English: A vs. An",
+          "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-19T20:41:26.000Z"
+        },
+        {
           "title": "Measure internet censorship. Contribute to the largest open dataset",
           "link": "https://ooni.org/install",
           "source": "Hacker News",
@@ -226,14 +266,6 @@
           "published": "2026-09-19T18:21:30.000Z"
         },
         {
-          "title": "Btrfs&#x2F;ZFS&#x2F;bcachefs under workloads classic benchmarks skip",
-          "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T18:11:40.000Z"
-        },
-        {
           "title": "Trump treads further on free speech with new journalist bans",
           "link": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
           "source": "The Verge",
@@ -250,7 +282,7 @@
           "published": "2026-09-19T17:01:30.000Z"
         },
         {
-          "title": "Almost Never Use AI to Write Anything Substantive",
+          "title": "I think you should almost never use AI to write",
           "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
           "source": "Hacker News",
           "category": "tech",
@@ -304,14 +336,6 @@
           "category": "tech",
           "snippet": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a…",
           "published": "2026-09-19T14:00:00.000Z"
-        },
-        {
-          "title": "What Zig felt like, coming from Rust",
-          "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T13:55:18.000Z"
         },
         {
           "title": "Tin: full-text search for Postgres",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-19T09:20:58.000Z"
-        },
-        {
-          "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-          "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T06:41:44.000Z"
-        },
-        {
-          "title": "If math is more than proof, we need to better celebrate the rest of it",
-          "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T06:28:02.000Z"
-        },
-        {
-          "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-          "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T05:48:50.000Z"
         }
       ]
     },
