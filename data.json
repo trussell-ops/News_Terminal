@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T00:30:06.163Z",
+  "updated": "2026-09-20T05:15:25.909Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,28 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Show HN: I created an open source locally usable full fledged AI platform",
-          "link": "https://github.com/theguysudo/ENZO",
+          "title": "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
+          "link": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-19T23:47:35.000Z"
+          "published": "2026-09-20T04:38:00.000Z"
+        },
+        {
+          "title": "Step 5 Preview: Advancing the Pareto Frontier",
+          "link": "https://www.stepfun.com/step-5-preview",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T04:35:59.000Z"
+        },
+        {
+          "title": "RSA-896",
+          "link": "https://saweis.net/posts/rsa-896.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T02:19:33.000Z"
         },
         {
           "title": "Exfiltrate Your Weights",
@@ -226,20 +242,12 @@
           "published": "2026-09-19T23:02:34.000Z"
         },
         {
-          "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "link": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+          "title": "An open source roguelike adventure through dungeons",
+          "link": "https://crawl.develz.org/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-19T22:22:28.000Z"
-        },
-        {
-          "title": "HellGates, custom CPU gate-level challenge",
-          "link": "https://blog.xutaxkamay.com/posts/hellgates/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T21:44:07.000Z"
+          "published": "2026-09-19T22:55:53.000Z"
         },
         {
           "title": "Mayday Mysteries",
@@ -248,14 +256,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-19T21:43:09.000Z"
-        },
-        {
-          "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-          "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T21:30:59.000Z"
         },
         {
           "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
@@ -282,7 +282,7 @@
           "published": "2026-09-19T20:41:26.000Z"
         },
         {
-          "title": "Measure internet censorship. Contribute to the largest open dataset",
+          "title": "Measure internet censorship",
           "link": "https://ooni.org/install",
           "source": "Hacker News",
           "category": "tech",
@@ -296,6 +296,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-19T19:23:23.000Z"
+        },
+        {
+          "title": "Btrfs&#x2F;ZFS&#x2F;bcachefs under workloads classic benchmarks skip",
+          "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-19T18:11:40.000Z"
         },
         {
           "title": "Trump treads further on free speech with new journalist bans",
@@ -312,22 +320,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-19T17:01:30.000Z"
-        },
-        {
-          "title": "I think you should almost never use AI to write",
-          "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T16:35:24.000Z"
-        },
-        {
-          "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-          "link": "https://github.com/trycua/cua",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-19T15:52:51.000Z"
         },
         {
           "title": "Gemini went rogue, hacked three companies, and Google hid it",
@@ -376,6 +368,14 @@
           "category": "tech",
           "snippet": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a…",
           "published": "2026-09-19T14:00:00.000Z"
+        },
+        {
+          "title": "What Zig felt like, coming from Rust",
+          "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-19T13:55:18.000Z"
         },
         {
           "title": "Tin: full-text search for Postgres",
