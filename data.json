@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-21T00:20:22.508Z",
+  "updated": "2026-09-21T05:11:00.564Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Baby bank helping more parents in full-time work",
+          "link": "https://www.bbc.co.uk/news/articles/ckge4848pzjro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The couple who run the bank say they are in \"desperate need\" of baby formula as demand is so high.",
+          "published": "2026-09-21T04:56:35.000Z"
+        },
+        {
+          "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+          "published": "2026-09-21T04:00:38.000Z"
+        },
+        {
+          "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+          "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
+          "published": "2026-09-21T00:34:53.000Z"
+        },
         {
           "title": "Will you get £13,000 a year when you stop working? Here's how to check",
           "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
@@ -171,36 +195,44 @@
           "category": "markets",
           "snippet": "One of Wendy's biggest U.S. franchisees, Meritage Hospitality Group, filed for Chapter 11 bankruptcy protection.",
           "published": "2026-09-18T16:13:00.000Z"
-        },
-        {
-          "title": "Flight chaos caused by 'millisecond' software defect, report says",
-          "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
-          "published": "2026-09-18T15:48:58.000Z"
-        },
-        {
-          "title": "Why more companies are fighting over consumers' beauty, health and wellness spending",
-          "link": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "As consumers prioritize holistic retail purchases, beauty, health and wellness are increasingly converging into one category and one consumer budget.",
-          "published": "2026-09-18T15:18:38.000Z"
-        },
-        {
-          "title": "Dragon Deborah opens with a terrible negotiation tactic",
-          "link": "https://www.bbc.co.uk/news/videos/cwkgxlze1pr9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Deborah Meaden makes a bold opening move in response to a pitch.",
-          "published": "2026-09-18T13:49:43.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-21T04:28:44.000Z"
+        },
+        {
+          "title": "Winning the Visa Lottery",
+          "link": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-21T03:37:02.000Z"
+        },
+        {
+          "title": "Deterministic Core, Non-Deterministic Shell",
+          "link": "https://outdata.net/blog/260803",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-21T02:02:45.000Z"
+        },
+        {
+          "title": "Why back propagation goes backward",
+          "link": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-21T00:42:14.000Z"
+        },
         {
           "title": "Amiga Unix, Again",
           "link": "https://amigaux.org/",
@@ -210,15 +242,7 @@
           "published": "2026-09-20T23:57:10.000Z"
         },
         {
-          "title": "DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air",
-          "link": "https://github.com/BytedTsinghua-SIA/DAPO",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-20T23:19:04.000Z"
-        },
-        {
-          "title": "What Happened to the Snowden Archive",
+          "title": "What happened to the Snowden archive",
           "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
           "source": "Hacker News",
           "category": "tech",
@@ -226,28 +250,12 @@
           "published": "2026-09-20T22:35:49.000Z"
         },
         {
-          "title": "Google's Open Agentic Orchestrator",
+          "title": "AX – Google’s Open Agentic Orchestrator",
           "link": "https://agentexecutor.io",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-20T22:32:43.000Z"
-        },
-        {
-          "title": "Bill to Ban Private Equity from Owning Medical Practices",
-          "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-20T22:13:46.000Z"
-        },
-        {
-          "title": "Nobody pays for FOSS, we can force them to",
-          "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-20T21:04:32.000Z"
         },
         {
           "title": "Ogre Battle 64 Recompiled Project at 99.05%",
@@ -266,6 +274,14 @@
           "published": "2026-09-20T20:51:57.000Z"
         },
         {
+          "title": "Why MCP Was Always a Bad Idea?",
+          "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-20T19:44:40.000Z"
+        },
+        {
           "title": "The Hierarchy of Money",
           "link": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
           "source": "Hacker News",
@@ -282,7 +298,7 @@
           "published": "2026-09-20T18:50:18.000Z"
         },
         {
-          "title": "Software Sandboxing: The Basics (2025)",
+          "title": "Software sandboxing: The basics (2025)",
           "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
           "source": "Hacker News",
           "category": "tech",
@@ -330,14 +346,6 @@
           "published": "2026-09-20T17:38:27.000Z"
         },
         {
-          "title": "Trying the Software Factory Pattern",
-          "link": "https://lethain.com/software-factory-experiment/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-20T17:27:11.000Z"
-        },
-        {
           "title": "Show HN: Radius – A Meetup.com Alternative",
           "link": "https://radius.to/",
           "source": "Hacker News",
@@ -346,28 +354,20 @@
           "published": "2026-09-20T16:51:26.000Z"
         },
         {
-          "title": "Prompts aren’t Real",
-          "link": "https://evaluation.club",
+          "title": "I am often wrong",
+          "link": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-20T15:59:25.000Z"
+          "published": "2026-09-20T16:41:46.000Z"
         },
         {
-          "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+          "title": "Laya on Mac M4 CoreML Offline",
           "link": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-20T15:58:52.000Z"
-        },
-        {
-          "title": "Custom home server built from spare parts",
-          "link": "https://asmat.ca/blog/i-went-bananas/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-20T15:43:32.000Z"
         },
         {
           "title": "Trump now says he wants to form an ‘AI Force’",
@@ -378,20 +378,20 @@
           "published": "2026-09-20T15:39:22.000Z"
         },
         {
-          "title": "What's been going on in w64devkit the past year",
-          "link": "https://nullprogram.com/blog/2026/09/20/",
+          "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+          "link": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-20T15:25:41.000Z"
+          "published": "2026-09-20T15:18:05.000Z"
         },
         {
-          "title": "ChatGPT now knows what you do on other websites via ad collector",
-          "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+          "title": "Pirate Face Rescues LLM Models from Deletion",
+          "link": "https://pirateface.co/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-20T15:18:44.000Z"
+          "published": "2026-09-20T15:16:07.000Z"
         }
       ]
     },
