@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-21T23:44:04.320Z",
+  "updated": "2026-09-22T02:27:27.817Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Flights at major US airports delayed after cable cut by construction workers",
+          "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+          "published": "2026-09-22T01:36:54.000Z"
+        },
         {
           "title": "I couldn't cook when I left home – but these easy £2.50 recipes became my go-to",
           "link": "https://www.bbc.co.uk/news/articles/cgjqgjn3n2wo?at_medium=RSS&at_campaign=rss",
@@ -11,14 +19,6 @@
           "category": "markets",
           "snippet": "Former culinary-challenged students share four low cost meals they think everyone can master.",
           "published": "2026-09-21T23:41:20.000Z"
-        },
-        {
-          "title": "Flights at major US airports delayed after cable cut by construction workers",
-          "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-          "published": "2026-09-21T23:25:28.000Z"
         },
         {
           "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
@@ -57,7 +57,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
+          "snippet": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
           "published": "2026-09-21T20:21:18.000Z"
         },
         {
@@ -202,6 +202,46 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+          "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-22T01:24:49.000Z"
+        },
+        {
+          "title": "Claude Status – Elevated errors for multiple models",
+          "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-22T01:05:19.000Z"
+        },
+        {
+          "title": "Socrates vs. the Written Word (2011)",
+          "link": "https://wondermark.com/socrates-vs-writing/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-22T00:06:55.000Z"
+        },
+        {
+          "title": "A cut cable disrupted hundreds of flights across the US",
+          "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the…",
+          "published": "2026-09-21T23:48:56.000Z"
+        },
+        {
+          "title": "Looking forward to Git 2.56 – and 3.0",
+          "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-21T23:16:51.000Z"
+        },
+        {
           "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
           "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
           "source": "The Verge",
@@ -216,22 +256,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-21T23:03:49.000Z"
-        },
-        {
-          "title": "Do not fear AI. Fear AI companies",
-          "link": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-21T22:40:31.000Z"
-        },
-        {
-          "title": "Data Protection Commission fines Google €403M over processing of location data",
-          "link": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-21T22:33:45.000Z"
         },
         {
           "title": "I don't want to read what you didn't write",
@@ -256,14 +280,6 @@
           "category": "tech",
           "snippet": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
           "published": "2026-09-21T21:07:05.000Z"
-        },
-        {
-          "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
-          "link": "https://www.personalimportation.org/advocacy",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-21T20:58:17.000Z"
         },
         {
           "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
@@ -322,14 +338,6 @@
           "published": "2026-09-21T19:14:12.000Z"
         },
         {
-          "title": "In Search of a Compositional Theory of Self-Stabilization",
-          "link": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-21T19:04:36.000Z"
-        },
-        {
           "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
           "link": "https://robocurve.org/roboharm/",
           "source": "Hacker News",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive…",
           "published": "2026-09-21T17:42:15.000Z"
-        },
-        {
-          "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-          "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-21T17:30:21.000Z"
         }
       ]
     },
