@@ -1,9 +1,41 @@
 {
-  "updated": "2026-09-22T23:04:55.320Z",
+  "updated": "2026-09-23T01:35:10.672Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+          "link": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
+          "published": "2026-09-22T23:20:31.000Z"
+        },
+        {
+          "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+          "published": "2026-09-22T23:11:33.000Z"
+        },
+        {
+          "title": "Will a switch to light speed cut power use at data centres?",
+          "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "To save power and add capacity, data centres are switching from copper wires to tech using light.",
+          "published": "2026-09-22T23:03:48.000Z"
+        },
+        {
+          "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
+          "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
+          "published": "2026-09-22T23:01:28.000Z"
+        },
         {
           "title": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
           "link": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html",
@@ -75,6 +107,14 @@
           "category": "markets",
           "snippet": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
           "published": "2026-09-22T16:50:24.000Z"
+        },
+        {
+          "title": "Watch: Trump floats rebranding artificial intelligence as super intelligence",
+          "link": "https://www.bbc.co.uk/news/videos/c8n5d9x10v14o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "\"The use of the word artificial makes it sound fake,\" he said told the UN. \"It's not fake, it's actually amazing.\"",
+          "published": "2026-09-22T15:53:25.000Z"
         },
         {
           "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
@@ -155,52 +195,36 @@
           "category": "markets",
           "snippet": "It comes as fuel prices reach their highest since 2022, driven by conflict in the Middle East.",
           "published": "2026-09-22T05:05:41.000Z"
-        },
-        {
-          "title": "Winter support planned for vulnerable residents",
-          "link": "https://www.bbc.co.uk/news/articles/c3lyrpxeepdgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "People could be eligible for awards of between £150 to £250, depending on their circumstances.",
-          "published": "2026-09-22T05:04:56.000Z"
-        },
-        {
-          "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
-          "link": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
-          "published": "2026-09-22T01:44:17.000Z"
-        },
-        {
-          "title": "Flights at major US airports delayed after cable cut by construction workers",
-          "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-          "published": "2026-09-22T01:36:54.000Z"
-        },
-        {
-          "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
-          "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
-          "published": "2026-09-21T23:03:04.000Z"
-        },
-        {
-          "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
-          "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
-          "published": "2026-09-21T23:01:26.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent…",
+          "published": "2026-09-23T00:17:17.000Z"
+        },
+        {
+          "title": "The new CC, an AI agent built for families",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-22T23:46:07.000Z"
+        },
+        {
+          "title": "Augustofaces: Pareidolia Fine Art",
+          "link": "https://augusto.at/augustosfaces/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-22T22:52:11.000Z"
+        },
         {
           "title": "Paramount will need to release way more movies to make this merger work",
           "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
@@ -216,6 +240,22 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-22T22:03:46.000Z"
+        },
+        {
+          "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+          "link": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+          "published": "2026-09-22T21:42:14.000Z"
+        },
+        {
+          "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+          "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The frontier AI model race has entered its comparison shopping phase.",
+          "published": "2026-09-22T21:25:18.000Z"
         },
         {
           "title": "The UV index is not the warm sensation of sunlight on bare skin",
@@ -306,6 +346,14 @@
           "published": "2026-09-22T19:42:20.000Z"
         },
         {
+          "title": "Obscura: VPN that can't log your activity",
+          "link": "https://obscura.com/#faq-technical",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-22T19:40:28.000Z"
+        },
+        {
           "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
           "link": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
           "source": "The Verge",
@@ -344,54 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-22T18:57:17.000Z"
-        },
-        {
-          "title": "Unreal Agent",
-          "link": "https://unreallabs.ai/blog/unreal-agent/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-22T18:15:53.000Z"
-        },
-        {
-          "title": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
-          "link": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless keyboard,…",
-          "published": "2026-09-22T18:10:57.000Z"
-        },
-        {
-          "title": "An update on how we confirm your age group on Discord",
-          "link": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-22T18:10:31.000Z"
-        },
-        {
-          "title": "GPT-6 Sol and Luna",
-          "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-22T18:00:34.000Z"
-        },
-        {
-          "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-          "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-22T17:46:02.000Z"
-        },
-        {
-          "title": "San Francisco sues Trump Media for selling early access to Trump posts",
-          "link": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "San Francisco is suing the Trump Media Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in California state court,…",
-          "published": "2026-09-22T17:43:50.000Z"
         }
       ]
     },
