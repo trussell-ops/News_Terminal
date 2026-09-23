@@ -1,16 +1,56 @@
 {
-  "updated": "2026-09-23T17:35:16.395Z",
+  "updated": "2026-09-23T20:51:28.205Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
+          "title": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
           "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry.",
-          "published": "2026-09-23T17:25:26.000Z"
+          "published": "2026-09-23T20:23:52.000Z"
+        },
+        {
+          "title": "Why McDonald's is following Walmart and Amazon into the advertising business",
+          "link": "https://www.cnbc.com/2026/09/23/why-mcdonalds-is-building-an-advertising-business.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "McDonald's is following the lead of Amazon and Walmart as it starts its own media network.",
+          "published": "2026-09-23T20:21:17.000Z"
+        },
+        {
+          "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
+          "link": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
+          "published": "2026-09-23T20:12:36.000Z"
+        },
+        {
+          "title": "Bentley unveils its first fully electric car",
+          "link": "https://www.bbc.co.uk/news/articles/c65ymznkr291o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The SUVs will be built on a new production line in Crewe, which has been Bentley's base since 1946.",
+          "published": "2026-09-23T19:21:10.000Z"
+        },
+        {
+          "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
+          "link": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
+          "published": "2026-09-23T19:10:22.000Z"
+        },
+        {
+          "title": "Why is the price of protein powder rising?",
+          "link": "https://www.bbc.co.uk/news/videos/cmq8j1nk2wnxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Why is the price of protein powder rising?",
+          "published": "2026-09-23T18:53:04.000Z"
         },
         {
           "title": "McDonald's stock falls as it unveils plan to spend big on restaurant upgrades",
@@ -155,46 +195,6 @@
           "category": "markets",
           "snippet": "Jacob Rothman built a manufacturing business in China supplying major retailers",
           "published": "2026-09-22T20:30:00.000Z"
-        },
-        {
-          "title": "Peloton is revamping its treadmills with new features in the next phase of its turnaround",
-          "link": "https://www.cnbc.com/2026/09/22/peloton-announces-new-tread-peloton-iq-features.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "With its new treadmills, Peloton aims to appeal to customers from casual workers to more serious athletes.",
-          "published": "2026-09-22T18:49:14.000Z"
-        },
-        {
-          "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
-          "link": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
-          "published": "2026-09-22T17:57:36.000Z"
-        },
-        {
-          "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-          "link": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-          "published": "2026-09-22T16:50:29.000Z"
-        },
-        {
-          "title": "'We screwed up': Doordash admits underpaying New York workers",
-          "link": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
-          "published": "2026-09-22T16:50:24.000Z"
-        },
-        {
-          "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-          "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
-          "published": "2026-09-22T15:43:14.000Z"
         }
       ]
     },
@@ -202,12 +202,172 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "LensVLM-9B by Apple",
+          "link": "https://huggingface.co/papers/2605.07019",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T20:35:20.000Z"
+        },
+        {
+          "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+          "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "$11M competition showed wildfire detection is still easier than stopping fires.",
+          "published": "2026-09-23T20:28:42.000Z"
+        },
+        {
+          "title": "How can this Amazon scammer keep going, not shipping any goods?",
+          "link": "https://www.amazon.de/sp?language=en&ie=UTF8&seller=A29EBN4DXM8UCL&asin=B0CGBFF8K9&ref_=dp_merchant_link",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T20:19:24.000Z"
+        },
+        {
+          "title": "Discord age verification rolls out today with changes spurred by user backlash",
+          "link": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Discord will try to automatically estimate ages, require verification when it can't.",
+          "published": "2026-09-23T20:05:13.000Z"
+        },
+        {
+          "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
+          "link": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T19:55:14.000Z"
+        },
+        {
+          "title": "YouTube promises custom feeds and a lot more AI later this year",
+          "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+          "published": "2026-09-23T19:35:53.000Z"
+        },
+        {
+          "title": "How we made claude.ai 3x faster in two weeks",
+          "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T19:23:40.000Z"
+        },
+        {
+          "title": "Show HN: I built a post-mortem debugger for native Windows x64&#x2F;x86 crashes",
+          "link": "https://www.forensicdbg.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T19:15:55.000Z"
+        },
+        {
+          "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell…",
+          "published": "2026-09-23T19:00:00.000Z"
+        },
+        {
+          "title": "Contrary to some reports, you don't have two brains",
+          "link": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "A bad press release makes a good excuse to look at how developmental biology works.",
+          "published": "2026-09-23T18:47:36.000Z"
+        },
+        {
+          "title": "Netflix releases trailer for Brad Bird's Ray Gunn",
+          "link": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action.\"",
+          "published": "2026-09-23T18:26:50.000Z"
+        },
+        {
+          "title": "Data centers are black boxes, but California wants to change that",
+          "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number…",
+          "published": "2026-09-23T18:22:57.000Z"
+        },
+        {
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T18:06:47.000Z"
+        },
+        {
+          "title": "A brief history of Windows scroll bar shortcuts",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T18:02:08.000Z"
+        },
+        {
+          "title": "Anthropic s biolab made a discovery it s comparing to Crispr",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's…",
+          "published": "2026-09-23T18:00:00.000Z"
+        },
+        {
+          "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+          "link": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T17:45:30.000Z"
+        },
+        {
+          "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+          "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"So absurd and embarrassing ...\"",
+          "published": "2026-09-23T17:39:39.000Z"
+        },
+        {
+          "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
+          "link": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
+          "published": "2026-09-23T17:10:58.000Z"
+        },
+        {
+          "title": "Italian parliament votes for return to nuclear energy",
+          "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T17:06:16.000Z"
+        },
+        {
           "title": "28% of job postings on company career sites have been open over 90 days",
           "link": "https://unlisted.careers/ghost-jobs/report/2026-09",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-23T16:35:34.000Z"
+        },
+        {
+          "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of…",
+          "published": "2026-09-23T16:23:05.000Z"
         },
         {
           "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
@@ -226,178 +386,66 @@
           "published": "2026-09-23T16:00:00.000Z"
         },
         {
-          "title": "Xbox’s Mythic achievements sound like PlayStation’s Platinum trophy",
+          "title": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
           "link": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic achievements, which according to data in the app will appear once a player completes all the…",
+          "snippet": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic Achievements, which according to data in the app will appear once a player completes all the…",
           "published": "2026-09-23T15:45:11.000Z"
-        },
-        {
-          "title": "What to Know About JavaScript in 2026",
-          "link": "https://blog.master.dev/what-to-know-in-javascript-2026-edition/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T15:30:47.000Z"
-        },
-        {
-          "title": "Gemini 3.8 text-to-speech",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T15:29:23.000Z"
-        },
-        {
-          "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-          "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T15:23:05.000Z"
-        },
-        {
-          "title": "Fixing the Portobello Police Station Clock",
-          "link": "https://pointinthecloud.com/2026-04-11-211700.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T15:18:53.000Z"
-        },
-        {
-          "title": "GPT-6 Astra has gained the ability to drive a car",
-          "link": "https://drivingbench.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T15:14:22.000Z"
-        },
-        {
-          "title": "Strands Harness",
-          "link": "https://strandsagents.com/blog/introducing-strands-harness/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T15:05:46.000Z"
-        },
-        {
-          "title": "One of the best Metroid games for the Switch is 30 percent off",
-          "link": "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Nintendo’s “Customer Appreciation” sale continues through September 26th. It includes discounts on Switch games and accessories, and I thought I’d call out one of my favorite games that’s cheaper than ever. Metroid Prime Remastered is…",
-          "published": "2026-09-23T15:01:50.000Z"
-        },
-        {
-          "title": "This $199 GPS sports watch is repairable, modular, and open-source",
-          "link": "https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Una Watch costs less than most Garmin watches now that its price has been lowered from the Kickstarter offer of $350 to $199, but its modular, repairable design grabbed my attention first. It features a 1.2-inch MIP LCD display and up…",
-          "published": "2026-09-23T15:01:16.000Z"
-        },
-        {
-          "title": "YouTube is building AI creator tools that do almost everything for them",
-          "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling…",
-          "published": "2026-09-23T14:30:00.000Z"
-        },
-        {
-          "title": "Discord will now automatically estimate your age",
-          "link": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Discord is rolling out a new global age assurance system, seven months after pausing its previous verification measures following backlash from users. Starting today in every country except Australia and the UK, Discord will automatically…",
-          "published": "2026-09-23T14:27:49.000Z"
-        },
-        {
-          "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-          "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
-          "published": "2026-09-23T14:20:23.000Z"
-        },
-        {
-          "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
-          "link": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T14:04:34.000Z"
-        },
-        {
-          "title": "McDonald’s is testing ads on its drive-thru menus",
-          "link": "https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "McDonald's is putting ads on its drive-thru menu as part of a \"limited\" pilot at company-owned restaurants, according to a report from Bloomberg. Drive-thru locations included in the test will show ads from other brands on digital menu…",
-          "published": "2026-09-23T13:52:39.000Z"
-        },
-        {
-          "title": "Nobody does it like Remedy",
-          "link": "https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Video games have given us plenty of ways to traverse huge open worlds, but none have felt quite as oddly exhilarating as manipulating gravity in Control Resonant's twisted version of New York City. It's a game that lets you flip, twist,…",
-          "published": "2026-09-23T13:45:00.000Z"
-        },
-        {
-          "title": "Stripe's Knowledge AI Platform",
-          "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T13:38:00.000Z"
-        },
-        {
-          "title": "America gave up its rare earth edge. China took full advantage.",
-          "link": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Decades of cheaper imports left US dependent on China for crucial rare earth processing.",
-          "published": "2026-09-23T13:37:05.000Z"
-        },
-        {
-          "title": "The GitHub wiki is an anti-pattern (2022)",
-          "link": "https://michaelheap.com/github-wiki-is-an-antipattern/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T13:05:49.000Z"
-        },
-        {
-          "title": "I don't want the details",
-          "link": "https://michaelheap.com/i-dont-want-the-details/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T13:04:44.000Z"
-        },
-        {
-          "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-          "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T12:15:33.000Z"
-        },
-        {
-          "title": "Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display",
-          "link": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Xiaomi's new 18 Pro and 18 Pro Max launched in China today, and feature a more flexible take on the privacy display tech introduced this year on Samsung's Galaxy S26 Ultra. They combine it with returning rear screens, two 200-megapixel…",
-          "published": "2026-09-23T12:04:45.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Law Schools Can’t Decide Whether To Teach AI Or Pretend It Doesn’t Exist",
+          "link": "https://abovethelaw.com/2026/09/law-schools-cant-decide-whether-to-teach-ai-or-pretend-it-doesnt-exist/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Students say avoiding the technology won’t prepare them for modern legal practice. The post Law Schools Can’t Decide Whether To Teach AI Or Pretend It Doesn’t Exist appeared first on Above the Law .",
+          "published": "2026-09-23T20:44:00.000Z"
+        },
+        {
+          "title": "Missouri urges justices to keep in place congressional redistricting map expected to benefit Republicans",
+          "link": "https://www.scotusblog.com/2026/09/missouri-urges-justices-to-keep-in-place-congressional-redistricting-map-expected-to-benefit-rep/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Missouri and a group of candidates and voters seeking to implement a new congressional map enacted in 2025 urged the Supreme Court on Wednesday afternoon to leave in place a ruling by a federal appeals court that directs the state to use…",
+          "published": "2026-09-23T20:17:48.000Z"
+        },
+        {
+          "title": "Weil Get You And Then Maybe You ll Go To Cravath",
+          "link": "https://abovethelaw.com/2026/09/weil-get-you-and-then-maybe-youll-go-to-cravath/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "And how AI and college sports are basically running the same terrible playbook. The post Weil Get You And Then Maybe You ll Go To Cravath appeared first on Above the Law .",
+          "published": "2026-09-23T20:03:00.000Z"
+        },
+        {
+          "title": "Judge Puts Lawyer’s Sleeveless Dress On Trial",
+          "link": "https://abovethelaw.com/2026/09/judge-puts-lawyers-sleeveless-dress-on-trial/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Her case wasn’t going to trial that day, but her outfit apparently was. The post Judge Puts Lawyer’s Sleeveless Dress On Trial appeared first on Above the Law .",
+          "published": "2026-09-23T19:15:00.000Z"
+        },
+        {
+          "title": "The White House Has A Whole Lot Of Talking Points And Not A Lot Of Case Law",
+          "link": "https://abovethelaw.com/2026/09/the-white-house-has-a-whole-lot-of-talking-points-and-not-a-lot-of-case-law/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The judge hears the arguments later ths afternoon. The post The White House Has A Whole Lot Of Talking Points And Not A Lot Of Case Law appeared first on Above the Law .",
+          "published": "2026-09-23T18:32:00.000Z"
+        },
+        {
+          "title": "Weil s Revolving Door Now Spins In Both Directions",
+          "link": "https://abovethelaw.com/2026/09/weils-revolving-door-now-spins-in-both-directions/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Paul, Weiss helps itself to Weil's private equity co-head and five more, The post Weil s Revolving Door Now Spins In Both Directions appeared first on Above the Law .",
+          "published": "2026-09-23T17:45:00.000Z"
+        },
         {
           "title": "Remaining Reporters Should Self-Deport From The White House, Avoid Spreading More Trump Lies",
           "link": "https://abovethelaw.com/2026/09/remaining-reporters-should-self-deport-from-the-white-house-avoid-spreading-more-trump-lies/",
@@ -541,54 +589,6 @@
           "category": "legal",
           "snippet": "Let's see if Gorsuch writes separately to get snippy about courts that 'defy' the Supreme Court this time. The post Eighth Circuit Revives Missouri Gerrymander Supreme Court ALREADY Blocked Time For Impeachment Articles appeared first on…",
           "published": "2026-09-22T17:48:18.000Z"
-        },
-        {
-          "title": "Biglaw Firm s Cybersecurity Headache Just Got Even Worse",
-          "link": "https://abovethelaw.com/2026/09/biglaw-firms-cybersecurity-headache-just-got-even-worse/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The firm is now facing two proposed class actions over its data breach. The post Biglaw Firm s Cybersecurity Headache Just Got Even Worse appeared first on Above the Law .",
-          "published": "2026-09-22T17:02:06.000Z"
-        },
-        {
-          "title": "Last Week Came OpenAI’s Launch Into Legal, Now Come The Litany Of Vendor Integrations",
-          "link": "https://www.lawnext.com/2026/09/yesterday-came-openais-launch-into-legal-now-come-the-litany-of-vendor-integrations.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The announcement included news of 26 new ChatGPT plugins from legal tech vendors. Now come the rest.... The post Last Week Came OpenAI’s Launch Into Legal, Now Come The Litany Of Vendor Integrations appeared first on Above the Law .",
-          "published": "2026-09-22T16:22:50.000Z"
-        },
-        {
-          "title": "Conservative Legal Legend Calls Donald Trump A Trapped Animal",
-          "link": "https://abovethelaw.com/2026/09/conservative-legal-legend-calls-donald-trump-a-trapped-animal/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Just what you want to hear about the leader of the free world. The post Conservative Legal Legend Calls Donald Trump A Trapped Animal appeared first on Above the Law .",
-          "published": "2026-09-22T15:44:00.000Z"
-        },
-        {
-          "title": "3 More Questions For A Law School Admissions Expert (Part II)",
-          "link": "https://abovethelaw.com/2026/09/3-more-questions-for-a-law-school-admissions-expert-part-ii/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The admissions process is looking more and more like the Biglaw partnership race. The post 3 More Questions For A Law School Admissions Expert (Part II) appeared first on Above the Law .",
-          "published": "2026-09-22T15:04:00.000Z"
-        },
-        {
-          "title": "RFK Jr. Overhauls USPSTF Leadership: 5 Things To Know",
-          "link": "https://medcitynews.com/2026/09/rfk-jr-uspstf-medical/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "HHS Secretary Robert F. Kennedy Jr. named eight new members to the U.S. Preventive Services Task Force this week, completing the 16-seat panel amid ongoing tension over its leadership. The post RFK Jr. Overhauls USPSTF Leadership: 5…",
-          "published": "2026-09-22T14:02:00.000Z"
-        },
-        {
-          "title": "The Supreme Court refuses to become partisan in two fights over the midterms",
-          "link": "https://www.scotusblog.com/2026/09/the-supreme-court-refuses-to-become-partisan-in-two-fights-over-the-midterms/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "People complain that the current Supreme Court is a partisan institution, with the six Republican appointees deciding cases based on their partisan beliefs. But two recent and significant cases on the court’s emergency docket refute that…",
-          "published": "2026-09-22T14:00:00.000Z"
         }
       ]
     }
