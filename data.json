@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-23T01:35:10.672Z",
+  "updated": "2026-09-23T06:59:12.660Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "How much do you spend on a birthday present?",
+          "link": "https://www.bbc.co.uk/news/videos/cmj64g887zy9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Do you show you care through expensive presents? Or do you consider a drink in a pub a worthy birthday gift?",
+          "published": "2026-09-23T05:14:10.000Z"
+        },
+        {
+          "title": "Will Trump's AI rebrand to 'super intelligence' catch on?",
+          "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
+          "published": "2026-09-23T03:20:30.000Z"
+        },
         {
           "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
           "link": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
@@ -29,7 +45,7 @@
           "published": "2026-09-22T23:03:48.000Z"
         },
         {
-          "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
+          "title": "Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -109,14 +125,6 @@
           "published": "2026-09-22T16:50:24.000Z"
         },
         {
-          "title": "Watch: Trump floats rebranding artificial intelligence as super intelligence",
-          "link": "https://www.bbc.co.uk/news/videos/c8n5d9x10v14o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "\"The use of the word artificial makes it sound fake,\" he said told the UN. \"It's not fake, it's actually amazing.\"",
-          "published": "2026-09-22T15:53:25.000Z"
-        },
-        {
           "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
           "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "A business says fuel duty will need to be cut by 30p to 50p per litre to help.",
           "published": "2026-09-22T05:24:01.000Z"
-        },
-        {
-          "title": "Soaring fuel costs hit small businesses",
-          "link": "https://www.bbc.co.uk/news/articles/c8qlwp7q9662o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "It comes as fuel prices reach their highest since 2022, driven by conflict in the Middle East.",
-          "published": "2026-09-22T05:05:41.000Z"
         }
       ]
     },
@@ -202,28 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T04:00:43.000Z"
+        },
+        {
+          "title": "Data-only attacks are easier than you think (2024)",
+          "link": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T03:49:28.000Z"
+        },
+        {
+          "title": "Transit rewards",
+          "link": "https://waymo.com/blog/2026/09/transit-rewards/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T02:52:29.000Z"
+        },
+        {
           "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
           "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
           "source": "The Verge",
           "category": "tech",
           "snippet": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent…",
           "published": "2026-09-23T00:17:17.000Z"
-        },
-        {
-          "title": "The new CC, an AI agent built for families",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-22T23:46:07.000Z"
-        },
-        {
-          "title": "Augustofaces: Pareidolia Fine Art",
-          "link": "https://augusto.at/augustosfaces/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-22T22:52:11.000Z"
         },
         {
           "title": "Paramount will need to release way more movies to make this merger work",
@@ -256,14 +264,6 @@
           "category": "tech",
           "snippet": "The frontier AI model race has entered its comparison shopping phase.",
           "published": "2026-09-22T21:25:18.000Z"
-        },
-        {
-          "title": "The UV index is not the warm sensation of sunlight on bare skin",
-          "link": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-22T21:06:40.000Z"
         },
         {
           "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
@@ -312,14 +312,6 @@
           "category": "tech",
           "snippet": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full…",
           "published": "2026-09-22T20:00:00.000Z"
-        },
-        {
-          "title": "The JavaScript Midlife Crisis",
-          "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-22T19:58:47.000Z"
         },
         {
           "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-22T18:57:17.000Z"
+        },
+        {
+          "title": "Unreal Agent",
+          "link": "https://unreallabs.ai/blog/unreal-agent/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-22T18:15:53.000Z"
         }
       ]
     },
