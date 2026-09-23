@@ -1,16 +1,48 @@
 {
-  "updated": "2026-09-23T12:36:28.520Z",
+  "updated": "2026-09-23T17:35:16.395Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
+          "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry.",
+          "published": "2026-09-23T17:25:26.000Z"
+        },
+        {
+          "title": "McDonald's stock falls as it unveils plan to spend big on restaurant upgrades",
+          "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The plans are part of the fast-food giant's new growth strategy, called McDonald's > NEXT.",
+          "published": "2026-09-23T17:09:22.000Z"
+        },
+        {
+          "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
+          "published": "2026-09-23T16:42:47.000Z"
+        },
+        {
+          "title": "Charities say gifts by deceased donors are getting held up at financial firms",
+          "link": "https://www.cnbc.com/2026/09/17/charities-ira-gifts-hurdles.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Nonprofits are pushing back against policies by financial institutions to collect personal information of charity employees before releasing a gift.",
+          "published": "2026-09-23T14:42:11.000Z"
+        },
         {
           "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
           "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-          "published": "2026-09-23T12:30:02.000Z"
+          "published": "2026-09-23T13:50:25.000Z"
         },
         {
           "title": "Royal Caribbean agrees to take 50% equity stake in Sandals for $3 billion",
@@ -163,38 +195,6 @@
           "category": "markets",
           "snippet": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
           "published": "2026-09-22T15:43:14.000Z"
-        },
-        {
-          "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-          "published": "2026-09-22T11:24:48.000Z"
-        },
-        {
-          "title": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect",
-          "link": "https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The presentation comes as McDonald's U.S. business disappointed in its most recent quarter.",
-          "published": "2026-09-22T11:00:01.000Z"
-        },
-        {
-          "title": "Are vet bills about to get cheaper?",
-          "link": "https://www.bbc.co.uk/news/videos/cmn8eqg2v2xyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Written prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months.",
-          "published": "2026-09-22T10:57:42.000Z"
-        },
-        {
-          "title": "Spain battles climate change on several fronts",
-          "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-          "published": "2026-09-22T09:11:48.000Z"
         }
       ]
     },
@@ -202,7 +202,183 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "Claude Code reads AGENTS.md only when telemetry is on",
+          "title": "28% of job postings on company career sites have been open over 90 days",
+          "link": "https://unlisted.careers/ghost-jobs/report/2026-09",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T16:35:34.000Z"
+        },
+        {
+          "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
+          "link": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern…",
+          "published": "2026-09-23T16:01:45.000Z"
+        },
+        {
+          "title": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
+          "link": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom…",
+          "published": "2026-09-23T16:00:00.000Z"
+        },
+        {
+          "title": "Xbox’s Mythic achievements sound like PlayStation’s Platinum trophy",
+          "link": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic achievements, which according to data in the app will appear once a player completes all the…",
+          "published": "2026-09-23T15:45:11.000Z"
+        },
+        {
+          "title": "What to Know About JavaScript in 2026",
+          "link": "https://blog.master.dev/what-to-know-in-javascript-2026-edition/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T15:30:47.000Z"
+        },
+        {
+          "title": "Gemini 3.8 text-to-speech",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T15:29:23.000Z"
+        },
+        {
+          "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+          "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T15:23:05.000Z"
+        },
+        {
+          "title": "Fixing the Portobello Police Station Clock",
+          "link": "https://pointinthecloud.com/2026-04-11-211700.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T15:18:53.000Z"
+        },
+        {
+          "title": "GPT-6 Astra has gained the ability to drive a car",
+          "link": "https://drivingbench.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T15:14:22.000Z"
+        },
+        {
+          "title": "Strands Harness",
+          "link": "https://strandsagents.com/blog/introducing-strands-harness/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T15:05:46.000Z"
+        },
+        {
+          "title": "One of the best Metroid games for the Switch is 30 percent off",
+          "link": "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Nintendo’s “Customer Appreciation” sale continues through September 26th. It includes discounts on Switch games and accessories, and I thought I’d call out one of my favorite games that’s cheaper than ever. Metroid Prime Remastered is…",
+          "published": "2026-09-23T15:01:50.000Z"
+        },
+        {
+          "title": "This $199 GPS sports watch is repairable, modular, and open-source",
+          "link": "https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Una Watch costs less than most Garmin watches now that its price has been lowered from the Kickstarter offer of $350 to $199, but its modular, repairable design grabbed my attention first. It features a 1.2-inch MIP LCD display and up…",
+          "published": "2026-09-23T15:01:16.000Z"
+        },
+        {
+          "title": "YouTube is building AI creator tools that do almost everything for them",
+          "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling…",
+          "published": "2026-09-23T14:30:00.000Z"
+        },
+        {
+          "title": "Discord will now automatically estimate your age",
+          "link": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Discord is rolling out a new global age assurance system, seven months after pausing its previous verification measures following backlash from users. Starting today in every country except Australia and the UK, Discord will automatically…",
+          "published": "2026-09-23T14:27:49.000Z"
+        },
+        {
+          "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+          "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
+          "published": "2026-09-23T14:20:23.000Z"
+        },
+        {
+          "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+          "link": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T14:04:34.000Z"
+        },
+        {
+          "title": "McDonald’s is testing ads on its drive-thru menus",
+          "link": "https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "McDonald's is putting ads on its drive-thru menu as part of a \"limited\" pilot at company-owned restaurants, according to a report from Bloomberg. Drive-thru locations included in the test will show ads from other brands on digital menu…",
+          "published": "2026-09-23T13:52:39.000Z"
+        },
+        {
+          "title": "Nobody does it like Remedy",
+          "link": "https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Video games have given us plenty of ways to traverse huge open worlds, but none have felt quite as oddly exhilarating as manipulating gravity in Control Resonant's twisted version of New York City. It's a game that lets you flip, twist,…",
+          "published": "2026-09-23T13:45:00.000Z"
+        },
+        {
+          "title": "Stripe's Knowledge AI Platform",
+          "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T13:38:00.000Z"
+        },
+        {
+          "title": "America gave up its rare earth edge. China took full advantage.",
+          "link": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Decades of cheaper imports left US dependent on China for crucial rare earth processing.",
+          "published": "2026-09-23T13:37:05.000Z"
+        },
+        {
+          "title": "The GitHub wiki is an anti-pattern (2022)",
+          "link": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T13:05:49.000Z"
+        },
+        {
+          "title": "I don't want the details",
+          "link": "https://michaelheap.com/i-dont-want-the-details/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-23T13:04:44.000Z"
+        },
+        {
+          "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
           "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
           "source": "Hacker News",
           "category": "tech",
@@ -216,188 +392,92 @@
           "category": "tech",
           "snippet": "Xiaomi's new 18 Pro and 18 Pro Max launched in China today, and feature a more flexible take on the privacy display tech introduced this year on Samsung's Galaxy S26 Ultra. They combine it with returning rear screens, two 200-megapixel…",
           "published": "2026-09-23T12:04:45.000Z"
-        },
-        {
-          "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
-          "link": "https://questdb.com/careers/pre-sales-engineer-north-america/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T12:01:04.000Z"
-        },
-        {
-          "title": "Small undersea volcanoes may unleash outsized tsunamis",
-          "link": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Post-eruption imaging of the Hunga caldera gives new details of its collapse.",
-          "published": "2026-09-23T11:15:30.000Z"
-        },
-        {
-          "title": "Z80 REPL",
-          "link": "https://abagames.github.io/z80-repl/index.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T11:04:52.000Z"
-        },
-        {
-          "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to…",
-          "published": "2026-09-23T11:02:39.000Z"
-        },
-        {
-          "title": "A new report from Europe raises serious alarms about orbital collisions",
-          "link": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"I think we are going to lose the ability to use certain orbits.\"",
-          "published": "2026-09-23T11:00:17.000Z"
-        },
-        {
-          "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
-          "link": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Eight Sleep announced the next version of its \"intelligent sleep system\" designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breathing and heart rate. The company calls its new Pod 6…",
-          "published": "2026-09-23T11:00:00.000Z"
-        },
-        {
-          "title": "The darker side of being a doctor",
-          "link": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T10:54:55.000Z"
-        },
-        {
-          "title": "I am done with this shit",
-          "link": "https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T07:59:14.000Z"
-        },
-        {
-          "title": "Jev in 25 Lines of Python",
-          "link": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T07:26:23.000Z"
-        },
-        {
-          "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
-          "link": "https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T06:48:37.000Z"
-        },
-        {
-          "title": "How often do you think about the 1893 World's Fair?",
-          "link": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T05:32:51.000Z"
-        },
-        {
-          "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T04:00:43.000Z"
-        },
-        {
-          "title": "Data-only attacks are easier than you think (2024)",
-          "link": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T03:49:28.000Z"
-        },
-        {
-          "title": "Transit rewards",
-          "link": "https://waymo.com/blog/2026/09/transit-rewards/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-23T02:52:29.000Z"
-        },
-        {
-          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent…",
-          "published": "2026-09-23T00:17:17.000Z"
-        },
-        {
-          "title": "Paramount will need to release way more movies to make this merger work",
-          "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In…",
-          "published": "2026-09-22T22:26:07.000Z"
-        },
-        {
-          "title": "The current balance of power in open models",
-          "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-22T22:03:46.000Z"
-        },
-        {
-          "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
-          "link": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "There is no single definitive test for these worms, but the tail is fairly convincing.",
-          "published": "2026-09-22T21:42:14.000Z"
-        },
-        {
-          "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-          "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The frontier AI model race has entered its comparison shopping phase.",
-          "published": "2026-09-22T21:25:18.000Z"
-        },
-        {
-          "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-          "link": "https://foxscript.org/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-22T21:00:30.000Z"
-        },
-        {
-          "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud…",
-          "published": "2026-09-22T20:52:40.000Z"
-        },
-        {
-          "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
-          "link": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
-          "published": "2026-09-22T20:38:30.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Remaining Reporters Should Self-Deport From The White House, Avoid Spreading More Trump Lies",
+          "link": "https://abovethelaw.com/2026/09/remaining-reporters-should-self-deport-from-the-white-house-avoid-spreading-more-trump-lies/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Even rivals stood by the banned media outlets. The post Remaining Reporters Should Self-Deport From The White House, Avoid Spreading More Trump Lies appeared first on Above the Law .",
+          "published": "2026-09-23T17:01:00.000Z"
+        },
+        {
+          "title": "Everlaw Supplying Technology To Investigative Journalists To Help Root Out Corruption",
+          "link": "https://abovethelaw.com/2026/09/everlaw-supplying-technology-to-investigative-journalists-to-help-root-out-corruption/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The same tools that assist in eDiscovery can supercharge journalists trying to piece together a story. The post Everlaw Supplying Technology To Investigative Journalists To Help Root Out Corruption appeared first on Above the Law .",
+          "published": "2026-09-23T16:15:00.000Z"
+        },
+        {
+          "title": "The IRS Draft Form 1040’s Proposed Citizenship Status Question: A Tool For Tax Compliance Or Immigration Enforcement?",
+          "link": "https://abovethelaw.com/2026/09/the-irs-draft-form-1040s-proposed-citizenship-status-question-a-tool-for-tax-compliance-or-immigration-enforcement/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The move seems to suggest that the Trump administration still wants to use tax records to enforce immigration law. The post The IRS Draft Form 1040’s Proposed Citizenship Status Question: A Tool For Tax Compliance Or Immigration…",
+          "published": "2026-09-23T15:34:00.000Z"
+        },
+        {
+          "title": "Judge With Infamous A, B, C, D, F, U Sobriety Test Gets Another Year Off The Bench",
+          "link": "https://abovethelaw.com/2026/09/judge-with-infamous-a-b-c-d-f-u-sobriety-test-gets-another-year-off-the-bench/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The judge agreed to treatment and testing to resolve his judicial misconduct case. The post Judge With Infamous A, B, C, D, F, U Sobriety Test Gets Another Year Off The Bench appeared first on Above the Law .",
+          "published": "2026-09-23T14:47:00.000Z"
+        },
+        {
+          "title": "Fendi Faces Backlash For Cultural Appropriation Accusations",
+          "link": "https://fashionista.com/2026/09/presley-gerber-cindy-crawford-son-dies-at-27",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Fendi declined to comment on whether it will start crediting cultural inspirations in future product descriptions. The post Fendi Faces Backlash For Cultural Appropriation Accusations appeared first on Above the Law .",
+          "published": "2026-09-23T14:06:00.000Z"
+        },
+        {
+          "title": "Respecting our multi-branch lawmaking process",
+          "link": "https://www.scotusblog.com/2026/09/respecting-our-multi-branch-lawmaking-process/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "In my inaugural entry for this column, I critiqued the Supreme Court’s reliance on an abstract conception of the “separation of powers.” Because the Constitution does not contain a “separation of powers” clause, but instead contains a…",
+          "published": "2026-09-23T14:00:00.000Z"
+        },
+        {
+          "title": "The decision before the decision",
+          "link": "https://www.scotusblog.com/2026/09/the-decision-before-the-decision/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "On Friday, Aug. 21, Chief Justice John Roberts issued an administrative, or temporary, stay, allowing construction to continue on the White House ballroom. The order put on hold a district court injunction that would have halted work by…",
+          "published": "2026-09-23T13:30:00.000Z"
+        },
+        {
+          "title": "Missouri congressional redistricting battle goes to Supreme Court for the third time",
+          "link": "https://www.scotusblog.com/2026/09/missouri-congressional-redistricting-battle-goes-to-supreme-court-for-the-third-time/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Less than two weeks after the Supreme Court paused a ruling by a federal judge in Missouri that would have cleared the way for the state to use a new congressional map intended to give Republicans an additional seat in the U.S. House of…",
+          "published": "2026-09-23T13:21:00.000Z"
+        },
+        {
+          "title": "Morning Docket: 09.23.26",
+          "link": "https://abovethelaw.com/2026/09/morning-docket-09-23-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* Brett Kavanaugh testily demands answers in the Missouri gerrymander case he's killed twice already. [ NY Times ] * \"Judge dismisses suit claiming James Cameron misappropriated likeness of actress for 'Avatar.'\" I'll say it, he hasn't…",
+          "published": "2026-09-23T13:16:35.000Z"
+        },
+        {
+          "title": "Trump administration brings immigration disputes to SCOTUS",
+          "link": "https://www.scotusblog.com/2026/09/trump-administration-brings-immigration-disputes-to-scotus/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Plus, Amy explains how she prepares to cover the “long conference.”",
+          "published": "2026-09-23T13:00:00.000Z"
+        },
         {
           "title": "Eighth Circuit s Flirtation With A Constitutional Crisis See Also",
           "link": "https://abovethelaw.com/2026/09/eigth-circuits-flirtation-with-a-constitutional-crisis-see-also/",
@@ -431,8 +511,8 @@
           "published": "2026-09-22T20:33:00.000Z"
         },
         {
-          "title": "Trump administration brings important immigration question back to the Supreme Court",
-          "link": "https://www.scotusblog.com/2026/09/trump-administration-brings-important-immigration-question-back-to-the-supreme-court/",
+          "title": "Trump administration takes important immigration question back to the Supreme Court",
+          "link": "https://www.scotusblog.com/2026/09/trump-administration-takes-important-immigration-question-back-to-the-supreme-court/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "On Sept. 11, the Trump administration notified the Supreme Court that Genalo v. Black , an immigration case set to be argued in October, was now moot – that is, no longer a live controversy – and should be dismissed from the oral argument…",
@@ -509,86 +589,6 @@
           "category": "legal",
           "snippet": "People complain that the current Supreme Court is a partisan institution, with the six Republican appointees deciding cases based on their partisan beliefs. But two recent and significant cases on the court’s emergency docket refute that…",
           "published": "2026-09-22T14:00:00.000Z"
-        },
-        {
-          "title": "The court’s coming climate-change case and the very confused doctrine of preemption",
-          "link": "https://www.scotusblog.com/2026/09/the-courts-coming-climate-change-case-and-the-very-confused-doctrine-of-preemption/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "On the first day of the October 2026 Term, the court will hear Suncor Energy, Inc. v. County Commissioners of Boulder County , which poses the issue of whether suits under state law against energy companies for their role in causing…",
-          "published": "2026-09-22T13:30:00.000Z"
-        },
-        {
-          "title": "Missouri redistricting dispute may return to Supreme Court",
-          "link": "https://www.scotusblog.com/2026/09/missouri-redistricting-dispute-may-return-to-supreme-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, is it time to rethink the chief justice’s duties?",
-          "published": "2026-09-22T13:00:00.000Z"
-        },
-        {
-          "title": "Morning Docket: 09.22.26",
-          "link": "https://abovethelaw.com/2026/09/morning-docket-09-22-26/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "* More on this later, but the Eighth Circuit just ordered Missouri to use its new gerrymandered map... the one that the U.S. Supreme Court just told the state not to use. I'm sure the justices are super excited to see this arrive at their…",
-          "published": "2026-09-22T12:58:00.000Z"
-        },
-        {
-          "title": "The Shadow Docket Isn t The Exception Anymore See Also",
-          "link": "https://abovethelaw.com/2026/09/the-shadow-docket-isnt-the-exception-anymore-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "'The Law Is On Our Side Across The Board': Ted Boutrous would know, he helped build it. After A Run Of Defections, Weil Is Reportedly Thinking About A Merger: That is one way the accelerate the firm's growth. Google's Defamation Defense:…",
-          "published": "2026-09-21T23:06:00.000Z"
-        },
-        {
-          "title": "The First And Last Time The Supreme Court Acted As A Trial Court",
-          "link": "https://abovethelaw.com/2026/09/the-first-and-last-time-the-supreme-court-acted-as-a-trial-court/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A sheriff thought he could defy the Court's order, and an innocent man paid for it with his life. The post The First And Last Time The Supreme Court Acted As A Trial Court appeared first on Above the Law .",
-          "published": "2026-09-21T22:04:00.000Z"
-        },
-        {
-          "title": "Former Trump Attorney Alleges Misconduct In Prosecution Of Tom Goldstein",
-          "link": "https://abovethelaw.com/2026/09/former-trump-attorney-alleges-misconduct-in-prosecution-of-tom-goldstein/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "John Dowd doesn't hold back in reaming the government attorneys. The post Former Trump Attorney Alleges Misconduct In Prosecution Of Tom Goldstein appeared first on Above the Law .",
-          "published": "2026-09-21T21:03:00.000Z"
-        },
-        {
-          "title": "Marketing Roundup: Takeaways From The LMA Second Chair Roundtable, Why Branding Is More Than A Visual Identity, And More",
-          "link": "https://abovethelaw.com/2026/09/marketing-roundup-choosing-your-board-of-advisors-what-parenting-teaches-us-about-communication-and-more-2-2/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A roundup of the latest from Strategies Voices, the official online publication of LMA. The post Marketing Roundup: Takeaways From The LMA Second Chair Roundtable, Why Branding Is More Than A Visual Identity, And More appeared first on…",
-          "published": "2026-09-21T20:12:00.000Z"
-        },
-        {
-          "title": "Supreme Court Shadow Docket Is Now Bigger Than The Real, Transparent One",
-          "link": "https://abovethelaw.com/2026/09/supreme-court-shadow-docket-is-now-bigger-than-the-real-transparent-one/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Maybe it's time to start highlighting the 'transparent' docket instead. The post Supreme Court Shadow Docket Is Now Bigger Than The Real, Transparent One appeared first on Above the Law .",
-          "published": "2026-09-21T19:40:00.000Z"
-        },
-        {
-          "title": "B2B Agents Will Need More Than Machine-Readable Contracts",
-          "link": "https://abovethelaw.com/2026/09/b2b-agents-will-need-more-than-machine-readable-contracts/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "'Market' cannot become a substitute for judgment. The post B2B Agents Will Need More Than Machine-Readable Contracts appeared first on Above the Law .",
-          "published": "2026-09-21T19:13:00.000Z"
-        },
-        {
-          "title": "Trump Banned Three News Outlets And Handed Gibson Dunn A Sequel It Already Knows How To Win",
-          "link": "https://abovethelaw.com/2026/09/trump-banned-three-news-outlets-and-handed-gibson-dunn-a-sequel-it-already-knows-how-to-win/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The last time the White House yanked a CNN press pass, Boutrous had a TRO inside a week. The post Trump Banned Three News Outlets And Handed Gibson Dunn A Sequel It Already Knows How To Win appeared first on Above the Law .",
-          "published": "2026-09-21T18:38:07.000Z"
         }
       ]
     }
