@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-24T17:27:32.036Z",
+  "updated": "2026-09-24T20:38:24.725Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
+          "link": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Barry Diller's People Inc. has rescinded its offer to buy the remaining public shares of MGM Resorts.",
+          "published": "2026-09-24T20:11:24.000Z"
+        },
+        {
+          "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
+          "link": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Cox analysts said Ford and General Motors are seeing sales lag because they don't have many hybrid vehicles.",
+          "published": "2026-09-24T18:46:46.000Z"
+        },
         {
           "title": "Cat owners are spending more and boosting pet retailers",
           "link": "https://www.cnbc.com/2026/09/24/cat-ownership-food-sales-dog-demand.html",
@@ -13,28 +29,12 @@
           "published": "2026-09-24T17:13:34.000Z"
         },
         {
-          "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-          "link": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Cox analysts said Ford and General Motors are seeing sales lag because they don't have many hybrid vehicles.",
-          "published": "2026-09-24T16:33:15.000Z"
-        },
-        {
           "title": "Darden Restaurants stock falls as Olive Garden reports slower growth",
           "link": "https://www.cnbc.com/2026/09/24/darden-restaurants-dri-q1-2027-earnings.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Olive Garden's same-store sales growth has slowed in recent quarters.",
           "published": "2026-09-24T16:13:13.000Z"
-        },
-        {
-          "title": "MGM Resorts shares sink 9% after Barry Diller's People Inc. rescinds takeover offer",
-          "link": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Barry Diller's People Inc. has rescinded its offer to buy the remaining public shares of MGM Resorts.",
-          "published": "2026-09-24T16:06:00.000Z"
         },
         {
           "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
@@ -202,6 +202,118 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Gemini 3.8 Live with Live Avatar gives Google s AI a face",
+          "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but…",
+          "published": "2026-09-24T19:59:26.000Z"
+        },
+        {
+          "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+          "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T19:54:21.000Z"
+        },
+        {
+          "title": "August 27 TCRF DDoS Attack Postmortem",
+          "link": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T19:46:22.000Z"
+        },
+        {
+          "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T19:14:27.000Z"
+        },
+        {
+          "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+          "link": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
+          "published": "2026-09-24T18:52:23.000Z"
+        },
+        {
+          "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+          "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
+          "published": "2026-09-24T18:39:47.000Z"
+        },
+        {
+          "title": "Stable (YC W20) Is Hiring Product Engineers",
+          "link": "https://www.usestable.com/careers/product-engineer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T18:29:18.000Z"
+        },
+        {
+          "title": "Creatine uptake enhances antitumor immunity",
+          "link": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T18:24:52.000Z"
+        },
+        {
+          "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+          "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
+          "published": "2026-09-24T18:20:58.000Z"
+        },
+        {
+          "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+          "link": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139.…",
+          "published": "2026-09-24T18:19:23.000Z"
+        },
+        {
+          "title": "Jensen Huang talks about AI and climate change like a supervillain",
+          "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The…",
+          "published": "2026-09-24T18:04:44.000Z"
+        },
+        {
+          "title": "Meta is going to let you build games with AI right on your phone",
+          "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a…",
+          "published": "2026-09-24T17:52:29.000Z"
+        },
+        {
+          "title": "A Million Agents Is a Distributed System Problem",
+          "link": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T17:26:23.000Z"
+        },
+        {
+          "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+          "link": "https://github.com/devdotfast/whiteboard",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T17:21:36.000Z"
+        },
+        {
           "title": "Muse will apparently let you download its entire filesystem",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
           "source": "The Verge",
@@ -216,14 +328,6 @@
           "category": "tech",
           "snippet": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent…",
           "published": "2026-09-24T17:10:38.000Z"
-        },
-        {
-          "title": "S.F. Democratic Party stands behind Flock surveillance cameras in vote",
-          "link": "https://missionlocal.org/2026/09/san-francisco-democratic-party-flock-cameras/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T17:04:32.000Z"
         },
         {
           "title": "Now Google Chrome shares tabs to new devices that save where you were",
@@ -250,12 +354,20 @@
           "published": "2026-09-24T16:29:31.000Z"
         },
         {
-          "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
-          "link": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
+          "title": "Why is the liver so weirdly regenerative?",
+          "link": "https://dynomight.substack.com/p/liver",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-24T16:15:34.000Z"
+          "published": "2026-09-24T16:23:00.000Z"
+        },
+        {
+          "title": "Google's first Suncatcher orbital data center test launches October 1",
+          "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+          "published": "2026-09-24T16:16:34.000Z"
         },
         {
           "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
@@ -266,138 +378,58 @@
           "published": "2026-09-24T16:04:31.000Z"
         },
         {
-          "title": "LinkedIn wins court order blocking mass scraping of user data",
-          "link": "https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T16:02:52.000Z"
-        },
-        {
-          "title": "The Xbox reset gets ugly",
-          "link": "https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "It feels like Xbox has been in a permanent state of turmoil for at least two years now, and this week is no different. Microsoft cut 268 jobs across its gaming division this week, shuffled major studios and franchises around, and…",
-          "published": "2026-09-24T16:00:00.000Z"
-        },
-        {
-          "title": "Reddit mod ordered to pay Nintendo $4.5 million in Switch piracy lawsuit",
-          "link": "https://www.theverge.com/games/1000088/nintendo-switch-piracy-reddit-mod-lawsuit",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Nintendo won its $4.5 million lawsuit against James Williams, a Reddit moderator accused of distributing pirated Switch games, as reported earlier by Aftermath. In a default judgment issued on Wednesday, a Washington federal judge also…",
-          "published": "2026-09-24T15:50:35.000Z"
-        },
-        {
-          "title": "GitHub has not removed malicious imitation software after 3 weeks",
-          "link": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T15:50:26.000Z"
-        },
-        {
-          "title": "Experiencing writing at our recent Chinese calligraphy workshop",
-          "link": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T15:40:03.000Z"
-        },
-        {
-          "title": "F-Droid 2.0",
-          "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T15:26:12.000Z"
-        },
-        {
-          "title": "NASA chief concerned China may deny access to parts of South Pole",
-          "link": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
+          "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+          "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
-          "published": "2026-09-24T14:57:50.000Z"
+          "snippet": "\"There will obviously be legal consequences,\" prime minister promises.",
+          "published": "2026-09-24T16:01:16.000Z"
         },
         {
-          "title": "You might not miss what Nikon removed from its cheaper full-frame Z5 IIC",
-          "link": "https://www.theverge.com/tech/1000037/nikon-z5-iic-full-frame-digital-camera-ibis-mechanical-shutter",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Nikon waited five years to update its full-frame Z5 camera to the Z5 II, but today it announced a new variant of last year's upgrade that removes features instead of introducing improvements in order to make it more affordable for novice…",
-          "published": "2026-09-24T14:53:06.000Z"
-        },
-        {
-          "title": "Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering",
-          "link": "https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T14:33:52.000Z"
-        },
-        {
-          "title": "Why can’t we just keep rogue AIs off the internet?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might…",
-          "published": "2026-09-24T14:30:00.000Z"
-        },
-        {
-          "title": "Meta puts its AI assistant on a keychain",
-          "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+          "title": "Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030",
+          "link": "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Meta says the keychain-sized Muse Charm will ship in December.",
-          "published": "2026-09-24T14:03:38.000Z"
-        },
-        {
-          "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-          "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T12:58:08.000Z"
-        },
-        {
-          "title": "What Is RLCD? The Secret Behind Jev",
-          "link": "https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T12:21:16.000Z"
-        },
-        {
-          "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-          "link": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T11:54:38.000Z"
-        },
-        {
-          "title": "There's a new way to break RSA that's faster than anything we've seen before",
-          "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
-          "published": "2026-09-24T11:15:44.000Z"
-        },
-        {
-          "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
-          "link": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T11:08:39.000Z"
+          "snippet": "F1 wants smaller, lighter cars that are not energy-starved like the 2026 hybrids.",
+          "published": "2026-09-24T15:48:29.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "What s In Your Lane?",
+          "link": "https://abovethelaw.com/2026/09/__trashed-11__trashed/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The business partner model is valuable. It also has a blind spot. The post What s In Your Lane? appeared first on Above the Law .",
+          "published": "2026-09-24T20:04:00.000Z"
+        },
+        {
+          "title": "Biglaw’s Latest AI Strategy: Teach Lawyers How To Be Human",
+          "link": "https://abovethelaw.com/2026/09/biglaws-latest-ai-strategy-teach-lawyers-how-to-be-human/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "When clients can outsource the work to AI, human connection becomes the real selling point. The post Biglaw’s Latest AI Strategy: Teach Lawyers How To Be Human appeared first on Above the Law .",
+          "published": "2026-09-24T19:12:00.000Z"
+        },
+        {
+          "title": "8am, Kaleidoscope, And Changes: Will 8am Stay Focused?",
+          "link": "https://abovethelaw.com/2026/09/8am-kaleidoscope-and-changes-will-8am-stay-focused/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Could 8am get 'too pretty' by trying to move into more markets and fields? The post 8am, Kaleidoscope, And Changes: Will 8am Stay Focused? appeared first on Above the Law .",
+          "published": "2026-09-24T18:32:00.000Z"
+        },
+        {
+          "title": "My Pamprin Moment: A Small Box, A Big Reminder",
+          "link": "https://abovethelaw.com/2026/09/my-pamprin-moment-a-small-box-a-big-reminder/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "What sounds absurd now was still being treated as a workplace concession in the late 1980s. The post My Pamprin Moment: A Small Box, A Big Reminder appeared first on Above the Law .",
+          "published": "2026-09-24T17:48:00.000Z"
+        },
         {
           "title": "Make Reading Part Of Your Life Again",
           "link": "https://abovethelaw.com/2026/09/make-reading-part-of-your-life-again/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "The move seems to suggest that the Trump administration still wants to use tax records to enforce immigration law. The post The IRS Draft Form 1040’s Proposed Citizenship Status Question: A Tool For Tax Compliance Or Immigration…",
           "published": "2026-09-23T15:34:00.000Z"
-        },
-        {
-          "title": "Judge With Infamous A, B, C, D, F, U Sobriety Test Gets Another Year Off The Bench",
-          "link": "https://abovethelaw.com/2026/09/judge-with-infamous-a-b-c-d-f-u-sobriety-test-gets-another-year-off-the-bench/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The judge agreed to treatment and testing to resolve his judicial misconduct case. The post Judge With Infamous A, B, C, D, F, U Sobriety Test Gets Another Year Off The Bench appeared first on Above the Law .",
-          "published": "2026-09-23T14:47:00.000Z"
-        },
-        {
-          "title": "Fendi Faces Backlash For Cultural Appropriation Accusations",
-          "link": "https://fashionista.com/2026/09/presley-gerber-cindy-crawford-son-dies-at-27",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Fendi declined to comment on whether it will start crediting cultural inspirations in future product descriptions. The post Fendi Faces Backlash For Cultural Appropriation Accusations appeared first on Above the Law .",
-          "published": "2026-09-23T14:06:00.000Z"
-        },
-        {
-          "title": "Respecting our multi-branch lawmaking process",
-          "link": "https://www.scotusblog.com/2026/09/respecting-our-multi-branch-lawmaking-process/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "In my inaugural entry for this column, I critiqued the Supreme Court’s reliance on an abstract conception of the “separation of powers.” Because the Constitution does not contain a “separation of powers” clause, but instead contains a…",
-          "published": "2026-09-23T14:00:00.000Z"
-        },
-        {
-          "title": "The decision before the decision",
-          "link": "https://www.scotusblog.com/2026/09/the-decision-before-the-decision/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "On Friday, Aug. 21, Chief Justice John Roberts issued an administrative, or temporary, stay, allowing construction to continue on the White House ballroom. The order put on hold a district court injunction that would have halted work by…",
-          "published": "2026-09-23T13:30:00.000Z"
         }
       ]
     }
