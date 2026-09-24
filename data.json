@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-24T20:38:24.725Z",
+  "updated": "2026-09-24T23:40:39.149Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "X-planes: Are they needed in the new era of drones?",
+          "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Where do America's X-plane projects fit in an era of cheap drones?",
+          "published": "2026-09-24T23:03:53.000Z"
+        },
+        {
+          "title": "'We're all broke': Would you chase a friend for £5?",
+          "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "What's the smallest amount of money you would ask a friend to pay you back?",
+          "published": "2026-09-24T23:00:45.000Z"
+        },
         {
           "title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
           "link": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
@@ -21,6 +37,14 @@
           "published": "2026-09-24T18:46:46.000Z"
         },
         {
+          "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+          "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+          "published": "2026-09-24T18:06:40.000Z"
+        },
+        {
           "title": "Cat owners are spending more and boosting pet retailers",
           "link": "https://www.cnbc.com/2026/09/24/cat-ownership-food-sales-dog-demand.html",
           "source": "CNBC Business",
@@ -35,14 +59,6 @@
           "category": "markets",
           "snippet": "Olive Garden's same-store sales growth has slowed in recent quarters.",
           "published": "2026-09-24T16:13:13.000Z"
-        },
-        {
-          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-          "published": "2026-09-24T15:42:07.000Z"
         },
         {
           "title": "Reported assaults on Britain's rail services rise by more than a third",
@@ -179,28 +195,92 @@
           "category": "markets",
           "snippet": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
           "published": "2026-09-23T21:25:01.000Z"
-        },
-        {
-          "title": "Business Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8glw?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "What both want from the visit and how the leaders' relationship could shape its outcome",
-          "published": "2026-09-23T20:30:00.000Z"
-        },
-        {
-          "title": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
-          "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry.",
-          "published": "2026-09-23T20:23:52.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "GitLab Outage",
+          "link": "https://status.gitlab.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T23:10:44.000Z"
+        },
+        {
+          "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+          "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
+          "published": "2026-09-24T22:29:48.000Z"
+        },
+        {
+          "title": "Back and shoulder surgery is often worse than useless",
+          "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T22:15:58.000Z"
+        },
+        {
+          "title": "Microsoft puts Brad Smith in charge of communications",
+          "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications,…",
+          "published": "2026-09-24T22:08:22.000Z"
+        },
+        {
+          "title": "Donald Duck's uncle was partly based on Wernher von Braun",
+          "link": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Introducing the \"world-famous authority on outer space...\"",
+          "published": "2026-09-24T21:40:07.000Z"
+        },
+        {
+          "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+          "link": "https://koi.rest",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T21:33:03.000Z"
+        },
+        {
+          "title": "International observers to investigate Swedish election fraud",
+          "link": "https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T20:55:44.000Z"
+        },
+        {
+          "title": "The Board Game of the Alpha Nerds (2014)",
+          "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T20:53:39.000Z"
+        },
+        {
+          "title": "California is chasing wealth that has feet",
+          "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T20:34:32.000Z"
+        },
+        {
+          "title": "Opus 5.5 is good at explainer videos",
+          "link": "https://launchvideo.io",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-24T20:28:47.000Z"
+        },
         {
           "title": "Gemini 3.8 Live with Live Avatar gives Google s AI a face",
           "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
@@ -218,12 +298,12 @@
           "published": "2026-09-24T19:54:21.000Z"
         },
         {
-          "title": "August 27 TCRF DDoS Attack Postmortem",
-          "link": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
-          "source": "Hacker News",
+          "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+          "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T19:46:22.000Z"
+          "snippet": "F-Droid's Android app store has been rebuilt from the ground up.",
+          "published": "2026-09-24T19:30:42.000Z"
         },
         {
           "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
@@ -232,6 +312,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-24T19:14:27.000Z"
+        },
+        {
+          "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
+          "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
+          "published": "2026-09-24T19:07:19.000Z"
         },
         {
           "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
@@ -256,14 +344,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-24T18:29:18.000Z"
-        },
-        {
-          "title": "Creatine uptake enhances antitumor immunity",
-          "link": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T18:24:52.000Z"
         },
         {
           "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
@@ -298,14 +378,6 @@
           "published": "2026-09-24T17:52:29.000Z"
         },
         {
-          "title": "A Million Agents Is a Distributed System Problem",
-          "link": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T17:26:23.000Z"
-        },
-        {
           "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
           "link": "https://github.com/devdotfast/whiteboard",
           "source": "Hacker News",
@@ -320,84 +392,44 @@
           "category": "tech",
           "snippet": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire…",
           "published": "2026-09-24T17:14:12.000Z"
-        },
-        {
-          "title": "Muse sure looks a lot like OpenClaw",
-          "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent…",
-          "published": "2026-09-24T17:10:38.000Z"
-        },
-        {
-          "title": "Now Google Chrome shares tabs to new devices that save where you were",
-          "link": "https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google is rolling out some new Chrome browser features that are designed to make it easier to research and study complicated topics. The cross-device tab switching feature is getting a memory upgrade, alongside new capabilities for Gemini…",
-          "published": "2026-09-24T17:00:00.000Z"
-        },
-        {
-          "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
-          "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked…",
-          "published": "2026-09-24T17:00:00.000Z"
-        },
-        {
-          "title": "These smart glasses have been recalled for overheating temples causing burns",
-          "link": "https://www.theverge.com/tech/1000085/inmo-air3-smart-glasses-recall-cpsc-free-software-update",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A company called Inmo that makes several different variations of smart glasses has issued a recall for its Air3 because the left temple \"can overheat during extended use, posing a risk of serious injury or death due to burn hazard.\" To…",
-          "published": "2026-09-24T16:29:31.000Z"
-        },
-        {
-          "title": "Why is the liver so weirdly regenerative?",
-          "link": "https://dynomight.substack.com/p/liver",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T16:23:00.000Z"
-        },
-        {
-          "title": "Google's first Suncatcher orbital data center test launches October 1",
-          "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
-          "published": "2026-09-24T16:16:34.000Z"
-        },
-        {
-          "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you…",
-          "published": "2026-09-24T16:04:31.000Z"
-        },
-        {
-          "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-          "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"There will obviously be legal consequences,\" prime minister promises.",
-          "published": "2026-09-24T16:01:16.000Z"
-        },
-        {
-          "title": "Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030",
-          "link": "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "F1 wants smaller, lighter cars that are not energy-starved like the 2026 hybrids.",
-          "published": "2026-09-24T15:48:29.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Trump administration again urges justices to allow deportations to third-party countries",
+          "link": "https://www.scotusblog.com/2026/09/trump-administration-again-urges-justices-to-allow-deportations-to-third-party-countries/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "Telling the justices that it had been deprived of “an essential tool to remove certain aliens, including some of the worst criminal aliens,” the Trump administration came to the Supreme Court on Thursday afternoon. Specifically, U.S.…",
+          "published": "2026-09-24T23:04:29.000Z"
+        },
+        {
+          "title": "The Most Frightening Law Firms In America See Also",
+          "link": "https://abovethelaw.com/2026/09/the-most-frightening-law-firms-in-america-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The Fearsome Foursome : Which law firms strike fear into the hearts of opposing counsel? Another Day, Another Law Firm Hacked : The human element is getting to be a problem here. Start Reading Again : Not for work, but for your own…",
+          "published": "2026-09-24T22:15:00.000Z"
+        },
+        {
+          "title": "Women Lawyers Are Exhausted, And Caregiving Is Part Of The Equation",
+          "link": "https://abovethelaw.com/2026/09/women-lawyers-are-exhausted-and-caregiving-is-part-of-the-equation/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "How many say juggling work and caregiving leaves them worn out? The post Women Lawyers Are Exhausted, And Caregiving Is Part Of The Equation appeared first on Above the Law .",
+          "published": "2026-09-24T21:35:00.000Z"
+        },
+        {
+          "title": "How One Lawyer Built A 7-Figure Practice Without A Networking Mindset",
+          "link": "https://abovethelaw.com/2026/09/how-one-lawyer-built-a-7-figure-practice-without-a-networking-mindset/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Business development doesn't have to be complicated. The post How One Lawyer Built A 7-Figure Practice Without A Networking Mindset appeared first on Above the Law .",
+          "published": "2026-09-24T20:44:00.000Z"
+        },
         {
           "title": "What s In Your Lane?",
           "link": "https://abovethelaw.com/2026/09/__trashed-11__trashed/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "The judge hears the arguments later ths afternoon. The post The White House Has A Whole Lot Of Talking Points And Not A Lot Of Case Law appeared first on Above the Law .",
           "published": "2026-09-23T18:32:00.000Z"
-        },
-        {
-          "title": "Weil s Revolving Door Now Spins In Both Directions",
-          "link": "https://abovethelaw.com/2026/09/weils-revolving-door-now-spins-in-both-directions/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Paul, Weiss helps itself to Weil's private equity co-head and five more, The post Weil s Revolving Door Now Spins In Both Directions appeared first on Above the Law .",
-          "published": "2026-09-23T17:45:00.000Z"
-        },
-        {
-          "title": "Remaining Reporters Should Self-Deport From The White House, Avoid Spreading More Trump Lies",
-          "link": "https://abovethelaw.com/2026/09/remaining-reporters-should-self-deport-from-the-white-house-avoid-spreading-more-trump-lies/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Even rivals stood by the banned media outlets. The post Remaining Reporters Should Self-Deport From The White House, Avoid Spreading More Trump Lies appeared first on Above the Law .",
-          "published": "2026-09-23T17:01:00.000Z"
-        },
-        {
-          "title": "Everlaw Supplying Technology To Investigative Journalists To Help Root Out Corruption",
-          "link": "https://abovethelaw.com/2026/09/everlaw-supplying-technology-to-investigative-journalists-to-help-root-out-corruption/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The same tools that assist in eDiscovery can supercharge journalists trying to piece together a story. The post Everlaw Supplying Technology To Investigative Journalists To Help Root Out Corruption appeared first on Above the Law .",
-          "published": "2026-09-23T16:15:00.000Z"
-        },
-        {
-          "title": "The IRS Draft Form 1040’s Proposed Citizenship Status Question: A Tool For Tax Compliance Or Immigration Enforcement?",
-          "link": "https://abovethelaw.com/2026/09/the-irs-draft-form-1040s-proposed-citizenship-status-question-a-tool-for-tax-compliance-or-immigration-enforcement/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The move seems to suggest that the Trump administration still wants to use tax records to enforce immigration law. The post The IRS Draft Form 1040’s Proposed Citizenship Status Question: A Tool For Tax Compliance Or Immigration…",
-          "published": "2026-09-23T15:34:00.000Z"
         }
       ]
     }
