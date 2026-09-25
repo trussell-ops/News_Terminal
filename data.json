@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T23:40:39.149Z",
+  "updated": "2026-09-25T02:32:59.680Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,12 +202,36 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "GitLab Outage",
-          "link": "https://status.gitlab.com/",
-          "source": "Hacker News",
+          "title": "Here’s the Tesla Semi… again",
+          "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+          "source": "The Verge",
           "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T23:10:44.000Z"
+          "snippet": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company…",
+          "published": "2026-09-25T02:12:57.000Z"
+        },
+        {
+          "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+          "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm…",
+          "published": "2026-09-25T01:25:53.000Z"
+        },
+        {
+          "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+          "link": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said…",
+          "published": "2026-09-24T23:50:55.000Z"
+        },
+        {
+          "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+          "link": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its…",
+          "published": "2026-09-24T23:42:39.000Z"
         },
         {
           "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
@@ -250,14 +274,6 @@
           "published": "2026-09-24T21:33:03.000Z"
         },
         {
-          "title": "International observers to investigate Swedish election fraud",
-          "link": "https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T20:55:44.000Z"
-        },
-        {
           "title": "The Board Game of the Alpha Nerds (2014)",
           "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
           "source": "Hacker News",
@@ -272,14 +288,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-24T20:34:32.000Z"
-        },
-        {
-          "title": "Opus 5.5 is good at explainer videos",
-          "link": "https://launchvideo.io",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-24T20:28:47.000Z"
         },
         {
           "title": "Gemini 3.8 Live with Live Avatar gives Google s AI a face",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-24T17:21:36.000Z"
-        },
-        {
-          "title": "Muse will apparently let you download its entire filesystem",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire…",
-          "published": "2026-09-24T17:14:12.000Z"
         }
       ]
     },
