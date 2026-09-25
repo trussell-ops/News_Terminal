@@ -1,9 +1,41 @@
 {
-  "updated": "2026-09-25T18:17:02.222Z",
+  "updated": "2026-09-25T21:43:05.225Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
+          "link": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices.",
+          "published": "2026-09-25T21:02:20.000Z"
+        },
+        {
+          "title": "Man City found guilty of breaking financial rules",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+          "published": "2026-09-25T20:11:12.000Z"
+        },
+        {
+          "title": "Airlines waive change fees ahead of nor'easter as flight delays trickle in",
+          "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Flight disruptions were minimal for Saturday as of Friday morning.",
+          "published": "2026-09-25T19:59:45.000Z"
+        },
+        {
+          "title": "Save or Overpay? What to do with your mortgage if interest rates rise",
+          "link": "https://www.bbc.co.uk/news/videos/c65y55j2dxepo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Save or Overpay? What to do with your mortgage if interest rates rise",
+          "published": "2026-09-25T18:43:45.000Z"
+        },
         {
           "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
           "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
@@ -35,14 +67,6 @@
           "category": "markets",
           "snippet": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
           "published": "2026-09-25T14:24:19.000Z"
-        },
-        {
-          "title": "Airlines waive flight-change fees ahead of nor'easter",
-          "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Flight disruptions were minimal for Saturday as of Friday morning.",
-          "published": "2026-09-25T14:10:40.000Z"
         },
         {
           "title": "Special agents' blood and urine test results stolen in FBI hack",
@@ -171,36 +195,140 @@
           "category": "markets",
           "snippet": "Spending on cats remains strong despite softening dog sector and tightening consumer discretionary spending.",
           "published": "2026-09-24T17:13:34.000Z"
-        },
-        {
-          "title": "Darden Restaurants stock falls as Olive Garden reports slower growth",
-          "link": "https://www.cnbc.com/2026/09/24/darden-restaurants-dri-q1-2027-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Olive Garden's same-store sales growth has slowed in recent quarters.",
-          "published": "2026-09-24T16:13:13.000Z"
-        },
-        {
-          "title": "Reported assaults on Britain's rail services rise by more than a third",
-          "link": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
-          "published": "2026-09-24T15:38:50.000Z"
-        },
-        {
-          "title": "Starbucks to shutter about 250 stores in latest round of cafe closures",
-          "link": "https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Starbucks will close about 1% of its North American cafes in the latest stage of its turnaround.",
-          "published": "2026-09-24T12:40:27.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "link": "https://swarmtraces.org/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T21:09:27.000Z"
+        },
+        {
+          "title": "Too AI; Didn't Read",
+          "link": "https://www.tai-dr.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T20:37:56.000Z"
+        },
+        {
+          "title": "Rising sea destroys homes, erases beaches in California",
+          "link": "https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T20:13:23.000Z"
+        },
+        {
+          "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+          "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Better thermals and battery life make this iterative update nicer to use.",
+          "published": "2026-09-25T19:34:42.000Z"
+        },
+        {
+          "title": "Bug: Border radius has infected VSCode editor",
+          "link": "https://github.com/microsoft/vscode/issues/338035",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T19:27:37.000Z"
+        },
+        {
+          "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
+          "link": "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T19:26:10.000Z"
+        },
+        {
+          "title": "Advice to a Beginning Graduate Student (2001)",
+          "link": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T19:12:45.000Z"
+        },
+        {
+          "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+          "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+          "published": "2026-09-25T19:11:05.000Z"
+        },
+        {
+          "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+          "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "US judge reviews deal with California, says it must not be result of collusion.",
+          "published": "2026-09-25T18:42:57.000Z"
+        },
+        {
+          "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+          "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T18:37:05.000Z"
+        },
+        {
+          "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+          "link": "https://ollaya.dev/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T18:33:50.000Z"
+        },
+        {
+          "title": "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
+          "link": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T18:29:49.000Z"
+        },
+        {
+          "title": "Is solar's growth finally slowing in the US?",
+          "link": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Renewables easily cover changes in US demand, which is rising by 2% in 2026.",
+          "published": "2026-09-25T18:27:18.000Z"
+        },
+        {
+          "title": "Roku s first OLED TVs are up to $400 off, starting at $699",
+          "link": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10…",
+          "published": "2026-09-25T18:18:57.000Z"
+        },
+        {
+          "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+          "link": "https://mouse.dev/blog/muse-special/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T18:18:06.000Z"
+        },
+        {
+          "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+          "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+          "published": "2026-09-25T17:57:37.000Z"
+        },
         {
           "title": "Phones don’t have lights",
           "link": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
@@ -226,12 +354,28 @@
           "published": "2026-09-25T17:01:36.000Z"
         },
         {
+          "title": "Show HN: Doom or Bloom, map your AI worldview",
+          "link": "https://www.doom-or-bloom.com",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T16:51:28.000Z"
+        },
+        {
           "title": "Meta makes the Muse filesystem even more accessible",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to…",
           "published": "2026-09-25T16:49:53.000Z"
+        },
+        {
+          "title": "Typst makes big strides",
+          "link": "https://lwn.net/Articles/1092993/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T16:25:08.000Z"
         },
         {
           "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
@@ -248,156 +392,52 @@
           "category": "tech",
           "snippet": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on…",
           "published": "2026-09-25T15:51:56.000Z"
-        },
-        {
-          "title": "One company is at the center of a wave of rogue AI attacks",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other…",
-          "published": "2026-09-25T15:39:48.000Z"
-        },
-        {
-          "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
-          "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T15:31:02.000Z"
-        },
-        {
-          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T15:29:25.000Z"
-        },
-        {
-          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-          "link": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T15:27:35.000Z"
-        },
-        {
-          "title": "Factorio that you can touch",
-          "link": "https://factorio.com/blog/post/fff-447",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T14:24:42.000Z"
-        },
-        {
-          "title": "Cricut s new compact crafter prints, cuts, and laminates stickers",
-          "link": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut…",
-          "published": "2026-09-25T14:21:25.000Z"
-        },
-        {
-          "title": "Gaming’s biggest horror series are more vital than ever",
-          "link": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through a quaint Scottish…",
-          "published": "2026-09-25T14:10:00.000Z"
-        },
-        {
-          "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T14:07:08.000Z"
-        },
-        {
-          "title": "Allow Carriers on Planes",
-          "link": "https://www.jefftk.com/p/allow-carriers-on-planes",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T14:00:10.000Z"
-        },
-        {
-          "title": "First Principles Thinking",
-          "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T13:55:37.000Z"
-        },
-        {
-          "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-          "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and…",
-          "published": "2026-09-25T13:00:00.000Z"
-        },
-        {
-          "title": "The Test",
-          "link": "https://tante.cc/2026/09/24/the-test/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T12:14:02.000Z"
-        },
-        {
-          "title": "Platform-Independent SIMD in Go",
-          "link": "https://go.dev/blog/simd-experiment",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T11:47:06.000Z"
-        },
-        {
-          "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-          "link": "https://github.com/git-bug/git-bug",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T11:38:31.000Z"
-        },
-        {
-          "title": "Ink and Switch Interactive Homepage",
-          "link": "https://www.inkandswitch.com/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T09:50:25.000Z"
-        },
-        {
-          "title": "Boards of Casio",
-          "link": "https://www.ambionix.com/blog/boards-of-casio/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T09:26:01.000Z"
-        },
-        {
-          "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-          "link": "https://www.dawo.community/en/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T08:06:49.000Z"
-        },
-        {
-          "title": "Amiga Screens: A Primer",
-          "link": "https://www.datagubbe.se/amscr/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T07:31:12.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "‘Adventures In Legal Tech’: How One Litigator Uses Claude To Build His Case Strategy",
+          "link": "https://abovethelaw.com/2026/09/adventures-in-legal-tech-how-one-litigator-uses-claude-to-build-his-case-strategy/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Targeting your argument's weak spot with AI, in this episode of \"Adventures in Legal Tech.\" The post ‘Adventures In Legal Tech’: How One Litigator Uses Claude To Build His Case Strategy appeared first on Above the Law .",
+          "published": "2026-09-25T21:34:00.000Z"
+        },
+        {
+          "title": "Justice Jackson Calls Out The Supreme Court’s Shadow Docket ‘Speed Dial’ For Favored Litigants",
+          "link": "https://abovethelaw.com/2026/09/justice-jackson-calls-out-the-supreme-courts-shadow-docket-speed-dial-for-favored-litigants/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The 'emergency docket' shouldn’t come with a VIP lane. The post Justice Jackson Calls Out The Supreme Court’s Shadow Docket ‘Speed Dial’ For Favored Litigants appeared first on Above the Law .",
+          "published": "2026-09-25T20:44:00.000Z"
+        },
+        {
+          "title": "Broadview Six Prosecutor Is Back To Burn Her Boss",
+          "link": "https://abovethelaw.com/2026/09/broadview-six-prosecutor-is-back-to-burn-her-boss/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Goodbye AUSA, hello star witness! The post Broadview Six Prosecutor Is Back To Burn Her Boss appeared first on Above the Law .",
+          "published": "2026-09-25T20:04:00.000Z"
+        },
+        {
+          "title": "Clients Rarely Visit Their Lawyers Offices Anymore",
+          "link": "https://abovethelaw.com/2026/09/clients-rarely-visit-their-lawyers-offices-anymore/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Traveling to a lawyer's office is usually a waste of time. The post Clients Rarely Visit Their Lawyers Offices Anymore appeared first on Above the Law .",
+          "published": "2026-09-25T19:15:00.000Z"
+        },
+        {
+          "title": "If You Can Imagine It, The Supreme Court Used To Be Even More Political",
+          "link": "https://abovethelaw.com/2026/09/if-you-can-imagine-it-the-supreme-court-used-to-be-even-more-political/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The origins of the Court are distinctly political. The post If You Can Imagine It, The Supreme Court Used To Be Even More Political appeared first on Above the Law .",
+          "published": "2026-09-25T18:34:00.000Z"
+        },
         {
           "title": "The Wait Is Over: Biglaw’s First Milbank Special Bonus Match Is Finally Here",
           "link": "https://abovethelaw.com/2026/09/the-wait-is-over-biglaws-first-special-bonus-match-is-finally-here/",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "What sounds absurd now was still being treated as a workplace concession in the late 1980s. The post My Pamprin Moment: A Small Box, A Big Reminder appeared first on Above the Law .",
           "published": "2026-09-24T17:48:00.000Z"
-        },
-        {
-          "title": "Make Reading Part Of Your Life Again",
-          "link": "https://abovethelaw.com/2026/09/make-reading-part-of-your-life-again/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "When you have the time and energy, pick up a book again. You don't need a plan. Just read the next page. The post Make Reading Part Of Your Life Again appeared first on Above the Law .",
-          "published": "2026-09-24T17:01:00.000Z"
-        },
-        {
-          "title": "Biglaw Firm Claims Employee Was Deceived Into Sending Client Documents To Hacker",
-          "link": "https://abovethelaw.com/2026/09/biglaw-firm-claims-employee-was-deceived-into-sending-client-documents-to-hacker/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A fake IT help desk request exposed sensitive client information. The post Biglaw Firm Claims Employee Was Deceived Into Sending Client Documents To Hacker appeared first on Above the Law .",
-          "published": "2026-09-24T16:17:00.000Z"
-        },
-        {
-          "title": "At Its User Conference In Las Vegas, 8am Announces MCP Integration And New AI Tools For MyCase, Plus New Law Firm Funding Program Through LawPay",
-          "link": "https://www.lawnext.com/2026/09/at-its-user-conference-in-las-vegas-8am-announces-mcp-integration-and-new-ai-tools-for-mycase-plus-new-law-firm-funding-program-through-lawpay.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The company made all of these announcements as part of what it is calling 8am Showcase, a new series of product releases that will continue in the future. The post At Its User Conference In Las Vegas, 8am Announces MCP Integration And New…",
-          "published": "2026-09-24T15:28:29.000Z"
-        },
-        {
-          "title": "The Biglaw Firms That Strike Fear In The Hearts Of Opposing Counsel (2027)",
-          "link": "https://abovethelaw.com/2026/09/the-biglaw-firms-that-strike-fear-in-the-hearts-of-opposing-counsel-2027/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "These firms are home to the most cutthroat litigators out there. The post The Biglaw Firms That Strike Fear In The Hearts Of Opposing Counsel (2027) appeared first on Above the Law .",
-          "published": "2026-09-24T14:42:00.000Z"
-        },
-        {
-          "title": "Trump Orders All US Agencies To Refer To AI As ‘Super Intelligence’",
-          "link": "https://breakingdefense.com/2026/09/trump-orders-all-us-agencies-to-refer-to-ai-as-super-intelligence/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "‘From this point forward, all of United States documents, and hopefully the world, will be changed to use the much more accurate term ‘super,’ as opposed to ‘artificial,'’ President Donald Trump said. The post Trump Orders All US Agencies…",
-          "published": "2026-09-24T14:04:00.000Z"
         }
       ]
     }
