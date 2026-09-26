@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-25T21:43:05.225Z",
+  "updated": "2026-09-26T00:15:44.024Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+          "link": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
+          "published": "2026-09-25T22:53:52.000Z"
+        },
+        {
+          "title": "Diesel prices exceed £2 a litre at hundreds of forecourts across Scotland",
+          "link": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Motoring organisation the RAC says it expects the average UK diesel price to hit a new record high over the weekend.",
+          "published": "2026-09-25T21:47:48.000Z"
+        },
         {
           "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
           "link": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
@@ -179,28 +195,28 @@
           "category": "markets",
           "snippet": "Cox analysts said Ford and General Motors are seeing sales lag because they don't have many hybrid vehicles.",
           "published": "2026-09-24T18:46:46.000Z"
-        },
-        {
-          "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-          "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-          "published": "2026-09-24T18:06:40.000Z"
-        },
-        {
-          "title": "Cat owners are spending more and boosting pet retailers",
-          "link": "https://www.cnbc.com/2026/09/24/cat-ownership-food-sales-dog-demand.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Spending on cats remains strong despite softening dog sector and tightening consumer discretionary spending.",
-          "published": "2026-09-24T17:13:34.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Tell HN: Codex Is Down [fixed]",
+          "link": "https://news.ycombinator.com/item?id=49851032",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T22:51:44.000Z"
+        },
+        {
+          "title": "What even is an OS now?",
+          "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T21:36:56.000Z"
+        },
         {
           "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
           "link": "https://swarmtraces.org/",
@@ -210,20 +226,44 @@
           "published": "2026-09-25T21:09:27.000Z"
         },
         {
-          "title": "Too AI; Didn't Read",
-          "link": "https://www.tai-dr.com/",
+          "title": "Teaching a World Model to Play Pokemon",
+          "link": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-25T20:37:56.000Z"
+          "published": "2026-09-25T21:02:48.000Z"
         },
         {
-          "title": "Rising sea destroys homes, erases beaches in California",
-          "link": "https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/",
+          "title": "Excel now supports multiple values in a single cell",
+          "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-25T20:13:23.000Z"
+          "published": "2026-09-25T20:55:00.000Z"
+        },
+        {
+          "title": "How we learned to stop worrying and love campus surveillance",
+          "link": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T19:56:57.000Z"
+        },
+        {
+          "title": "A new way to manage memory: no garbage collection, extremely fast & safe access",
+          "link": "https://ulanguage.org/memory",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T19:53:08.000Z"
+        },
+        {
+          "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+          "link": "https://news.ycombinator.com/item?id=49848955",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T19:37:55.000Z"
         },
         {
           "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
@@ -232,30 +272,6 @@
           "category": "tech",
           "snippet": "Better thermals and battery life make this iterative update nicer to use.",
           "published": "2026-09-25T19:34:42.000Z"
-        },
-        {
-          "title": "Bug: Border radius has infected VSCode editor",
-          "link": "https://github.com/microsoft/vscode/issues/338035",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T19:27:37.000Z"
-        },
-        {
-          "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
-          "link": "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T19:26:10.000Z"
-        },
-        {
-          "title": "Advice to a Beginning Graduate Student (2001)",
-          "link": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T19:12:45.000Z"
         },
         {
           "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
@@ -288,14 +304,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-25T18:33:50.000Z"
-        },
-        {
-          "title": "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
-          "link": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T18:29:49.000Z"
         },
         {
           "title": "Is solar's growth finally slowing in the US?",
@@ -354,14 +362,6 @@
           "published": "2026-09-25T17:01:36.000Z"
         },
         {
-          "title": "Show HN: Doom or Bloom, map your AI worldview",
-          "link": "https://www.doom-or-bloom.com",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T16:51:28.000Z"
-        },
-        {
           "title": "Meta makes the Muse filesystem even more accessible",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
           "source": "The Verge",
@@ -370,20 +370,20 @@
           "published": "2026-09-25T16:49:53.000Z"
         },
         {
-          "title": "Typst makes big strides",
-          "link": "https://lwn.net/Articles/1092993/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T16:25:08.000Z"
-        },
-        {
           "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
           "link": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini…",
           "published": "2026-09-25T16:22:05.000Z"
+        },
+        {
+          "title": "Show HN: I discovered roads in the US across > 1000 themes",
+          "link": "https://road-about-a-theme.pinedesk.biz/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T16:05:08.000Z"
         },
         {
           "title": "Sony and UMG are suing Suno again",
@@ -398,6 +398,38 @@
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "12-Hour Days Are Very Much The Biglaw Norm See Also",
+          "link": "https://abovethelaw.com/2026/09/12-hour-days-are-very-much-the-biglaw-norm-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "That Only Two Two Months : The first Milbank special bonus match has finally arrived! Laurence Tribe Says Trump Wants To Be 'Not Just King Trump, But Emperor Trump': Even Versailles had limits. It's 10pm. Do You Know Where Your Junior…",
+          "published": "2026-09-25T23:31:00.000Z"
+        },
+        {
+          "title": "When Justice Was Served Alongside A Whiskey",
+          "link": "https://abovethelaw.com/2026/09/when-justice-was-served-alongside-a-whiskey/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "From the bartender who made himself a judge. The post When Justice Was Served Alongside A Whiskey appeared first on Above the Law .",
+          "published": "2026-09-25T23:02:00.000Z"
+        },
+        {
+          "title": "For the third time, Supreme Court declines to allow Missouri to use congressional map expected to aid Republicans",
+          "link": "https://www.scotusblog.com/2026/09/for-the-third-time-supreme-court-declines-to-allow-missouri-to-use-congressional-map-expected-to/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "For the third time in less than a month, the Supreme Court on Friday declined to allow Missouri to use a new congressional map, intended to benefit Republicans, in the November 2026 elections. In a five-page, unsigned order , the justices…",
+          "published": "2026-09-25T22:42:00.000Z"
+        },
+        {
+          "title": "Schema Markup 2026: The Hidden SEO Boost For Lawyers",
+          "link": "https://abovethelaw.com/2026/09/schema-markup-2026-the-hidden-seo-boost-for-lawyers/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Understanding how schema markup works and deploying it effectively across your website gives you an edge over competitors. The post Schema Markup 2026: The Hidden SEO Boost For Lawyers appeared first on Above the Law .",
+          "published": "2026-09-25T22:12:00.000Z"
+        },
         {
           "title": "‘Adventures In Legal Tech’: How One Litigator Uses Claude To Build His Case Strategy",
           "link": "https://abovethelaw.com/2026/09/adventures-in-legal-tech-how-one-litigator-uses-claude-to-build-his-case-strategy/",
@@ -557,38 +589,6 @@
           "category": "legal",
           "snippet": "Business development doesn't have to be complicated. The post How One Lawyer Built A 7-Figure Practice Without A Networking Mindset appeared first on Above the Law .",
           "published": "2026-09-24T20:44:00.000Z"
-        },
-        {
-          "title": "What s In Your Lane?",
-          "link": "https://abovethelaw.com/2026/09/__trashed-11__trashed/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The business partner model is valuable. It also has a blind spot. The post What s In Your Lane? appeared first on Above the Law .",
-          "published": "2026-09-24T20:04:00.000Z"
-        },
-        {
-          "title": "Biglaw’s Latest AI Strategy: Teach Lawyers How To Be Human",
-          "link": "https://abovethelaw.com/2026/09/biglaws-latest-ai-strategy-teach-lawyers-how-to-be-human/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "When clients can outsource the work to AI, human connection becomes the real selling point. The post Biglaw’s Latest AI Strategy: Teach Lawyers How To Be Human appeared first on Above the Law .",
-          "published": "2026-09-24T19:12:00.000Z"
-        },
-        {
-          "title": "8am, Kaleidoscope, And Changes: Will 8am Stay Focused?",
-          "link": "https://abovethelaw.com/2026/09/8am-kaleidoscope-and-changes-will-8am-stay-focused/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Could 8am get 'too pretty' by trying to move into more markets and fields? The post 8am, Kaleidoscope, And Changes: Will 8am Stay Focused? appeared first on Above the Law .",
-          "published": "2026-09-24T18:32:00.000Z"
-        },
-        {
-          "title": "My Pamprin Moment: A Small Box, A Big Reminder",
-          "link": "https://abovethelaw.com/2026/09/my-pamprin-moment-a-small-box-a-big-reminder/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "What sounds absurd now was still being treated as a workplace concession in the late 1980s. The post My Pamprin Moment: A Small Box, A Big Reminder appeared first on Above the Law .",
-          "published": "2026-09-24T17:48:00.000Z"
         }
       ]
     }
