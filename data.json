@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-26T20:22:29.787Z",
+  "updated": "2026-09-26T23:01:54.458Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "The ecstasy of buying our first home was short-lived after we found 150 faults",
+          "link": "https://www.bbc.co.uk/news/articles/c2dyxg0zkpko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Getting the keys to a new home felt like a dream come true, until this couple found 150 faults.",
+          "published": "2026-09-26T20:52:15.000Z"
+        },
         {
           "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
           "link": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
@@ -187,20 +195,28 @@
           "category": "markets",
           "snippet": "What's the smallest amount of money you would ask a friend to pay you back?",
           "published": "2026-09-24T23:00:45.000Z"
-        },
-        {
-          "title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
-          "link": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Barry Diller's People Inc. has rescinded its offer to buy the remaining public shares of MGM Resorts.",
-          "published": "2026-09-24T20:11:24.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Apple hit with $5.7 billion in damages over haptic patents",
+          "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos.…",
+          "published": "2026-09-26T21:30:01.000Z"
+        },
+        {
+          "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+          "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-26T20:08:50.000Z"
+        },
         {
           "title": "Decap is the man behind the drums behind your favorite song",
           "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
@@ -216,6 +232,14 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-26T18:22:41.000Z"
+        },
+        {
+          "title": "Japan moves to tighten rules for foreigners",
+          "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-26T17:43:11.000Z"
         },
         {
           "title": "Kids turned the comment section of an NPR podcast into a group chat",
@@ -242,14 +266,6 @@
           "published": "2026-09-26T16:34:59.000Z"
         },
         {
-          "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
-          "link": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T16:12:18.000Z"
-        },
-        {
           "title": "Drawgent: Coding agent on a live Excalidraw canvas",
           "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
           "source": "Hacker News",
@@ -258,28 +274,12 @@
           "published": "2026-09-26T15:56:34.000Z"
         },
         {
-          "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
-          "link": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T15:48:18.000Z"
-        },
-        {
           "title": "Automattic has a new board after failed attempt to put CEO on leave",
           "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-26T15:40:27.000Z"
-        },
-        {
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
-          "link": "https://github.com/brumar/chess-postmortem-skills",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T15:34:53.000Z"
         },
         {
           "title": "Plunging test scores are a slow-moving catastrophe",
@@ -362,14 +362,6 @@
           "published": "2026-09-26T08:31:02.000Z"
         },
         {
-          "title": "Is your Postgres migration safe or not safe?",
-          "link": "https://safenotsafe.dev/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T07:33:12.000Z"
-        },
-        {
           "title": "Can eSUV e-bikes really go from trail to town?",
           "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
           "source": "The Verge",
@@ -392,6 +384,14 @@
           "category": "tech",
           "snippet": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
           "published": "2026-09-25T23:00:26.000Z"
+        },
+        {
+          "title": "What even is an OS now?",
+          "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-25T21:36:56.000Z"
         }
       ]
     },
