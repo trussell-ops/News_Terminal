@@ -1,16 +1,24 @@
 {
-  "updated": "2026-09-27T17:51:49.521Z",
+  "updated": "2026-09-27T20:36:15.028Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
+          "title": "Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet",
+          "link": "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Lowe's is launching a drone delivery service in a partnership with DoorDash and Alphabet's Wing, CNBC has learned exclusively.",
+          "published": "2026-09-27T19:02:10.000Z"
+        },
+        {
+          "title": "Nor'easter delays hundreds of flights, airlines waive change fees",
           "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Flight disruptions were rising in Boston over the weekend.",
-          "published": "2026-09-27T13:39:11.000Z"
+          "published": "2026-09-27T18:43:21.000Z"
         },
         {
           "title": "Andy Burnham refuses to back third runway at Heathrow",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
           "published": "2026-09-25T08:31:56.000Z"
-        },
-        {
-          "title": "What's the smallest amount you'd ask a friend to pay back?",
-          "link": "https://www.bbc.co.uk/news/videos/cm9w4n9lrr8eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "We ask New Yorkers to share the smallest amount they'd ask a friend to pay back.",
-          "published": "2026-09-25T05:28:27.000Z"
         }
       ]
     },
@@ -202,12 +202,68 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "link": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "title": "Allegations of US interference in Quebec election",
+          "link": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-27T17:32:02.000Z"
+          "published": "2026-09-27T20:17:19.000Z"
+        },
+        {
+          "title": "When did Google get so f-ing weird?",
+          "link": "https://sancho.bearblog.dev/google-weird/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T20:12:54.000Z"
+        },
+        {
+          "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+          "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T19:37:05.000Z"
+        },
+        {
+          "title": "Imp is a full port of DSPy to the BEAM",
+          "link": "https://github.com/deepfates/imp",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T19:28:23.000Z"
+        },
+        {
+          "title": "What I did at Recurse Center",
+          "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T19:04:19.000Z"
+        },
+        {
+          "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+          "link": "https://loficities.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T18:44:30.000Z"
+        },
+        {
+          "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+          "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T18:02:43.000Z"
+        },
+        {
+          "title": "Ember-1",
+          "link": "https://fireworks.ai/blog/ember-1",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T17:31:53.000Z"
         },
         {
           "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
@@ -242,14 +298,6 @@
           "published": "2026-09-27T15:51:28.000Z"
         },
         {
-          "title": "PostmarketOS is rebranding as Nura",
-          "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-27T15:31:15.000Z"
-        },
-        {
           "title": "The Normalization of Inexplicable Failures",
           "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
           "source": "Hacker News",
@@ -258,7 +306,7 @@
           "published": "2026-09-27T15:26:40.000Z"
         },
         {
-          "title": "Installing NeoVim caused original Vim undo files to be deleted",
+          "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
           "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
           "source": "Hacker News",
           "category": "tech",
@@ -266,15 +314,15 @@
           "published": "2026-09-27T14:45:07.000Z"
         },
         {
-          "title": "10 Tells of a Slop UI",
-          "link": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+          "title": "Fragment of oldest known peace treaty found in Turkey",
+          "link": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-27T14:41:26.000Z"
+          "published": "2026-09-27T14:35:10.000Z"
         },
         {
-          "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+          "title": "In an $80 motel room, a discovery to shed light on the origins of life",
           "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
           "source": "Hacker News",
           "category": "tech",
@@ -282,12 +330,12 @@
           "published": "2026-09-27T14:30:55.000Z"
         },
         {
-          "title": "Ten Lines of Code That Changed My World",
-          "link": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+          "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
+          "link": "https://www.markdown.beauty/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-27T13:33:03.000Z"
+          "published": "2026-09-27T13:44:45.000Z"
         },
         {
           "title": "Replacing the old battery on rechargeable bike lights",
@@ -330,38 +378,6 @@
           "published": "2026-09-27T11:00:12.000Z"
         },
         {
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "link": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-27T10:26:25.000Z"
-        },
-        {
-          "title": "Rusty thoughts on \"Parse, don't validate\"",
-          "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-27T08:59:59.000Z"
-        },
-        {
-          "title": "Unsealed Briefs in Authors’ Case v. Microsoft&#x2F;OpenAI",
-          "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-27T06:19:33.000Z"
-        },
-        {
-          "title": "The internet discovers TLA+. Now what?",
-          "link": "https://reasonable.io/blog/tla-tutorial/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-27T05:26:15.000Z"
-        },
-        {
           "title": "Apple hit with $5.7 billion in damages over haptic patents",
           "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
           "source": "The Verge",
@@ -370,28 +386,12 @@
           "published": "2026-09-26T21:30:01.000Z"
         },
         {
-          "title": "Decap is the man behind the drums behind your favorite song",
-          "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other…",
-          "published": "2026-09-26T19:30:00.000Z"
-        },
-        {
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "link": "https://arxiv.org/abs/2609.22978",
+          "title": "Faster prompt lookup drafting in llama.cpp",
+          "link": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-26T18:22:41.000Z"
-        },
-        {
-          "title": "Kids turned the comment section of an NPR podcast into a group chat",
-          "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass…",
-          "published": "2026-09-26T17:32:35.000Z"
+          "published": "2026-09-26T19:57:24.000Z"
         }
       ]
     },
