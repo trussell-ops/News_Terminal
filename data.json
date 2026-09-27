@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T23:01:54.458Z",
+  "updated": "2026-09-27T01:36:32.474Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,22 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "OpenAI (2015)",
+          "link": "https://openai.com/index/introducing-openai/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T00:44:48.000Z"
+        },
+        {
+          "title": "Sousveillance",
+          "link": "https://en.wikipedia.org/wiki/Sousveillance",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T00:25:41.000Z"
+        },
+        {
           "title": "Apple hit with $5.7 billion in damages over haptic patents",
           "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
           "source": "The Verge",
@@ -226,20 +242,20 @@
           "published": "2026-09-26T19:30:00.000Z"
         },
         {
+          "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+          "link": "https://tml.stanford.edu/homebody/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-26T18:42:10.000Z"
+        },
+        {
           "title": "DeepSeek Elastic Compute (DSec)",
           "link": "https://arxiv.org/abs/2609.22978",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-26T18:22:41.000Z"
-        },
-        {
-          "title": "Japan moves to tighten rules for foreigners",
-          "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T17:43:11.000Z"
         },
         {
           "title": "Kids turned the comment section of an NPR podcast into a group chat",
@@ -250,12 +266,28 @@
           "published": "2026-09-26T17:32:35.000Z"
         },
         {
+          "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+          "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-26T17:26:54.000Z"
+        },
+        {
           "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
           "link": "https://github.com/reladraw/reladraw",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-26T17:10:40.000Z"
+        },
+        {
+          "title": "The Evolution of Vending Machines",
+          "link": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-26T17:01:45.000Z"
         },
         {
           "title": "OpenAI pauses training of its ‘most capable models’",
@@ -274,28 +306,20 @@
           "published": "2026-09-26T15:56:34.000Z"
         },
         {
-          "title": "Automattic has a new board after failed attempt to put CEO on leave",
-          "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+          "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+          "link": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-26T15:40:27.000Z"
+          "published": "2026-09-26T15:49:04.000Z"
         },
         {
-          "title": "Plunging test scores are a slow-moving catastrophe",
-          "link": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+          "title": "Go Concurrency Distilled",
+          "link": "https://antonz.org/go-concurrency-distilled/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-26T15:24:08.000Z"
-        },
-        {
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "link": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T14:03:54.000Z"
+          "published": "2026-09-26T14:34:49.000Z"
         },
         {
           "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
@@ -330,6 +354,14 @@
           "published": "2026-09-26T10:55:56.000Z"
         },
         {
+          "title": "Reading’s Bayeux Tapestry",
+          "link": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-26T10:48:40.000Z"
+        },
+        {
           "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
           "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
           "source": "Ars Technica",
@@ -354,44 +386,12 @@
           "published": "2026-09-26T09:13:41.000Z"
         },
         {
-          "title": "Floci: Locally emulating any cloud service",
-          "link": "https://floci.io",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T08:31:02.000Z"
-        },
-        {
           "title": "Can eSUV e-bikes really go from trail to town?",
           "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide,…",
           "published": "2026-09-26T07:00:00.000Z"
-        },
-        {
-          "title": "We're gonna need a lot more mathematicians",
-          "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T02:46:54.000Z"
-        },
-        {
-          "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-          "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
-          "published": "2026-09-25T23:00:26.000Z"
-        },
-        {
-          "title": "What even is an OS now?",
-          "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-25T21:36:56.000Z"
         }
       ]
     },
