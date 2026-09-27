@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-27T13:10:34.933Z",
+  "updated": "2026-09-27T17:51:49.521Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
+          "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Flight disruptions were rising in Boston over the weekend.",
+          "published": "2026-09-27T13:39:11.000Z"
+        },
         {
           "title": "Andy Burnham refuses to back third runway at Heathrow",
           "link": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
@@ -51,14 +59,6 @@
           "category": "markets",
           "snippet": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
           "published": "2026-09-26T16:32:42.000Z"
-        },
-        {
-          "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
-          "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Flight disruptions were rising in Boston for Saturday.",
-          "published": "2026-09-26T12:19:38.000Z"
         },
         {
           "title": "Could an iced coffee freeze you out of the job market?",
@@ -202,6 +202,102 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "link": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T17:32:02.000Z"
+        },
+        {
+          "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of…",
+          "published": "2026-09-27T17:21:07.000Z"
+        },
+        {
+          "title": "Don't couple your Go code to GitHub",
+          "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T16:50:58.000Z"
+        },
+        {
+          "title": "There are no \"rogue\" AI agents",
+          "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T16:19:46.000Z"
+        },
+        {
+          "title": "Show HN: TinyAIArena watch AI agents battle it out",
+          "link": "https://tinyaiarena.com/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T15:51:28.000Z"
+        },
+        {
+          "title": "PostmarketOS is rebranding as Nura",
+          "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T15:31:15.000Z"
+        },
+        {
+          "title": "The Normalization of Inexplicable Failures",
+          "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T15:26:40.000Z"
+        },
+        {
+          "title": "Installing NeoVim caused original Vim undo files to be deleted",
+          "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T14:45:07.000Z"
+        },
+        {
+          "title": "10 Tells of a Slop UI",
+          "link": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T14:41:26.000Z"
+        },
+        {
+          "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+          "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T14:30:55.000Z"
+        },
+        {
+          "title": "Ten Lines of Code That Changed My World",
+          "link": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T13:33:03.000Z"
+        },
+        {
+          "title": "Replacing the old battery on rechargeable bike lights",
+          "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T13:30:11.000Z"
+        },
+        {
           "title": "Why OLPC’s $100 laptop never stood a chance",
           "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
           "source": "The Verge",
@@ -226,6 +322,14 @@
           "published": "2026-09-27T12:00:00.000Z"
         },
         {
+          "title": "How the Smithsonian became the latest front in Trump’s culture war",
+          "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The Smithsonian has faced withering pressure from the Trump administration.",
+          "published": "2026-09-27T11:00:12.000Z"
+        },
+        {
           "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "link": "https://arxiv.org/abs/2609.25021",
           "source": "Hacker News",
@@ -234,15 +338,15 @@
           "published": "2026-09-27T10:26:25.000Z"
         },
         {
-          "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-          "link": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+          "title": "Rusty thoughts on \"Parse, don't validate\"",
+          "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-27T08:44:04.000Z"
+          "published": "2026-09-27T08:59:59.000Z"
         },
         {
-          "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "title": "Unsealed Briefs in Authors’ Case v. Microsoft&#x2F;OpenAI",
           "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
           "source": "Hacker News",
           "category": "tech",
@@ -256,14 +360,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-27T05:26:15.000Z"
-        },
-        {
-          "title": "What is the size of Yemen? (2024)",
-          "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-27T02:40:26.000Z"
         },
         {
           "title": "Apple hit with $5.7 billion in damages over haptic patents",
@@ -296,102 +392,6 @@
           "category": "tech",
           "snippet": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass…",
           "published": "2026-09-26T17:32:35.000Z"
-        },
-        {
-          "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-          "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T17:26:54.000Z"
-        },
-        {
-          "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-          "link": "https://github.com/reladraw/reladraw",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T17:10:40.000Z"
-        },
-        {
-          "title": "OpenAI pauses training of its ‘most capable models’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being…",
-          "published": "2026-09-26T16:34:59.000Z"
-        },
-        {
-          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-          "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T15:56:34.000Z"
-        },
-        {
-          "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-          "link": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T15:49:04.000Z"
-        },
-        {
-          "title": "Go Concurrency Distilled",
-          "link": "https://antonz.org/go-concurrency-distilled/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T14:34:49.000Z"
-        },
-        {
-          "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-          "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild…",
-          "published": "2026-09-26T14:00:00.000Z"
-        },
-        {
-          "title": "Improving site performance by shipping more CSS",
-          "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T13:10:05.000Z"
-        },
-        {
-          "title": "Control Resonant is a great game — it’s even better when you read everything",
-          "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is…",
-          "published": "2026-09-26T13:00:00.000Z"
-        },
-        {
-          "title": "Pokémon card resellers have turned collecting into an online blood sport",
-          "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Earlier this month, Pok mon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had…",
-          "published": "2026-09-26T12:00:00.000Z"
-        },
-        {
-          "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-          "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
-          "published": "2026-09-26T10:45:09.000Z"
-        },
-        {
-          "title": "How to keep enjoying programming in a world of LLMs",
-          "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T09:41:58.000Z"
         }
       ]
     },
