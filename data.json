@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-27T07:20:46.560Z",
+  "updated": "2026-09-27T13:10:34.933Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Andy Burnham refuses to back third runway at Heathrow",
+          "link": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn",
+          "published": "2026-09-27T11:22:32.000Z"
+        },
+        {
+          "title": "Baby bank's urgent appeal as demand for help grows",
+          "link": "https://www.bbc.co.uk/news/articles/c81dl1qkxg7xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The founder of Leeds Baby Bank says the charity has seen a \"massive\" increase in referrals recently.",
+          "published": "2026-09-27T07:54:19.000Z"
+        },
         {
           "title": "The ecstasy of buying our first home was short-lived after we found 150 faults",
           "link": "https://www.bbc.co.uk/news/articles/c2dyxg0zkpko?at_medium=RSS&at_campaign=rss",
@@ -13,7 +29,7 @@
           "published": "2026-09-27T06:18:47.000Z"
         },
         {
-          "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+          "title": "Faisal Islam: The two big decisions the chancellor must make",
           "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -27,6 +43,14 @@
           "category": "markets",
           "snippet": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
           "published": "2026-09-26T19:23:56.000Z"
+        },
+        {
+          "title": "Heathrow Airport warns third runway could be delayed by four years",
+          "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+          "published": "2026-09-26T16:32:42.000Z"
         },
         {
           "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
@@ -171,36 +195,68 @@
           "category": "markets",
           "snippet": "We ask New Yorkers to share the smallest amount they'd ask a friend to pay back.",
           "published": "2026-09-25T05:28:27.000Z"
-        },
-        {
-          "title": "We ship our gym equipment all over the world",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgywjxv14po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Northern Ireland's economic output, which is broadly equivalent to UK GDP, rose by 2.3% in the year to June.",
-          "published": "2026-09-25T05:24:57.000Z"
-        },
-        {
-          "title": "Scam hotel booking sent family to Wetherspoon pub",
-          "link": "https://www.bbc.co.uk/news/articles/c3zxzqyj24xeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Which? says staff are turning away up to 20 tourists a day after scammers used the pub's address.",
-          "published": "2026-09-25T05:02:48.000Z"
-        },
-        {
-          "title": "X-planes: Are they needed in the new era of drones?",
-          "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Where do America's X-plane projects fit in an era of cheap drones?",
-          "published": "2026-09-24T23:03:53.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Why OLPC’s $100 laptop never stood a chance",
+          "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child…",
+          "published": "2026-09-27T12:25:00.000Z"
+        },
+        {
+          "title": "Googlebooks might be the real deal",
+          "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer…",
+          "published": "2026-09-27T12:00:00.000Z"
+        },
+        {
+          "title": "The smart home graveyard is getting crowded",
+          "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscribers' inboxes on…",
+          "published": "2026-09-27T12:00:00.000Z"
+        },
+        {
+          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "link": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T10:26:25.000Z"
+        },
+        {
+          "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+          "link": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T08:44:04.000Z"
+        },
+        {
+          "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T06:19:33.000Z"
+        },
+        {
+          "title": "The internet discovers TLA+. Now what?",
+          "link": "https://reasonable.io/blog/tla-tutorial/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-27T05:26:15.000Z"
+        },
         {
           "title": "What is the size of Yemen? (2024)",
           "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
@@ -210,28 +266,12 @@
           "published": "2026-09-27T02:40:26.000Z"
         },
         {
-          "title": "Real-time feedback: My closing move in every interview",
-          "link": "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-27T01:01:18.000Z"
-        },
-        {
           "title": "Apple hit with $5.7 billion in damages over haptic patents",
           "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos.…",
           "published": "2026-09-26T21:30:01.000Z"
-        },
-        {
-          "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
-          "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T20:08:50.000Z"
         },
         {
           "title": "Decap is the man behind the drums behind your favorite song",
@@ -272,14 +312,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-26T17:10:40.000Z"
-        },
-        {
-          "title": "The Evolution of Vending Machines",
-          "link": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T17:01:45.000Z"
         },
         {
           "title": "OpenAI pauses training of its ‘most capable models’",
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "Comments",
           "published": "2026-09-26T09:41:58.000Z"
-        },
-        {
-          "title": "Fifteen years later, the Apple Cards origin story",
-          "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T09:13:41.000Z"
-        },
-        {
-          "title": "Flip Fluid on Flip Dots",
-          "link": "https://mitxela.com/projects/flipflip",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T07:50:24.000Z"
-        },
-        {
-          "title": "Can eSUV e-bikes really go from trail to town?",
-          "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide,…",
-          "published": "2026-09-26T07:00:00.000Z"
-        },
-        {
-          "title": "An agent used DNS to reach an external chatbot",
-          "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-26T04:14:11.000Z"
         }
       ]
     },
