@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-29T23:49:30.738Z",
+  "updated": "2026-09-30T03:02:20.895Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+          "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
+          "published": "2026-09-30T02:41:34.000Z"
+        },
         {
           "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
           "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
@@ -187,20 +195,20 @@
           "category": "markets",
           "snippet": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
           "published": "2026-09-29T07:19:04.000Z"
-        },
-        {
-          "title": "I paid £30,000 for an 'influencer' degree. Here's why",
-          "link": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Content creation degrees aim to help people make money from social media, but are they worth the money?",
-          "published": "2026-09-29T07:02:07.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but…",
+          "published": "2026-09-30T00:19:13.000Z"
+        },
         {
           "title": "How our vibe coded website looks like a designer made it",
           "link": "https://railcode.dev/blog/vibe-coded-website",
@@ -232,14 +240,6 @@
           "category": "tech",
           "snippet": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new…",
           "published": "2026-09-29T22:25:45.000Z"
-        },
-        {
-          "title": "UnoDOS",
-          "link": "https://github.com/hmofet/unodos",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-29T22:10:23.000Z"
         },
         {
           "title": "BMW’s revamped i3 boasts up to 468 miles of range",
