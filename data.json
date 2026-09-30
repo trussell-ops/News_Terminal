@@ -1,16 +1,32 @@
 {
-  "updated": "2026-09-30T16:09:51.919Z",
+  "updated": "2026-09-30T20:54:03.829Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
+          "link": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Mattel announced on Wednesday that Roger Lynch would serve as CEO and Chairman, replacing Ynon Kreiz.",
+          "published": "2026-09-30T20:49:20.000Z"
+        },
         {
           "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
           "link": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Stellantis CEO Antonio Filosa on Wednesday reconfirmed the company's 2026 guidance and its plans to be cash flow positive by 2027.",
-          "published": "2026-09-30T16:07:45.000Z"
+          "published": "2026-09-30T20:15:48.000Z"
+        },
+        {
+          "title": "MGM CEO leaves door open to People Inc. bid as casino dealmaking heats up",
+          "link": "https://www.cnbc.com/2026/09/30/mgm-barry-diller-people-inc-casino-dealmaking.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The Wall Street Journal reported MGM was exploring an offer for People Inc. after People Inc. withdrew its $48.30-per-share proposal to buy the rest of MGM.",
+          "published": "2026-09-30T17:50:49.000Z"
         },
         {
           "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
@@ -59,14 +75,6 @@
           "category": "markets",
           "snippet": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
           "published": "2026-09-30T14:00:33.000Z"
-        },
-        {
-          "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
-          "link": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Mattel announced on Wednesday that Roger Lynch would serve as CEO and Chairman, replacing Ynon Kreiz.",
-          "published": "2026-09-30T13:19:37.000Z"
         },
         {
           "title": "Greggs to cut 740 jobs and close factories",
@@ -187,14 +195,6 @@
           "category": "markets",
           "snippet": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
           "published": "2026-09-29T20:50:10.000Z"
-        },
-        {
-          "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race",
-          "link": "https://www.cnbc.com/2026/09/29/alaska-airlines-hawaiian-new-cabins.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Alaska Airlines is overhauling its Alaska and Hawaiian cabins to include brand-new top-tier suites, a premium economy class and other features.",
-          "published": "2026-09-29T20:25:51.000Z"
         }
       ]
     },
@@ -202,202 +202,258 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
-          "link": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
+          "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
+          "link": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alternative to the…",
-          "published": "2026-09-30T16:00:00.000Z"
+          "snippet": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it under a Creative…",
+          "published": "2026-09-30T20:45:00.000Z"
         },
         {
-          "title": "The AI Race Just Got Awkward",
-          "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-30T15:50:11.000Z"
-        },
-        {
-          "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+          "title": "Google announces Gemini 4 and says it s so capable that only trusted cyber defenders can have it right now",
+          "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data…",
-          "published": "2026-09-30T15:18:49.000Z"
+          "snippet": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and…",
+          "published": "2026-09-30T20:41:41.000Z"
         },
         {
-          "title": "Google reportedly tests paying publishers for AI search results",
-          "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as…",
-          "published": "2026-09-30T14:51:49.000Z"
-        },
-        {
-          "title": "A Brief History of the Bloomberg Terminal",
-          "link": "https://spectrum.ieee.org/bloomberg-terminal",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-30T14:34:07.000Z"
-        },
-        {
-          "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-          "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that…",
-          "published": "2026-09-30T14:30:00.000Z"
-        },
-        {
-          "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-          "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-30T13:50:50.000Z"
-        },
-        {
-          "title": "Amazon s new Fire TV Stick 4K can pull power directly from your TV",
-          "link": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The new Fire TV Stick 4K will be a little easier to set up than Amazon's previous 4K streaming sticks since it no longer requires a power adapter. You can power the device directly from your TV's USB port, like the updated entry-level…",
-          "published": "2026-09-30T13:00:16.000Z"
-        },
-        {
-          "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
-          "link": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The original Sonos Ace headphones should have been a triumphant entry into a new product category. Instead, they were overshadowed by Sonos's disastrous app redesign. And while the original Ace are well built, sound good, and are…",
-          "published": "2026-09-30T13:00:00.000Z"
-        },
-        {
-          "title": "Potato by air",
-          "link": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The Wing Hummingbird 7000W-B delivery drone weighs less than 15 pounds. It has 16 propellers - four for horizontal movement and 12 for vertical - a top speed of 60 miles per hour, a carrying capacity of up to 2.7 pounds, and a delivery…",
-          "published": "2026-09-30T13:00:00.000Z"
-        },
-        {
-          "title": "You can text DoorDash s AI bot to order my usual and it will figure the rest out",
-          "link": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "DoorDash is launching new ways to use the local delivery platform, including text message ordering, drone deliveries, and retail returns. The new message ordering feature builds on capabilities that the Ask DoorDash AI chatbot introduced…",
-          "published": "2026-09-30T13:00:00.000Z"
-        },
-        {
-          "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint…",
-          "published": "2026-09-30T12:24:32.000Z"
-        },
-        {
-          "title": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul",
-          "link": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Since the Galaxy Tab S10 line, Samsung has updated its flagship Ultra tablet annually, but alternates its regular and Plus variants. It means that this year's Galaxy Tab S12 series includes an Ultra model with few changes from last year's…",
-          "published": "2026-09-30T12:00:00.000Z"
-        },
-        {
-          "title": "Cloudflare plans to issue quantum-safe TLS certificates",
-          "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+          "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+          "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "The move will be part of a major overhaul of the ecosystem for website authentication.",
-          "published": "2026-09-30T11:15:14.000Z"
+          "snippet": "So much for Gemini 3.5 Pro.",
+          "published": "2026-09-30T20:11:08.000Z"
         },
         {
-          "title": "Pi.dev: You Said No MCP",
-          "link": "https://earendil.com/posts/you-said-no-mcp/",
+          "title": "Gemini 4 Argon",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
           "source": "Hacker News",
           "category": "tech",
           "snippet": "Comments",
-          "published": "2026-09-30T09:55:23.000Z"
+          "published": "2026-09-30T20:04:37.000Z"
         },
         {
-          "title": "September 2026: The world today, as seen by one Polish guy",
-          "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-30T07:12:31.000Z"
-        },
-        {
-          "title": "RSS Feeds for Last.fm",
-          "link": "https://lfm.xiffy.nl/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-30T03:00:05.000Z"
-        },
-        {
-          "title": "Floppy Emu Hardware Failure Analysis Results",
-          "link": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-29T23:10:26.000Z"
-        },
-        {
-          "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-          "link": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-29T23:03:38.000Z"
-        },
-        {
-          "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-          "link": "https://github.com/ninjahawk/livenerf",
-          "source": "Hacker News",
-          "category": "tech",
-          "snippet": "Comments",
-          "published": "2026-09-29T22:36:14.000Z"
-        },
-        {
-          "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
-          "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+          "title": "Reddit is putting more limits on Old.Reddit.com",
+          "link": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
-          "published": "2026-09-29T22:30:37.000Z"
+          "snippet": "Reddit says it's fighting \"automated abuse.\"",
+          "published": "2026-09-30T19:53:33.000Z"
         },
         {
-          "title": "Protests against OpenAI get increasingly creative",
-          "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-          "source": "Ars Technica",
+          "title": "Dear Software Makers",
+          "link": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+          "source": "Hacker News",
           "category": "tech",
-          "snippet": "New sculpture depicts AI leaders escaping a sinking ship.",
-          "published": "2026-09-29T21:52:58.000Z"
+          "snippet": "Comments",
+          "published": "2026-09-30T19:45:38.000Z"
         },
         {
-          "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-          "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-          "source": "Ars Technica",
+          "title": "Halfspace experimental IDE for solid modeling with distance fields",
+          "link": "https://www.mattkeeter.com/projects/halfspace/",
+          "source": "Hacker News",
           "category": "tech",
-          "snippet": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
-          "published": "2026-09-29T21:14:49.000Z"
+          "snippet": "Comments",
+          "published": "2026-09-30T19:44:37.000Z"
         },
         {
-          "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
-          "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+          "title": "America.gov goes crazy on \"play Minecraft\"",
+          "link": "https://america.gov/chat",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-30T19:34:03.000Z"
+        },
+        {
+          "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+          "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda.",
-          "published": "2026-09-29T20:23:40.000Z"
+          "snippet": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
+          "published": "2026-09-30T19:31:25.000Z"
+        },
+        {
+          "title": "EDG C++ front-end goes public",
+          "link": "https://edgcpp.org/#transition",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-30T19:26:37.000Z"
+        },
+        {
+          "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
+          "link": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Boycotting Disney is hard.",
+          "published": "2026-09-30T19:22:19.000Z"
+        },
+        {
+          "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+          "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-30T19:04:50.000Z"
+        },
+        {
+          "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
+          "published": "2026-09-30T18:47:01.000Z"
+        },
+        {
+          "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+          "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
+          "published": "2026-09-30T18:25:04.000Z"
+        },
+        {
+          "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+          "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-30T18:17:45.000Z"
+        },
+        {
+          "title": "The AI Tamagotchis are coming",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting…",
+          "published": "2026-09-30T18:07:38.000Z"
+        },
+        {
+          "title": "Carnegie Mellon University Announces Historic $3B Gift from Ken Griffin",
+          "link": "https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-30T18:06:13.000Z"
+        },
+        {
+          "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
+          "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the \"next few…",
+          "published": "2026-09-30T17:45:00.000Z"
+        },
+        {
+          "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+          "link": "https://github.com/magnitudedev/magnitude",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-30T17:37:40.000Z"
+        },
+        {
+          "title": "Claude Says",
+          "link": "https://ohhfishal.net/Posts/claude",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-30T17:32:06.000Z"
+        },
+        {
+          "title": "Amazon s delivery driver smart glasses will reportedly take photos almost constantly",
+          "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could…",
+          "published": "2026-09-30T17:21:29.000Z"
+        },
+        {
+          "title": "Commit description as a thinking tool",
+          "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-30T17:18:13.000Z"
+        },
+        {
+          "title": "Here s what AI leaders are saying about Trump’s new safety plan",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI…",
+          "published": "2026-09-30T17:15:49.000Z"
+        },
+        {
+          "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+          "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+          "source": "Hacker News",
+          "category": "tech",
+          "snippet": "Comments",
+          "published": "2026-09-30T17:00:20.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "AI Can Read Between The Redacted Lines",
+          "link": "https://abovethelaw.com/2026/09/ai-can-read-between-the-redacted-lines/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Our very own investigation into Judge Elanor Ross shows how quickly artificial intelligence can uncover what courts tried to conceal. The post AI Can Read Between The Redacted Lines appeared first on Above the Law .",
+          "published": "2026-09-30T20:44:00.000Z"
+        },
+        {
+          "title": "All The Court’s A Stage And Trump Judges Merely Players",
+          "link": "https://abovethelaw.com/2026/09/all-the-courts-a-stage-and-trump-judges-merely-players/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "And the fashion police have too much time on their hands. The post All The Court’s A Stage And Trump Judges Merely Players appeared first on Above the Law .",
+          "published": "2026-09-30T20:04:00.000Z"
+        },
+        {
+          "title": "ROI Is Dead. Long Live ROI.",
+          "link": "https://abovethelaw.com/2026/09/roi-is-dead-long-live-roi/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "While the AI landscape keeps shifting, the question of ROI remains unsettled. The post ROI Is Dead. Long Live ROI. appeared first on Above the Law .",
+          "published": "2026-09-30T19:13:00.000Z"
+        },
+        {
+          "title": "The Top Law Schools For Future Biglaw Dealmakers (2026)",
+          "link": "https://abovethelaw.com/2026/09/the-top-law-schools-for-future-biglaw-dealmakers-2026/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Which law schools will give you the competitive edge to make your dreams of a career in M A come true? The post The Top Law Schools For Future Biglaw Dealmakers (2026) appeared first on Above the Law .",
+          "published": "2026-09-30T18:32:00.000Z"
+        },
+        {
+          "title": "Nobody In The Room For The White House Super Intelligence Accord Thought To Proofread It",
+          "link": "https://abovethelaw.com/2026/09/nobody-in-the-room-for-the-white-house-super-intelligence-accord-thought-to-proofread-it/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Six tech titans, one president, zero proofreaders. The post Nobody In The Room For The White House Super Intelligence Accord Thought To Proofread It appeared first on Above the Law .",
+          "published": "2026-09-30T17:41:00.000Z"
+        },
+        {
+          "title": "DOJ Offers Up Kristi Noem As Sacrificial Lamb But D.C. Circuit Wants To Know Who Else Was In The Room",
+          "link": "https://abovethelaw.com/2026/09/doj-offers-up-kristi-noem-as-sacrificial-lamb-but-d-c-circuit-wants-to-know-who-else-was-in-the-room/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Starting with the one who allegedly suggested saying 'f*ck you.' The post DOJ Offers Up Kristi Noem As Sacrificial Lamb But D.C. Circuit Wants To Know Who Else Was In The Room appeared first on Above the Law .",
+          "published": "2026-09-30T17:01:00.000Z"
+        },
+        {
+          "title": "6 Ways You Can Find Success In Private Practice",
+          "link": "https://abovethelaw.com/2026/09/6-ways-you-can-find-success-in-private-practice/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] ATL contributor Frank Ramos shares best practices for any lawyer — from meeting new clients to achieving long-term goals. The post 6 Ways You Can Find Success In Private Practice appeared first on Above the Law .",
+          "published": "2026-09-30T16:16:00.000Z"
+        },
         {
           "title": "How Many Times Can Trump Pick Rural Republicans’ Pockets Before They Wise Up?",
           "link": "https://abovethelaw.com/2026/09/how-many-times-can-trump-pick-rural-republicans-pockets-before-they-wise-up/",
@@ -533,62 +589,6 @@
           "category": "legal",
           "snippet": "The Court said in May that his recusal wasn't required, but I guess things change. The post Sam Alito s Oil Stocks Finally Get Him Benched From The Big Climate Case appeared first on Above the Law .",
           "published": "2026-09-29T18:32:00.000Z"
-        },
-        {
-          "title": "Senator Accuses Jack Smith Of Perjury Because Missouri Lawmaker Too Dumb To Know About The Iowa Hawkeyes",
-          "link": "https://abovethelaw.com/2026/09/senator-accuses-jack-smith-of-perjury-because-missouri-lawmaker-too-dumb-to-know-about-the-iowa-hawkeyes/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Iowans generally have a low opinion of Missouri and... this is not challenging that. The post Senator Accuses Jack Smith Of Perjury Because Missouri Lawmaker Too Dumb To Know About The Iowa Hawkeyes appeared first on Above the Law .",
-          "published": "2026-09-29T17:46:00.000Z"
-        },
-        {
-          "title": "DOJ s Newest Brain Drain Fix Is Borrowing Marines For An Immigration Surge That Might Be Coming To A City Near You",
-          "link": "https://abovethelaw.com/2026/09/dojs-newest-brain-drain-fix-is-borrowing-marines-for-an-immigration-surge-that-might-be-coming-to-a-city-near-you/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Sovereign District of the United States Marine Corps. The post DOJ s Newest Brain Drain Fix Is Borrowing Marines For An Immigration Surge That Might Be Coming To A City Near You appeared first on Above the Law .",
-          "published": "2026-09-29T17:01:00.000Z"
-        },
-        {
-          "title": "Beyond CLM: The Road To An Agentic Future",
-          "link": "https://info.breakingmedia.com/beyond-clm-the-road-to-an-agentic-future",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] Join this CLE-eligible webinar to see where law departments stand — and where they’re headed — when it comes to agentic AI. The post Beyond CLM: The Road To An Agentic Future appeared first on Above the Law .",
-          "published": "2026-09-29T16:18:00.000Z"
-        },
-        {
-          "title": "In A Marriage Of Two ALSPs, Repario Acquires UnitedLex To Strengthen Its AI Offerings",
-          "link": "https://www.lawnext.com/2026/09/in-a-marriage-of-two-alsps-repario-acquires-unitedlex-to-strengthen-its-ai-offerings.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Repario said that the acquisition will create a technology-led legal services company capable of applying AI across complex legal workflows at enterprise scale. The post In A Marriage Of Two ALSPs, Repario Acquires UnitedLex To Strengthen…",
-          "published": "2026-09-29T15:35:46.000Z"
-        },
-        {
-          "title": "Politics Is Still Fueling The Law School Admissions Frenzy",
-          "link": "https://abovethelaw.com/2026/09/politics-is-still-fueling-the-law-school-admissions-frenzy/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The law school Trump Bump is on its second Trump administration. The post Politics Is Still Fueling The Law School Admissions Frenzy appeared first on Above the Law .",
-          "published": "2026-09-29T14:46:00.000Z"
-        },
-        {
-          "title": "DC Circuit Panel Upholds Pentagon’s Ban On Anthropic – So What Comes Next?",
-          "link": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Pentagon CTO Emil Michael crowed, ‘The hammer of justice has smashed AnthropicAI[’s] arguments.’ The AI titan hinted at an appeal — but they may not be allowed one. The post DC Circuit Panel Upholds Pentagon’s Ban On Anthropic – So What…",
-          "published": "2026-09-29T14:05:00.000Z"
-        },
-        {
-          "title": "The Supreme Court’s two decades of constitutional change",
-          "link": "https://www.scotusblog.com/2026/09/the-supreme-courts-two-decades-of-constitutional-change/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "This series for SCOTUSblog will recount two decades of constitutional change through the five editions of our casebook, the first published in 2008 and the latest to be published this December. Lawyers tend to internalize the…",
-          "published": "2026-09-29T14:00:00.000Z"
         }
       ]
     }
