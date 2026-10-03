@@ -1,9 +1,41 @@
 {
-  "updated": "2026-10-03T08:47:55.062Z",
+  "updated": "2026-10-03T14:04:09.899Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Private capital is reshaping Hollywood moviemaking",
+          "link": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "As Hollywood's financing structures diversify, private capital is increasingly funding the big screen and changing the types of movies that are being made.",
+          "published": "2026-10-03T12:00:01.000Z"
+        },
+        {
+          "title": "High-tech vehicles are driving up auto repair costs for shops and consumers",
+          "link": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Investments in ADAS calibration equipment, computers and software subscriptions can drive up the cost of even a windshield replacement or an oil change.",
+          "published": "2026-10-03T12:00:01.000Z"
+        },
+        {
+          "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+          "link": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
+          "published": "2026-10-03T11:00:01.000Z"
+        },
+        {
+          "title": "Suppliers pile pressure on government over energy bills",
+          "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
+          "published": "2026-10-03T08:58:44.000Z"
+        },
         {
           "title": "New baby bank 'open to everybody'",
           "link": "https://www.bbc.co.uk/news/articles/ck624p1y8ejyo?at_medium=RSS&at_campaign=rss",
@@ -27,14 +59,6 @@
           "category": "markets",
           "snippet": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
           "published": "2026-10-03T04:38:31.000Z"
-        },
-        {
-          "title": "Suppliers pile pressure on government over energy bills",
-          "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
-          "published": "2026-10-03T03:47:32.000Z"
         },
         {
           "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
@@ -171,36 +195,28 @@
           "category": "markets",
           "snippet": "The minimum price of alcohol (MUP) in Wales has risen by 30%.",
           "published": "2026-10-02T08:23:31.000Z"
-        },
-        {
-          "title": "OpenAI fires workers for 'mishandling sensitive information'",
-          "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-          "published": "2026-10-02T08:20:32.000Z"
-        },
-        {
-          "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-          "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
-          "published": "2026-10-01T23:45:06.000Z"
-        },
-        {
-          "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-          "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-          "published": "2026-10-01T23:32:59.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "3D movies are finally worth watching",
+          "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since James Cameron's Avatar wowed me on the big…",
+          "published": "2026-10-03T12:00:00.000Z"
+        },
+        {
+          "title": "The dawn of the age of the exoskeleton",
+          "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+          "published": "2026-10-03T11:15:33.000Z"
+        },
         {
           "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
           "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
@@ -362,14 +378,6 @@
           "published": "2026-10-02T16:05:26.000Z"
         },
         {
-          "title": "Dots get up in Muse’s business",
-          "link": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little…",
-          "published": "2026-10-02T15:47:05.000Z"
-        },
-        {
           "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
           "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
           "source": "Ars Technica",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
           "published": "2026-10-02T13:54:34.000Z"
-        },
-        {
-          "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
-          "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Can it be Mini LED without a FALD backlight?",
-          "published": "2026-10-02T10:30:11.000Z"
         }
       ]
     },
