@@ -1,9 +1,41 @@
 {
-  "updated": "2026-10-05T18:38:26.699Z",
+  "updated": "2026-10-06T00:29:14.448Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Five reasons India's stock market is sinking even when its economy is growing",
+          "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+          "published": "2026-10-05T23:13:11.000Z"
+        },
+        {
+          "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+          "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A growing number of parents are opening retirement funds for their children.",
+          "published": "2026-10-05T23:00:41.000Z"
+        },
+        {
+          "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
+          "link": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Lucid delivered 3,806 EVs and produced 2,954 vehicles during the third quarter. That compared with 4,078 deliveries on production of 3,891 vehicles a year earlier.",
+          "published": "2026-10-05T21:04:17.000Z"
+        },
+        {
+          "title": "AstraZeneca CEO says Summit drug could drive next generation of cancer combinations after $2 billion investment",
+          "link": "https://www.cnbc.com/2026/10/05/astrazeneca-ceo-says-summit-drug-could-drive-future-cancer-combos.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Pascal Soriot spoke exclusively with CNBC from the site of AstraZeneca's new $1 billion R&D facility in Kendall Square in Cambridge, Massachusetts.",
+          "published": "2026-10-05T19:44:30.000Z"
+        },
         {
           "title": "These are the cheapest and most expensive U.S. flights this November",
           "link": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
@@ -157,44 +189,12 @@
           "published": "2026-10-03T08:58:44.000Z"
         },
         {
-          "title": "New baby bank 'open to everybody'",
-          "link": "https://www.bbc.co.uk/news/articles/ck624p1y8ejyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The facility offers essential items for free, including clothes for babies and small children.",
-          "published": "2026-10-03T06:08:05.000Z"
-        },
-        {
           "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
           "published": "2026-10-03T04:38:31.000Z"
-        },
-        {
-          "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
-          "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
-          "published": "2026-10-02T19:19:15.000Z"
-        },
-        {
-          "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-          "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-          "published": "2026-10-02T18:49:03.000Z"
-        },
-        {
-          "title": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
-          "link": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "It's a full-circle moment for a company that has undergone two major acquisitions within the last 18 months.",
-          "published": "2026-10-02T18:31:49.000Z"
         }
       ]
     },
@@ -202,12 +202,116 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Gemini Call for Me might tell your mom you re running late",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples…",
+          "published": "2026-10-05T23:09:55.000Z"
+        },
+        {
+          "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+          "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+          "published": "2026-10-05T22:26:35.000Z"
+        },
+        {
+          "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+          "link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "It s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to…",
+          "published": "2026-10-05T21:17:45.000Z"
+        },
+        {
+          "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+          "link": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October 2nd, the FCC…",
+          "published": "2026-10-05T21:15:05.000Z"
+        },
+        {
+          "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+          "link": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
+          "published": "2026-10-05T20:47:48.000Z"
+        },
+        {
+          "title": "Texas city demands $2M for public records on Flock usage",
+          "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
+          "published": "2026-10-05T20:31:12.000Z"
+        },
+        {
+          "title": "This startup is issuing AI-generated acne prescriptions",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and…",
+          "published": "2026-10-05T20:14:57.000Z"
+        },
+        {
+          "title": "All the drama around AI s takeover of mathematics",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including…",
+          "published": "2026-10-05T19:28:59.000Z"
+        },
+        {
+          "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+          "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The tool can free up over 12GB of storage.",
+          "published": "2026-10-05T19:14:44.000Z"
+        },
+        {
+          "title": "Wikipedia operator says OpenAI s rogue bots may be linked to a May outage",
+          "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on…",
+          "published": "2026-10-05T19:05:19.000Z"
+        },
+        {
+          "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
+          "link": "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "There's been a lot of doom and gloom from the auto industry lately when the subject of China comes up. Automaker CEOs, in particular, warn that allowing low-cost, high-tech Chinese electric vehicles to be sold in the US would effectively…",
+          "published": "2026-10-05T18:41:48.000Z"
+        },
+        {
           "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
           "source": "The Verge",
           "category": "tech",
           "snippet": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google…",
           "published": "2026-10-05T18:08:39.000Z"
+        },
+        {
+          "title": "Controlling the brain with light earns a physiology Nobel",
+          "link": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The entire field of optogenetics traces back to light-seeking algae.",
+          "published": "2026-10-05T17:59:27.000Z"
+        },
+        {
+          "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+          "link": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
+          "published": "2026-10-05T17:21:11.000Z"
         },
         {
           "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user s suicide",
@@ -234,14 +338,6 @@
           "published": "2026-10-05T16:09:07.000Z"
         },
         {
-          "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
-          "link": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras to game consoles. When the Shield TV Pro launched nearly seven years ago with…",
-          "published": "2026-10-05T15:43:13.000Z"
-        },
-        {
           "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
           "link": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
           "source": "Ars Technica",
@@ -250,60 +346,12 @@
           "published": "2026-10-05T15:12:17.000Z"
         },
         {
-          "title": "Apple’s new M6 Mac Mini is over $100 off",
-          "link": "https://www.theverge.com/gadgets/1004772/apple-mac-mini-m6-deal-october-prime-day-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Really the only negative associated with the new M6-powered Mac Mini is its high price. While the last-gen model debuted at just $599, the faster, but mostly unchanged 2026 edition starts at $899 — except for right now. You can grab the…",
-          "published": "2026-10-05T15:08:31.000Z"
-        },
-        {
-          "title": "CNN s boss will remain as Paramount and WBD merge into Skydance",
-          "link": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week. Thompson wrote in a memo to employees that he believes the combined company will \"fully…",
-          "published": "2026-10-05T14:42:34.000Z"
-        },
-        {
-          "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-          "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask…",
-          "published": "2026-10-05T14:30:00.000Z"
-        },
-        {
-          "title": "The best early October Prime Day deals happening now",
-          "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a…",
-          "published": "2026-10-05T14:10:19.000Z"
-        },
-        {
-          "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but…",
-          "published": "2026-10-05T13:47:14.000Z"
-        },
-        {
           "title": "AI glasses face their first major government crackdown",
           "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Norway wants time to write permanent rules for glasses that can record bystanders.",
           "published": "2026-10-05T13:39:30.000Z"
-        },
-        {
-          "title": "OpenAI is sticking more ads in ChatGPT",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to…",
-          "published": "2026-10-05T13:09:48.000Z"
         },
         {
           "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
@@ -344,60 +392,84 @@
           "category": "tech",
           "snippet": "\"...we were making history.\"",
           "published": "2026-10-03T19:45:17.000Z"
-        },
-        {
-          "title": "The dawn of the age of the exoskeleton",
-          "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The devices continue to show noticeable benefits for users in various real-world tasks.",
-          "published": "2026-10-03T11:15:33.000Z"
-        },
-        {
-          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-          "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-          "published": "2026-10-02T23:03:16.000Z"
-        },
-        {
-          "title": "Someone got Doom in an SQL database",
-          "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
-          "published": "2026-10-02T21:19:05.000Z"
-        },
-        {
-          "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-          "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
-          "published": "2026-10-02T20:30:27.000Z"
-        },
-        {
-          "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-          "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
-          "published": "2026-10-02T20:07:59.000Z"
-        },
-        {
-          "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
-          "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Critics say workers are still owed far more.",
-          "published": "2026-10-02T19:09:49.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Gotta Love A Perjury-Trap Subtweet See Also",
+          "link": "https://abovethelaw.com/2026/10/gotta-love-a-perjury-trap-subtweet-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Jack Smith Takes Selfies With Fans At Power To The People Fest While Foo Fighters Roast Eric Schmitt: Fans of his legal stylings lined up for selfies. First Monday In October, Same Old Alito Leak Bullsh*t: The new Term is here, and so is…",
+          "published": "2026-10-05T23:04:00.000Z"
+        },
+        {
+          "title": "AI Can Never Give Lawyers All Their Time Back",
+          "link": "https://abovethelaw.com/2026/10/ai-can-never-give-lawyers-all-their-time-back/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "8am's Kaleidoscope conference taught me that lawyers will just redistribute their time anyway. The post AI Can Never Give Lawyers All Their Time Back appeared first on Above the Law .",
+          "published": "2026-10-05T22:52:28.000Z"
+        },
+        {
+          "title": "These Days, The First Monday In October Only Means One Thing",
+          "link": "https://abovethelaw.com/2026/10/these-days-the-first-monday-in-october-only-means-one-thing/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The first Monday in October wasn't always a time for dread. The post These Days, The First Monday In October Only Means One Thing appeared first on Above the Law .",
+          "published": "2026-10-05T22:14:00.000Z"
+        },
+        {
+          "title": "Law School In The Age Of AI: Rethinking It From The Ground Up",
+          "link": "https://abovethelaw.com/2026/10/law-school-in-the-age-of-ai-rethinking-it-from-the-ground-up/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "We could be on the eve of better lawyers sooner. The post Law School In The Age Of AI: Rethinking It From The Ground Up appeared first on Above the Law .",
+          "published": "2026-10-05T21:34:00.000Z"
+        },
+        {
+          "title": "Opening the book on the October Term 2026",
+          "link": "https://www.scotusblog.com/2026/10/opening-the-book-on-the-october-term-2026/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The first Monday in October brings the new Supreme Court term and, with it, the first day of oral arguments. The opening case is Suncor Energy Inc. v. County Commissioners of Boulder County , on whether state-tort claims against energy…",
+          "published": "2026-10-05T21:12:00.000Z"
+        },
+        {
+          "title": "Do You Also Want Your Money Back?",
+          "link": "https://abovethelaw.com/2026/10/do-you-also-want-your-money-back/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Why are we charging me for Trump's luxuries? The post Do You Also Want Your Money Back? appeared first on Above the Law .",
+          "published": "2026-10-05T20:44:00.000Z"
+        },
+        {
+          "title": "Court sends mixed signals on whether it will allow state-tort suits seeking to hold energy companies liable for climate change to go forward",
+          "link": "https://www.scotusblog.com/2026/10/court-sends-mixed-signals-on-whether-it-will-allow-state-tort-suits-seeking-to-hold-energy-compa/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Monday opened its new term by hearing arguments in a lawsuit filed in state court by the city and county of Boulder, Colorado, seeking to hold two major energy companies responsible for their alleged role in climate…",
+          "published": "2026-10-05T20:17:26.000Z"
+        },
+        {
+          "title": "Calling All Associates: Will Your Firm Show You The Money This Bonus Season?",
+          "link": "https://abovethelaw.com/2026/10/calling-all-associates-will-your-firm-show-you-the-money-this-bonus-season/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Make your predictions and share your thoughts in our annual bonus season survey. The post Calling All Associates: Will Your Firm Show You The Money This Bonus Season? appeared first on Above the Law .",
+          "published": "2026-10-05T20:02:00.000Z"
+        },
+        {
+          "title": "Sam Alito Rings In The New Term By Telling Fox News He Knows Who Leaked Dobbs",
+          "link": "https://abovethelaw.com/2026/10/sam-alito-rings-in-the-new-term-by-telling-fox-news-he-knows-who-leaked-dobbs/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "About that leak... The post Sam Alito Rings In The New Term By Telling Fox News He Knows Who Leaked Dobbs appeared first on Above the Law .",
+          "published": "2026-10-05T19:17:00.000Z"
+        },
         {
           "title": "Biglaw Partner Pay Has Officially Gone Major League",
           "link": "https://abovethelaw.com/2026/10/kash-patel-fires-whistleblower-for-maga-pod-hits-gets-sued/",
@@ -411,7 +483,7 @@
           "link": "https://www.scotusblog.com/2026/10/court-declines-to-hear-cases-on-lets-go-brandon-sweatshirts-felons-second-amendment-rights-covid/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Before the justices took the bench on Monday for the first oral arguments of the 2026-27 term, the Supreme Court issued a list of orders from the justices’ private conference on Sept. 28, where they considered petitions for review that…",
+          "snippet": "Updated on Oct. 5 at 3:36 p.m. Before the justices took the bench on Monday for the first oral arguments of the 2026-27 term, the Supreme Court issued a list of orders from the justices’ private conference on Sept. 28, where they…",
           "published": "2026-10-05T18:05:00.000Z"
         },
         {
@@ -517,78 +589,6 @@
           "category": "legal",
           "snippet": "His courtroom stunts were legendary. So was his cameo as a Star Trek villain. The post He Invented Courtroom Theater, Then Took His Act To Star Trek appeared first on Above the Law .",
           "published": "2026-10-02T23:34:00.000Z"
-        },
-        {
-          "title": "How To Create Evergreen Resource Libraries That Dominate Search",
-          "link": "https://abovethelaw.com/2026/10/how-to-create-evergreen-resource-libraries-that-dominate-search/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "An archive of evergreen resources not only improves your law firm website’s performance in search results, but also helps to build trust with potential clients. The post How To Create Evergreen Resource Libraries That Dominate Search…",
-          "published": "2026-10-02T23:04:00.000Z"
-        },
-        {
-          "title": "Trump DOJ Considers Mission To Exonerate Richard Nixon",
-          "link": "https://abovethelaw.com/2026/10/trump-doj-considers-mission-to-exonerate-richard-nixon/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Why have Republicans become obsessed with rehabilitating Richard Nixon lately? The post Trump DOJ Considers Mission To Exonerate Richard Nixon appeared first on Above the Law .",
-          "published": "2026-10-02T22:13:00.000Z"
-        },
-        {
-          "title": "Lindsay Clancy s Defense Suffers Setback After Mistrial",
-          "link": "https://abovethelaw.com/2026/10/lindsay-clancys-defense-suffers-setback-after-mistrial/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "After an 11-1 deadlock, the defense is fighting to prevent another trial. The post Lindsay Clancy s Defense Suffers Setback After Mistrial appeared first on Above the Law .",
-          "published": "2026-10-02T21:31:00.000Z"
-        },
-        {
-          "title": "How Appealing Weekly Roundup",
-          "link": "https://abovethelaw.com/2026/10/how-appealing-weekly-roundup-188/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
-          "published": "2026-10-02T20:44:00.000Z"
-        },
-        {
-          "title": "There Are Two Guys In Seattle Calling Themselves US Attorney. Neither Was Confirmed By Senate.",
-          "link": "https://abovethelaw.com/2026/10/there-are-two-guys-in-seattle-calling-themselves-us-attorney-neither-was-confirmed-by-senate/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "With the guy Trump actually nominated, we got a Spider-Man meme. The post There Are Two Guys In Seattle Calling Themselves US Attorney. Neither Was Confirmed By Senate. appeared first on Above the Law .",
-          "published": "2026-10-02T20:02:00.000Z"
-        },
-        {
-          "title": "Vacations Are Not Impossible",
-          "link": "https://abovethelaw.com/2026/10/vacations-are-not-impossible/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Taking a vacation should not be inconsistent with providing excellent client service. The post Vacations Are Not Impossible appeared first on Above the Law .",
-          "published": "2026-10-02T19:18:00.000Z"
-        },
-        {
-          "title": "The Problem With Treating Every Personal Injury Case Like A ‘Settlement Case’",
-          "link": "https://abovethelaw.com/2026/10/the-problem-with-treating-every-personal-injury-case-like-a-settlement-case/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Most personal injury cases will settle. That doesn't mean they should be built to settle. The post The Problem With Treating Every Personal Injury Case Like A ‘Settlement Case’ appeared first on Above the Law .",
-          "published": "2026-10-02T18:32:00.000Z"
-        },
-        {
-          "title": "Is This A Low-Key Biglaw Match Of The Milbank Compensation Scale?",
-          "link": "https://abovethelaw.com/2026/10/is-this-a-low-key-biglaw-match-of-the-milbank-compensation-scale/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A mid-level associate posting lists a salary range of $270,000 to $385,000. Those numbers look familiar. The post Is This A Low-Key Biglaw Match Of The Milbank Compensation Scale? appeared first on Above the Law .",
-          "published": "2026-10-02T17:46:00.000Z"
-        },
-        {
-          "title": "Litigation Powerhouse Rolls Out The $180K Bonus Welcome Mat For Former Clerks",
-          "link": "https://abovethelaw.com/2026/10/litigation-powerhouse-rolls-out-the-180k-bonus-welcome-mat-for-former-clerks/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "This is among the highest signing bonus being offered for former federal clerks. Will other firms match these big bonuses? The post Litigation Powerhouse Rolls Out The $180K Bonus Welcome Mat For Former Clerks appeared first on Above the…",
-          "published": "2026-10-02T17:03:56.000Z"
         }
       ]
     }
