@@ -1,16 +1,32 @@
 {
-  "updated": "2026-10-07T17:05:55.246Z",
+  "updated": "2026-10-07T22:07:55.679Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Boots sold in £7bn deal to Canadian billionaire family",
-          "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+          "title": "Lululemon poaches Athleta CEO as new chief product officer",
+          "link": "https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Lululemon announced Wednesday that Athleta CEO Maggie Gauger is joining the company as its chief product officer, a newly created role.",
+          "published": "2026-10-07T21:47:06.000Z"
+        },
+        {
+          "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+          "link": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.",
+          "published": "2026-10-07T21:31:40.000Z"
+        },
+        {
+          "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "The sale of the High Street chain was announced on Wednesday.",
-          "published": "2026-10-07T16:43:51.000Z"
+          "snippet": "The research found that important guardrails for teens using ChatGPT often failed.",
+          "published": "2026-10-07T20:34:17.000Z"
         },
         {
           "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
@@ -18,7 +34,23 @@
           "source": "CNBC Business",
           "category": "markets",
           "snippet": "Constellation Brands beat earnings and revenue expectations as beer brands gained share, while inventory rebuilding and consumer caution clouded demand.",
-          "published": "2026-10-07T16:40:50.000Z"
+          "published": "2026-10-07T19:14:03.000Z"
+        },
+        {
+          "title": "Boots sold in £7bn deal to Canadian billionaire family",
+          "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The sale of the High Street chain was announced on Wednesday.",
+          "published": "2026-10-07T17:18:30.000Z"
+        },
+        {
+          "title": "No child should have to learn in a cold classroom - children's commissioner",
+          "link": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The EA suggests cost-saving measures as it warns school gas and electricity bills are set to rise.",
+          "published": "2026-10-07T17:15:26.000Z"
         },
         {
           "title": "Disney+ to stream upcoming Super Bowl",
@@ -35,14 +67,6 @@
           "category": "markets",
           "snippet": "Used vehicle prices are forecast to fall more than previously expected this year, according to Cox Automotive.",
           "published": "2026-10-07T16:25:52.000Z"
-        },
-        {
-          "title": "'Wear more clothes if it's cold,' schools told as energy bills rise",
-          "link": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The EA suggests cost-saving measures as it warns school gas and electricity bills are set to rise.",
-          "published": "2026-10-07T14:00:27.000Z"
         },
         {
           "title": "Ex-bankers jailed for rigging rates have convictions quashed",
@@ -171,30 +195,6 @@
           "category": "markets",
           "snippet": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
           "published": "2026-10-06T19:08:21.000Z"
-        },
-        {
-          "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-          "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-          "published": "2026-10-06T18:42:58.000Z"
-        },
-        {
-          "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-          "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
-          "published": "2026-10-06T17:50:19.000Z"
-        },
-        {
-          "title": "Roll-out begins for passport-free airport e-gates",
-          "link": "https://www.bbc.co.uk/news/articles/cmp3g5qg1gxzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The system uses facial technology to check travellers against immigration and passport information.",
-          "published": "2026-10-06T17:38:29.000Z"
         }
       ]
     },
@@ -202,68 +202,124 @@
       "label": "Tech Developments",
       "items": [
         {
-          "title": "The Apple Watch Series 12 is a good deal at $50 off",
-          "link": "https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale",
+          "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+          "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Several configurations of the Apple Watch Series 12 are $50 off for the first time for the remainder of Amazon’s Prime Big Deal Days. This includes both sizes (42mm and 46mm) of the GPS + Wi-Fi watches, as well as their pricier 5G-ready…",
-          "published": "2026-10-07T17:00:00.000Z"
+          "snippet": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The…",
+          "published": "2026-10-07T22:01:00.000Z"
         },
         {
-          "title": "The scariest thing about gray-market peptides is how little we know",
-          "link": "https://www.theverge.com/column/1006902/optimizer-bpc-157-gray-market-real-world-usage",
+          "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+          "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Finding concrete data…",
-          "published": "2026-10-07T17:00:00.000Z"
+          "snippet": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a…",
+          "published": "2026-10-07T21:19:54.000Z"
         },
         {
-          "title": "Windows and Surface live blog: On the ground at Microsoft’s event",
-          "link": "https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark",
+          "title": "Android s physical navigation buttons are back on Googlebooks, but not the way you think",
+          "link": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "We're in San Francisco today to hear what's next for Windows and Surface. Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang, and Windows and Surface chief Pavan Davuluri will all be holding a \"conversation on how local AI will shape…",
-          "published": "2026-10-07T16:31:13.000Z"
+          "snippet": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that's…",
+          "published": "2026-10-07T20:44:34.000Z"
         },
         {
-          "title": "Disney Plus will stream Super Bowl LXI",
-          "link": "https://www.theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming",
+          "title": "We found some great October Prime Day deals under $50",
+          "link": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Next year's Super Bowl is headed to Disney Plus. On Wednesday, Disney announced that viewers will be able to tune in to Super Bowl LXI on its streaming service when the game kicks off on February 14th, 2027. Disney Plus subscribers in the…",
-          "published": "2026-10-07T16:29:55.000Z"
+          "snippet": "Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sale that are $50 or less, many of which…",
+          "published": "2026-10-07T20:30:00.000Z"
         },
         {
-          "title": "A free mod for Titanfall 2 makes it one of the best VR games ever",
-          "link": "https://www.theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez",
-          "source": "The Verge",
+          "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
+          "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Titanfall has a special place in my heart. I've never felt such a rush in gaming since - leaping into the air with a jump pack, running on walls, summoning a giant mechanized battle suit that falls like a meteor from the sky, then letting…",
-          "published": "2026-10-07T16:15:00.000Z"
+          "snippet": "Pennsylvania reported 1,066 outbreak-linked cases on Wednesday.",
+          "published": "2026-10-07T20:01:14.000Z"
         },
         {
-          "title": "Doxxing Jane Doe",
-          "link": "https://www.theverge.com/report/1006636/jane-doe-cornell-dox",
-          "source": "The Verge",
+          "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
+          "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
+          "source": "Ars Technica",
           "category": "tech",
-          "snippet": "Who is Jane Doe? Online vigilantes have tried to expose the Cornell University student who filed a lawsuit accusing seven fraternity members of gang rape, and in so doing have invited a torrent of abuse on several other women. Her lawyers…",
-          "published": "2026-10-07T16:01:33.000Z"
+          "snippet": "TP-Link can't sell latest routers in US, still needs exemption from FCC ban.",
+          "published": "2026-10-07T19:53:42.000Z"
         },
         {
-          "title": "ChatGPT is getting college planning tools",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+          "title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
+          "link": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements,…",
-          "published": "2026-10-07T16:00:00.000Z"
+          "snippet": "Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day. The 55-inch Pro Series OLED is $699.99…",
+          "published": "2026-10-07T19:27:39.000Z"
         },
         {
-          "title": "Xreal’s most affordable display glasses are $50 off",
-          "link": "https://www.theverge.com/gadgets/1006064/xreal-xbx-ao1-plus-display-glasses-prime-day-deal-sale",
+          "title": "ChatGPT s Intelligent UI update fills its responses with pictures, charts, and buttons",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Xreal launched its xbx A01 Plus display glasses over the summer for $299, and they’re a decent value. The design and fit are more or less on-par with the company’s pricier 1S that are $399, though they don’t have my favorite feature:…",
-          "published": "2026-10-07T16:00:00.000Z"
+          "snippet": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a…",
+          "published": "2026-10-07T19:10:42.000Z"
+        },
+        {
+          "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
+          "link": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ultra and RTX Spark laptops from Dell,…",
+          "published": "2026-10-07T19:05:52.000Z"
+        },
+        {
+          "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
+          "link": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Altering molecular handedness has implications for the origins of life.",
+          "published": "2026-10-07T18:48:18.000Z"
+        },
+        {
+          "title": "It appears .agent and .agi are about to be the hot new domains",
+          "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as…",
+          "published": "2026-10-07T18:46:16.000Z"
+        },
+        {
+          "title": "Everything announced at Microsoft s Surface Laptop Ultra event",
+          "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that s powered by Nvidia s RTX Spark Arm-based…",
+          "published": "2026-10-07T18:42:22.000Z"
+        },
+        {
+          "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
+          "link": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "In renewed policy, pediatricians review the benefits of heating milk to kill germs.",
+          "published": "2026-10-07T18:24:39.000Z"
+        },
+        {
+          "title": "Microsoft is giving Copilot more control over Windows and your files",
+          "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling…",
+          "published": "2026-10-07T18:01:20.000Z"
+        },
+        {
+          "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+          "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
+          "published": "2026-10-07T17:57:39.000Z"
         },
         {
           "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
@@ -274,28 +330,12 @@
           "published": "2026-10-07T15:48:01.000Z"
         },
         {
-          "title": "Muse launches on the iPad",
-          "link": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to…",
-          "published": "2026-10-07T15:37:23.000Z"
-        },
-        {
           "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
           "link": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Trump's aggressive reshoring push could cost tech firms $230 billion, CTA estimates.",
           "published": "2026-10-07T15:19:05.000Z"
-        },
-        {
-          "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-          "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project…",
-          "published": "2026-10-07T14:40:52.000Z"
         },
         {
           "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
@@ -352,52 +392,68 @@
           "category": "tech",
           "snippet": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
           "published": "2026-10-06T20:50:32.000Z"
-        },
-        {
-          "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
-          "link": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "A combined service could lead to higher prices.",
-          "published": "2026-10-06T20:32:12.000Z"
-        },
-        {
-          "title": "It looks like the Atlantic storm season may finally produce a hurricane",
-          "link": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "To date, this Atlantic tropics year has been exceptionally quiet.",
-          "published": "2026-10-06T19:55:50.000Z"
-        },
-        {
-          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
-          "published": "2026-10-06T19:21:14.000Z"
-        },
-        {
-          "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
-          "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Paramount now owns Warner Bros. as last-ditch effort to stop $111B merger fails.",
-          "published": "2026-10-06T17:33:44.000Z"
-        },
-        {
-          "title": "Support Ars and get a better reading experience in return",
-          "link": "https://arstechnica.com/staff/2026/10/make-ars-better-with-an-arspro-subscription/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "ArsPro gives you more ways to read while directly supporting our journalism.",
-          "published": "2026-10-06T17:21:15.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Trump s Consumer Watchdog Is Going Easy On The Companies It s Supposed To Police",
+          "link": "https://abovethelaw.com/2026/10/trumps-consumer-watchdog-is-going-easy-on-the-companies-its-supposed-to-police/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Former CFPB officials say consumers could pay the price for the agency's lighter touch. The post Trump s Consumer Watchdog Is Going Easy On The Companies It s Supposed To Police appeared first on Above the Law .",
+          "published": "2026-10-07T21:32:00.000Z"
+        },
+        {
+          "title": "Justices wrestle with procedural dispute over Air Force’s munition detonations in Guam",
+          "link": "https://www.scotusblog.com/2026/10/justices-wrestle-with-procedural-dispute-over-air-forces-munition-detonations-in-guam/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Wednesday grappled with a lawsuit brought against the U.S. Air Force by a group that describes its mission as protecting Guam’s environment and culture. During roughly 75 minutes of oral argument in Department of the…",
+          "published": "2026-10-07T20:57:49.000Z"
+        },
+        {
+          "title": "Bird Watching: Hawks vs. Hawkeyes",
+          "link": "https://abovethelaw.com/2026/10/bird-watching-hawks-vs-hawkeyes/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "And the inevitable -- if stupid -- return of Richard Nixon. The post Bird Watching: Hawks vs. Hawkeyes appeared first on Above the Law .",
+          "published": "2026-10-07T20:43:00.000Z"
+        },
+        {
+          "title": "Sotomayor: Hey Judges, Maybe We Don t Arrest Potential Jurors For Being Late",
+          "link": "https://abovethelaw.com/2026/10/sotomayor-hey-judges-maybe-we-dont-arrest-potential-jurors-for-being-late/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The rest of the jury pool learned a harsh lesson. The post Sotomayor: Hey Judges, Maybe We Don t Arrest Potential Jurors For Being Late appeared first on Above the Law .",
+          "published": "2026-10-07T20:00:00.000Z"
+        },
+        {
+          "title": "EEOC Wants To Keep Biglaw Diversity Probe Docs Secret To Protect Firms It Publicly Accused",
+          "link": "https://abovethelaw.com/2026/10/eeoc-wants-to-keep-biglaw-diversity-probe-docs-secret-to-protect-firms-it-publicly-accused/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "And not at all because the documents would tend to prove a baseless shakedown. Perish that thought! The post EEOC Wants To Keep Biglaw Diversity Probe Docs Secret To Protect Firms It Publicly Accused appeared first on Above the Law .",
+          "published": "2026-10-07T19:15:00.000Z"
+        },
+        {
+          "title": "Lawyers Want A Watchdog To Look At Jeanine Pirro s Reflecting Pool Case. Good Luck Finding One.",
+          "link": "https://abovethelaw.com/2026/10/lawyers-want-a-watchdog-to-look-at-jeanine-pirros-reflecting-pool-case-good-luck-finding-one/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The case may be over, but there are still a lot of questions. The post Lawyers Want A Watchdog To Look At Jeanine Pirro s Reflecting Pool Case. Good Luck Finding One. appeared first on Above the Law .",
+          "published": "2026-10-07T18:32:00.000Z"
+        },
+        {
+          "title": "The Law Schools That Provide The ‘Best Value’ For Students (2026)",
+          "link": "https://abovethelaw.com/2026/10/the-law-schools-that-provide-the-best-value-for-students-2026/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Which law schools were able to crack this year's Top 20? The post The Law Schools That Provide The ‘Best Value’ For Students (2026) appeared first on Above the Law .",
+          "published": "2026-10-07T17:45:43.000Z"
+        },
         {
           "title": "Museum Closures Are Partly Due To Federal Hostility, But Also To Needless Corporatization Of Nonprofits",
           "link": "https://abovethelaw.com/2026/10/museum-closures-are-partly-due-to-federal-hostility-but-also-to-needless-corporatization-of-nonprofits/",
@@ -533,62 +589,6 @@
           "category": "legal",
           "snippet": "The Streisand Effect comes to the Fifth Circuit. The post James Ho Uses Opinion To Whine About People Accusing Judges Of Auditioning For Promotions appeared first on Above the Law .",
           "published": "2026-10-06T19:15:00.000Z"
-        },
-        {
-          "title": "What’s Next For Legal Operations?",
-          "link": "https://abovethelaw.com/2026/10/whats-next-for-legal-operations/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "How companies can set up foundational legal ops, on this episode of the ‘UpLevel View’ podcast. The post What’s Next For Legal Operations? appeared first on Above the Law .",
-          "published": "2026-10-06T18:32:00.000Z"
-        },
-        {
-          "title": "Justices debate which courts may hear constitutional challenges to laws on veterans’ benefits",
-          "link": "https://www.scotusblog.com/2026/10/justices-debate-which-courts-may-hear-constitutional-challenges-to-laws-on-veterans-benefits/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Monday considered whether federal district courts have the authority to hear certain constitutional challenges to laws affecting veterans’ benefits and, if they do, what types of constitutional challenges fall into…",
-          "published": "2026-10-06T18:02:11.000Z"
-        },
-        {
-          "title": "NCBE Has A New Plan To Avoid Another Gigantic Bar Exam Disaster",
-          "link": "https://abovethelaw.com/2026/10/ncbe-has-a-new-plan-to-avoid-another-gigantic-bar-exam-disaster/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The simple fix comes after Washington's inaugural NextGen exam was canceled. The post NCBE Has A New Plan To Avoid Another Gigantic Bar Exam Disaster appeared first on Above the Law .",
-          "published": "2026-10-06T17:48:00.000Z"
-        },
-        {
-          "title": "Samuel Alito Would Like Conservative Voters To Know His Seat Is On The Ballot",
-          "link": "https://abovethelaw.com/2026/10/samuel-alito-would-like-conservative-voters-to-know-his-seat-is-on-the-ballot/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "He's not retiring. He just wants to make sure you know he could. The post Samuel Alito Would Like Conservative Voters To Know His Seat Is On The Ballot appeared first on Above the Law .",
-          "published": "2026-10-06T17:01:00.000Z"
-        },
-        {
-          "title": "Job Of The Month: Senior Corporate And ECVC Counsel / Partner",
-          "link": "https://abovethelaw.com/2026/10/job-of-the-month-senior-title-insurance-underwriting-counsel-2-2/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "[Sponsored] The work is strategic and often highly bespoke. The post Job Of The Month: Senior Corporate And ECVC Counsel / Partner appeared first on Above the Law .",
-          "published": "2026-10-06T16:15:07.000Z"
-        },
-        {
-          "title": "AI In The Courtroom: The Rules Are Coming, Just Not How Lawyers Expect",
-          "link": "https://abovethelaw.com/2026/10/ai-in-the-courtroom-the-rules-are-coming-just-not-how-lawyers-expect/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The question isn’t when courts will 'catch up.' It’s whether lawyers understand that, in many ways, they already have. The post AI In The Courtroom: The Rules Are Coming, Just Not How Lawyers Expect appeared first on Above the Law .",
-          "published": "2026-10-06T15:32:00.000Z"
-        },
-        {
-          "title": "Relativity CEO Says 2028 Server Deadline Stands; Will Prioritize Partnering With Frontier Labs Over Legal AI Companies",
-          "link": "https://www.lawnext.com/2026/10/relativity-ceo-says-2028-server-deadline-stands-will-prioritize-partnering-with-frontier-labs-over-legal-ai-companies.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Relativity is holding firm on its plan to require that all new matters be hosted in the cloud beginning Jan. 1, 2028. The post Relativity CEO Says 2028 Server Deadline Stands; Will Prioritize Partnering With Frontier Labs Over Legal AI…",
-          "published": "2026-10-06T14:42:56.000Z"
         }
       ]
     }
