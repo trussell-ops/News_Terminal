@@ -1,9 +1,41 @@
 {
-  "updated": "2026-10-08T21:38:57.316Z",
+  "updated": "2026-10-09T01:33:43.915Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+          "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+          "published": "2026-10-08T23:14:02.000Z"
+        },
+        {
+          "title": "Why are more roofs not made of solar tiles?",
+          "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+          "published": "2026-10-08T23:09:56.000Z"
+        },
+        {
+          "title": "'Add me to WhatsApp' scam calls to be investigated",
+          "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
+          "published": "2026-10-08T23:05:09.000Z"
+        },
+        {
+          "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+          "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+          "published": "2026-10-08T23:01:16.000Z"
+        },
         {
           "title": "White House blocks Microsoft from foreign worker hiring program",
           "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
@@ -43,14 +75,6 @@
           "category": "markets",
           "snippet": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
           "published": "2026-10-08T18:17:28.000Z"
-        },
-        {
-          "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
-          "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
-          "published": "2026-10-08T17:58:25.000Z"
         },
         {
           "title": "Plans to shut Marston's Brewery in Burton revealed",
@@ -171,36 +195,36 @@
           "category": "markets",
           "snippet": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
           "published": "2026-10-08T04:02:26.000Z"
-        },
-        {
-          "title": "AI chip boom pushes Samsung profits to record $80bn",
-          "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
-          "published": "2026-10-08T01:59:54.000Z"
-        },
-        {
-          "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
-          "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
-          "published": "2026-10-08T00:53:46.000Z"
-        },
-        {
-          "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
-          "published": "2026-10-07T23:50:29.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "US plans livestream of execution by firing squad",
+          "link": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of…",
+          "published": "2026-10-08T22:32:04.000Z"
+        },
+        {
+          "title": "Anthropic launches free AI security scans for open-source projects",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at…",
+          "published": "2026-10-08T21:53:51.000Z"
+        },
+        {
+          "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+          "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+          "published": "2026-10-08T21:37:32.000Z"
+        },
         {
           "title": "SpaceX announces plan to become a ‘major mobile carrier’",
           "link": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
@@ -218,6 +242,22 @@
           "published": "2026-10-08T21:01:18.000Z"
         },
         {
+          "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+          "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
+          "published": "2026-10-08T20:53:01.000Z"
+        },
+        {
+          "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+          "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
+          "published": "2026-10-08T20:39:31.000Z"
+        },
+        {
           "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
           "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
           "source": "The Verge",
@@ -226,7 +266,15 @@
           "published": "2026-10-08T20:32:21.000Z"
         },
         {
-          "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+          "title": "Feds get ready to rewrite car headlight rules",
+          "link": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Reducing glare and allowing modern light technologies will be two goals.",
+          "published": "2026-10-08T20:26:13.000Z"
+        },
+        {
+          "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
           "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
           "source": "Ars Technica",
           "category": "tech",
@@ -278,7 +326,7 @@
           "link": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
           "source": "Ars Technica",
           "category": "tech",
-          "snippet": "\"[T]he Trump-RFK Jr anti-vax agenda keeps getting more corrupt and dangerous.\"",
+          "snippet": "\"[T]he Trump-RFK Jr. anti-vax agenda keeps getting more corrupt and dangerous.\"",
           "published": "2026-10-08T19:26:32.000Z"
         },
         {
@@ -298,28 +346,12 @@
           "published": "2026-10-08T18:48:36.000Z"
         },
         {
-          "title": "I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale",
-          "link": "https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "After covering Amazon’s October sale for the last few days, only one item found its way into my shopping cart, and, lucky for you, it’s still on sale after the event’s conclusion. Pokémon Legends: Z-A for the Nintendo Switch or Switch 2…",
-          "published": "2026-10-08T18:48:11.000Z"
-        },
-        {
           "title": "An experimental tour-de-force: Entanglement between glass bead and light",
           "link": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Getting a glass bead to act like a quantum object by entangling it with light.",
           "published": "2026-10-08T18:45:23.000Z"
-        },
-        {
-          "title": "Forza Horizon 6 is being delayed on PS5 to January 2027",
-          "link": "https://www.theverge.com/news/989314/forza-horizon-6-ps5-release-date-january-2027-delay",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Playground Games first revealed earlier this year that Forza Horizon 6 would be arriving on PS5 in 2026, but the launch is now being pushed back. I reported last month that there would be a delay to early next year, and Forza Horizon 6 is…",
-          "published": "2026-10-08T18:14:25.000Z"
         },
         {
           "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
@@ -360,44 +392,36 @@
           "category": "tech",
           "snippet": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
           "published": "2026-10-08T11:00:14.000Z"
-        },
-        {
-          "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Get ready for more AI in your Windows and more AI on the desktop.",
-          "published": "2026-10-08T00:00:24.000Z"
-        },
-        {
-          "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-          "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
-          "published": "2026-10-07T21:56:42.000Z"
-        },
-        {
-          "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
-          "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Pennsylvania reported 1,066 outbreak-linked cases on Wednesday.",
-          "published": "2026-10-07T20:01:14.000Z"
-        },
-        {
-          "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
-          "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "TP-Link can't sell latest routers in US, still needs exemption from FCC ban.",
-          "published": "2026-10-07T19:53:42.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "The World s Richest Law Firm Has Decided Money Isn t Everything See Also",
+          "link": "https://abovethelaw.com/2026/10/the-worlds-richest-law-firm-has-decided-money-isnt-everything-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Kirkland Ellis Is Done Sharing Its Revenue With The Media: Turns out $10 billion is right where the numbers stop providing 'meaningful value.' Biglaw Wants Lawyers Who Know How To Use AI : But some law schools are outright banning it.…",
+          "published": "2026-10-08T23:31:00.000Z"
+        },
+        {
+          "title": "He Dressed Like Davy Crocket And Won Like Perry Mason",
+          "link": "https://abovethelaw.com/2026/10/he-dressed-like-davy-crocket-and-won-like-perry-mason/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The undefeated country lawyer who dressed like he'd ridden in off the range. The post He Dressed Like Davy Crocket And Won Like Perry Mason appeared first on Above the Law .",
+          "published": "2026-10-08T23:00:00.000Z"
+        },
+        {
+          "title": "The Worst Of Us",
+          "link": "https://www.myshingle.com/2026/10/the-worst-of-us/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "AI didn’t create the problems we’re now seeing in the legal profession. It revealed them. The post The Worst Of Us appeared first on Above the Law .",
+          "published": "2026-10-08T22:15:00.000Z"
+        },
         {
           "title": "What The Walking Dead Taught Me About Business Development",
           "link": "https://abovethelaw.com/2026/10/what-the-walking-dead-taught-me-about-business-development/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "Some of the report's conclusions may be optimistic and there is a need to look at them critically. The post Everlaw’s 2026 AI Report: A Glass Half Full Or Half Empty? appeared first on Above the Law .",
           "published": "2026-10-07T22:15:00.000Z"
-        },
-        {
-          "title": "Trump s Consumer Watchdog Is Going Easy On The Companies It s Supposed To Police",
-          "link": "https://abovethelaw.com/2026/10/trumps-consumer-watchdog-is-going-easy-on-the-companies-its-supposed-to-police/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Former CFPB officials say consumers could pay the price for the agency's lighter touch. The post Trump s Consumer Watchdog Is Going Easy On The Companies It s Supposed To Police appeared first on Above the Law .",
-          "published": "2026-10-07T21:32:00.000Z"
-        },
-        {
-          "title": "Justices wrestle with procedural dispute over Air Force’s munition detonations in Guam",
-          "link": "https://www.scotusblog.com/2026/10/justices-wrestle-with-procedural-dispute-over-air-forces-munition-detonations-in-guam/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Wednesday grappled with a lawsuit brought against the U.S. Air Force by a group that describes its mission as protecting Guam’s environment and culture. During roughly 75 minutes of oral argument in Department of the…",
-          "published": "2026-10-07T20:57:49.000Z"
-        },
-        {
-          "title": "Bird Watching: Hawks vs. Hawkeyes",
-          "link": "https://abovethelaw.com/2026/10/bird-watching-hawks-vs-hawkeyes/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "And the inevitable -- if stupid -- return of Richard Nixon. The post Bird Watching: Hawks vs. Hawkeyes appeared first on Above the Law .",
-          "published": "2026-10-07T20:43:00.000Z"
         }
       ]
     }
