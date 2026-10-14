@@ -1,9 +1,33 @@
 {
-  "updated": "2026-10-13T21:54:30.645Z",
+  "updated": "2026-10-14T00:44:43.391Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "How long will humans be needed for translation?",
+          "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+          "published": "2026-10-13T23:05:29.000Z"
+        },
+        {
+          "title": "Is it OK for jobseekers or employers to use AI?",
+          "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+          "published": "2026-10-13T23:04:39.000Z"
+        },
+        {
+          "title": "Royal Mail losing 400 postal workers a week, says union",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+          "published": "2026-10-13T23:03:59.000Z"
+        },
         {
           "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
           "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
@@ -171,36 +195,44 @@
           "category": "markets",
           "snippet": "Delta planned to begin the route on Oct. 23, in what would have marked the first nonstop commercial flight between the U.S. and Saudi Arabia.",
           "published": "2026-10-12T15:48:28.000Z"
-        },
-        {
-          "title": "Why some have no choice but to pay costly oil prices",
-          "link": "https://www.bbc.co.uk/news/videos/cq4g1dn81y9xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Rural communities are badly hit by the rising cost of heating oil, as our Wiltshire reporter explains.",
-          "published": "2026-10-12T15:34:48.000Z"
-        },
-        {
-          "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-          "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
-          "published": "2026-10-12T15:03:42.000Z"
-        },
-        {
-          "title": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
-          "link": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "McDonald's is targeting growth in chicken and beverages, but Consumer Edge data shows Chick-fil-A and coffee chains gaining in customer spending.",
-          "published": "2026-10-12T14:56:42.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+          "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+          "published": "2026-10-13T22:48:12.000Z"
+        },
+        {
+          "title": "Apple’s HomeView ad is confusing to everyone except parents",
+          "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells.…",
+          "published": "2026-10-13T22:10:00.000Z"
+        },
+        {
+          "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+          "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
+          "published": "2026-10-13T21:55:49.000Z"
+        },
+        {
+          "title": "Topgolf saved over $11.3 million after leaving VMware",
+          "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Topgolf and VMware \"ran deep\" before the migration.",
+          "published": "2026-10-13T21:33:43.000Z"
+        },
         {
           "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
@@ -216,6 +248,14 @@
           "category": "tech",
           "snippet": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new…",
           "published": "2026-10-13T20:05:02.000Z"
+        },
+        {
+          "title": "Trump commercial railing against his enemies kept airing after court blocked it",
+          "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "US attorney apologized to court, said government has stopped running Trump ads.",
+          "published": "2026-10-13T19:50:37.000Z"
         },
         {
           "title": "Shopify opens its catalog up to more AI agents",
@@ -258,6 +298,22 @@
           "published": "2026-10-13T18:30:00.000Z"
         },
         {
+          "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+          "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+          "published": "2026-10-13T18:23:33.000Z"
+        },
+        {
+          "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
+          "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The higher prices are said to be unrelated to the Skydance merger.",
+          "published": "2026-10-13T18:06:06.000Z"
+        },
+        {
           "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
           "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
           "source": "The Verge",
@@ -280,14 +336,6 @@
           "category": "tech",
           "snippet": "Small EVs and efficient people carriers update familiar names for the modern age.",
           "published": "2026-10-13T17:33:20.000Z"
-        },
-        {
-          "title": "The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever",
-          "link": "https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you re looking for an e-reader that can easily fit in your pocket (or snap onto your magnet-equipped phone), the tiny Xteink X4 Pro might be worth a look. It features a 4.26-inch, 800 x 480 E Ink display, making it significantly…",
-          "published": "2026-10-13T17:19:31.000Z"
         },
         {
           "title": "Google wants to host your personal vibe-coded apps in the Play Store",
@@ -344,60 +392,36 @@
           "category": "tech",
           "snippet": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
           "published": "2026-10-12T20:59:50.000Z"
-        },
-        {
-          "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
-          "link": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "You can get a universe in your pocket if you have an iPhone 11 or later.",
-          "published": "2026-10-12T20:26:14.000Z"
-        },
-        {
-          "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
-          "link": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
-          "published": "2026-10-12T18:46:43.000Z"
-        },
-        {
-          "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-          "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "“I may have information regarding this case,\" Claude AI told Philly police.",
-          "published": "2026-10-12T18:21:36.000Z"
-        },
-        {
-          "title": "Russia was not ready for the data center war it started with Ukraine",
-          "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
-          "published": "2026-10-12T17:52:36.000Z"
-        },
-        {
-          "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-          "link": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
-          "published": "2026-10-12T16:01:08.000Z"
-        },
-        {
-          "title": "F1 in Singapore: There's a new fastest car now",
-          "link": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Also, F1’s final sprint saw our first real wet racing of the year.",
-          "published": "2026-10-12T14:43:14.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Trump Propaganda Ads Outlast Court Order Thanks To One Unopened Email See Also",
+          "link": "https://abovethelaw.com/2026/10/trump-propaganda-ads-outlast-court-order-thanks-to-one-unopened-email-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "DOJ's Excuse For Violating Judge's Order On Trump Propaganda Ads? Unread email. Quinn Makes A Few Changes : Quinn Emanuel's work from anywhere policy is a popular perk, but it's now got a few more restrictions . Ho Goes Style Over…",
+          "published": "2026-10-13T23:33:00.000Z"
+        },
+        {
+          "title": "This Biglaw Co-Founder s Side Project Was Engineering A Revolution",
+          "link": "https://abovethelaw.com/2026/10/this-biglaw-co-founders-side-project-was-engineering-a-revolution/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "He flipped a canal route, split a country from Colombia, and billed accordingly. The post This Biglaw Co-Founder s Side Project Was Engineering A Revolution appeared first on Above the Law .",
+          "published": "2026-10-13T23:00:00.000Z"
+        },
+        {
+          "title": "James Ho Demands First Amendment Right To Post Covert Bathroom Pics",
+          "link": "https://abovethelaw.com/2026/10/james-ho-demands-first-amendment-right-to-post-covert-bathroom-pics/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "But, remember, he insists he's not trying to audition for higher office. The post James Ho Demands First Amendment Right To Post Covert Bathroom Pics appeared first on Above the Law .",
+          "published": "2026-10-13T22:15:00.000Z"
+        },
         {
           "title": "‘Adventures In Legal Tech’: Where Knowledge Management Meets AI",
           "link": "https://abovethelaw.com/2026/10/adventures-in-legal-tech-where-knowledge-management-meets-ai/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "Lawyers for a group of Democratic candidates for the U.S. House of Representatives and the Senate, including Sen. Jon Ossoff of Georgia and former Sen. Sherrod Brown of Ohio, urged the Supreme Court on Saturday afternoon to leave in place…",
           "published": "2026-10-10T23:05:04.000Z"
-        },
-        {
-          "title": "Nobel Prize Winner Roasts Trump See Also",
-          "link": "https://abovethelaw.com/2026/10/nobel-prize-winner-roasts-trump-see-also/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "After The Cornell 7, It's Time To Hold Bystanders And Enablers Accountable: Accountability can't begin and end with the perpetrator(s). No Nobel Peace Prize For Trump : Instead, it went to a human rights lawyer, who made sure to crack a…",
-          "published": "2026-10-09T23:27:00.000Z"
-        },
-        {
-          "title": "The Prosecution That Defined An Era — And A Genre",
-          "link": "https://abovethelaw.com/2026/10/the-prosecution-that-defined-an-era-and-a-genre/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The prosecutor's signature case, and the true-crime classic it spawned. The post The Prosecution That Defined An Era — And A Genre appeared first on Above the Law .",
-          "published": "2026-10-09T23:02:00.000Z"
-        },
-        {
-          "title": "Cybersecurity Experts To Hospital Leaders: Think Beyond Traditional Disaster-Recovery Planning",
-          "link": "https://medcitynews.com/2026/10/cybersecurity-experts-to-hospital-leaders-think-beyond-traditional-disaster-recovery-planning/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Cybersecurity leaders discussed how AI-driven cybersecurity attacks pose a new level of risk for hospitals and health systems at Rubrik's Healthcare Summit last week. The post Cybersecurity Experts To Hospital Leaders: Think Beyond…",
-          "published": "2026-10-09T22:16:00.000Z"
         }
       ]
     }
