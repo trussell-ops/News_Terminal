@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-20T22:31:06.946Z",
+  "updated": "2026-10-21T01:08:07.334Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+          "published": "2026-10-20T23:24:47.000Z"
+        },
+        {
+          "title": "The tech helping crack decades-old cold cases",
+          "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+          "published": "2026-10-20T23:13:24.000Z"
+        },
         {
           "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
           "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
@@ -11,14 +27,6 @@
           "category": "markets",
           "snippet": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes",
           "published": "2026-10-20T22:29:45.000Z"
-        },
-        {
-          "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
-          "published": "2026-10-20T22:06:48.000Z"
         },
         {
           "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
@@ -187,20 +195,28 @@
           "category": "markets",
           "snippet": "FareShare South West says fuel costs are putting immense pressure on work helping thousands in need.",
           "published": "2026-10-20T05:15:16.000Z"
-        },
-        {
-          "title": "How is the US economy really doing under President Trump?",
-          "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-          "published": "2026-10-20T05:00:45.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "YouTube might be testing hiding the dislike button",
+          "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit…",
+          "published": "2026-10-21T00:00:56.000Z"
+        },
+        {
+          "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the…",
+          "published": "2026-10-20T23:04:19.000Z"
+        },
         {
           "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
           "link": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
@@ -218,12 +234,36 @@
           "published": "2026-10-20T22:11:34.000Z"
         },
         {
+          "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+          "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"I do think there's a lot of merit to combining the companies.\"",
+          "published": "2026-10-20T22:04:54.000Z"
+        },
+        {
+          "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+          "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+          "published": "2026-10-20T21:44:34.000Z"
+        },
+        {
           "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
           "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
           "source": "The Verge",
           "category": "tech",
           "snippet": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at…",
           "published": "2026-10-20T21:30:24.000Z"
+        },
+        {
+          "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+          "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+          "published": "2026-10-20T21:14:33.000Z"
         },
         {
           "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
@@ -274,14 +314,6 @@
           "published": "2026-10-20T20:20:12.000Z"
         },
         {
-          "title": "TikTok has started censoring searches for popular peptides",
-          "link": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility on TikTok for…",
-          "published": "2026-10-20T20:16:04.000Z"
-        },
-        {
           "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
           "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
           "source": "Ars Technica",
@@ -296,14 +328,6 @@
           "category": "tech",
           "snippet": "It's probably time to audit your Gemini settings.",
           "published": "2026-10-20T20:00:33.000Z"
-        },
-        {
-          "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-          "link": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great PC gaming companion that mimics the…",
-          "published": "2026-10-20T20:00:00.000Z"
         },
         {
           "title": "OpenBSD 8.0 arrives with security record still intact",
@@ -368,36 +392,116 @@
           "category": "tech",
           "snippet": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
           "published": "2026-10-20T14:53:07.000Z"
-        },
-        {
-          "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-          "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Meta is suspending the sharing feature while it investigates its privacy.",
-          "published": "2026-10-20T12:33:13.000Z"
-        },
-        {
-          "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-          "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Slate's first showroom sells the promise. Mass production will determine the rest.",
-          "published": "2026-10-20T11:00:16.000Z"
-        },
-        {
-          "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-          "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
-          "published": "2026-10-20T05:59:56.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "We’ll Get You And Merge With You: Weil Gotshal Is Shopping For A Merger Partner See Also",
+          "link": "https://abovethelaw.com/2026/10/well-get-you-and-merge-with-you-weil-gotshal-is-shopping-for-a-merger-partner-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The Inevitable Is Happening With Weil Gotshal Reportedly In Merger Talks: Denial held up for about a month. BBC Tells Judge What Trump’s ‘Matters Of National Importance’ Actually Were: A campaign rally and glad-handing donors stretches…",
+          "published": "2026-10-20T23:09:00.000Z"
+        },
+        {
+          "title": "One Of America’s Greatest Judges Ditched An Even More Unique First Name",
+          "link": "https://abovethelaw.com/2026/10/one-of-americas-greatest-judges-ditched-an-even-more-unique-first-name/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "He thought it sounded pompous, and went with 'Learned' instead. The post One Of America’s Greatest Judges Ditched An Even More Unique First Name appeared first on Above the Law .",
+          "published": "2026-10-20T22:13:00.000Z"
+        },
+        {
+          "title": "Harvey Now Connects To Legal Research Platform Midpage Through An MCP Connector",
+          "link": "https://www.lawnext.com/2026/10/harvey-now-connects-to-legal-research-platform-midpage-through-an-mcp-connector.html",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The connector makes Midpage’s research library of U.S. case law, statutes, regulations, and agency materials accessible from directly within Harvey. The post Harvey Now Connects To Legal Research Platform Midpage Through An MCP Connector…",
+          "published": "2026-10-20T21:32:00.000Z"
+        },
+        {
+          "title": "Will Your Firm Show You The Money This Bonus Season?",
+          "link": "https://abovethelaw.com/2026/10/will-your-firm-show-you-the-money-this-bonus-season/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Make your predictions and share your thoughts in our annual bonus season survey. The post Will Your Firm Show You The Money This Bonus Season? appeared first on Above the Law .",
+          "published": "2026-10-20T20:44:00.000Z"
+        },
+        {
+          "title": "Arizona Supreme Court Says Yes To A Law School Outside The ABA’s Accreditation System",
+          "link": "https://abovethelaw.com/2026/10/arizona-supreme-court-says-yes-to-a-law-school-outside-the-abas-accreditation-system/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "GCU’s new law school will operate under court oversight, and its graduates may be eligible to take the Arizona bar. The post Arizona Supreme Court Says Yes To A Law School Outside The ABA’s Accreditation System appeared first on Above the…",
+          "published": "2026-10-20T20:04:00.000Z"
+        },
+        {
+          "title": "DOJ Lawyers Will Show Up For The Golf Course Case But Signing The Brief Is Another Matter Entirely",
+          "link": "https://abovethelaw.com/2026/10/doj-lawyers-will-show-up-for-the-golf-course-case-but-signing-the-brief-is-another-matter-entirely/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The order is withdrawn, the question it asked is still there. The post DOJ Lawyers Will Show Up For The Golf Course Case But Signing The Brief Is Another Matter Entirely appeared first on Above the Law .",
+          "published": "2026-10-20T19:13:00.000Z"
+        },
+        {
+          "title": "Trump Too Busy For A Deposition, Not Too Busy For A Campaign Rally",
+          "link": "https://abovethelaw.com/2026/10/trump-too-busy-for-a-deposition-not-too-busy-for-a-campaign-rally/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "He sued them, remember. The post Trump Too Busy For A Deposition, Not Too Busy For A Campaign Rally appeared first on Above the Law .",
+          "published": "2026-10-20T18:32:00.000Z"
+        },
+        {
+          "title": "Accounting Firms Are Learning The Legal Business. Lawyers Need To Learn The Accounting.",
+          "link": "https://abovethelaw.com/2026/10/accounting-firms-are-learning-the-legal-business-lawyers-need-to-learn-the-accounting/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "There is a difference between improving the business of law and allowing the economics of that business to interfere with the practice of law. The post Accounting Firms Are Learning The Legal Business. Lawyers Need To Learn The…",
+          "published": "2026-10-20T17:47:00.000Z"
+        },
+        {
+          "title": "AI Innovation On Trial",
+          "link": "https://abovethelaw.com/2026/10/ai-innovation-on-trial/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "RelFest asked the key question -- who is doing the innovating. The post AI Innovation On Trial appeared first on Above the Law .",
+          "published": "2026-10-20T17:01:00.000Z"
+        },
+        {
+          "title": "Federal Clerks Can Now Get A $205K Bonus At This Prestigious Law Firm",
+          "link": "https://abovethelaw.com/2026/10/federal-clerks-can-now-get-a-205k-bonus-at-this-prestigious-law-firm/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Hueston Hennigan’s new bonus outstrips even the $200,000 offers for multiple clerkships at rival firms. The post Federal Clerks Can Now Get A $205K Bonus At This Prestigious Law Firm appeared first on Above the Law .",
+          "published": "2026-10-20T16:17:55.000Z"
+        },
+        {
+          "title": "Weil Gotshal Is Reportedly Negotiating A Merger, About A Month After Saying It Wasn’t In Merger Talks",
+          "link": "https://abovethelaw.com/2026/10/weil-gotshal-is-reportedly-negotiating-a-merger-about-a-month-after-saying-it-wasnt-in-merger-talks/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Strengthening the platform, as promised. The post Weil Gotshal Is Reportedly Negotiating A Merger, About A Month After Saying It Wasn’t In Merger Talks appeared first on Above the Law .",
+          "published": "2026-10-20T15:35:46.000Z"
+        },
+        {
+          "title": "NetDocuments Inspire Conference: It’s Not A Rock Concert",
+          "link": "https://abovethelaw.com/2026/10/netdocuments-inspire-conference-its-not-a-rock-concert/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The NetDocuments way: Practical sessions and the courage to take on some challenging topics. The post NetDocuments Inspire Conference: It’s Not A Rock Concert appeared first on Above the Law .",
+          "published": "2026-10-20T14:45:00.000Z"
+        },
+        {
+          "title": "Why The Midterms Could Matter For Ukraine Aid",
+          "link": "https://breakingdefense.com/2026/10/why-the-midterms-could-matter-for-ukraine-aid/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Democrats say a victory in November would put military assistance to Kyiv back on the congressional agenda. The post Why The Midterms Could Matter For Ukraine Aid appeared first on Above the Law .",
+          "published": "2026-10-20T14:03:00.000Z"
+        },
         {
           "title": "The separation and expansion of powers between Congress and the president",
           "link": "https://www.scotusblog.com/2026/10/the-separation-and-expansion-of-powers-between-congress-and-the-president/",
@@ -419,176 +523,72 @@
           "link": "https://www.scotusblog.com/2026/10/justices-grant-two-significant-cases/",
           "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Mark your calendars for Thursday, Oct. 29, at 1 p.m. EDT, when Amy will join Briefly’s Adam Stofsky on LinkedIn Live to discuss what unfolded at the Supreme Court this month. Register here for the event. At the Court The Supreme Court on…",
+          "snippet": "The cases address race and school admissions and the federal ban on home distilleries.",
           "published": "2026-10-20T13:00:00.000Z"
         },
         {
-          "title": "Supreme Court declines to take up cases on vehicle seizures in Chicago, 9/11 plea disputes, and the president’s removal of National Labor Relations Board members",
-          "link": "https://www.scotusblog.com/2026/10/supreme-court-declines-to-take-up-cases-on-vehicle-seizures-in-chicago-911-plea-disputes-and-the/",
-          "source": "SCOTUSblog",
+          "title": "Morning Docket: 10.20.26",
+          "link": "https://abovethelaw.com/2026/10/morning-docket-10-20-26/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "For the second week in a row, Justice Sonia Sotomayor penned a statement regarding the denial of review that was joined by Justice Neil Gorsuch. Sotomayor’s opinion in O’Donnell v. City of Chicago , a challenge to the city’s policy of…",
-          "published": "2026-10-19T17:13:00.000Z"
+          "snippet": "* Cooley ready for AI to upend billable hours. [ Business Insider ] * Judge Reyes is getting a lot of abuse on social media for finally telling the government to follow the rules. [ One First ] * Book deals prevent Supreme Court from…",
+          "published": "2026-10-20T12:57:00.000Z"
         },
         {
-          "title": "Justices take up case on race and school admissions",
-          "link": "https://www.scotusblog.com/2026/10/justices-take-up-case-on-race-and-school-admissions/",
-          "source": "SCOTUSblog",
+          "title": "Impulse Control Sets Stage For Benchslap See Also",
+          "link": "https://abovethelaw.com/2026/10/impulse-control-sets-stage-for-benchslap-see-also/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "The Supreme Court will hear oral argument early next year in Association for Education Fairness v. Montgomery County Board of Education , a challenge to the process that a Maryland county uses to determine who will be admitted to a group…",
-          "published": "2026-10-19T15:17:17.000Z"
+          "snippet": "Trump Attacks Judge Reyes Before Dawn, Plaintiffs Have To Let Her Know Before Court: The plaintiffs even sic’d him. Freshfields Now Has ‘Enormous Respect’ For The ‘Discerning Leadership’ Its Leaked Email Said Was Lacking: Better than…",
+          "published": "2026-10-19T23:32:00.000Z"
         },
         {
-          "title": "Supreme Court agrees to consider federal ban on home distilleries",
-          "link": "https://www.scotusblog.com/2026/10/supreme-court-agrees-to-consider-federal-ban-on-home-distilleries/",
-          "source": "SCOTUSblog",
+          "title": "Supreme Court Hopeful s Historic Video Rentals",
+          "link": "https://abovethelaw.com/2026/10/supreme-court-hopefuls-historic-video-rentals/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "The Supreme Court has agreed to weigh in on the constitutionality of an 1868 federal law that imposes a tax on distilled spirits but also bans home distilleries – that is, the at-home production of spirits like bourbon and whiskey. The…",
-          "published": "2026-10-19T14:12:27.000Z"
+          "snippet": "A blockbuster collection. The post Supreme Court Hopeful s Historic Video Rentals appeared first on Above the Law .",
+          "published": "2026-10-19T23:00:00.000Z"
         },
         {
-          "title": "Where the Supreme Court favors Trump on the emergency docket – and where it doesn’t",
-          "link": "https://www.scotusblog.com/2026/10/where-the-supreme-court-favors-trump-on-the-emergency-docket-and-where-it-doesnt/",
-          "source": "SCOTUSblog",
+          "title": "Agentic Commerce Is About To Become A Contracting Problem",
+          "link": "https://abovethelaw.com/2026/10/agentic-commerce-is-about-to-become-a-contracting-problem/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "In August 2024, the Biden administration asked the Supreme Court to partially lift lower-court injunctions blocking its new Title IX regulations, which expanded protections against sex discrimination in education. The justices refused.…",
-          "published": "2026-10-19T13:30:00.000Z"
+          "snippet": "Agents will need structured positions, contextual rules, and clear escalation paths. The post Agentic Commerce Is About To Become A Contracting Problem appeared first on Above the Law .",
+          "published": "2026-10-19T22:16:00.000Z"
         },
         {
-          "title": "Trump administration asks SCOTUS to limit lower courts’ power",
-          "link": "https://www.scotusblog.com/2026/10/trump-administration-asks-scotus-to-limit-lower-courts-power/",
-          "source": "SCOTUSblog",
+          "title": "Pitchforks To The Barricades!",
+          "link": "https://abovethelaw.com/2026/10/pitchforks-to-the-barricades/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "John Jay , the first chief justice, was sworn in on this day in 1789. At the Court In a new petition for review , the Trump administration asked the Supreme Court to limit courts’ ability to vacate federal agency actions. For more on the…",
-          "published": "2026-10-19T13:00:00.000Z"
+          "snippet": "A 'boys will be boys' approach works for many -- but not all -- political things. The post Pitchforks To The Barricades! appeared first on Above the Law .",
+          "published": "2026-10-19T21:33:00.000Z"
         },
         {
-          "title": "Trump administration asks justices to determine courts’ ability to vacate federal agency actions",
-          "link": "https://www.scotusblog.com/2026/10/trump-administration-asks-justices-to-determine-courts-ability-to-vacate-federal-agency-actions/",
-          "source": "SCOTUSblog",
+          "title": "Legal Ethics Roundup: Who Gets To Call Themselves A Lawyer?, Judge Pulls Gun In Court, Law Firms That Capitulated, Prosecutorial Misconduct, ABA DQ Bid Rejected, AI + A2J More",
+          "link": "https://abovethelaw.com/2026/10/legal-ethics-roundup-who-gets-to-call-themselves-a-lawyer-judge-pulls-gun-in-court-law-firms-that-capitulated-prosecutorial-misconduct-aba-dq-bid-rejected-ai-a2j-more/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "The Trump administration has asked the Supreme Court to weigh in on whether and when a federal court can throw out an agency’s action or rule in its entirety. In a 29-page filing docketed on Wednesday, U.S. Solicitor General D. John Sauer…",
-          "published": "2026-10-16T21:27:11.000Z"
+          "snippet": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson. The post Legal Ethics Roundup: Who Gets To Call Themselves A Lawyer?, Judge Pulls Gun In Court, Law Firms That…",
+          "published": "2026-10-19T20:44:00.000Z"
         },
         {
-          "title": "Court unlikely to alter deference to sentencing guidelines commentary",
-          "link": "https://www.scotusblog.com/2026/10/court-unlikely-to-alter-deference-to-sentencing-guidelines-commentary/",
-          "source": "SCOTUSblog",
+          "title": "The Defense Bar In The Age Of AI: Running A Red Queen’s Race?",
+          "link": "https://abovethelaw.com/2026/10/the-defense-bar-in-the-age-of-ai-running-a-red-queens-race/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "In Beaird v. United States , argued on Tuesday, Oct. 13, the Supreme Court considered when courts should defer to the U.S. Sentencing Commission’s commentary interpreting the federal sentencing guidelines . More specifically, the question…",
-          "published": "2026-10-16T20:38:06.000Z"
+          "snippet": "The mismatch between the talent and resources of plaintiffs' firms and those of defense firms is widening. The post The Defense Bar In The Age Of AI: Running A Red Queen’s Race? appeared first on Above the Law .",
+          "published": "2026-10-19T20:04:00.000Z"
         },
         {
-          "title": "Getting the Second Amendment right",
-          "link": "https://www.scotusblog.com/2026/10/getting-the-second-amendment-right/",
-          "source": "SCOTUSblog",
+          "title": "Judge Says A $3,000 Hourly Rate Is Patently Unreasonable",
+          "link": "https://abovethelaw.com/2026/10/judge-says-a-3000-hourly-rate-is-patently-unreasonable/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "Updated on Oct. 16 at 5:20 p.m. In New York State Rifle & Pistol Ass’n v. Bruen , the Supreme Court announced something that may seem technical, but has great importance to how the Second Amendment is to be enforced in courts. It gave…",
-          "published": "2026-10-16T16:30:00.000Z"
-        },
-        {
-          "title": "The Supreme Court and the midterms",
-          "link": "https://www.scotusblog.com/2026/10/the-supreme-court-and-the-midterms/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "With the 2026 midterm elections less than three weeks away, Republicans and Democrats have, unsurprisingly, put the Supreme Court in the spotlight. “I think it’s important to remind some of these Republicans who are not energized yet that…",
-          "published": "2026-10-16T13:30:00.000Z"
-        },
-        {
-          "title": "An immigration-heavy term",
-          "link": "https://www.scotusblog.com/2026/10/an-immigration-heavy-term/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a bipartisan group of states and the NFL are urging SCOTUS to rule on prediction markets.",
-          "published": "2026-10-16T13:00:00.000Z"
-        },
-        {
-          "title": "Challengers ask court to pause agreement between Texas and the DOJ on deportation proceedings",
-          "link": "https://www.scotusblog.com/2026/10/challengers-ask-court-to-pause-agreement-between-texas-and-the-doj-on-deportation-proceedings/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Three cities and a group that provides legal services to immigrants came to the Supreme Court , asking the justices to pause an agreement between Texas and the Department of Justice that they described as the product of “egregious…",
-          "published": "2026-10-15T20:38:00.000Z"
-        },
-        {
-          "title": "The Second Amendment and AR-15s: an unexplained betrayal of originalism?",
-          "link": "https://www.scotusblog.com/2026/10/the-second-amendment-and-ar-15s-an-unexplained-betrayal-of-originalism/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Last month, I provided a short discussion of the upcoming AR-15 rifle ban case, Viramontes v. Cook County , noting that the 2008 pathbreaking Second Amendment decision, District of Columbia v. Heller , ended by adding a “Part III” that…",
-          "published": "2026-10-15T18:56:17.000Z"
-        },
-        {
-          "title": "The Tribal Supreme Court Project",
-          "link": "https://www.scotusblog.com/2026/10/the-tribal-supreme-court-project/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Native American Rights Fund recently celebrated the 25th anniversary of the Tribal Supreme Court Project , an initiative designed to establish an infrastructure that would allow tribal interests to reach better outcomes in Supreme…",
-          "published": "2026-10-15T14:00:00.000Z"
-        },
-        {
-          "title": "The immigration term",
-          "link": "https://www.scotusblog.com/2026/10/the-immigration-term/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "On Tuesday, the Supreme Court added Blanche v. Ozurumba , a case on whether someone who worked as a cook for a terrorist organization is eligible for asylum protections, to its oral argument docket for the 2026-27 term. Even before that…",
-          "published": "2026-10-15T13:30:00.000Z"
-        },
-        {
-          "title": "SCOTUS considers new take on old law",
-          "link": "https://www.scotusblog.com/2026/10/scotus-considers-new-take-on-old-law/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, a political ad rate decision on the interim docket.",
-          "published": "2026-10-15T13:00:00.000Z"
-        },
-        {
-          "title": "Justices grant Trump administration’s request to pause lower court ruling in political ad rate dispute",
-          "link": "https://www.scotusblog.com/2026/10/justices-grant-trump-administrations-request-to-pause-lower-court-ruling-in-political-ad-rate-di/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Wednesday cleared the way for political parties and joint fundraising committees to continue to receive favorable advertising rates in the run-up to the 2026 election. In a five-page, unsigned opinion , the justices…",
-          "published": "2026-10-14T23:47:33.000Z"
-        },
-        {
-          "title": "Court appears likely to allow internet suit based on decades-old video privacy law to go forward",
-          "link": "https://www.scotusblog.com/2026/10/court-appears-likely-to-allow-internet-suit-based-on-decades-old-video-privacy-law-to-go-forward/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Wednesday seemed likely to let a lawsuit brought by a Tennessee man alleging that a website owned by entertainment giant Paramount Global violated a 1988 video privacy law when it shared information with Facebook go…",
-          "published": "2026-10-14T18:46:22.000Z"
-        },
-        {
-          "title": "Hooch, hardball, and Halloween",
-          "link": "https://www.scotusblog.com/2026/10/hooch-hardball-and-halloween/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Relist Watch column examines cert petitions that the Supreme Court has “relisted” for its upcoming conference. A short explanation of relists is available here . The Supreme Court has disposed of four of last week’s 14 relists and…",
-          "published": "2026-10-14T15:30:00.000Z"
-        },
-        {
-          "title": "Witnessing a reorientation of the First and Second Amendments on the Roberts court",
-          "link": "https://www.scotusblog.com/2026/10/witnessing-a-reorientiaton-of-the-first-and-second-amendments-on-the-roberts-court/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. *** This is the third part in a series for SCOTUSblog recounting two decades of…",
-          "published": "2026-10-14T13:30:00.000Z"
-        },
-        {
-          "title": "Justices grant three cases",
-          "link": "https://www.scotusblog.com/2026/10/justices-grant-three-cases/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, key takeaways from the Interim Relief Docket Stat Pack for the 2025-26 term.",
-          "published": "2026-10-14T13:00:00.000Z"
-        },
-        {
-          "title": "Court grants cases on DOGE data dispute, prisoners’ rights, and what qualifies as “material support” for terrorism",
-          "link": "https://www.scotusblog.com/2026/10/court-grants-cases-on-doge-data-dispute-what-qualifies-as-material-support-/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Updated on Oct. 13 at 2:29 p.m. EDT The Supreme Court on Tuesday added three new cases to its oral argument docket for the 2026-27 term, agreeing to decide, among other things, what kinds of orders trial courts can issue in disputes over…",
-          "published": "2026-10-13T14:53:35.000Z"
+          "snippet": "That rate may be getting harder to justify in court, even as some Biglaw partners charge $4,000. The post Judge Says A $3,000 Hourly Rate Is Patently Unreasonable appeared first on Above the Law .",
+          "published": "2026-10-19T19:13:00.000Z"
         }
       ]
     }
