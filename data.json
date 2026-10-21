@@ -1,16 +1,40 @@
 {
-  "updated": "2026-10-21T01:08:07.334Z",
+  "updated": "2026-10-21T06:11:35.225Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
+          "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+          "published": "2026-10-21T06:08:04.000Z"
+        },
+        {
+          "title": "Elon Musk considering Tesla-SpaceX merger",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-          "published": "2026-10-20T23:24:47.000Z"
+          "published": "2026-10-21T05:48:46.000Z"
+        },
+        {
+          "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+          "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
+          "published": "2026-10-21T05:00:54.000Z"
+        },
+        {
+          "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+          "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+          "published": "2026-10-21T04:13:14.000Z"
         },
         {
           "title": "The tech helping crack decades-old cold cases",
@@ -83,14 +107,6 @@
           "category": "markets",
           "snippet": "Revolut was one of the hardest hit, with banking services going down for many customers.",
           "published": "2026-10-20T18:03:19.000Z"
-        },
-        {
-          "title": "UK government to make Jackdaw gas field announcement",
-          "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
-          "published": "2026-10-20T17:33:42.000Z"
         },
         {
           "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
@@ -179,28 +195,20 @@
           "category": "markets",
           "snippet": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
           "published": "2026-10-20T08:55:02.000Z"
-        },
-        {
-          "title": "What is the Budget and what could be in it?",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-          "published": "2026-10-20T08:31:36.000Z"
-        },
-        {
-          "title": "Food aid charity under pressure from fuel costs",
-          "link": "https://www.bbc.co.uk/news/articles/cqy0rxw37x2eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "FareShare South West says fuel costs are putting immense pressure on work helping thousands in need.",
-          "published": "2026-10-20T05:15:16.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "PHP warns it plans to release 2 emergency patches imminently",
+          "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+          "published": "2026-10-21T02:12:18.000Z"
+        },
         {
           "title": "YouTube might be testing hiding the dislike button",
           "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Meta argues nobody “decided” to pirate books to train AI.",
           "published": "2026-10-20T17:40:20.000Z"
-        },
-        {
-          "title": "Polestar tries to quantify what it’s like to drive a performance car",
-          "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
-          "published": "2026-10-20T14:53:07.000Z"
         }
       ]
     },
