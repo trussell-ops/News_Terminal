@@ -1,16 +1,32 @@
 {
-  "updated": "2026-10-26T17:55:21.998Z",
+  "updated": "2026-10-26T22:06:41.128Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+          "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
+          "published": "2026-10-26T21:18:07.000Z"
+        },
         {
           "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
           "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
-          "published": "2026-10-26T17:20:54.000Z"
+          "published": "2026-10-26T19:57:23.000Z"
+        },
+        {
+          "title": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+          "link": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "The Federal Trade Commission and 20 states have filed a lawsuit against Dollar General, claiming the retailer has charged customers more than advertised prices.",
+          "published": "2026-10-26T18:37:01.000Z"
         },
         {
           "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
@@ -179,28 +195,92 @@
           "category": "markets",
           "snippet": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
           "published": "2026-10-24T00:36:47.000Z"
-        },
-        {
-          "title": "How does the UK state pension compare with other countries?",
-          "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Do British pensioners have it better or worse than those in other countries?",
-          "published": "2026-10-24T00:09:12.000Z"
-        },
-        {
-          "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-          "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-          "published": "2026-10-24T00:05:45.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+          "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B H Photo) and the 512GB version $99 (Amazon, B H Photo).…",
+          "published": "2026-10-26T21:56:36.000Z"
+        },
+        {
+          "title": "Anthropic is burning gas to feed the AI boom",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In…",
+          "published": "2026-10-26T21:45:31.000Z"
+        },
+        {
+          "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+          "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Case study gives a whole new meaning to \"bedroom eyes.\"",
+          "published": "2026-10-26T20:27:00.000Z"
+        },
+        {
+          "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+          "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes .",
+          "published": "2026-10-26T20:15:07.000Z"
+        },
+        {
+          "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+          "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Included is the ability to limit which applications Siri can directly access.",
+          "published": "2026-10-26T20:04:16.000Z"
+        },
+        {
+          "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+          "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Apple claims this is the most significant update ever for the iPad mini line.",
+          "published": "2026-10-26T19:04:40.000Z"
+        },
+        {
+          "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+          "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously…",
+          "published": "2026-10-26T18:51:06.000Z"
+        },
+        {
+          "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+          "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+          "published": "2026-10-26T18:50:41.000Z"
+        },
+        {
+          "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+          "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday…",
+          "published": "2026-10-26T18:22:06.000Z"
+        },
+        {
+          "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+          "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
+          "published": "2026-10-26T18:09:08.000Z"
+        },
         {
           "title": "The RealReal won’t let AI agents hog designer clothing",
           "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
@@ -216,6 +296,14 @@
           "category": "tech",
           "snippet": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the…",
           "published": "2026-10-26T17:28:07.000Z"
+        },
+        {
+          "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+          "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Investigators explain how highway thieves stole $100M in data center equipment.",
+          "published": "2026-10-26T17:26:36.000Z"
         },
         {
           "title": "Nothing s eye-catching Ear 3A earbuds are matching their best price to date",
@@ -242,44 +330,20 @@
           "published": "2026-10-26T17:00:00.000Z"
         },
         {
+          "title": "Some iPhone Duo screens are already failing",
+          "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+          "published": "2026-10-26T16:51:49.000Z"
+        },
+        {
           "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
           "link": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review",
           "source": "The Verge",
           "category": "tech",
           "snippet": "When Sony announced the WH-1000XM4C headphones, I was perplexed. A product revamp usually includes at least one or two significant improvements. Or if it's a nostalgia play, it's from a decades-old product and not one that came out in…",
           "published": "2026-10-26T16:45:00.000Z"
-        },
-        {
-          "title": "Instagram chases YouTube with a push for longer, widescreen videos",
-          "link": "https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Instagram is announcing a big push into longform horizontal video, which the platform is calling \"Features.\" Instagram boss Adam Mosseri has been against doing longform video on the platform \"for a long time,\" he says in a…",
-          "published": "2026-10-26T16:05:44.000Z"
-        },
-        {
-          "title": "Microsoft offers buyouts to 60,000 employees",
-          "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave…",
-          "published": "2026-10-26T15:58:27.000Z"
-        },
-        {
-          "title": "T-Mobile’s new plans include swappable subscription perks",
-          "link": "https://www.theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "T-Mobile is launching new \"T-Mix\" plans that bundle wireless service with subscriptions to services like Netflix, Apple TV, YouTube Premium, Xbox Game Pass Ultimate, device promotions, and more, as reported earlier by Fierce Network. The…",
-          "published": "2026-10-26T15:39:54.000Z"
-        },
-        {
-          "title": "Microsoft s new Surface Laptop Ultra update fixes reboot and display bugs",
-          "link": "https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22nd release addresses three notable issues in particular: screen flickering,…",
-          "published": "2026-10-26T15:28:11.000Z"
         },
         {
           "title": "F1 in Texas: The American race that fans love to attend",
@@ -290,7 +354,7 @@
           "published": "2026-10-26T14:48:24.000Z"
         },
         {
-          "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
+          "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
           "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
           "source": "Ars Technica",
           "category": "tech",
@@ -328,124 +392,12 @@
           "category": "tech",
           "snippet": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
           "published": "2026-10-23T22:48:25.000Z"
-        },
-        {
-          "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-          "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
-          "published": "2026-10-23T20:28:43.000Z"
-        },
-        {
-          "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-          "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-          "published": "2026-10-23T20:19:55.000Z"
-        },
-        {
-          "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
-          "link": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Space Force considering options: public-private, federal installation, state land.",
-          "published": "2026-10-23T19:33:58.000Z"
-        },
-        {
-          "title": "Spotify ramps up policy enforcement on family plans",
-          "link": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "If you share Spotify sub with family, you may need to scan QR code to prove it.",
-          "published": "2026-10-23T19:20:27.000Z"
-        },
-        {
-          "title": "Crows can evaluate visual info twice as fast as mammals",
-          "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Birds' compact nervous system seems to help them handle tasks very quickly.",
-          "published": "2026-10-23T17:32:58.000Z"
-        },
-        {
-          "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-          "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-          "published": "2026-10-23T17:18:31.000Z"
-        },
-        {
-          "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
-          "link": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said.",
-          "published": "2026-10-23T16:58:39.000Z"
-        },
-        {
-          "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
-          "link": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Corporate phishing tests are common, but this one was especially cruel.",
-          "published": "2026-10-23T16:51:59.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
-        {
-          "title": "Fortune 500 Healthcare Company Asks For AI To Negotiate Contracts With No Human Lawyers",
-          "link": "https://abovethelaw.com/2026/10/fortune-500-healthcare-company-asks-for-ai-to-negotiate-contracts-with-no-human-lawyers/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "In other news, Fortune 500 healthcare company about to be in all kinds of legal trouble. The post Fortune 500 Healthcare Company Asks For AI To Negotiate Contracts With No Human Lawyers appeared first on Above the Law .",
-          "published": "2026-10-26T17:42:00.000Z"
-        },
-        {
-          "title": "Ninth Circuit Bats Around DOJ Lawyer In CA ‘Emergency’ Vote Purge",
-          "link": "https://abovethelaw.com/2026/10/ninth-circuit-bats-around-doj-lawyer-in-ca-emergency-vote-purge/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "They're not sending their best. The post Ninth Circuit Bats Around DOJ Lawyer In CA ‘Emergency’ Vote Purge appeared first on Above the Law .",
-          "published": "2026-10-26T17:05:28.000Z"
-        },
-        {
-          "title": "This Biglaw Firm s New Year s Resolution? Pay Associates On The $235K Salary Scale",
-          "link": "https://abovethelaw.com/2026/10/this-biglaw-firms-new-years-resolution-pay-associates-on-the-235k-salary-scale/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Associates at this top firm will have bigger paychecks to look forward to in 2027. The post This Biglaw Firm s New Year s Resolution? Pay Associates On The $235K Salary Scale appeared first on Above the Law .",
-          "published": "2026-10-26T16:12:00.000Z"
-        },
-        {
-          "title": "Weil’s Incoming Leader Won’t Take The Job, And Might Take One At Simpson Thacher Instead",
-          "link": "https://abovethelaw.com/2026/10/weils-incoming-leader-wont-take-the-job-and-might-take-one-at-simpson-thacher-instead/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "So.... who's going to be running Weil next year? The post Weil’s Incoming Leader Won’t Take The Job, And Might Take One At Simpson Thacher Instead appeared first on Above the Law .",
-          "published": "2026-10-26T15:33:45.000Z"
-        },
-        {
-          "title": "ClioCon 2026: Keynotes, Educational Sessions, And Parties. What’s On The Horizon?",
-          "link": "https://abovethelaw.com/2026/10/cliocon-2026-keynotes-educational-sessions-and-parties-whats-on-the-horizon/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Of all the vendor conferences, this is known as one of the most extravagant. Its theme this year, Go Beyond Limits, is pretty descriptive of the ClioCon way. The post ClioCon 2026: Keynotes, Educational Sessions, And Parties. What’s On…",
-          "published": "2026-10-26T14:47:06.000Z"
-        },
-        {
-          "title": "Congress’s Patient Matching Fix Won’t Work — Here’s What Would",
-          "link": "https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The MATCH IT Act aims to reduce patient matching errors. But a model used by vital records systems could provide a better solution. The post Congress’s Patient Matching Fix Won’t Work — Here’s What Would appeared first on Above the Law .",
-          "published": "2026-10-26T14:03:00.000Z"
-        },
         {
           "title": "The Supreme Court as agent of the people",
           "link": "https://www.scotusblog.com/2026/10/the-supreme-court-as-agent-of-the-people/",
@@ -471,124 +423,172 @@
           "published": "2026-10-26T13:00:00.000Z"
         },
         {
-          "title": "Morning Docket: 10.26.26",
-          "link": "https://abovethelaw.com/2026/10/morning-docket-10-26-26/",
-          "source": "Above the Law",
+          "title": "The Ten Commandments, classroom walls, and the establishment clause",
+          "link": "https://www.scotusblog.com/2026/10/the-ten-commandments-classroom-walls-and-the-establishment-clause/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "* Weil's incoming executive partner abruptly tells firm she's not taking the job. [ Bloomberg Law ] * SEC plans to start testing financial firm vulnerability to cyberattack. †[ Law360 ] * Supervisor ordered immigration judge to reverse…",
-          "published": "2026-10-26T12:54:00.000Z"
+          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. *** The Supreme Court will soon consider whether to review the U.S. Court of…",
+          "published": "2026-10-23T14:00:00.000Z"
         },
         {
-          "title": "Law Firm Leaks See Generally",
-          "link": "https://abovethelaw.com/2026/10/law-firm-leaks-see-generally/",
-          "source": "Above the Law",
+          "title": "Chief Justice John Roberts’ long game on executive power",
+          "link": "https://www.scotusblog.com/2026/10/chief-justice-john-roberts-long-game-on-executive-power/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Forwarding Fail: Freshfields global managing partner accidentally forwarded a thread about spinning off the firm's AI unit. AI keeps exposing cyber vulnerabilities... even when they're between the keyboard and the chair. Weil They Ever…",
-          "published": "2026-10-25T23:55:00.000Z"
+          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. *** One of Chief Justice John Roberts’ most enduring commitments has been to…",
+          "published": "2026-10-23T13:30:00.000Z"
         },
         {
-          "title": "The Cheese Stands Alone And By Cheese, We Mean Weil See Also",
-          "link": "https://abovethelaw.com/2026/10/the-cheese-stands-alone-and-by-cheese-we-mean-weil-see-also/",
-          "source": "Above the Law",
+          "title": "The interim docket remains active",
+          "link": "https://www.scotusblog.com/2026/10/the-interim-docket-remains-active/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Weil You Look At That! : Weil and Willkie flirted with a merger, but it's not to be . Footnotes And Footballs : Law student joins law review... and football team . Long Live The Billable Hour : AI isn't reducing the time lawyers are…",
-          "published": "2026-10-23T22:26:00.000Z"
+          "snippet": "Plus, how recent Supreme Court rulings are shaping the midterm elections.",
+          "published": "2026-10-23T13:00:00.000Z"
         },
         {
-          "title": "He Created The World’s Most Famous Fictional Lawyer And Freed Real Innocent People",
-          "link": "https://abovethelaw.com/2026/10/he-created-the-worlds-most-famous-fictional-lawyer-and-freed-real-innocent-men/",
-          "source": "Above the Law",
+          "title": "Supreme Court allows New Hampshire to restrict use of student IDs in voting",
+          "link": "https://www.scotusblog.com/2026/10/supreme-court-allows-new-hampshire-to-restrict-use-of-student-ids-in-voting/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "A self-taught trial attorney who became the best-selling author of his century. The post He Created The World’s Most Famous Fictional Lawyer And Freed Real Innocent People appeared first on Above the Law .",
-          "published": "2026-10-23T22:04:00.000Z"
+          "snippet": "The Supreme Court on Thursday afternoon cleared the way for New Hampshire to bar the use of student IDs as the valid photo ID required to obtain a ballot there. In a brief, unsigned order , the justices paused a ruling by a federal judge…",
+          "published": "2026-10-23T00:16:08.000Z"
         },
         {
-          "title": "Over 80 Percent Of Citations Fictitious, Erroneous, or Irrelevant In Trump Admin Brief",
-          "link": "https://abovethelaw.com/2026/10/over-80-percent-of-citations-fictitious-erroneous-or-irrelevant-in-trump-admin-brief/",
-          "source": "Above the Law",
+          "title": "Trump administration and Texas urge court to leave their agreement on deportation proceedings in place",
+          "link": "https://www.scotusblog.com/2026/10/trump-administration-and-texas-urge-court-to-leave-their-agreement-on-deportation-proceedings-in/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Labor board politely suggested RFK Jr shouldn't let a chatbot write the brief. The post Over 80 Percent Of Citations Fictitious, Erroneous, or Irrelevant In Trump Admin Brief appeared first on Above the Law .",
-          "published": "2026-10-23T21:36:00.000Z"
+          "snippet": "The Trump administration and Texas urged the Supreme Court on Thursday afternoon to leave in place their consent agreement abolishing a Biden-era regulation that had allowed immigration judges to suspend some deportation proceedings. U.S.…",
+          "published": "2026-10-22T21:58:55.000Z"
         },
         {
-          "title": "The Cold Reality Of The 22nd Amendment Enters The Chat",
-          "link": "https://abovethelaw.com/2026/10/the-cold-reality-of-the-22nd-amendment-enters-the-chat/",
-          "source": "Above the Law",
+          "title": "When denying a stay denies the rule of international law",
+          "link": "https://www.scotusblog.com/2026/10/when-denying-a-stay-denies-the-rule-of-international-law/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Hey! Look at that! The president might recognize some constitutional limit to his quest for power. The post The Cold Reality Of The 22nd Amendment Enters The Chat appeared first on Above the Law .",
-          "published": "2026-10-23T20:44:00.000Z"
+          "snippet": "Just as the 2026-27 term was getting underway, the Supreme Court once more sided with the Trump administration with a stay order in what has been variously called the emergency, shadow, interim, or equity docket . The case, Department of…",
+          "published": "2026-10-22T14:00:00.000Z"
         },
         {
-          "title": "How Appealing Weekly Roundup",
-          "link": "https://abovethelaw.com/2026/10/how-appealing-weekly-roundup-191/",
-          "source": "Above the Law",
+          "title": "The Mahmoud Khalil and Badar Khan Suri cases: an explainer",
+          "link": "https://www.scotusblog.com/2026/10/the-mahmoud-khalil-and-badar-khan-suri-cases-an-explainer/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The week in appellate news. The post How Appealing Weekly Roundup appeared first on Above the Law .",
-          "published": "2026-10-23T20:12:00.000Z"
+          "snippet": "During the early months of President Donald Trump’s second term, the federal government detained and sought to deport several students and academics because of their support for Palestine. The Supreme Court could soon take up the cases of…",
+          "published": "2026-10-22T13:30:00.000Z"
         },
         {
-          "title": "Advanced Internal Linking Strategies To Dominate Search",
-          "link": "https://abovethelaw.com/2026/10/advanced-internal-linking-strategies-to-dominate-search/",
-          "source": "Above the Law",
+          "title": "Border wall dispute arrives on interim docket",
+          "link": "https://www.scotusblog.com/2026/10/border-wall-dispute-arrives-on-interim-docket/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "The quantity and quality of the pages you are linking both matter. The post Advanced Internal Linking Strategies To Dominate Search appeared first on Above the Law .",
-          "published": "2026-10-23T19:44:00.000Z"
+          "snippet": "Plus, the justices may soon be faced with a case on the future of the Colorado River.",
+          "published": "2026-10-22T13:00:00.000Z"
         },
         {
-          "title": "ICE Officers Who Ran Over Man Were Trying To Arrest Someone Who Had Been Dead For Years",
-          "link": "https://abovethelaw.com/2026/10/ice-officers-who-ran-over-man-were-trying-to-arrest-someone-who-had-been-dead-for-years/",
-          "source": "Above the Law",
+          "title": "Trump administration asks justices to allow border wall construction to continue",
+          "link": "https://www.scotusblog.com/2026/10/trump-administration-asks-justices-to-allow-border-wall-construction-to-continue/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "From the compounding-our-errors-for-maximum-pain dept The post ICE Officers Who Ran Over Man Were Trying To Arrest Someone Who Had Been Dead For Years appeared first on Above the Law .",
-          "published": "2026-10-23T19:01:00.000Z"
+          "snippet": "The Trump administration returned to the Supreme Court on Wednesday afternoon, asking the justices to allow it to resume construction of its border wall in the Big Bend region of southwestern Texas. U.S. Solicitor General D. John Sauer…",
+          "published": "2026-10-21T23:10:20.000Z"
         },
         {
-          "title": "DOJ Demands Court Cancel Alaska Senate Race Because GOP Voters Too Stupid To Understand Ranked Choice Voting",
-          "link": "https://abovethelaw.com/2026/10/doj-demands-court-cancel-alaska-senate-race-because-gop-voters-too-stupid-to-understand-ranked-choice-voting/",
-          "source": "Above the Law",
+          "title": "Justices leave lower court order in place preventing Trump administration from implementing transgender inmate policy",
+          "link": "https://www.scotusblog.com/2026/10/justices-leave-in-place-lower-court-order-preventing-trump-administration-from-implementing-new-/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Yes, of course this is a Stan Woodward joint. The post DOJ Demands Court Cancel Alaska Senate Race Because GOP Voters Too Stupid To Understand Ranked Choice Voting appeared first on Above the Law .",
-          "published": "2026-10-23T18:33:00.000Z"
+          "snippet": "The Supreme Court on Wednesday left in place an order by a federal judge in Washington, D.C., that prohibits the Federal Bureau of Prisons from enforcing a new policy on healthcare for transgender inmates that would prevent such inmates…",
+          "published": "2026-10-21T15:49:59.000Z"
         },
         {
-          "title": "Trump’s Very Busy Schedule Just Got A Court-Ordered Opening",
-          "link": "https://abovethelaw.com/2026/10/trumps-very-busy-schedule-just-got-a-court-ordered-opening/",
-          "source": "Above the Law",
+          "title": "The court’s third-country removal case has high stakes but will likely be decided on technical grounds",
+          "link": "https://www.scotusblog.com/2026/10/the-courts-third-country-removal-case-has-high-stakes-but-will-likely-be-decided-on-technical-gr/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Turns out you have to show up to your own lawsuit. The post Trump’s Very Busy Schedule Just Got A Court-Ordered Opening appeared first on Above the Law .",
-          "published": "2026-10-23T18:02:00.000Z"
+          "snippet": "For the third time , the Supreme Court will soon hear argument about the federal government’s power to send migrants to countries where they have no ties. And for the third time, the justices are unlikely to focus on what matters most to…",
+          "published": "2026-10-21T14:00:00.000Z"
         },
         {
-          "title": "Lawyers Should Always Expect Something For Professional Courtesies",
-          "link": "https://abovethelaw.com/2026/10/lawyers-should-always-expect-something-for-professional-courtesies/",
-          "source": "Above the Law",
+          "title": "The Supreme Court website, the interim docket, and a whole lot of inside baseball",
+          "link": "https://www.scotusblog.com/2026/10/the-supreme-court-website-the-interim-docket-and-a-whole-lot-of-inside-baseball/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Naturally, there are limits to this philosophy. The post Lawyers Should Always Expect Something For Professional Courtesies appeared first on Above the Law .",
-          "published": "2026-10-23T17:44:00.000Z"
+          "snippet": "It’s been less than three weeks since the Supreme Court’s 2026-27 term officially started, so the first opinion day is likely still months away . But if you navigate to the page on the court’s website where this term’s opinions in argued…",
+          "published": "2026-10-21T13:30:00.000Z"
         },
         {
-          "title": "Law Student Pulls A 4.0, Makes Law Review, Summers In Biglaw… And Walks On To The Football Team",
-          "link": "https://abovethelaw.com/2026/10/law-student-pulls-a-4-0-makes-law-review-summers-in-biglaw-and-walks-on-to-the-football-team/",
-          "source": "Above the Law",
+          "title": "Justice Kagan comments on “deeply conservative” court",
+          "link": "https://www.scotusblog.com/2026/10/justice-kagan-comments-on-deeply-conservative-court/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Most of us were proud just to make it to Civ Pro on time. The post Law Student Pulls A 4.0, Makes Law Review, Summers In Biglaw… And Walks On To The Football Team appeared first on Above the Law .",
-          "published": "2026-10-23T17:01:00.000Z"
+          "snippet": "Plus, the Supreme Court’s next major case on the free exercise of religion.",
+          "published": "2026-10-21T13:00:00.000Z"
         },
         {
-          "title": "ATL’s 17th Annual Legally Themed Halloween Costume Contest",
-          "link": "https://abovethelaw.com/2026/10/atls-17th-annual-legally-themed-halloween-costume-contest/",
-          "source": "Above the Law",
+          "title": "The separation and expansion of powers between Congress and the president",
+          "link": "https://www.scotusblog.com/2026/10/the-separation-and-expansion-of-powers-between-congress-and-the-president/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Have you got what it takes to top the winners of years past? The post ATL’s 17th Annual Legally Themed Halloween Costume Contest appeared first on Above the Law .",
-          "published": "2026-10-23T16:14:00.000Z"
+          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. *** This is the fourth and final part in a series for SCOTUSblog recounting two…",
+          "published": "2026-10-20T14:00:00.000Z"
         },
         {
-          "title": "Saudi Arabia’s Nuclear Program Could Outlive Its Government, So Plan Accordingly",
-          "link": "https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly/",
-          "source": "Above the Law",
+          "title": "The Supreme Court’s next major case on the free exercise of religion",
+          "link": "https://www.scotusblog.com/2026/10/the-supreme-courts-next-major-case-on-the-free-exercise-of-religion/",
+          "source": "SCOTUSblog",
           "category": "legal",
-          "snippet": "Nuclear technology can outlive the strategic assumptions that justified its transfer, two experts caution US lawmakers. The post Saudi Arabia’s Nuclear Program Could Outlive Its Government, So Plan Accordingly appeared first on Above the…",
-          "published": "2026-10-23T15:32:00.000Z"
+          "snippet": "On Nov. 3, the Supreme Court will hear argument in St. Mary Catholic Parish v. Roy . This case raises important questions about how far the court will go in expanding the Constitution’s protections of the free exercise of religion. One of…",
+          "published": "2026-10-20T13:30:00.000Z"
+        },
+        {
+          "title": "Justices grant two significant cases",
+          "link": "https://www.scotusblog.com/2026/10/justices-grant-two-significant-cases/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The cases address race and school admissions and the federal ban on home distilleries.",
+          "published": "2026-10-20T13:00:00.000Z"
+        },
+        {
+          "title": "Supreme Court declines to take up cases on vehicle seizures in Chicago, 9/11 plea disputes, and the president’s removal of National Labor Relations Board members",
+          "link": "https://www.scotusblog.com/2026/10/supreme-court-declines-to-take-up-cases-on-vehicle-seizures-in-chicago-911-plea-disputes-and-the/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "For the second week in a row, Justice Sonia Sotomayor penned a statement regarding the denial of review that was joined by Justice Neil Gorsuch. Sotomayor’s opinion in O’Donnell v. City of Chicago , a challenge to the city’s policy of…",
+          "published": "2026-10-19T17:13:00.000Z"
+        },
+        {
+          "title": "Justices take up case on race and school admissions",
+          "link": "https://www.scotusblog.com/2026/10/justices-take-up-case-on-race-and-school-admissions/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court will hear oral argument early next year in Association for Education Fairness v. Montgomery County Board of Education , a challenge to the process that a Maryland county uses to determine who will be admitted to a group…",
+          "published": "2026-10-19T15:17:17.000Z"
+        },
+        {
+          "title": "Supreme Court agrees to consider federal ban on home distilleries",
+          "link": "https://www.scotusblog.com/2026/10/supreme-court-agrees-to-consider-federal-ban-on-home-distilleries/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court has agreed to weigh in on the constitutionality of an 1868 federal law that imposes a tax on distilled spirits but also bans home distilleries – that is, the at-home production of spirits like bourbon and whiskey. The…",
+          "published": "2026-10-19T14:12:27.000Z"
+        },
+        {
+          "title": "Where the Supreme Court favors Trump on the emergency docket – and where it doesn’t",
+          "link": "https://www.scotusblog.com/2026/10/where-the-supreme-court-favors-trump-on-the-emergency-docket-and-where-it-doesnt/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "In August 2024, the Biden administration asked the Supreme Court to partially lift lower-court injunctions blocking its new Title IX regulations, which expanded protections against sex discrimination in education. The justices refused.…",
+          "published": "2026-10-19T13:30:00.000Z"
+        },
+        {
+          "title": "Trump administration asks SCOTUS to limit lower courts’ power",
+          "link": "https://www.scotusblog.com/2026/10/trump-administration-asks-scotus-to-limit-lower-courts-power/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "John Jay , the first chief justice, was sworn in on this day in 1789. At the Court In a new petition for review , the Trump administration asked the Supreme Court to limit courts’ ability to vacate federal agency actions. For more on the…",
+          "published": "2026-10-19T13:00:00.000Z"
         }
       ]
     }
