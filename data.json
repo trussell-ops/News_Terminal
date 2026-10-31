@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T15:25:19.099Z",
+  "updated": "2026-10-31T19:24:22.733Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
@@ -202,6 +202,38 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+          "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well.…",
+          "published": "2026-10-31T18:40:32.000Z"
+        },
+        {
+          "title": "Happy Pikmin Day Eve",
+          "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the…",
+          "published": "2026-10-31T17:50:12.000Z"
+        },
+        {
+          "title": "I built an AI Tamagotchi before Meta could",
+          "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying…",
+          "published": "2026-10-31T16:05:00.000Z"
+        },
+        {
+          "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+          "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The…",
+          "published": "2026-10-31T15:12:19.000Z"
+        },
+        {
           "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
           "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
           "source": "The Verge",
@@ -306,28 +338,12 @@
           "published": "2026-10-30T21:01:32.000Z"
         },
         {
-          "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast,…",
-          "published": "2026-10-30T20:48:43.000Z"
-        },
-        {
           "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
           "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "People who love AI don't always love telling others they used it.",
           "published": "2026-10-30T20:40:13.000Z"
-        },
-        {
-          "title": "The biggest names in AI are backing a new way to opt out of scraping",
-          "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI…",
-          "published": "2026-10-30T20:26:10.000Z"
         },
         {
           "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
@@ -346,14 +362,6 @@
           "published": "2026-10-30T19:30:52.000Z"
         },
         {
-          "title": "Google s satellite AI server transmits its first response to Earth",
-          "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow…",
-          "published": "2026-10-30T18:21:38.000Z"
-        },
-        {
           "title": "Rare meteorite from Mars gives us a view into its ancient crust",
           "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
           "source": "Ars Technica",
@@ -368,14 +376,6 @@
           "category": "tech",
           "snippet": "Low costs and offline security mean magnetic tape still has a job.",
           "published": "2026-10-30T17:38:19.000Z"
-        },
-        {
-          "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize…",
-          "published": "2026-10-30T17:38:04.000Z"
         },
         {
           "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
