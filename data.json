@@ -1,9 +1,33 @@
 {
-  "updated": "2026-11-04T22:59:31.301Z",
+  "updated": "2026-11-05T03:17:24.950Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Australia's oldest department store David Jones folds after 188 years",
+          "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+          "published": "2026-11-05T00:59:22.000Z"
+        },
+        {
+          "title": "Interest rates expected to rise for first time in over three years",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+          "published": "2026-11-05T00:00:09.000Z"
+        },
+        {
+          "title": "Pound rises to its highest level since the Brexit referendum",
+          "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+          "published": "2026-11-04T23:30:28.000Z"
+        },
         {
           "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
           "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
@@ -19,14 +43,6 @@
           "category": "markets",
           "snippet": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
           "published": "2026-11-04T21:41:15.000Z"
-        },
-        {
-          "title": "Pound rises to its highest level since the Brexit referendum",
-          "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
-          "published": "2026-11-04T21:35:50.000Z"
         },
         {
           "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
@@ -179,22 +195,6 @@
           "category": "markets",
           "snippet": "Homeowners can get tax relief of £3,500 on the money spent on the interstate of a mortgage.",
           "published": "2026-11-03T16:44:20.000Z"
-        },
-        {
-          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-          "published": "2026-11-03T16:19:29.000Z"
-        },
-        {
-          "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-          "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Taco Bell's same-store sales declined as a Cyclospora outbreak tied to lettuce served at its restaurants weighed on traffic.",
-          "published": "2026-11-03T15:19:14.000Z"
         }
       ]
     },
@@ -202,12 +202,44 @@
       "label": "Tech Developments",
       "items": [
         {
+          "title": "X says its updated web app is way faster",
+          "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal…",
+          "published": "2026-11-05T00:25:12.000Z"
+        },
+        {
+          "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+          "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "And what that could mean for physical Switch game costs.",
+          "published": "2026-11-04T22:47:51.000Z"
+        },
+        {
           "title": "Qualcomm is betting big on data centers as smartphone sales sink",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
           "source": "The Verge",
           "category": "tech",
           "snippet": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data…",
           "published": "2026-11-04T22:42:15.000Z"
+        },
+        {
+          "title": "Hackers exploited iOS and Android flaws to infect phones",
+          "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+          "published": "2026-11-04T22:26:49.000Z"
+        },
+        {
+          "title": "Uranium cubes reveal why the German nuclear project failed",
+          "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+          "published": "2026-11-04T21:56:29.000Z"
         },
         {
           "title": "17 better ways Elon Musk could have wasted $446 million",
@@ -322,14 +354,6 @@
           "published": "2026-11-04T18:00:40.000Z"
         },
         {
-          "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-          "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make…",
-          "published": "2026-11-04T18:00:00.000Z"
-        },
-        {
           "title": "Binance says hackers who stole billions in crypto spent months planning heist",
           "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
           "source": "Ars Technica",
@@ -368,36 +392,36 @@
           "category": "tech",
           "snippet": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
           "published": "2026-11-03T20:39:55.000Z"
-        },
-        {
-          "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-          "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
-          "published": "2026-11-03T18:30:27.000Z"
-        },
-        {
-          "title": "Buttons are back and storage is king when it comes to car interiors",
-          "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
-          "published": "2026-11-03T18:19:31.000Z"
-        },
-        {
-          "title": "Google will let schools skip AI tools, but they have to give up search, too",
-          "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Google will offer schools AI tools that purportedly don't give away the answers.",
-          "published": "2026-11-03T17:54:43.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Getting Fired From Biglaw Turned Out To Be A Great Career Move See Also",
+          "link": "https://abovethelaw.com/2026/11/getting-fired-from-biglaw-turned-out-to-be-a-great-career-move-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Welcome To The House : Three years after Biglaw fired her, she's going to be the first Gen Z woman in Congress . Weil Isn’t Even Closed Yet And The Former Partners Have Already Called Their Lawyers: That “orderly” wind-down is getting…",
+          "published": "2026-11-05T00:32:00.000Z"
+        },
+        {
+          "title": "The Biglaw Firm That Rode The Dot-Com Wave All The Way To The Bottom",
+          "link": "https://abovethelaw.com/2026/11/the-biglaw-firm-that-rode-the-dot-com-wave-all-the-way-to-the-bottom/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "It took equity in startups and doubled to 900 lawyers, then vanished when the bubble popped. The post The Biglaw Firm That Rode The Dot-Com Wave All The Way To The Bottom appeared first on Above the Law .",
+          "published": "2026-11-05T00:01:00.000Z"
+        },
+        {
+          "title": "If You Want Business Contacts To Remember You, Consider Giving Gifts In November",
+          "link": "https://abovethelaw.com/2026/11/if-you-want-business-contacts-to-remember-you-consider-giving-gifts-in-november/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "A small change in timing could deliver a better return on investment. The post If You Want Business Contacts To Remember You, Consider Giving Gifts In November appeared first on Above the Law .",
+          "published": "2026-11-04T23:16:00.000Z"
+        },
         {
           "title": "AI Connectors For E-Discovery: Great To Drive, But There Are Speed Limits",
           "link": "https://abovethelaw.com/2026/11/ai-connectors-for-e-discovery-great-to-drive-but-there-are-speed-limits/",
@@ -565,30 +589,6 @@
           "category": "legal",
           "snippet": "The Supreme Court on Tuesday appeared ready to hold that the exclusion of Catholic preschools in Colorado from the state’s universal preschool program violates the First Amendment. After just over two hours of oral argument in St. Mary…",
           "published": "2026-11-03T20:45:36.000Z"
-        },
-        {
-          "title": "Caption Contest: Weil Still Has A Ghost Of A Chance With A ‘Merger’ Partner Like This",
-          "link": "https://abovethelaw.com/2026/10/caption-contest-weil-still-has-a-ghost-of-a-chance-with-a-merger-partner-like-this/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "From white shoe to boo... The post Caption Contest: Weil Still Has A Ghost Of A Chance With A ‘Merger’ Partner Like This appeared first on Above the Law .",
-          "published": "2026-11-03T20:13:00.000Z"
-        },
-        {
-          "title": "Are You Kidding Me Right Now? Federal Judge Asks Trump DOJ Official",
-          "link": "https://abovethelaw.com/2026/11/are-you-kidding-me-right-now-federal-judge-asks-trump-doj-official/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The DOJ breached the court's trust and then tried to play word games. The judge was not pleased. The post Are You Kidding Me Right Now? Federal Judge Asks Trump DOJ Official appeared first on Above the Law .",
-          "published": "2026-11-03T19:32:00.000Z"
-        },
-        {
-          "title": "Winston Taylor Associates Are Getting Milbank Money Eventually",
-          "link": "https://abovethelaw.com/2026/11/winston-taylor-associates-are-getting-milbank-money-eventually/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Seven months late, but who’s counting? The post Winston Taylor Associates Are Getting Milbank Money Eventually appeared first on Above the Law .",
-          "published": "2026-11-03T18:41:00.000Z"
         }
       ]
     }
