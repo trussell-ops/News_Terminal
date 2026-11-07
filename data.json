@@ -1,11 +1,19 @@
 {
-  "updated": "2026-11-07T03:46:11.299Z",
+  "updated": "2026-11-07T16:41:00.342Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+          "title": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
+          "link": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Cosm tickets cost anywhere from $18 for a matinee to around $70 for prime seats or in-demand showings.",
+          "published": "2026-11-07T13:00:01.000Z"
+        },
+        {
+          "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
           "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -187,20 +195,92 @@
           "category": "markets",
           "snippet": "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house.",
           "published": "2026-11-05T14:02:24.000Z"
-        },
-        {
-          "title": "Faisal Islam: How high will interest rates go?",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
-          "published": "2026-11-05T13:17:10.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+          "link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the…",
+          "published": "2026-11-07T16:00:00.000Z"
+        },
+        {
+          "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+          "link": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become…",
+          "published": "2026-11-07T16:00:00.000Z"
+        },
+        {
+          "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+          "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A…",
+          "published": "2026-11-07T15:50:00.000Z"
+        },
+        {
+          "title": "The US let Nvidia sell chips to an empty office in China",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is…",
+          "published": "2026-11-07T15:43:45.000Z"
+        },
+        {
+          "title": "AI broke the cybersecurity world. What’s next?",
+          "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always…",
+          "published": "2026-11-07T15:00:00.000Z"
+        },
+        {
+          "title": "Good riddance, Cybertruck!",
+          "link": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of…",
+          "published": "2026-11-07T14:40:06.000Z"
+        },
+        {
+          "title": "Zelda is back and better than ever",
+          "link": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at…",
+          "published": "2026-11-07T13:49:01.000Z"
+        },
+        {
+          "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new…",
+          "published": "2026-11-07T12:30:00.000Z"
+        },
+        {
+          "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+          "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+          "published": "2026-11-07T12:15:55.000Z"
+        },
+        {
+          "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+          "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+          "published": "2026-11-07T11:00:34.000Z"
+        },
         {
           "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
@@ -226,14 +306,6 @@
           "published": "2026-11-06T23:00:44.000Z"
         },
         {
-          "title": "Starlink Mobile: All the news on SpaceX s major mobile carrier ambitions",
-          "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "SpaceX has declared that it s going to make Starlink Mobile a major mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on…",
-          "published": "2026-11-06T22:45:43.000Z"
-        },
-        {
           "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
           "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
           "source": "Ars Technica",
@@ -248,14 +320,6 @@
           "category": "tech",
           "snippet": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
           "published": "2026-11-06T22:08:47.000Z"
-        },
-        {
-          "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-          "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at…",
-          "published": "2026-11-06T21:50:32.000Z"
         },
         {
           "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -282,14 +346,6 @@
           "published": "2026-11-06T20:05:30.000Z"
         },
         {
-          "title": "All the latest updates on AI data centers",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids,…",
-          "published": "2026-11-06T20:02:22.000Z"
-        },
-        {
           "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
           "link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
           "source": "Ars Technica",
@@ -298,28 +354,12 @@
           "published": "2026-11-06T19:50:18.000Z"
         },
         {
-          "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-          "link": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar…",
-          "published": "2026-11-06T19:47:02.000Z"
-        },
-        {
           "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
           "link": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
           "published": "2026-11-06T19:12:28.000Z"
-        },
-        {
-          "title": "Lame-duck Congress might actually do something: speed up energy projects",
-          "link": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could…",
-          "published": "2026-11-06T18:42:30.000Z"
         },
         {
           "title": "The folks behind John Wick are back with Karōshi trailer",
@@ -338,22 +378,6 @@
           "published": "2026-11-06T18:20:47.000Z"
         },
         {
-          "title": "Meta s Muse AI can create custom spaces for the version of the app you need right now",
-          "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which…",
-          "published": "2026-11-06T18:10:10.000Z"
-        },
-        {
-          "title": "Amazon is now making a Melania Trump TV series",
-          "link": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, is set to debut on November 20th.…",
-          "published": "2026-11-06T17:56:58.000Z"
-        },
-        {
           "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
           "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
           "source": "Ars Technica",
@@ -362,36 +386,12 @@
           "published": "2026-11-06T17:43:02.000Z"
         },
         {
-          "title": "Just about anyone can rent access to White House IP addresses",
-          "link": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings…",
-          "published": "2026-11-06T17:40:06.000Z"
-        },
-        {
           "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
           "link": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Next week, experts will determine if the US has lost its measles elimination status.",
           "published": "2026-11-06T17:06:32.000Z"
-        },
-        {
-          "title": "Could potential AI clones of GTA VI force a quicker official port?",
-          "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "A former Rockstar tech director thinks the developer is facing new time pressures.",
-          "published": "2026-11-06T16:19:12.000Z"
-        },
-        {
-          "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
-          "link": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "It has the best laptop screen we've used, but there may be reasons to wait.",
-          "published": "2026-11-06T15:28:07.000Z"
         }
       ]
     },
