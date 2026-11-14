@@ -1,9 +1,33 @@
 {
-  "updated": "2026-11-13T18:37:12.306Z",
+  "updated": "2026-11-14T00:03:04.750Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+          "published": "2026-11-13T21:14:22.000Z"
+        },
+        {
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+          "published": "2026-11-13T19:53:57.000Z"
+        },
+        {
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+          "published": "2026-11-13T18:36:57.000Z"
+        },
         {
           "title": "Are board games making a comeback this Christmas?",
           "link": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
@@ -13,28 +37,12 @@
           "published": "2026-11-13T18:00:40.000Z"
         },
         {
-          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-          "published": "2026-11-13T17:12:46.000Z"
-        },
-        {
           "title": "What are people emergency stockpiling?",
           "link": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "From cider to candy canes: What people are emergency stockpiling",
           "published": "2026-11-13T16:31:22.000Z"
-        },
-        {
-          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-          "published": "2026-11-13T15:40:08.000Z"
         },
         {
           "title": "Shoplifters 'stealing to order' in Scottish shops",
@@ -187,20 +195,84 @@
           "category": "markets",
           "snippet": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
           "published": "2026-11-12T06:15:36.000Z"
-        },
-        {
-          "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
-          "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
-          "published": "2026-11-11T22:58:11.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "FAA orders third nationwide ground stop in its history",
+          "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+          "published": "2026-11-13T23:17:38.000Z"
+        },
+        {
+          "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+          "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+          "published": "2026-11-13T21:59:01.000Z"
+        },
+        {
+          "title": "FAA ground stop shuts down flights nationwide",
+          "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA…",
+          "published": "2026-11-13T21:38:25.000Z"
+        },
+        {
+          "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+          "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+          "published": "2026-11-13T21:20:47.000Z"
+        },
+        {
+          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address…",
+          "published": "2026-11-13T20:45:10.000Z"
+        },
+        {
+          "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+          "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a…",
+          "published": "2026-11-13T20:30:00.000Z"
+        },
+        {
+          "title": "In elephants, the resilience of communities has its limits",
+          "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+          "published": "2026-11-13T20:03:13.000Z"
+        },
+        {
+          "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+          "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+          "published": "2026-11-13T19:49:16.000Z"
+        },
+        {
+          "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+          "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We…",
+          "published": "2026-11-13T19:14:38.000Z"
+        },
         {
           "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
           "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
@@ -250,11 +322,11 @@
           "published": "2026-11-13T16:26:32.000Z"
         },
         {
-          "title": "Microsoft s massive Outlook outage continues",
+          "title": "Microsoft s massive Outlook outage might be over",
           "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including…",
+          "snippet": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some people (including…",
           "published": "2026-11-13T16:17:11.000Z"
         },
         {
@@ -266,22 +338,6 @@
           "published": "2026-11-13T16:00:00.000Z"
         },
         {
-          "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
-          "link": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Paprika 4 for several…",
-          "published": "2026-11-13T16:00:00.000Z"
-        },
-        {
-          "title": "The best early Black Friday deals you can already shop",
-          "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with…",
-          "published": "2026-11-13T15:49:27.000Z"
-        },
-        {
           "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
           "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
           "source": "Ars Technica",
@@ -290,28 +346,12 @@
           "published": "2026-11-13T15:26:53.000Z"
         },
         {
-          "title": "Apple announces release dates for the first Apple Home Collection smart devices",
-          "link": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery…",
-          "published": "2026-11-13T15:22:14.000Z"
-        },
-        {
           "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
           "link": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
           "source": "Ars Technica",
           "category": "tech",
           "snippet": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
           "published": "2026-11-13T15:09:39.000Z"
-        },
-        {
-          "title": "What s really at stake in the Jensen Huang saga",
-          "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A…",
-          "published": "2026-11-13T14:47:16.000Z"
         },
         {
           "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
@@ -352,52 +392,76 @@
           "category": "tech",
           "snippet": "Men aged 50–69 and at average risk should get PSA screening every two years.",
           "published": "2026-11-12T22:59:51.000Z"
-        },
-        {
-          "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-          "published": "2026-11-12T22:28:47.000Z"
-        },
-        {
-          "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-          "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-          "published": "2026-11-12T19:59:59.000Z"
-        },
-        {
-          "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
-          "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
-          "published": "2026-11-12T19:49:11.000Z"
-        },
-        {
-          "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-          "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-          "published": "2026-11-12T19:23:03.000Z"
-        },
-        {
-          "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-          "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
-          "published": "2026-11-12T19:09:57.000Z"
         }
       ]
     },
     "legal": {
       "label": "Legal Developments",
       "items": [
+        {
+          "title": "Stat(s) Of The Week: An Uneasy Relationship",
+          "link": "https://abovethelaw.com/2026/11/stats-of-the-week-an-uneasy-relationship/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Lawyers may rely on AI, but they don’t quite trust it. The post Stat(s) Of The Week: An Uneasy Relationship appeared first on Above the Law .",
+          "published": "2026-11-13T23:16:00.000Z"
+        },
+        {
+          "title": "AI In Our Courts: Useful Or A Magic 8 Ball?",
+          "link": "https://abovethelaw.com/2026/11/ai-in-our-courts-useful-or-a-magic-8-ball/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The difference between how two judges looked at AI and its use could not be more stark. The post AI In Our Courts: Useful Or A Magic 8 Ball? appeared first on Above the Law .",
+          "published": "2026-11-13T22:35:00.000Z"
+        },
+        {
+          "title": "Many Lawyers Stopped Nickel-And-Diming Clients For Small Expenses",
+          "link": "https://abovethelaw.com/2026/11/many-lawyers-stopped-nickel-and-diming-clients-for-small-expenses/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Tracking these charges may cost more than the amounts ultimately recovered. The post Many Lawyers Stopped Nickel-And-Diming Clients For Small Expenses appeared first on Above the Law .",
+          "published": "2026-11-13T21:44:00.000Z"
+        },
+        {
+          "title": "Federalist Society Judges List Their Hobbies And They re Total Dorks",
+          "link": "https://abovethelaw.com/2026/11/federalist-society-judges-list-their-hobbies-and-theyre-total-dorks/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Conservative judges were asked for their hobbies. They all failed the assignment. The post Federalist Society Judges List Their Hobbies And They re Total Dorks appeared first on Above the Law .",
+          "published": "2026-11-13T21:04:00.000Z"
+        },
+        {
+          "title": "Supreme Court agrees to hear case on Trump administration’s suspension of asylum",
+          "link": "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-hear-case-on-trump-administrations-suspension-of-asylum/",
+          "source": "SCOTUSblog",
+          "category": "legal",
+          "snippet": "The Supreme Court on Friday agreed to decide whether the Trump administration can suspend access to asylum for immigrants at the U.S.-Mexico border. In a brief list of orders from their private conference earlier in the day, the justices…",
+          "published": "2026-11-13T20:44:18.000Z"
+        },
+        {
+          "title": "DOJ Goes Full Gangster",
+          "link": "https://abovethelaw.com/2026/11/doj-goes-full-gangster/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Oh, you blend! The post DOJ Goes Full Gangster appeared first on Above the Law .",
+          "published": "2026-11-13T20:15:00.000Z"
+        },
+        {
+          "title": "Judge Is Done Playing Nice With DOJ Over The Broadview Six",
+          "link": "https://abovethelaw.com/2026/11/judge-is-done-playing-nice-with-doj-over-the-broadview-six/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The DOJ appears to [sigh] 'believe they are above the law.' The post Judge Is Done Playing Nice With DOJ Over The Broadview Six appeared first on Above the Law .",
+          "published": "2026-11-13T19:32:00.000Z"
+        },
+        {
+          "title": "Cahill’s Chair Insists The Firm Is Strong As Merger Talk Swirls",
+          "link": "https://abovethelaw.com/2026/11/cahills-chair-insists-the-firm-is-strong-as-merger-talk-swirls/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Herb Washer points to high profitability as the firm faces a wave of partner departures. The post Cahill’s Chair Insists The Firm Is Strong As Merger Talk Swirls appeared first on Above the Law .",
+          "published": "2026-11-13T18:41:00.000Z"
+        },
         {
           "title": "Richard Blumenthal Humiliates Grandstanding Texas U.S. Attorney With Remedial Constitutional Law Lesson",
           "link": "https://abovethelaw.com/2026/11/richard-blumenthal-humiliates-grandstanding-texas-u-s-attorney-with-remedial-constitutional-law-lesson/",
@@ -525,70 +589,6 @@
           "category": "legal",
           "snippet": "Another week, another federal judge who’s done taking DOJ at its word. The post Judge Bars DOJ Lawyer From Case, Threatens Default Judgment Over ‘Deliberate Attempt To Mislead The Court’ appeared first on Above the Law .",
           "published": "2026-11-12T19:32:00.000Z"
-        },
-        {
-          "title": "Judge Richard Posner, The Model Of A Scholarly Jurist, Dies At 87",
-          "link": "https://abovethelaw.com/2026/11/judge-richard-posner-the-model-of-a-scholarly-jurist-dies-at-87/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Remembering the Seventh Circuit legend who turned Torts into a math exam and turned an eye drop case into a treatise on Fancy Feast. The post Judge Richard Posner, The Model Of A Scholarly Jurist, Dies At 87 appeared first on Above the…",
-          "published": "2026-11-12T18:49:05.000Z"
-        },
-        {
-          "title": "50 Ways To Do Well In Law School",
-          "link": "https://abovethelaw.com/2026/11/50-ways-to-do-well-in-law-school/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Law school gives you repeated opportunities to improve how you learn and work. Use them. The post 50 Ways To Do Well In Law School appeared first on Above the Law .",
-          "published": "2026-11-12T18:01:00.000Z"
-        },
-        {
-          "title": "Clio Wants To Bring AI To The Judiciary, But 50-State Survey Reveals Policies Differ In Whether They Allow It",
-          "link": "https://www.lawnext.com/2026/11/clio-wants-to-bring-ai-to-the-judiciary-but-50-state-survey-reveals-policies-differ-in-whether-they-allow-it.html",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Are the courthouse doors even open to Clio or any other AI provider? For that matter, are judges even permitted to use AI? The post Clio Wants To Bring AI To The Judiciary, But 50-State Survey Reveals Policies Differ In Whether They Allow…",
-          "published": "2026-11-12T17:17:00.000Z"
-        },
-        {
-          "title": "Simpson Thacher Says Financial Metrics Provide ‘Only A Limited View’ Of A Firm, So Now You Get No View At All",
-          "link": "https://abovethelaw.com/2026/11/simpson-thacher-says-financial-metrics-provide-only-a-limited-view-of-a-firm-so-now-you-get-no-view-at-all/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Simpson Thacher decides $3.55 billion is best kept between friends. The post Simpson Thacher Says Financial Metrics Provide ‘Only A Limited View’ Of A Firm, So Now You Get No View At All appeared first on Above the Law .",
-          "published": "2026-11-12T16:31:00.000Z"
-        },
-        {
-          "title": "A Milbank Match Is Coming For Associates At This Biglaw Firm In February",
-          "link": "https://abovethelaw.com/2026/11/a-milbank-match-is-coming-for-associates-at-this-biglaw-firm-in-february/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "A new advancement structure ties the climb up the salary ladder to performance and hours. The post A Milbank Match Is Coming For Associates At This Biglaw Firm In February appeared first on Above the Law .",
-          "published": "2026-11-12T15:47:00.000Z"
-        },
-        {
-          "title": "What is a discriminatory effect? The Montgomery County case and unpacking when schools may try for racial diversity without using race",
-          "link": "https://www.scotusblog.com/2026/11/what-is-a-discriminatory-effect-the-montgomery-county-case-and-unpacking-when-schools-may-try-fo/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not necessarily reflect the opinions of SCOTUSblog or its staff. *** On Oct. 19, the Supreme Court granted certiorari in Association for…",
-          "published": "2026-11-12T15:30:00.000Z"
-        },
-        {
-          "title": "Democrats’ Midterm Wins Could Reshape Healthcare Access For Underserved Americans",
-          "link": "https://medcitynews.com/2026/11/democrats-midterm-wins-could-reshape-healthcare-access-for-underserved-americans/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Democrats' huge wins last week might mean big changes coming to healthcare across the country, especially in states which flipped blue. How might the shift in power affect affordability, access, and coverage? The post Democrats’ Midterm…",
-          "published": "2026-11-12T15:03:00.000Z"
-        },
-        {
-          "title": "The sometimes straightforward, sometimes befuddling certiorari process",
-          "link": "https://www.scotusblog.com/2026/11/the-sometimes-straightforward-sometimes-befuddling-certiorari-process/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "One of the Supreme Court’s most critical functions is deciding what cases to decide. This process has been explained before, but – given the court is now choosing what cases to hear next term – I’d like to use this column to examine some…",
-          "published": "2026-11-12T15:00:00.000Z"
         }
       ]
     }
