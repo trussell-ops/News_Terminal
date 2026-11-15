@@ -1,11 +1,35 @@
 {
-  "updated": "2026-11-15T02:16:22.646Z",
+  "updated": "2026-11-15T16:42:15.440Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+          "published": "2026-11-15T14:56:21.000Z"
+        },
+        {
+          "title": "Minister backs legal right to job support for young people",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The work and pensions secretary said the level of support currently on offer was too vague.",
+          "published": "2026-11-15T13:06:15.000Z"
+        },
+        {
+          "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+          "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
+          "published": "2026-11-15T13:00:02.000Z"
+        },
+        {
+          "title": "Beauty advent calendars can cost hundreds but are they value for money?",
           "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
@@ -171,36 +195,52 @@
           "category": "markets",
           "snippet": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
           "published": "2026-11-13T01:17:58.000Z"
-        },
-        {
-          "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-          "published": "2026-11-13T00:13:35.000Z"
-        },
-        {
-          "title": "Some under-25s should get fewer benefits, Milburn review to say",
-          "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-          "published": "2026-11-12T22:51:18.000Z"
-        },
-        {
-          "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-          "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
-          "published": "2026-11-12T22:17:05.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+          "link": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitting circle, the…",
+          "published": "2026-11-15T16:00:00.000Z"
+        },
+        {
+          "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+          "link": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "LG s B6E was already one of the most affordable OLED TVs you could buy, but it s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is…",
+          "published": "2026-11-15T14:00:00.000Z"
+        },
+        {
+          "title": "The Sony Aibo was a robot revolution dressed like a dog",
+          "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends;…",
+          "published": "2026-11-15T13:57:30.000Z"
+        },
+        {
+          "title": "An overview of Jensen Huang’s messy days",
+          "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our…",
+          "published": "2026-11-15T13:00:00.000Z"
+        },
+        {
+          "title": "How the world’s fires changed while humanity hit pause",
+          "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+          "published": "2026-11-15T12:07:34.000Z"
+        },
         {
           "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
           "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
@@ -258,22 +298,6 @@
           "published": "2026-11-14T14:18:36.000Z"
         },
         {
-          "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-          "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a…",
-          "published": "2026-11-14T14:00:00.000Z"
-        },
-        {
-          "title": "A gadget to make your dumb house smarter",
-          "link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the…",
-          "published": "2026-11-14T13:00:00.000Z"
-        },
-        {
           "title": "James Webb telescope finds ice older than the star it orbits",
           "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
           "source": "Ars Technica",
@@ -288,22 +312,6 @@
           "category": "tech",
           "snippet": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
           "published": "2026-11-14T12:05:51.000Z"
-        },
-        {
-          "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-          "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their…",
-          "published": "2026-11-14T12:00:00.000Z"
-        },
-        {
-          "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-          "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued,…",
-          "published": "2026-11-14T01:53:04.000Z"
         },
         {
           "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
           "published": "2026-11-13T15:09:39.000Z"
-        },
-        {
-          "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-          "link": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
-          "published": "2026-11-13T14:45:04.000Z"
         }
       ]
     },
