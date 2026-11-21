@@ -1,9 +1,25 @@
 {
-  "updated": "2026-11-20T21:37:28.578Z",
+  "updated": "2026-11-21T02:55:02.752Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+          "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+          "published": "2026-11-20T22:53:24.000Z"
+        },
+        {
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+          "published": "2026-11-20T22:42:47.000Z"
+        },
         {
           "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
           "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
@@ -21,12 +37,12 @@
           "published": "2026-11-20T20:54:12.000Z"
         },
         {
-          "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+          "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
-          "snippet": "Other tech companies have also taken a hit as share markets broadly slump.",
-          "published": "2026-11-20T20:00:53.000Z"
+          "snippet": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+          "published": "2026-11-20T17:49:48.000Z"
         },
         {
           "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
@@ -75,14 +91,6 @@
           "category": "markets",
           "snippet": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
           "published": "2026-11-20T14:43:39.000Z"
-        },
-        {
-          "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-          "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-          "published": "2026-11-20T13:08:30.000Z"
         },
         {
           "title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
@@ -187,20 +195,44 @@
           "category": "markets",
           "snippet": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
           "published": "2026-11-19T19:58:30.000Z"
-        },
-        {
-          "title": "Anthropic raises $81bn in record-breaking stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-          "published": "2026-11-19T15:58:58.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+          "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "FCC preempts state rules that require AT T to keep offering home phone service.",
+          "published": "2026-11-20T22:28:24.000Z"
+        },
+        {
+          "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+          "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+          "published": "2026-11-20T22:16:51.000Z"
+        },
+        {
+          "title": "Google rolls out new search homepage with AI chat history and no search button",
+          "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Google search is making it even easier to access AI tools on the search page.",
+          "published": "2026-11-20T21:58:29.000Z"
+        },
+        {
+          "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+          "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+          "published": "2026-11-20T21:47:10.000Z"
+        },
         {
           "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
           "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
@@ -246,7 +278,7 @@
           "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
           "source": "The Verge",
           "category": "tech",
-          "snippet": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is with immense…",
+          "snippet": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense…",
           "published": "2026-11-20T19:35:06.000Z"
         },
         {
@@ -360,38 +392,6 @@
           "category": "tech",
           "snippet": "Gambling? We're just swapping contracts!",
           "published": "2026-11-20T12:30:29.000Z"
-        },
-        {
-          "title": "Science has a home here at Ars—please help keep it that way",
-          "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Your support for Ars matters more now than ever.",
-          "published": "2026-11-20T12:15:36.000Z"
-        },
-        {
-          "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
-          "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
-          "published": "2026-11-20T12:00:43.000Z"
-        },
-        {
-          "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-          "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Amazon now uses its shopping platform for political purposes.",
-          "published": "2026-11-19T22:16:37.000Z"
-        },
-        {
-          "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-          "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
-          "published": "2026-11-19T21:19:12.000Z"
         }
       ]
     },
@@ -405,6 +405,46 @@
           "category": "legal",
           "snippet": "Following Thanksgiving weekend, the court’s third session of oral arguments for the 2026-27 term will begin (on Monday, November 30, to be exact). This will include some of the biggest cases of the term, including Viramontes v. Cook…",
           "published": "2026-11-21T04:55:00.000Z"
+        },
+        {
+          "title": "Defunding The DOJ While Associates Are Getting Paid See Also",
+          "link": "https://abovethelaw.com/2026/11/free-legal-work-with-capitulation-of-9-participating-law-firms-see-also-2/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The Blue Tsunami Needs A Next Act. How About Defunding The DOJ? Fire Blanche and Patel, or the House stops paying the bills. Bob Giuffra Will Step Down As Sullivan Cromwell Co-Chair, But Don’t Call It The End Of The Firm’s Trump Era: A…",
+          "published": "2026-11-21T00:17:00.000Z"
+        },
+        {
+          "title": "The Billable Hour Wasn’t Invented To Make Biglaw Firms Rich",
+          "link": "https://abovethelaw.com/2026/11/the-billable-hour-wasnt-invented-to-make-biglaw-firms-rich/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The surprising origins of keeping track of lawyerly tasks by 6-minute intervals. The post The Billable Hour Wasn’t Invented To Make Biglaw Firms Rich appeared first on Above the Law .",
+          "published": "2026-11-20T23:46:00.000Z"
+        },
+        {
+          "title": "AI Use Guidelines: It’s Complicated. It’s Also Not A Choice",
+          "link": "https://abovethelaw.com/2026/11/ai-use-guidelines-its-complicated-its-also-not-a-choice/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Having an AI policy isn't enough unless the firm makes it real. The post AI Use Guidelines: It’s Complicated. It’s Also Not A Choice appeared first on Above the Law .",
+          "published": "2026-11-20T23:16:00.000Z"
+        },
+        {
+          "title": "Some Law Firm Names Are Simply Too Long",
+          "link": "https://abovethelaw.com/2026/11/some-law-firm-names-are-simply-too-long/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Meanwhile, over at the law firm of Schwarzenegger, Louis-Dreyfus, Galifianakis, Coster-Waldau Gordon-Levitt, yet another telephone receptionist cracks. The post Some Law Firm Names Are Simply Too Long appeared first on Above the Law .",
+          "published": "2026-11-20T22:45:00.000Z"
+        },
+        {
+          "title": "DOJ Demand To Hide Misconduct Inside Special Master Fails To Impress Judge",
+          "link": "https://abovethelaw.com/2026/11/doj-demand-to-hide-misconduct-inside-special-master-fails-to-impress-judge/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Yes, of course it's Stan Woodward. The post DOJ Demand To Hide Misconduct Inside Special Master Fails To Impress Judge appeared first on Above the Law .",
+          "published": "2026-11-20T22:02:00.000Z"
         },
         {
           "title": "Remarkable Raises And Bountiful Bonuses: The 2026 Associate Compensation Scorecard",
@@ -549,46 +589,6 @@
           "category": "legal",
           "snippet": "No memo, but happy news nonetheless. The post Biglaw Firm Phones In Raises And Special Bonuses (In A Good Way) appeared first on Above the Law .",
           "published": "2026-11-19T22:57:02.000Z"
-        },
-        {
-          "title": "The Settlement Mill Is The Part Of Personal Injury Law Nobody Wants To Talk About",
-          "link": "https://abovethelaw.com/2026/11/the-settlement-mill-is-the-part-of-personal-injury-law-nobody-wants-to-talk-about/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Personal injury lawyers regularly criticize insurers for treating injured people like claim numbers. It's a fair criticism when the evidence supports it. But the same standard should apply to us. The post The Settlement Mill Is The Part…",
-          "published": "2026-11-19T22:35:00.000Z"
-        },
-        {
-          "title": "It s Always Market Compensation In Philadelphia",
-          "link": "https://abovethelaw.com/2026/11/its-always-market-compensation-in-philadelphia/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "The Gang Announces Raises and Bonuses. The post It s Always Market Compensation In Philadelphia appeared first on Above the Law .",
-          "published": "2026-11-19T22:24:05.000Z"
-        },
-        {
-          "title": "The Preprandial Turkey Trot",
-          "link": "https://abovethelaw.com/2026/11/the-preprandial-turkey-trot/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "So many lawyers are doing excellent jobs as turkeys this season that it’s not easy to choose those appropriate for the award. The post The Preprandial Turkey Trot appeared first on Above the Law .",
-          "published": "2026-11-19T21:44:00.000Z"
-        },
-        {
-          "title": "Trump administration withdraws application to Supreme Court to block lower court ruling on protected status for Venezuelan nationals",
-          "link": "https://www.scotusblog.com/2026/11/trump-administration-asks-supreme-court-to-block-lower-court-ruling-keeping-protected-status-in-/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Originally published on Nov. 18; updated with latest developments on Nov. 19 at 4:35 p.m. The battle over the Temporary Protected Status program – which allows foreign nationals to remain in the United States and work here when they…",
-          "published": "2026-11-19T21:35:00.000Z"
-        },
-        {
-          "title": "The Justice Department’s Law School-To-Prosecutor Pipeline Is Raising Alarms",
-          "link": "https://abovethelaw.com/2026/11/the-justice-departments-law-school-to-prosecutor-pipeline-is-raising-alarms/",
-          "source": "Above the Law",
-          "category": "legal",
-          "snippet": "Legal experts warn that inexperienced hires could leave serious crimes unprosecuted. The post The Justice Department’s Law School-To-Prosecutor Pipeline Is Raising Alarms appeared first on Above the Law .",
-          "published": "2026-11-19T21:11:56.000Z"
         }
       ]
     }
