@@ -1,9 +1,25 @@
 {
-  "updated": "2026-11-21T02:55:02.752Z",
+  "updated": "2026-11-21T17:42:18.236Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
+        {
+          "title": "Sessions offer advice on rising energy costs",
+          "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "A council is urging people to seek support with rising energy costs on heating this winter.",
+          "published": "2026-11-21T12:09:49.000Z"
+        },
+        {
+          "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+          "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+          "published": "2026-11-21T12:00:01.000Z"
+        },
         {
           "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
           "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
@@ -133,14 +149,6 @@
           "published": "2026-11-20T06:19:25.000Z"
         },
         {
-          "title": "Survey reveals 'major increase' in cost of living",
-          "link": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "More than two thirds of respondents reported noticing rises in the cost of living.",
-          "published": "2026-11-20T06:12:28.000Z"
-        },
-        {
           "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
           "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
@@ -187,20 +195,84 @@
           "category": "markets",
           "snippet": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
           "published": "2026-11-19T23:04:30.000Z"
-        },
-        {
-          "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-          "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-          "source": "CNBC Business",
-          "category": "markets",
-          "snippet": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
-          "published": "2026-11-19T19:58:30.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+          "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns,…",
+          "published": "2026-11-21T16:00:00.000Z"
+        },
+        {
+          "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Amazon only announced its first digital photo frame less than a month ago, but it s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off),…",
+          "published": "2026-11-21T16:00:00.000Z"
+        },
+        {
+          "title": "Can Anthropic afford to put safety first?",
+          "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The…",
+          "published": "2026-11-21T15:00:00.000Z"
+        },
+        {
+          "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+          "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail…",
+          "published": "2026-11-21T14:55:28.000Z"
+        },
+        {
+          "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+          "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire,…",
+          "published": "2026-11-21T14:00:00.000Z"
+        },
+        {
+          "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+          "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone…",
+          "published": "2026-11-21T13:00:00.000Z"
+        },
+        {
+          "title": "The game of the year is finally here",
+          "link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the…",
+          "published": "2026-11-21T13:00:00.000Z"
+        },
+        {
+          "title": "“Race realism” isn’t realistic—and it isn’t good science",
+          "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Modern genetics does not support claims of innate racial differences in intelligence.",
+          "published": "2026-11-21T12:01:13.000Z"
+        },
+        {
+          "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+          "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300…",
+          "published": "2026-11-21T12:00:00.000Z"
+        },
         {
           "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
           "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
@@ -290,70 +362,6 @@
           "published": "2026-11-20T19:21:50.000Z"
         },
         {
-          "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-          "link": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its…",
-          "published": "2026-11-20T19:15:00.000Z"
-        },
-        {
-          "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-          "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to…",
-          "published": "2026-11-20T18:50:19.000Z"
-        },
-        {
-          "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-          "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying…",
-          "published": "2026-11-20T18:15:00.000Z"
-        },
-        {
-          "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-          "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app…",
-          "published": "2026-11-20T18:00:00.000Z"
-        },
-        {
-          "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
-          "link": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple…",
-          "published": "2026-11-20T17:33:59.000Z"
-        },
-        {
-          "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
-          "link": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray.…",
-          "published": "2026-11-20T17:05:52.000Z"
-        },
-        {
-          "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "Anthropic mathematician Levent Alp ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best…",
-          "published": "2026-11-20T16:34:13.000Z"
-        },
-        {
-          "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-          "link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team…",
-          "published": "2026-11-20T16:22:15.000Z"
-        },
-        {
           "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
           "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
           "source": "Ars Technica",
@@ -384,14 +392,6 @@
           "category": "tech",
           "snippet": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
           "published": "2026-11-20T13:35:45.000Z"
-        },
-        {
-          "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
-          "link": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Gambling? We're just swapping contracts!",
-          "published": "2026-11-20T12:30:29.000Z"
         }
       ]
     },
