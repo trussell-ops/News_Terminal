@@ -1,16 +1,48 @@
 {
-  "updated": "2026-11-24T02:40:37.982Z",
+  "updated": "2026-11-24T13:04:38.143Z",
   "categories": {
     "markets": {
       "label": "Markets & Business",
       "items": [
         {
-          "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+          "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+          "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
+          "published": "2026-11-24T12:57:35.000Z"
+        },
+        {
+          "title": "Some U.S. food banks see demand top pandemic levels",
+          "link": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
+          "source": "CNBC Business",
+          "category": "markets",
+          "snippet": "A combination of high costs and restrictions to federal aid have led to soaring demand at many food banks in the U.S.",
+          "published": "2026-11-24T12:00:01.000Z"
+        },
+        {
+          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
           "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "category": "markets",
           "snippet": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-          "published": "2026-11-24T01:11:54.000Z"
+          "published": "2026-11-24T10:53:37.000Z"
+        },
+        {
+          "title": "The shake-up facing renters as a new kind of landlord emerges",
+          "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "Companies building flats that they then rent out could usher in big changes for renters.",
+          "published": "2026-11-24T00:28:48.000Z"
+        },
+        {
+          "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+          "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "category": "markets",
+          "snippet": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+          "published": "2026-11-24T00:11:08.000Z"
         },
         {
           "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
@@ -163,44 +195,44 @@
           "category": "markets",
           "snippet": "President Macron has blamed the unrest on the radical left, but who are the protesters and what are they fighting for?",
           "published": "2026-11-23T09:25:52.000Z"
-        },
-        {
-          "title": "Witness History",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "In 1994, the agreement that created the World Trade Organization was signed in Morrocco",
-          "published": "2026-11-23T07:00:00.000Z"
-        },
-        {
-          "title": "Househunter swaps Australia for Wales' most affordable town - where locals are struggling to buy",
-          "link": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "The area has attracted investors and even a buyer from Australia, but locals struggle to afford homes.",
-          "published": "2026-11-23T06:03:32.000Z"
-        },
-        {
-          "title": "Energy bills will soar - here's how you can ease the pain",
-          "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
-          "published": "2026-11-23T01:05:07.000Z"
-        },
-        {
-          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "category": "markets",
-          "snippet": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-          "published": "2026-11-23T00:33:36.000Z"
         }
       ]
     },
     "tech": {
       "label": "Tech Developments",
       "items": [
+        {
+          "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+          "link": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+          "source": "The Verge",
+          "category": "tech",
+          "snippet": "Uber's high-stakes robotaxi bet is officially ditching its human safety net. Nuro, Lucid, and Uber are starting fully driverless public road testing in the San Francisco Bay Area, with employee-only rides launching shortly after. First…",
+          "published": "2026-11-24T13:00:00.000Z"
+        },
+        {
+          "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+          "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+          "published": "2026-11-24T12:30:05.000Z"
+        },
+        {
+          "title": "One terminal command gave my forgotten Android device a desk job",
+          "link": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
+          "published": "2026-11-24T12:15:38.000Z"
+        },
+        {
+          "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+          "link": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+          "source": "Ars Technica",
+          "category": "tech",
+          "snippet": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
+          "published": "2026-11-24T12:00:57.000Z"
+        },
         {
           "title": "Google alternative Kagi launches an email service",
           "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
@@ -290,14 +322,6 @@
           "published": "2026-11-23T21:09:37.000Z"
         },
         {
-          "title": "Apple renews Ted Lasso for season 5",
-          "link": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
-          "source": "The Verge",
-          "category": "tech",
-          "snippet": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\"…",
-          "published": "2026-11-23T20:56:00.000Z"
-        },
-        {
           "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
           "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
           "source": "Ars Technica",
@@ -368,30 +392,6 @@
           "category": "tech",
           "snippet": "Three extra screens boost multitasking but can distract and overwhelm.",
           "published": "2026-11-23T12:15:16.000Z"
-        },
-        {
-          "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-          "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
-          "published": "2026-11-23T12:00:00.000Z"
-        },
-        {
-          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
-          "published": "2026-11-22T12:07:41.000Z"
-        },
-        {
-          "title": "Review: Godzilla Minus Zero joins the ranks of truly stellar sequels",
-          "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-          "source": "Ars Technica",
-          "category": "tech",
-          "snippet": "Director Takashi Yamazaki ups the ante, pitting Godzilla against one of the monster's greatest foes.",
-          "published": "2026-11-21T22:12:41.000Z"
         }
       ]
     },
@@ -399,12 +399,132 @@
       "label": "Legal Developments",
       "items": [
         {
+          "title": "Biglaw Kicks Off Thanksgiving Week With Raises See Also",
+          "link": "https://abovethelaw.com/2026/11/biglaw-kicks-off-thanksgiving-week-with-raises-see-also/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Biglaw Firm Rolls Out Market Salaries And A Bonus Scale, With Plenty Of Strings Attached: K L Gates joins the 2027 salary party. Mapping The Weil Diaspora, One Partner At A Time : All the latest partner moves from the wreckage of Weil.…",
+          "published": "2026-11-24T00:13:00.000Z"
+        },
+        {
+          "title": "Breaking Wall Street’s Partner Ceiling Way Back In 1944",
+          "link": "https://abovethelaw.com/2026/11/breaking-wall-streets-partner-ceiling-way-back-in-1944/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Before she taught at Harvard Law, she made Biglaw history. The post Breaking Wall Street’s Partner Ceiling Way Back In 1944 appeared first on Above the Law .",
+          "published": "2026-11-23T23:32:00.000Z"
+        },
+        {
+          "title": "Is Trump Ever To Blame? Should You Trust Him Or Our Enemies?",
+          "link": "https://abovethelaw.com/2026/11/is-trump-ever-to-blame-should-you-trust-him-or-our-enemies/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Fortunately, enough data points exist to reach a conclusion. The post Is Trump Ever To Blame? Should You Trust Him Or Our Enemies? appeared first on Above the Law .",
+          "published": "2026-11-23T22:45:00.000Z"
+        },
+        {
+          "title": "The GC’s Superpower Is Changing Altitude",
+          "link": "https://abovethelaw.com/2026/11/the-gcs-superpower-is-changing-altitude/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "An executive interpretation that cannot survive contact with an actual matter needs revision. The post The GC’s Superpower Is Changing Altitude appeared first on Above the Law .",
+          "published": "2026-11-23T22:02:00.000Z"
+        },
+        {
+          "title": "Unhinged Pizza Threats Against Judges Continue To Go Unpunished",
+          "link": "https://abovethelaw.com/2026/11/unhinged-pizza-threats-against-judges-continue-to-go-unpunished/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Sen. Cory Booker says Congress should bring investigators before the Judiciary Committee to explain why. The post Unhinged Pizza Threats Against Judges Continue To Go Unpunished appeared first on Above the Law .",
+          "published": "2026-11-23T21:14:00.000Z"
+        },
+        {
+          "title": "Orrick Matches Cravath On Raises And Bonuses, Translated From Orrick-Speak",
+          "link": "https://abovethelaw.com/2026/11/orrick-matches-cravath-on-raises-and-bonuses-translated-from-orrick-speak/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Senior Associate Level 2+ is Orrick for 'eighth-year' for some reason. The post Orrick Matches Cravath On Raises And Bonuses, Translated From Orrick-Speak appeared first on Above the Law .",
+          "published": "2026-11-23T20:57:29.000Z"
+        },
+        {
+          "title": "The Trump DOJ Pushed Out Its Best Lawyers, Now They Want Jobs Investigating It",
+          "link": "https://abovethelaw.com/2026/11/the-trump-doj-pushed-out-its-best-lawyers-now-they-want-jobs-investigating-it/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The call is coming from inside the house... or at least from people who used to work there. The post The Trump DOJ Pushed Out Its Best Lawyers, Now They Want Jobs Investigating It appeared first on Above the Law .",
+          "published": "2026-11-23T20:33:00.000Z"
+        },
+        {
+          "title": "Trump’s Sparklemagic Lawyer Informs Friendly Judge That His Order Is More Of A Suggestion",
+          "link": "https://abovethelaw.com/2026/11/trumps-sparklemagic-lawyer-informs-friendly-judge-that-his-order-is-more-of-a-suggestion/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Making the plaintiff sit for a depo? How dare you! The post Trump’s Sparklemagic Lawyer Informs Friendly Judge That His Order Is More Of A Suggestion appeared first on Above the Law .",
+          "published": "2026-11-23T19:42:00.000Z"
+        },
+        {
+          "title": "Sam Alito Jokes About AI Brain Upload Staying On Supreme Court Forever",
+          "link": "https://abovethelaw.com/2026/11/sam-alito-jokes-about-ai-brain-upload-staying-on-supreme-court-forever/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The unfunny premise is that he really does see his job as a divine right. The post Sam Alito Jokes About AI Brain Upload Staying On Supreme Court Forever appeared first on Above the Law .",
+          "published": "2026-11-23T19:02:00.000Z"
+        },
+        {
+          "title": "The 2027 Law Firm Pulse Report: An In-House View",
+          "link": "https://abovethelaw.com/2026/11/the-2027-law-firm-pulse-report-an-in-house-view/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "[Sponsored] 750 legal leaders at $1B+ companies weigh in on law firm rates, AI adoption, and the growth of insourcing. The post The 2027 Law Firm Pulse Report: An In-House View appeared first on Above the Law .",
+          "published": "2026-11-23T18:15:00.000Z"
+        },
+        {
+          "title": "Biglaw Firm Moves Associates To The ‘Cravath Scale’ If They Hit Their Hours",
+          "link": "https://abovethelaw.com/2026/11/biglaw-firm-moves-associates-to-the-cravath-scale-if-they-hit-their-hours/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Around here, we call it the Milbank scale. The post Biglaw Firm Moves Associates To The ‘Cravath Scale’ If They Hit Their Hours appeared first on Above the Law .",
+          "published": "2026-11-23T17:28:56.000Z"
+        },
+        {
+          "title": "Elite Litigation Boutique Pays Bonuses Up To $187.5K",
+          "link": "https://abovethelaw.com/2026/11/elite-litigation-boutique-pays-bonuses-up-to-187-5k-in-a-single-quarter/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "It’s the firm's fourth bonus round this year, and everyone is getting a cut. The post Elite Litigation Boutique Pays Bonuses Up To $187.5K appeared first on Above the Law .",
+          "published": "2026-11-23T16:51:48.000Z"
+        },
+        {
+          "title": "Legal Ethics Roundup: DOJ Shuns ABA Ethics Rules, New Opinion On Client Fraud, Katie Zacharia Bar Probe, SCOTUS Reform, Multijurisdictional Practice, Judicial Disclosures, AI Ethics Tracker More",
+          "link": "https://abovethelaw.com/2026/11/legal-ethics-roundup-doj-shuns-aba-ethics-rules-new-opinion-on-client-fraud-katie-zacharia-bar-probe-scotus-reform-multijurisdictional-practice-judicial-disclosures-ai-ethics-tracker-more/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson. The post Legal Ethics Roundup: DOJ Shuns ABA Ethics Rules, New Opinion On Client Fraud, Katie Zacharia Bar…",
+          "published": "2026-11-23T16:37:45.000Z"
+        },
+        {
+          "title": "The Latest Moves In The Weil Diaspora",
+          "link": "https://abovethelaw.com/2026/11/mapping-the-weil-diaspora-one-partner-at-a-time/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "All those partners are going to wind up somewhere. The post The Latest Moves In The Weil Diaspora appeared first on Above the Law .",
+          "published": "2026-11-23T15:46:45.000Z"
+        },
+        {
           "title": "The Second Amendment and an \"unusually dangerous\" approach to dicta",
           "link": "https://www.scotusblog.com/2026/11/the-second-amendment-and-an-unusually-dangerous-approach-to-dicta/",
           "source": "SCOTUSblog",
           "category": "legal",
           "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not reflect the opinions of SCOTUSblog or its staff. *** On November 10, The New York Times published an article suggesting that a major piece of…",
           "published": "2026-11-23T15:30:00.000Z"
+        },
+        {
+          "title": "EU Charges Temu Over Illegal Product Sales",
+          "link": "https://fashionista.com/2026/11/footwear-brands-rising-costs",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "The European Commission has charged Temu with failing to do enough to stop sales of illegal products on its platform. The post EU Charges Temu Over Illegal Product Sales appeared first on Above the Law .",
+          "published": "2026-11-23T15:03:00.000Z"
         },
         {
           "title": "Justice Ketanji Brown Jackson and the arc of the law",
@@ -431,6 +551,22 @@
           "published": "2026-11-23T14:00:00.000Z"
         },
         {
+          "title": "Morning Docket: 11.23.26",
+          "link": "https://abovethelaw.com/2026/11/morning-docket-11-23-26/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "* DOJ orders prosecutors to stop citing ABA resources. They'd already gotten a head start ignoring the model rules. [ Raw Story ] * Fifth Circuit rules that the federal government didn't exist during COVID... but only for the laws the…",
+          "published": "2026-11-23T13:58:00.000Z"
+        },
+        {
+          "title": "The Money Train See Generally",
+          "link": "https://abovethelaw.com/2026/11/the-money-train-see-generally/",
+          "source": "Above the Law",
+          "category": "legal",
+          "snippet": "Cravath, Swaine More: Cravath unveiled its new salary scale running from $235,000 to $440,000 and special bonuses of up to $40,000, topping Milbank's numbers (though Milbank's been paying for months at this point). Scoreboard : Check out…",
+          "published": "2026-11-23T00:02:54.000Z"
+        },
+        {
           "title": "The next round of Supreme Court forecasts",
           "link": "https://www.scotusblog.com/2026/11/the-next-round-of-supreme-court-forecasts/",
           "source": "SCOTUSblog",
@@ -439,156 +575,20 @@
           "published": "2026-11-21T04:55:00.000Z"
         },
         {
-          "title": "Criminal law is constitutional law",
-          "link": "https://www.scotusblog.com/2026/11/criminal-law-is-constitutional-law/",
-          "source": "SCOTUSblog",
+          "title": "Defunding The DOJ While Associates Are Getting Paid See Also",
+          "link": "https://abovethelaw.com/2026/11/free-legal-work-with-capitulation-of-9-participating-law-firms-see-also-2/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "With arguments over the Second Amendment and the Excessive Fines Clause on the near horizon, this column seeks to provide some tranquil and more generalized ideas – a moment of Thanksgiving holiday respite. Whether you are a Supreme Court…",
-          "published": "2026-11-20T15:00:00.000Z"
+          "snippet": "The Blue Tsunami Needs A Next Act. How About Defunding The DOJ? Fire Blanche and Patel, or the House stops paying the bills. Bob Giuffra Will Step Down As Sullivan Cromwell Co-Chair, But Don’t Call It The End Of The Firm’s Trump Era: A…",
+          "published": "2026-11-21T00:17:00.000Z"
         },
         {
-          "title": "Even justices have regrets",
-          "link": "https://www.scotusblog.com/2026/11/even-justices-have-regrets/",
-          "source": "SCOTUSblog",
+          "title": "The Billable Hour Wasn’t Invented To Make Biglaw Firms Rich",
+          "link": "https://abovethelaw.com/2026/11/the-billable-hour-wasnt-invented-to-make-biglaw-firms-rich/",
+          "source": "Above the Law",
           "category": "legal",
-          "snippet": "In June 2023, the court decided Students for Fair Admissions, Inc. v. University of North Carolina , holding that race-conscious admissions at Harvard and the University of North Carolina violated the Constitution. Chief Justice John…",
-          "published": "2026-11-20T14:30:00.000Z"
-        },
-        {
-          "title": "Trump administration brings climate grant dispute to SCOTUS",
-          "link": "https://www.scotusblog.com/2026/11/trump-administration-brings-climate-grant-dispute-to-scotus/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "But the administration withdrew an interim docket request.",
-          "published": "2026-11-20T14:00:00.000Z"
-        },
-        {
-          "title": "Trump administration withdraws application to Supreme Court to block lower court ruling on protected status for Venezuelan nationals",
-          "link": "https://www.scotusblog.com/2026/11/trump-administration-asks-supreme-court-to-block-lower-court-ruling-keeping-protected-status-in-/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Originally published on Nov. 18; updated with latest developments on Nov. 19 at 4:35 p.m. The battle over the Temporary Protected Status program – which allows foreign nationals to remain in the United States and work here when they…",
-          "published": "2026-11-19T21:35:00.000Z"
-        },
-        {
-          "title": "Calls for court packing fail the test of history",
-          "link": "https://www.scotusblog.com/2026/11/calls-for-court-packing-fail-the-test-of-history/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Please note that SCOTUS Outside Opinions constitute the views of outside contributors and do not reflect the opinions of SCOTUSblog or its staff. *** As Democrats have taken control in Congress, we can expect calls for court packing to…",
-          "published": "2026-11-19T15:00:00.000Z"
-        },
-        {
-          "title": "Five major issues that may still make it onto this term’s oral argument docket",
-          "link": "https://www.scotusblog.com/2026/11/five-major-issues-that-may-still-make-it-onto-this-terms-oral-argument-docket/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Time is running out for the justices to add cases to this term’s oral argument docket . Under the Supreme Court’s typical briefing schedule , a case must be granted by mid-January to be briefed in time for the final argument session,…",
-          "published": "2026-11-19T14:30:00.000Z"
-        },
-        {
-          "title": "The Supreme Court and congressional investigations",
-          "link": "https://www.scotusblog.com/2026/11/the-supreme-court-and-congressional-investigations/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, will the Supreme Court take up this Top Gun-related case?",
-          "published": "2026-11-19T14:00:00.000Z"
-        },
-        {
-          "title": "The Supreme Court before it stood apart",
-          "link": "https://www.scotusblog.com/2026/11/the-supreme-court-before-it-stood-apart/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Political Supreme Court: A Forgotten History by Rachel A. Shelden (The University of North Carolina Press) *** In her excellent new book, The Political Supreme Court: A Forgotten History , professor Rachel Shelden closes with Chief…",
-          "published": "2026-11-18T15:00:00.000Z"
-        },
-        {
-          "title": "An election impact on the Supreme Court’s immigration docket",
-          "link": "https://www.scotusblog.com/2026/11/an-election-impact-on-the-supreme-courts-immigration-docket/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The effect of this month’s elections is likely to impact immigration policy over the coming years as politicians and political analysts assess how reactions to the Trump administration’s immigration law enforcement tactics affected…",
-          "published": "2026-11-18T14:30:00.000Z"
-        },
-        {
-          "title": "All eyes on the justices’ next private conference",
-          "link": "https://www.scotusblog.com/2026/11/all-eyes-on-the-justices-next-private-conference/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, the latest on Lisa Cook.",
-          "published": "2026-11-18T14:00:00.000Z"
-        },
-        {
-          "title": "Justices to consider disputes over transgender servicemembers, E. Jean Carroll’s jury award, and acting U.S. attorneys at next private conference",
-          "link": "https://www.scotusblog.com/2026/11/justices-to-consider-disputes-over-transgender-servicemembers-e-jean-carrolls-jury-award-and-act/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The justices of the Supreme Court aren’t scheduled to meet for a private conference – and vote on new petitions for review – for two-and-a-half weeks. But when they do, on Friday, Dec. 4, they will have a number of high-profile cases to…",
-          "published": "2026-11-17T20:41:00.000Z"
-        },
-        {
-          "title": "Mandatory detention arrives at the Supreme Court – though not all at once",
-          "link": "https://www.scotusblog.com/2026/11/mandatory-detention-arrives-at-the-supreme-court-though-not-all-at-once/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "On Oct. 1, the Supreme Court took up a question of considerable importance: whether the Trump administration may continue to detain noncitizens without a bond hearing. This question now sits at the court in two pieces: a statutory…",
-          "published": "2026-11-17T15:00:00.000Z"
-        },
-        {
-          "title": "Treating the free exercise of religion and equal protection differently",
-          "link": "https://www.scotusblog.com/2026/11/treating-the-free-exercise-of-religion-and-equal-protection-differently/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Two of the most enduring rights in the Constitution are the First Amendment’s protections of the free exercise of religion and the 14th Amendment’s equal protection clause. Should the court’s approach to these rights vary? Specifically,…",
-          "published": "2026-11-17T14:30:00.000Z"
-        },
-        {
-          "title": "Key takeaways from Monday’s order list",
-          "link": "https://www.scotusblog.com/2026/11/key-takeaways-from-mondays-order-list/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Plus, Justice Alito, the executive, and the emergency docket.",
-          "published": "2026-11-17T14:00:00.000Z"
-        },
-        {
-          "title": "Supreme Court turns down DEI-related disputes and Second Amendment challenge to gun bans in “sensitive places”",
-          "link": "https://www.scotusblog.com/2026/11/supreme-court-turns-down-dei-related-disputes-and-second-amendment-challenge-to-gun-bans-in-sens/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Monday denied review in several notable cases, including a clash between the Trump administration and University of California scholars over cuts to research funding; a California ophthalmologist’s challenge to…",
-          "published": "2026-11-16T18:30:00.000Z"
-        },
-        {
-          "title": "Listening to the past",
-          "link": "https://www.scotusblog.com/2026/11/listening-to-the-past/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Originalism sometimes requires judges to sift a historical record to determine what the law is. That is because it holds that we should give the Constitution its original meaning, and the text of the Constitution does not always make that…",
-          "published": "2026-11-16T15:00:00.000Z"
-        },
-        {
-          "title": "“I’m afraid this is going to continue”: Justice Alito, the executive, and the emergency docket",
-          "link": "https://www.scotusblog.com/2026/11/im-afraid-this-is-going-to-continue-justice-alito-the-executive-and-the-emergency-docket/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "Justice Samuel Alito sat for an interview with the Associated Press in early October about his new book, “ So Ordered .” In the book and the interview, he made three claims about the court’s emergency docket. First, applications on it now…",
-          "published": "2026-11-16T14:30:00.000Z"
-        },
-        {
-          "title": "SCOTUS grants asylum ban case",
-          "link": "https://www.scotusblog.com/2026/11/scotus-grants-asylum-ban-case/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "More orders from Friday’s conference are expected this morning.",
-          "published": "2026-11-16T14:00:00.000Z"
-        },
-        {
-          "title": "Supreme Court agrees to hear case on Trump administration’s suspension of asylum",
-          "link": "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-hear-case-on-trump-administrations-suspension-of-asylum/",
-          "source": "SCOTUSblog",
-          "category": "legal",
-          "snippet": "The Supreme Court on Friday agreed to decide whether the Trump administration can suspend access to asylum for immigrants at the U.S.-Mexico border. In a brief list of orders from their private conference earlier in the day, the justices…",
-          "published": "2026-11-13T20:44:18.000Z"
+          "snippet": "The surprising origins of keeping track of lawyerly tasks by 6-minute intervals. The post The Billable Hour Wasn’t Invented To Make Biglaw Firms Rich appeared first on Above the Law .",
+          "published": "2026-11-20T23:46:00.000Z"
         }
       ]
     }
